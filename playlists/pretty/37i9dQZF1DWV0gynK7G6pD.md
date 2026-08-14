@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Bruce Liu
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,949 likes - 92 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,959 likes - 92 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 91 | [Pièces de clavecin, Livre I: No\. 13, Rondeau en do](https://open.spotify.com/track/5M2Lwk2HTfKUlTnwrbxnwb) | [Jacques Duphly](https://open.spotify.com/artist/4xNWxGw10GFm8PuzKbzCxb), [Iori Hayashi](https://open.spotify.com/artist/5F9UgnaDlBqXccdWaR0Inb) | [Duphly: Pièces de clavecin, Livre I, No\. 13, Rondeau en do](https://open.spotify.com/album/1XZwlYmc0E8lo9CQm9okPO) | 5:26 |
 | 92 | [Abril Floreciente](https://open.spotify.com/track/4aoCNQFQcTNxLUTM2vr6jp) | [Sebastián Durón](https://open.spotify.com/artist/6944rd7x26dRMIFDHOFPFK), [Opera Omnia](https://open.spotify.com/artist/1oZE8de3zT8DP52wOjb68J), [Isaac M\. Pulet](https://open.spotify.com/artist/0RKxRVHO0E5RoPBctsiBzN) | [Abril Floreciente](https://open.spotify.com/album/5qMIhqIS1Lrzab9Y4SwphP) | 3:46 |
 
-Snapshot ID: `AAAAAFg7zRXPVvPinJglKnRtAwSm4kQy`
+Snapshot ID: `AAAAAF+VDwet7R5vbkz4j8NSoRFTWXx0`

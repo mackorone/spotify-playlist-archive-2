@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,686 songs - 10 day 11 hr 57 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,689 songs - 10 day 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4694,5 +4694,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4684 | [Electrifying](https://open.spotify.com/track/1YRKoosj9yh5391ksDhCx3) | [The Rift](https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP) | [Electrifying](https://open.spotify.com/album/2O5k7L9K9KAwkuLMwKtRWG) | 5:43 |
 | 4685 | [hyperstition](https://open.spotify.com/track/5lDryKiJUN4LLh7QkPuaoI) | [Love me machine!](https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f) | [hyperstition](https://open.spotify.com/album/3dZ0DG8dQvDHD1Zjrdj0uH) | 4:48 |
 | 4686 | [Echoes Of Aether](https://open.spotify.com/track/2EOgtXubkshm9MiCFizYHI) | [Sanguira](https://open.spotify.com/artist/6V7rI2im6CabcUrznsNmdv) | [Echoes Of Aether](https://open.spotify.com/album/72o1LWmCp60Irn8pygPCmD) | 3:09 |
+| 4687 | [Circle](https://open.spotify.com/track/1ZAaAQIEdyjVsLksHQ4OsF) | [I](https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR) | [volume 1](https://open.spotify.com/album/32rJQIOwi05ntcM63HrBMv) | 3:54 |
+| 4688 | [Desde Que Te Vi](https://open.spotify.com/track/7fxlAkBJCSOt7DbzQmcNgU) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Desde Que Te Vi](https://open.spotify.com/album/3EkwZkINxtxuouw9GX8yJ3) | 4:16 |
+| 4689 | [Riempimi la vita](https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Riempimi la vita](https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH) | 4:20 |
 
-Snapshot ID: `AAAJpY4CcrYDsvOSeuIerfJ6xpS/9atM`
+Snapshot ID: `AAAJqKdxV8ZBxD6joUjPHst4hnJXPH2A`

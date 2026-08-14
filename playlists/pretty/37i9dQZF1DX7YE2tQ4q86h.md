@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > This is what dreams are made of ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,980 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,091 likes - 101 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 100 | [Light as a Feather](https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Light as a Feather](https://open.spotify.com/album/2Bd7Z2Gpsgje6AeP3iAeCy) | 3:36 |
 | 101 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 
-Snapshot ID: `AAAAAKGG1XKmjWthC3sNavvw7E8gtufp`
+Snapshot ID: `AAAAAFq0kcqTzNeVfoUxrKGeSq49cjDC`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: VVV",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Phuwin",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 135813,
       "name": "143",
       "url": "https://open.spotify.com/track/5tkyPx7aCQ9f7N0Y0qmz2v"
@@ -700,6 +700,24 @@
       "duration_ms": 212380,
       "name": "BIRTHDAY BUT WITH ME (From \"\u0e0b\u0e2d\u0e42\u0e0b\u0e48\u0e25\u0e48\u0e32\u0e21\u0e18\u0e35\u0e23\u0e4c\")",
       "url": "https://open.spotify.com/track/7niNkagHSxm3poyNBmlpfp"
+    },
+    {
+      "album": {
+        "name": "Black Card",
+        "url": "https://open.spotify.com/album/5K0pF0NzsAr8ZNO1kJAFKl"
+      },
+      "artists": [
+        {
+          "name": "Phuwin",
+          "url": "https://open.spotify.com/artist/1dDqRhUNUraehCs3aoLks0"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187452,
+      "name": "Black Card",
+      "url": "https://open.spotify.com/track/2pOArEixvNyp85H8yVAScE"
     },
     {
       "album": {
@@ -1655,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "TH-X",
+        "url": "https://open.spotify.com/album/647lfZ16MbbjWRYCvbdf62"
+      },
+      "artists": [
+        {
+          "name": "THX",
+          "url": "https://open.spotify.com/artist/37IoruZVv6afp3q77AFYwB"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242926,
+      "name": "FYI",
+      "url": "https://open.spotify.com/track/1LFfkVLglHhytaZ2olU8I9"
+    },
+    {
+      "album": {
         "name": "GIRLS ERA",
         "url": "https://open.spotify.com/album/0i8okX4CYnO5uMA0AEGylM"
       },
@@ -2326,6 +2362,24 @@
       "duration_ms": 258678,
       "name": "IWBYBF (Original Soundtrack from \"BE MY BOYFRIENDS 2 - ROSE IN DA HOUSE\")",
       "url": "https://open.spotify.com/track/6SVZlcM6bmOeYbiE93Ef53"
+    },
+    {
+      "album": {
+        "name": "I\u2019ve Got You",
+        "url": "https://open.spotify.com/album/08Q8OlJ9N834wPznDgKeDs"
+      },
+      "artists": [
+        {
+          "name": "Peck Palitchoke",
+          "url": "https://open.spotify.com/artist/5rbWOWw5jmpe6zbIHCzMpm"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "I\u2019ve Got You",
+      "url": "https://open.spotify.com/track/6YqIm8zzoDWidId0ZfL8vF"
     },
     {
       "album": {
@@ -3758,6 +3812,28 @@
       "duration_ms": 212601,
       "name": "Red Flag (\u0e25\u0e2d\u0e07\u0e14\u0e39\u0e21\u0e31\u0e49\u0e22?)",
       "url": "https://open.spotify.com/track/3nZf9a9SsqFwuHZBI522qq"
+    },
+    {
+      "album": {
+        "name": "Red Kiss",
+        "url": "https://open.spotify.com/album/0DMyBCldeV3larW5Pxeumf"
+      },
+      "artists": [
+        {
+          "name": "Emi Thasorn",
+          "url": "https://open.spotify.com/artist/3L0pX41yQ7PT7yB3ZfWfgk"
+        },
+        {
+          "name": "Bonnie Pattraphus",
+          "url": "https://open.spotify.com/artist/0coSKlgl5qpnMwtLajRHO1"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225889,
+      "name": "Red Kiss",
+      "url": "https://open.spotify.com/track/61EFvlYvEhIeJ8rsD81Jr9"
     },
     {
       "album": {
@@ -6743,6 +6819,28 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e32\u0e15\u0e32 (KATA)",
+        "url": "https://open.spotify.com/album/6hY2tHJidvqD5pJpZaE54E"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        },
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "\u0e04\u0e32\u0e15\u0e32 (KATA)",
+      "url": "https://open.spotify.com/track/59g67XSLvrQG4AXDGjylK8"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e32\u0e16\u0e32\u0e2b\u0e32\u0e40\u0e18\u0e2d (Horogals)",
         "url": "https://open.spotify.com/album/4F0Tcc9CLuXjzq2SvhQv9F"
       },
@@ -7460,7 +7558,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 247000,
       "name": "\u0e08\u0e33\u0e43\u0e08 (Gone Away)",
       "url": "https://open.spotify.com/track/38Arv4CQ4Gil0Z1VUAl3qb"
@@ -9910,7 +10008,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 211428,
       "name": "\u0e1b\u0e31\u0e01\u0e43\u0e08 (Still) - Ost. \u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time Series",
       "url": "https://open.spotify.com/track/3xgbJWnKccTeGlLFjFeE1Z"
@@ -11914,7 +12012,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 246796,
       "name": "\u0e25\u0e2d\u0e07\u0e01\u0e2d\u0e14 (smoke)",
       "url": "https://open.spotify.com/track/3IRuTNP7lA7H9yad6ArQ8h"
@@ -12784,7 +12882,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 158901,
       "name": "\u0e2b\u0e07\u0e38\u0e14\u0e2b\u0e07\u0e34\u0e14 (tsk)",
       "url": "https://open.spotify.com/track/2pQmtrfkmOCq5cvo4SqYJx"

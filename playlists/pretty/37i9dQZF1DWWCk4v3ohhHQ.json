@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 226809,
+  "num_followers": 226838,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtIPZxtnpWZut5rt3GqXPbmj4ew",
+  "snapshot_id": "AAAAAJGsMdMbHlImZ5odXHD9nTcykzl3",
   "tracks": [
     {
       "added_at": "2024-07-05 23:46:34",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl"
-      },
-      "artists": [
-        {
-          "name": "Sheppard",
-          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
-        }
-      ],
-      "duration_ms": 218385,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "For Your Entertainment",
         "url": "https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 227320,
       "name": "Whataya Want from Me",
       "url": "https://open.spotify.com/track/0zv9bOC2NSMd3Fw2HgM5Xn"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl"
+      },
+      "artists": [
+        {
+          "name": "Sheppard",
+          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+        }
+      ],
+      "duration_ms": 218385,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 222053,
-      "name": "Different Colors",
-      "url": "https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Everything This Way",
         "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 261491,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/0llbJISuonEwIS4hmdaTz1"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 222053,
+      "name": "Different Colors",
+      "url": "https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ"
     },
     {
       "added_at": "2024-07-05 23:46:34",

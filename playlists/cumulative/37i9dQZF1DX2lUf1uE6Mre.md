@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Luciano, Jazeek
 
-529 songs - 22 hr 17 min
+530 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Mit Ihm](https://open.spotify.com/track/5vHh5zfdFE4uzibvOAT461) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Mit Ihm](https://open.spotify.com/album/1WlVVI8YfHsjhbn0jvkjmI) | 2:40 | 2025-02-03 | 2025-05-14 |
 | [Mittelmeer](https://open.spotify.com/track/5iviRbXQMPPJJrK6nTjYGA) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Mittelmeer](https://open.spotify.com/album/29z9beb0haultY7O6b0UMu) | 2:40 | 2024-11-25 | 2025-04-11 |
 | [Mittelmeer](https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Mittelmeer](https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j) | 2:59 | 2024-06-28 | 2024-08-02 |
+| [MO' MONEY MO' HATERS](https://open.spotify.com/track/5wNL9XBGoMjeZM3FzkpnMm) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [MO' MONEY MO' HATERS](https://open.spotify.com/album/1LxVJL1XpcvVD84ZRssFHB) | 2:22 | 2026-08-13 |  |
 | [Model](https://open.spotify.com/track/7KQxnlQIdMNGMr9duDfge8) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Model](https://open.spotify.com/album/7IkTeHqQeySfyHfTzhnl4H) | 2:30 | 2025-02-06 | 2025-10-17 |
 | [mOJA bEBO \- feat\. Eddin & Zera](https://open.spotify.com/track/3vF4TgwvBxfWwT3DdBv9iL) | [CHEKAA](https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP), [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq), [Zera](https://open.spotify.com/artist/3kLaFkY8dscdLove42grJF) | [mOJA bEBO \(feat\. Eddin & Zera\)](https://open.spotify.com/album/09jk1ksUU4h0gObyqS2xux) | 2:32 | 2025-10-17 | 2025-12-21 |
 | [Moja Draga](https://open.spotify.com/track/6CHIYDLErQwSgWfqMkEIZS) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Moja Draga](https://open.spotify.com/album/2znGjCKcvMmvIdMYTvYwvo) | 2:09 | 2025-01-10 | 2025-11-15 |
@@ -450,7 +451,7 @@
 | [THUG LIFE](https://open.spotify.com/track/6M3CMKJnzTrlezfUrIsGDe) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [THUG LIFE](https://open.spotify.com/album/5Mt1cLyfFmHKPFevznGbwL) | 2:01 | 2026-07-02 |  |
 | [Tiefgaragen](https://open.spotify.com/track/49xsSDb0cfQCIgISzaZ2eg) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 2:43 | 2025-01-16 | 2025-07-04 |
 | [TIKI TAKA](https://open.spotify.com/track/2RMALBOw1E6ZDJJEPGrKif) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [TIKI TAKA](https://open.spotify.com/album/6bIYFuAoPgqTyMUoWLSd7d) | 3:48 | 2024-06-28 | 2024-07-05 |
-| [Tiki Taka](https://open.spotify.com/track/2jf4kDgON7X0gPbpq0MS35) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Tiki Taka](https://open.spotify.com/album/4Rs7tHSyQNfdQWeUsK2rsU) | 2:29 | 2025-10-02 |  |
+| [Tiki Taka](https://open.spotify.com/track/2jf4kDgON7X0gPbpq0MS35) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Tiki Taka](https://open.spotify.com/album/4Rs7tHSyQNfdQWeUsK2rsU) | 2:29 | 2025-10-02 | 2026-08-14 |
 | [TMAX](https://open.spotify.com/track/5TcDi7siTwegIfZYR4VekF) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [TMAX](https://open.spotify.com/album/0FkIkKV6K66YZjTLR9KTuZ) | 2:26 | 2024-06-28 | 2025-02-07 |
 | [To The Sky](https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [To The Sky](https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep) | 2:49 | 2025-11-03 |  |
 | [Tonight](https://open.spotify.com/track/57ZUOsF6vCae0j2OCSk0nn) | [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [Tonight](https://open.spotify.com/album/0P9VV4CzxLC5TKB4UVZ6OR) | 2:21 | 2026-07-27 |  |

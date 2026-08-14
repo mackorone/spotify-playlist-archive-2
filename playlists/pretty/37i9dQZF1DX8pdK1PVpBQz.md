@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: blinder
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,179 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,182 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Mosquito Bite](https://open.spotify.com/track/3yr4qcTZMSMUuZB99hsI5M) | [Olana](https://open.spotify.com/artist/5RSYUHJZOGckUL0J4w9kYy), [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID) | [Mosquito Bite](https://open.spotify.com/album/2fKY6xy9wZ0dR8mQEmgNk1) | 2:38 |
 | 100 | [Margot](https://open.spotify.com/track/1AeeCmex30ZqBNXj7IKSXN) | [Just Janie](https://open.spotify.com/artist/31PqvQpFzvCQdmVABjU2kF) | [Mythology of the Girls](https://open.spotify.com/album/1i2DCvt05dwUj58EKBeK1N) | 3:01 |
 
-Snapshot ID: `AAAAADSKKluKd5ONukws2tSA99OAamm0`
+Snapshot ID: `AAAAACmrIhAW48EJJbrCgKGqsQ5Xcxoi`

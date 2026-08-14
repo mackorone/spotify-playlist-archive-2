@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 297084,
+  "num_followers": 297089,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIyLYHIJ43enKBx546ZJoQ2Wgo6E",
+  "snapshot_id": "AAAAAJOE5syeJ2pKs/NAIlPNFahIOCl/",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -963,6 +963,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Entre Pairos y Derivas",
+        "url": "https://open.spotify.com/album/0Dm8kFxZeLSQNTOcF4ZCIQ"
+      },
+      "artists": [
+        {
+          "name": "Fernando Delgadillo",
+          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
+        }
+      ],
+      "duration_ms": 256013,
+      "name": "Entre Pairos y Derivas",
+      "url": "https://open.spotify.com/track/2oUT6iRSQM4cdDE1pMse6h"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -1015,6 +1031,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Ox\u00edgeno",
         "url": "https://open.spotify.com/album/4X6HawmqhHshwuBPuikoPa"
       },
@@ -1031,22 +1063,6 @@
       "duration_ms": 266329,
       "name": "Ox\u00edgeno",
       "url": "https://open.spotify.com/track/4EKrkdIoEw7ki9VdODozi9"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "De Carne y Hueso",
-        "url": "https://open.spotify.com/album/2VvlDz9IS23XmNMzjeGdLN"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "Kil\u00f3metros de Cielo",
-      "url": "https://open.spotify.com/track/5s2vTgpSicPRxA2TLKh2Pi"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Silvio",
         "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 336400,
       "name": "Qui\u00e9n Fuera",
       "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "De Carne y Hueso",
+        "url": "https://open.spotify.com/album/2VvlDz9IS23XmNMzjeGdLN"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Kil\u00f3metros de Cielo",
+      "url": "https://open.spotify.com/track/5s2vTgpSicPRxA2TLKh2Pi"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Amo Esta Isla",
-        "url": "https://open.spotify.com/album/7jvAtbqVoxKAS9vR7vr4qG"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 278080,
-      "name": "Yolanda",
-      "url": "https://open.spotify.com/track/2FtwxY4ZIzqkIX3EQn9sC4"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Unicornio",
         "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
       },
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Entre Pairos y Derivas",
-        "url": "https://open.spotify.com/album/0Dm8kFxZeLSQNTOcF4ZCIQ"
+        "name": "Amo Esta Isla",
+        "url": "https://open.spotify.com/album/7jvAtbqVoxKAS9vR7vr4qG"
       },
       "artists": [
         {
-          "name": "Fernando Delgadillo",
-          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
         }
       ],
-      "duration_ms": 256013,
-      "name": "Entre Pairos y Derivas",
-      "url": "https://open.spotify.com/track/2oUT6iRSQM4cdDE1pMse6h"
+      "duration_ms": 278080,
+      "name": "Yolanda",
+      "url": "https://open.spotify.com/track/2FtwxY4ZIzqkIX3EQn9sC4"
     },
     {
       "added_at": "2021-07-29 16:46:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: CHO CO PA CO CHO CO QUIN QUIN \*👉 <a href="https://spice.eplus.jp/articles/348196">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,109 likes - 87 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,121 likes - 87 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 86 | [賞味期限](https://open.spotify.com/track/07nwyMqBW74lLORwcO53B8) | [天八](https://open.spotify.com/artist/0fIbVJz5ZqEywk84bW50cp) | [未完](https://open.spotify.com/album/1dWyJFJKwhXTOLKae8oQz8) | 3:49 |
 | 87 | [Magic Hour](https://open.spotify.com/track/3C6cnR1dduE7AyeDCbjzZM) | [Qnel](https://open.spotify.com/artist/3BPOGmjOCeLb5xwdz17OuF) | [Magic Hour](https://open.spotify.com/album/3nWuaUDS5ZpjJRZmBc9JVe) | 4:17 |
 
-Snapshot ID: `AAAAAGsMK0oJFi5esU6JjMXnxW75icc3`
+Snapshot ID: `AAAAAMemh9USfpVZCPmXlyLYOm9BjCW+`

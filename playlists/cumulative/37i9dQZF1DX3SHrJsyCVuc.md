@@ -2,19 +2,20 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: DIIV
+> A new world of alternative noise\. Cover: Gurriers
 
-242 songs - 13 hr 26 min
+245 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-10-23 | 2025-11-28 |
 | [47](https://open.spotify.com/track/3FAfq6Yqy5b04vRo19PIke) | [ashnymph](https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o) | [Childhood](https://open.spotify.com/album/72YRWuIhjRNUOtXD7eAzGj) | 3:51 | 2026-05-08 | 2026-05-30 |
 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 | 2026-02-05 | 2026-05-15 |
-| [Adore](https://open.spotify.com/track/3o2HsnIllbCX9zexne2UMV) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Nothing Lasts Forever](https://open.spotify.com/album/6JrQW1Fh2Kid92f7hJFdgJ) | 3:43 | 2026-07-23 |  |
+| [Adore](https://open.spotify.com/track/3o2HsnIllbCX9zexne2UMV) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Nothing Lasts Forever](https://open.spotify.com/album/6JrQW1Fh2Kid92f7hJFdgJ) | 3:43 | 2026-07-23 | 2026-08-14 |
 | [Advent](https://open.spotify.com/track/4wwIHkbzhbFldUz420aDDY) | [G.U.N](https://open.spotify.com/artist/1isYB1JfzwRLNg0SkXHH1U), [Megan Joy](https://open.spotify.com/artist/1kwj0sY4n6bPlKcHTm39Cj) | [To Heaven, From Hollywood](https://open.spotify.com/album/4D2S3rrJFLT47lJjUHEzdc) | 3:05 | 2025-10-23 | 2026-03-13 |
 | [AIN'T DYING FOR THE COUNTRY](https://open.spotify.com/track/7xaL8AqkHrwxVljVZXML6a) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [AIN'T DYING FOR THE COUNTRY](https://open.spotify.com/album/25Sf4dG49tYXgp1sicDoL4) | 1:50 | 2026-05-21 | 2026-07-17 |
-| [Ambulance!](https://open.spotify.com/track/3RCuSsrITvgcEFx35Dkx4j) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Ambulance!](https://open.spotify.com/album/6pO6ipcfEtTFGMRd8ibsJt) | 3:39 | 2026-07-16 |  |
+| [Alarm Bell](https://open.spotify.com/track/6l7UWZ3Gt3bDl1KGAXFiyW) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Shock Corridor](https://open.spotify.com/album/17gMcCILR3WdtxduhoSn98) | 5:30 | 2026-08-13 |  |
+| [Ambulance!](https://open.spotify.com/track/3RCuSsrITvgcEFx35Dkx4j) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Ambulance!](https://open.spotify.com/album/6pO6ipcfEtTFGMRd8ibsJt) | 3:39 | 2026-07-16 | 2026-08-14 |
 | [Anodyne](https://open.spotify.com/track/5JdLdXEzqQaHupskdS7a6Z) | [Dead Finks](https://open.spotify.com/artist/00tkcgJcr35Rwj3XBmQAgQ) | [New Plastik Abyss](https://open.spotify.com/album/1P0ItuKDoa4kT9hpOZFwjF) | 3:55 | 2026-04-09 | 2026-07-03 |
 | [Anti\-Lonely](https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [Anti\-Lonely](https://open.spotify.com/album/43535djalxNGf70jDm6NNY) | 2:07 | 2025-10-23 | 2025-12-12 |
 | [Art School Dropout \(Jaz Origin Story\)](https://open.spotify.com/track/4La2Cbui1hXrPp5wjIspk9) | [RATSALAD.](https://open.spotify.com/artist/3zTboMc9nTwFmqSWI2bkPz) | [Pest From The West](https://open.spotify.com/album/0r5dfBD8oJyPaemJw5sTse) | 2:03 | 2026-05-21 |  |
@@ -130,7 +131,7 @@
 | [Light Over There](https://open.spotify.com/track/3WToaJeNig1j8gOFJMbjch) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [Light Over There](https://open.spotify.com/album/7j8sSYoqPEZ1HSwMHLnr6n) | 4:06 | 2026-07-23 |  |
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-10-23 | 2025-11-21 |
 | [love lost](https://open.spotify.com/track/5WiDiuf9W9XVBb2YuB3ioc) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [love lost](https://open.spotify.com/album/7DnBeJvlp4LwnuMLSTnY6d) | 2:40 | 2026-07-02 |  |
-| [Lucinda \(EM\)](https://open.spotify.com/track/0oocoADIlPjnJtdYbY1AkS) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Lucinda \(EM\)](https://open.spotify.com/album/6VlcwTjhb5fKroAM9309fR) | 4:31 | 2026-05-21 |  |
+| [Lucinda \(EM\)](https://open.spotify.com/track/0oocoADIlPjnJtdYbY1AkS) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Lucinda \(EM\)](https://open.spotify.com/album/6VlcwTjhb5fKroAM9309fR) | 4:31 | 2026-05-21 | 2026-08-14 |
 | [Lunch Money](https://open.spotify.com/track/4JZGQcEMSJq4U0j438uNds) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Lunch Money](https://open.spotify.com/album/5d1OI49ZAH9m7aOICesn0G) | 3:36 | 2026-06-04 |  |
 | [Mad Rooter](https://open.spotify.com/track/6cuXSWojM83UcPkrfbd75t) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Mad Rooter](https://open.spotify.com/album/4n5Lg3hYCaJIv434OImVaO) | 3:05 | 2025-10-23 | 2026-06-12 |
 | [Megaton](https://open.spotify.com/track/6tsugFcFFJvz89znj7bNJK) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Megaton](https://open.spotify.com/album/25Ujl2GZlvbQkf23YeUyCN) | 2:52 | 2025-10-23 | 2025-12-05 |
@@ -148,6 +149,7 @@
 | [Nobody's Son](https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq) | [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp), [Tom Coll](https://open.spotify.com/artist/3LSCSUB1kS40Dd57wmkfyC), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp), [The Immortal Man](https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 2:15 | 2026-03-05 | 2026-06-26 |
 | [NOT A BIT](https://open.spotify.com/track/5aZczicg1VeRx42pdz6vn5) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [NOT A BIT](https://open.spotify.com/album/4nDBVUZ3VqQuudpYy65zoe) | 1:53 | 2026-05-21 | 2026-08-07 |
 | [Not Sorry](https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [When A Flower Doesn't Grow](https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm) | 2:50 | 2026-01-29 | 2026-04-03 |
+| [Nothing Happens Twice](https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nothing Happens Twice](https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9) | 3:42 | 2026-08-13 |  |
 | [Nothing Matters](https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Maresz](https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW) | [Nothing Matters](https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz) | 3:02 | 2026-04-09 | 2026-07-31 |
 | [nuclear](https://open.spotify.com/track/3sS5EHvZrM7XqTRh3wdxRx) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [nuclear](https://open.spotify.com/album/34OS4k4RcL6LjVxWoZ4ick) | 5:45 | 2025-10-23 | 2026-02-13 |
 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 | 2025-10-23 | 2026-02-21 |
@@ -155,6 +157,7 @@
 | [ONLY FREE WHEN SLEEPING](https://open.spotify.com/track/2pM5288FJrc08RobtMlEOy) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [ONLY FREE WHEN SLEEPING](https://open.spotify.com/album/6n5FhsyPFibZFYOMI5VW8x) | 2:59 | 2026-04-16 | 2026-06-12 |
 | [Out in the Cold](https://open.spotify.com/track/2C6F59QTIWhaSseXYh98HT) | [Bennetts Grove](https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA) | [Out in the Cold](https://open.spotify.com/album/0yw2HPjvofIC090IOFx28b) | 4:36 | 2026-04-09 | 2026-07-17 |
 | [Parasite](https://open.spotify.com/track/6JIh5QYBFfoaRQkYvpnkvH) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Parasite](https://open.spotify.com/album/50MUt4o2af60ChoEniSgfB) | 2:27 | 2025-10-23 | 2026-03-27 |
+| [Perla](https://open.spotify.com/track/3AS7Y4Oh1tgy8x7w3C35Dm) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Perla](https://open.spotify.com/album/7nLDUciyhxmS4Mk7QVcSCj) | 3:04 | 2026-08-13 |  |
 | [Pieces](https://open.spotify.com/track/3sNJK6XOSqwnKZKXKXXBtK) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [Pieces](https://open.spotify.com/album/65Eocfc9lOiXl4WmPPFUrp) | 4:12 | 2026-03-12 | 2026-07-17 |
 | [PIG](https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIRDBRAIN / PIG](https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq) | 1:58 | 2025-11-20 | 2026-03-27 |
 | [Pigeon](https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok) | [Ebop](https://open.spotify.com/artist/2Efy3ySYJ83uBkokvfdwxn) | [Pigeon](https://open.spotify.com/album/1OEcnuGKiWFB4BaASFzTSk) | 3:21 | 2026-01-22 | 2026-03-27 |

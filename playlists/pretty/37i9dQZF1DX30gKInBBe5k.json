@@ -1,12 +1,12 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 211999,
+  "num_followers": 212004,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALfpnCMOb1/O8B7gUfP/oY2pjsCm",
+  "snapshot_id": "AAAAAFlTcxfNuLi6B7u2vZTpRmiQKVPk",
   "tracks": [
     {
       "added_at": "2025-08-07 23:00:59",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Things We Lost in the Fire",
-        "url": "https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Summer Sun",
         "url": "https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 334626,
       "name": "Today Is the Day",
       "url": "https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Things We Lost in the Fire",
+        "url": "https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 279066,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD"
     },
     {
       "added_at": "2025-08-07 23:00:59",

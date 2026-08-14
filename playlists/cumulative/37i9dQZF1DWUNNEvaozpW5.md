@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Robe y Leiva.
 
-812 songs - 2 day 3 hr 41 min
+813 songs - 2 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,10 +591,11 @@
 | [PALIQUE](https://open.spotify.com/track/3isUnEQtuJhx771cMLqcsP) | [Kumar Kislo](https://open.spotify.com/artist/5TJTtM4EhlrA8uEJ1QSrFL) | [II](https://open.spotify.com/album/1SrCXxji6qdDaAcp8E2MLR) | 2:36 | 2024-04-11 | 2024-04-19 |
 | [Palomas](https://open.spotify.com/track/7BI3kNzigH6ZPv0VUjAOd9) | [Linze](https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq) | [Palomas](https://open.spotify.com/album/6kNXX68cdAoj9CMwExz19G) | 3:58 | 2026-01-08 | 2026-01-23 |
 | [Para llegar hasta aquí](https://open.spotify.com/track/538EBNYTHPk4NL8yrTatX4) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Para llegar hasta aquí](https://open.spotify.com/album/5NjQ9Or66LDDAg1UvBRXYV) | 3:53 | 2025-02-06 | 2025-02-28 |
+| [Para morir solo hay que estar vivo](https://open.spotify.com/track/5yldmjLQwFs87PscAWszgh) | [Los Estanques](https://open.spotify.com/artist/2viZosiTrNf88YlPRVHkos), [El Canijo de Jerez](https://open.spotify.com/artist/1F1UN5rQ0UCxM8A8ZDE6k7) | [Para morir solo hay que estar vivo](https://open.spotify.com/album/20WkAHW7mGhUvRScGGHOWL) | 5:04 | 2026-08-13 |  |
 | [Para No Olvidar](https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Para No Olvidar](https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy) | 4:04 | 2022-06-16 | 2022-06-18 |
 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 | 2022-07-21 | 2024-04-19 |
 | [Para volverte a decir](https://open.spotify.com/track/55quatI4AI4K0Tj3XNAxy7) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Para volverte a decir](https://open.spotify.com/album/4MKKOwt0Lw7susoIuMBo5s) | 3:11 | 2023-07-06 | 2026-07-31 |
-| [Pasan los años](https://open.spotify.com/track/05IQc9bllUCil8QTHv5hjw) | [Malas Pulgas](https://open.spotify.com/artist/7qzlQ8l7v097jcjShg0uA1) | [Pasan los años](https://open.spotify.com/album/0uBhX33Apg9aBA1Zhr0GA7) | 3:21 | 2026-07-30 |  |
+| [Pasan los años](https://open.spotify.com/track/05IQc9bllUCil8QTHv5hjw) | [Malas Pulgas](https://open.spotify.com/artist/7qzlQ8l7v097jcjShg0uA1) | [Pasan los años](https://open.spotify.com/album/0uBhX33Apg9aBA1Zhr0GA7) | 3:21 | 2026-07-30 | 2026-08-14 |
 | [Peligro](https://open.spotify.com/track/15mJDOpRwAaOPVYW4JInDc) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Peligro](https://open.spotify.com/album/36KiYdlOJPdbMDb5vtUY2E) | 3:27 | 2022-12-01 | 2022-12-17 |
 | [Peor que como estamos \- Es difícil ya que estemos](https://open.spotify.com/track/3Jq6AmXJdb96POu4X1XTv6) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [De un siglo anterior](https://open.spotify.com/album/0nhWmmOEqhnEMWB36f3YvY) | 3:44 | 2026-04-16 | 2026-06-12 |
 | [Pequeña Madrid](https://open.spotify.com/track/7GV6fdQaeo70i3sSDMl6IX) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Pequeña Madrid](https://open.spotify.com/album/7ABHcV0xBBac60ejFTl5a9) | 3:42 | 2023-04-27 | 2023-05-12 |

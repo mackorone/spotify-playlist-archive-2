@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,803 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,815 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 8 | [Rana Kumbha \(From "Varanasi"\)](https://open.spotify.com/track/3iIR2YfNdC9CYhA8ieF5UO) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Aditya Iyengar](https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo), [Chaitanya Prasad](https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf) | [Rana Kumbha \(From "Varanasi"\)](https://open.spotify.com/album/5w1OjPNvyGhzHaPQJwLduA) | 1:40 |
 | 9 | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Raghu Ram](https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj) | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg) | 1:59 |
 | 10 | [Red Sea \(From "Devara Part 1"\)](https://open.spotify.com/track/75IywzsrO67PjCrFHnA9tb) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Red Sea \(From "Devara Part 1"\)](https://open.spotify.com/album/5FqTXCya4oO6is24rhWDBg) | 2:42 |
-| 11 | [Saaho \- Theme](https://open.spotify.com/track/4nspb1LG1ABlQ6eTAO4udo) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Saaho, Vol\. 2 \(Original Background Score\)](https://open.spotify.com/album/6xRw7gpSUzP3Elh22G13Bv) | 1:26 |
-| 12 | [The Blind](https://open.spotify.com/track/1Vmq74DX8WfWIyz0odHmiS) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 0:43 |
+| 11 | [The Blind](https://open.spotify.com/track/1Vmq74DX8WfWIyz0odHmiS) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 0:43 |
+| 12 | [Saaho \- Theme](https://open.spotify.com/track/4nspb1LG1ABlQ6eTAO4udo) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Saaho, Vol\. 2 \(Original Background Score\)](https://open.spotify.com/album/6xRw7gpSUzP3Elh22G13Bv) | 1:26 |
 | 13 | [The Arrival \(From "Varanasi"\)](https://open.spotify.com/track/2dbxZs7mhMcynrX3xsBuGH) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [The Arrival \(From "Varanasi"\)](https://open.spotify.com/album/77tqNdJTnM5ilKPJ4V8GeI) | 3:22 |
 | 14 | [In the Streets of Fire \(From "They Call Him OG"\)](https://open.spotify.com/track/5XPrRgrHIWUxxRa6fH2Z7Y) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Harsha Darivemula](https://open.spotify.com/artist/7wwMNMZtIVyNHOYXNKqQsk) | [In the Streets of Fire \(From "They Call Him OG"\)](https://open.spotify.com/album/6GaUSu3Nt2OSXNyoXGiamF) | 1:53 |
 | 15 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 49 | [Agni Skalana](https://open.spotify.com/track/547drAxnHv6qRwvJMceREO) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Mathangi](https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t) | [Chatrapathi](https://open.spotify.com/album/5xvwlDPbWYpTSeWdBJf2oX) | 3:09 |
 | 50 | [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 |
 
-Snapshot ID: `AAAAAGwX2Pgph28UxFAqr2Av0eWaBQ33`
+Snapshot ID: `AAAAANG7dUkOti/AmyyKdyBtHdIYWk2Q`

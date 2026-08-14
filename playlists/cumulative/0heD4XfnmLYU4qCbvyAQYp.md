@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-156 songs - 10 hr 0 min
+157 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Durango 99](https://open.spotify.com/track/6VDuKcHNgUY77G5ySWOFIX) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Durango 99](https://open.spotify.com/album/6fC5Q1eFDunGgY2BSUpUfZ) | 1:35 | 2025-11-02 |  |
 | [Dutch for a Day](https://open.spotify.com/track/4A3j2sJk5lygsZ1cwrd4mk) | [Urs Ruf](https://open.spotify.com/artist/0KPIxZ2aLcB0Zlu14GPk1d) | [Dutch for a Day](https://open.spotify.com/album/3krX4MJQw2alLPlFSnO13Z) | 3:03 | 2025-05-04 | 2025-12-08 |
 | [dying \- Demo Version](https://open.spotify.com/track/4iV3NgChpB7r1JsJPU04uh) | [AG3HA](https://open.spotify.com/artist/3Bryh2TwlIU7t3Gku6as6p) | [dying \(Demo Version\)](https://open.spotify.com/album/4ZRIJJsfhMlzNRoMjuGygA) | 2:58 | 2026-08-10 |  |
+| [Emotional Bloodstorm](https://open.spotify.com/track/2hAppVdjgJipmobwvTqvVX) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [Emotional Bloodstorm](https://open.spotify.com/album/6KMHZnoonR5kH2qs3siGW6) | 4:52 | 2026-08-13 |  |
 | [Every Where](https://open.spotify.com/track/4y2chq4TIDQr6dVnMuvB0X) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 4:45 | 2025-09-09 | 2025-12-08 |
 | [Eyes Closed](https://open.spotify.com/track/6X12EdM1tB2fPOjlwTIFul) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Eyes Closed](https://open.spotify.com/album/0jsMmLjYnphdPmOBgiAuvV) | 3:17 | 2026-08-06 |  |
 | [Fake Empire](https://open.spotify.com/track/65aZDJQwNllPxuLPixJ4YO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:25 | 2025-07-31 |  |

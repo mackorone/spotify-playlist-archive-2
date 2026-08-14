@@ -1,12 +1,12 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 386757,
+  "num_followers": 386727,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ3b+ckfzlkm4ufscjIKamFYnjZm",
+  "snapshot_id": "AAAAAGONmc5qhNA5INTVzhtnoe2U6wuV",
   "tracks": [
     {
       "added_at": "2024-07-05 20:47:34",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 272760,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0eOPBCItAtCgtQZj5vxNRa"
-    },
-    {
-      "added_at": "2024-07-05 20:47:34",
-      "album": {
         "name": "Send My Regards",
         "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 247893,
       "name": "Send My Regards",
       "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
+    },
+    {
+      "added_at": "2024-07-05 20:47:34",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 272760,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0eOPBCItAtCgtQZj5vxNRa"
     },
     {
       "added_at": "2024-07-05 20:47:34",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
+        "name": "Dark Child",
+        "url": "https://open.spotify.com/album/514G60yXX7mHxl67i5DYld"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 237122,
+      "name": "Dark Child - Single Edit",
+      "url": "https://open.spotify.com/track/4puHB4a2PUyJViWnJcJEv0"
+    },
+    {
+      "added_at": "2024-07-05 20:47:34",
+      "album": {
         "name": "Into the Depths of Hell",
         "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
       },
@@ -979,26 +995,6 @@
       "duration_ms": 258651,
       "name": "Foreign Hands",
       "url": "https://open.spotify.com/track/7fDkkwlp02iHGzKlG2gZr8"
-    },
-    {
-      "added_at": "2024-07-05 20:47:34",
-      "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/3HaXu8yI1wBwmQB2ifgccT"
-      },
-      "artists": [
-        {
-          "name": "Ainslie Wills",
-          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
-        },
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Detour",
-      "url": "https://open.spotify.com/track/7DEY4XYmucW9CajmANlscn"
     }
   ],
   "unique_name": "Rainy Day",

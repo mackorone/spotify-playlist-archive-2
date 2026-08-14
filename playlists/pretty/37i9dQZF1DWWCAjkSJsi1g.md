@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,833 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,835 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 79 | [Trade It All, Pt\. 2 \(feat\. P\. Diddy & Jagged Edge\)](https://open.spotify.com/track/6h7PQQIUQSNSAWqRe98MBU) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 4:35 |
 | 80 | [Bound 4 da Reload \- Casualty](https://open.spotify.com/track/4UYrVcOhdVQ2L0ZwYliXNH) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf) | [Execute](https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8) | 4:52 |
 | 81 | [Angel](https://open.spotify.com/track/3njcsRzRNdtYGd9jvRp6bJ) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/1oqC0QCUYf3c2pPB8h5EAj) | [The Boombastic Collection \- Best Of Shaggy \(International Version\)](https://open.spotify.com/album/0JFoLERkkPF0TMg5XnMjDs) | 3:55 |
-| 82 | [Garage Girls \- Sunship Radio Edit](https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq) | [Lonyo](https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Garage Girls](https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M) | 3:20 |
+| 82 | [It's Like That](https://open.spotify.com/track/5WdY40UV0qEOSts6sqDt7V) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 3:23 |
 | 83 | [Ride Wit Me](https://open.spotify.com/track/5x2TDyeeTpf0riUoQDrvsV) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Best Of Nelly](https://open.spotify.com/album/7kL2kX4AeR1eUR9bz2mbNe) | 4:51 |
-| 84 | [It's Like That](https://open.spotify.com/track/5WdY40UV0qEOSts6sqDt7V) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 3:23 |
+| 84 | [Garage Girls \- Sunship Radio Edit](https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq) | [Lonyo](https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Garage Girls](https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M) | 3:20 |
 | 85 | [Masterblaster 2000 \- Original Mix](https://open.spotify.com/track/0kvKNrIyDP9ScCw2Jo16bK) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [J.J](https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss) | [Masterblaster 2000](https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu) | 3:29 |
 | 86 | [Let Me Love You](https://open.spotify.com/track/5xV0Czdqefft6sPDqjmFBu) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/332c3yPZilz3OnqZKpRxl7) | 4:09 |
 | 87 | [Why? \- UK Garage MC Radio Edit](https://open.spotify.com/track/1dHLyXaqQDLxH4IyZ3NgdN) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Lickin' On Both Sides](https://open.spotify.com/album/5TMQsvBUkHGxOEnPEVPrj3) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 99 | [Dip It Low](https://open.spotify.com/track/3CldFq28sCroIcmc42pRmZ) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Girls' Night Out](https://open.spotify.com/album/25akGACCyuW80OnWrv8kjJ) | 3:16 |
 | 100 | [Scandalous \- U.S\. Radio Edit](https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:58 |
 
-Snapshot ID: `AAAAALxRTZ+Jxwk6sMJSL43brQj8S2HC`
+Snapshot ID: `AAAAAOP7fg3u5CJRVSc3Dgkeoi8EVuCh`

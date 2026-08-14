@@ -850,7 +850,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 298023,
       "name": "Back in the Streets",
       "url": "https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P"
@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 227812,
       "name": "Drums Keep Calling",
       "url": "https://open.spotify.com/track/4242cbONa04ZeHNTWtzzND"
@@ -4810,7 +4810,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 180875,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/20GqcQXULI3N04sVXYzmV7"
@@ -7521,6 +7521,32 @@
     },
     {
       "album": {
+        "name": "MYSTERY OF RAW",
+        "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "MYSTERY OF RAW",
+      "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
+    },
+    {
+      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -8261,6 +8287,32 @@
     },
     {
       "album": {
+        "name": "Ping Pong",
+        "url": "https://open.spotify.com/album/0m9LrgbBQUdX7JSlsyMyjJ"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "ACID HARRY",
+          "url": "https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW"
+        },
+        {
+          "name": "mafiii",
+          "url": "https://open.spotify.com/artist/7uw3CaiYVZaxdE7O33kneg"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178182,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/3U9X8CoHutLTOM4ppkCSdH"
+    },
+    {
+      "album": {
         "name": "Pjanoo",
         "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
       },
@@ -8864,7 +8916,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 239523,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0FWEux3aj0qlSnguvnYk6I"
@@ -9681,6 +9733,24 @@
     },
     {
       "album": {
+        "name": "Sing It Back",
+        "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
+      },
+      "artists": [
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220312,
+      "name": "Sing It Back",
+      "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/3GTekC6u6cCRqbJtSzsqdT"
       },
@@ -9780,6 +9850,32 @@
       "duration_ms": 178453,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "album": {
+        "name": "Solar Skin (feat. jasper.wav)",
+        "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "jasper.wav",
+          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Solar Skin (feat. jasper.wav)",
+      "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
     },
     {
       "album": {

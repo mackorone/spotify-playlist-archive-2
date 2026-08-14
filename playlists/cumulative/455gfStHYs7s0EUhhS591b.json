@@ -3073,6 +3073,32 @@
     },
     {
       "album": {
+        "name": "Love's Been Right Here",
+        "url": "https://open.spotify.com/album/5tVBQxGLVHC0RCe6ZFSu8V"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Stephanie Cooke",
+          "url": "https://open.spotify.com/artist/0tQ6E3EZuU6HCF9SaClbI2"
+        },
+        {
+          "name": "Kenny Bobien",
+          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Love's Been Right Here",
+      "url": "https://open.spotify.com/track/4yNioM58jjociyeM8LvLmU"
+    },
+    {
+      "album": {
         "name": "Love, Love, Love - Here I Come",
         "url": "https://open.spotify.com/album/0ZvCTm4WEuKcXbeozxcTdf"
       },

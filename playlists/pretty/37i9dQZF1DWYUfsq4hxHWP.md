@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Phil Kane, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,734 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,753 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [You Should See Me Now](https://open.spotify.com/track/6Bt7KhPcD0rjrbqSTwgRKV) | [Landon Wilks](https://open.spotify.com/artist/7xxu3GGGAWwH4MbrT12aMG) | [Young and Restless](https://open.spotify.com/album/3yjNyEr90FjbUGixaNScQQ) | 3:28 |
 | 75 | [Road Signs](https://open.spotify.com/track/7pd7YI3dVDk2odI3h8jJXx) | [Josie](https://open.spotify.com/artist/0lkn1fc0HZVVtrl8otRdT1) | [Road Signs](https://open.spotify.com/album/5xfpPuuV38qotf3AZPdFah) | 3:09 |
 
-Snapshot ID: `AAAAABOL9mifjMIZmjAR+sAhfNhLLAcZ`
+Snapshot ID: `AAAAACdt3crtdq/qq84nmx3LeHauI64Q`

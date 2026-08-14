@@ -4,7 +4,7 @@
 
 > 
 
-139 songs - 9 hr 41 min
+140 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Ten Duel Commandments](https://open.spotify.com/track/3lXyAQ0kekAvY5LodpWmUs) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Jon Rua](https://open.spotify.com/artist/69NsP4MC1JbfvKMwpx2oy8), [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 1:46 | 2025-10-27 | 2025-11-05 |
 | [The Challenge](https://open.spotify.com/track/2MfEPa673rIPzBUdwfqd0P) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:21 | 2025-10-21 | 2026-01-26 |
 | [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2026-03-30 | 2026-05-03 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-08-13 |  |
 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 | 2026-03-30 |  |
 | [The Lake Isle](https://open.spotify.com/track/5QhtE8F6sCVmAj9hLsHfK7) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Kristian Kvalvaag](https://open.spotify.com/artist/2gWimrrYeCW2NMr5yE8Xvh), [Thomas Gould](https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk), [Ciaran McCabe](https://open.spotify.com/artist/21c1PU3FDMEteSVpYnuOYD), [Jon Thorne](https://open.spotify.com/artist/5zO7OYFWteJtQyg0iBKhyH), [Matthew Sharp](https://open.spotify.com/artist/0IivBy8bFH9oN4N5wWmGz7) | [Ola Gjeilo](https://open.spotify.com/album/4IOXEu8EgItKI8J9JDaEr4) | 6:18 | 2026-03-30 |  |
 | [The Let Out](https://open.spotify.com/track/2aNaJLXE4SXbm9L23qpHTG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:14 | 2026-08-08 |  |

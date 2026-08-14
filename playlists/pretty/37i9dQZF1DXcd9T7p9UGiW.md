@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Fireboy DML & Masicka
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,029 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,057 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [MAMAN PRIE](https://open.spotify.com/track/6oojgcW5Ffo7GkB54vARCh) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:42 |
 | 80 | [PERFECTION \(feat\. C.S\. Armstrong\)](https://open.spotify.com/track/3Sv5trzGlBMLYFJGpuOBxG) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [PERFECTION \(feat\. C.S\. Armstrong\)](https://open.spotify.com/album/6aXV5Mr0bKAIUtqGUgdKvy) | 3:13 |
 
-Snapshot ID: `AAAAALCgIObtF9Pz9hc4mp4oZRVodzc9`
+Snapshot ID: `AAAAAE0csFs0D+2pZSH80Wglen4+6Jx6`

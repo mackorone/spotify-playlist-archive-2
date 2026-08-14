@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. HMLTD",
+  "description": "welcome to our universe ft. ivri",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -460,6 +460,24 @@
       "duration_ms": 252652,
       "name": "ACT ALIVE",
       "url": "https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4"
+    },
+    {
+      "album": {
+        "name": "Adore You",
+        "url": "https://open.spotify.com/album/3PCALTgEiryl4Ud5m45o7V"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154686,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/57hbvLL62rRXsJ7RK4PHhB"
     },
     {
       "album": {
@@ -4394,7 +4412,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 243628,
       "name": "Computer Daydream",
       "url": "https://open.spotify.com/track/4NkzVazz02wOQEsFTvUcnK"
@@ -5124,7 +5142,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 179280,
       "name": "Dance In The USA",
       "url": "https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV"
@@ -8736,7 +8754,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 250475,
       "name": "Ghost In A Hell",
       "url": "https://open.spotify.com/track/1ifvotCn2amn0w2QomDaaj"
@@ -10676,6 +10694,24 @@
       "duration_ms": 219813,
       "name": "HYPEBEAST",
       "url": "https://open.spotify.com/track/7Gdo9s4GIeJerZgrZFUsBH"
+    },
+    {
+      "album": {
+        "name": "Hyper Independence",
+        "url": "https://open.spotify.com/album/4D22F5NOZ8rgmLYKfAJ2HX"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212605,
+      "name": "Hyper Independence",
+      "url": "https://open.spotify.com/track/0sW0m4QcO3cLyeG2xDueOq"
     },
     {
       "album": {
@@ -14177,6 +14213,24 @@
     },
     {
       "album": {
+        "name": "Lower myself down",
+        "url": "https://open.spotify.com/album/5vCc47IK0kiMYq7AT3EIkz"
+      },
+      "artists": [
+        {
+          "name": "BEEFCAKE",
+          "url": "https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Lower myself down",
+      "url": "https://open.spotify.com/track/5RPg5YBPP8lpQxSHGunIHM"
+    },
+    {
+      "album": {
         "name": "Lowlife",
         "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
       },
@@ -16196,7 +16250,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 156448,
       "name": "nomorelove",
       "url": "https://open.spotify.com/track/580qMo4N3Lz1LBQMIJFx3Y"

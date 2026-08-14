@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 136045,
       "name": "Disagree",
       "url": "https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 133500,
       "name": "F.E.A.R. - feat. Niontay",
       "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "FERRARI",
+        "url": "https://open.spotify.com/album/70mqGISBIev77sQBoNRVq3"
+      },
+      "artists": [
+        {
+          "name": "diamond*",
+          "url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109759,
+      "name": "FERRARI",
+      "url": "https://open.spotify.com/track/4FOO0xTI6dXRRHJ8CCtAl6"
+    },
+    {
+      "album": {
         "name": "Fire in my heart",
         "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
       },
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 195433,
       "name": "Fuck Good Business - Remix",
       "url": "https://open.spotify.com/track/43McxIOhxbphUzPBUFS2Mk"
@@ -3974,7 +3992,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 194594,
       "name": "Pub Sub",
       "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
@@ -4716,7 +4734,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
@@ -5030,7 +5048,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
@@ -5822,7 +5840,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 106533,
       "name": "Yale",
       "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"

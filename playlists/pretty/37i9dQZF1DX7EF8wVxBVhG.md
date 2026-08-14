@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,931 likes - 64 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,109 likes - 64 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 63 | [Equilibrium 96hz\-104hz](https://open.spotify.com/track/7wzxMK6fHNQoTWcKHUsdTz) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Equilibrium 96hz\-104hz](https://open.spotify.com/album/0Jxdyu4VFJ2IDWQ8FdAX0r) | 2:11 |
 | 64 | [Breaking Walls Gamma \(60\-107hz\)](https://open.spotify.com/track/2gc4HYHB0UYE18cAC7Pddc) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Breaking Walls Gamma \(60\-107hz\)](https://open.spotify.com/album/0VSo867aIqwHSoRfiQYeaT) | 2:44 |
 
-Snapshot ID: `AAAAAJDmxLslAtTT4iJHVmj+2KcBDmOv`
+Snapshot ID: `AAAAAKSf9gdkXMGav4czFF5HxuafUzBs`

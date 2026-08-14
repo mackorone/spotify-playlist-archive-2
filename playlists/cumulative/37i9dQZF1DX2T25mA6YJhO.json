@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/11SyyZjjwvrUYJuu0dhl12"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ovnies",
+          "url": "https://open.spotify.com/artist/3KSBsxMjBEZCxmrj0GEWJI"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156073,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/4DRqeEke8KlH8FU1J3DyCd"
+    },
+    {
+      "album": {
         "name": "Autocine",
         "url": "https://open.spotify.com/album/0I3rZBB5lbYlHEAGuPEokP"
       },
@@ -1444,6 +1462,24 @@
       "duration_ms": 183652,
       "name": "Bats - Bonus Track",
       "url": "https://open.spotify.com/track/1MrCEloTvLxizWYBaCsJcF"
+    },
+    {
+      "album": {
+        "name": "BB",
+        "url": "https://open.spotify.com/album/6w3974TILTOMBKzUloUpjJ"
+      },
+      "artists": [
+        {
+          "name": "Apartamentos Acapulco",
+          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162747,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/4p7Tq8pkiuIbcF97cxoATa"
     },
     {
       "album": {
@@ -2996,7 +3032,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 207200,
       "name": "DESDE QUE YA NO EST\u00c1S",
       "url": "https://open.spotify.com/track/48lc61H6BvktrqOjeT9CrK"
@@ -6653,6 +6689,24 @@
     },
     {
       "album": {
+        "name": "Laia",
+        "url": "https://open.spotify.com/album/3xyYfmdnOpkU8lePnIV1oM"
+      },
+      "artists": [
+        {
+          "name": "Diagn\u00f3stico Binario",
+          "url": "https://open.spotify.com/artist/4toUuM31r6QCBRJcCKh7ad"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204382,
+      "name": "Laia",
+      "url": "https://open.spotify.com/track/22R4mlAgYegIjaJsQdz6Xp"
+    },
+    {
+      "album": {
         "name": "Lamine Yamal",
         "url": "https://open.spotify.com/album/02nmVvMMHW9BANuTzBpUDe"
       },
@@ -8428,7 +8482,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 181400,
       "name": "M\u00e1s o menos bien",
       "url": "https://open.spotify.com/track/0xyCtRkZmP0ktcRqjV8fip"
@@ -10786,7 +10840,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 167362,
       "name": "Reino",
       "url": "https://open.spotify.com/track/3qawHMDedZz4sIcXIjPTwi"

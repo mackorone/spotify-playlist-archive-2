@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,675 likes - 234 songs - 12 hr 51 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,691 likes - 246 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,5 +242,17 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 232 | [Ghosts](https://open.spotify.com/track/28FeMbGKjfSla8lnoE3PD3) | [Abi Nav](https://open.spotify.com/artist/3oRQ8kmys6lXb6x063FJUy) | [Ghosts](https://open.spotify.com/album/2NvwxNgRRxn8zkKvLTWclW) | 2:51 |
 | 233 | [Sometimes Love's A Lonely Place](https://open.spotify.com/track/1vb4LaT327z2mc9zPHYbtz) | [Rocketmonkey Lovemachine](https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh) | [Rmlm](https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa) | 3:38 |
 | 234 | [I Found You](https://open.spotify.com/track/7xxNwwgRCzgTnBmYxiF2ab) | [Eden Roze](https://open.spotify.com/artist/4GghHLohPHrzB04jas3TIr) | [I Found You](https://open.spotify.com/album/5DnNGtxQXpvv4Hr6QOkCeL) | 3:12 |
+| 235 | [Oceans](https://open.spotify.com/track/2MhpVRXC1iL0ChF3sFdlOD) | [Mathew Adekunle](https://open.spotify.com/artist/7M8CbEz2nm6Gyi4nNr4TDi) | [Oceans](https://open.spotify.com/album/6SUof92ImCfppQjarhmSrK) | 5:32 |
+| 236 | [Last Days Of Youth](https://open.spotify.com/track/2JZt0RaSN932GXBJIYCGH7) | [Black & White Digital](https://open.spotify.com/artist/0daGlS2EEMDyrwtF41SaBV) | [Last Days Of Youth](https://open.spotify.com/album/6Jtl3eEqBeqtwb2YfehSN2) | 5:00 |
+| 237 | [Smile!](https://open.spotify.com/track/5tYjUmRA1ynNBFQ1QvLJDs) | [The Artist X.I.](https://open.spotify.com/artist/6bUcL1xK6rtMIVZqpaHXYC) | [Smile!](https://open.spotify.com/album/7KoAfKfaG4YDBOf1BNd7Lf) | 2:34 |
+| 238 | [Landscape](https://open.spotify.com/track/7CCZkk2wpE6iNM2SmvsTsg) | [Viva Vendetta](https://open.spotify.com/artist/3NjThOFC436dNzZbAyH0yf) | [Landscape](https://open.spotify.com/album/54jCcGN3nuIznAJgttH2ou) | 3:45 |
+| 239 | [Dans](https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8) | [Dapper Muis](https://open.spotify.com/artist/5d9WSo5aDwgEV0oUZZsQET) | [Dans](https://open.spotify.com/album/1Z1FIW60skgmaiPtKn9N5b) | 3:56 |
+| 240 | [Can't Trust](https://open.spotify.com/track/0WCfJqS2cvMFbzbHFbuepT) | [Johnny Starling](https://open.spotify.com/artist/4nuskpmtHrxzx3VHP04x3C) | [Can't Trust](https://open.spotify.com/album/1TqImzvy83ieZMpGVnRdRq) | 2:48 |
+| 241 | [Ravenous as the birds](https://open.spotify.com/track/46azXY12iCO5EOePNa2Bq1) | [Charlie Smith](https://open.spotify.com/artist/50abKbBejLKyBTQ3OLkT26) | [Ravenous as the birds](https://open.spotify.com/album/3AkSDS0Yjhaoty6gWbFS8b) | 2:46 |
+| 242 | [City Life](https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs) | [MOKAs](https://open.spotify.com/artist/1IczCTas4lUyZa8wQRst9C) | [City Life](https://open.spotify.com/album/5gSYQTFL50MJ4ThTzYmJgg) | 3:33 |
+| 243 | [invisible man](https://open.spotify.com/track/6Rs4GX7aTVgfSHSRZaVXal) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [\(no matter\) what i said](https://open.spotify.com/album/4I95LHYrHpBJhIlBo7kBW3) | 1:54 |
+| 244 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 |
+| 245 | [Round and Round](https://open.spotify.com/track/4efOj8t1493yAYtG38Zcfh) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Round and Round](https://open.spotify.com/album/7o46ngv8ldoGr7IJr73ZWk) | 3:13 |
+| 246 | [Bad 4 Me](https://open.spotify.com/track/2AN9YbBUG6pQOTa4qVP7By) | [K⚝YL⚝](https://open.spotify.com/artist/6sZDaOQDT0iLhPNZKQ1DQ8) | [Bad 4 Me](https://open.spotify.com/album/7ig5Dh1rfNEcwMVvSfhMrK) | 3:53 |
 
-Snapshot ID: `AAAS/TGTCxS0DYBwOWbHEwZByYzGPQkq`
+Snapshot ID: `AAATCXf9A6sfRMmlmFUg/7o2CznB8nqf`

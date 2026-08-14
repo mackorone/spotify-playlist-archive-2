@@ -536,7 +536,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 197213,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
@@ -1150,6 +1150,24 @@
       "duration_ms": 215993,
       "name": "Prey for Me",
       "url": "https://open.spotify.com/track/1XlGDlukA1wO9SG4gCcHjh"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift (Deluxe)",
+        "url": "https://open.spotify.com/album/5kiSjkVlfWCEAuo2BnyFbh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215993,
+      "name": "Prey for Me",
+      "url": "https://open.spotify.com/track/4J6K4ZMQvJRibLLtlOlndI"
     },
     {
       "album": {

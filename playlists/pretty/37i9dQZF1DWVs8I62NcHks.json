@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your favorite Disney tunes, including \"You're Welcome\" from Moana! Disney's Moana, only in theaters.",
-  "num_followers": 2079243,
+  "num_followers": 2079315,
   "original_name": "Disney Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABS4x6u7IK03SoSgK558+gYpFZLO",
+  "snapshot_id": "AAAAANUcmPPBV3tP6VvAp+ghdCgCM2ir",
   "tracks": [
     {
       "added_at": "2026-07-13 13:58:14",
@@ -1021,6 +1021,26 @@
       "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
     },
     {
+      "added_at": "2026-08-13 05:00:13",
+      "album": {
+        "name": "Camp Rock 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
+      },
+      "artists": [
+        {
+          "name": "Malachi Barton",
+          "url": "https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 188001,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/00vpTgiBa9CXBtUKFbRoav"
+    },
+    {
       "added_at": "2026-07-13 13:58:14",
       "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack)",
@@ -1283,26 +1303,6 @@
       "duration_ms": 181720,
       "name": "He Could Be the One",
       "url": "https://open.spotify.com/track/0ObHdZzOdFZo2MfUCpHiyu"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
-        "name": "Descendants 3 (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jeffery",
-          "url": "https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 189397,
-      "name": "Queen of Mean",
-      "url": "https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna"
     },
     {
       "added_at": "2026-07-13 13:58:14",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-07-13 13:58:14",
       "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
-      },
-      "artists": [
-        {
-          "name": "Hannah Montana",
-          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
-        }
-      ],
-      "duration_ms": 174120,
-      "name": "The Best of Both Worlds",
-      "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
         "name": "Mary Poppins",
         "url": "https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d"
       },
@@ -1739,22 +1723,6 @@
       "duration_ms": 249040,
       "name": "A Spoonful of Sugar - From \"Mary Poppins\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
-        "name": "Songs and Story: Winnie the Pooh and the Honey Tree",
-        "url": "https://open.spotify.com/album/2h7GDf31ar6zI2SkHrQ9TE"
-      },
-      "artists": [
-        {
-          "name": "Disney Studio Chorus",
-          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
-        }
-      ],
-      "duration_ms": 138200,
-      "name": "Winnie the Pooh - From \"Winnie the Pooh and the Honey Tree\"",
-      "url": "https://open.spotify.com/track/7dAhz8AzHFI4qPiv2zF7Xi"
     },
     {
       "added_at": "2026-07-13 13:58:14",
@@ -1819,22 +1787,6 @@
     {
       "added_at": "2026-07-13 13:58:14",
       "album": {
-        "name": "Baby Mine (From \"Dumbo\")",
-        "url": "https://open.spotify.com/album/6e9I7W5LrZ512paeUY7hS4"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "Baby Mine - From \"Dumbo\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/2ufkOFn5LKYNoAdss0GUKR"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
         "name": "Enchanted",
         "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
       },
@@ -1847,26 +1799,6 @@
       "duration_ms": 228960,
       "name": "That's How You Know - From \"Enchanted\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
-        "name": "The Muppets (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
-      },
-      "artists": [
-        {
-          "name": "Jason Segel",
-          "url": "https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6"
-        },
-        {
-          "name": "Walter",
-          "url": "https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Man Or Muppet",
-      "url": "https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB"
     },
     {
       "added_at": "2026-07-13 13:58:14",
@@ -2003,26 +1935,6 @@
     {
       "added_at": "2026-07-13 13:58:14",
       "album": {
-        "name": "Main Street Country",
-        "url": "https://open.spotify.com/album/1cvfkOrGG9m7OOpEUOlFn0"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "She's So Gone",
-      "url": "https://open.spotify.com/track/7DOezAN55evXnU0TlnmUNU"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
         "name": "Disney's Greatest Volume 1",
         "url": "https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY"
       },
@@ -2083,22 +1995,6 @@
       "duration_ms": 193096,
       "name": "Arabian Nights (2019)",
       "url": "https://open.spotify.com/track/6ZxPYutGhjLTrcmvcshCa4"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
-        "name": "Alice In Wonderland (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx"
-      },
-      "artists": [
-        {
-          "name": "Kathryn Beaumont",
-          "url": "https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls"
-        }
-      ],
-      "duration_ms": 132640,
-      "name": "Pay Attention / In a World of My Own",
-      "url": "https://open.spotify.com/track/4jadyA9N53rvVjy6KjKAgT"
     },
     {
       "added_at": "2026-07-13 13:58:14",
@@ -2255,30 +2151,6 @@
       "duration_ms": 135346,
       "name": "Best of Friends - From \"The Fox & The Hound\" / Soundtrack",
       "url": "https://open.spotify.com/track/3lP9eoNsz04dMCfPIG0PpK"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
-        "name": "Newsies (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
-      },
-      "artists": [
-        {
-          "name": "Ben Fankhauser",
-          "url": "https://open.spotify.com/artist/46yt6WJsgzPiAtnCe809UV"
-        },
-        {
-          "name": "Jeremy Jordan",
-          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
-        },
-        {
-          "name": "Newsies Original Broadway Cast",
-          "url": "https://open.spotify.com/artist/6yTc5YHDriVSWYq8vPA4Xi"
-        }
-      ],
-      "duration_ms": 322940,
-      "name": "Seize The Day",
-      "url": "https://open.spotify.com/track/0BxKZikii9efSIodiQALJ5"
     },
     {
       "added_at": "2026-07-13 13:58:14",

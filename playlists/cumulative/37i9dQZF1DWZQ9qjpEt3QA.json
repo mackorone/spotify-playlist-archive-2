@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "1126611",
+        "url": "https://open.spotify.com/album/4MLYr9Qdrs7dkMkDDkeKgN"
+      },
+      "artists": [
+        {
+          "name": "Shin In Ryu",
+          "url": "https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177201,
+      "name": "Nice Day",
+      "url": "https://open.spotify.com/track/46DQRMHHHFVcKnEQSWZwVC"
+    },
+    {
+      "album": {
         "name": "Noisy Love",
         "url": "https://open.spotify.com/album/1Z7ZRVIIrML6E5wTxPXjrv"
       },

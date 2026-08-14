@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Cover: Bebe Rexha
 
-1,028 songs - 1 day 23 hr 20 min
+1,029 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Dark Side Of The Moon](https://open.spotify.com/track/2GluxjHlUQntl4JqR4wArt) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19), [x.o.anne](https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq) | [Dark Side Of The Moon](https://open.spotify.com/album/17PJtxBGAjvkgHGBZgCJ9O) | 2:48 | 2023-05-10 | 2023-07-06 |
 | [Darkness](https://open.spotify.com/track/4zLdEpeSd3PxfkZzkZb46C) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Darkness](https://open.spotify.com/album/7n8VDH3a8qu9yB8JfagRpO) | 2:54 | 2022-02-02 | 2022-05-19 |
 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 | 2022-05-11 | 2022-07-21 |
-| [Darling](https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP) | [marli](https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp), [Philemon](https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ) | [Darling](https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC) | 1:46 | 2026-03-10 |  |
+| [Darling](https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP) | [marli](https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp), [Philemon](https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ) | [Darling](https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC) | 1:46 | 2026-03-10 | 2026-08-14 |
 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 | 2024-03-14 | 2024-07-12 |
 | [Dead Or Alive](https://open.spotify.com/track/4ebye8oxJ3SaTi3MD50lbn) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Dead Or Alive](https://open.spotify.com/album/1iELNSuo6I77ZYPo8BJl3o) | 2:14 | 2022-01-12 | 2022-04-21 |
 | [Deep Fear](https://open.spotify.com/track/2w95hYvNjSscsijPsYGS8r) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Sidekick](https://open.spotify.com/artist/6q9gCO6m4qEl9UiPAjSFiq) | [Deep Fear](https://open.spotify.com/album/5VxZLYZ35mQC7mE8UxBOjP) | 2:19 | 2025-01-27 | 2025-02-14 |
@@ -340,6 +340,7 @@
 | [Freak \(Tricky Disco\)](https://open.spotify.com/track/6955Aq4HnJ6dP3jvcptwCM) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [TRIIIPL3 INC.](https://open.spotify.com/artist/1m91WjQ6nEC5k3F1HC51sP), [Discotronic](https://open.spotify.com/artist/4zboeZtcUwsTEhl2YDCLr4) | [Freak \(Tricky Disco\)](https://open.spotify.com/album/0HJh7Y7CtV8N9fnsT3gWWu) | 2:00 | 2026-05-21 |  |
 | [Freaking You Out](https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Freaking You Out](https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3) | 3:02 | 2025-05-10 | 2025-07-04 |
 | [Freaks](https://open.spotify.com/track/0APSMHwhhcQkCUUkMrDUz2) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB) | [Freaks](https://open.spotify.com/album/5inPHhd4MHSjtdKKqxkC2a) | 3:49 | 2025-11-25 | 2026-04-30 |
+| [Free Your Mind](https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ) | 3:21 | 2026-08-13 |  |
 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 | 2026-04-29 | 2026-08-07 |
 | [Free Your Mind](https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Free Your Mind](https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J) | 2:35 | 2024-12-16 | 2025-01-15 |
 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 | 2022-11-23 | 2023-04-13 |

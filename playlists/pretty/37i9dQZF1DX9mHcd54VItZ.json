@@ -1,12 +1,12 @@
 {
   "description": "The best new and classic South African Rock. Cover: Francois van Coke",
-  "num_followers": 28213,
+  "num_followers": 28223,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAErRVbKF/JaGGkphHQKW8HTFq3oP",
+  "snapshot_id": "AAAAAEZnIbgh/FwMVtVIEURKmgRlr2tI",
   "tracks": [
     {
       "added_at": "2026-07-30 22:01:23",
@@ -421,20 +421,20 @@
       "url": "https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-06-12 06:02:15",
       "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
+        "name": "Delete You.",
+        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
       },
       "artists": [
         {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
         }
       ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+      "duration_ms": 188459,
+      "name": "Delete You.",
+      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
     },
     {
       "added_at": "2026-06-12 06:02:15",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4"
     },
     {
-      "added_at": "2026-06-12 06:02:15",
+      "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Delete You.",
-        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
       },
       "artists": [
         {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
         }
       ],
-      "duration_ms": 188459,
-      "name": "Delete You.",
-      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
       "added_at": "2026-04-24 09:03:29",

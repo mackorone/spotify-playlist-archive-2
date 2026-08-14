@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,950 likes - 125 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,966 likes - 125 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,20 +94,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 84 | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ) | [Penélope](https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr) | 3:20 |
 | 85 | [Cat Fun](https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA) | [Hnos Munoz](https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU) | [Cat Fun](https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm) | 3:28 |
 | 86 | [Sendero](https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Sendero](https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG) | 4:52 |
-| 87 | [No Valdrá La Pena](https://open.spotify.com/track/0Gbd4juv2LPIFj1kAQ7Ya5) | [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw), [Blue Lacey](https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8) | [amor 925.](https://open.spotify.com/album/5WYIGMOLsblbp2MbZxBvL7) | 3:29 |
+| 87 | [Considérame](https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Considérame](https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E) | 2:34 |
 | 88 | [Toujours oui <3](https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Toujours oui <3](https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA) | 3:25 |
-| 89 | [Considérame](https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Considérame](https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E) | 2:34 |
-| 90 | [Tu](https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Tu](https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS) | 2:43 |
+| 89 | [Tu](https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Tu](https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS) | 2:43 |
+| 90 | [nada nada](https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr) | [Kris Tena](https://open.spotify.com/artist/3qt8O8Di6tMLmWcTSwGuad), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [mai adeu](https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY) | 1:43 |
 | 91 | [Te perdí](https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Te perdí](https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG) | 3:20 |
-| 92 | [nada nada](https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr) | [Kris Tena](https://open.spotify.com/artist/3qt8O8Di6tMLmWcTSwGuad), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [mai adeu](https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY) | 1:43 |
+| 92 | [No Valdrá La Pena](https://open.spotify.com/track/0Gbd4juv2LPIFj1kAQ7Ya5) | [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw), [Blue Lacey](https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8) | [amor 925.](https://open.spotify.com/album/5WYIGMOLsblbp2MbZxBvL7) | 3:29 |
 | 93 | [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 |
-| 94 | [San Antonio](https://open.spotify.com/track/4VyA4EalislpEMrNF7IBvu) | [caracazador](https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca) | [San Antonio](https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3) | 3:58 |
-| 95 | [Oasis](https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj) | [Julia Nar](https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL), [Khotton](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [Oasis](https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz) | 3:15 |
-| 96 | [Hoguera](https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ), [Isa Izquierdo](https://open.spotify.com/artist/0Nz4lEXz9C2hJ2Vvc4edfd) | [Hoguera](https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq) | 3:54 |
+| 94 | [Oasis](https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj) | [Julia Nar](https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL), [Khotton](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [Oasis](https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz) | 3:15 |
+| 95 | [Hoguera](https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ), [Isa Izquierdo](https://open.spotify.com/artist/0Nz4lEXz9C2hJ2Vvc4edfd) | [Hoguera](https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq) | 3:54 |
+| 96 | [San Antonio](https://open.spotify.com/track/4VyA4EalislpEMrNF7IBvu) | [caracazador](https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca) | [San Antonio](https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3) | 3:58 |
 | 97 | [Ada Road](https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH) | [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [Ada Road](https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn) | 4:38 |
 | 98 | [Mentirosa](https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH) | [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [Mentirosa](https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc) | 2:20 |
-| 99 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 |
-| 100 | [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD) | 2:42 |
+| 99 | [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD) | 2:42 |
+| 100 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 |
 | 101 | [surubí](https://open.spotify.com/track/5U4P3PbG2SUazQgoEneybe) | [Daniel Boudzali](https://open.spotify.com/artist/4eaFfMoSIsblL3UN33ucQq) | [surubí](https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq) | 2:41 |
 | 102 | [xulejudetu](https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi) | [Pol Bordas](https://open.spotify.com/artist/1PcEYX38hbrPwOfzZmEqEI), [Alba Armengou](https://open.spotify.com/artist/1v836FgFa0wmJBMO5FGJul), [salvi](https://open.spotify.com/artist/348j2dI5sC2EzHfvJS29tU), [bby bdass](https://open.spotify.com/artist/5dUw4645pmwu7qVZ7RNHJL) | [xulejudetu](https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf) | 2:33 |
 | 103 | [Pictures](https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Pictures](https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu) | 3:56 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 122 | [Lista de deseos](https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5) | [Medianoche](https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk) | [Lista de deseos](https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL) | 3:16 |
 | 123 | [No volverán](https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR) | [Dollhouse](https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy) | 2:56 |
 | 124 | [Illusion](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [The Inner City](https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI) | 3:00 |
-| 125 | [KERALA](https://open.spotify.com/track/3Faq4qZOlgxLvaBxhFOJ84) | [Marina Sabadell](https://open.spotify.com/artist/6gjf3pjPxXu7VUaj3fDt2V) | [KERALA](https://open.spotify.com/album/3BnqjgSiSoWbmVtGLHzkZJ) | 3:33 |
+| 125 | [Todavía](https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Todavía](https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG) | 4:06 |
 
-Snapshot ID: `AAAAAJtiFB7RO93wwYvx7kETIcUtZ832`
+Snapshot ID: `AAAAAG7RgPJ+SxnFtQYqTl+/wgva8dUH`

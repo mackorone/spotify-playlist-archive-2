@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Karol G & Bruno Mars on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,815 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,859 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Heartclub](https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TANZNEID](https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q) | 3:07 |
 | 100 | [Fux With Us \(feat\. TiaCorine\)](https://open.spotify.com/track/0dMhvueZHZdHfJN99uMzcb) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Fux With Us \(feat\. TiaCorine\)](https://open.spotify.com/album/3hxSPaPvkCnM6qgm9ld1HR) | 2:43 |
 
-Snapshot ID: `AAAAAKjrZBysfM7/RTmPKwQpWcoocbIR`
+Snapshot ID: `AAAAAB2oy63jKqiH4VpgxtIPpTo0a2wv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: CASIOPEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,006 likes - 136 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,010 likes - 136 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 135 | [\#7](https://open.spotify.com/track/65dEGtv5Yb6WjxBIGdNEXg) | [Volkan Öktem](https://open.spotify.com/artist/2CKKVhnXg0a9sw0DOXmwLK) | [\#7](https://open.spotify.com/album/5g6wIyqWZk0c2YJ4NpHd1a) | 6:15 |
 | 136 | [VHS Fireplace Love \- Live](https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [SmokeFace](https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf), [Gabe Jones](https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP) | [VHS Fireplace Love \(Live\)](https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy) | 2:44 |
 
-Snapshot ID: `AAAAAO5Jf2v/0T+aLc9tyVzi1iKznXBh`
+Snapshot ID: `AAAAAB+Hz25pRBq22hWyJZPCWtVuJHBV`

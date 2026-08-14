@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: FAVIQ",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e2d\u0e39\u0e42\u0e19\u0e48 \u0e2b\u0e25\u0e32\u0e27\u0e17\u0e2d\u0e07",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 135813,
       "name": "143",
       "url": "https://open.spotify.com/track/5tkyPx7aCQ9f7N0Y0qmz2v"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0ZdppjPgr8yoNS1xbfqjtG"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -2262,6 +2262,24 @@
       "duration_ms": 208960,
       "name": "black & white",
       "url": "https://open.spotify.com/track/0j2l3sf15o9vczIATwA3Xr"
+    },
+    {
+      "album": {
+        "name": "Black Card",
+        "url": "https://open.spotify.com/album/5K0pF0NzsAr8ZNO1kJAFKl"
+      },
+      "artists": [
+        {
+          "name": "Phuwin",
+          "url": "https://open.spotify.com/artist/1dDqRhUNUraehCs3aoLks0"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187452,
+      "name": "Black Card",
+      "url": "https://open.spotify.com/track/2pOArEixvNyp85H8yVAScE"
     },
     {
       "album": {
@@ -5348,7 +5366,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 245322,
       "name": "Exp. (Expired)",
       "url": "https://open.spotify.com/track/74YZnuD5ptqucekBOEc3mw"
@@ -8338,7 +8356,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
@@ -11168,6 +11186,24 @@
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "album": {
+        "name": "MANIFEST (\u0e20\u0e32\u0e27\u0e19\u0e32)",
+        "url": "https://open.spotify.com/album/7LvsKgiK0gNhTg3CTxQXXr"
+      },
+      "artists": [
+        {
+          "name": "ALIE BLACKCOBRA",
+          "url": "https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "MANIFEST (\u0e20\u0e32\u0e27\u0e19\u0e32)",
+      "url": "https://open.spotify.com/track/1iJsugstgaBD1WmZ7xdg93"
     },
     {
       "album": {
@@ -14444,6 +14480,28 @@
       "duration_ms": 214755,
       "name": "RED FLAG.",
       "url": "https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8"
+    },
+    {
+      "album": {
+        "name": "Red Kiss",
+        "url": "https://open.spotify.com/album/0DMyBCldeV3larW5Pxeumf"
+      },
+      "artists": [
+        {
+          "name": "Emi Thasorn",
+          "url": "https://open.spotify.com/artist/3L0pX41yQ7PT7yB3ZfWfgk"
+        },
+        {
+          "name": "Bonnie Pattraphus",
+          "url": "https://open.spotify.com/artist/0coSKlgl5qpnMwtLajRHO1"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225889,
+      "name": "Red Kiss",
+      "url": "https://open.spotify.com/track/61EFvlYvEhIeJ8rsD81Jr9"
     },
     {
       "album": {
@@ -21274,7 +21332,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 248129,
       "name": "Wish you the best",
       "url": "https://open.spotify.com/track/29frcAygDPC0P51SwoYebk"
@@ -21809,6 +21867,24 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e1f\u0e49\u0e32\u0e2d\u0e27\u0e22\u0e1e\u0e23 (Dear friend)",
+        "url": "https://open.spotify.com/album/7qi6LshNnGjkqvuey0Bfjy"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144727,
+      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e1f\u0e49\u0e32\u0e2d\u0e27\u0e22\u0e1e\u0e23 (Dear friend)",
+      "url": "https://open.spotify.com/track/0Rv76Bg0r2PSITMJyRDCWp"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Boys Don't Cry)",
         "url": "https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG"
       },
@@ -21864,6 +21940,28 @@
       "duration_ms": 291557,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/5djtarcayWp2DK6DQ1Z9P6"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e32\u0e15\u0e32 (KATA)",
+        "url": "https://open.spotify.com/album/6hY2tHJidvqD5pJpZaE54E"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        },
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "\u0e04\u0e32\u0e15\u0e32 (KATA)",
+      "url": "https://open.spotify.com/track/59g67XSLvrQG4AXDGjylK8"
     },
     {
       "album": {
@@ -22034,7 +22132,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 288076,
       "name": "\u0e08\u0e33\u0e40\u0e25\u0e22 (The Wall)",
       "url": "https://open.spotify.com/track/3IJO30sBHgv6xpllqjaZPk"
@@ -22052,7 +22150,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 267559,
       "name": "\u0e08\u0e33\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21 (Flashback)",
       "url": "https://open.spotify.com/track/0qE8ZkREZXAn9zMcYzYUZV"
@@ -22182,6 +22280,24 @@
       "duration_ms": 200738,
       "name": "\u0e0b\u0e39\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e2a\u0e15\u0e32\u0e23\u0e4c (SUPERSTAR)",
       "url": "https://open.spotify.com/track/2t8iLO6UOHOsfRlQMOeNLn"
+    },
+    {
+      "album": {
+        "name": "\u0e0b\u0e39\u0e40\u0e2b\u0e25\u0e47\u0e07\u0e40\u0e15\u0e49\u0e07",
+        "url": "https://open.spotify.com/album/7FIkkrCVZrLdJFNU9UEgdG"
+      },
+      "artists": [
+        {
+          "name": "\u0e2d\u0e39\u0e42\u0e19\u0e48 \u0e2b\u0e25\u0e32\u0e27\u0e17\u0e2d\u0e07",
+          "url": "https://open.spotify.com/artist/5wYhK6NENUwGiEejGnASQ8"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224666,
+      "name": "\u0e0b\u0e39\u0e40\u0e2b\u0e25\u0e47\u0e07\u0e40\u0e15\u0e49\u0e07",
+      "url": "https://open.spotify.com/track/1M3bd0uGr81CpJxv1eNnDb"
     },
     {
       "album": {
@@ -22363,6 +22479,24 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e17\u0e35\u0e48\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
+        "url": "https://open.spotify.com/album/65gngJ6yLvU2BPzmAhgMQv"
+      },
+      "artists": [
+        {
+          "name": "Yes'sir Days",
+          "url": "https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283258,
+      "name": "\u0e17\u0e35\u0e48\u0e17\u0e35\u0e48\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
+      "url": "https://open.spotify.com/track/0FnnwqW9QVZgoHfB5mH49V"
+    },
+    {
+      "album": {
         "name": "\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48 (Zzz.) [Bonus Track]",
         "url": "https://open.spotify.com/album/1x1qL65pIRqDQ5k8Et6aT9"
       },
@@ -22523,6 +22657,28 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e31\u0e07\u0e44\u0e07\u0e01\u0e47\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/4ZYuMJMeN6sUZX5pEGfoWl"
+      },
+      "artists": [
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215714,
+      "name": "\u0e22\u0e31\u0e07\u0e44\u0e07\u0e01\u0e47\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/1zP5IYbYe1Gi1BaiGJEK64"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e49\u0e32\u0e22\u0e48\u0e32\u0e22\u0e30",
         "url": "https://open.spotify.com/album/1QKUoPKIB65DyasIesCb73"
       },
@@ -22556,6 +22712,24 @@
       "duration_ms": 199088,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32?",
       "url": "https://open.spotify.com/track/1mpANQ0OuSDz3yPvPQtvJK"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e1e\u0e2d\u0e14\u0e35 (enough)",
+        "url": "https://open.spotify.com/album/48vs0oAFIzF2SpovRwszy8"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221428,
+      "name": "\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e1e\u0e2d\u0e14\u0e35 (enough)",
+      "url": "https://open.spotify.com/track/3IEA2jlMYaWZV1yJtaOsJx"
     },
     {
       "album": {
@@ -22642,7 +22816,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 203714,
       "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
       "url": "https://open.spotify.com/track/0yCXxEPf1wiPn8ZgP96gbR"
@@ -23131,6 +23305,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e34\u0e14\u0e40\u0e1e\u0e25\u0e34\u0e19 (Loop)",
+        "url": "https://open.spotify.com/album/1JUoBWuD2rx6H0x2FsS6wT"
+      },
+      "artists": [
+        {
+          "name": "Potato",
+          "url": "https://open.spotify.com/artist/6RQyog3L4JlA8t8Bf56otE"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "\u0e40\u0e1e\u0e25\u0e34\u0e14\u0e40\u0e1e\u0e25\u0e34\u0e19 (Loop)",
+      "url": "https://open.spotify.com/track/6B7ggklMW5LcAuly1jIAXF"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
         "url": "https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm"
       },
@@ -23222,7 +23414,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 224095,
       "name": "\u0e40\u0e2b\u0e47\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e15\u0e48\u0e07\u0e07\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0Tjiv7NXXaSZsLoGetuuYm"

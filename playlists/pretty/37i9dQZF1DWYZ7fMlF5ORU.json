@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 186271,
+  "num_followers": 186294,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGyP9V7UBr4UfYomjen8Q47yUpqW",
+  "snapshot_id": "AAAAAKu7aElv02nkvE/91fSR6ohm1JUJ",
   "tracks": [
     {
       "added_at": "2026-06-12 03:01:51",
@@ -215,6 +215,26 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "A Voz",
+        "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
+      },
+      "artists": [
+        {
+          "name": "Hiago Klayton",
+          "url": "https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 260113,
+      "name": "A Voz",
+      "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Um Pedido",
         "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
       },
@@ -227,22 +247,6 @@
       "duration_ms": 255568,
       "name": "Um Pedido",
       "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "A Season Of Remixes",
-        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Brighter Day - Kirk's Mix",
-      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -295,22 +299,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "A Voz",
-        "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
+        "name": "A Season Of Remixes",
+        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
       },
       "artists": [
         {
-          "name": "Hiago Klayton",
-          "url": "https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m"
-        },
-        {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 260113,
-      "name": "A Voz",
-      "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
+      "duration_ms": 251640,
+      "name": "Brighter Day - Kirk's Mix",
+      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Luz - Parte 2",
-        "url": "https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        },
-        {
-          "name": "Coral Black To Black",
-          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
-        }
-      ],
-      "duration_ms": 298787,
-      "name": "Ele vem (feat. Coral Black To Black)",
-      "url": "https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Aten\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 198681,
       "name": "Aten\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Luz - Parte 2",
+        "url": "https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Coral Black To Black",
+          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
+        }
+      ],
+      "duration_ms": 298787,
+      "name": "Ele vem (feat. Coral Black To Black)",
+      "url": "https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Sobre Deixar",
+        "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
+      },
+      "artists": [
+        {
+          "name": "Rafa Blauth",
+          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
+        }
+      ],
+      "duration_ms": 220386,
+      "name": "O Que H\u00e1 Por Dentro",
+      "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Luz - Parte 1",
         "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Sobre Deixar",
-        "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
-      },
-      "artists": [
-        {
-          "name": "Rafa Blauth",
-          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
-        }
-      ],
-      "duration_ms": 220386,
-      "name": "O Que H\u00e1 Por Dentro",
-      "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Ele Me Amou",
         "url": "https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Eu Vou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7BwR0SwGwuCPoyO1fD0yX0"
-      },
-      "artists": [
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        }
-      ],
-      "duration_ms": 220786,
-      "name": "Eu Vou - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ENkZ79SYi2boALhzp4NFB"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Por Amor a Ti",
         "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 163000,
       "name": "Medley: Dom Supremo",
       "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Eu Vou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7BwR0SwGwuCPoyO1fD0yX0"
+      },
+      "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "duration_ms": 220786,
+      "name": "Eu Vou - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ENkZ79SYi2boALhzp4NFB"
     },
     {
       "added_at": "2026-06-12 03:01:51",

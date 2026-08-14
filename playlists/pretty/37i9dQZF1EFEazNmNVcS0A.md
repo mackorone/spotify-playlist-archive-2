@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,675 likes - 168 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 168 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 124 | [Discovery](https://open.spotify.com/track/4xehyELO4jSKQx6H1XPt06) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Medusa](https://open.spotify.com/album/2cNdx2Guop1r7MT8dBucEd) | 3:41 |
 | 125 | [Taking In Water](https://open.spotify.com/track/0XVTW9rACtI7GWPKN9ddrj) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion](https://open.spotify.com/album/1T5wmjLCBuuTKTpKsiAn7R) | 4:27 |
 | 126 | [Eddie In The Darkness](https://open.spotify.com/track/4I0VuGVxsWKFcbniaUs835) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:35 |
-| 127 | [Little Secrets](https://open.spotify.com/track/4omr1cq5R7iOQLgZ23hUQ0) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Growing Up In Public](https://open.spotify.com/album/3SAFkPKG9uhLXkdLeMjgHL) | 3:58 |
-| 128 | [X\-Ray](https://open.spotify.com/track/31Qp9mEYRYGUeemUoTtTaV) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:23 |
+| 127 | [X\-Ray](https://open.spotify.com/track/31Qp9mEYRYGUeemUoTtTaV) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:23 |
+| 128 | [Little Secrets](https://open.spotify.com/track/4omr1cq5R7iOQLgZ23hUQ0) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Growing Up In Public](https://open.spotify.com/album/3SAFkPKG9uhLXkdLeMjgHL) | 3:58 |
 | 129 | [Walking on Water](https://open.spotify.com/track/1WqXjbbQhyfPk1hH6bzdWM) | [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [In Your Hands \(Deluxe Edition\)](https://open.spotify.com/album/1LMMAiUqFPsHi4MnU90xb1) | 3:22 |
 | 130 | [Wanderlust](https://open.spotify.com/track/0ScXjG3XP46w5NDR876WEM) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [I Remember](https://open.spotify.com/album/6KuHbuDiJNcgEvnLTnfQcY) | 3:30 |
 | 131 | [Even Though](https://open.spotify.com/track/715QKbvfHYTZFs1j8hrAD6) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:18 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 167 | [Absent](https://open.spotify.com/track/7KqyvSXcastVzKIcqMCwF3) | [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN) | [Elsewhere](https://open.spotify.com/album/4hjsM5a2HmoIFILWbfSmgE) | 3:38 |
 | 168 | [Back from Beyond](https://open.spotify.com/track/4S9hqUcn1R1WFtIAiPy6ID) | [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Once](https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa) | 3:17 |
 
-Snapshot ID: `AcZaYAAAAADzsQdMsAuAGyn+ajsa8GVt`
+Snapshot ID: `AcZgAAAAAACXJfaL+5YkV8kKkPeEV+a6`

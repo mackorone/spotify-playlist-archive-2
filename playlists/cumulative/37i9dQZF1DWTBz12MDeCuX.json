@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: AD\u00c9LA",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: JAS",
   "name": "me right now",
   "tracks": [
     {
@@ -13630,7 +13630,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 137728,
       "name": "danke f\u00fcr nichts",
       "url": "https://open.spotify.com/track/0cOf10yUSlx3HSWYrQCYb6"
@@ -14710,6 +14710,24 @@
       "duration_ms": 154773,
       "name": "Die Hitze ist hei\u00df",
       "url": "https://open.spotify.com/track/4AbH6roYbLNcjZmZEkkbtw"
+    },
+    {
+      "album": {
+        "name": "Die Jugend hat Angst",
+        "url": "https://open.spotify.com/album/2M7DJrDORAFpXFq6j9eu1h"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153912,
+      "name": "Die Jugend hat Angst",
+      "url": "https://open.spotify.com/track/2oYn3QvypdJxcgvJrl3E5w"
     },
     {
       "album": {
@@ -16198,7 +16216,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -22830,7 +22848,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 138178,
       "name": "ganz oben",
       "url": "https://open.spotify.com/track/3xl8FXf7X8JRrhB3R9nvJa"
@@ -23408,6 +23426,24 @@
       "duration_ms": 108503,
       "name": "GEN Z LUV",
       "url": "https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI"
+    },
+    {
+      "album": {
+        "name": "genau das",
+        "url": "https://open.spotify.com/album/4VK7p5VKS59XAgFi2rzZ65"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139204,
+      "name": "genau das",
+      "url": "https://open.spotify.com/track/696HqZNd1Er130PoTo4Gdn"
     },
     {
       "album": {
@@ -25054,7 +25090,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 138666,
       "name": "Goldrichtig",
       "url": "https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG"
@@ -25618,10 +25654,40 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 188852,
       "name": "Gut Genug (mit Blumengarten & Shirin David)",
       "url": "https://open.spotify.com/track/7iNLydOMjLLb7BiwkdoPDU"
+    },
+    {
+      "album": {
+        "name": "Gut Genug (with Omah Lay, Blumengarten & 255)",
+        "url": "https://open.spotify.com/album/0gszF1GZYyI0D0qc4ez0r9"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Gut Genug (with Omah Lay, Blumengarten & 255)",
+      "url": "https://open.spotify.com/track/6c7ao7QiLH0kT6wd0xHUCV"
     },
     {
       "album": {
@@ -25644,7 +25710,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 173121,
       "name": "Gut Genug (with Skepta & Blumengarten)",
       "url": "https://open.spotify.com/track/71zVyAO3nkykYTFBfiw1DM"
@@ -26588,7 +26654,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 177236,
       "name": "Hate My Mom",
       "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
@@ -30545,6 +30611,24 @@
     },
     {
       "album": {
+        "name": "Ich hoffe du hast Angst",
+        "url": "https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150822,
+      "name": "Ich hoffe du hast Angst",
+      "url": "https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf"
+    },
+    {
+      "album": {
         "name": "Ich liebe dich f\u00fcr immer",
         "url": "https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R"
       },
@@ -34192,7 +34276,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 205094,
       "name": "Keine Sorgen",
       "url": "https://open.spotify.com/track/2pQVXKRtNAdRzk2jukS1jH"
@@ -34606,7 +34690,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 104212,
       "name": "Kissenschlacht",
       "url": "https://open.spotify.com/track/5fYB7tgaIG0r6dXcl2gzW6"
@@ -36380,6 +36464,24 @@
       "duration_ms": 173000,
       "name": "Lautlos",
       "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
+    },
+    {
+      "album": {
+        "name": "Leak It",
+        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183406,
+      "name": "Leak It",
+      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
     },
     {
       "album": {
@@ -38213,6 +38315,24 @@
     },
     {
       "album": {
+        "name": "Loketo",
+        "url": "https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w"
+      },
+      "artists": [
+        {
+          "name": "MIK",
+          "url": "https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187943,
+      "name": "Loketo",
+      "url": "https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh"
+    },
+    {
+      "album": {
         "name": "Boys Do Cry",
         "url": "https://open.spotify.com/album/1lIjKOmyguCKZFuPyDZp6h"
       },
@@ -39911,6 +40031,24 @@
     },
     {
       "album": {
+        "name": "MANGO STICKY",
+        "url": "https://open.spotify.com/album/4zxqMioxbCnSuKUNKtGycP"
+      },
+      "artists": [
+        {
+          "name": "Tara Emely",
+          "url": "https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126200,
+      "name": "MANGO STICKY",
+      "url": "https://open.spotify.com/track/0vGVmBNoa6njbKZikFqLXn"
+    },
+    {
+      "album": {
         "name": "Mangos mit Chili",
         "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
       },
@@ -40038,7 +40176,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 188764,
       "name": "marie",
       "url": "https://open.spotify.com/track/5Qzigqughy9Wi40tdMATo5"
@@ -40818,6 +40956,32 @@
       "duration_ms": 103262,
       "name": "mein herz setzt aus_v2",
       "url": "https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR"
+    },
+    {
+      "album": {
+        "name": "Mein Mensch (Edit)",
+        "url": "https://open.spotify.com/album/7GHCukS2HqrjiWyueLrtBj"
+      },
+      "artists": [
+        {
+          "name": "Carpoolboy",
+          "url": "https://open.spotify.com/artist/2Ncvl4iQXrbH7FeJScNg87"
+        },
+        {
+          "name": "Jason Wats",
+          "url": "https://open.spotify.com/artist/2ATIKIbW8OHGyG2HF61e9W"
+        },
+        {
+          "name": "Rosc",
+          "url": "https://open.spotify.com/artist/4vEIMa1vuh2eKBryiepN8c"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134508,
+      "name": "Mein Mensch - Edit",
+      "url": "https://open.spotify.com/track/5KNzcthoTBsJiTL9yKB4Fu"
     },
     {
       "album": {
@@ -41656,6 +41820,28 @@
       "duration_ms": 203187,
       "name": "miss sunshine",
       "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
+    },
+    {
+      "album": {
+        "name": "Miss Universe",
+        "url": "https://open.spotify.com/album/2qsxoeMEz0PydFWD27ubP7"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Miss Universe",
+      "url": "https://open.spotify.com/track/4h58ofhjwQl0CSflFyUNRU"
     },
     {
       "album": {
@@ -42764,6 +42950,24 @@
       "duration_ms": 231566,
       "name": "MR. MEYER",
       "url": "https://open.spotify.com/track/414rOgwyJUcY49sGW5CsZy"
+    },
+    {
+      "album": {
+        "name": "mr. rush",
+        "url": "https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144827,
+      "name": "mr. rush",
+      "url": "https://open.spotify.com/track/5p2FXRstR6VDUHIANeGk0E"
     },
     {
       "album": {
@@ -46531,6 +46735,24 @@
     },
     {
       "album": {
+        "name": "Nur mit dir.",
+        "url": "https://open.spotify.com/album/12HKqxEUxooTZuST8YPwRQ"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140370,
+      "name": "Nur mit dir.",
+      "url": "https://open.spotify.com/track/0Vqt8BrMbacozu4Lvm4vrw"
+    },
+    {
+      "album": {
         "name": "NUR WENN ICH ATME",
         "url": "https://open.spotify.com/album/6wQvJD5jxhQZrrDklqb3xR"
       },
@@ -46884,6 +47106,24 @@
       "duration_ms": 225600,
       "name": "oh to be loved",
       "url": "https://open.spotify.com/track/7wR4drNkIHfT3JkDbL5jIg"
+    },
+    {
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "album": {
@@ -48939,6 +49179,24 @@
     },
     {
       "album": {
+        "name": "Paul",
+        "url": "https://open.spotify.com/album/4Rqzk5YGDOux3QZgs2HEN4"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192374,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/6m3q1zmQ9WMQbha9BH6gpn"
+    },
+    {
+      "album": {
         "name": "Paula",
         "url": "https://open.spotify.com/album/40GAexbe13lJEXtejDjwJl"
       },
@@ -49734,7 +49992,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 122681,
       "name": "pirouetten",
       "url": "https://open.spotify.com/track/2EXoZOOeQ170NVUbwlaIhO"
@@ -50596,7 +50854,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 140960,
       "name": "Pretty Boys",
       "url": "https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf"
@@ -50702,7 +50960,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 115298,
       "name": "Prima",
       "url": "https://open.spotify.com/track/7J7O6Rp5v3RAQGVkTmXFZ3"
@@ -54398,7 +54656,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 145641,
       "name": "Sch\u00f6n sein (ist fun)",
       "url": "https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5"
@@ -56504,7 +56762,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 150927,
       "name": "So Abgefuckt",
       "url": "https://open.spotify.com/track/40T4YzVoD5w8OrKNwRgEn6"
@@ -56922,7 +57180,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 177000,
       "name": "Soda Zitron",
       "url": "https://open.spotify.com/track/7FytLKznuhvK7yHtCxZaP7"
@@ -63055,6 +63313,24 @@
     },
     {
       "album": {
+        "name": "LAUT SEIN (IMMER)",
+        "url": "https://open.spotify.com/album/09RJu1PXBEIhLj7Rcr3fjk"
+      },
+      "artists": [
+        {
+          "name": "yung pepp",
+          "url": "https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/0xbfPV9lRfC5n1X7ZAZTZK"
+    },
+    {
+      "album": {
         "name": "TRACKIES",
         "url": "https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne"
       },
@@ -65991,6 +66267,24 @@
     },
     {
       "album": {
+        "name": "Verschwommen",
+        "url": "https://open.spotify.com/album/2ZsqkEcR7NVtW65rRDTQoO"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128735,
+      "name": "Verschwommen",
+      "url": "https://open.spotify.com/track/1km0nSYg3uFU7ezuRbbwyL"
+    },
+    {
+      "album": {
         "name": "VERSPRICH, DASS DU IMMER ALLES SAGST",
         "url": "https://open.spotify.com/album/3SCZUpTIMUzi3mu9wvfy83"
       },
@@ -66340,7 +66634,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 136615,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
@@ -69922,6 +70216,28 @@
       "duration_ms": 157605,
       "name": "Wie du lachst",
       "url": "https://open.spotify.com/track/3fSoQU2tCIy5mtDDIxbbsK"
+    },
+    {
+      "album": {
+        "name": "wie du liebst",
+        "url": "https://open.spotify.com/album/3351R1TgdmIoBJlWqeQVgK"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        },
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172436,
+      "name": "wie du liebst",
+      "url": "https://open.spotify.com/track/4bydS9c1vpLXjyg79TOyb4"
     },
     {
       "album": {

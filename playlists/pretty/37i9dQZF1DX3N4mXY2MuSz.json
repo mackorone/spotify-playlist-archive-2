@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 90547,
+  "num_followers": 90544,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJlKVueov405YW/70KRYsSHRW3xY",
+  "snapshot_id": "AAAAAK3L8jyuHCeYNiITbjZDqvEqqb4u",
   "tracks": [
     {
       "added_at": "2023-11-18 13:41:26",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "The Human Highlight Reel",
         "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 184880,
       "name": "Decemberism",
       "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -632,13 +632,13 @@
       },
       "artists": [
         {
-          "name": "FM Static",
-          "url": "https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV"
+          "name": "The Almost",
+          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
         }
       ],
-      "duration_ms": 255400,
-      "name": "Christmas Shoes",
-      "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
+      "duration_ms": 188333,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/22rBktERctuWCLmnV51Td5"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -648,13 +648,13 @@
       },
       "artists": [
         {
-          "name": "The Almost",
-          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
+          "name": "FM Static",
+          "url": "https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Little Drummer Boy",
-      "url": "https://open.spotify.com/track/22rBktERctuWCLmnV51Td5"
+      "duration_ms": 255400,
+      "name": "Christmas Shoes",
+      "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Merry Flippin' Christmas Vol. 1 and 2",
-        "url": "https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Merry Flippin' Christmas (Happy Freakin' New Year)",
-      "url": "https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Punk Rock Christmas",
         "url": "https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 122926,
       "name": "Please Come Home for Christmas",
       "url": "https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Merry Flippin' Christmas Vol. 1 and 2",
+        "url": "https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Merry Flippin' Christmas (Happy Freakin' New Year)",
+      "url": "https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "All I Want for Christmas Is You",
+        "url": "https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0"
+      },
+      "artists": [
+        {
+          "name": "The Dollyrots",
+          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
+        }
+      ],
+      "duration_ms": 164655,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "This Could Be Christmas",
         "url": "https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 291191,
       "name": "This Could Be Christmas",
       "url": "https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "All I Want for Christmas Is You",
-        "url": "https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0"
-      },
-      "artists": [
-        {
-          "name": "The Dollyrots",
-          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
-        }
-      ],
-      "duration_ms": 164655,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "We Wish You a Merry Christmas / Jingle Bells (Short Edit)",
-        "url": "https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b"
-      },
-      "artists": [
-        {
-          "name": "Normahl",
-          "url": "https://open.spotify.com/artist/4A3ZGNdTWn4w4Aw6VFqoJm"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "We Wish You a Merry Christmas / Jingle Bells - Short Edit",
-      "url": "https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Cards",
         "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 246074,
       "name": "Christmas Cards",
       "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "We Wish You a Merry Christmas / Jingle Bells (Short Edit)",
+        "url": "https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b"
+      },
+      "artists": [
+        {
+          "name": "Normahl",
+          "url": "https://open.spotify.com/artist/4A3ZGNdTWn4w4Aw6VFqoJm"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "We Wish You a Merry Christmas / Jingle Bells - Short Edit",
+      "url": "https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "It's Better to Give Than Receive",
-        "url": "https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq"
-      },
-      "artists": [
-        {
-          "name": "Traitors!",
-          "url": "https://open.spotify.com/artist/5bZenVzKn4ZXbPWRNL7YAy"
-        }
-      ],
-      "duration_ms": 158552,
-      "name": "Lonely This Christmas",
-      "url": "https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Dogs Eating Dogs",
         "url": "https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 239306,
       "name": "Boxing Day",
       "url": "https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "It's Better to Give Than Receive",
+        "url": "https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq"
+      },
+      "artists": [
+        {
+          "name": "Traitors!",
+          "url": "https://open.spotify.com/artist/5bZenVzKn4ZXbPWRNL7YAy"
+        }
+      ],
+      "duration_ms": 158552,
+      "name": "Lonely This Christmas",
+      "url": "https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "When Snow Falls",
-        "url": "https://open.spotify.com/album/3MqWiO7dkWBrIbFzH93hXP"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 190017,
-      "name": "When Snow Falls",
-      "url": "https://open.spotify.com/track/1KWYSmOPmxFczG4iiWA1nV"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "... And A Happy New Year - EP",
         "url": "https://open.spotify.com/album/5gp50OwT4ocLFYjY0yGKoK"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 201640,
       "name": "Mr. Winter",
       "url": "https://open.spotify.com/track/4DhKi9aSu9cEf5HnHSAdSE"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "When Snow Falls",
+        "url": "https://open.spotify.com/album/3MqWiO7dkWBrIbFzH93hXP"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "duration_ms": 190017,
+      "name": "When Snow Falls",
+      "url": "https://open.spotify.com/track/1KWYSmOPmxFczG4iiWA1nV"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/47nwtVeih4vDxqTlNbk0U8"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1uocpg15Pa1lKYUufHayI5"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "I'm Going Surfing for Xmas",
         "url": "https://open.spotify.com/album/1Lwokr9Nxk6cyAUGYgnePf"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 135110,
       "name": "I'm Going Surfing for Xmas",
       "url": "https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/47nwtVeih4vDxqTlNbk0U8"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1uocpg15Pa1lKYUufHayI5"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Let It Snow Baby...Let It Reindeer",
-        "url": "https://open.spotify.com/album/3ZH2C93zp7IX6WC8rH8W1z"
-      },
-      "artists": [
-        {
-          "name": "Relient K",
-          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "12 Days of Christmas",
-      "url": "https://open.spotify.com/track/5vVrDSIrZm3CpCTVBlKyrT"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 242070,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/5bMV6bT5YSBHJqmK2F2cMJ"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Let It Snow Baby...Let It Reindeer",
+        "url": "https://open.spotify.com/album/3ZH2C93zp7IX6WC8rH8W1z"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "12 Days of Christmas",
+      "url": "https://open.spotify.com/track/5vVrDSIrZm3CpCTVBlKyrT"
     },
     {
       "added_at": "2023-11-18 13:41:26",

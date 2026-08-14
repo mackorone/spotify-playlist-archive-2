@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes ♣️
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,588 likes - 150 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,714 likes - 150 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 149 | [Ancient Secrets](https://open.spotify.com/track/1ReUQBuR6rPojwvZJYyepT) | [Nyrus](https://open.spotify.com/artist/4K129VU520mAbin25QcKfH), [Serpentis](https://open.spotify.com/artist/7GDTaBQ5irjbkqAg8JIvbi) | [Ancient Secrets](https://open.spotify.com/album/1VWls87v6qVn7S9tXS0M1o) | 3:42 |
 | 150 | [Headspun](https://open.spotify.com/track/108nFTPajD29FjcHmE7JX8) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Headspun](https://open.spotify.com/album/6hPJ5c6BI0KHvTXxvpDxSa) | 2:23 |
 
-Snapshot ID: `AAAAANBJ6sP6RJcPqP9srkWf+zXVA0r1`
+Snapshot ID: `AAAAAIhxbnyKhkCcI/Jw2MqlAkGgZAJ7`

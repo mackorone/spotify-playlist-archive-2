@@ -945,6 +945,28 @@
     },
     {
       "album": {
+        "name": "Deixa o Barulho, Completo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OW2pM2MEy4Iw8rdeg4onm"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Ancorado - Ao Vivo",
+      "url": "https://open.spotify.com/track/1fcwyeBBJ9VnZAKcgc7GRf"
+    },
+    {
+      "album": {
         "name": "Anota A\u00ed (Ao Vivo)",
         "url": "https://open.spotify.com/album/5md8rYv1JhgQEsBMS5WREE"
       },
@@ -1044,7 +1066,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 156579,
       "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 178285,
       "name": "Baile no Rio",
       "url": "https://open.spotify.com/track/1BInZuNY6XMXr89Pn3cJYL"
@@ -3094,7 +3116,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 159082,
       "name": "DENTRO DA LAND ROVER - Ao Vivo",
       "url": "https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ"
@@ -3464,6 +3486,32 @@
       "duration_ms": 189800,
       "name": "Digo ou N\u00e3o Digo - Ao Vivo",
       "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
+    },
+    {
+      "album": {
+        "name": "Disneyl\u00e2ndia",
+        "url": "https://open.spotify.com/album/3oXIKToc0OlL6E8JTcFgT7"
+      },
+      "artists": [
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "Pedrinho Z",
+          "url": "https://open.spotify.com/artist/6OjuHxyurXJxa4ogYWl5Br"
+        },
+        {
+          "name": "DLIMA7",
+          "url": "https://open.spotify.com/artist/29u3JaZVRn9ICRK7M82Ynr"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "Disneyl\u00e2ndia",
+      "url": "https://open.spotify.com/track/42bT00XQO5QlRo5HJQsGYn"
     },
     {
       "album": {
@@ -6628,7 +6676,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 132000,
       "name": "Maria Vaqueiro",
       "url": "https://open.spotify.com/track/2SdY67mkVPqIhObg8QP458"
@@ -6826,7 +6874,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 148195,
       "name": "Me Fala Qual Necessidade - Ao Vivo",
       "url": "https://open.spotify.com/track/42AIPMFY5Plqxr4Mw6Bhx9"
@@ -7843,6 +7891,32 @@
     },
     {
       "album": {
+        "name": "MTG Pra Ficar Legal",
+        "url": "https://open.spotify.com/album/6TGcOYytHAJd64f06lxFP3"
+      },
+      "artists": [
+        {
+          "name": "DJ JZ",
+          "url": "https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB"
+        },
+        {
+          "name": "Mc Fael Halls",
+          "url": "https://open.spotify.com/artist/3GXvEIDsldUNbsvypttNd2"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "MTG Pra Ficar Legal",
+      "url": "https://open.spotify.com/track/3crEG7LMmze2X3JVAuVRE9"
+    },
+    {
+      "album": {
         "name": "MTG QUEM N\u00c3O QUER SOU EU",
         "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
       },
@@ -7948,7 +8022,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 144000,
       "name": "M\u00e3e Solteira",
       "url": "https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi"
@@ -8497,6 +8571,28 @@
     },
     {
       "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155697,
+      "name": "N\u00e3o Me Cutuca",
+      "url": "https://open.spotify.com/track/02BhbpQKWCVjqVBUsvOL7i"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Para",
         "url": "https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re"
       },
@@ -8681,6 +8777,24 @@
     },
     {
       "album": {
+        "name": "Bregu\u00edssimo (Vol.1)",
+        "url": "https://open.spotify.com/album/0Bqf7qn2GytcYPRZCghWiS"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166399,
+      "name": "O Rosto E O Resto",
+      "url": "https://open.spotify.com/track/4rxwbN8v8OebKEBQIZzOVY"
+    },
+    {
+      "album": {
         "name": "Olha Eu Sorrindo",
         "url": "https://open.spotify.com/album/0E5XITaUAXAh7h0HXTqZue"
       },
@@ -8692,7 +8806,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 193805,
       "name": "Olha Eu Sorrindo",
       "url": "https://open.spotify.com/track/1GIr3VE6AWRxOyrj3VXUzr"
@@ -8818,7 +8932,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 140487,
       "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
@@ -9344,7 +9458,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 140978,
       "name": "Pente e Rala",
       "url": "https://open.spotify.com/track/1VCEamUWQEDKnIHK33NbdP"
@@ -9959,6 +10073,36 @@
     },
     {
       "album": {
+        "name": "Praia do Futuro",
+        "url": "https://open.spotify.com/album/0ssdLSHGVoJQAyIwAFnwaJ"
+      },
+      "artists": [
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Felipe Farra",
+          "url": "https://open.spotify.com/artist/196g29aSKS8LrBlAVJ3N8Z"
+        },
+        {
+          "name": "DL no Beat",
+          "url": "https://open.spotify.com/artist/2vUK80KtHqiwfiLilyoTL3"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137560,
+      "name": "Praia do Futuro",
+      "url": "https://open.spotify.com/track/7u3wnVbQVWIVjSfm1lKcmS"
+    },
+    {
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -10231,6 +10375,36 @@
     },
     {
       "album": {
+        "name": "QUE LOUCURA (Remix)",
+        "url": "https://open.spotify.com/album/6sFBaXx0Qe52YIYnpuXX4T"
+      },
+      "artists": [
+        {
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176073,
+      "name": "QUE LOUCURA - Remix",
+      "url": "https://open.spotify.com/track/1t3FVvjWVqvOI59M7CzqOi"
+    },
+    {
+      "album": {
         "name": "Quem Disse Que o Amor \u00c9 Bom",
         "url": "https://open.spotify.com/album/2XFNVirgoGEUW7bWfjD3XB"
       },
@@ -10496,7 +10670,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 106685,
       "name": "Rebolando",
       "url": "https://open.spotify.com/track/17xyLNjsAkAbMRzZl8eOJX"
@@ -10544,6 +10718,28 @@
       "duration_ms": 246857,
       "name": "Resenha de Ex-Love",
       "url": "https://open.spotify.com/track/5wV5dO1GOI4srs4Um5cJXo"
+    },
+    {
+      "album": {
+        "name": "Resenha de Ex-love 2.0",
+        "url": "https://open.spotify.com/album/11tjGHVazW6qqxhWiEcUDB"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Resenha de Ex-love 2.0",
+      "url": "https://open.spotify.com/track/5W5X1peSN7er7ZIEMZBI3H"
     },
     {
       "album": {
@@ -10788,7 +10984,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 112615,
       "name": "Rumo ao Hexa",
       "url": "https://open.spotify.com/track/2H8XkgvzyclrurIImuXsBY"
@@ -10836,6 +11032,28 @@
       "duration_ms": 169002,
       "name": "Safado",
       "url": "https://open.spotify.com/track/37OIusjSUFvt0uqEE6r2Ux"
+    },
+    {
+      "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "KBrum",
+          "url": "https://open.spotify.com/artist/7hc0T3k2vWAdkpJyucSXrw"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151596,
+      "name": "Sal Grosso",
+      "url": "https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL"
     },
     {
       "album": {
@@ -11555,6 +11773,24 @@
     },
     {
       "album": {
+        "name": "Sign Of The Times",
+        "url": "https://open.spotify.com/album/6Yy19mVk13f6IvtHLx1TSB"
+      },
+      "artists": [
+        {
+          "name": "\u00cdkaro Mendes",
+          "url": "https://open.spotify.com/artist/1wwKPlc0xyhK6Z0gEITJpO"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167737,
+      "name": "Sign Of The Times - Arrocha",
+      "url": "https://open.spotify.com/track/5lEwqFPxb3tfbFLJjD2szM"
+    },
+    {
+      "album": {
         "name": "Silverado (AgroPlay Ver\u00e3o)",
         "url": "https://open.spotify.com/album/0jc1n9dACj0B3LxivgmrQb"
       },
@@ -12188,7 +12424,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 167692,
       "name": "Telefone Sem Fio - Ao Vivo",
       "url": "https://open.spotify.com/track/0mo4IFJlaejAEzwUmyOyTD"
@@ -12891,6 +13127,28 @@
     },
     {
       "album": {
+        "name": "Um Pe\u00e3o Desse",
+        "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
+      },
+      "artists": [
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127161,
+      "name": "Um Pe\u00e3o Desse",
+      "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
+    },
+    {
+      "album": {
         "name": "Um Por Cento (UN X100TO) [Ao Vivo]",
         "url": "https://open.spotify.com/album/334dyM5WtHpeXFt3R6X7xz"
       },
@@ -13262,7 +13520,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 142030,
       "name": "Ver\u00e3oz\u00e3o (T\u00e1 Calor)",
       "url": "https://open.spotify.com/track/3AREKkqAoBpFxD5Hm9Ip53"
@@ -13673,6 +13931,36 @@
     },
     {
       "album": {
+        "name": "V\u00eddeo Sensual",
+        "url": "https://open.spotify.com/album/6goDyWFpXpcU5f5toDyCXn"
+      },
+      "artists": [
+        {
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148921,
+      "name": "V\u00eddeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo"
+    },
+    {
+      "album": {
         "name": "Welcome To The Mato",
         "url": "https://open.spotify.com/album/0CEAZ8iN3rmlJo9jHkHKsL"
       },
@@ -13852,7 +14140,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 238271,
       "name": "\u00c9 Tarde Demais / Estou Mal - Ao Vivo",
       "url": "https://open.spotify.com/track/3AJhn8JHsUq64vzQgPGm4T"

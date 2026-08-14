@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anpmAAAAAACSKcHod9TLiIlxJdGi3+zn",
+  "snapshot_id": "anu3gAAAAAAov1Zyl8kYdcGJdMKq3hOs",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CA$HMERE",
+        "url": "https://open.spotify.com/album/65bC4fvUPoWqSIPqwW3uLo"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 214811,
+      "name": "CA$HMERE",
+      "url": "https://open.spotify.com/track/4x8HoxdUX78UiFkiVWsygM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MULTIVERSES (Revisi Final Fix Banget)",
         "url": "https://open.spotify.com/album/3OOL3zaZdN14LLDpzRWj8e"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 253018,
       "name": "Riphunter",
       "url": "https://open.spotify.com/track/0RHXZwwxuHBohTlA6yyLkw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CA$HMERE",
-        "url": "https://open.spotify.com/album/65bC4fvUPoWqSIPqwW3uLo"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 214811,
-      "name": "CA$HMERE",
-      "url": "https://open.spotify.com/track/4x8HoxdUX78UiFkiVWsygM"
     },
     {
       "added_at": null,
@@ -303,6 +303,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) [REMIX]",
+        "url": "https://open.spotify.com/album/5F9n9FZTxY7mnQKzIX4qgF"
+      },
+      "artists": [
+        {
+          "name": "\u534a\u719f\u5375\u3063\u3061",
+          "url": "https://open.spotify.com/artist/41X6FS6g9dLuOGghju7Qb1"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Yayoi Daimon",
+          "url": "https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb"
+        }
+      ],
+      "duration_ms": 141833,
+      "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) - REMIX",
+      "url": "https://open.spotify.com/track/1uZ8vgCwplmJ18HIDcirB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Speak English",
         "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
@@ -343,30 +367,6 @@
       "duration_ms": 175714,
       "name": "Want Me Back",
       "url": "https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) [REMIX]",
-        "url": "https://open.spotify.com/album/5F9n9FZTxY7mnQKzIX4qgF"
-      },
-      "artists": [
-        {
-          "name": "\u534a\u719f\u5375\u3063\u3061",
-          "url": "https://open.spotify.com/artist/41X6FS6g9dLuOGghju7Qb1"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Yayoi Daimon",
-          "url": "https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb"
-        }
-      ],
-      "duration_ms": 141833,
-      "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) - REMIX",
-      "url": "https://open.spotify.com/track/1uZ8vgCwplmJ18HIDcirB1"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B4COT!",
-        "url": "https://open.spotify.com/album/6YZh5vyvUWTxf84PHQXnqw"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "JV.JARVIS",
-          "url": "https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "B4COT!",
-      "url": "https://open.spotify.com/track/52iHSucM6u3SSJhnZtjpag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DEKADE",
         "url": "https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 221083,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B4COT!",
+        "url": "https://open.spotify.com/album/6YZh5vyvUWTxf84PHQXnqw"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "JV.JARVIS",
+          "url": "https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "B4COT!",
+      "url": "https://open.spotify.com/track/52iHSucM6u3SSJhnZtjpag"
     },
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mardial & Friends",
+        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
+      },
+      "artists": [
+        {
+          "name": "Mardial",
+          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 185892,
+      "name": "Digital Love",
+      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lit in Shanghai",
         "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 149783,
       "name": "Ain't No MF (feat. pH-1)",
       "url": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mardial & Friends",
-        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
-      },
-      "artists": [
-        {
-          "name": "Mardial",
-          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 185892,
-      "name": "Digital Love",
-      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MING LING (feat. Yung Raja)",
         "url": "https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj"
       },
@@ -823,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
       },
       "artists": [
         {
@@ -832,9 +848,9 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 150929,
-      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
+      "duration_ms": 154583,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
       "duration_ms": 165067,
       "name": "whats ur problem",
       "url": "https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake Friends",
-        "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 154583,
-      "name": "Fake Friends",
-      "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
     },
     {
       "added_at": null,
@@ -931,6 +931,98 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Ted Park",
+          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
+        }
+      ],
+      "duration_ms": 169796,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        }
+      ],
+      "duration_ms": 181185,
+      "name": "out of control (feat. Rayi Putra)",
+      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Ugly",
+        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 142018,
+      "name": "I'm Ugly",
+      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
+        "url": "https://open.spotify.com/album/3hnyY0tfk314wgzqQUPrqm"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u8fbe\u5a03",
+          "url": "https://open.spotify.com/artist/2eeDDDoYRBX8a2jRxLSv3D"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
+      "url": "https://open.spotify.com/track/6dnmu3KE5rm82eOSejssef"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "no bethany",
         "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
@@ -958,103 +1050,31 @@
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Ted Park",
-          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
-        }
-      ],
-      "duration_ms": 169796,
-      "name": "Look At Me Now",
-      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
-        "url": "https://open.spotify.com/album/3hnyY0tfk314wgzqQUPrqm"
-      },
-      "artists": [
-        {
-          "name": "\u963f\u8fbe\u5a03",
-          "url": "https://open.spotify.com/artist/2eeDDDoYRBX8a2jRxLSv3D"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
-      "url": "https://open.spotify.com/track/6dnmu3KE5rm82eOSejssef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Ugly",
-        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 142018,
-      "name": "I'm Ugly",
-      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Rayi Putra",
-          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "out of control (feat. Rayi Putra)",
-      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FASHION",
-        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "FASHION",
-      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
       "duration_ms": 172307,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Emo Song (feat. Sihk)",
+        "url": "https://open.spotify.com/album/2kjjl29CB8nVwrXaEOaJO6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "The Emo Song (feat. Sihk)",
+      "url": "https://open.spotify.com/track/6EVtAgOJw0NHlLXltpn41u"
     },
     {
       "added_at": null,
@@ -1071,22 +1091,6 @@
       "duration_ms": 172500,
       "name": "Go! (I Can Be Your)",
       "url": "https://open.spotify.com/track/5AlZgUEZwPcPkUXFTtkraM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 205943,
-      "name": "gippal",
-      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
     }
   ],
   "unique_name": "This Is Ramengvrl",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,697 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,727 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Bahouche](https://open.spotify.com/track/6XW5F3Pl2kej7UfE4EibIX) | [Amaria Hamadalher](https://open.spotify.com/artist/7tEjTXOcxGi1LSgDagCZsy) | [Agrim Agadez \- Musique Guitare de la Republique du Niger](https://open.spotify.com/album/2VqrQg7pWmXSt19Kym8elf) | 3:04 |
 | 100 | [Biwamiel](https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Biwamiel](https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa) | 2:35 |
 
-Snapshot ID: `AAAAAG7tHOfokfpbWUBpyNOpu0MEIq5x`
+Snapshot ID: `AAAAAJ9djGTHOupANFNlrkTgdO+sSJEW`

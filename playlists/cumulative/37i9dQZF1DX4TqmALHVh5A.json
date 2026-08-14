@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : BLOWSOM",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : a6el",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -947,6 +947,28 @@
     },
     {
       "album": {
+        "name": "BILLETS D'AVION",
+        "url": "https://open.spotify.com/album/6Ja69xbLAG5TevwKDCsdKw"
+      },
+      "artists": [
+        {
+          "name": "MILO",
+          "url": "https://open.spotify.com/artist/58h0R8NrIJfqNCCZ7nBITD"
+        },
+        {
+          "name": "NADIR",
+          "url": "https://open.spotify.com/artist/403qtnXhKUmoCaMMiYRqKX"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194805,
+      "name": "BILLETS D'AVION",
+      "url": "https://open.spotify.com/track/1PF5428S4WNE4XFjT9Sd8A"
+    },
+    {
+      "album": {
         "name": "Birthday Party",
         "url": "https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82"
       },
@@ -1755,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "Vitrine",
+        "url": "https://open.spotify.com/album/7oBVdq9PC6arh2qpLuYleb"
+      },
+      "artists": [
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Comme des rats",
+      "url": "https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG"
+    },
+    {
+      "album": {
         "name": "Comme tout le monde",
         "url": "https://open.spotify.com/album/5NKUHRNWaQhzNvNIL7s3YS"
       },
@@ -1954,6 +1994,24 @@
       "duration_ms": 200357,
       "name": "COUP DE FOUDRE",
       "url": "https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs"
+    },
+    {
+      "album": {
+        "name": "Coup de t\u00eate",
+        "url": "https://open.spotify.com/album/4psXOwsMMKgHN0qezkcmNO"
+      },
+      "artists": [
+        {
+          "name": "Luv0",
+          "url": "https://open.spotify.com/artist/3oAWnKJlbMqdlZYo5cTNjJ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Coup de t\u00eate",
+      "url": "https://open.spotify.com/track/5LzPzjb3O0dxim7GebwZyx"
     },
     {
       "album": {
@@ -5612,7 +5670,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 182161,
       "name": "L\u00e9opard",
       "url": "https://open.spotify.com/track/4sIdhUvB6ElG2OcPoqSmFa"
@@ -8096,7 +8154,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 151480,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/6eM39F9Uv0Ss7LUWZYJoA0"
@@ -8984,7 +9042,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 217663,
       "name": "Te faire du bien",
       "url": "https://open.spotify.com/track/1mfJZL86cyw9jvI8LgoO9Z"

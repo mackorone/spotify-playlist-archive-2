@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,331 likes - 88 songs - 5 hr 13 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,331 likes - 92 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,5 +96,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 86 | [Love Can Conquer All](https://open.spotify.com/track/1cS4Y7PuWZJ46aNbLjHlCd) | [Gravity 180](https://open.spotify.com/artist/2TKmTmVekVE3awZeJUOME5) | [Love Can Conquer All](https://open.spotify.com/album/2xTGBojPjGNKBLkaS6L9K1) | 4:12 |
 | 87 | [First Time Feeling](https://open.spotify.com/track/20P0LUwCYkmTaPoWEMDb80) | [elavie](https://open.spotify.com/artist/3kgSiFgUZ9o7u0kwjLuDke) | [First Time Feeling](https://open.spotify.com/album/2zSZdxkDBqEp89xvD46lRl) | 3:46 |
 | 88 | [Come una nuvola](https://open.spotify.com/track/7prSH1ypxvmDQMJwJCySMQ) | [Claudio Trezza](https://open.spotify.com/artist/3uDQbHK8PuikLtK9SAahqb) | [Come una nuvola](https://open.spotify.com/album/1zx1fgmOuOUg5XYjcha4Na) | 3:43 |
+| 89 | [Corner Diner](https://open.spotify.com/track/2nuvMjD8CvLh8mJEgtTfmh) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 3:04 |
+| 90 | [Reason](https://open.spotify.com/track/5oUtDEqAP26uZ3QKmjec3e) | [Dom Guedes](https://open.spotify.com/artist/5mwKiaUgvMs600WQ6aMyuM) | [Reason](https://open.spotify.com/album/5jFSeeXNx6ktQhzurPMWAa) | 3:50 |
+| 91 | [Princess](https://open.spotify.com/track/2K7s6WVnborN8RINi9gAH4) | [LIZZIE JEAN](https://open.spotify.com/artist/1b6HJ3q8AGKxk3Ujvum9JA) | [Princess](https://open.spotify.com/album/2tYBRxofdsdxWkjwubPGdR) | 3:45 |
+| 92 | [Better Than This](https://open.spotify.com/track/7Idbp14EBaAC3LYhj68tWq) | [Emily Gray](https://open.spotify.com/artist/02s2pHJ0TIns6EsWRw2YM3) | [Better Than This](https://open.spotify.com/album/0WrS9xN9HbSwVTvlZgHEQL) | 2:54 |
 
-Snapshot ID: `AAAXEAxCUWVGZctIKJxsDCRoxbGC82XS`
+Snapshot ID: `AAAXFFiQDF32TbhZaUPNgifvCBnuQ56i`

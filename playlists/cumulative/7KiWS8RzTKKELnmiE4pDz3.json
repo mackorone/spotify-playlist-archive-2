@@ -17349,6 +17349,24 @@
     },
     {
       "album": {
+        "name": "Purple City Matrix",
+        "url": "https://open.spotify.com/album/6Wvkkih58R1C7HCrdoPW9E"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2j91CgtRZJ4Jobg2LGyrS8"
+    },
+    {
+      "album": {
         "name": "My Way Out",
         "url": "https://open.spotify.com/album/3Pq3unl3zli2vWiK1UeiFy"
       },
@@ -30252,6 +30270,24 @@
       "duration_ms": 135500,
       "name": "Yoppenheimer",
       "url": "https://open.spotify.com/track/59xdYjVILhhafdiPHBpRda"
+    },
+    {
+      "album": {
+        "name": "the first glass beach album",
+        "url": "https://open.spotify.com/album/113M3j7mkEpg5TUgXJDS79"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378813,
+      "name": "yoshi's island",
+      "url": "https://open.spotify.com/track/1FYeOxFvEOzPT2hk4kzSDN"
     },
     {
       "album": {

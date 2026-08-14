@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMHrs2fgLFjOjttdka1RXkbBd2IH",
+  "snapshot_id": "AAAAAO/MFd3kem8BRoyAj3AhGe820l8Z",
   "tracks": [
     {
       "added_at": "2024-12-17 14:38:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 229477,
-      "name": "There Will Be No Crying",
-      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "homies",
         "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 225068,
       "name": "homies",
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "There Will Be No Crying",
+      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Got To Be Good",
-        "url": "https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 159933,
-      "name": "Got To Be Good",
-      "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Poeira Cosmica",
         "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 253482,
       "name": "Poeira Cosmica",
       "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Got To Be Good",
+        "url": "https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 159933,
+      "name": "Got To Be Good",
+      "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Favourite Kind Of Girl",
-        "url": "https://open.spotify.com/album/7qtJSgzNGaSIxNWaL4aTxo"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Flikka",
-          "url": "https://open.spotify.com/artist/58NhC3elOj4PRVbqDviKJc"
-        }
-      ],
-      "duration_ms": 277893,
-      "name": "Favourite Kind Of Girl",
-      "url": "https://open.spotify.com/track/0dnEIYy2AhUkLO7JIjaF0O"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Ready When You Are",
         "url": "https://open.spotify.com/album/47sSqdqjxUwfqhfW6nNpdI"
       },
@@ -643,18 +623,22 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+        "name": "Favourite Kind Of Girl",
+        "url": "https://open.spotify.com/album/7qtJSgzNGaSIxNWaL4aTxo"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Flikka",
+          "url": "https://open.spotify.com/artist/58NhC3elOj4PRVbqDviKJc"
         }
       ],
-      "duration_ms": 288818,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/3feeie7zGnbvZhas2XFYtc"
+      "duration_ms": 277893,
+      "name": "Favourite Kind Of Girl",
+      "url": "https://open.spotify.com/track/0dnEIYy2AhUkLO7JIjaF0O"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -671,6 +655,22 @@
       "duration_ms": 183611,
       "name": "Other Way",
       "url": "https://open.spotify.com/track/4mX17Zw9I9FSkGabznOonn"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 288818,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/3feeie7zGnbvZhas2XFYtc"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Piano Joint (This Kind Of Love)",
-        "url": "https://open.spotify.com/album/2ibsoJps6tosNlFJtFlBDN"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Piano Joint (This Kind Of Love)",
-      "url": "https://open.spotify.com/track/3kERuxcw7g0URUtzIs7H5d"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Let Me Into Your Heart",
         "url": "https://open.spotify.com/album/0uVffzwyBDvOYbh8IrVVEc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 304826,
       "name": "Let Me Into Your Heart",
       "url": "https://open.spotify.com/track/6HfXfC5aZR5fZq8Ag50lVI"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Piano Joint (This Kind Of Love)",
+        "url": "https://open.spotify.com/album/2ibsoJps6tosNlFJtFlBDN"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Piano Joint (This Kind Of Love)",
+      "url": "https://open.spotify.com/track/3kERuxcw7g0URUtzIs7H5d"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "MixTea_MilkTape!",
-        "url": "https://open.spotify.com/album/2hI1YJeiPiVqm4wBwrnH5f"
+        "name": "(I Get So) Emotional",
+        "url": "https://open.spotify.com/album/3tLWtPzB27RGLJeq0mx91W"
       },
       "artists": [
         {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
         }
       ],
-      "duration_ms": 237707,
-      "name": "DONT WAIT",
-      "url": "https://open.spotify.com/track/11s4CRVT8mpwnWpJMvCEoe"
+      "duration_ms": 188800,
+      "name": "(I Get So) Emotional",
+      "url": "https://open.spotify.com/track/4AHFGnD2G51kpRhZEgho8a"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "(I Get So) Emotional",
-        "url": "https://open.spotify.com/album/3tLWtPzB27RGLJeq0mx91W"
+        "name": "MixTea_MilkTape!",
+        "url": "https://open.spotify.com/album/2hI1YJeiPiVqm4wBwrnH5f"
       },
       "artists": [
         {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
         }
       ],
-      "duration_ms": 188800,
-      "name": "(I Get So) Emotional",
-      "url": "https://open.spotify.com/track/4AHFGnD2G51kpRhZEgho8a"
+      "duration_ms": 237707,
+      "name": "DONT WAIT",
+      "url": "https://open.spotify.com/track/11s4CRVT8mpwnWpJMvCEoe"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 352633,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Trouble Sleeping",
         "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 215172,
       "name": "Trouble Sleeping",
       "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 352633,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Faded Nights",
-        "url": "https://open.spotify.com/album/5EDNcIcS5DW3AwlITTrqQ3"
-      },
-      "artists": [
-        {
-          "name": "elmss",
-          "url": "https://open.spotify.com/artist/61uT1cKcVF6GSdsbU99LBY"
-        }
-      ],
-      "duration_ms": 152259,
-      "name": "faded nights",
-      "url": "https://open.spotify.com/track/4EQBtJKfrG2HQq0wmtUp7f"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "Blume",
         "url": "https://open.spotify.com/album/7JmSCHwa1C3EpuODQlVl8Z"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 166320,
       "name": "Blume",
       "url": "https://open.spotify.com/track/3y1cSOZebGaS2IbEYLOiZ4"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Faded Nights",
+        "url": "https://open.spotify.com/album/5EDNcIcS5DW3AwlITTrqQ3"
+      },
+      "artists": [
+        {
+          "name": "elmss",
+          "url": "https://open.spotify.com/artist/61uT1cKcVF6GSdsbU99LBY"
+        }
+      ],
+      "duration_ms": 152259,
+      "name": "faded nights",
+      "url": "https://open.spotify.com/track/4EQBtJKfrG2HQq0wmtUp7f"
     },
     {
       "added_at": "2024-12-17 14:38:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-12-17 14:38:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg"
-      },
-      "artists": [
-        {
-          "name": "Arjuna Oakes",
-          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R"
-    },
-    {
-      "added_at": "2024-12-17 14:38:00",
-      "album": {
         "name": "YOUR TIME",
         "url": "https://open.spotify.com/album/7IjOcqKt8gwd8A2QzJIgIB"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 174443,
       "name": "YOUR TIME",
       "url": "https://open.spotify.com/track/5CL1TTzZgQOmoQYsqATA69"
+    },
+    {
+      "added_at": "2024-12-17 14:38:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R"
     },
     {
       "added_at": "2024-12-17 14:38:00",

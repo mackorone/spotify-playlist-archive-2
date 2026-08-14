@@ -1145,6 +1145,28 @@
     },
     {
       "album": {
+        "name": "Panjab",
+        "url": "https://open.spotify.com/album/1Lkq7m0PezljuJYzz7GUBI"
+      },
+      "artists": [
+        {
+          "name": "GROSSOMODDO",
+          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
+        },
+        {
+          "name": "SPHYNX",
+          "url": "https://open.spotify.com/artist/5IG9HaT8HgSpmYCrdjjVGw"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147786,
+      "name": "Panjab",
+      "url": "https://open.spotify.com/track/5lXfwFlQywqVHvLsjdRWnu"
+    },
+    {
+      "album": {
         "name": "Puppet's Call",
         "url": "https://open.spotify.com/album/4cc9NhSHzq5KgsRoXP43FT"
       },

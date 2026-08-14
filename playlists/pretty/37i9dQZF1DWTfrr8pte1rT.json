@@ -1,12 +1,12 @@
 {
   "description": "Rock with a drop. Cover: Madeon \\m/",
-  "num_followers": 356706,
+  "num_followers": 356715,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAWSDZnLFCG2bivT/u/m0BRLUhud",
+  "snapshot_id": "AAAAAFHXg8LVl8ub0wjKfD2heClJF7W5",
   "tracks": [
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Welcome To My Life",
-        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
-      },
-      "artists": [
-        {
-          "name": "STVW",
-          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
-        },
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Welcome To My Life",
-      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
         "name": "Sacrificial",
         "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
       },
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
+        "name": "Welcome To My Life",
+        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
+      },
+      "artists": [
+        {
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        },
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Welcome To My Life",
+      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
         "name": "HEADLOCK",
         "url": "https://open.spotify.com/album/2BbKEEnpv0xKn7tGkQYD5u"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 200000,
       "name": "HEADLOCK",
       "url": "https://open.spotify.com/track/6lnuGOIpbDljQaP9YxADOG"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
-        "name": "AFTER MIDNIGHT",
-        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
-      },
-      "artists": [
-        {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
-        }
-      ],
-      "duration_ms": 121458,
-      "name": "AFTER MIDNIGHT",
-      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1491,26 +1475,18 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Raise the Dead",
-        "url": "https://open.spotify.com/album/5oqUWkWtQXdA56RSUC5g0Q"
+        "name": "AFTER MIDNIGHT",
+        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Taylor Barber",
-          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Raise the Dead",
-      "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
+      "duration_ms": 121458,
+      "name": "AFTER MIDNIGHT",
+      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1531,6 +1507,30 @@
       "duration_ms": 194823,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "Raise the Dead",
+        "url": "https://open.spotify.com/album/5oqUWkWtQXdA56RSUC5g0Q"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Taylor Barber",
+          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Raise the Dead",
+      "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 227167,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
         "name": "You Call Me Reckless",
         "url": "https://open.spotify.com/album/77GBZv45BvxMeDEPaJgGX0"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 195929,
       "name": "You Call Me Reckless",
       "url": "https://open.spotify.com/track/0GRhBpD36Iu7ur3fUUJgzN"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 227167,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
+        "name": "Muted Blue",
+        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        }
+      ],
+      "duration_ms": 185663,
+      "name": "Just Thought You Should Know",
+      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
         "name": "SO FAR SO FAKE",
         "url": "https://open.spotify.com/album/0jWVyAzO2ZLi3GeWIPGpQf"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 260571,
       "name": "SO FAR SO FAKE",
       "url": "https://open.spotify.com/track/4rRWDVA9kmRwbnXuon269O"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
-        "name": "Muted Blue",
-        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
-      },
-      "artists": [
-        {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
-        }
-      ],
-      "duration_ms": 185663,
-      "name": "Just Thought You Should Know",
-      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
         "name": "Bad Blood (Weird Genius Remix)",
         "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 197334,
       "name": "Bad Blood - Weird Genius Remix",
       "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2495,18 +2495,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+        "name": "Buried Beneath You",
+        "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
       },
       "artists": [
         {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
         }
       ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+      "duration_ms": 211013,
+      "name": "Buried Beneath You",
+      "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
     }
   ],
   "unique_name": "Rocktronic",

@@ -4,7 +4,7 @@
 
 > 
 
-1,140 songs - 2 day 23 hr 40 min
+1,143 songs - 2 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Mejor Mañana](https://open.spotify.com/track/28oJ9Q4ToebmWPhiQV6eJw) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [Mejor Mañana](https://open.spotify.com/album/622frO5PRfwFXxgWtpKfVc) | 2:39 | 2025-03-18 |  |
 | [melancholy sh!t](https://open.spotify.com/track/5efrgICDdjBCzZ6Xx0jhHB) | [luciihii](https://open.spotify.com/artist/6Ac5DSfa3qhKYf9oZuj46h) | [melancholy sh!t](https://open.spotify.com/album/2qAb1MOTb0DjGmja1Ikz52) | 2:26 | 2025-03-18 |  |
 | [Mend](https://open.spotify.com/track/041405dXJvK89ymfLPwd3M) | [Great Escapes](https://open.spotify.com/artist/5U9BpGbYvHLcS6ED35PGeG) | [Mend](https://open.spotify.com/album/6jaynVsSOfbjLstKOCqxP9) | 2:42 | 2026-06-13 |  |
+| [MENTAL BREAKDOWN](https://open.spotify.com/track/4b8c8onEYWRBFcK7nMpscR) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [MENTAL BREAKDOWN](https://open.spotify.com/album/63z0XcSxHUDp6amwElKGB4) | 4:02 | 2026-08-13 |  |
 | [Mentawai](https://open.spotify.com/track/5BGKYf1DPjLLzeNNyZCtNt) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Messed Up](https://open.spotify.com/album/47irEOvWe6aeYqCORfxZWE) | 2:28 | 2026-04-26 |  |
 | [Metal Gamer](https://open.spotify.com/track/2yNHWHaXQlIk77Z1PMyk0d) | [Digiplayer.13 and Zona](https://open.spotify.com/artist/5yNXuBNfqszU9yoDp4KeWw), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU) | [Metal Gamer](https://open.spotify.com/album/0ma7NgftceGWMN4zaKrTtS) | 3:44 | 2025-08-21 |  |
 | [Metal ME 2 \(HD\)](https://open.spotify.com/track/67eUCGlZqeGvk5j8wcb7qJ) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Metal ME 2 \(HD\)](https://open.spotify.com/album/02QlFOXir0SEvhhZ2CsbUH) | 2:15 | 2025-11-27 |  |
@@ -640,6 +641,7 @@
 | [Not Another Eve](https://open.spotify.com/track/3GKyiNlqeseN66aagi5siy) | [Lilith Rising](https://open.spotify.com/artist/6OL9gPy8ipfdwLCSaH5vrs) | [Not Another Eve](https://open.spotify.com/album/5yuVAkWRJnCuuuFzoxUtzu) | 5:54 | 2025-02-07 |  |
 | [Not Good Looking](https://open.spotify.com/track/18nzCaK563NXqbAISp4Ugc) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Not Good Looking](https://open.spotify.com/album/4vfFHUGpEigDldRb9SuhRo) | 3:34 | 2026-08-06 |  |
 | [not the same](https://open.spotify.com/track/3y5BPGWQ5LhGKiUgXTA6SP) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [not the same](https://open.spotify.com/album/4UwcCpTP14Q8rOS6T5IShF) | 2:59 | 2024-12-12 |  |
+| [Nothing Is Real](https://open.spotify.com/track/6NeUtmPROc6rT8xt78cKzu) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Nothing Is Real](https://open.spotify.com/album/3NAI2vEVtyJr9sQ3zSaJwk) | 2:51 | 2026-08-13 |  |
 | [Nothing Left to Say](https://open.spotify.com/track/06nWF6GnNLNx6L2v4UhXdy) | [Fortune Teller](https://open.spotify.com/artist/6xllSn5EskHUgWGzc7cAsm) | [Nothing Left to Say](https://open.spotify.com/album/2VdtNNQqbvNACHeqGDYoLp) | 2:58 | 2025-07-28 |  |
 | [Nothing's Missing](https://open.spotify.com/track/5MQfnGPzdOb87WxCdXXhOf) | [Libricide](https://open.spotify.com/artist/7mwWvfYHOf6bIrvCH96hzE) | [Nothing's Missing](https://open.spotify.com/album/2fbNqeNfdQ4gGw9VpuZHia) | 3:57 | 2025-09-16 |  |
 | [Now That's What I Call a \(Re\)Lapse in Judgement](https://open.spotify.com/track/4PQR9OLOKPoObDJus6p93x) | [Adjust the Sails](https://open.spotify.com/artist/4xVPBr0C8OxqJL4796EZzr) | [Now That's What I Call a \(Re\)Lapse in Judgement](https://open.spotify.com/album/1j4m67BaGYEn6tabMEKPXY) | 2:43 | 2025-02-07 |  |
@@ -922,6 +924,7 @@
 | [Talk to Me](https://open.spotify.com/track/333XKPSewiX8Lb3BlGdQos) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Talk to Me](https://open.spotify.com/album/7IcYZlDBHfj3t8GkanNAa8) | 3:22 | 2025-02-05 |  |
 | [Talking Is A Muscle Movement Too Tense](https://open.spotify.com/track/0AiXs1fkFLxVC5RE2adctJ) | [7 Jester Of Spades](https://open.spotify.com/artist/0m7BGVfjBqaZT8AmsPlYxS) | [Talking Is A Muscle Movement Too Tense](https://open.spotify.com/album/3D77ILBuaYYIjNWaQSk590) | 6:21 | 2025-06-26 |  |
 | [Tallahassee](https://open.spotify.com/track/3Qhozjq6g10RHqCFvjmDAA) | [Patient](https://open.spotify.com/artist/0g8OBOtUriN73QZa47tjLY) | [Past Lives](https://open.spotify.com/album/40MHm9tr05JRPsn6E7iT1h) | 3:18 | 2024-12-12 |  |
+| [Tattoo My Brain](https://open.spotify.com/track/6qI054w5q3vUtzi3YlTNXq) | [Dead End Road](https://open.spotify.com/artist/2G7nnTPUdpp1HPhHrdQro5) | [Tattoo My Brain](https://open.spotify.com/album/7neWWsrJvASLW6ga1IApAq) | 2:25 | 2026-08-13 |  |
 | [Tech Daddy](https://open.spotify.com/track/6zulprnbabKivRgbw7zpRf) | [Brad Arliss](https://open.spotify.com/artist/06lLd5jrInOYWDVsfL6bzG) | [Tech Daddy](https://open.spotify.com/album/3HackJXhVAaIy15zMO9k8D) | 1:39 | 2025-05-15 |  |
 | [Telerhythm](https://open.spotify.com/track/2dQSMsCUjkTSGebOl6iED0) | [Sam Tout](https://open.spotify.com/artist/7KkL60MFnIoBkdAfkUIBei) | [Just Floating Around](https://open.spotify.com/album/6Y2DgPHWYefamzoqy2M0pE) | 3:34 | 2025-07-17 |  |
 | [Tempus Fugit](https://open.spotify.com/track/7qXLlhCog5ge9XgwYmyscX) | [ETERNAL DECLINE](https://open.spotify.com/artist/76rTmtFGqZblMimhcPkQEg), [Viktor Novosyolov](https://open.spotify.com/artist/2prqAo7vkHga2EJgySlSj9), [Nikolas Quemtri](https://open.spotify.com/artist/6WFRwWMRgkQDVzUgfj9kQK) | [Tempus Fugit](https://open.spotify.com/album/3CMOqQafSEAJoH2ApyBgUd) | 4:27 | 2025-07-05 |  |

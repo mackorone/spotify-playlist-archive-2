@@ -3383,6 +3383,28 @@
     },
     {
       "album": {
+        "name": "Bordeaux & Deauville",
+        "url": "https://open.spotify.com/album/63uJB63MumGfRcX8porN9C"
+      },
+      "artists": [
+        {
+          "name": "Hjorterud All\u00e9",
+          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
+        },
+        {
+          "name": "Sleiken",
+          "url": "https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Bordeaux & Deauville",
+      "url": "https://open.spotify.com/track/5BnXdURD493zS5nYY3kUdt"
+    },
+    {
+      "album": {
         "name": "BORTAMATCH",
         "url": "https://open.spotify.com/album/5nxoDtwdwxLkSyke2SFhmV"
       },
@@ -22698,6 +22720,32 @@
       "duration_ms": 127710,
       "name": "OTROGEN",
       "url": "https://open.spotify.com/track/1acoJNp0YXcfHOQsnfOZ9V"
+    },
+    {
+      "album": {
+        "name": "OTROGNA J\u00c4VEL",
+        "url": "https://open.spotify.com/album/18Ur89QjPbFWiKeRYKxAFU"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "KLIKK",
+          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
+        },
+        {
+          "name": "OKVH",
+          "url": "https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "OTROGNA J\u00c4VEL",
+      "url": "https://open.spotify.com/track/06GbhrvzmHSVbDkpNXtjHW"
     },
     {
       "album": {

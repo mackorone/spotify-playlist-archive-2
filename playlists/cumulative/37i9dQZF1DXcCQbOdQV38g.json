@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 170991,
       "name": "Blijven Slapen",
       "url": "https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL"
@@ -520,6 +520,36 @@
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
+    },
+    {
+      "album": {
+        "name": "Cheerio Summer Mix",
+        "url": "https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl"
+      },
+      "artists": [
+        {
+          "name": "DJ Larita",
+          "url": "https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Carmell",
+          "url": "https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121512,
+      "name": "Cheerio Summer Mix",
+      "url": "https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn"
     },
     {
       "album": {
@@ -1028,7 +1058,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 181130,
       "name": "Hoe Zou Het Zijn Geweest",
       "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
@@ -2776,6 +2806,24 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
+    },
+    {
+      "album": {
+        "name": "Zomer, Zon & Strand",
+        "url": "https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Zomer, Zon & Strand",
+      "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
     },
     {
       "album": {

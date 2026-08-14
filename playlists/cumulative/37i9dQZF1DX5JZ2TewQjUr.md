@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: FYP
 
-1,725 songs - 4 day 1 hr 35 min
+1,727 songs - 4 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Closer to Hell](https://open.spotify.com/track/4eFQHYCWctyJr4dwymVbAI) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Closer to Hell](https://open.spotify.com/album/6sq7O63sKs2NPbK3bPqZJg) | 2:45 | 2024-06-20 | 2024-11-15 |
 | [CLOSURE.](https://open.spotify.com/track/2qejNLONLg5VtrFkCNTABb) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [CLOSURE.](https://open.spotify.com/album/3b8Qjk41F8wpiNGlMA1HiO) | 2:59 | 2023-05-04 | 2023-09-01 |
 | [Coastline](https://open.spotify.com/track/2Z66x9wDJt86pFAbXbPR6C) | [lwl.](https://open.spotify.com/artist/6PYHaynPn267y1UtD257V4) | [Coastline](https://open.spotify.com/album/6P1Gca2FGs2Z8zqdFxwkxV) | 4:20 | 2023-11-30 | 2024-02-16 |
+| [Coda \(its so near\)](https://open.spotify.com/track/3lD57x1Vc82p99gfhIFOcL) | [Kung Chi Shing](https://open.spotify.com/artist/0iDLyRwkaS3TcFUMea3zb9), [Olivier Cong](https://open.spotify.com/artist/2nhcHKPRMgQm4Z9wkz6GVn) | [No More Dark](https://open.spotify.com/album/6W1mrwW0Lz2jONi7hyfQGd) | 5:30 | 2026-08-13 |  |
 | [Coffee or tea](https://open.spotify.com/track/05dIejxjljs2szxWX3PKLV) | [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [Coffee or tea](https://open.spotify.com/album/5cYa0ENtyWPMnfCGEBXVje) | 2:32 | 2022-08-18 | 2023-02-03 |
 | [cold hands](https://open.spotify.com/track/5di3aBPDWVWOqWv8re4B9D) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [cold hands](https://open.spotify.com/album/4JDyppzh6NsiPUOX56qb0E) | 4:51 | 2024-03-28 | 2024-11-15 |
 | [Come Back To Me](https://open.spotify.com/track/3M3p5VOaMl2o9vgo0hweok) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [Come Back To Me](https://open.spotify.com/album/2fj9Ys2JNrWhEbWEQ8O5xX) | 3:20 | 2023-01-12 | 2023-05-26 |
@@ -1597,6 +1598,7 @@
 | [笑死](https://open.spotify.com/track/0ByUo4Ddhi8hZalg0wDAx4) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [笑死](https://open.spotify.com/album/1d0pWF0p4h1raeWv8s9vP4) | 2:31 | 2022-05-26 | 2022-07-29 |
 | [第一支煙 \(The First Cigarette\)](https://open.spotify.com/track/0xA6Kv2WeXBksQv9Q4U4Pl) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [第一支煙 \(The First Cigarette\)](https://open.spotify.com/album/1KNp7MpOsgAm9iTrAkFr9A) | 2:12 | 2026-04-23 |  |
 | [等一等](https://open.spotify.com/track/539h61H0uqsk2NS9HAkcp0) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [等一等](https://open.spotify.com/album/3rpsBh1Po5wEt8wEkdTfmw) | 4:34 | 2026-07-23 |  |
+| [等一等 \- 生日天天過版本](https://open.spotify.com/track/3fTX40iobyUMZsFuntoICn) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [等一等 \(生日天天過版本\)](https://open.spotify.com/album/64sO68DtvEuoRh1IKrkH1x) | 4:34 | 2026-08-13 |  |
 | [等等等](https://open.spotify.com/track/4SZ4SULm4syQAAtkaHb9FR) | [李白 \(Brad Li\)](https://open.spotify.com/artist/1uZxut4yL1iRvguCGCpEbx) | [等等等](https://open.spotify.com/album/26q8T7anFS1ifYyuXo7BKA) | 3:51 | 2024-09-26 | 2025-02-14 |
 | [答案](https://open.spotify.com/track/4AeGPDzAwPSMRyGaNuyGLQ) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [答案](https://open.spotify.com/album/2Gf2ijKAn3L7mpjahbepYV) | 5:00 | 2023-09-21 | 2023-12-01 |
 | [節日可以不用管我 Holidays Without Me](https://open.spotify.com/track/0EZ2u7CviDEa4XI7dl3BA3) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [節日可以不用管我 Holidays Without Me](https://open.spotify.com/album/4yqM9oGXIHGrzrunIQTDoO) | 2:46 | 2024-12-19 | 2025-04-25 |

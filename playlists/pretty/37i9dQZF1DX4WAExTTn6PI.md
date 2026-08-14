@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Mary Bragg
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,408 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,413 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Black Bird](https://open.spotify.com/track/12K1fspXetlrNt5nGdLcmb) | [Destinie Lynn](https://open.spotify.com/artist/06s9YMqa9jvRYKKE2qrLrb) | [Black Bird](https://open.spotify.com/album/2RDbuNxjXQ3q45FUgGuW2k) | 2:39 |
 | 100 | [Break the Levee](https://open.spotify.com/track/0UIBeV7RaQeqZ1lPWZ3bWQ) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Break the Levee](https://open.spotify.com/album/7445dZQs93YCgHkd5TPiRS) | 3:46 |
 
-Snapshot ID: `AAAAANerl6cVH6bwHnDlCPe9rdNL4Sc3`
+Snapshot ID: `AAAAAKB7rq9el0eLheU6X1x7IQUkZ38L`

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain](/playlists/plain/37i9dQZF1DWWekySnB4xpt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWekySnB4xpt)
 
-### [Unidos por Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
+### [Unidos por los nuestros](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
 
-> Acompáñanos en un concierto benéfico el 16 de agosto en Kaseya Center \(Miami\) 🇻🇪❤️ <a href="https://www.ticketmaster.com/event/0D0064EA9A88501D">Entradas a la venta aquí.</a>
+> Acompáñanos en un concierto benéfico el 16 de agosto en Kaseya Center \(Miami\) 🇻🇪❤️🇨🇴<a href="https://www.ticketmaster.com/event/0D0064EA9A88501D">Entradas a la venta aquí.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,766 likes - 28 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,740 likes - 28 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 27 | [capaz \(merengueton\)](https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L) | 2:53 |
 | 28 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |
 
-Snapshot ID: `AAAAADvlDCsIUOgq7OG+WP6SowaHMjxy`
+Snapshot ID: `AAAAACpe9EB0ORCxdyFaFbInjg4WAqg2`

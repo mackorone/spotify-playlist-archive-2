@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: DIIV
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,167 likes - 129 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,199 likes - 129 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 128 | [Sick](https://open.spotify.com/track/130iBycjciSRwPJiqZUhyH) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA) | [Sick](https://open.spotify.com/album/4jENISQSpDe49A133TvPUS) | 3:23 |
 | 129 | [Drive/Park](https://open.spotify.com/track/2nFYhi1w2aNyb4EcZQ5Jhx) | [Heathers](https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M) | [Drive/Park](https://open.spotify.com/album/2bCd5sjRz4VmrdFTGFOYjn) | 2:36 |
 
-Snapshot ID: `AAAAANrZ88cQ2GJehtsXjfmRezVZZ7Cp`
+Snapshot ID: `AAAAAKiKcGoR1xr9c2uonIwvCM1PBL6S`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: AMARILLO VERANO.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Martin.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "BIZARRO",
+        "url": "https://open.spotify.com/album/4MfQFUcrSMsWSHD3w0r83J"
+      },
+      "artists": [
+        {
+          "name": "Ian Iris",
+          "url": "https://open.spotify.com/artist/6CdLBoFNKbvBZudfOoRac4"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176424,
+      "name": "BIZARRO",
+      "url": "https://open.spotify.com/track/4K5T3rcZiETa8wVT9YnoJf"
+    },
+    {
+      "album": {
         "name": "BK4DA2624804",
         "url": "https://open.spotify.com/album/2cJB0LqOGLsb4A2WfduBsX"
       },
@@ -2212,6 +2230,24 @@
       "duration_ms": 199872,
       "name": "Bye bye",
       "url": "https://open.spotify.com/track/0pGCd8lBTLRyw3kX1se7qY"
+    },
+    {
+      "album": {
+        "name": "El a\u00f1o de la pera",
+        "url": "https://open.spotify.com/album/776mbshTFF27i4s1embAzP"
+      },
+      "artists": [
+        {
+          "name": "Sr. Chinarro",
+          "url": "https://open.spotify.com/artist/3bEHj6WUeCJey0vLrffSQp"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177274,
+      "name": "Bye bye",
+      "url": "https://open.spotify.com/track/3nd8xqUa3PHAUeZ9bKH9GL"
     },
     {
       "album": {
@@ -3322,6 +3358,24 @@
       "duration_ms": 168837,
       "name": "Cr\u00edtico",
       "url": "https://open.spotify.com/track/1zICyrfOQraVDMZapEEc9a"
+    },
+    {
+      "album": {
+        "name": "Cuando el sol bese a la luna",
+        "url": "https://open.spotify.com/album/69dTwJHcOc4xcmpzpGKKgf"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143832,
+      "name": "Cuando el sol bese a la luna",
+      "url": "https://open.spotify.com/track/4ozZG3Cgiyf17pVda3p02S"
     },
     {
       "album": {
@@ -5984,7 +6038,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 259216,
       "name": "Esto que vivimos",
       "url": "https://open.spotify.com/track/3F8ATT8KoqmDFFNEpca49z"
@@ -9218,7 +9272,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 187228,
       "name": "MADRE DE MIS HIJOS",
       "url": "https://open.spotify.com/track/1eMjtYompgiSwhtMHxl5UM"
@@ -9888,7 +9942,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 212000,
       "name": "Mejor*",
       "url": "https://open.spotify.com/track/7y9PJa6g3OzSTWejceuyCo"
@@ -15259,6 +15313,28 @@
     },
     {
       "album": {
+        "name": "Tengo todo lo que quiero",
+        "url": "https://open.spotify.com/album/2JLNqmD0qyzLQhZxVIB22j"
+      },
+      "artists": [
+        {
+          "name": "POLAZ",
+          "url": "https://open.spotify.com/artist/6AxBpVEUx13QJrdgd0uGpM"
+        },
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109333,
+      "name": "Tengo todo lo que quiero",
+      "url": "https://open.spotify.com/track/4fdMsA97sc2nuUvi3aUtRM"
+    },
+    {
+      "album": {
         "name": "tengo, tengo pero quiero, quiero (si t\u00fa me dices ven)",
         "url": "https://open.spotify.com/album/07ekPEnRGyOSHLrlbIUGmN"
       },
@@ -16334,7 +16410,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 197466,
       "name": "Un Cl\u00e1sico [2022]",
       "url": "https://open.spotify.com/track/4HGwZV5u3gLKuKoSpONUbz"

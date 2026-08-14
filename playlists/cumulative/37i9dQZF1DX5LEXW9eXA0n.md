@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: wave to earth\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: HYNN\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,782 songs - 4 day 19 hr 43 min
+1,783 songs - 4 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,7 @@
 | [I Will Shine On You](https://open.spotify.com/track/4VnZhQatrHFXySz467yURC) | [Odett](https://open.spotify.com/artist/1jYtDU2z8vLKUWGKe9UhHu) | [May I Help You? \(Original Television Soundtrack\) Part.5](https://open.spotify.com/album/1vOYGpf02GZzCfPyZVvWPf) | 3:57 | 2023-01-10 | 2023-02-25 |
 | [I wish you'd listened \(feat\. Lee Ru DA\)](https://open.spotify.com/track/3RL5PDEDxBxIGG9AKOc9Jy) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [E\-RUDA](https://open.spotify.com/artist/7FkKA3VUA7OwgZFMF4G8Cz) | [I wish you'd listened](https://open.spotify.com/album/5ndgTVQxyMTz1P1uFmBsP2) | 3:27 | 2022-08-18 | 2022-11-23 |
 | [I Won't Let Go Of Your Hand](https://open.spotify.com/track/3ymA950oIlxlZ9SlUw4tBK) | [Song I Han](https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm) | [I Won't Let Go Of Your Hand](https://open.spotify.com/album/3vGdBvG95qXwH2gRctD3ti) | 3:42 | 2025-04-25 | 2025-09-18 |
-| [I won’t even want more \(Peacock\)](https://open.spotify.com/track/7hDUPRElIrvjSmVIFQZFQX) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [I won’t even want more \(Peacock\)](https://open.spotify.com/album/0Ud5x6ghXQvkxkhFmRdk10) | 4:00 | 2026-07-28 |  |
+| [I won’t even want more \(Peacock\)](https://open.spotify.com/track/7hDUPRElIrvjSmVIFQZFQX) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [I won’t even want more \(Peacock\)](https://open.spotify.com/album/0Ud5x6ghXQvkxkhFmRdk10) | 4:00 | 2026-07-28 | 2026-08-14 |
 | [I wouldn't have started](https://open.spotify.com/track/2eR17HaHivdP5NvRNz0H3W) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 18](https://open.spotify.com/album/4AIhCqJCNi8ZQP60FRSioX) | 3:39 | 2022-09-29 | 2023-01-11 |
 | [I Wouldn’t Look For You](https://open.spotify.com/track/3u9m38kStxTQ6PSrqgwcYM) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Change](https://open.spotify.com/album/1MewoMiSeiaMHYKIZ6PbEf) | 3:06 | 2022-03-31 | 2022-04-19 |
 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 | 2023-10-20 | 2024-01-05 |
@@ -1464,6 +1464,7 @@
 | [This night](https://open.spotify.com/track/1q2S2sHR7dPTUq27eBh6dk) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT) | [Candle](https://open.spotify.com/album/2umy3WPBMznBRpOluylVSI) | 3:52 | 2024-01-08 | 2024-06-05 |
 | [This Song](https://open.spotify.com/track/7GyKbTE1bVgWXr3tiqp3H1) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [This Song](https://open.spotify.com/album/7mS4NsnK5NSwh5e3HEzyYP) | 5:11 | 2021-12-23 | 2022-06-06 |
 | [Those times](https://open.spotify.com/track/6AYFpiiNPcjpxA9RKa2glZ) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [Those times](https://open.spotify.com/album/7cdzy2LsbTIYhbe6KjDIgB) | 3:42 | 2023-04-26 | 2023-09-12 |
+| [Three days after](https://open.spotify.com/track/33Xaxgi8GR99MuJm8BBYIR) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Traces of Summer](https://open.spotify.com/album/4SyZZKR7SFdrzeHNtQB1RD) | 3:26 | 2026-08-13 |  |
 | [Three Friends](https://open.spotify.com/track/0GG4sMxQljxUEmqGwFBGAN) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [Three Friends](https://open.spotify.com/album/2zsanpQM3F2HU0BFvUQAhN) | 4:00 | 2025-05-09 | 2025-09-05 |
 | [Three Methods of Containing Sorrow](https://open.spotify.com/track/3RDCy9sr00fMnAN8b3E26Y) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Three Methods of Containing Sorrow](https://open.spotify.com/album/5dq1nYp45LJ0t5rng19jnU) | 3:56 | 2024-05-17 | 2024-09-14 |
 | [Threshold](https://open.spotify.com/track/0KCCMxvjXlhxH0Ha37popR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 4:11 | 2024-07-15 | 2025-02-12 |

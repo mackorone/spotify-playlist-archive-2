@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: kurayamisaka \(Japan\)
 
-331 songs - 22 hr 53 min
+332 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Sad,Infinite And Dazed](https://open.spotify.com/track/4xJFWWfLJqGTezOA7neJhh) | [臥軌的火車Railway Suicide Train](https://open.spotify.com/artist/5tEmnAxh19PkLJ5m8d8ATT) | [餘波](https://open.spotify.com/album/5IPiwxiTbZGlBmPvNaa8WU) | 4:50 | 2024-06-27 | 2025-10-24 |
 | [Save/Safe](https://open.spotify.com/track/0vW3GR7mukmlqWTW91jweb) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [Save/Safe](https://open.spotify.com/album/1prxKMZWwGT7IOF6bpJCZt) | 3:52 | 2025-10-16 |  |
 | [search](https://open.spotify.com/track/5Te9aHJTkpiKwa34WWbeLE) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [lightbringer](https://open.spotify.com/album/6eO4PXGE23svRI186EEEUC) | 2:55 | 2025-07-10 |  |
+| [Sebak](https://open.spotify.com/track/1xbtv9yLOLAWxI7x4OolWL) | [The People of the Sun](https://open.spotify.com/artist/66nHTHCYPKmWPT2n8sDTpP) | [Sebak](https://open.spotify.com/album/4HyeazBPOhfEp8dHQ5CNGm) | 2:58 | 2026-08-13 |  |
 | [Secrets](https://open.spotify.com/track/6hawTk0rC1XZ3Q85VPxNdz) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Secrets](https://open.spotify.com/album/5Haih9CAPJC4F79wF9ubwo) | 4:41 | 2025-10-09 | 2026-04-24 |
 | [Self Bondage](https://open.spotify.com/track/4xYYiEkuaDuoFqw5NFZSlQ) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn) | [Self Bondage](https://open.spotify.com/album/4WKZHnxrsCCGUBS5Z1jXqN) | 5:05 | 2025-08-07 | 2025-10-10 |
 | [Self Destruct & Scott Emotion \(You Watched Myself Getting Destructed\)](https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [It's Terrifying and It's a Shame](https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo) | 2:38 | 2025-02-20 |  |

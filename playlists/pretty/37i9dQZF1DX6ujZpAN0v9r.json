@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 700927,
+  "num_followers": 700977,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMBNqmSFLK/OfAQAB+hnVVZRylBu",
+  "snapshot_id": "AAAAAGBUyoNBfvkwTDIJkQv/yhFmSVR/",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/0AJTKW9fVFo3rIXbtTVE3T"
     },
     {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
-    },
-    {
       "added_at": "2024-08-19 20:51:16",
       "album": {
         "name": "Ozean",
@@ -151,6 +135,22 @@
       "duration_ms": 288053,
       "name": "Scenic",
       "url": "https://open.spotify.com/track/7mneRO01pJtLWlIiSptL9d"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/5hhgmepThtS3PoPIGsA5Ui"
     },
     {
-      "added_at": "2023-10-19 18:31:49",
-      "album": {
-        "name": "return",
-        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
-      },
-      "artists": [
-        {
-          "name": "Blue Smiley",
-          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
-        }
-      ],
-      "duration_ms": 102421,
-      "name": "bird",
-      "url": "https://open.spotify.com/track/6aC2oJJirBozj0cT6E2g1t"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
@@ -363,6 +347,22 @@
       "duration_ms": 231226,
       "name": "Time Baby III",
       "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
+    },
+    {
+      "added_at": "2023-10-19 18:31:49",
+      "album": {
+        "name": "return",
+        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 102421,
+      "name": "bird",
+      "url": "https://open.spotify.com/track/6aC2oJJirBozj0cT6E2g1t"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Back to Land",
-        "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
-      },
-      "artists": [
-        {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
-        }
-      ],
-      "duration_ms": 318560,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Creation",
         "url": "https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 301224,
       "name": "Flood in Heaven",
       "url": "https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Back to Land",
+        "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 318560,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 418706,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/1wYMTM3mpZLYsoGzl5OFvR"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 232333,
       "name": "Landing",
       "url": "https://open.spotify.com/track/3JYkqeNDO72o8hNPwKsD6e"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 418706,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Miserable Miracles",
-        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 315968,
-      "name": "In The Hanging Gardens",
-      "url": "https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Splashdown: The Complete Creation Recordings 1990-1992",
         "url": "https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 191146,
       "name": "Splashdown",
       "url": "https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Miserable Miracles",
+        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 315968,
+      "name": "In The Hanging Gardens",
+      "url": "https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Methodrone",
-        "url": "https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Is the Is Are",
         "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 226999,
       "name": "Under the Sun",
       "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Methodrone",
+        "url": "https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Bout des doigts",
-        "url": "https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 426331,
-      "name": "Bout des doigts",
-      "url": "https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 301866,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Bout des doigts",
+        "url": "https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 426331,
+      "name": "Bout des doigts",
+      "url": "https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo"
-      },
-      "artists": [
-        {
-          "name": "Leave the Planet",
-          "url": "https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk"
-        }
-      ],
-      "duration_ms": 219669,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 204373,
       "name": "Dark Spring",
       "url": "https://open.spotify.com/track/6PGrkeJpDpgiFLvgKYD489"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo"
+      },
+      "artists": [
+        {
+          "name": "Leave the Planet",
+          "url": "https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk"
+        }
+      ],
+      "duration_ms": 219669,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/2bKLw82RUcPpXKnRoIlaj0"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 383920,
-      "name": "Donuts",
-      "url": "https://open.spotify.com/track/6PAe4Nm3jot97kAnYphzGC"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Superbike",
         "url": "https://open.spotify.com/album/68TrLByFkqkuVDVmIVpXdi"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 233583,
       "name": "Superbike",
       "url": "https://open.spotify.com/track/4kK7bQcFQKldges2b6WXrV"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/2bKLw82RUcPpXKnRoIlaj0"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 383920,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/6PAe4Nm3jot97kAnYphzGC"
     },
     {
       "added_at": "2021-06-03 02:39:04",

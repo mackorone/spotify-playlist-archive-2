@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| it's alive with Citizen
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,182,333 likes - 81 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,181,823 likes - 81 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 80 | [Chaos Ball](https://open.spotify.com/track/3OYDaKkG4dgfyGLHLAvGzY) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [Prairie](https://open.spotify.com/album/0rYKyoUPaD9R3VxZOPZEKD) | 4:18 |
 | 81 | [Kick Stones \(The Boys\)](https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Kick Stones \(The Boys\)](https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx) | 3:56 |
 
-Snapshot ID: `AAAAAPV2T3AI0W7Aq6eKJkzwqvVaP2ja`
+Snapshot ID: `AAAAAIRXoBmHJ0euk4nSSBs1NigGNec6`

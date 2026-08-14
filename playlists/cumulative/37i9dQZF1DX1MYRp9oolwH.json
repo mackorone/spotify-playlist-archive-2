@@ -6890,7 +6890,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 200000,
       "name": "Nee Vallane (From \"Somewhere Sometime\")",
       "url": "https://open.spotify.com/track/3DqxMJzUQr8ka6XthEgYAS"
@@ -7856,7 +7856,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 296948,
       "name": "O Sundari - From \"Rao Bahadur\"",
       "url": "https://open.spotify.com/track/4Yp1K3WqLvTu7HU7epSQie"
@@ -8204,6 +8204,36 @@
       "duration_ms": 211928,
       "name": "Okkasariga (From \"Chaurya Paatam\")",
       "url": "https://open.spotify.com/track/5nSoVPAZa8a2SVjkadUWK1"
+    },
+    {
+      "album": {
+        "name": "Olammo Vagalaadi (From \"Sigma\") (Telugu)",
+        "url": "https://open.spotify.com/album/0MunWx5C62YyLzIzrLrBcR"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        },
+        {
+          "name": "Krishna Chaitanya",
+          "url": "https://open.spotify.com/artist/2nXQmURjKPR3PFEgHSdwNq"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210975,
+      "name": "Olammo Vagalaadi (From \"Sigma\") (Telugu)",
+      "url": "https://open.spotify.com/track/5TvLgpEtmfAnmqIyhD8LVy"
     },
     {
       "album": {
@@ -9502,6 +9532,28 @@
       "duration_ms": 279272,
       "name": "Ratnamala (From \"Parasakthi\") (Telugu)",
       "url": "https://open.spotify.com/track/471qid1iFNieTuk2hgpoK6"
+    },
+    {
+      "album": {
+        "name": "Romanchakam - Title Track (From \"Romanchakam\")",
+        "url": "https://open.spotify.com/album/6KPb5TXaK0RlAz8Sir6h0G"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173100,
+      "name": "Romanchakam - Title Track (From \"Romanchakam\")",
+      "url": "https://open.spotify.com/track/3PCW9juB6Ilyuf91mWKYjK"
     },
     {
       "album": {

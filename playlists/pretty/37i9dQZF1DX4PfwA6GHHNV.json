@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABM2I2lfkGz5i7cd1ydWe5f9SPiO",
+  "snapshot_id": "AAAAAJ8bOnvg/1e9ppU1rIHVlIMCFvm/",
   "tracks": [
     {
       "added_at": "2026-08-07 14:28:28",
@@ -95,26 +95,6 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "Formation",
-        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
         "name": "R.U. (Raw & Unfiltered) Vol.1",
         "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 200314,
       "name": "Private Chef (feat. MC Morena)",
       "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -843,18 +843,22 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "AR\ua4d8ANO",
-        "url": "https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl"
+        "name": "Coulda Shown You",
+        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
       },
       "artists": [
         {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+          "name": "Lucca DL",
+          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
+        },
+        {
+          "name": "Killa",
+          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
         }
       ],
-      "duration_ms": 142736,
-      "name": "Seu",
-      "url": "https://open.spotify.com/track/3x86FsaHkvbrLIkguGACHn"
+      "duration_ms": 141130,
+      "name": "Coulda Shown You",
+      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -879,22 +883,18 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "Coulda Shown You",
-        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
+        "name": "AR\ua4d8ANO",
+        "url": "https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl"
       },
       "artists": [
         {
-          "name": "Lucca DL",
-          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
-        },
-        {
-          "name": "Killa",
-          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
         }
       ],
-      "duration_ms": 141130,
-      "name": "Coulda Shown You",
-      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
+      "duration_ms": 142736,
+      "name": "Seu",
+      "url": "https://open.spotify.com/track/3x86FsaHkvbrLIkguGACHn"
     },
     {
       "added_at": "2026-08-07 14:28:28",

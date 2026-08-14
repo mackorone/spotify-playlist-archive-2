@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Florian Rus",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Sore",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Bastionul Fericirii",
+        "url": "https://open.spotify.com/album/7p2FEhYZBk8MuxYM60sqPS"
+      },
+      "artists": [
+        {
+          "name": "The Urs",
+          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182168,
+      "name": "Bastionul Fericirii",
+      "url": "https://open.spotify.com/track/6jg9LBPwmtVNXLlqHozweF"
+    },
+    {
+      "album": {
         "name": "Bea, Daca Vrei",
         "url": "https://open.spotify.com/album/2ktHpw0rjUnhPmVJS5erVH"
       },
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 189000,
       "name": "Ce a fost",
       "url": "https://open.spotify.com/track/67OMuyU7kBku4dLq8TNJK4"
@@ -3720,7 +3738,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 231074,
       "name": "Exist\u0103",
       "url": "https://open.spotify.com/track/4tWJxQ0SccyaFWVO3aNfXY"
@@ -5241,6 +5259,28 @@
     },
     {
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/562uRnRru8TbFBW7Hf3OoI"
+      },
+      "artists": [
+        {
+          "name": "Cezar Guna",
+          "url": "https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa"
+        },
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122033,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/7vTl9DAMhjOiDEnKNYHloY"
+    },
+    {
+      "album": {
         "name": "La Fel",
         "url": "https://open.spotify.com/album/5k3YFxmnHmxXxkxO3THhuA"
       },
@@ -5776,7 +5816,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 161632,
       "name": "L\u00e2ng\u0103 tine vreau s\u0103 stau",
       "url": "https://open.spotify.com/track/0mTtA7b8Ao2Zksq5NTlTNP"
@@ -5908,6 +5948,24 @@
       "duration_ms": 213214,
       "name": "MANTRA 333",
       "url": "https://open.spotify.com/track/26q4x1NpVOW0B1BooiIAOY"
+    },
+    {
+      "album": {
+        "name": "Marfarul",
+        "url": "https://open.spotify.com/album/1Rf93YL3QSTXNoPzgw8Ydg"
+      },
+      "artists": [
+        {
+          "name": "Daria Lupi",
+          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196166,
+      "name": "Marfarul",
+      "url": "https://open.spotify.com/track/3qlEQ8NDF9zRTyCr5YaWha"
     },
     {
       "album": {
@@ -6130,6 +6188,24 @@
       "duration_ms": 197067,
       "name": "MISSY ELLIOTT",
       "url": "https://open.spotify.com/track/4XA5rwdOzxiGHLf5CYtLHx"
+    },
+    {
+      "album": {
+        "name": "Mixul Perfect",
+        "url": "https://open.spotify.com/album/1pkWE95wGn3JOgVKohroP7"
+      },
+      "artists": [
+        {
+          "name": "Sore",
+          "url": "https://open.spotify.com/artist/3dmuXOSgI3EMfcKhufthu3"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Mixul Perfect",
+      "url": "https://open.spotify.com/track/4zV7P6c8h9GZKTPCPW5M3Z"
     },
     {
       "album": {
@@ -7266,7 +7342,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 147200,
       "name": "O sa vina ziua",
       "url": "https://open.spotify.com/track/0UQXbAOLooNOYq5Pw1aWCu"
@@ -8046,6 +8122,24 @@
       "duration_ms": 169411,
       "name": "Prieteni",
       "url": "https://open.spotify.com/track/762tfyVXBlCKIzKebDJaVU"
+    },
+    {
+      "album": {
+        "name": "Prieteni de weekend",
+        "url": "https://open.spotify.com/album/4OXtHW7n6okWU1IrkA0LAJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Prieteni de weekend",
+      "url": "https://open.spotify.com/track/1PMXMEmesXIWeietN8kRgx"
     },
     {
       "album": {
@@ -9434,7 +9528,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 166451,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/1BQskN4wN6MEL2qTAhPTkP"

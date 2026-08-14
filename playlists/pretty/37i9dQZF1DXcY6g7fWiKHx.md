@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,008 likes - 330 songs - 1 day 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,009 likes - 330 songs - 1 day 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 329 | [Geht's noch?](https://open.spotify.com/track/7Ep4qBcgxQTa0QwnOrVEa9) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Geht's noch? \(21 Year Anniversary Pt\. 1\)](https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4) | 6:48 |
 | 330 | [South](https://open.spotify.com/track/6ewMrXOPZWzzx7MbLmXkWS) | [Fango](https://open.spotify.com/artist/0Ey5SuiHfEJX8DZzwyENz1) | [Cardinals](https://open.spotify.com/album/3mPpH1l17FOvqo6YRjbMw8) | 5:40 |
 
-Snapshot ID: `AAAAAO6CK7I3AYfocKFxq6CqnmIUvFfL`
+Snapshot ID: `AAAAAKHkKM0vzHBNN+7UJWcBD8PghMfi`

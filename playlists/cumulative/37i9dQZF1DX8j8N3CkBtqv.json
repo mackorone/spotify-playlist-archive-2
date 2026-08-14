@@ -3781,6 +3781,28 @@
     },
     {
       "album": {
+        "name": "Bata Zara",
+        "url": "https://open.spotify.com/album/4mMzTydbLzeW4Z1EkN6uvy"
+      },
+      "artists": [
+        {
+          "name": "Subhi",
+          "url": "https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2"
+        },
+        {
+          "name": "Aman Moroney",
+          "url": "https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231285,
+      "name": "Bata Zara",
+      "url": "https://open.spotify.com/track/2wUvjrkR4YooAvZrXqjNKY"
+    },
+    {
+      "album": {
         "name": "Bawariya",
         "url": "https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C"
       },
@@ -24716,7 +24738,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 196608,
       "name": "Saasein Meri",
       "url": "https://open.spotify.com/track/0xbxxGPHh72DO9tSPLSNv7"
@@ -27274,7 +27296,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 276405,
       "name": "summerlovin",
       "url": "https://open.spotify.com/track/1py8E9GjG57eGeCOSt3IWP"
@@ -32134,6 +32156,24 @@
       "duration_ms": 157009,
       "name": "YOURS TRULY",
       "url": "https://open.spotify.com/track/0f7Q8984eSXkP5q3PMXm02"
+    },
+    {
+      "album": {
+        "name": "Yun",
+        "url": "https://open.spotify.com/album/06381i0zYv1ScVjz8z4nau"
+      },
+      "artists": [
+        {
+          "name": "Ananya Wadkar",
+          "url": "https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238882,
+      "name": "Yun",
+      "url": "https://open.spotify.com/track/3xbvpP9fQiu3YQdTn1JMe7"
     },
     {
       "album": {

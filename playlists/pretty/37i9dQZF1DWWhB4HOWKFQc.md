@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Biru Baru
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,516,520 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,516,637 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 99 | [Close to You](https://open.spotify.com/track/2G5ItTp6kepUVeJrsmFSbQ) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Close to You](https://open.spotify.com/album/35XKlAPheGcZUQ2nh7eKtw) | 3:17 |
 | 100 | [Magnolia](https://open.spotify.com/track/3JkDuxcnIzBUngCk6peKZi) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK) | [Fantasia](https://open.spotify.com/album/1GX1O94nu0wkXL4Z9nG7LU) | 4:16 |
 
-Snapshot ID: `AAAAAPWfHaxsOS01bqHMaAbFUJEQMQMW`
+Snapshot ID: `AAAAAMegtW+wiw/WprKB0R0xPAhLT3gz`

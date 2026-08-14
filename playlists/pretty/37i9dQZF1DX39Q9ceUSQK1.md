@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,840 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,834 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 |
 | 100 | [wake up](https://open.spotify.com/track/4Gfc7k9NB7Sq6aiZuXvlie) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [wake up](https://open.spotify.com/album/38Jr3Cju79Oif4kswLPnYd) | 4:44 |
 
-Snapshot ID: `AAAAAPkPcqSqvBh6KEBcVdt5w7DDFjrs`
+Snapshot ID: `AAAAAO28xsn5+sabyxaV7FqrwiXGGfj5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,743 likes - 65 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,825 likes - 65 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 64 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
 | 65 | [Gravity Of Love](https://open.spotify.com/track/3RSMFb9dHXNWZw8YwYGepI) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [The Screen Behind The Mirror](https://open.spotify.com/album/7DYEllaK5Cxa2cbcCF1QDV) | 3:58 |
 
-Snapshot ID: `AAAAAEKNeDXM3WPJMcSzPCsvFJS8bHZO`
+Snapshot ID: `AAAAAMz66kYF9411eoGy+aH1UyXlr1P/`

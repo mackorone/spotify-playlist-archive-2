@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 40803,
+  "num_followers": 40813,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anpmAAAAAACaqPcmq9pgWhpB5lap2fmv",
+  "snapshot_id": "anu3gAAAAACL0jYx9D+0hkmT2nGSn557",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Porque Es Amor",
-      "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos En Vivo",
         "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 162400,
       "name": "Los Hombres No Deben Llorar - Live Version",
       "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Porque Es Amor",
+      "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 186180,
-      "name": "Jacinto P\u00e9rez de la o",
-      "url": "https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que El Mundo Ruede (Ven Conmigo Cari\u00f1ito)",
         "url": "https://open.spotify.com/album/1QdUVFZtyXjs6M0gDTWNZj"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 207368,
       "name": "Que El Mundo Ruede (Ven Conmigo Cari\u00f1ito)",
       "url": "https://open.spotify.com/track/0ynPwKFEs5siAwGp28MTf3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 186180,
+      "name": "Jacinto P\u00e9rez de la o",
+      "url": "https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 222820,
-      "name": "Dulce Veneno",
-      "url": "https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Nueva Era de la Quebradita",
         "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 195361,
       "name": "El Caderazo",
       "url": "https://open.spotify.com/track/0QXL1Y9KtEHoMonrMVLJtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 222820,
+      "name": "Dulce Veneno",
+      "url": "https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE"
     },
     {
       "added_at": null,

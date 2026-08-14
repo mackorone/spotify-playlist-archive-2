@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,453 likes - 79 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,454 likes - 79 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 39 | [Bowie](https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 4:57 |
 | 40 | [Zaprzepaszczone siły wielkiej armii świętych znaków \- Live](https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8) | [Coma](https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17) | [Coma Live Pol'and'Rock Festival 2024](https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7) | 14:15 |
 | 41 | [WKURWELEPSZEPOGO](https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu) | [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [TRASH TAPE](https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax) | 2:16 |
-| 42 | [Nowy rozdział](https://open.spotify.com/track/02W2Rnd9yiaYMUdPb8FW8u) | [Turbo](https://open.spotify.com/artist/1hT8ADv3IA415PjBUwfLLv) | [Blizny](https://open.spotify.com/album/3zZetK9kvK3SFuI1hCazEB) | 4:06 |
-| 43 | [VValka o każdy kolejny dzień](https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [Tematy i wariacje](https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT) | 4:53 |
+| 42 | [VValka o każdy kolejny dzień](https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [Tematy i wariacje](https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT) | 4:53 |
+| 43 | [Nowy rozdział](https://open.spotify.com/track/02W2Rnd9yiaYMUdPb8FW8u) | [Turbo](https://open.spotify.com/artist/1hT8ADv3IA415PjBUwfLLv) | [Blizny](https://open.spotify.com/album/3zZetK9kvK3SFuI1hCazEB) | 4:06 |
 | 44 | [The Shit Ov God](https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV) | 5:36 |
 | 45 | [Life Is A Game](https://open.spotify.com/track/5VxYcJN2ozjuTrJ1GrPpM9) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [White Room](https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB) | 3:32 |
 | 46 | [Canon](https://open.spotify.com/track/0PMpVJKmad8FKWtbdeuzDt) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Andrzej Święs](https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC), [Dawid Fortuna](https://open.spotify.com/artist/4xVlgpnFp1beopNgUNSIDk) | [Portraits](https://open.spotify.com/album/6zlXNLJmQVAJTScGy68ZHN) | 4:47 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 51 | [Chaga](https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzyby](https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO) | 2:54 |
 | 52 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
 | 53 | [Amor sin esperanza](https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9) | [Marcin Masecki](https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg) | [Boleros y Masecki](https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx) | 4:51 |
-| 54 | [Memento Amoris](https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08) | [Kury](https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9) | [Uno Lovis Party](https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4) | 3:22 |
-| 55 | [Love in the Garden](https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [Homage](https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D) | 4:11 |
+| 54 | [Love in the Garden](https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [Homage](https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D) | 4:11 |
+| 55 | [Memento Amoris](https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08) | [Kury](https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9) | [Uno Lovis Party](https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4) | 3:22 |
 | 56 | [Chwilowy układ wszystkiego](https://open.spotify.com/track/5ML73U95xmY6cgjtZoiy4A) | [Product May Contain](https://open.spotify.com/artist/0EBHXfugPyQpEBjZn68FrI) | [Playgrounds](https://open.spotify.com/album/158tD0asiM3tHH6K8EXzJa) | 5:56 |
-| 57 | [KREW Z KRWI](https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK) | [Luxtorpeda](https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW) | [MÓJ TRUP JEST WIĘKSZY NIŻ TWÓJ](https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR) | 5:13 |
-| 58 | [Wolny jak Liść](https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ) | [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG) | [Druga Furioza \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT) | 1:45 |
+| 57 | [Wolny jak Liść](https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ) | [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG) | [Druga Furioza \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT) | 1:45 |
+| 58 | [KREW Z KRWI](https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK) | [Luxtorpeda](https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW) | [MÓJ TRUP JEST WIĘKSZY NIŻ TWÓJ](https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR) | 5:13 |
 | 59 | [W Życiu Bywa Jak W Piosence](https://open.spotify.com/track/1yJIGyzqw69MEMCsJdXAxO) | [Warszawska Orkiestra Sentymentalna](https://open.spotify.com/artist/287kPG6g5bOowVT6Ehz5c8), [Noam Zylberberg](https://open.spotify.com/artist/05HoQZvlX0l9QyrFHBmpl7) | [Oranżowy Świt](https://open.spotify.com/album/53YYHkNtfwxVM1N7E1LwXr) | 3:23 |
 | 60 | [An Empty Grave Is Just A Hole In The Ground](https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3) | [Hostia](https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy) | [Razorblade Psalm](https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV) | 1:36 |
 | 61 | [Sycylia](https://open.spotify.com/track/6sg2gRg0NvxAVSYcttwnDY) | [Variete](https://open.spotify.com/artist/4Ql0QYFmhiCSiwy3Konrti) | [Sieć Indry](https://open.spotify.com/album/0SyKIJwrswed74mceZkmnG) | 4:11 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 78 | [Seventh Sand](https://open.spotify.com/track/5WzkuUQM1dj3IQIpI8Poey) | [Michał Barański](https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A) | [No Return No Karma](https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB) | 6:55 |
 | 79 | [Through The Hourglass](https://open.spotify.com/track/1qK1QaIsVwDGtpoEZO1nku) | [Grzegorz Masłowski](https://open.spotify.com/artist/0Niiwq7pOtjOiLHWgazzFf), [Marcin Kaletka](https://open.spotify.com/artist/3Nt9qGuEE62mfXix1olw8T), [Jarosław Bothur](https://open.spotify.com/artist/27py90o2nVmbxES4ZRD0G0), [Mateusz Pałka](https://open.spotify.com/artist/6xP0Vou9vkHkmiblCpoLgo), [Piotr Południak](https://open.spotify.com/artist/5crOp7ea1g8f6YHiqzL8UH) | [Through The Hourglass \(Acoustic\)](https://open.spotify.com/album/776qd7dIOzM2n4x9jO6IqE) | 9:10 |
 
-Snapshot ID: `AAAAAMFq8F+6UTNW8mJLBX8AjhipF2L+`
+Snapshot ID: `AAAAAG7IQ8EG4Bz0jbiOIe4q2ybl+hZr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,688 likes - 160 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,717 likes - 160 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 159 | [Flower Peak](https://open.spotify.com/track/5iUc2rN3bd2C33qyAMdcBw) | [Dormira Y Fluir](https://open.spotify.com/artist/6p4EOjFaxKI2qalYsz4pAK) | [Flower Peak](https://open.spotify.com/album/65FYABLO74OLHqnN1SWnxn) | 2:31 |
 | 160 | [Requiem Tibi](https://open.spotify.com/track/3zMYWPAeCVh879QUKrHFSO) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Requiem Tibi](https://open.spotify.com/album/1hxjv3Jn5iCmPWnXQbPAeN) | 2:52 |
 
-Snapshot ID: `AAAAADD85brgzWY6ahL0t/voWsVI2HWX`
+Snapshot ID: `AAAAAOL7hH6+XXpXiv5FBZTS61c5IU/z`

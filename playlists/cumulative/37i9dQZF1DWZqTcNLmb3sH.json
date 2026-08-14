@@ -8235,6 +8235,24 @@
     },
     {
       "album": {
+        "name": "Chandiranaaduva",
+        "url": "https://open.spotify.com/album/2FjEr1n6soBb5LVgv5lCc6"
+      },
+      "artists": [
+        {
+          "name": "Rosh",
+          "url": "https://open.spotify.com/artist/48DR3KgemVdJeBrzZPSzPp"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178695,
+      "name": "Chandiranaaduva",
+      "url": "https://open.spotify.com/track/60NVF5PynQBRLuwIgJFh8Y"
+    },
+    {
+      "album": {
         "name": "Garuda Gamana Vrishabha Vahana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MHr14PEMcU4EGRAKsI8vq"
       },
@@ -19362,7 +19380,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 386078,
       "name": "Jai Anjaneya (From \"Shrimathi Sindhoora\")",
       "url": "https://open.spotify.com/track/46AI3mUgYzB2ym6es1wZ8S"
@@ -20014,6 +20032,32 @@
       "duration_ms": 226434,
       "name": "Jeevamaana (From \"Garadi\")",
       "url": "https://open.spotify.com/track/6BZRrmvDfDyaKaz8mkX1du"
+    },
+    {
+      "album": {
+        "name": "Jeevana",
+        "url": "https://open.spotify.com/album/5oBBmuQToU1lFtbYGxbwtz"
+      },
+      "artists": [
+        {
+          "name": "Ashwatth M Uppoor",
+          "url": "https://open.spotify.com/artist/4zihticqDn9sT89sZyevtF"
+        },
+        {
+          "name": "Adithya Nayak",
+          "url": "https://open.spotify.com/artist/3rxvX2DtDXrCAlS5wLNrhR"
+        },
+        {
+          "name": "Sanjay Purohit",
+          "url": "https://open.spotify.com/artist/2hT9BPXOfxIpkHvyQjro4i"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Jeevana",
+      "url": "https://open.spotify.com/track/7IQwHBf3yEVs6GKA467J6O"
     },
     {
       "album": {
@@ -23318,7 +23362,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 161680,
       "name": "KD Title Track (From \"KD\")",
       "url": "https://open.spotify.com/track/3mSGFXSGleDhdk6vFGbQxU"

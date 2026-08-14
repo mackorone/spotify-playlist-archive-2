@@ -2,9 +2,9 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Melis Karaduman
+> Geleceğin seslerini dinle! Kapak: üçkuruş
 
-113 songs - 5 hr 27 min
+115 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,14 +44,16 @@
 | [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-01-09 | 2026-07-02 |
 | [Fal](https://open.spotify.com/track/2hjlELtdvfwxdY4yzDu7Ry) | [Yase](https://open.spotify.com/artist/54o2CbLdMsh6SR8hufrQiA) | [Fal](https://open.spotify.com/album/1eDoPJNZ6eMTVKg147XMAY) | 2:37 | 2024-06-20 | 2024-10-24 |
 | [FARKINDA DEĞİLDİN](https://open.spotify.com/track/0hpyV1jNlhTMgyyFhD38FW) | [SELIN ](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [FARKINDA DEĞİLDİN](https://open.spotify.com/album/0thzIGrx4KCbBFpNsOHKdx) | 3:21 | 2024-06-20 |  |
+| [Gece ve Gündüz](https://open.spotify.com/track/00s2Nz4xvmwCMczsGtOyuW) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gece ve Gündüz](https://open.spotify.com/album/2PEskqdd9Sp16mdNnqd4VW) | 3:11 | 2026-08-13 |  |
 | [Geceyi Dinle](https://open.spotify.com/track/6OokxHeZQqk33sncJ3Lhsu) | [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Geceyi Dinle](https://open.spotify.com/album/3vynHAUsyF7cMt5WftRELn) | 3:21 | 2024-06-20 | 2024-10-24 |
-| [Geri Ver](https://open.spotify.com/track/4pCEueB6H48Ge1vPEecj3b) | [Furkan Halıcı](https://open.spotify.com/artist/6W1El4pLfVxwgMnAqfX4O7) | [Geri Ver](https://open.spotify.com/album/1JUJFvRGs0GJhFOsudsP2W) | 2:59 | 2024-06-20 |  |
+| [Geri Ver](https://open.spotify.com/track/4pCEueB6H48Ge1vPEecj3b) | [Furkan Halıcı](https://open.spotify.com/artist/6W1El4pLfVxwgMnAqfX4O7) | [Geri Ver](https://open.spotify.com/album/1JUJFvRGs0GJhFOsudsP2W) | 2:59 | 2024-06-20 | 2026-08-14 |
 | [Gittiğinden Beri](https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB) | [Bade](https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz) | [Gittiğinden Beri](https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7) | 2:46 | 2024-10-23 |  |
 | [Gözyaşında Sakla Beni](https://open.spotify.com/track/76WCSXEisEykLYINetFA4k) | [Beyza Başak](https://open.spotify.com/artist/38awyHzw1soCVVfDYjLevO) | [Gözyaşında Sakla Beni](https://open.spotify.com/album/32ZhjWIZoo1kVRj1i5HW80) | 2:47 | 2024-10-23 |  |
 | [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-23 |  |
 | [Hayran](https://open.spotify.com/track/46achL0ohwWzbyC4VvNR01) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hayran](https://open.spotify.com/album/6oFOEKBQnaHhNcQTKUv7vk) | 2:12 | 2025-01-09 |  |
 | [HAYVAN](https://open.spotify.com/track/6KhrDTJpM5sWEwwpVbFI75) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [HAYVAN](https://open.spotify.com/album/6vRLveKJhZszazyUrRJ54E) | 3:05 | 2025-03-20 | 2025-07-11 |
 | [HUMAN](https://open.spotify.com/track/2JRsdMaavScKW5ohfCFOgz) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [HUMAN](https://open.spotify.com/album/52FucwXRUffwY88oNm8pTT) | 3:11 | 2024-06-20 | 2024-07-30 |
+| [Işık](https://open.spotify.com/track/4vXcZcrmXfiqWfG7zTTUPe) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Işık](https://open.spotify.com/album/6A4Bv7ZciNE6XgXvdWYRfZ) | 2:58 | 2026-08-13 |  |
 | [Işığım Sensin](https://open.spotify.com/track/42bG1UIJfAhmZsmO4ekea6) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Işığım Sensin](https://open.spotify.com/album/79egQyuz9OZu00HAHs7R77) | 2:18 | 2024-10-23 | 2025-01-17 |
 | [İHYA](https://open.spotify.com/track/45my9isZJ6wUxDnUWUL8WL) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [İHYA](https://open.spotify.com/album/2fg6JIB8A8NuyUEzybDFrV) | 3:28 | 2024-06-20 | 2024-10-24 |
 | [İlkler Kalır](https://open.spotify.com/track/1hSat4DFZmIFb9arXE7riQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [İlkler Kalır](https://open.spotify.com/album/3LzUVmUwJGWOrsRc5u04qC) | 2:48 | 2024-12-12 |  |
@@ -68,7 +70,7 @@
 | [MELEK MİYİM](https://open.spotify.com/track/0HSj4XkXceHcSiwKcWxc1V) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [MELEK MİYİM](https://open.spotify.com/album/6UCpFr6aaLjtHSX3GpKCKb) | 2:31 | 2024-06-20 |  |
 | [MERABA](https://open.spotify.com/track/1Z3e9ckGYuIoH6jdvyqMv8) | [KAAN](https://open.spotify.com/artist/73IruPtnQ79QO4CR8Osgyp), [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [MERABA](https://open.spotify.com/album/2PxZuvHFvsQwFGb4qD3enP) | 3:04 | 2025-11-07 | 2026-04-14 |
 | [MUTLU SON](https://open.spotify.com/track/6RMli1QPSWUgw0b1q9goK8) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [SENDEN ÖNCE BEN KİMDİM](https://open.spotify.com/album/4B9gmTwPxd5qMbTzQc0HDW) | 2:27 | 2026-04-13 |  |
-| [N'aptım Ben Sana?](https://open.spotify.com/track/3yMa3jz5ivK0QrUUlT4Npx) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [N'aptım Ben Sana?](https://open.spotify.com/album/7FTnDptilAIZCpQ2Z6Yqj7) | 2:33 | 2024-06-20 |  |
+| [N'aptım Ben Sana?](https://open.spotify.com/track/3yMa3jz5ivK0QrUUlT4Npx) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [N'aptım Ben Sana?](https://open.spotify.com/album/7FTnDptilAIZCpQ2Z6Yqj7) | 2:33 | 2024-06-20 | 2026-08-14 |
 | [N'olur Gelsen](https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK), [Gizem Orhan](https://open.spotify.com/artist/6NuJHmxmFEempARh9fp3qy) | [N'olur Gelsen](https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr) | 2:48 | 2024-10-23 | 2026-07-30 |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [SELIN ](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-06-20 |  |
 | [neden](https://open.spotify.com/track/0xLUenokW0efdVZoxtRI3s) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [neden](https://open.spotify.com/album/0UwpSPaQXWVpT3wTEMvdti) | 3:06 | 2025-06-16 | 2026-05-02 |

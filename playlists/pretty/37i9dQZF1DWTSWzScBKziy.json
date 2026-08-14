@@ -1,12 +1,12 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres. Cover: Joseph O'Brien",
-  "num_followers": 435633,
+  "num_followers": 435774,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHpiXR/VcbmN6idcySAtf5LvX80W",
+  "snapshot_id": "AAAAAD3hcVwGVGRi9jSfI71fIz54ckG+",
   "tracks": [
     {
       "added_at": "2026-08-07 07:22:47",
@@ -151,18 +151,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "FATHER'S HOUSE",
-        "url": "https://open.spotify.com/album/7AK6pZm0XiMHKs2ia7XUEC"
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 360173,
-      "name": "FATHER'S HOUSE",
-      "url": "https://open.spotify.com/track/0BrRKWI1dw5VCfTzpBMydN"
+      "duration_ms": 327000,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/7JOI1mdGhWdaa8U4NGSteC"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -179,6 +179,38 @@
       "duration_ms": 176162,
       "name": "Devil In The Water",
       "url": "https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/1EGLxrX13pQItu7b9kjASi"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/2SEKMZuNE4e3sckh8WUo1K"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "Give Me Joy",
+        "url": "https://open.spotify.com/album/6sTnl17phWJeWoEMOm3wQ7"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 283615,
+      "name": "Give Me Joy",
+      "url": "https://open.spotify.com/track/65g5hAMnsr9Zug4vGWrPgS"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -203,38 +235,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Give Me Joy",
-        "url": "https://open.spotify.com/album/6sTnl17phWJeWoEMOm3wQ7"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 283615,
-      "name": "Give Me Joy",
-      "url": "https://open.spotify.com/track/65g5hAMnsr9Zug4vGWrPgS"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "Forever Now",
-        "url": "https://open.spotify.com/album/1EGLxrX13pQItu7b9kjASi"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Beautiful Life",
-      "url": "https://open.spotify.com/track/2SEKMZuNE4e3sckh8WUo1K"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "Road Less Traveled",
         "url": "https://open.spotify.com/album/3N003bQiYF4NymTauky8B3"
       },
@@ -255,18 +255,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar"
+        "name": "FATHER'S HOUSE",
+        "url": "https://open.spotify.com/album/7AK6pZm0XiMHKs2ia7XUEC"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 327000,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/7JOI1mdGhWdaa8U4NGSteC"
+      "duration_ms": 360173,
+      "name": "FATHER'S HOUSE",
+      "url": "https://open.spotify.com/track/0BrRKWI1dw5VCfTzpBMydN"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -327,22 +327,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/4EPC0qdL5Yy7YwzRUNyavs"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/7B1U2uA3G7XhvbYWZ0Kevh"
       },
       "artists": [
         {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        },
-        {
-          "name": "Tyler Roberts",
-          "url": "https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 478285,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/2IS9bxq9BqYmK5GdTA8yzB"
+      "duration_ms": 180078,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/2dDoci6iS2qGzeyL2Jcs2R"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -371,18 +367,22 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/7B1U2uA3G7XhvbYWZ0Kevh"
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/4EPC0qdL5Yy7YwzRUNyavs"
       },
       "artists": [
         {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Tyler Roberts",
+          "url": "https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0"
         }
       ],
-      "duration_ms": 180078,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/2dDoci6iS2qGzeyL2Jcs2R"
+      "duration_ms": 478285,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/2IS9bxq9BqYmK5GdTA8yzB"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Breathe On It (From Austin)",
-        "url": "https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 290981,
-      "name": "Breathe On It - From Austin",
-      "url": "https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "His Favorite",
         "url": "https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 178965,
       "name": "Change in Your Name",
       "url": "https://open.spotify.com/track/50k7ISfsdVnX0qwYinBmrp"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "Breathe On It (From Austin)",
+        "url": "https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 290981,
+      "name": "Breathe On It - From Austin",
+      "url": "https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -715,6 +715,38 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
+        "name": "WANNA SING",
+        "url": "https://open.spotify.com/album/04kaljKB1DAClqzwuOejEk"
+      },
+      "artists": [
+        {
+          "name": "Gabe von Oven",
+          "url": "https://open.spotify.com/artist/4gN7QE1KMr6kQn3rbBiIrp"
+        }
+      ],
+      "duration_ms": 152389,
+      "name": "WANNA SING",
+      "url": "https://open.spotify.com/track/7orhTkuPQcltwqm8enW7NW"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "The Art Of Letting Go",
+        "url": "https://open.spotify.com/album/49Od7jiemkTsoUkSTdU1py"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "duration_ms": 267692,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/6X3Aywe78vskLpwYKOqWyE"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
         "name": "Praise The Lord Forever",
         "url": "https://open.spotify.com/album/016Xwvjbf4WUCDpPmqorJV"
       },
@@ -755,34 +787,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "The Art Of Letting Go",
-        "url": "https://open.spotify.com/album/49Od7jiemkTsoUkSTdU1py"
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/4oc12KtV51B0yIKDl6LYUF"
       },
       "artists": [
         {
-          "name": "Hopeful.",
-          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
         }
       ],
-      "duration_ms": 267692,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/6X3Aywe78vskLpwYKOqWyE"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "WANNA SING",
-        "url": "https://open.spotify.com/album/04kaljKB1DAClqzwuOejEk"
-      },
-      "artists": [
-        {
-          "name": "Gabe von Oven",
-          "url": "https://open.spotify.com/artist/4gN7QE1KMr6kQn3rbBiIrp"
-        }
-      ],
-      "duration_ms": 152389,
-      "name": "WANNA SING",
-      "url": "https://open.spotify.com/track/7orhTkuPQcltwqm8enW7NW"
+      "duration_ms": 211353,
+      "name": "The Real Thing",
+      "url": "https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -799,38 +815,6 @@
       "duration_ms": 272545,
       "name": "Know Your Name",
       "url": "https://open.spotify.com/track/45EuRfYN9UPYrRuu0Kqvzb"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "I Will Go (Live)",
-        "url": "https://open.spotify.com/album/5poFBH0sgVLaxNAcCmxti6"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 249003,
-      "name": "I Will Go - Live",
-      "url": "https://open.spotify.com/track/1qRyX2jvOmpdCopna4KVNl"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/4oc12KtV51B0yIKDl6LYUF"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 211353,
-      "name": "The Real Thing",
-      "url": "https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -855,6 +839,22 @@
       "duration_ms": 323548,
       "name": "I Was Dead, Now I'm Alive - Live",
       "url": "https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "I Will Go (Live)",
+        "url": "https://open.spotify.com/album/5poFBH0sgVLaxNAcCmxti6"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 249003,
+      "name": "I Will Go - Live",
+      "url": "https://open.spotify.com/track/1qRyX2jvOmpdCopna4KVNl"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "My Redeemer Lives (He Lives)",
-        "url": "https://open.spotify.com/album/5MQ8l1QjrtK1UzJy4HryD0"
-      },
-      "artists": [
-        {
-          "name": "Kingdom Culture Worship",
-          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
-        },
-        {
-          "name": "Southland",
-          "url": "https://open.spotify.com/artist/12Zrq1PlpqldPe1bfR5boK"
-        }
-      ],
-      "duration_ms": 275786,
-      "name": "My Redeemer Lives (He Lives)",
-      "url": "https://open.spotify.com/track/1xMXtml2hvq7IM6JdaZy7n"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "Beat Around the Bush",
         "url": "https://open.spotify.com/album/3VBfv8Xf2zITBnaavDIOuo"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 248972,
       "name": "Lead Me To The Cross",
       "url": "https://open.spotify.com/track/5cxHgLbvXOjCyg3pNEv88s"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "My Redeemer Lives (He Lives)",
+        "url": "https://open.spotify.com/album/5MQ8l1QjrtK1UzJy4HryD0"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Southland",
+          "url": "https://open.spotify.com/artist/12Zrq1PlpqldPe1bfR5boK"
+        }
+      ],
+      "duration_ms": 275786,
+      "name": "My Redeemer Lives (He Lives)",
+      "url": "https://open.spotify.com/track/1xMXtml2hvq7IM6JdaZy7n"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "SOMETHING GOOD",
-        "url": "https://open.spotify.com/album/6duqiwAuZbZPW9OVJHX5BY"
-      },
-      "artists": [
-        {
-          "name": "Sydni Alexander",
-          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
-        },
-        {
-          "name": "Nitro X",
-          "url": "https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW"
-        },
-        {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "SOMETHING GOOD",
-      "url": "https://open.spotify.com/track/17BDMrOQieQCZVNLRS5bRd"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/5Up4E2RVBpgFkMYj4y20Ot"
       },
@@ -1107,18 +1083,26 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "ascent",
-        "url": "https://open.spotify.com/album/6jyCvUl8pbOWIryoBAOSWQ"
+        "name": "SOMETHING GOOD",
+        "url": "https://open.spotify.com/album/6duqiwAuZbZPW9OVJHX5BY"
       },
       "artists": [
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+          "name": "Sydni Alexander",
+          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
+        },
+        {
+          "name": "Nitro X",
+          "url": "https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW"
+        },
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
         }
       ],
-      "duration_ms": 173734,
-      "name": "ascent",
-      "url": "https://open.spotify.com/track/5yLxxBV99TdWRa9tHPsu58"
+      "duration_ms": 164516,
+      "name": "SOMETHING GOOD",
+      "url": "https://open.spotify.com/track/17BDMrOQieQCZVNLRS5bRd"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1151,6 +1135,22 @@
       "duration_ms": 205285,
       "name": "Wait On The Lord",
       "url": "https://open.spotify.com/track/0h5jjjBxU7q8Uv6LyGXabN"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "ascent",
+        "url": "https://open.spotify.com/album/6jyCvUl8pbOWIryoBAOSWQ"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 173734,
+      "name": "ascent",
+      "url": "https://open.spotify.com/track/5yLxxBV99TdWRa9tHPsu58"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E"
+      },
+      "artists": [
+        {
+          "name": "Alex Jude",
+          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
+        },
+        {
+          "name": "Drake White",
+          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
+        }
+      ],
+      "duration_ms": 235446,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
         "name": "Terms & Conditions",
         "url": "https://open.spotify.com/album/6AhdxB1DQE96eRfYGQ3iT5"
       },
@@ -1223,26 +1243,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Vagabond",
-        "url": "https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E"
-      },
-      "artists": [
-        {
-          "name": "Alex Jude",
-          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
-        },
-        {
-          "name": "Drake White",
-          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
-        }
-      ],
-      "duration_ms": 235446,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "My Hope",
         "url": "https://open.spotify.com/album/2wxza20WnAbFHG5XsK6iik"
       },
@@ -1271,6 +1271,26 @@
       "duration_ms": 218752,
       "name": "Eve Of A Miracle",
       "url": "https://open.spotify.com/track/3wSk86I7OBeoTJWXSZr1Na"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "Keep Praying",
+        "url": "https://open.spotify.com/album/6sTqdd1xZS8BNzOeLlODZD"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        },
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Keep Praying",
+      "url": "https://open.spotify.com/track/08yrcOTDwR6BhEiTPQ79p1"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1331,38 +1351,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Keep Praying",
-        "url": "https://open.spotify.com/album/6sTqdd1xZS8BNzOeLlODZD"
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/3C4REww4VAXUkh4WpGDMAl"
       },
       "artists": [
         {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        },
-        {
-          "name": "Gracie Binion",
-          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+          "name": "C\u00e8Jae",
+          "url": "https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3"
         }
       ],
-      "duration_ms": 250720,
-      "name": "Keep Praying",
-      "url": "https://open.spotify.com/track/08yrcOTDwR6BhEiTPQ79p1"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "Oh My Soul + I Know A Name",
-        "url": "https://open.spotify.com/album/7oqCcj5CucrhmdGA3AuXbb"
-      },
-      "artists": [
-        {
-          "name": "Canaan Baca",
-          "url": "https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q"
-        }
-      ],
-      "duration_ms": 235331,
-      "name": "Oh My Soul",
-      "url": "https://open.spotify.com/track/4kvRVDFQazhqMk5ox7fhoB"
+      "duration_ms": 162601,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/1lDtM5Nqoo45DzY1ftYLhd"
     }
   ],
   "unique_name": "Faith Rising",

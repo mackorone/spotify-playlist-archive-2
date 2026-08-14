@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 
 > <a href="spotify:artist:62k5LKMhymqlDNo2DWOvvv">Boys Noize</a>'s favorite tracks\. Updated regularly\. Curated by Boys Noize\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,253 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,258 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 | 58 | [How's It Gonna Be?](https://open.spotify.com/track/6XlKMyod11QQR0uOIho1dF) | [Rein](https://open.spotify.com/artist/081nh5DBAXiKgJhOlqgU2V) | [God Is A Woman](https://open.spotify.com/album/6QyUpXrwVpPbJ0pAiY33w4) | 3:12 |
 | 59 | [Goodbye Horses \- Single](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 |
 
-Snapshot ID: `AAAAAHyo+m2Et7b9Pp/q0CXiAwjInH83`
+Snapshot ID: `AAAAAN+sIMyISFdhuqgKWoMStRH2SwMM`

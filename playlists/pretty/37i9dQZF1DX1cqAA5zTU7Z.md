@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cqAA5zTU7Z.md) - [plain]
 
 > Based on the best\-selling book series\. Listen to the music from Heated Rivalry, now streaming on Crave and HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,514 likes - 73 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,593 likes - 73 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cqAA5zTU7Z.md) - [plain]
 | 72 | [One Soul \- from "Heated Rivalry"](https://open.spotify.com/track/4de6AAsNHfH3pxdJlI39w6) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Heated Rivalry \(Original Series Soundtrack\)](https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN) | 2:05 |
 | 73 | [Utopie II \- from "Heated Rivalry"](https://open.spotify.com/track/7inepKVx3g8mlTr1eJIjqD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Heated Rivalry \(Original Series Soundtrack\)](https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN) | 1:25 |
 
-Snapshot ID: `AAAAADmGhrbkqxxW0ouiGY4c3Kuttjyg`
+Snapshot ID: `AAAAAKENaHACsERNoXqMXnaz+nSLAN6y`

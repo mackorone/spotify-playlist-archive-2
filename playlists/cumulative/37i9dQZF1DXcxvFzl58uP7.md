@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-1,044 songs - 2 day 6 hr 7 min
+1,045 songs - 2 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Always Dancing](https://open.spotify.com/track/1Fe8UjTbRydk9eLuLoI3Vq) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Always Dancing](https://open.spotify.com/album/2MmO6QdLsMvSomYzQIkmBQ) | 3:43 | 2021-10-08 | 2022-04-21 |
 | [Always Lone](https://open.spotify.com/track/5zYDxzEPmchIgpULm0QgJA) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:14 | 2021-09-01 | 2023-08-26 |
 | [Amor Desechable](https://open.spotify.com/track/0WnfPhFJ43aljXHZLgDLK6) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Desechable](https://open.spotify.com/album/5paWOp1qtehL7pIoOCa4r5) | 2:37 | 2021-05-07 | 2021-05-28 |
-| [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-10-08 |  |
+| [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-10-08 | 2026-08-14 |
 | [Amtrak](https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 2:56 | 2021-05-01 | 2022-12-15 |
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-05-01 | 2022-04-17 |
 | [angel like u](https://open.spotify.com/track/7c5nT959gFGPDnNRIUG0FO) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [angel like u](https://open.spotify.com/album/3AFpn9twmzqjSy1mfXSMmK) | 2:52 | 2024-11-15 | 2026-04-30 |
@@ -850,6 +850,7 @@
 | [Still Got You](https://open.spotify.com/track/4YqhexywnAsA3fiIb1mdGl) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY) | [Still Got You](https://open.spotify.com/album/4WYoDZAUzdn2ArmyrfUcT8) | 2:13 | 2019-07-31 | 2019-10-17 |
 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 | 2025-03-03 | 2025-11-20 |
 | [Stop Staring](https://open.spotify.com/track/26dMPg9O1lmT45wqdBu85t) | [Japan, Man](https://open.spotify.com/artist/54MEW8n5kP8oN7qSvb72Nb) | [Stop Staring](https://open.spotify.com/album/0vhMDWRssPFuGmFGBLf5xq) | 3:27 | 2019-07-30\* | 2020-04-24 |
+| [Strangers](https://open.spotify.com/track/4jRm0irmq3KPFmyxVj4hw1) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Across the Pond](https://open.spotify.com/album/3jZ0wob2gDlB1NvxORTkbz) | 3:19 | 2026-08-13 |  |
 | [strawberry cheeks](https://open.spotify.com/track/4zaLAS8k38OrOzcixofzwj) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [strawberry cheeks](https://open.spotify.com/album/0qy7ydTLwBmQeHbJMHL88t) | 2:14 | 2021-05-14 | 2022-04-16 |
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-03-04 | 2022-07-27 |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-09-01 | 2022-12-15 |

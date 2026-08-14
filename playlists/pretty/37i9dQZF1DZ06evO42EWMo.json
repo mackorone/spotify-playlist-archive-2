@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1205492,
+  "num_followers": 1205541,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anpmAAAAAADpxGmTRcfLCiCN89CyRWwy",
+  "snapshot_id": "anu3gAAAAAA5v6UA5rXF+X0GEcVe3BIC",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 164880,
-      "name": "He Can Only Hold Her",
-      "url": "https://open.spotify.com/track/0sSdFMuYrn3N9moumV466B"
+      "duration_ms": 151573,
+      "name": "Me & Mr Jones",
+      "url": "https://open.spotify.com/track/5RqIM2vv5nw2PGJBqPD8Rg"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 151573,
-      "name": "Me & Mr Jones",
-      "url": "https://open.spotify.com/track/5RqIM2vv5nw2PGJBqPD8Rg"
+      "duration_ms": 164880,
+      "name": "He Can Only Hold Her",
+      "url": "https://open.spotify.com/track/0sSdFMuYrn3N9moumV466B"
     },
     {
       "added_at": null,

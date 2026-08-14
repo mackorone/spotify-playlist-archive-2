@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos, artistas y escenas que convergen en el BOmm 2026. Foto: Jossman",
-  "num_followers": 32596,
+  "num_followers": 32593,
   "original_name": "Punto de encuentro: Spotify x BOmm 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE/NepccEpWy1JG4Guev2dOFzg1K",
+  "snapshot_id": "AAAAAG08OkZlHFuMIQ6AOP4ArgmJmmu6",
   "tracks": [
     {
       "added_at": "2026-08-11 22:59:33",
@@ -107,6 +107,22 @@
       "duration_ms": 92195,
       "name": "En Tu Carro",
       "url": "https://open.spotify.com/track/46BKDFWBKBwVHQE9CrJKt0"
+    },
+    {
+      "added_at": "2026-08-14 01:21:50",
+      "album": {
+        "name": "Ni\u00f1a Peque\u00f1a",
+        "url": "https://open.spotify.com/album/3CmVbkQjldRAJn1AzzCHBE"
+      },
+      "artists": [
+        {
+          "name": "Maria Fuell",
+          "url": "https://open.spotify.com/artist/6bXmuG2Y5ZvquhnGyuOdic"
+        }
+      ],
+      "duration_ms": 142934,
+      "name": "Ni\u00f1a Peque\u00f1a",
+      "url": "https://open.spotify.com/track/5fm5PiXoLoKDe62EYluoP7"
     },
     {
       "added_at": "2026-08-11 22:59:33",
@@ -671,34 +687,6 @@
       "duration_ms": 206000,
       "name": "Codeina",
       "url": "https://open.spotify.com/track/749vq4AE25hT0k0ba1Zknp"
-    },
-    {
-      "added_at": "2026-08-11 22:59:33",
-      "album": {
-        "name": "La Barra Incondicional Colombia",
-        "url": "https://open.spotify.com/album/3GM2YdyOXYKWZ9lGAO83N6"
-      },
-      "artists": [
-        {
-          "name": "LA FIEBRE AMARILLA",
-          "url": "https://open.spotify.com/artist/1CPb7peXAH16YuBjakcPxg"
-        },
-        {
-          "name": "Maria Fuell",
-          "url": "https://open.spotify.com/artist/6bXmuG2Y5ZvquhnGyuOdic"
-        },
-        {
-          "name": "Estereobeat",
-          "url": "https://open.spotify.com/artist/4i70orTITjlYP1lDoHPsZr"
-        },
-        {
-          "name": "Ciegossordomudos",
-          "url": "https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk"
-        }
-      ],
-      "duration_ms": 45988,
-      "name": "S\u00ed, S\u00ed, S\u00ed (Fruta Fresca)",
-      "url": "https://open.spotify.com/track/7iZsFbTtRWvhXObEIpnjoj"
     },
     {
       "added_at": "2026-08-11 22:59:33",

@@ -1,12 +1,12 @@
 {
   "description": "From Joburg and Lagos... to Chicago. Get lost in the electro and bass vibes.",
-  "num_followers": 177579,
+  "num_followers": 177610,
   "original_name": "Afrotronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH/J0bx4g3fCDkfPjFptpnGz8XjO",
+  "snapshot_id": "AAAAAIphteA1bZtH98uNZiuJErzRI5cg",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:01",
@@ -143,6 +143,30 @@
       "duration_ms": 340655,
       "name": "Indlela",
       "url": "https://open.spotify.com/track/4DCsNp4opa4Pz7T1IXIqYa"
+    },
+    {
+      "added_at": "2026-07-30 22:02:01",
+      "album": {
+        "name": "Re-Amathambo (Remix)",
+        "url": "https://open.spotify.com/album/0RjOSD0wNNrcwZYEbiPJDW"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        },
+        {
+          "name": "Chaleee",
+          "url": "https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c"
+        },
+        {
+          "name": "Anna Widauer",
+          "url": "https://open.spotify.com/artist/0a6EIFJe4gQqo49dHs0oGQ"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Re-Amathambo - Remix",
+      "url": "https://open.spotify.com/track/2AyLWsRNFbkjq4wAqPqyrX"
     },
     {
       "added_at": "2026-07-30 22:02:01",

@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 33218,
+  "num_followers": 33273,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anpmAAAAAADr6kf5BtsGe1dLK5ocfyNE",
+  "snapshot_id": "anu3gAAAAACP4v4ptEeHfN5yTy+LTUqz",
   "tracks": [
     {
       "added_at": null,
@@ -71,8 +71,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+        "name": "Between Two Shores",
+        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
       },
       "artists": [
         {
@@ -80,9 +80,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 201826,
-      "name": "Winning Streak",
-      "url": "https://open.spotify.com/track/2vaoKrieU38LtJAYWXpeju"
+      "duration_ms": 183293,
+      "name": "Why Woman",
+      "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Two Shores",
-        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Why Woman",
-      "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Didn't He Ramble",
         "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
       },
@@ -148,9 +132,33 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 266080,
-      "name": "My Little Ruin",
-      "url": "https://open.spotify.com/track/2aay5Exr9xPNdvLztiWl35"
+      "duration_ms": 201826,
+      "name": "Winning Streak",
+      "url": "https://open.spotify.com/track/2vaoKrieU38LtJAYWXpeju"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strict Joy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 287186,
+      "name": "Low Rising",
+      "url": "https://open.spotify.com/track/4TXEO5x60Xl3i85UOpr059"
     },
     {
       "added_at": null,
@@ -187,30 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strict Joy (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX"
-      },
-      "artists": [
-        {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 287186,
-      "name": "Low Rising",
-      "url": "https://open.spotify.com/track/4TXEO5x60Xl3i85UOpr059"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Didn't He Ramble",
         "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
       },
@@ -220,9 +204,29 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 286466,
-      "name": "Her Mercy",
-      "url": "https://open.spotify.com/track/02ckSWja0a1uutSiZ2enQG"
+      "duration_ms": 266080,
+      "name": "My Little Ruin",
+      "url": "https://open.spotify.com/track/2aay5Exr9xPNdvLztiWl35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Rather Be Home",
+      "url": "https://open.spotify.com/track/6O3eyIuIDoXHHa1KEVDQpO"
     },
     {
       "added_at": null,
@@ -259,11 +263,31 @@
     {
       "added_at": null,
       "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "Her Mercy",
+      "url": "https://open.spotify.com/track/02ckSWja0a1uutSiZ2enQG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
       "artists": [
         {
+          "name": "Olivia Vedder",
+          "url": "https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E"
+        },
+        {
           "name": "Eddie Vedder",
           "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
         },
@@ -272,33 +296,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Rather Be Home",
-      "url": "https://open.spotify.com/track/6O3eyIuIDoXHHa1KEVDQpO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drive All Night",
-        "url": "https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        },
-        {
-          "name": "Jake Clemons",
-          "url": "https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ"
-        }
-      ],
-      "duration_ms": 516919,
-      "name": "Drive All Night",
-      "url": "https://open.spotify.com/track/2GmJP1FWraZ6XQaKUTkUSP"
+      "duration_ms": 213733,
+      "name": "There's A Girl",
+      "url": "https://open.spotify.com/track/0BaKCPtWMPK3UMsf3YMnTY"
     },
     {
       "added_at": null,
@@ -335,42 +335,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+        "name": "Drive All Night",
+        "url": "https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z"
       },
       "artists": [
         {
-          "name": "Olivia Vedder",
-          "url": "https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E"
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         },
         {
           "name": "Eddie Vedder",
           "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
         },
         {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+          "name": "Jake Clemons",
+          "url": "https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ"
         }
       ],
-      "duration_ms": 213733,
-      "name": "There's A Girl",
-      "url": "https://open.spotify.com/track/0BaKCPtWMPK3UMsf3YMnTY"
+      "duration_ms": 516919,
+      "name": "Drive All Night",
+      "url": "https://open.spotify.com/track/2GmJP1FWraZ6XQaKUTkUSP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+        "name": "For the Birds",
+        "url": "https://open.spotify.com/album/2NRW4KJ2HxFS57Dg6nVTHl"
       },
       "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Paying My Way",
-      "url": "https://open.spotify.com/track/2Xj9fZXhokEHpF7a3cNVk7"
+      "duration_ms": 191520,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/2grwAOEFS0Z6eLAysVimSn"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Birds",
-        "url": "https://open.spotify.com/album/2NRW4KJ2HxFS57Dg6nVTHl"
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
       },
       "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 191520,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/2grwAOEFS0Z6eLAysVimSn"
+      "duration_ms": 214400,
+      "name": "Paying My Way",
+      "url": "https://open.spotify.com/track/2Xj9fZXhokEHpF7a3cNVk7"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drive All Night",
-        "url": "https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 134022,
-      "name": "Step out of the Shadows",
-      "url": "https://open.spotify.com/track/4Ez56zhSkr9tgusv4EHDWk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
         "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
       },
@@ -503,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set List (Live)",
-        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
+        "name": "Drive All Night",
+        "url": "https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z"
       },
       "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Star Star | Pure Imagination",
-      "url": "https://open.spotify.com/track/1pWsNALhAMYEOdPAe3Cp23"
+      "duration_ms": 134022,
+      "name": "Step out of the Shadows",
+      "url": "https://open.spotify.com/track/4Ez56zhSkr9tgusv4EHDWk"
     },
     {
       "added_at": null,
@@ -543,22 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+        "name": "Set List (Live)",
+        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
       },
       "artists": [
         {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
         },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 155773,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/6UtBwPzKSf8pHsdEzGBtYR"
+      "duration_ms": 220573,
+      "name": "Star Star | Pure Imagination",
+      "url": "https://open.spotify.com/track/1pWsNALhAMYEOdPAe3Cp23"
     },
     {
       "added_at": null,
@@ -575,6 +555,26 @@
       "duration_ms": 189599,
       "name": "Just to Be the One (Funkhaus Version)",
       "url": "https://open.spotify.com/track/5TMQ0HAtRAZGPmwrCgzi0e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/6UtBwPzKSf8pHsdEzGBtYR"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cost",
+        "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 231546,
       "name": "Stuck In Reverse",
       "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cost",
-        "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
     },
     {
       "added_at": null,
@@ -835,62 +835,6 @@
       "duration_ms": 218960,
       "name": "Sleeping",
       "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set List (Live)",
-        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Lay Me Down | Ring of Fire",
-      "url": "https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Flag Day",
-      "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
-        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 280339,
-      "name": "Revelate (Funkhaus Version)",
-      "url": "https://open.spotify.com/track/453oVdKnFk2PX89zV0QXfh"
     },
     {
       "added_at": null,
@@ -975,6 +919,62 @@
       "duration_ms": 354107,
       "name": "The Weight - Live",
       "url": "https://open.spotify.com/track/03qSYwxRCavJccioep27Sx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set List (Live)",
+        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Lay Me Down | Ring of Fire",
+      "url": "https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
+        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 280339,
+      "name": "Revelate (Funkhaus Version)",
+      "url": "https://open.spotify.com/track/453oVdKnFk2PX89zV0QXfh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Flag Day",
+      "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
     },
     {
       "added_at": null,

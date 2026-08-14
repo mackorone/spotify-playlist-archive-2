@@ -1,12 +1,12 @@
 {
   "description": "We\u2019re going to be golden!",
-  "num_followers": 430310,
+  "num_followers": 430686,
   "original_name": "Family Movie Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIZTVJaVog4wPUlcKfEZx/GapD6I",
+  "snapshot_id": "AAAAANKrDnpr9UP1pEAUQyEsyvp9WizT",
   "tracks": [
     {
       "added_at": "2026-07-27 04:46:44",
@@ -387,6 +387,26 @@
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
+    },
+    {
+      "added_at": "2026-08-14 00:00:12",
+      "album": {
+        "name": "Work (from PAW Patrol: The Dino Movie)",
+        "url": "https://open.spotify.com/album/2GigBQ0Qp01sJQxnLf201N"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 160750,
+      "name": "Work - from PAW Patrol: The Dino Movie",
+      "url": "https://open.spotify.com/track/00Xuy2tVDaGt9XTfY3yUyV"
     },
     {
       "added_at": "2026-07-27 04:46:44",
@@ -899,22 +919,6 @@
       "duration_ms": 176078,
       "name": "Just a Cloud Away",
       "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
-    },
-    {
-      "added_at": "2026-07-27 04:46:44",
-      "album": {
-        "name": "Thelma The Unicorn (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0D9M2GIdN1CfCMyVU1jgeH"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 114281,
-      "name": "Fire Inside - From the Netflix Film \"Thelma the Unicorn\"",
-      "url": "https://open.spotify.com/track/0qKcxHh9LIiM4fX9cjraJg"
     },
     {
       "added_at": "2026-07-27 04:46:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Sanghee
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,388 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,398 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [白熱](https://open.spotify.com/track/5a9pxw2aRSKbpJgmseqisn) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Sprout](https://open.spotify.com/album/7qGWApKJeKY2Vr1tmjYpJD) | 3:46 |
 | 80 | [灯](https://open.spotify.com/track/71rvCWYU9fnfmKm94OavS4) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [灯](https://open.spotify.com/album/5bjelhdtInd7Qro9f4n5Gj) | 3:51 |
 
-Snapshot ID: `AAAAACe4VBXhDTRhHaLq2Ck7lLH0dcxX`
+Snapshot ID: `AAAAAOxjgDPd4mTlUBSF+QlmQACALu5b`

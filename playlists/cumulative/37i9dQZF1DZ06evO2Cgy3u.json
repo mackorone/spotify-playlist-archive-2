@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Monsoon wake",
+        "url": "https://open.spotify.com/album/0trJ3KmlzjTpjoBuQBLjka"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246261,
+      "name": "Monsoon wake",
+      "url": "https://open.spotify.com/track/47ppGI6SF6P3QkJEzQI0vo"
+    },
+    {
+      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS"
       },

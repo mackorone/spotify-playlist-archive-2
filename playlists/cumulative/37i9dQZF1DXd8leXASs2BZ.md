@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: It\-Works
 
-1,762 songs - 3 day 8 hr 31 min
+1,763 songs - 3 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1577,6 +1577,7 @@
 | [Who am I \(feat\. Leaf Side Guys\)](https://open.spotify.com/track/1HIoHC3xds1wkfEIh5w0Hh) | [FAKEy](https://open.spotify.com/artist/7r2WFKDBw1RtpPkOfflaQq), [Leaf Side Guys](https://open.spotify.com/artist/6DjmgsISrH9zYrfG7GL2Os) | [Who am I \(feat\. Leaf Side Guys\)](https://open.spotify.com/album/453I15AOYEixI5OsxHblma) | 2:40 | 2026-03-03 | 2026-03-25 |
 | [Who Made It?](https://open.spotify.com/track/7zJyJP1NFdLZdWbtbeWpj2) | [T\-Bobo](https://open.spotify.com/artist/40NK4mGLUjuQ4Gx5EASzXK), [RuAA](https://open.spotify.com/artist/0jrGbH5OderYpzByM65Y1s), [VEINTI4](https://open.spotify.com/artist/4o7vyB4AfcMinZMlhs5zDw) | [Who Made It?](https://open.spotify.com/album/20VeFMTidbjLkJPNyg9VTo) | 2:38 | 2026-06-09 | 2026-06-24 |
 | [Who?](https://open.spotify.com/track/75Oa0p1FJ31i6yZlufxB8n) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe) | [Who?](https://open.spotify.com/album/4Z8qHGLynrJKJc6zK0TDRQ) | 3:30 | 2024-12-10 | 2025-02-19 |
+| [WHPH](https://open.spotify.com/track/1tg1AJOiSncuzN7as7mlZC) | [Newera](https://open.spotify.com/artist/3LBpiM7XMp8NTxTOnKZjpc), [MARÜ](https://open.spotify.com/artist/1HjXRad4rNCKcm7V00WoEr), [sh1t](https://open.spotify.com/artist/3IchFX2kpT6ARyP7hURWyo), [Baby Onyx](https://open.spotify.com/artist/6r1RbkLWIKW6NT7RuAYJ7V) | [WHPH](https://open.spotify.com/album/3Cq39CmuYa2J2rUSNPGJpI) | 2:58 | 2026-08-12 |  |
 | [WHY DO WE FALL?](https://open.spotify.com/track/3NOQkx4EG39w85YGD7EvKV) | [Need a Flex](https://open.spotify.com/artist/3ZcQbdZsBGBSRICDFtAtaA), [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C) | [WHY DO WE FALL?](https://open.spotify.com/album/5nh27FCgBstWtZxOckskGG) | 1:54 | 2025-09-30 | 2025-12-17 |
 | [why not](https://open.spotify.com/track/5LZ2QmkL6FqezVdtpubkDC) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [why not](https://open.spotify.com/album/4iY6mVhvwlbMH4FbkrYSc1) | 2:39 | 2025-12-02 | 2026-03-04 |
 | [Why'd i?](https://open.spotify.com/track/4iV2tFzO92Kp1s3p468ic2) | [B1ACK BAND](https://open.spotify.com/artist/6PYjR5SD3VHoMreToWcW5Q), [0\-twallt](https://open.spotify.com/artist/3niVe5GKCpQdERVKlDTaGR) | [Why'd i?](https://open.spotify.com/album/4u9JcsuBKWKWEcLycDm3Ge) | 2:30 | 2024-05-28 | 2024-09-13 |

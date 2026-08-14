@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: WHIB\)
+> Future K\-Pop hits! \(Cover: KiiiKiii\)
 
-1,794 songs - 3 day 23 hr 41 min
+1,795 songs - 3 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1201,6 +1201,7 @@
 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 | 2025-05-02 | 2025-05-05 |
 | [Poongdung](https://open.spotify.com/track/3k37BDB7RmEl4TvmsdLNdI) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [﻿cignature 5th EP Album 'Sweetie but Saltie'](https://open.spotify.com/album/2b1k5XuKhLK0zkCS7B85pY) | 3:06 | 2024-06-23 | 2024-08-03 |
 | [POP IT LIKE](https://open.spotify.com/track/0gvr5CBsUgd1PlYsHmvJ3V) | [NouerA](https://open.spotify.com/artist/4YsiijJHnCAjqS9cIXNoTI) | [POP IT LIKE](https://open.spotify.com/album/2kYqSRsYnz72I69rWVylNe) | 2:42 | 2026-03-24 | 2026-04-30 |
+| [Pop Off Pop Off](https://open.spotify.com/track/3lKENzQzOnbXmo8FBtb7el) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6) | 2:21 | 2026-08-13 |  |
 | [Popping](https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SUMMER POPUP ALBUM \[POPPING\]](https://open.spotify.com/album/0JRycz0jI4Rh02dRl6aGF6) | 3:24 | 2021-08-11 | 2021-10-13 |
 | [Poppy \(Korean Ver.\)](https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Poppy \(Korean Ver.\)](https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu) | 2:58 | 2023-02-06 | 2023-06-09 |
 | [POSE](https://open.spotify.com/track/7LRaCfIHEdDSdDJkTO2l2A) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [OVEREXPOSED](https://open.spotify.com/album/40cJq43i8k7NbOZh3Oh7gK) | 2:30 | 2026-04-21 | 2026-06-03 |
@@ -1301,7 +1302,7 @@
 | [Run away \- KR Ver.](https://open.spotify.com/track/1184jV78PgS9MxH7fpsMRi) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [TAKE \(KR EDITION\)](https://open.spotify.com/album/0UeHCISBZ4G00cLdFKIRA0) | 2:25 | 2020-10-30 | 2021-03-10 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-22 | 2022-07-14 |
 | [Runaway](https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Runaway](https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ) | 3:02 | 2026-04-09 | 2026-06-03 |
-| [Runaway](https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Runaway](https://open.spotify.com/album/7rGcnNoG09g5Meje4gPrwN) | 2:59 | 2026-06-27 |  |
+| [Runaway](https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Runaway](https://open.spotify.com/album/7rGcnNoG09g5Meje4gPrwN) | 2:59 | 2026-06-27 | 2026-08-14 |
 | [Running to Future](https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa) | 3:19 | 2026-01-13 | 2026-03-16 |
 | [RUSH \(ft\. BOBBY\)](https://open.spotify.com/track/7LK5puNRuxmPiZNzOS1iM6) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 3:14 | 2024-06-23 | 2024-08-31 |
 | [Rush Hour](https://open.spotify.com/track/2eEVS8HGd0xpmsUOCuVIzI) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Rush Hour](https://open.spotify.com/album/5D4f8ca3u8RKEqdpgcgext) | 3:48 | 2021-06-09 | 2021-09-18 |

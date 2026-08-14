@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JayQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,891 likes - 34 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,896 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 11 | [ไม่คิดถึงเท่าไหร่ \(Behind The Smile\)](https://open.spotify.com/track/4IOSkK06qTipVlQ5ELv6hY) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [ไม่คิดถึงเท่าไหร่ \(Behind The Smile\)](https://open.spotify.com/album/2BMwfH1ir5dF3qLYHDny7x) | 3:26 |
 | 12 | [โคมไฟระย้า](https://open.spotify.com/track/2ke4oJzLPO4QUfgMPUgBZQ) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 3:28 |
 | 13 | [ปล่อยให้ฉันร้องไป](https://open.spotify.com/track/0GPUeoz4n9Uw6wnwHwY1JD) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ปล่อยให้ฉันร้องไป](https://open.spotify.com/album/3KUh9eIcpGAyd3QQWJLIp4) | 5:03 |
-| 14 | [รางวัลผู้จำที่ดี \(Memory\)](https://open.spotify.com/track/1PFVwV88MIfPeNOrTQ9gnN) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [รางวัลผู้จำที่ดี \(Memory\)](https://open.spotify.com/album/7KZWbJOjrc3QdMj57WGZ2m) | 3:00 |
-| 15 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
-| 16 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 |
+| 14 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 |
+| 15 | [รางวัลผู้จำที่ดี \(Memory\)](https://open.spotify.com/track/1PFVwV88MIfPeNOrTQ9gnN) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [รางวัลผู้จำที่ดี \(Memory\)](https://open.spotify.com/album/7KZWbJOjrc3QdMj57WGZ2m) | 3:00 |
+| 16 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
 | 17 | [ประดับ](https://open.spotify.com/track/0Y4JbGKpTzV4gpRgOgglAE) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:06 |
 | 18 | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/track/0LIrz28O9gQqKgki2i09l5) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/album/0wktt1y5XwMR8qXvKaXNtM) | 3:36 |
 | 19 | [แม่บอก](https://open.spotify.com/track/4XUDYi6va8dS7VlY39lnHQ) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [แม่บอก](https://open.spotify.com/album/4tVX02x5uKETZGMuAxT4Ms) | 3:22 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 33 | [Roo Gun](https://open.spotify.com/track/68v61y5TQzhK6cbUZQ7E3K) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 4:15 |
 | 34 | [HOW ARE YOU](https://open.spotify.com/track/42PY0meRTLVpVn3Qv9iJKZ) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [HOW ARE YOU](https://open.spotify.com/album/1pmvKyNoyuvK4mwblZHiiw) | 3:26 |
 
-Snapshot ID: `AAAAAJzAF7Uy8wTPnoKDALA2/d5c4wvo`
+Snapshot ID: `AAAAAMAIOfN9EUEKhr9p7dPfhD8jeAy1`

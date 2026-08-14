@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Emotional Bloodstorm",
+        "url": "https://open.spotify.com/album/6KMHZnoonR5kH2qs3siGW6"
+      },
+      "artists": [
+        {
+          "name": "Nukehole",
+          "url": "https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292758,
+      "name": "Emotional Bloodstorm",
+      "url": "https://open.spotify.com/track/2hAppVdjgJipmobwvTqvVX"
+    },
+    {
+      "album": {
         "name": "Entanglement",
         "url": "https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku"
       },

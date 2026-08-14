@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: O.O.O (\uc624\uc624\uc624) ) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Shin In Ryu) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -4562,7 +4562,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 177000,
       "name": "Don\u2019t Say Goodbye",
       "url": "https://open.spotify.com/track/1Uz2O2C9cnCKaqpnV7u55o"
@@ -8206,7 +8206,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Human Extinction",
       "url": "https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr"
@@ -12585,6 +12585,24 @@
     },
     {
       "album": {
+        "name": "1126611",
+        "url": "https://open.spotify.com/album/4MLYr9Qdrs7dkMkDDkeKgN"
+      },
+      "artists": [
+        {
+          "name": "Shin In Ryu",
+          "url": "https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177201,
+      "name": "Nice Day",
+      "url": "https://open.spotify.com/track/46DQRMHHHFVcKnEQSWZwVC"
+    },
+    {
+      "album": {
         "name": "Le Alien Petit Prince : WE ARE THE NIGHT",
         "url": "https://open.spotify.com/album/1wbFdHCvkYjyVT5Z6Zyj3F"
       },
@@ -16690,7 +16708,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 209694,
       "name": "Slow, Blurry Dance",
       "url": "https://open.spotify.com/track/5zgm1WBwGJwIOJM2nR3RHT"

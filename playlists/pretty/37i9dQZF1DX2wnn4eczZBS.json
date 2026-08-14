@@ -1,12 +1,12 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11481,
+  "num_followers": 11482,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPQrrAhshzRcKOHkNYkuRrE+WTn",
+  "snapshot_id": "AAAAAOXxH5yDFYu+oZ1hRY9XCcBHgd+L",
   "tracks": [
     {
       "added_at": "2026-05-28 11:50:51",
@@ -319,18 +319,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "HOE?",
-        "url": "https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3"
+        "name": "slecht idee (let\u2019s do it)",
+        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
       },
       "artists": [
         {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
         }
       ],
-      "duration_ms": 221291,
-      "name": "HOE?",
-      "url": "https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6"
+      "duration_ms": 191998,
+      "name": "slecht idee (let\u2019s do it)",
+      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -355,18 +355,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "slecht idee (let\u2019s do it)",
-        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
+        "name": "HOE?",
+        "url": "https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3"
       },
       "artists": [
         {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
         }
       ],
-      "duration_ms": 191998,
-      "name": "slecht idee (let\u2019s do it)",
-      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
+      "duration_ms": 221291,
+      "name": "HOE?",
+      "url": "https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Niks Is zeker",
-        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
-      },
-      "artists": [
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 181539,
-      "name": "Niks is zeker",
-      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Rode Seks Feeks",
         "url": "https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 167381,
       "name": "Rode Seks Feeks",
       "url": "https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Niks Is zeker",
+        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 181539,
+      "name": "Niks is zeker",
+      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
     },
     {
       "added_at": "2026-05-28 11:50:51",

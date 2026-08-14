@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: DAWN \(던\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Urban Zakapa\)
 
-664 songs - 1 day 11 hr 30 min
+665 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Bloom](https://open.spotify.com/track/4CBol2lVqoeKeS7SftTwpG) | [Jacqui](https://open.spotify.com/artist/4g07FXwEqS5euGYGo1n6x1) | [Dirty Mirror Selfie](https://open.spotify.com/album/19J8K7Sf4uY5FwpOZ0MqMZ) | 3:18 | 2024-11-28 | 2025-04-10 |
 | [Blowing My Mind](https://open.spotify.com/track/3FoBhVfkS4vHJ38u6SQU90) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Prism Heart](https://open.spotify.com/album/7Fnc3mYvWZMkiwmftIPi0F) | 2:32 | 2025-09-18 | 2026-04-13 |
 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2023-09-08 | 2023-12-19 |
+| [Blue Diamond](https://open.spotify.com/track/6sjXCnawLHV5LId3cXMaj0) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [7](https://open.spotify.com/album/6eijhbNjs96BeOYG8PVC8x) | 3:15 | 2026-08-13 |  |
 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 | 2022-10-04 | 2023-02-15 |
 | [bluelemonhighball](https://open.spotify.com/track/5NUrBAj2bMt5VzagE9ilPj) | [YUWOO](https://open.spotify.com/artist/2pEUm9NMo9GuvmiO0ZS4uC) | [bluelemonhighball](https://open.spotify.com/album/3wSWnlXY6qWAN8F7bg0Wpv) | 3:05 | 2024-08-10 | 2024-09-28 |
 | [Body \(Feat\. Sik\-K\)](https://open.spotify.com/track/079SEIMEJQsLIaE8QYqvCh) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Sorry I’m Late](https://open.spotify.com/album/4jAS9dmF3PQmns8L00w3bv) | 2:55 | 2024-02-06 | 2024-06-06 |
@@ -665,7 +666,7 @@
 | [겨울길 \(feat\. 영준\)](https://open.spotify.com/track/7s9ueFmPRPZvu2WnKJPeI9) | [Ray Hill](https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [나의 겨울](https://open.spotify.com/album/7m8rPBnClStMMpVT7BXt9y) | 3:59 | 2022-12-15 | 2023-07-08 |
 | [기분이 아주 꽃같네 \(What the Flower\)](https://open.spotify.com/track/6kkU41vVNer11q6EaDFN9p) | [Maya](https://open.spotify.com/artist/3j9SRkVRY2vwwTrWaPpwI2) | [기분이 아주 꽃같네 \(What the Flower\)](https://open.spotify.com/album/3OtEuPwNryxB1JmNSE7bSe) | 4:13 | 2026-04-13 | 2026-08-07 |
 | [꿈에서라도 만나](https://open.spotify.com/track/4URmaE5l4iqz29hb4FD650) | [gemtarot](https://open.spotify.com/artist/2dKRiCpkG0U7n9nN94kDue) | [헤어지고 나서 듣고 싶은 노래 part.1](https://open.spotify.com/album/3Ka3La2kkXHA3eKWYz404x) | 2:09 | 2024-09-24 | 2025-02-15 |
-| [내가 죽으려고 생각한 것은 僕が死のうと思ったのは \(The Reason Why I Thought I'd Die\)](https://open.spotify.com/track/2OBptPww39taCRvg856hiU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [내가 죽으려고 생각한 것은 僕が死のうと思ったのは \(The Reason Why I Thought I'd Die\)](https://open.spotify.com/album/7yp8qU7xrdgRSMAYTU27RA) | 4:50 | 2026-04-13 |  |
+| [내가 죽으려고 생각한 것은 僕が死のうと思ったのは \(The Reason Why I Thought I'd Die\)](https://open.spotify.com/track/2OBptPww39taCRvg856hiU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [내가 죽으려고 생각한 것은 僕が死のうと思ったのは \(The Reason Why I Thought I'd Die\)](https://open.spotify.com/album/7yp8qU7xrdgRSMAYTU27RA) | 4:50 | 2026-04-13 | 2026-08-14 |
 | [너와 함께라면 \(With You\) \(Feat\. Vahn, ilipp\)](https://open.spotify.com/track/3HsXb5j17myslAHsyLWylm) | [Wavycake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [Vahn](https://open.spotify.com/artist/5snxmL23WuzHdNccHE7qvN), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [너와 함께라면 \(With You\)](https://open.spotify.com/album/7MMnN3Ymj8GTC7qSSQw7pS) | 3:41 | 2024-03-08 | 2024-07-10 |
 | [너처럼 예쁜 애는 처음이라](https://open.spotify.com/track/4TyEUw6FFEtrsyy4ue0V04) | [Yyeon](https://open.spotify.com/artist/0qmWztaNn9Nrriuo0aP4uR) | [너처럼 예쁜 애는 처음이라](https://open.spotify.com/album/3BcHbzqowCpMHZQsW29MnZ) | 2:42 | 2025-06-02 | 2025-10-23 |
 | [상자 Box](https://open.spotify.com/track/5G9tvHT1pkXLuBoSkBWZkm) | [leanon](https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ) | [상자 Box](https://open.spotify.com/album/0omnobec3mXOettF99CQTu) | 3:03 | 2023-01-10 | 2023-07-08 |

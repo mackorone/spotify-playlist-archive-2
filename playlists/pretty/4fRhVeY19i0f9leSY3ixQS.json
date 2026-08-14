@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1675,
+  "num_followers": 1691,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAS/TGTCxS0DYBwOWbHEwZByYzGPQkq",
+  "snapshot_id": "AAATCXf9A6sfRMmlmFUg/7o2CznB8nqf",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -3807,6 +3807,198 @@
       "duration_ms": 192782,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/7xxNwwgRCzgTnBmYxiF2ab"
+    },
+    {
+      "added_at": "2026-08-13 04:21:23",
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/6SUof92ImCfppQjarhmSrK"
+      },
+      "artists": [
+        {
+          "name": "Mathew Adekunle",
+          "url": "https://open.spotify.com/artist/7M8CbEz2nm6Gyi4nNr4TDi"
+        }
+      ],
+      "duration_ms": 332142,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2MhpVRXC1iL0ChF3sFdlOD"
+    },
+    {
+      "added_at": "2026-08-13 04:20:57",
+      "album": {
+        "name": "Last Days Of Youth",
+        "url": "https://open.spotify.com/album/6Jtl3eEqBeqtwb2YfehSN2"
+      },
+      "artists": [
+        {
+          "name": "Black & White Digital",
+          "url": "https://open.spotify.com/artist/0daGlS2EEMDyrwtF41SaBV"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Last Days Of Youth",
+      "url": "https://open.spotify.com/track/2JZt0RaSN932GXBJIYCGH7"
+    },
+    {
+      "added_at": "2026-08-13 04:19:45",
+      "album": {
+        "name": "Smile!",
+        "url": "https://open.spotify.com/album/7KoAfKfaG4YDBOf1BNd7Lf"
+      },
+      "artists": [
+        {
+          "name": "The Artist X.I.",
+          "url": "https://open.spotify.com/artist/6bUcL1xK6rtMIVZqpaHXYC"
+        }
+      ],
+      "duration_ms": 154414,
+      "name": "Smile!",
+      "url": "https://open.spotify.com/track/5tYjUmRA1ynNBFQ1QvLJDs"
+    },
+    {
+      "added_at": "2026-08-13 04:33:37",
+      "album": {
+        "name": "Landscape",
+        "url": "https://open.spotify.com/album/54jCcGN3nuIznAJgttH2ou"
+      },
+      "artists": [
+        {
+          "name": "Viva Vendetta",
+          "url": "https://open.spotify.com/artist/3NjThOFC436dNzZbAyH0yf"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "Landscape",
+      "url": "https://open.spotify.com/track/7CCZkk2wpE6iNM2SmvsTsg"
+    },
+    {
+      "added_at": "2026-08-13 04:34:48",
+      "album": {
+        "name": "Dans",
+        "url": "https://open.spotify.com/album/1Z1FIW60skgmaiPtKn9N5b"
+      },
+      "artists": [
+        {
+          "name": "Dapper Muis",
+          "url": "https://open.spotify.com/artist/5d9WSo5aDwgEV0oUZZsQET"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Dans",
+      "url": "https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8"
+    },
+    {
+      "added_at": "2026-08-13 04:34:57",
+      "album": {
+        "name": "Can't Trust",
+        "url": "https://open.spotify.com/album/1TqImzvy83ieZMpGVnRdRq"
+      },
+      "artists": [
+        {
+          "name": "Johnny Starling",
+          "url": "https://open.spotify.com/artist/4nuskpmtHrxzx3VHP04x3C"
+        }
+      ],
+      "duration_ms": 168972,
+      "name": "Can't Trust",
+      "url": "https://open.spotify.com/track/0WCfJqS2cvMFbzbHFbuepT"
+    },
+    {
+      "added_at": "2026-08-13 04:37:01",
+      "album": {
+        "name": "Ravenous as the birds",
+        "url": "https://open.spotify.com/album/3AkSDS0Yjhaoty6gWbFS8b"
+      },
+      "artists": [
+        {
+          "name": "Charlie Smith",
+          "url": "https://open.spotify.com/artist/50abKbBejLKyBTQ3OLkT26"
+        }
+      ],
+      "duration_ms": 166045,
+      "name": "Ravenous as the birds",
+      "url": "https://open.spotify.com/track/46azXY12iCO5EOePNa2Bq1"
+    },
+    {
+      "added_at": "2026-08-13 04:37:41",
+      "album": {
+        "name": "City Life",
+        "url": "https://open.spotify.com/album/5gSYQTFL50MJ4ThTzYmJgg"
+      },
+      "artists": [
+        {
+          "name": "MOKAs",
+          "url": "https://open.spotify.com/artist/1IczCTas4lUyZa8wQRst9C"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs"
+    },
+    {
+      "added_at": "2026-08-13 04:48:50",
+      "album": {
+        "name": "(no matter) what i said",
+        "url": "https://open.spotify.com/album/4I95LHYrHpBJhIlBo7kBW3"
+      },
+      "artists": [
+        {
+          "name": "W\u0142adek Sheen",
+          "url": "https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe"
+        }
+      ],
+      "duration_ms": 114985,
+      "name": "invisible man",
+      "url": "https://open.spotify.com/track/6Rs4GX7aTVgfSHSRZaVXal"
+    },
+    {
+      "added_at": "2026-08-13 04:53:34",
+      "album": {
+        "name": "Bad Omens",
+        "url": "https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD"
+      },
+      "artists": [
+        {
+          "name": "The UNSOLVED",
+          "url": "https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO"
+        }
+      ],
+      "duration_ms": 233875,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU"
+    },
+    {
+      "added_at": "2026-08-13 10:36:10",
+      "album": {
+        "name": "Round and Round",
+        "url": "https://open.spotify.com/album/7o46ngv8ldoGr7IJr73ZWk"
+      },
+      "artists": [
+        {
+          "name": "Jack Dahlqvist",
+          "url": "https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI"
+        }
+      ],
+      "duration_ms": 193098,
+      "name": "Round and Round",
+      "url": "https://open.spotify.com/track/4efOj8t1493yAYtG38Zcfh"
+    },
+    {
+      "added_at": "2026-08-13 10:39:48",
+      "album": {
+        "name": "Bad 4 Me",
+        "url": "https://open.spotify.com/album/7ig5Dh1rfNEcwMVvSfhMrK"
+      },
+      "artists": [
+        {
+          "name": "K\u269dYL\u269d",
+          "url": "https://open.spotify.com/artist/6sZDaOQDT0iLhPNZKQ1DQ8"
+        }
+      ],
+      "duration_ms": 233777,
+      "name": "Bad 4 Me",
+      "url": "https://open.spotify.com/track/2AN9YbBUG6pQOTa4qVP7By"
     }
   ],
   "unique_name": "Spotify Radio",

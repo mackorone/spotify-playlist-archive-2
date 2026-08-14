@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 18990,
+  "num_followers": 19016,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALL4C3vbDXLTn+GCu3Ze6FHei1V7",
+  "snapshot_id": "AAAAAAly7Y1AZmh3DbSlZE6R22/mZZgU",
   "tracks": [
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Shawty",
-        "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Shawty",
-      "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "fishmonger",
         "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 137142,
       "name": "Second hand embarrassment",
       "url": "https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Shawty",
+        "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Midnight Snack",
         "url": "https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc"
       },
@@ -2335,22 +2351,6 @@
       "duration_ms": 227231,
       "name": "Midnight Snack",
       "url": "https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Essentials",
-        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2451,6 +2451,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/4XVNXfDjUje2381A3bZysT"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 255711,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/3FPSa57fnk6nIGt2JiUSjo"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Some Day I Will",
         "url": "https://open.spotify.com/album/7kDOOZMDmpwsaDIFG9PGEC"
       },
@@ -2471,38 +2487,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Pound Town - EP",
-        "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
+        "name": "High 4 U",
+        "url": "https://open.spotify.com/album/5MMBnre4vg3kHHjCuPzBRR"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 129429,
-      "name": "Pound Town",
-      "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/4XVNXfDjUje2381A3bZysT"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 255711,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/3FPSa57fnk6nIGt2JiUSjo"
+      "duration_ms": 162793,
+      "name": "High 4 U",
+      "url": "https://open.spotify.com/track/0pRbwemRrnRUDOAniF6FOR"
     }
   ],
   "unique_name": "10 Years of Fresh Finds",

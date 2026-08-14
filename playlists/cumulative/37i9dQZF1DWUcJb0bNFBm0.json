@@ -4181,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "Sebak",
+        "url": "https://open.spotify.com/album/4HyeazBPOhfEp8dHQ5CNGm"
+      },
+      "artists": [
+        {
+          "name": "The People of the Sun",
+          "url": "https://open.spotify.com/artist/66nHTHCYPKmWPT2n8sDTpP"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178352,
+      "name": "Sebak",
+      "url": "https://open.spotify.com/track/1xbtv9yLOLAWxI7x4OolWL"
+    },
+    {
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/5Haih9CAPJC4F79wF9ubwo"
       },

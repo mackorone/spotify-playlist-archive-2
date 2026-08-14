@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 186600,
       "name": "Altohfah Al Ajeiah",
       "url": "https://open.spotify.com/track/60CvKpS9Po7Bj0Gh7vaYhD"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 255000,
       "name": "Rianat Al Oud",
       "url": "https://open.spotify.com/track/6092GHYPCT7MH0x8YAlcjs"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 199053,
       "name": "\u0627\u0644\u0645\u0648\u0627\u0642\u0641 \u0634\u0645\u0631\u064a\u0647",
       "url": "https://open.spotify.com/track/6Q7eFZQ9YVECzNZ6Cl2jIW"
@@ -2014,6 +2014,24 @@
       "duration_ms": 214945,
       "name": "\u062a\u0639\u0628\u062a \u0623\u0634\u062a\u0627\u0642",
       "url": "https://open.spotify.com/track/4wQuMb5pAAfhBuY1VdM0rs"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0648\u0642\u0639\u062a",
+        "url": "https://open.spotify.com/album/7xdB7g35dxCQibyHCh0MdN"
+      },
+      "artists": [
+        {
+          "name": "\u0628\u062f\u0631 \u0627\u0644\u0639\u0632\u064a",
+          "url": "https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204096,
+      "name": "\u062a\u0648\u0642\u0639\u062a",
+      "url": "https://open.spotify.com/track/6zRs7YYeutK3Kxq1IphM0i"
     },
     {
       "album": {
@@ -3278,7 +3296,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 274573,
       "name": "\u0639\u062c\u0632\u062a \u0623\u0646\u0633\u0627\u0647",
       "url": "https://open.spotify.com/track/6Fp51mv9BuMFg0MS7Yodz8"
@@ -3528,6 +3546,24 @@
       "duration_ms": 249906,
       "name": "\u0641\u062a\u0646\u0629 \u0639\u064a\u0648\u0646\u0643",
       "url": "https://open.spotify.com/track/35sb7Ir5pEN7F97lxQiwIy"
+    },
+    {
+      "album": {
+        "name": "\u0641\u062c\u0648\u062c \u0627\u0644\u062e\u0644\u0627",
+        "url": "https://open.spotify.com/album/6rTVXaUAC74WrpWmElZlSq"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u0644\u062c\u0641\u0631\u0627\u0646\u064a",
+          "url": "https://open.spotify.com/artist/19K8bnhJe9d8nW2rtdcRtf"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512859,
+      "name": "\u0641\u062c\u0648\u062c \u0627\u0644\u062e\u0644\u0627",
+      "url": "https://open.spotify.com/track/2qj7KO19OjHxUvCOyRCoqI"
     },
     {
       "album": {
@@ -4196,7 +4232,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 265306,
       "name": "\u0645\u0627\u0646\u0642\u062f\u0631 \u0646\u0628\u0648\u062d",
       "url": "https://open.spotify.com/track/4lqYMgfnINSFz6mid5kgTs"
@@ -4236,6 +4272,24 @@
       "duration_ms": 249000,
       "name": "\u0645\u062a\u0639\u0628\u064a\u0646 \u0627\u0644\u0631\u0643\u0627\u064a\u0628",
       "url": "https://open.spotify.com/track/2I0leXJQCLy2JHx1Vg8x6o"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062a\u0649 \u062a\u0641\u0647\u0645",
+        "url": "https://open.spotify.com/album/5cKJjtelxVdeOuRdvcs2jx"
+      },
+      "artists": [
+        {
+          "name": "\u0646\u0627\u062f\u0631 \u0627\u0644\u0634\u0631\u0627\u0631\u064a",
+          "url": "https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184366,
+      "name": "\u0645\u062a\u0649 \u062a\u0641\u0647\u0645",
+      "url": "https://open.spotify.com/track/2ZdtL49qCwk7HBE1ZM7I57"
     },
     {
       "album": {
@@ -4532,6 +4586,24 @@
       "duration_ms": 188659,
       "name": "\u0647\u0632\u062a\u0643 \u0627\u0644\u0637\u0648\u0627\u0631\u064a",
       "url": "https://open.spotify.com/track/1J4dgHB8BPkch94uf6xdMg"
+    },
+    {
+      "album": {
+        "name": "\u0647\u0648\u062f \u0627\u0644\u0644\u064a\u0644",
+        "url": "https://open.spotify.com/album/1TAVl5RQb4ta4xQc92FXto"
+      },
+      "artists": [
+        {
+          "name": "\u0632\u0627\u064a\u062f \u0628\u0646 \u0633\u0627\u0628\u0631",
+          "url": "https://open.spotify.com/artist/0gnjqIfsDrqIDlVx846CDt"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256416,
+      "name": "\u0647\u0648\u062f \u0627\u0644\u0644\u064a\u0644",
+      "url": "https://open.spotify.com/track/1B02ykbRGaShWJmKO1O1yb"
     },
     {
       "album": {
@@ -5184,6 +5256,24 @@
       "duration_ms": 211417,
       "name": "\u064a\u0627\u063a\u0631\u0627\u0645\u064a",
       "url": "https://open.spotify.com/track/1kzy6Jdu0R0WuKSFLd7ya5"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627\u0644\u0628\u064a\u0643",
+        "url": "https://open.spotify.com/album/1NA30ewt9mHM0O9MfM89g2"
+      },
+      "artists": [
+        {
+          "name": "\u0628\u0646\u062f\u0631 \u0628\u0646 \u0639\u0648\u064a\u0631",
+          "url": "https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217025,
+      "name": "\u064a\u0627\u0644\u0628\u064a\u0643",
+      "url": "https://open.spotify.com/track/0DeJ3T7m7wykMeFtrjWd4R"
     },
     {
       "album": {

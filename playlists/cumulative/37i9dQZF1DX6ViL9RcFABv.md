@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: ÁTOA, D.A.M.A
+> Uma playlist de pura alma pop! Foto: Gama WNTD, Guga
 
-561 songs - 1 day 5 hr 32 min
+563 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Dis\-Le Moi](https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis\-Le Moi](https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp) | 3:20 | 2024-06-27 | 2024-11-01 |
 | [Distinu](https://open.spotify.com/track/7e3OHWrl8Bp2WzGG5QGAku) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Voyage \(Part I\)](https://open.spotify.com/album/71gGikHweFFDc1Xy9iUfon) | 3:30 | 2024-08-01 | 2025-03-07 |
 | [Diz a Laranja Ao Limão](https://open.spotify.com/track/64Amb91ZHcUyPm7PywAv3j) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8) | [Clementina, Vol\. 1](https://open.spotify.com/album/7qiuiKzCkXYBoRv2FnVsXm) | 2:55 | 2025-07-24 | 2025-10-03 |
+| [Diz\-Me](https://open.spotify.com/track/6mb5P5KmB9YHYXwywN9Lo3) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD), [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Diz\-Me](https://open.spotify.com/album/5bbxJ1bwXiE6YFNkbINRf6) | 2:49 | 2026-08-13 |  |
 | [Diz\-Me Como](https://open.spotify.com/track/4dc3yCOyQSpH1aSVx5ioUZ) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I), [João Não](https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC) | [O Lobo Um Dia Irá Comer A Lua](https://open.spotify.com/album/33ebkdg5pqXKTgP0espZVB) | 3:06 | 2024-10-03 | 2024-10-25 |
 | [Diz\-se aí ..\. \(Dois Pares de Botas\)](https://open.spotify.com/track/3XU0AFp8OqH4SD3BbVUANw) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [Joana Almeirante](https://open.spotify.com/artist/4sjur6yJyz7QCyNpiG5Ynm) | [Diz\-se aí ..\. \(Dois Pares de Botas\)](https://open.spotify.com/album/00ko18V7emW5bHIc85eLfo) | 3:17 | 2024-10-10 | 2024-11-08 |
 | [do raso ao fundo](https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [do raso ao fundo](https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK) | 4:05 | 2025-04-24 | 2025-06-27 |
@@ -353,7 +354,7 @@
 | [O Inverno Não Dura Tanto Quanto Parece](https://open.spotify.com/track/1Pb2LSE0krrZ8hspHDbVgU) | [Mafalda Veiga](https://open.spotify.com/artist/5bD6psQfhLXvadNAD0VttX) | [O Inverno Não Dura Tanto Quanto Parece](https://open.spotify.com/album/5hlocLAndNDvzGI88bapLN) | 3:44 | 2026-03-06 | 2026-04-24 |
 | [O Maior Bem](https://open.spotify.com/track/4x5nUs1deAC6GMlWVjdNea) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [O Maior Bem](https://open.spotify.com/album/3l5CCLoafsCwwTSq4ipbt7) | 3:38 | 2026-03-06 | 2026-05-15 |
 | [O Primeiro Passo](https://open.spotify.com/track/7u4tr8k7HFiip4CbWviLiZ) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [O Primeiro Passo](https://open.spotify.com/album/7MeBlSMhQQTEacw8rny1ML) | 2:13 | 2025-01-24 | 2025-02-07 |
-| [O Que É Que Vai Dar](https://open.spotify.com/track/7pUTnX6E1wHFgQarE8lZt5) | [Bianca Barros](https://open.spotify.com/artist/59m9stUzPJ3i5hPsU8BQzl) | [O Que É Que Vai Dar](https://open.spotify.com/album/5sUJtUV7FoDigHoKXny1If) | 3:01 | 2026-04-09 |  |
+| [O Que É Que Vai Dar](https://open.spotify.com/track/7pUTnX6E1wHFgQarE8lZt5) | [Bianca Barros](https://open.spotify.com/artist/59m9stUzPJ3i5hPsU8BQzl) | [O Que É Que Vai Dar](https://open.spotify.com/album/5sUJtUV7FoDigHoKXny1If) | 3:01 | 2026-04-09 | 2026-08-14 |
 | [O resto das nossas vidas](https://open.spotify.com/track/1LCmPKWODpYHUA35CT0MDa) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT) | [O Resto das Nossas Vidas](https://open.spotify.com/album/7dnyQhr1aLsx6AufFGCRjU) | 2:58 | 2025-01-10 | 2025-06-06 |
 | [O Sinal Está Fraco](https://open.spotify.com/track/2ywyJkWhDHfNOesu7wjHUb) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [O Sinal Está Fraco](https://open.spotify.com/album/77EvKexdAATT299lasrDcx) | 2:47 | 2024-08-22 | 2024-09-27 |
 | [O Sol Sangra](https://open.spotify.com/track/5bnpbLonAjSXl0npflo8iq) | [Amor Perdido](https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs) | [O Sol Sangra](https://open.spotify.com/album/4AfScAWMMdGMPVPy5A8SVl) | 1:41 | 2025-10-09 | 2026-01-23 |
@@ -481,6 +482,7 @@
 | [Sentir Demais](https://open.spotify.com/track/78YlWezaE2pSEAyWwNvepu) | [Beatriz Abrunhosa](https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF) | [Sentir Demais](https://open.spotify.com/album/26Uss3yiklzIIbjriDr2z8) | 3:18 | 2025-09-04 | 2025-10-03 |
 | [Sentir o Sol](https://open.spotify.com/track/70GRlXUPxqaiv1JZCoAKYn) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Pontos nos Is](https://open.spotify.com/album/5oFhCtICV8D4Hh50FU32BG) | 3:47 | 2026-05-14 | 2026-05-22 |
 | [Sentir o Sol](https://open.spotify.com/track/0gxPb4HXzKje9pUg8VhbGG) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Sentir o Sol](https://open.spotify.com/album/0iqbj2gboZFz5MZDd9xG30) | 3:47 | 2025-10-02 | 2025-10-10 |
+| [Ser Feliz é Tão Simples](https://open.spotify.com/track/38LpJeDS86RSIIc1NcdWEX) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Ser Feliz é Tão Simples](https://open.spotify.com/album/5tqdrs8Us3JHIS4H9gmvRN) | 2:44 | 2026-08-13 |  |
 | [Serei Alguém](https://open.spotify.com/track/1o6BRR3sBSAwFXe0PX6bbD) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Cláudinhas](https://open.spotify.com/artist/7Lnc28YAy6LZWDOuaPGywo) | [Serei Alguém](https://open.spotify.com/album/61WHRE53kG43xcTjRwYNRH) | 3:10 | 2026-07-09 | 2026-07-31 |
 | [SERENATA](https://open.spotify.com/track/0Z7kEnuStWYC1MOOfAnM4u) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Aurora Pinto](https://open.spotify.com/artist/67IzblEppf2J60LZAviG9B) | [SIMBIOSE](https://open.spotify.com/album/3qslggfh46RL2JGy8p1kHg) | 2:56 | 2025-11-21 | 2026-02-13 |
 | [Sexo Fraco](https://open.spotify.com/track/0mlpCkNmNoWk0n3tLAaq1c) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Sexo Fraco](https://open.spotify.com/album/26Wewjf4VSZBEgO0tjHFz2) | 2:45 | 2025-03-21 | 2025-06-27 |
@@ -490,7 +492,7 @@
 | [Slow Motion](https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:42 | 2024-06-27 | 2024-09-20 |
 | [Soamos Todas Iguais](https://open.spotify.com/track/6gKfQDBgaTCPdAIPN3yNtP) | [Joana Almeirante](https://open.spotify.com/artist/4sjur6yJyz7QCyNpiG5Ynm) | [Soamos Todas Iguais](https://open.spotify.com/album/0R309NYgmIEIhKkxQ6Y43x) | 2:33 | 2026-02-20 | 2026-05-29 |
 | [Somos par](https://open.spotify.com/track/2K1KhnE1gF7iAUq0qlTv2Y) | [HMB](https://open.spotify.com/artist/4zV7RMrLwCXYZyzLyGqDFC) | [Somos par](https://open.spotify.com/album/3eJT96x3RKw5SR1f1CNiJl) | 3:29 | 2025-10-02 | 2025-10-17 |
-| [Sonhador](https://open.spotify.com/track/2KylqKjWeomv8FGWMFasJx) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [Sonhador](https://open.spotify.com/album/4fcc91MmyrR11OHPHQ5wbD) | 3:21 | 2026-07-30 |  |
+| [Sonhador](https://open.spotify.com/track/2KylqKjWeomv8FGWMFasJx) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [Sonhador](https://open.spotify.com/album/4fcc91MmyrR11OHPHQ5wbD) | 3:21 | 2026-07-30 | 2026-08-14 |
 | [Sonhar Contigo](https://open.spotify.com/track/1TuNUqS6yhjFT7wZ1V7Qml) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Mara Cortez](https://open.spotify.com/artist/4Sb1JyWr13fjmSxyooVBEo) | [Sonhar Contigo](https://open.spotify.com/album/6YRsDuvW8wm7usNUWvHztv) | 2:55 | 2025-03-28 | 2025-05-23 |
 | [Sonhei Contigo](https://open.spotify.com/track/3mK8dCBQozqTunFC0SGmOJ) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Sonhei Contigo](https://open.spotify.com/album/13G4MqjlJlRHVeZvsFQGxb) | 3:38 | 2024-12-20 | 2025-04-11 |
 | [Sorte A Nossa](https://open.spotify.com/track/5N25pJmDbR4TRX20PC8bIG) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [Sorte A Nossa](https://open.spotify.com/album/2J3ytCn71wcAZhHCiYtoAI) | 2:26 | 2024-09-12 | 2025-02-07 |

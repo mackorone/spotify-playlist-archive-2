@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 
 > Our editors' picks for the best Folk & Americana songs this year\. Cover: Tyler Childers
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,855 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,853 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 91 | [Tongue Tied](https://open.spotify.com/track/6F0uNjf588IjiI0jIFmcEk) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [When I Change My Mind I Don't Mean It \(Deluxe\)](https://open.spotify.com/album/1FJWUHBGshLfJV4NkSvvkm) | 2:26 |
 | 92 | [you were mine](https://open.spotify.com/track/546JgeDaffKxYAt6K4U3o0) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/39ju9X6Fk0OXi3TMtPdCwN) | 3:41 |
 | 93 | [Taper](https://open.spotify.com/track/345CaSjWxsgfNao7NcX7S7) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [Night CRIÚ](https://open.spotify.com/album/3K7rM1AulxmE0HxwnF7aFU) | 4:44 |
-| 94 | [Dùsgadh/Waking](https://open.spotify.com/track/4teKM0rInDrVSQcJbcrQRe) | [Brighde Chaimbeul](https://open.spotify.com/artist/7AzZeX7Q9ziRE6mILhQZ8W) | [Sunwise](https://open.spotify.com/album/42xUwjm0LOF9A0TjONtuII) | 9:21 |
+| 94 | [Dùsgadh/Waking](https://open.spotify.com/track/4teKM0rInDrVSQcJbcrQRe) | [Brìghde Chaimbeul](https://open.spotify.com/artist/7AzZeX7Q9ziRE6mILhQZ8W) | [Sunwise](https://open.spotify.com/album/42xUwjm0LOF9A0TjONtuII) | 9:21 |
 | 95 | [Junior](https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Patience, Moonbeam](https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct) | 4:00 |
 | 96 | [Hate Goodbyes](https://open.spotify.com/track/7HtjIZGo4kafl8F1Hm0sTe) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Magic Of The Sale](https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye) | 3:47 |
 | 97 | [Cow Song](https://open.spotify.com/track/2MdQxjWvScaM3NXNXQRXNK) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [Cow Song](https://open.spotify.com/album/42CkWCbOfwaVsTk5TrWsTv) | 6:21 |
 | 98 | [In The Middle](https://open.spotify.com/track/3aTtbSM7gX011qAtinh6nP) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [In The Middle](https://open.spotify.com/album/0Mbg1FWqCSLumCIxpA3zmN) | 2:59 |
 | 99 | [MIXTAPE LINER NOTES VAR\. VII](https://open.spotify.com/track/36KhMPmmcZlyLWvFAMIBK6) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [1000 Variations on the Same Song](https://open.spotify.com/album/0UUvgHaTGyQ27kM4eaJuN4) | 3:00 |
 
-Snapshot ID: `AAAAAFjCJHk+BXLQAMp8Bs2PhdEHa9vk`
+Snapshot ID: `AAAAANIOgqfyOqnLDqFKRDS+Eb+66vP7`

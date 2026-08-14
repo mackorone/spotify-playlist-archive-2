@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Rodricc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,109 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,107 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Mañana más](https://open.spotify.com/track/3BxumdSbGvlkrrlCXdTmb8) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy), [Mundo Prestigio](https://open.spotify.com/artist/440S5SUBOxAKr28buL99Xw) | [Voy a pensar en ti](https://open.spotify.com/album/5O5U9NiREQzAKpGESoDwwi) | 4:06 |
 | 50 | [Mi odio para el bien común](https://open.spotify.com/track/55CwDJQl6bbI9CJMPPzRMy) | [Técnicas y Procedimientos](https://open.spotify.com/artist/7zSpEAeV9StUa2heFItReM) | [Mi odio para el bien común](https://open.spotify.com/album/6g1jlKOWbGL1MfhnyCvCnu) | 2:27 |
 
-Snapshot ID: `AAAAADJPRKKY+17GO7fJsMofsBIHCdaR`
+Snapshot ID: `AAAAAMdV9aGPdtHTg3EJXLbdHKMvxECL`

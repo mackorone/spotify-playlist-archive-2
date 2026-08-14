@@ -1,12 +1,12 @@
 {
   "description": "canciones para chillear con Mar Marzo",
-  "num_followers": 29027,
+  "num_followers": 29031,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHeqf6OqwHrVUIUxg+IFh6ssEi+3",
+  "snapshot_id": "AAAAAJP4a76lJBSZdWM2H+FLLfWUSrrN",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:08",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Una Noche Contigo",
-        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193154,
-      "name": "Una Noche Contigo",
-      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "sorry es que soy bipolarrr",
         "url": "https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 220553,
       "name": "sorry es que soy bipolarrr",
       "url": "https://open.spotify.com/track/33BselzygJVodjKKHVLpiH"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "Una Noche Contigo",
+        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193154,
+      "name": "Una Noche Contigo",
+      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "+ de cerquita",
+        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "c\u00e1bala (+ de cerquita)",
+      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "El Momento Perfecto",
         "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
       },
@@ -1027,26 +1043,6 @@
       "duration_ms": 201661,
       "name": "El Momento Perfecto",
       "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "SUPERSTICIONES: Remixes",
-        "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        }
-      ],
-      "duration_ms": 204782,
-      "name": "Amores Callejeros - Bolero Remix",
-      "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "+ de cerquita",
-        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
+        "name": "SUPERSTICIONES: Remixes",
+        "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
       "artists": [
         {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
         }
       ],
-      "duration_ms": 181500,
-      "name": "c\u00e1bala (+ de cerquita)",
-      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
+      "duration_ms": 204782,
+      "name": "Amores Callejeros - Bolero Remix",
+      "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Es por Amor",
-        "url": "https://open.spotify.com/album/1pDRoekrP21qQbZBiADn3r"
-      },
-      "artists": [
-        {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "Es por Amor",
-      "url": "https://open.spotify.com/track/1thMBeq1EsLSlV5QOtmbgg"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "AWCH (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 196004,
       "name": "AWCH - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "Es por Amor",
+        "url": "https://open.spotify.com/album/1pDRoekrP21qQbZBiADn3r"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "Es por Amor",
+      "url": "https://open.spotify.com/track/1thMBeq1EsLSlV5QOtmbgg"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Vamos Viendo",
-        "url": "https://open.spotify.com/album/7pRdY4sR1NNte99L7qWp8S"
-      },
-      "artists": [
-        {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
-        },
-        {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
-        }
-      ],
-      "duration_ms": 253243,
-      "name": "Vamos Viendo",
-      "url": "https://open.spotify.com/track/65Iaqqf1cr5GlUxtUnfWAt"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "MUCHO CON DEMASIAO'",
         "url": "https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 139049,
       "name": "MUCHO CON DEMASIAO'",
       "url": "https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "Vamos Viendo",
+        "url": "https://open.spotify.com/album/7pRdY4sR1NNte99L7qWp8S"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        },
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 253243,
+      "name": "Vamos Viendo",
+      "url": "https://open.spotify.com/track/65Iaqqf1cr5GlUxtUnfWAt"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "YA TE CANSASTE DE MI???",
-        "url": "https://open.spotify.com/album/4UcD2NoR0I5CkNRDO2Q24A"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "YA TE CANSASTE DE MI???",
-      "url": "https://open.spotify.com/track/5MAMS7hSgxurBcNKBcRTmU"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "Pa Ti Bb <3",
         "url": "https://open.spotify.com/album/6LVD9ZHVnKAqPzn4HW6foK"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 196565,
       "name": "Pa Ti Bb <3",
       "url": "https://open.spotify.com/track/3a0xiPQCopx3NDXPPtmka0"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "YA TE CANSASTE DE MI???",
+        "url": "https://open.spotify.com/album/4UcD2NoR0I5CkNRDO2Q24A"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "YA TE CANSASTE DE MI???",
+      "url": "https://open.spotify.com/track/5MAMS7hSgxurBcNKBcRTmU"
     },
     {
       "added_at": "2026-07-31 03:00:08",

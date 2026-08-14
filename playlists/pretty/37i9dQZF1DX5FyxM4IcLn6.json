@@ -1,12 +1,12 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 165661,
+  "num_followers": 165655,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIFWBck0v24M6JCc7BvaW3UUIzCl",
+  "snapshot_id": "AAAAAOssBnnt8DzMR150pt93TZ7bya0X",
   "tracks": [
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 179559,
+      "name": "Dammit Randy",
+      "url": "https://open.spotify.com/track/5YLedlTSZ4ovC2pbvAcNm7"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 219374,
       "name": "Looks Like The End Of The Road",
       "url": "https://open.spotify.com/track/4Yw2zhsCsAVkKKcVJPDrmy"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 179559,
-      "name": "Dammit Randy",
-      "url": "https://open.spotify.com/track/5YLedlTSZ4ovC2pbvAcNm7"
     },
     {
       "added_at": "2025-11-12 17:50:29",

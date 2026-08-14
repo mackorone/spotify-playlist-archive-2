@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Todavía queda verano que celebrar y con el nuevo álbum de RØZ, mejor! Escucha lo más relevante de la semana aquí mero
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,299 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,288 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 81 | [Pausa](https://open.spotify.com/track/71H5hTp54VZa50oTSP8UPY) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Pausa](https://open.spotify.com/album/7qMMTRCvc1eoSbLDWfaUeB) | 3:05 |
 | 82 | [Me voy](https://open.spotify.com/track/0Vlcr8RRd1dUatoZTcWk8b) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Me voy](https://open.spotify.com/album/54tBpV6QTpf16CkxfpRD9R) | 2:50 |
 
-Snapshot ID: `AAAAAJlagSQNK8KCBYtYQtJ2Kl6WX+qe`
+Snapshot ID: `AAAAAF0LZOfH8+sf86E/OZMk+3rVldar`

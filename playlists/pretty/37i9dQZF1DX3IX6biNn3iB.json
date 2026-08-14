@@ -1,12 +1,12 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 3106,
+  "num_followers": 3107,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAProEXn9CtS0lAHLyQd/W5kBaNXO",
+  "snapshot_id": "AAAAAIEV6j45eZOASkGN+Z2cneZoOB/o",
   "tracks": [
     {
       "added_at": "2025-10-10 17:36:00",
@@ -427,26 +427,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "SOLTERA",
-        "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 178312,
-      "name": "SOLTERA",
-      "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "centro aLt",
         "url": "https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 174545,
       "name": "centro aLt",
       "url": "https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "SOLTERA",
+        "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 178312,
+      "name": "SOLTERA",
+      "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
     },
     {
       "added_at": "2025-10-10 17:36:00",

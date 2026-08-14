@@ -4,7 +4,7 @@
 
 > focus modus is aan en leren maar
 
-386 songs - 22 hr 47 min
+387 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [8 Letters](https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [8 Letters](https://open.spotify.com/album/2qIbHfs93z6eDwGoAdCkXA) | 3:10 | 2022-11-11 | 2023-05-30 |
 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2022-11-11 | 2024-04-19 |
 | [a thousand years](https://open.spotify.com/track/6z5Yh7kOKeLjqIsNdokIpU) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lkbTVYUYHXoXt17WXIAVc) | 4:45 | 2024-03-25 |  |
+| [All Because Of You](https://open.spotify.com/track/04SoyoWgLygq4QD5aqxAny) | [Bas Serra](https://open.spotify.com/artist/5U9tbqPg5LH6tCC4Oq5hXj) | [All Because Of You](https://open.spotify.com/album/3fh6Utv3GaGmWNhHt5LhQQ) | 3:12 | 2026-08-13 |  |
 | [All I Wanna Do is Make Love to You](https://open.spotify.com/track/2zz7zsdNixKsag1pLFbpaE) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [The New Black and White, Pt\. I, II, III & IV](https://open.spotify.com/album/4K256oZqmOjFZmTgDh1yYW) | 4:25 | 2022-11-11 | 2023-04-14 |
 | [All I Want](https://open.spotify.com/track/1fmPvEu7fVUL8Png48XMGj) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [My World Untouched](https://open.spotify.com/album/5u01rNslPPnklsyWLoUaJa) | 3:43 | 2022-11-11 | 2024-08-30 |
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2023-04-13 | 2024-04-19 |

@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯<br/>Photo : aupinard
+> 🍯🍯🍯<br/>Photo : Wamen x Kÿfy
 
-628 songs - 1 day 6 hr 58 min
+630 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [COULER NOS NAVIRES](https://open.spotify.com/track/4sDkPDRjuTHLVVGags51en) | [Bénédicte](https://open.spotify.com/artist/4dRyS2jQjd70QFlMGQ0KJT) | [COULER NOS NAVIRES](https://open.spotify.com/album/00zMGJVsIjgd74arpSkeVE) | 3:41 | 2025-01-09 | 2025-02-21 |
 | [Coup de fil](https://open.spotify.com/track/2xrPOmiTWiuiLMRMj5li5A) | [Oscar Emch](https://open.spotify.com/artist/07n9zp5Qfn9tIPMhQlYzqm), [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Coup de fil](https://open.spotify.com/album/7jWw0c7G2psVC9ZmV7U2gB) | 4:24 | 2023-09-28 | 2024-02-16 |
 | [Coup de foudre](https://open.spotify.com/track/7Mzh1T5Y1DidCEVY7a8MNH) | [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Coup de foudre](https://open.spotify.com/album/45RcEQboX7GHDdDY82hkib) | 3:19 | 2023-12-21 | 2024-02-16 |
-| [COURSIVE](https://open.spotify.com/track/3NJtJXaEj4TtJo8Ep4hqjV) | [Maline](https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl), [Ritual X](https://open.spotify.com/artist/5yrBVGMDNNUY5gd6FusHAC) | [COURSIVE](https://open.spotify.com/album/6YLnwx7P42Np0V11aORNkQ) | 3:30 | 2026-06-25 |  |
+| [COURSIVE](https://open.spotify.com/track/3NJtJXaEj4TtJo8Ep4hqjV) | [Maline](https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl), [Ritual X](https://open.spotify.com/artist/5yrBVGMDNNUY5gd6FusHAC) | [COURSIVE](https://open.spotify.com/album/6YLnwx7P42Np0V11aORNkQ) | 3:30 | 2026-06-25 | 2026-08-14 |
 | [Cra$h \(feat\. Enchantée Julia & Jazzy Bazz\)](https://open.spotify.com/track/2F2i8pZ4yGqLGrRFuMicOA) | [Prince Waly](https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy), [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [Moussa](https://open.spotify.com/album/1oxEKKN1NH5dTgQKiLkOiX) | 3:10 | 2023-09-28 | 2024-03-08 |
 | [CRUSH](https://open.spotify.com/track/5HwmOY1pnYrnlIxNIVjHlC) | [Benael](https://open.spotify.com/artist/2XESQbOkyMD8fnp24q07Id) | [CRUSH](https://open.spotify.com/album/6OywoNcAqupiMoCFE0sjPJ) | 2:46 | 2026-05-28 |  |
 | [dangerous\. \(bonus track\)](https://open.spotify.com/track/1C3mBO5V9o8kUSzWIbkJmL) | [Laureen Rose](https://open.spotify.com/artist/2vML5RjH52AjbIUNGDmZUJ) | [ère.](https://open.spotify.com/album/2o1vOkqvN2eqGv1pBW9WKk) | 2:43 | 2025-04-24 | 2025-05-16 |
@@ -518,6 +518,7 @@
 | [Sage](https://open.spotify.com/track/23ZZCvqwLZlvKdZ6zrckJx) | [Noah Gala](https://open.spotify.com/artist/24umJStzpODB9mZ70uCdOD) | [Sage](https://open.spotify.com/album/7r3dLGvJudrTsr2G8jcQNM) | 2:45 | 2025-08-07 | 2025-10-03 |
 | [Saison](https://open.spotify.com/track/4zi8smCuFzqipfbyLczdnY) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 2:56 | 2023-09-28 | 2023-11-10 |
 | [Saison](https://open.spotify.com/track/18JBRtuTwWGS52x68HyuKn) | [Randy IV REAL](https://open.spotify.com/artist/50E5kfuyNnAlEphYyfxVwD), [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [Saison](https://open.spotify.com/album/7jIiaA6eg0GsHI7uHUC9Rh) | 2:43 | 2026-02-19 | 2026-06-05 |
+| [SALAIRE](https://open.spotify.com/track/2gJIWDEOpqN2y1VoyPANki) | [Jeeno](https://open.spotify.com/artist/50Q6ncKrwwBB6P2oj6vufC) | [SALAIRE](https://open.spotify.com/album/5vUZ3OoGBB2p1FD2E9zILZ) | 2:02 | 2026-08-13 |  |
 | [Sans dire au revoir](https://open.spotify.com/track/6jyQ5Rs6q5a0jUm2gRErE8) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Sans dire au revoir](https://open.spotify.com/album/2tZPImOS0u8gUmIO7f2nJS) | 3:43 | 2023-11-16 | 2023-12-30 |
 | [Sans Effet](https://open.spotify.com/track/503GnqqFpiLVtMdvjkLBHC) | [Soaa](https://open.spotify.com/artist/5tNtKIsdA1GlnetPI5SurU) | [Sans Effet](https://open.spotify.com/album/0ceDlUwXwPqjrZRmmmMuhg) | 1:58 | 2025-04-03 | 2025-05-09 |
 | [SANS FAIRE DE BRUIT](https://open.spotify.com/track/2OIoeDu0xfTpv68Rby2JmT) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [SANS FAIRE DE BRUIT](https://open.spotify.com/album/6StuHyJcZIBQdlvGRyCOzp) | 2:32 | 2025-05-22 | 2025-06-20 |
@@ -570,6 +571,7 @@
 | [tant que tu](https://open.spotify.com/track/6YTcI8Q9Jd6gp3y2mag1PQ) | [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [tant que tu](https://open.spotify.com/album/2JAvBvIm2jodW3QPM5NNc0) | 3:20 | 2024-11-07 | 2024-12-13 |
 | [Tapage nocturne](https://open.spotify.com/track/0BJcAYp5NPWcuf9CsY3cA9) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Tapage nocturne](https://open.spotify.com/album/34zQPFYqL55xpkWxudrAo9) | 2:46 | 2024-06-27 | 2024-11-22 |
 | [Teach me](https://open.spotify.com/track/25bRKPXdFrDqL1c47cDQel) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:10 | 2025-02-20 | 2025-11-07 |
+| [TEXTILE \(acoustique\)](https://open.spotify.com/track/3qEroIllmQ3e8RSs4qs1gW) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [TEXTILE \(acoustique\)](https://open.spotify.com/album/5mELB6gCvkoM9iMkAgDgBQ) | 1:31 | 2026-08-13 |  |
 | [The Love We Had](https://open.spotify.com/track/4ouj2691rumr0fq3htGx1G) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [The Love We Had](https://open.spotify.com/album/75rAbP2kp7LpcHbFz3uHBj) | 3:06 | 2023-11-30 | 2024-01-19 |
 | [Tila Tequila](https://open.spotify.com/track/4d1BYo3rR71gZjaXlRzGzv) | [KOKEÏNEJTD](https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP) | [Tila Tequila](https://open.spotify.com/album/4gN8hvcJceBCKMYsNB3DUZ) | 3:30 | 2025-10-16 | 2025-12-12 |
 | [Timide](https://open.spotify.com/track/7CgHjFMRl53Dgv6eDO2qAx) | [Claire.](https://open.spotify.com/artist/2Oarfy9KYx29vnn9j8EjX7) | [ECHO](https://open.spotify.com/album/0jB50vjD8Mzeh3njdNiSvh) | 3:22 | 2026-02-26 | 2026-05-01 |
@@ -587,7 +589,7 @@
 | [Tout pour moi](https://open.spotify.com/track/3zyaLUK2HeTIxNC94sZT18) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Tout pour moi](https://open.spotify.com/album/62kvXkB9AAw3FAiR1ieY1D) | 2:17 | 2025-08-28 | 2025-11-28 |
 | [Tout pour toi](https://open.spotify.com/track/2lkyILEN21Cbnb9tlwuuOo) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [Tout pour toi](https://open.spotify.com/album/0CCz8kxIMz9XgKU7JLTXrR) | 3:12 | 2026-04-23 | 2026-07-10 |
 | [Tout recommencer](https://open.spotify.com/track/3jybB7p4kE9ROW1JqPxenP) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [Tout recommencer](https://open.spotify.com/album/5toFeOB6XFjieqy1xwCS3R) | 3:17 | 2025-10-09 | 2025-12-12 |
-| [Toute seule à la plage](https://open.spotify.com/track/2rSmqmk8SFCtuhlPiNwRGO) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Reverie](https://open.spotify.com/album/5newvs2aGEj6sYvNIECgiZ) | 2:38 | 2026-04-23 |  |
+| [Toute seule à la plage](https://open.spotify.com/track/2rSmqmk8SFCtuhlPiNwRGO) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Reverie](https://open.spotify.com/album/5newvs2aGEj6sYvNIECgiZ) | 2:38 | 2026-04-23 | 2026-08-14 |
 | [toutes les fleurs](https://open.spotify.com/track/4105wlfhkrp2TfDJI6WdCB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [les rêves sont dangereux](https://open.spotify.com/album/5nQ77Ms0SO65x0MASlVDBd) | 1:40 | 2024-12-12 | 2025-01-31 |
 | [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 | 2025-09-25 | 2025-12-19 |
 | [TOXIC/CHILL](https://open.spotify.com/track/0fBh6dyYnLa6PzAnYIYWpw) | [Stellio](https://open.spotify.com/artist/3Uk7gNHyJ7If2hXJhaPLOq) | [TOXIC/CHILL](https://open.spotify.com/album/6UEgmSXlwE10kVZJA6yPV6) | 2:25 | 2025-12-18 | 2026-02-06 |

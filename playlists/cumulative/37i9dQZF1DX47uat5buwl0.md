@@ -4,7 +4,7 @@
 
 > Antoon kiest 20 bangers voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-217 songs - 9 hr 47 min
+218 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Adten](https://open.spotify.com/track/1fAAnr492hYqf2XC0nsX9u) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Adten](https://open.spotify.com/album/1d2nnKHZC1Z0FUP168kF6i) | 2:36 | 2026-04-02 | 2026-05-05 |
 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 | 2025-07-17 | 2025-12-12 |
 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 | 2025-11-13 |  |
-| [Ain't Nobody](https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Ain't Nobody](https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q) | 2:34 | 2025-09-16 |  |
+| [Ain't Nobody](https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Ain't Nobody](https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q) | 2:34 | 2025-09-16 | 2026-08-14 |
 | [Alleen Voor Jou](https://open.spotify.com/track/5Y6O92oxUbztyucnKPDQs8) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Alleen Voor Jou](https://open.spotify.com/album/656vlMOWCuF9tumSXQT6uc) | 2:25 | 2026-05-21 |  |
 | [Allerrijkste Man](https://open.spotify.com/track/0h8GdVEcpbZAGhh9dZjpvE) | [Max Bolhuis](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Allerrijkste Man](https://open.spotify.com/album/0PE1LskBIQhjfZSkS0Jx4t) | 2:20 | 2026-03-30 | 2026-05-15 |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-17 | 2026-05-29 |
@@ -176,6 +176,7 @@
 | [SINGLE \- Remix](https://open.spotify.com/track/6zZQ6eb8qIXl3xahcen5U8) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [SINGLE \(Remix\)](https://open.spotify.com/album/7IIgcyNYPS9YmVGF2EkV62) | 2:09 | 2025-07-17 | 2026-02-27 |
 | [Sitting Down Here \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/7vu6ybPQYHIKfrqg73ZI2d) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Sitting Down Here \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/7ySSTmTidGWYiMkHZKxa1g) | 2:38 | 2026-02-19 | 2026-06-12 |
 | [Sky and Sand](https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)](https://open.spotify.com/album/1PjYHybPrB6rU3qABrNldm) | 3:50 | 2026-07-07 |  |
+| [SMAAKT NAAR WATER](https://open.spotify.com/track/40b6xJ99S7rTBKBOleYU4B) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [DJ ROFFA \(LIVE @ FLEX FM\)](https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh) | 2:24 | 2026-08-13 |  |
 | [Snelle Jelle](https://open.spotify.com/track/1FfJq2RjdJ8JY4jbgi3Omq) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Snelle Jelle](https://open.spotify.com/album/6cNFDYrsWh69Cos0DsyDdH) | 2:16 | 2025-08-28 | 2025-11-25 |
 | [Sneuvelnation](https://open.spotify.com/track/0z0aaDPZewba8t48p2zt9A) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sneuvelnation](https://open.spotify.com/album/6OMovJWgCIvOQWdGvOUm9q) | 2:25 | 2026-01-29 |  |
 | [Spookstad \- NewTone Remix](https://open.spotify.com/track/2vNwVqKapHlYQEkv99Piel) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [NewTone](https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH) | [Spookstad \(NewTone Remix\)](https://open.spotify.com/album/0Z9HO43TwKGdAbyvyD7wiZ) | 5:13 | 2025-10-30 |  |

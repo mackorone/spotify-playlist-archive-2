@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > copos pro alto, cada um com o seu\. Foto: MC Vinny, MC Leozinho ZS, Ryu, the Runner, Bomfino
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,722 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,801 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 43 | [Atemporal](https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [yollirum](https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq), [Zairon](https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B) | [Atemporal](https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD) | 2:13 |
 | 44 | [Rebola Na Vara](https://open.spotify.com/track/1FU24ZYS74ElrWpoJq01kJ) | [DJ Shua](https://open.spotify.com/artist/5KxqaJcX319zOOEj8E7ZUC), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Conexão do Funk](https://open.spotify.com/artist/4gsXN66pofmZfqIMrOEFX3) | [Rebola Na Vara](https://open.spotify.com/album/6YDmmUKfUc341SLnyQjy7g) | 2:29 |
 | 45 | [Querendo Mais](https://open.spotify.com/track/04AZrSh1KmpUjwKvIr2KBM) | [LyNDoN](https://open.spotify.com/artist/45A52B51OE7bqXGiNvUsRQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO), [Dos Mlk](https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH) | [Querendo Mais](https://open.spotify.com/album/2gJASJpKwhuR1fC1y1eSzl) | 2:30 |
-| 46 | [BANDIDO COM BANDIDA](https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Ericoness](https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584) | [BANDIDO COM BANDIDA](https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ) | 2:51 |
-| 47 | [Inútil](https://open.spotify.com/track/3McdMPShOzbysLvMIreGaq) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY), [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [DESTRAVALT](https://open.spotify.com/artist/29IVf7WBMdBDnuI2wuwaiB) | [Inútil](https://open.spotify.com/album/0wa8RlIicoS5JdpyA60GmG) | 2:54 |
+| 46 | [Inútil](https://open.spotify.com/track/3McdMPShOzbysLvMIreGaq) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY), [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [DESTRAVALT](https://open.spotify.com/artist/29IVf7WBMdBDnuI2wuwaiB) | [Inútil](https://open.spotify.com/album/0wa8RlIicoS5JdpyA60GmG) | 2:54 |
+| 47 | [BANDIDO COM BANDIDA](https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Ericoness](https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584) | [BANDIDO COM BANDIDA](https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ) | 2:51 |
 | 48 | [NOITE DE ENTRETENIMENTO](https://open.spotify.com/track/17xUUwXGJAF8FLi25thYcP) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [NOITE DE ENTRETENIMENTO](https://open.spotify.com/album/3wxZmiRdtoNOBwt30ouH6u) | 1:33 |
 | 49 | [Sensações](https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Sensações](https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a) | 2:46 |
 
-Snapshot ID: `AAAAAPFTKznaXVZh86n1gCxBmGwtt14O`
+Snapshot ID: `AAAAAHfjblwmDJJYliVoj9j3dFQulsQN`

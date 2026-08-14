@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "ASTRA",
+        "url": "https://open.spotify.com/album/4SZDEJH7seVnMCkicfPM1e"
+      },
+      "artists": [
+        {
+          "name": "Ahrix",
+          "url": "https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169223,
+      "name": "ASTRA",
+      "url": "https://open.spotify.com/track/3F6THn06f6PGFraLEcv2t9"
+    },
+    {
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0cOEk2M6iLEVBbPAlHWzgu"
       },
@@ -3526,6 +3544,24 @@
       "duration_ms": 261000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/784DsuZ2P86jqOmhzYTkdv"
+    },
+    {
+      "album": {
+        "name": "Deep In Paris",
+        "url": "https://open.spotify.com/album/3E4iMC8c9olNkzr4u6k49D"
+      },
+      "artists": [
+        {
+          "name": "LXNDER",
+          "url": "https://open.spotify.com/artist/5rFyzu1s7Z357JVyhRHs2L"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189682,
+      "name": "Deep In Paris",
+      "url": "https://open.spotify.com/track/2y0pi5dOPByIkp85mg1ayV"
     },
     {
       "album": {

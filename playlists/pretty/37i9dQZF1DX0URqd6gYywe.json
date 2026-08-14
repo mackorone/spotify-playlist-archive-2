@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: RAMMA & Cindy Cats",
-  "num_followers": 171870,
+  "num_followers": 171883,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMr3pGnqPVB73XXbPbIYTYezBp3d",
+  "snapshot_id": "AAAAANIZlTVSeBSWocHvvJ8AMFmZOwoG",
   "tracks": [
     {
       "added_at": "2026-07-24 19:43:16",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-07-24 19:43:16",
       "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
+    },
+    {
+      "added_at": "2026-07-24 19:43:16",
+      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2026-07-24 19:43:16",
       "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
+      "duration_ms": 217106,
+      "name": "Me Quedo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP"
     },
     {
       "added_at": "2026-07-24 19:43:16",
@@ -483,22 +499,6 @@
       "duration_ms": 202063,
       "name": "A Las Nueve",
       "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
-    },
-    {
-      "added_at": "2026-07-24 19:43:16",
-      "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Me Quedo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP"
     },
     {
       "added_at": "2026-07-24 19:43:16",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-07-24 19:43:16",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2026-07-24 19:43:16",
-      "album": {
         "name": "Portal Sessions - Dillom y Santiago Motorizado",
         "url": "https://open.spotify.com/album/6p7BVraR1uyGLMbTiLay74"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 330843,
       "name": "La Noche Eterna (Portal Sessions)",
       "url": "https://open.spotify.com/track/1NSgsMDyyRWVUMcfDRerEg"
+    },
+    {
+      "added_at": "2026-07-24 19:43:16",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2026-07-24 19:43:16",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-07-24 19:43:16",
       "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
+    },
+    {
+      "added_at": "2026-07-24 19:43:16",
+      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
-    },
-    {
-      "added_at": "2026-07-24 19:43:16",
-      "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
     },
     {
       "added_at": "2026-07-24 19:43:16",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-07-24 19:43:16",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm"
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
       "artists": [
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         }
       ],
-      "duration_ms": 254882,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem"
+      "duration_ms": 235094,
+      "name": "Mejor Callar",
+      "url": "https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f"
     },
     {
       "added_at": "2026-07-24 19:43:16",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2026-07-24 19:43:16",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
         }
       ],
-      "duration_ms": 235094,
-      "name": "Mejor Callar",
-      "url": "https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f"
+      "duration_ms": 254882,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem"
     },
     {
       "added_at": "2026-07-24 19:43:16",
@@ -1423,22 +1423,6 @@
       "duration_ms": 186266,
       "name": "De M\u00ed",
       "url": "https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO"
-    },
-    {
-      "added_at": "2026-07-24 19:43:16",
-      "album": {
-        "name": "Los Lobos",
-        "url": "https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 217805,
-      "name": "Te Enfadas",
-      "url": "https://open.spotify.com/track/0gTNja0vnCU8Y1WNovBn2x"
     },
     {
       "added_at": "2026-07-24 19:43:16",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2026-07-24 19:43:16",
       "album": {
+        "name": "Los Lobos",
+        "url": "https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 217805,
+      "name": "Te Enfadas",
+      "url": "https://open.spotify.com/track/0gTNja0vnCU8Y1WNovBn2x"
+    },
+    {
+      "added_at": "2026-07-24 19:43:16",
+      "album": {
         "name": "Como Un Cuento",
         "url": "https://open.spotify.com/album/1Ki4nbbat5sivyij8b57Kv"
       },
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-07-24 19:43:16",
       "album": {
-        "name": "Las Ara\u00f1as",
-        "url": "https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK"
+        "name": "Vendedora de Caricias",
+        "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
       },
       "artists": [
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+          "name": "La Perra Que Los Pari\u00f3",
+          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
         }
       ],
-      "duration_ms": 179782,
-      "name": "Las Ara\u00f1as",
-      "url": "https://open.spotify.com/track/0DC2xgdAaunixqno818mZo"
+      "duration_ms": 199610,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC"
     },
     {
       "added_at": "2026-07-24 19:43:16",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-07-24 19:43:16",
       "album": {
-        "name": "Vendedora de Caricias",
-        "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
+        "name": "Las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK"
       },
       "artists": [
         {
-          "name": "La Perra Que Los Pari\u00f3",
-          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
         }
       ],
-      "duration_ms": 199610,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC"
+      "duration_ms": 179782,
+      "name": "Las Ara\u00f1as",
+      "url": "https://open.spotify.com/track/0DC2xgdAaunixqno818mZo"
     },
     {
       "added_at": "2026-07-24 19:43:16",

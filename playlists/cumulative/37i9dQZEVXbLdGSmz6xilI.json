@@ -758,7 +758,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "50 CU\u1ed8C G\u1eccI NH\u1ee0 (feat. CoolKid, Quang H\u00f9ng MasterD, Jaysonlei & CODYNAMVO)",
       "url": "https://open.spotify.com/track/4HjBeRYorM50d1rCrl853a"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 199000,
       "name": "Ai Ngo\u00e0i Anh",
       "url": "https://open.spotify.com/track/6GM4ZOBDcDroldUxI8GZ2B"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 268178,
       "name": "Anh \u0110\u00e3 Quen V\u1edbi C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/39KWnPNEvbXt423CzjvBfA"
@@ -21070,7 +21070,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 266666,
       "name": "Ph\u00e9p M\u00e0u - \u0110\u00e0n C\u00e1 G\u1ed7 Original Soundtrack",
       "url": "https://open.spotify.com/track/1DVYafsLmcQySKkJnY4RCs"
@@ -25120,7 +25120,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 258750,
       "name": "Text 07 (W/N ft. 267)",
       "url": "https://open.spotify.com/track/1cVc6XetpYuJRm4R1MhSW7"
@@ -26168,7 +26168,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
@@ -27202,7 +27202,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -30894,6 +30894,24 @@
       "duration_ms": 171304,
       "name": "\u0110\u00ecu Anh Lu\u00f4n Gi\u1eef K\u00edn Trong Tym",
       "url": "https://open.spotify.com/track/5jZEIRupFXlrOMFwNOrnHM"
+    },
+    {
+      "album": {
+        "name": "\u0111\u00f4i khi",
+        "url": "https://open.spotify.com/album/5A8SD1hmi8rllpLZ7qHIGA"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "\u0111\u00f4i khi",
+      "url": "https://open.spotify.com/track/6u3he5hPpYDoNNacBUR7vX"
     },
     {
       "album": {

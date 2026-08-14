@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! ANOTR
+> The UK's biggest dance playlist! Omar+
 
 778 songs - 1 day 16 hr 24 min
 

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> The best new music by independent Experimental artists\. <a href="spotify:artist:4QVnoNeoWQkbb9oOG4Ce2f">Gloorp</a> on cover\. Artwork by Thami Nabil.
+> The best new music by independent Experimental artists\. DjRUM on cover\. Artwork by Thami Nabil.
 
-2,261 songs - 7 day 6 hr 30 min
+2,266 songs - 7 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Assim](https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Vibrações de Prata](https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj) | 2:08 | 2023-10-25 | 2023-11-30 |
 | [Assim](https://open.spotify.com/track/5QsxLzOb24HfclGs6BLEt1) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Assim](https://open.spotify.com/album/5tnZGrsPtDVAHePDI2TIun) | 2:08 | 2023-10-25 | 2023-10-30 |
 | [Assimilate](https://open.spotify.com/track/35Ig2fefkW7C88p74cZFkG) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [Potpourri](https://open.spotify.com/album/27lvZ2BqY9SiM1fLqaYuKB) | 3:22 | 2026-06-24 |  |
+| [Astral Echoes](https://open.spotify.com/track/0wb3PXLcaKa6Ta87CCR0BK) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Nothing Space Music](https://open.spotify.com/album/0LVls3YIcjSXh0Mv08HYep) | 5:33 | 2026-08-13 |  |
 | [Astral Melancholy Suite](https://open.spotify.com/track/2FWwB6OgKxHgVG3MNFPNdb) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 15:05 | 2022-05-18 | 2022-07-28 |
 | [Astronomy kittens \(Song for Betty\)](https://open.spotify.com/track/69rmPrVJ4VJgLG0Hz4gOJj) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Iterations Felidae](https://open.spotify.com/album/7K3mrgVogFrTHHPSM7vOG8) | 3:43 | 2022-04-27 | 2023-03-16 |
 | [Asylum](https://open.spotify.com/track/784TRr21dCyvXHsm4tH3BE) | [Lubelski](https://open.spotify.com/artist/7EPi1KiQMnSB6cxmuGcEnS) | [Asylum](https://open.spotify.com/album/62UmYPboEY6ypNIT92Vh8x) | 6:46 | 2021-09-30 | 2021-11-03 |
@@ -606,6 +607,7 @@
 | [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 | 2023-02-01 | 2023-03-23 |
 | [En El Bosque](https://open.spotify.com/track/4BZU3KLHn3PzgA4EREWX4l) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Nocturnina](https://open.spotify.com/album/6jSvr6MVCXunzOMKoOxaEE) | 6:34 | 2021-01-31 | 2022-03-10 |
 | [En Paralelo](https://open.spotify.com/track/6TvMOIcWQWIBEVtyWR1svc) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Vidrio](https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv) | 2:51 | 2024-10-02 | 2025-07-31 |
+| [En soixante et en dix\-huit](https://open.spotify.com/track/0A8p5mpUFp76Gsqepi2DjS) | [Philippe Poirier](https://open.spotify.com/artist/7FDV7EN81yVnK2RrF7eqvd), [Roméo Poirier](https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG) | [Images parlées](https://open.spotify.com/album/71NNWfHWGDMmQceCXmMIt6) | 2:46 | 2026-08-13 |  |
 | [Encara ens surten flors](https://open.spotify.com/track/16ronPbNho39fu0YkofbfG) | [Ölivia Musyk](https://open.spotify.com/artist/0ct266OoMe1T1JoQpJKuhg), [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Encara ens surten flors](https://open.spotify.com/album/0Ypf2c0JFsSmtk4hO63K8b) | 1:59 | 2022-05-18 | 2022-07-28 |
 | [Encaustic Witches](https://open.spotify.com/track/3ycKsBJiPbVqnT7gosjyky) | [anrimeal](https://open.spotify.com/artist/1JiJqqAzQNmDRW2OBkqy8b) | [Could Divine](https://open.spotify.com/album/2hG1l4hQSTKtVr58DaQd0p) | 3:20 | 2020-12-03 | 2021-01-15 |
 | [Encounter](https://open.spotify.com/track/2B5GG4yCNY46uszAA8xGyB) | [MeSo](https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe) | [Encounter](https://open.spotify.com/album/295imTGl6y0k7idGTb7nCO) | 3:58 | 2023-04-12 | 2023-08-02 |
@@ -916,6 +918,7 @@
 | [I Like Cars](https://open.spotify.com/track/1Ok16D6N0sy6XPwGJcIcvA) | [Fridge](https://open.spotify.com/artist/2ySL3PRThfrUpYIwjje7zl) | [I Like Cars](https://open.spotify.com/album/3xTB0HNxzkfGMQCmTjt05P) | 0:43 | 2021-01-15 | 2022-01-17 |
 | [I Need Time](https://open.spotify.com/track/6pa6928PyZgyt5fpusQvux) | [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe), [Rogerst Charles](https://open.spotify.com/artist/49Mk8uQuSZ7BLKaw5Km5QM) | [I Need Time](https://open.spotify.com/album/4QGahV929GYxYpHc2rag62) | 4:17 | 2024-04-03 | 2024-08-15 |
 | [I Think I Just Died a Lil Bit](https://open.spotify.com/track/16DhEPGbwJb08lHjupIhXF) | [Violeta García](https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ), [Hora Lunga](https://open.spotify.com/artist/5WUDtbvP7A3VhVA8VsYIuX) | [I'll Wait for You in the Car Park](https://open.spotify.com/album/69xYnYghU3lHTWWOQTiqtr) | 3:57 | 2025-06-05 | 2026-03-07 |
+| [I Wander \(IV + V\)](https://open.spotify.com/track/1MfOMpg9fTsBWRbOdy8aqx) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [I Wander \(IV + V\)](https://open.spotify.com/album/2llnA988XlEflLbh7FgXco) | 3:26 | 2026-08-13 |  |
 | [I'm here](https://open.spotify.com/track/7jgKM7kkr5V1vD000hAelA) | [Sorza](https://open.spotify.com/artist/0uzZejtu06gZYMtDUoSt9D) | [Pillars](https://open.spotify.com/album/1rUgzGPf4njtmLhKWbJ53v) | 3:54 | 2024-08-21 | 2024-10-09 |
 | [I'm Not Dead](https://open.spotify.com/track/6l5HMw7YAXld3qC7qc4BMA) | [IVVVO](https://open.spotify.com/artist/0fC8JOAz0TdKWBqOlIibDn) | [I'm Not Dead](https://open.spotify.com/album/3knPzJhxdy0nKDGvgi9RJn) | 4:27 | 2022-03-30 | 2022-06-08 |
 | [I've Got What I Need](https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K) | 4:54 | 2021-10-07 | 2022-01-27 |
@@ -1583,6 +1586,7 @@
 | [Road to Techno](https://open.spotify.com/track/3Qc7eb1JrtCPjMjwhmzhxh) | [Adrian Dett](https://open.spotify.com/artist/1wpeyU0O8FMgp5QNSMuIx3) | [Road to Techno](https://open.spotify.com/album/1eAgVQ6XRrOtbiFbeWzre8) | 8:00 | 2023-03-01 | 2023-04-06 |
 | [ROAD2RAILS](https://open.spotify.com/track/78J3e3c0GWy3Crw8jzaqwy) | [NIGELTHREETIMES](https://open.spotify.com/artist/2idYU20N0SmiDmd3KLhcsK) | [METROPOLIS N](https://open.spotify.com/album/2XPIMtFys1sMHfnjLTsBVU) | 4:51 | 2024-01-10 | 2024-04-04 |
 | [Rodeo \- Arushi Jain Remix](https://open.spotify.com/track/2KsMp380IDNZJ679Ya6Ian) | [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Duniya Kya Hai \(Remixes\)](https://open.spotify.com/album/19yUtyc8mPkZSaRgcfA3Of) | 4:29 | 2026-08-06 |  |
+| [Rolling Face](https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Rolling Face](https://open.spotify.com/album/52q3EH4AOgwgDwxsuldg1H) | 5:09 | 2026-08-13 |  |
 | [Room of Fear](https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm) | [AIKA](https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m) | [Rebirth](https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6) | 1:54 | 2023-08-01 | 2023-10-26 |
 | [roots](https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [forevermore](https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN) | 2:39 | 2025-03-25 | 2025-06-14 |
 | [Roots](https://open.spotify.com/track/4mrYVeASpXLLKF1jXpTnhV) | [Malvae](https://open.spotify.com/artist/3xDYZyU0u2UORxJh6BcZe4) | [Roots](https://open.spotify.com/album/0tcqytj09avkRwgKoE12WT) | 4:23 | 2022-04-06 | 2022-06-30 |
@@ -1673,6 +1677,7 @@
 | [Show You My World](https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [Show You My World](https://open.spotify.com/album/7iSAdOWLZGc1VGIBhf4hI7) | 3:26 | 2023-07-18 | 2024-01-25 |
 | [shy \(interlude\)](https://open.spotify.com/track/3hcCMlJbGqgjIcbE7N1R9b) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [shy \(interlude\)](https://open.spotify.com/album/6tjsWKgUkWSplfj03caxOr) | 0:57 | 2025-04-24 | 2025-06-06 |
 | [SI YE YE](https://open.spotify.com/track/7L7ZrVYP4GgTfft6rP1qRZ) | [10LEC6](https://open.spotify.com/artist/1Zy22LfvnzO4dERnZGM0bA) | [SI YE YE](https://open.spotify.com/album/0lCMbZNfVS1iiZODAIc4Yq) | 5:24 | 2026-07-09 |  |
+| [side b](https://open.spotify.com/track/6GiDOYI1Qk7A6GY4XJYSfv) | [calamity](https://open.spotify.com/artist/2R5sX9pM0oTSCqDBibpvf8) | [cows & horses](https://open.spotify.com/album/2q8Z3PSAZCBHzWx6Msl34u) | 2:34 | 2026-08-13 |  |
 | [Sidetrip Sprawl](https://open.spotify.com/track/2BezKvkspHFoYgPw4CCMkz) | [Millia](https://open.spotify.com/artist/2s4nsWdHh9a38uGcqeC3AD) | [Sprawll](https://open.spotify.com/album/2tWTjkTZeqp86IZm50drOM) | 5:12 | 2026-05-03 |  |
 | [Sigh](https://open.spotify.com/track/1g6Ps8hbgyi8K5574Gn7si) | [Patrick Belaga](https://open.spotify.com/artist/5N2iWDKEQmLpoXMrAcIabW) | [Blutt](https://open.spotify.com/album/6sblSpCc8kFwQ6ptbL3YT2) | 2:06 | 2021-04-13 | 2021-06-16 |
 | [Signalmessanger](https://open.spotify.com/track/7hB2X0orjQvoUgJr2fNzVb) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Exchequer EP](https://open.spotify.com/album/3DrDv8MXYs2ALNqg824j69) | 2:59 | 2026-02-27 | 2026-03-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22241,
+  "num_followers": 22243,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anpmAAAAAAAgIxPqNR/uPFDepj0JgpNL",
+  "snapshot_id": "anu3gAAAAAAAnungMRueli+vXLIcoptj",
   "tracks": [
     {
       "added_at": null,
@@ -455,18 +455,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Princ\u00edpio e Fim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV"
+        "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
       },
       "artists": [
+        {
+          "name": "Joe Vasconcelos",
+          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
+        },
+        {
+          "name": "Sing Church Worship",
+          "url": "https://open.spotify.com/artist/2gB9fUvjv7WdVt9sfqbd5J"
+        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 383913,
-      "name": "Princ\u00edpio e Fim - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus"
+      "duration_ms": 395773,
+      "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
     },
     {
       "added_at": null,
@@ -507,26 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
+        "name": "Princ\u00edpio e Fim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV"
       },
       "artists": [
-        {
-          "name": "Joe Vasconcelos",
-          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
-        },
-        {
-          "name": "Sing Church Worship",
-          "url": "https://open.spotify.com/artist/2gB9fUvjv7WdVt9sfqbd5J"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 395773,
-      "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
+      "duration_ms": 383913,
+      "name": "Princ\u00edpio e Fim - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus"
     },
     {
       "added_at": null,

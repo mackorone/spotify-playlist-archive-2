@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 70s! Cover: Julio Iglesias",
-  "num_followers": 99062,
+  "num_followers": 99106,
   "original_name": "Los 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABtp96UBUpxyFpiUv5296RW8C1dn",
+  "snapshot_id": "AAAAALDlSfA6knCIqZ3Wt3wFpOCNnlQG",
   "tracks": [
     {
       "added_at": "2024-04-24 22:48:02",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 208866,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
+      "duration_ms": 209826,
+      "name": "Qu\u00e9 Ser\u00e1",
+      "url": "https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 209826,
-      "name": "Qu\u00e9 Ser\u00e1",
-      "url": "https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd"
+      "duration_ms": 208866,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 1",
-        "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 243466,
-      "name": "Un Gato en la Oscuridad - Un Gato en Blu",
-      "url": "https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ"
+      "duration_ms": 183954,
+      "name": "Lucia",
+      "url": "https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+        "name": "Pra Sempre Em Espanhol - Vol. 1",
+        "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 183954,
-      "name": "Lucia",
-      "url": "https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW"
+      "duration_ms": 243466,
+      "name": "Un Gato en la Oscuridad - Un Gato en Blu",
+      "url": "https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ"
     }
   ],
   "unique_name": "Los 70s",

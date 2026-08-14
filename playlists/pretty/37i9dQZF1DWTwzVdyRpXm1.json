@@ -1,12 +1,12 @@
 {
   "description": "Best of South Asian Music. Cover: Asim Azhar",
-  "num_followers": 941650,
+  "num_followers": 941738,
   "original_name": "Desi Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEdi/cW4tubUc5kUv7FSK3o8EB1w",
+  "snapshot_id": "AAAAAG58dLbkdfX1Nf+zMOKA8Qjvayxd",
   "tracks": [
     {
       "added_at": "2026-07-31 10:22:25",
@@ -175,7 +175,7 @@
     {
       "added_at": "2026-07-31 10:22:25",
       "album": {
-        "name": "Jhol - Acoustic",
+        "name": "Jhol - Acoustic (feat. Asfand)",
         "url": "https://open.spotify.com/album/1z8pfDEtCC0CxAOVT9IYkS"
       },
       "artists": [
@@ -190,10 +190,14 @@
         {
           "name": "Abdullah Siddiqui",
           "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        },
+        {
+          "name": "Asfand",
+          "url": "https://open.spotify.com/artist/5Dmma2b9AAtPyCfZ2tlTcX"
         }
       ],
       "duration_ms": 277600,
-      "name": "Jhol - Acoustic",
+      "name": "Jhol - Acoustic (feat. Asfand)",
       "url": "https://open.spotify.com/track/44LaY2y6wRRlSRjsqbKnuU"
     },
     {

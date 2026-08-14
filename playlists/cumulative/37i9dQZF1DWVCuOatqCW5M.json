@@ -39349,6 +39349,36 @@
     },
     {
       "album": {
+        "name": "Tu Rehnuma",
+        "url": "https://open.spotify.com/album/6ViY0GWYWRYm2P9ScrUEeE"
+      },
+      "artists": [
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        },
+        {
+          "name": "Samay",
+          "url": "https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl"
+        },
+        {
+          "name": "Harsh Kargeti",
+          "url": "https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT"
+        },
+        {
+          "name": "Snipr",
+          "url": "https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186067,
+      "name": "Tu Rehnuma",
+      "url": "https://open.spotify.com/track/52NZDQHctUWcoa5MvgoTru"
+    },
+    {
+      "album": {
         "name": "Tu Ru Ruu",
         "url": "https://open.spotify.com/album/036AwFKcee9b7rLriwBHPG"
       },

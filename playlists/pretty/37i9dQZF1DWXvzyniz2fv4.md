@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,224 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,222 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 18 | [Até o Final](https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Até o Final](https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5) | 2:24 |
 | 19 | [Só Você](https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU) | [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Só Você](https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X) | 2:13 |
 | 20 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
-| 21 | [Brisa Errada](https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DaluzzZ](https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Brisa Errada](https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct) | 2:03 |
-| 22 | [Ver o Mar](https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Niina](https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Sonora Sessions](https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb) | [Ver o Mar](https://open.spotify.com/album/1kNv2xQt9IUQAYYxUyPETs) | 3:07 |
+| 21 | [Ver o Mar](https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Niina](https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Sonora Sessions](https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb) | [Ver o Mar](https://open.spotify.com/album/1kNv2xQt9IUQAYYxUyPETs) | 3:07 |
+| 22 | [Brisa Errada](https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DaluzzZ](https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Brisa Errada](https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct) | 2:03 |
 | 23 | [sintetizar](https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X) | [sazack](https://open.spotify.com/artist/6Xvmre2lrs6Rl0IdJlmVz1), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Matt](https://open.spotify.com/artist/4l1lw74M2WiTks3caXBtl9) | [cinco noites em sp](https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm) | 2:26 |
 | 24 | [Pode falar \- Acústico](https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 2:43 |
 | 25 | [Mundo Louco, Nós Também](https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Thiago Castanho](https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER), [Marcão Britto](https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe) | [OCANV](https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D) | 3:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 59 | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:08 |
 | 60 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
 
-Snapshot ID: `AAAAANsX7Kbs5HjmfYLnxlxuTQv6yZ2m`
+Snapshot ID: `AAAAAD7RieNT9qE/vsB2cZFuzmOkkt1Y`

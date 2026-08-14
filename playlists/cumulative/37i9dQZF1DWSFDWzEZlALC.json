@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: l\u00f6nneberger",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: lovehead",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -2549,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "apricot",
+        "url": "https://open.spotify.com/album/09F6yTsCGjoB0L1BAZY6e9"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230068,
+      "name": "apricot",
+      "url": "https://open.spotify.com/track/2bL8aIeEzDaRK5Y5ehkPKj"
+    },
+    {
+      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/2BWHoufKyq6Ci5LSzffNj0"
       },
@@ -2966,6 +2984,24 @@
       "duration_ms": 182163,
       "name": "Augen in der Nacht",
       "url": "https://open.spotify.com/track/3BwaaH4h6ZNbqiZXfuLdGf"
+    },
+    {
+      "album": {
+        "name": "Augen sagen anders",
+        "url": "https://open.spotify.com/album/1nUnNActTU4lhGYbND0d59"
+      },
+      "artists": [
+        {
+          "name": "LUCE",
+          "url": "https://open.spotify.com/artist/6u460PcmxWWYqygFRNQu3w"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238449,
+      "name": "Augen sagen anders",
+      "url": "https://open.spotify.com/track/583dmgoDGGs2Vj8S86LAFQ"
     },
     {
       "album": {
@@ -5405,6 +5441,24 @@
     },
     {
       "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/2bq2cjJoqqzHw5HQEbwcTL"
+      },
+      "artists": [
+        {
+          "name": "SYDOW",
+          "url": "https://open.spotify.com/artist/5mbkFxQCZwbv7p5h2S5GVl"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201736,
+      "name": "caroline",
+      "url": "https://open.spotify.com/track/7iUrV9iLQ0mmwRam5Lk2jr"
+    },
+    {
+      "album": {
         "name": "CEO",
         "url": "https://open.spotify.com/album/6G56bPOgaCCMw6KklzTtgV"
       },
@@ -6924,7 +6978,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 153912,
       "name": "Die Jugend hat Angst",
       "url": "https://open.spotify.com/track/2oYn3QvypdJxcgvJrl3E5w"
@@ -12042,7 +12096,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 175717,
       "name": "german language",
       "url": "https://open.spotify.com/track/7gME8ZRbz8I5aaM4ujUUqQ"
@@ -13334,7 +13388,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 144390,
       "name": "happy end",
       "url": "https://open.spotify.com/track/480m6puv3BaJFfLzB89IIe"
@@ -14844,10 +14898,28 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 164250,
       "name": "Ich hasse die Sonne",
       "url": "https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt"
+    },
+    {
+      "album": {
+        "name": "Ich hoffe du hast Angst",
+        "url": "https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150822,
+      "name": "Ich hoffe du hast Angst",
+      "url": "https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf"
     },
     {
       "album": {
@@ -17826,7 +17898,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 150205,
       "name": "Kleinstadtpropaganda (feat. EALA)",
       "url": "https://open.spotify.com/track/6ZsnJoFt11a0pmmZSaK7ov"
@@ -21819,6 +21891,24 @@
     },
     {
       "album": {
+        "name": "mr. rush",
+        "url": "https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144827,
+      "name": "mr. rush",
+      "url": "https://open.spotify.com/track/5p2FXRstR6VDUHIANeGk0E"
+    },
+    {
+      "album": {
         "name": "Mund voll Gold",
         "url": "https://open.spotify.com/album/6aj1rjldbn0RyUCN9UzncI"
       },
@@ -23867,6 +23957,24 @@
     },
     {
       "album": {
+        "name": "Bildet Banden",
+        "url": "https://open.spotify.com/album/4VVAH6aZySCwagbtabJZWm"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140942,
+      "name": "Parallelwelt",
+      "url": "https://open.spotify.com/track/1gNaiE5OYKoy43O0reEHjY"
+    },
+    {
+      "album": {
         "name": "parf\u00fcm",
         "url": "https://open.spotify.com/album/4ySpxhBhjhJ7aWOwXAv5HU"
       },
@@ -25730,7 +25838,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 159890,
       "name": "Rundgang",
       "url": "https://open.spotify.com/track/4llW6YfkiJVi97m9NzeIjX"
@@ -29084,7 +29192,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 207424,
       "name": "sterne",
       "url": "https://open.spotify.com/track/1QDU1uv3AXds91OLk3ElxT"

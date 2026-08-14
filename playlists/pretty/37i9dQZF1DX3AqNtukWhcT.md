@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Soft and soothing beats for all your yoga practices.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,580 likes - 45 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,607 likes - 45 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 44 | [lasts forever](https://open.spotify.com/track/1jqxOucd4DQPF4PvfYn5q7) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [amlo](https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4) | [lasts forever](https://open.spotify.com/album/0nMx2IP3orcBKR7ISFJLTj) | 2:26 |
 | 45 | [snoozed](https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [snoozed](https://open.spotify.com/album/0wViZvA7s19WrpKIMFxfos) | 2:50 |
 
-Snapshot ID: `AAAAAMUW3emEXS2lB7/FfQmjc0BAUgyJ`
+Snapshot ID: `AAAAAMvQUox2Y43788qSI9zrxYSuzWTS`

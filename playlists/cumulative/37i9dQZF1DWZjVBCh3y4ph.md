@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : Joé Dwèt Filé
+> Les hits zouk & kompa du moment\. Photo : Kalipsxau
 
-457 songs - 23 hr 55 min
+459 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Caresse](https://open.spotify.com/track/7t7sDVNiFNVdmULGJ8HB1A) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71) | [Caresse](https://open.spotify.com/album/1hy3yEUGl5nXixgIiQnjJu) | 3:05 | 2025-02-13 | 2025-03-28 |
 | [CARPE DIEM](https://open.spotify.com/track/4S946jhpUy8MLekuSvcYFG) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [CARPE DIEM](https://open.spotify.com/album/6Yp6mopKjQOQBPG25xdqQu) | 2:59 | 2026-05-07 |  |
 | [Ce que tu veux de nous \- Baby boo](https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Incomprise](https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur) | 2:59 | 2024-09-26 | 2024-10-25 |
-| [Ce Soir](https://open.spotify.com/track/5JoiT8yPlAtYMmYhF2DSLL) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Ce Soir](https://open.spotify.com/album/5z9ciR0ejGN614p9i9CBi7) | 3:45 | 2026-07-02 |  |
+| [Ce Soir](https://open.spotify.com/track/5JoiT8yPlAtYMmYhF2DSLL) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Ce Soir](https://open.spotify.com/album/5z9ciR0ejGN614p9i9CBi7) | 3:45 | 2026-07-02 | 2026-08-14 |
 | [Chambre 41](https://open.spotify.com/track/1OpJHDb3pHTSnSuiLAMAzb) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Chambre 41](https://open.spotify.com/album/5M8YB1mmEHueFKUovWAyty) | 2:55 | 2025-11-27 | 2025-12-12 |
 | [Chambre 41 \- Kompa Gouyad](https://open.spotify.com/track/5DvjanZowlxxa6zAmYyCNZ) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Chambre 41 \(Kompa Gouyad\)](https://open.spotify.com/album/7gD4cpfHdNYsDmkNdVZwk9) | 3:06 | 2026-01-01 | 2026-04-03 |
 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 | 2025-04-17 | 2026-02-13 |
@@ -133,7 +133,7 @@
 | [Emilie](https://open.spotify.com/track/0Jy2GTFnl7dtdC2viWzELO) | [Yena Blue](https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4) | [BLUE](https://open.spotify.com/album/2dCRQHfjbwOEfgCiuN7Z5J) | 4:06 | 2025-03-27 | 2025-06-27 |
 | [Emilie part.2](https://open.spotify.com/track/5fUUf6oOLjmRZLHovp5TSb) | [Yena Blue](https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4) | [Emilie part.2](https://open.spotify.com/album/4Plk2UqDvY8vwG6B2ZMWuy) | 4:20 | 2026-04-23 | 2026-06-12 |
 | [En Boucle](https://open.spotify.com/track/4NTxdNnlRL5tPwmYS95Xl3) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [En Boucle](https://open.spotify.com/album/0PohFZGjz9lbtg0S5wsp6S) | 3:15 | 2026-04-23 | 2026-07-10 |
-| [En pétard](https://open.spotify.com/track/7Jzf4jD5AgtFQ6BmE6TADL) | [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje) | [En pétard](https://open.spotify.com/album/0UozO3MIcGGNOivfq0nR4A) | 3:35 | 2026-06-25 |  |
+| [En pétard](https://open.spotify.com/track/7Jzf4jD5AgtFQ6BmE6TADL) | [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje) | [En pétard](https://open.spotify.com/album/0UozO3MIcGGNOivfq0nR4A) | 3:35 | 2026-06-25 | 2026-08-14 |
 | [En sang](https://open.spotify.com/track/0uUF8ZLICJbqW0WrnGpbqj) | [ADJA](https://open.spotify.com/artist/4f8FFKe4ZyOO8tNMxz3Ijp) | [En sang](https://open.spotify.com/album/5PB3y3i9V2mkvHU3P3jTbP) | 3:07 | 2023-10-26 | 2023-12-01 |
 | [Encore](https://open.spotify.com/track/6VZtYtLfOUO9wh28TgY1Zz) | [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [Dro](https://open.spotify.com/artist/00YhAYuIQwWPYsEO8VSQDm) | [Encore](https://open.spotify.com/album/5GdFNApbLpunZ2FsdkpUO7) | 3:49 | 2024-02-29 | 2024-08-02 |
 | [ENKONDISYONÈL](https://open.spotify.com/track/0GvU1gb0o2cd20XYirQsun) | [Misié Sadik](https://open.spotify.com/artist/2BfjmShvoGPl4migLIun7a), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [KOÉRANS](https://open.spotify.com/album/1GiMIoNYZ9QtxulhmSACuZ) | 3:29 | 2025-05-01 | 2025-06-27 |
@@ -308,6 +308,7 @@
 | [Padoné´m](https://open.spotify.com/track/1MK8a1kVLdzDTnmXy6goqJ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [DJ ZOXY](https://open.spotify.com/artist/5b6w6ijGuL3InHAhilZ87E) | [Padoné´m](https://open.spotify.com/album/6VumwiygGh99yBroZW1C6R) | 3:30 | 2024-06-06 | 2024-07-12 |
 | [Palolé palolé](https://open.spotify.com/track/3IrXiWel8FZ1dQ9TzCJc58) | [Jessye Belleval](https://open.spotify.com/artist/0NAAEUMgWrBJNWviQcTx1T) | [Palolé palolé](https://open.spotify.com/album/4c1RU4ZXqTBQ8iGpw0GBPq) | 3:11 | 2026-06-18 | 2026-07-24 |
 | [Pap Kite](https://open.spotify.com/track/2ZOwWrwJT2mg0BSW8M8fY8) | [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Pap Kite](https://open.spotify.com/album/142yhhRXAWR2Ydt533NNGK) | 3:25 | 2026-01-29 | 2026-05-22 |
+| [Papillon](https://open.spotify.com/track/0Vl2qHHtv0TPMJ1v39DqZS) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Papillon](https://open.spotify.com/album/27ugUMe8RarYYssfLDkDt7) | 2:44 | 2026-08-13 |  |
 | [Parano](https://open.spotify.com/track/42Qm5a79PiqfkzJgYyypqw) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [DDB](https://open.spotify.com/artist/3p05QEIVkyeKjsrBkf0efS) | [Parano](https://open.spotify.com/album/5JN3VD2ECGpmpLddXRd71h) | 2:53 | 2024-11-07 | 2025-02-14 |
 | [PARLE MOI](https://open.spotify.com/track/3tDhgyLUfn2uAHSPwp4bjT) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Taïja](https://open.spotify.com/artist/02TDFb6mwvG01rfbyd2Usw) | [HONNEUR AUX FEMMES, VOL\. 1](https://open.spotify.com/album/32g5FCwkefo1CpdctlTAIf) | 3:16 | 2025-06-05 | 2025-06-27 |
 | [Partons](https://open.spotify.com/track/6x549B62Wsm1IytHDL9VbQ) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [Partons](https://open.spotify.com/album/0445yJTHQ6gwNVabVcbMT1) | 3:13 | 2024-06-20 | 2024-09-20 |
@@ -420,6 +421,7 @@
 | [Toujours moi \- Remix](https://open.spotify.com/track/7JTpRHELf9c93PBclCt3AB) | [cevin](https://open.spotify.com/artist/4DpPqoHHFd5CuH0t1NlgJI), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ) | [Toujours moi \(Remix\)](https://open.spotify.com/album/2SpcVuxzycXFMuCKB7GnCj) | 3:42 | 2025-02-06 | 2025-03-07 |
 | [Tout](https://open.spotify.com/track/2S0CMcdX1jUeMDZFxMsSfM) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Tout](https://open.spotify.com/album/3GqR0RsV6fNF45NtLh7GDT) | 3:09 | 2024-03-07 | 2024-10-11 |
 | [Tout contre moi](https://open.spotify.com/track/4OxWlgo0VYmkmcuCgednmi) | [Joshua Keran](https://open.spotify.com/artist/4nrRMVra3RAkH6xD5JXrvv) | [Tout contre moi](https://open.spotify.com/album/5AKfwi22SwilkkbOZ2uyPR) | 4:09 | 2026-07-23 |  |
+| [Tout Donner](https://open.spotify.com/track/71VataW4xIxBbczy7ptp7q) | [LordMiike](https://open.spotify.com/artist/6OjF9eo5mIZATUsGiBk0Xk) | [Tout Donner](https://open.spotify.com/album/3zOb84XlFCKQbZaQOrvccv) | 2:30 | 2026-08-13 |  |
 | [Tout donner](https://open.spotify.com/track/1WL8DMNBEMOmeNw2VuQYAq) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Tout donner](https://open.spotify.com/album/2SOS58yEkmW75KNeialOPY) | 3:09 | 2023-11-09 | 2024-03-01 |
 | [Tout droit \(feat\. Kim\)](https://open.spotify.com/track/1afmUJmZaipSAToAVbvDQo) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV), [Kim](https://open.spotify.com/artist/3L3EHaSYB4zzHYTid6hFYU) | [Sans Valentin](https://open.spotify.com/album/34Et79mgtvXr0u0rAKGHK1) | 2:25 | 2025-03-06 | 2025-05-02 |
 | [Tout ça](https://open.spotify.com/track/3FpcnvaYqXB9QgvvoY76Ib) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 3:33 | 2024-04-04 | 2024-06-07 |

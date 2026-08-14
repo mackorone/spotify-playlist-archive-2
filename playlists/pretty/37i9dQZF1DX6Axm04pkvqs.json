@@ -1,12 +1,12 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 82379,
+  "num_followers": 82443,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFCk/GOar6G7Lr3V/fbRkFXJD8uU",
+  "snapshot_id": "AAAAAPBFCX7R/PRk8TmUEl7gCixpfOKn",
   "tracks": [
     {
       "added_at": "2024-07-26 00:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Chants of Ascension",
-        "url": "https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA BANJO",
-          "url": "https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E"
-        }
-      ],
-      "duration_ms": 570070,
-      "name": "Chants of Ascension",
-      "url": "https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Return Rev. 2:4",
         "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 391036,
       "name": "Draw",
       "url": "https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Chants of Ascension",
+        "url": "https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA BANJO",
+          "url": "https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E"
+        }
+      ],
+      "duration_ms": 570070,
+      "name": "Chants of Ascension",
+      "url": "https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N"
     },
     {
       "added_at": "2025-10-17 00:01:26",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Strings of Glory (Prayer Chant)",
-        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
-      },
-      "artists": [
-        {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Into the Deep (Prayer Chant)",
-      "url": "https://open.spotify.com/track/1Lz5z1VShC93fUV6GsB3DO"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "See How Far: Gratitude (Reflections)",
         "url": "https://open.spotify.com/album/7dct7NWxi1IAV9K1kXkqAW"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 1196122,
       "name": "See How Far: Gratitude (Reflections)",
       "url": "https://open.spotify.com/track/7IOvxvfah1YyRBRkZzIjgg"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Strings of Glory (Prayer Chant)",
+        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Into the Deep (Prayer Chant)",
+      "url": "https://open.spotify.com/track/1Lz5z1VShC93fUV6GsB3DO"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 778895,
-      "name": "When God Walks In",
-      "url": "https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Spiritual Surgery (Live Ministration)",
         "url": "https://open.spotify.com/album/0zXMEOYyOgEijTIOqrXsjb"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 805303,
       "name": "Spiritual Surgery (Live)",
       "url": "https://open.spotify.com/track/3D7EubdyMf1i6p2Ts79Cjo"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 778895,
+      "name": "When God Walks In",
+      "url": "https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "Alignment Chant",
-        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 810956,
-      "name": "Alignment Chant - EP",
-      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Truth in Sounds",
@@ -627,6 +611,22 @@
       "duration_ms": 997722,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/6FOtEedC7uCwri090WzvV0"
+    },
+    {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "Alignment Chant",
+        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 810956,
+      "name": "Alignment Chant - EP",
+      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Adua Ke (Cover)",
-        "url": "https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
-        }
-      ],
-      "duration_ms": 300816,
-      "name": "Adua Ke (Cover)",
-      "url": "https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "My Altar Is Calling You",
         "url": "https://open.spotify.com/album/7GeZxUpzniRCXgvdg4GCcG"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 400979,
       "name": "My Altar Is Calling You",
       "url": "https://open.spotify.com/track/0yVKmHilBXbDZgC3dT7zy5"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Adua Ke (Cover)",
+        "url": "https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 300816,
+      "name": "Adua Ke (Cover)",
+      "url": "https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Worship Chant",
-        "url": "https://open.spotify.com/album/5k5WUShHTOc9d49d73cNYA"
-      },
-      "artists": [
-        {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
-        }
-      ],
-      "duration_ms": 104687,
-      "name": "Worship Chant",
-      "url": "https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Flaunt Your Fire (Holy Ghost)",
         "url": "https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 430105,
       "name": "Flaunt Your Fire (Holy Ghost)",
       "url": "https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Worship Chant",
+        "url": "https://open.spotify.com/album/5k5WUShHTOc9d49d73cNYA"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        }
+      ],
+      "duration_ms": 104687,
+      "name": "Worship Chant",
+      "url": "https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1261,20 +1261,20 @@
       "url": "https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2025-02-21 00:01:28",
       "album": {
-        "name": "Never Be the Same (Live)",
-        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
+        "name": "Igbo Worship Medley (Live)",
+        "url": "https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs"
       },
       "artists": [
         {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+          "name": "Israel Dammy",
+          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
         }
       ],
-      "duration_ms": 384000,
-      "name": "Never Be the Same (Live)",
-      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
+      "duration_ms": 474999,
+      "name": "Igbo Worship Medley - Live",
+      "url": "https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1293,20 +1293,20 @@
       "url": "https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9"
     },
     {
-      "added_at": "2025-02-21 00:01:28",
+      "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Igbo Worship Medley (Live)",
-        "url": "https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs"
+        "name": "Never Be the Same (Live)",
+        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
       },
       "artists": [
         {
-          "name": "Israel Dammy",
-          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
         }
       ],
-      "duration_ms": 474999,
-      "name": "Igbo Worship Medley - Live",
-      "url": "https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G"
+      "duration_ms": 384000,
+      "name": "Never Be the Same (Live)",
+      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
     },
     {
       "added_at": "2024-07-26 00:01:00",

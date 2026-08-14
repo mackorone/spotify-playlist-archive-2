@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Karlien Van Jaarsveld en Zaan Sonnekus
+> Net die beste Afrikaanse musiek! Omslag: Appel, Riaan Benadé, Ricus Nel en Bok Van Blerk
 
 401 songs - 22 hr 7 min
 

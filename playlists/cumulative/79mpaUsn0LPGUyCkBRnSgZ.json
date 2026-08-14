@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Melt the Honey",
+        "url": "https://open.spotify.com/album/1b3i2e3n3ayNsVKXANYsPz"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162078,
+      "name": "89 Days",
+      "url": "https://open.spotify.com/track/14twvCzXql2brH14KA7vzX"
+    },
+    {
+      "album": {
         "name": "Schlagenheim",
         "url": "https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN"
       },
@@ -6632,6 +6650,24 @@
       "duration_ms": 198893,
       "name": "French Navy",
       "url": "https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1"
+    },
+    {
+      "album": {
+        "name": "They Spent Their Wild Youthful Days In The Glittering World Of The Salons",
+        "url": "https://open.spotify.com/album/3bEI2P01ZCL5AnpAY7GGcg"
+      },
+      "artists": [
+        {
+          "name": "Swirlies",
+          "url": "https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18160,
+      "name": "French Radio",
+      "url": "https://open.spotify.com/track/2DFY5xoMUyUMColK7xaRi8"
     },
     {
       "album": {
@@ -19702,6 +19738,24 @@
       "duration_ms": 240379,
       "name": "Thief",
       "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
+    },
+    {
+      "album": {
+        "name": "Foxbase Alpha",
+        "url": "https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3"
+      },
+      "artists": [
+        {
+          "name": "Saint Etienne",
+          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42800,
+      "name": "This Is Radio Etienne",
+      "url": "https://open.spotify.com/track/6AP9itKfq3NiSGpkpXWWI5"
     },
     {
       "album": {

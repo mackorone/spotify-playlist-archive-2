@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1YHDlXYlFX.md) - [plain]
 
 > enjoy the BROWN EYED SOUL CONCERT \[SOUL Tricycle\] LIVE SET including the voices of them on stage! \(브라운 아이드 소울의 무대 멘트와 목소리가 포함된 \[SOUL Tricycle\]  콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 26 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 834 likes - 26 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1YHDlXYlFX.md) - [plain]
 | 25 | [Always be there](https://open.spotify.com/track/7J8ScWRaptRBJAVVNMQHZJ) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Always be there](https://open.spotify.com/album/0t9du7CYrQqtWHGHUrChok) | 5:11 |
 | 26 | [My Story](https://open.spotify.com/track/79zakrunWiO9JLOJNfcDuJ) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:38 |
 
-Snapshot ID: `AAAAAIrWyky+xDsn8KawntjgCLx2RyT6`
+Snapshot ID: `AAAAAFOq15esSpsav+wzhIG3fWPJ+NaN`

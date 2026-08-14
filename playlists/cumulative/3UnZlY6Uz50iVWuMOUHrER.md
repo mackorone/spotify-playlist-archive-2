@@ -4,7 +4,7 @@
 
 > 
 
-148 songs - 13 hr 45 min
+150 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [MDMA](https://open.spotify.com/track/0JBXNdTzeKdvRYCi8xIAfd) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [MDMA](https://open.spotify.com/album/0binUY8uj19BOLJEBrAcTJ) | 6:06 | 2021-07-01 |  |
 | [Meet Me In The Club](https://open.spotify.com/track/3jLpZs81i46jtsPFnXnHJa) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Meet Me In The Club](https://open.spotify.com/album/3C5XkMBU4fGO9bT2E7ywSP) | 4:30 | 2023-09-09 |  |
 | [Midsommar](https://open.spotify.com/track/79JUzsH4mlxo0HQvBwECi7) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Løvehjerte](https://open.spotify.com/album/7sSy3PAvDBJHbxZxNcY95U) | 4:35 | 2025-09-08 |  |
+| [Monsters](https://open.spotify.com/track/09YIQFg8QleQknfduk71HE) | [AEREA](https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA) | [Monsters](https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7) | 2:52 | 2026-08-13 |  |
 | [Move Next \- Original Mix](https://open.spotify.com/track/18pCFVNOgVpEMnFNyH0YdS) | [Midnight Vices](https://open.spotify.com/artist/3W78Ijxf9NLajxshD7Zwvu) | [RAVE05](https://open.spotify.com/album/2nK7wyHI9iDot41ZB2d1Fz) | 5:46 | 2021-02-09 |  |
 | [Napalm \- Kas:st & Räar Remix](https://open.spotify.com/track/6QzEMWCtylKhAf7ysFpBEI) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Raär](https://open.spotify.com/artist/4yPF0okVf5WmxwRHZnUyAY) | [Mercurial Skin Remixes : Tome 1](https://open.spotify.com/album/7asoeisP1ALJCwPRY4jWEf) | 6:51 | 2022-02-04 |  |
 | [Nasty Boys](https://open.spotify.com/track/2Riv1HOSR9JMjoBUHLU5wZ) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Nasty Boys](https://open.spotify.com/album/1uO278F0iznhGFJhWZa3wg) | 6:41 | 2020-11-27 |  |
@@ -113,6 +114,7 @@
 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 | 2025-08-07 |  |
 | [Sameness](https://open.spotify.com/track/7AS4g3zGGkcHUmsH6MGrte) | [OMICID](https://open.spotify.com/artist/2ESB47faiK1RAFky3ljgsm), [WAST](https://open.spotify.com/artist/5mOP8q01PNGLhkkwHmxae7) | [Various Artists](https://open.spotify.com/album/2oWDnpAI0NnHRIaFdedTxN) | 5:58 | 2021-04-15 |  |
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-07-17 |  |
+| [Shadow Of Tears](https://open.spotify.com/track/5NagG9mPJeTrO0ut3lZZhW) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Shadow Of Tears](https://open.spotify.com/album/0joiyo2pC9Ad2CmIZsgBq0) | 7:38 | 2026-08-13 |  |
 | [Sorrows Of The Moon](https://open.spotify.com/track/075c2lwxN8eSaqkH5Rt2MS) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Sorrows Of The Moon](https://open.spotify.com/album/4Eu8BapzhKrzUFOCaMhPNs) | 6:37 | 2021-10-01 |  |
 | [Soul Movement](https://open.spotify.com/track/0VDPu1Ifhkw2dGOxBPOXdJ) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Eye Of The Swarm](https://open.spotify.com/album/5wMy1nJUQJ8UfrplhAn0mo) | 7:21 | 2023-03-31 |  |
 | [Sound Of The Soul](https://open.spotify.com/track/3FtoFV2jACKn22Ym5OGiX1) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [Sound Of The Soul](https://open.spotify.com/album/15zaowOyWZnfHICcC7VT2C) | 3:56 | 2025-04-14 |  |

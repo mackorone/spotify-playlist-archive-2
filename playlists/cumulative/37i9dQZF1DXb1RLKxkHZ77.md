@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Ammar Haikal
 
-1,038 songs - 2 day 16 hr 40 min
+1,040 songs - 2 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,7 +646,7 @@
 | [Mungkin di Depan Buram](https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mungkin di Depan Buram](https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo) | 2:37 | 2026-04-22 | 2026-05-14 |
 | [Mungkin Ini Adalah Lagu Yang Paling Sedih Pernah Ku Buat](https://open.spotify.com/track/1auMsAG9X5RSDu8UuJayIs) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [Mungkin Ini Adalah Lagu Yang Paling Sedih Pernah Ku Buat](https://open.spotify.com/album/3IrwzNwKbQh1tE9ug53hnz) | 3:02 | 2022-10-05 | 2022-12-15 |
 | [Mungkin Ke?](https://open.spotify.com/track/2I3WeViGfPCaakFBuYCYPq) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Janji](https://open.spotify.com/album/57YvxSlmYaHXgmYKIWvIEq) | 3:24 | 2024-11-27 | 2025-01-16 |
-| [Mungkir](https://open.spotify.com/track/4arSKKe4pnyNthzT0tjS75) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX) | [Mungkir](https://open.spotify.com/album/3zM3nb8NzCDjmmPDJslVkr) | 3:51 | 2026-07-10 |  |
+| [Mungkir](https://open.spotify.com/track/4arSKKe4pnyNthzT0tjS75) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX) | [Mungkir](https://open.spotify.com/album/3zM3nb8NzCDjmmPDJslVkr) | 3:51 | 2026-07-10 | 2026-08-14 |
 | [Musnah](https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Musnah](https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2) | 3:59 | 2024-06-26 | 2025-01-09 |
 | [MWA!](https://open.spotify.com/track/3IIHUIzolxO8OmFsUkT8w2) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-05-14 | 2025-08-08 |
 | [MY WAY](https://open.spotify.com/track/6fI3s9V2wpNMGObXVF88ta) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [MY WAY](https://open.spotify.com/album/0w7JueoRv0I63VsQ92Zxp9) | 3:00 | 2025-02-26 | 2025-03-20 |
@@ -751,7 +751,7 @@
 | [Remaja Selamanya](https://open.spotify.com/track/1GaPhwDdtZuLaTWOy9xM2c) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Kaset](https://open.spotify.com/album/7J9EgZ74dLsD1WnFOVBYEC) | 3:49 | 2025-04-30 | 2025-05-31 |
 | [Reminisensi](https://open.spotify.com/track/0TRKtVvsVmOkXCvnq5AgNE) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Kepala Batu EP](https://open.spotify.com/album/6U1Imk9cN9VSNQrnHMgGkY) | 4:25 | 2024-10-09 | 2025-10-23 |
 | [Renjana](https://open.spotify.com/track/7EuvHaRZ55DWE5r9om7dQO) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 4:08 | 2024-01-31 | 2024-02-29 |
-| [Renjana Jiwa](https://open.spotify.com/track/6d9UcJE9zMQhxRnRdiA5LJ) | [Hazami](https://open.spotify.com/artist/3qSFUgmLNLhid8Orlf37Dy) | [Renjana Jiwa](https://open.spotify.com/album/7D4OQQqfdbtpJVMza9evMY) | 3:34 | 2026-07-17 |  |
+| [Renjana Jiwa](https://open.spotify.com/track/6d9UcJE9zMQhxRnRdiA5LJ) | [Hazami](https://open.spotify.com/artist/3qSFUgmLNLhid8Orlf37Dy) | [Renjana Jiwa](https://open.spotify.com/album/7D4OQQqfdbtpJVMza9evMY) | 3:34 | 2026-07-17 | 2026-08-14 |
 | [Resah Kerinduan](https://open.spotify.com/track/1K8cHn6DX4FUtdI0wdx6md) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Resah Kerinduan](https://open.spotify.com/album/2IjeneKtJJ6WBd7XhlgMgw) | 4:14 | 2022-05-25 | 2022-08-18 |
 | [Resipi Berkasih](https://open.spotify.com/track/0jgd1sjvJ06EY9nayv6jJo) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Muna Shahirah](https://open.spotify.com/artist/5SRNnJxN0REYoX7HR7SUgL) | [Resipi Berkasih](https://open.spotify.com/album/4AaqJw3ajMYvPZmtZdeZqR) | 5:19 | 2024-05-15 | 2024-06-27 |
 | [Restu](https://open.spotify.com/track/3gfVuMwfrz8cxZjfoMg9xk) | [Fiq7](https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR) | [Restu](https://open.spotify.com/album/2KIOvOWzcVgkzOAIRkDX99) | 3:31 | 2025-06-18 | 2025-07-24 |
@@ -835,6 +835,7 @@
 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/1E1Sg8OtAbUNUeq7kat4KP) | 3:50 | 2025-12-31 | 2026-05-07 |
 | [Sedih Hati](https://open.spotify.com/track/5wBFuNcO53iv8y1yA96Dqx) | [Malique](https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk) | [Sedih Hati](https://open.spotify.com/album/7s9myWNOZ5RWQbmR4e0lr4) | 3:23 | 2023-08-02 | 2023-11-30 |
 | [Sedikit Waktu](https://open.spotify.com/track/5B8VKRe7xuUcLRJ9FAX0cv) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Sedikit Waktu](https://open.spotify.com/album/3e3kWGw6C57ZYmk1OZH5Hm) | 4:10 | 2026-03-04 | 2026-04-23 |
+| [Sejambak Bunga](https://open.spotify.com/track/4CYGBC1ElT0ZiL0tDa4DSJ) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Sejambak Bunga](https://open.spotify.com/album/7FwDZSvNxtY5tCnzeRdTgo) | 3:18 | 2026-08-13 |  |
 | [Sejarah](https://open.spotify.com/track/60xSTxt4GWoic7LwndDtRN) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Sejarah](https://open.spotify.com/album/7lBtDKBzA20gyH6H6VAznx) | 4:02 | 2024-11-20 | 2025-01-16 |
 | [Sejuta Kata](https://open.spotify.com/track/0wLtYXCZm8wAzTVGYKxslQ) | [Hazrul Nizam](https://open.spotify.com/artist/1QdTqQYcmC2ZgxedjFARhC), [Diana Nazyra](https://open.spotify.com/artist/0UjqqPr0hK1lIx0i69KNxp) | [Sejuta Kata](https://open.spotify.com/album/7bbY7fvBSmQguTuad1VuTB) | 3:39 | 2023-05-31 | 2023-06-29 |
 | [Sejuta Maaf](https://open.spotify.com/track/2dNl9852kqrSurEtz1WsyQ) | [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Sejuta Maaf](https://open.spotify.com/album/4Ku3zmF2wR54POfcnj36ty) | 3:52 | 2023-01-25 | 2023-03-02 |
@@ -1024,6 +1025,7 @@
 | [Trauma](https://open.spotify.com/track/5mS6XpcsLnKxXrdvw4uzBk) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p) | [Trauma \(feat\. Aan Story\)](https://open.spotify.com/album/42zqQhzRx05UFLDVY5XOvE) | 3:38 | 2023-08-02 | 2023-08-10 |
 | [Trauma](https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p) | [Trauma](https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z) | 3:38 | 2023-08-09 | 2024-02-15 |
 | [Trauma](https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6) | [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p), [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk) | [Trauma](https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9) | 3:38 | 2023-06-07 | 2023-08-04 |
+| [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0TbH3BenflFfocRfefyAUT) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sementara, Selamanya](https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD) | 4:35 | 2026-08-13 |  |
 | [Tulus](https://open.spotify.com/track/3IXfUTUTICN5nvlTtrbf4C) | [Adi Priyo](https://open.spotify.com/artist/6en0fgNdzRrJ22yM7Hl1zi), [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Tulus](https://open.spotify.com/album/5zmZM7kyMQZwr6Gs4PSUMU) | 4:17 | 2023-04-05 | 2023-05-11 |
 | [Tunggu](https://open.spotify.com/track/7KHeoaLSpzMC0nHm1NFoI5) | [Elizabeth Tan](https://open.spotify.com/artist/17bFKNQu8Ov9bwgUzMygRH) | [Tunggu](https://open.spotify.com/album/67L1sbtLvcyQ1zhqfDF3OC) | 2:54 | 2023-01-11 | 2023-03-02 |
 | [Ular](https://open.spotify.com/track/6SO0RhoIxu1vj7JZiZJdWE) | [Drama Band](https://open.spotify.com/artist/5NWfEZx5XGbVCAQTjhSxlR), [Sekumpulan Orang Gila](https://open.spotify.com/artist/0lsic3ZlNuapuwzbmD4imv) | [Ular](https://open.spotify.com/album/64HfSeQZfdTGVqM3nCxnZW) | 3:24 | 2022-10-27 | 2022-11-25 |

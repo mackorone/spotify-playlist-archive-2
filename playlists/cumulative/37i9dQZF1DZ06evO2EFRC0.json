@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Tu y Yo (Remasterizado)",
+        "url": "https://open.spotify.com/album/37hQTftDd8dpXOCz2xxdlI"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118244,
+      "name": "Hoy es tiempo",
+      "url": "https://open.spotify.com/track/2v5eRrE5BRncsLxChJMUyQ"
+    },
+    {
+      "album": {
         "name": "Jes\u00fas (feat. Marcos Witt)",
         "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
       },
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 253134,
       "name": "Oh Tu Fidelidad",
       "url": "https://open.spotify.com/track/6RxYwQflwfYpe7ramNDe6g"

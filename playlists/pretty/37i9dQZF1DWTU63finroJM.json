@@ -1,12 +1,12 @@
 {
   "description": "Meet the future of music around the world. Cover: THE DO",
-  "num_followers": 86583,
+  "num_followers": 86587,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL97RhsOBaz54gsMxLmRlljUM7D8",
+  "snapshot_id": "AAAAAKkwbqDAKq9TDe8eJZ3RZ6XYrpEQ",
   "tracks": [
     {
       "added_at": "2026-07-24 13:00:01",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/0UzzUwust9tYgU5oxj9e3I"
-      },
-      "artists": [
-        {
-          "name": "YA\u00d8",
-          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
-        }
-      ],
-      "duration_ms": 189913,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/67z3fb8LD3tB6RnudTT7gg"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 123375,
       "name": "Camila",
       "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/0UzzUwust9tYgU5oxj9e3I"
+      },
+      "artists": [
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        }
+      ],
+      "duration_ms": 189913,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/67z3fb8LD3tB6RnudTT7gg"
     },
     {
       "added_at": "2026-07-24 13:00:01",

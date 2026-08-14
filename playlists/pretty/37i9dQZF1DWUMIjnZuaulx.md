@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: William McDowell
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,819 likes - 80 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,938 likes - 80 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 79 | [It's Gonna Happen](https://open.spotify.com/track/2MXZ46dCwvEkjuZIdnsf77) | [Charles Weems](https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab), [Janelle Balasquide](https://open.spotify.com/artist/6Ajv6pzvHsGFCDuHWvAb2k) | [It's Gonna Happen](https://open.spotify.com/album/2GBUzDVZLIpY1MqzTmpz45) | 5:20 |
 | 80 | [Rome](https://open.spotify.com/track/1FJnHjvl8AOZyHpXWzMCfA) | [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn) | [Rome](https://open.spotify.com/album/290mHkt1I4zqbxwheKMIxA) | 3:09 |
 
-Snapshot ID: `AAAAAAN4sYe0pGBp7DqTMzD7o4qqhk8L`
+Snapshot ID: `AAAAAMdxTgZ6Hz1pXuqxFMebozxx9l3q`

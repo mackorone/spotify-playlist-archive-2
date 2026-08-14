@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: Daoko",
-  "num_followers": 198849,
+  "num_followers": 198845,
   "original_name": "Women of Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIAJAfBJ2Pp48akmq3F5plrGA+nD",
+  "snapshot_id": "AAAAAJofmy47cH2X7LzdQ7+GPutwA5lj",
   "tracks": [
     {
       "added_at": "2026-08-04 15:00:50",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-08-04 15:00:50",
       "album": {
-        "name": "\u831c",
-        "url": "https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "\u831c",
-      "url": "https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2"
-    },
-    {
-      "added_at": "2026-08-04 15:00:50",
-      "album": {
         "name": "\u5927\u5927\u5927\u5927\u5927\u597d\u304d\u306a\u541b\u3078\u2661",
         "url": "https://open.spotify.com/album/2WoyVMrtvK0zZduqUZPBZN"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 227766,
       "name": "\u5927\u5927\u5927\u5927\u5927\u597d\u304d\u306a\u541b\u3078\u2661",
       "url": "https://open.spotify.com/track/0Yg7qzomy9oFixfKgXSUk9"
+    },
+    {
+      "added_at": "2026-08-04 15:00:50",
+      "album": {
+        "name": "\u831c",
+        "url": "https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "\u831c",
+      "url": "https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2"
     },
     {
       "added_at": "2026-08-04 15:00:50",

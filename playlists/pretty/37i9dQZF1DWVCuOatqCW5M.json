@@ -1,12 +1,12 @@
 {
   "description": "Latest music from Darshan Raval, Simran Choudhary, Adnan Sami,  Shekhar Ravjiani and more.",
-  "num_followers": 98956,
+  "num_followers": 99027,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABFeeRIrYLCL19EZ0+zMvwyxGIch",
+  "snapshot_id": "AAAAAEduPtNSA+4L3xpwFbbmTq24Z1TH",
   "tracks": [
     {
       "added_at": "2026-08-07 05:46:54",
@@ -463,6 +463,34 @@
       "duration_ms": 207984,
       "name": "wajaah",
       "url": "https://open.spotify.com/track/16mETbbaVCqu6degYlwkEJ"
+    },
+    {
+      "added_at": "2026-08-07 05:46:54",
+      "album": {
+        "name": "Tu Rehnuma",
+        "url": "https://open.spotify.com/album/6ViY0GWYWRYm2P9ScrUEeE"
+      },
+      "artists": [
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        },
+        {
+          "name": "Samay",
+          "url": "https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl"
+        },
+        {
+          "name": "Harsh Kargeti",
+          "url": "https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT"
+        },
+        {
+          "name": "Snipr",
+          "url": "https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu"
+        }
+      ],
+      "duration_ms": 186067,
+      "name": "Tu Rehnuma",
+      "url": "https://open.spotify.com/track/52NZDQHctUWcoa5MvgoTru"
     },
     {
       "added_at": "2026-08-07 05:46:54",

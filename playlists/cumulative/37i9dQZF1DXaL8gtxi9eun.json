@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0648\u062f\u0647 \u0648\u0639\u0632\u064a\u0632 \u0645\u0631\u0642\u0629",
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u064f\u0633\u0644\u0650\u0645",
   "name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 174545,
       "name": "3amla Feha Mn Egypt",
       "url": "https://open.spotify.com/track/2DMHfbk5O6Ax6kfxJd3cDQ"
@@ -3705,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "MALAMEH",
+        "url": "https://open.spotify.com/album/0kISxppnK5Oi9Pruq9cDGD"
+      },
+      "artists": [
+        {
+          "name": "abulhawa",
+          "url": "https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141947,
+      "name": "LEH KEDA YA ZEINA",
+      "url": "https://open.spotify.com/track/7v2SVEsL83YorCRK0WL1BM"
+    },
+    {
+      "album": {
         "name": "Lem Ashamak",
         "url": "https://open.spotify.com/album/28zYSQHpPeUnvE0OJxHZVt"
       },
@@ -3752,7 +3770,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 252870,
       "name": "Lessa Fakerny / \u0644\u0633\u0627 \u0641\u0627\u0643\u0631\u0646\u064a",
       "url": "https://open.spotify.com/track/7beDwcHwA3aUOrGj460N0a"
@@ -5619,6 +5637,24 @@
     },
     {
       "album": {
+        "name": "Wahshaney",
+        "url": "https://open.spotify.com/album/51ARzrWimrJNCnPpM0TDQk"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269605,
+      "name": "Wahshaney",
+      "url": "https://open.spotify.com/track/4SDzhmcot5c9JPtHe1KEPq"
+    },
+    {
+      "album": {
         "name": "Wahshany",
         "url": "https://open.spotify.com/album/2u1x9iR0q7dLwX4aEHaJ1N"
       },
@@ -5830,6 +5866,28 @@
       "duration_ms": 208840,
       "name": "Wayyak",
       "url": "https://open.spotify.com/track/1zQBbLzIE77m5kjm7BPYet"
+    },
+    {
+      "album": {
+        "name": "WEHYAT 3YONO",
+        "url": "https://open.spotify.com/album/4i3w8s0buplk3oljPT0IHq"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157112,
+      "name": "WEHYAT 3YONO",
+      "url": "https://open.spotify.com/track/0kSSezbLvs01NOoxz9dP26"
     },
     {
       "album": {
@@ -7738,7 +7796,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 148964,
       "name": "\u0633\u0644\u0645\u0648\u0644\u064a",
       "url": "https://open.spotify.com/track/5O9yZGNtBosB4mC3nUmB9y"

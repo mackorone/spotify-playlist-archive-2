@@ -1,12 +1,12 @@
 {
   "description": "\u00d6ll bestu l\u00f6gin \u00ed augnablikinu!",
-  "num_followers": 30219,
+  "num_followers": 30221,
   "original_name": "Hot Hits Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE4wNgSd819czZ27eX49obrrWAdp",
+  "snapshot_id": "AAAAAEXfC0yJ2FbGxn7CGsXhQW/ugQT3",
   "tracks": [
     {
       "added_at": "2026-08-11 12:22:17",
@@ -23,6 +23,22 @@
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-08-11 12:22:17",
+      "album": {
+        "name": "Sama sta\u00f0",
+        "url": "https://open.spotify.com/album/4OILmcTnYETZPOdtoakQKi"
+      },
+      "artists": [
+        {
+          "name": "FRANKO",
+          "url": "https://open.spotify.com/artist/2OYQjMIn5e8PdEFOqJok8o"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "Sama sta\u00f0",
+      "url": "https://open.spotify.com/track/4N06eE0cjXt4ZPJTSzS5Ny"
     },
     {
       "added_at": "2026-08-11 12:22:17",

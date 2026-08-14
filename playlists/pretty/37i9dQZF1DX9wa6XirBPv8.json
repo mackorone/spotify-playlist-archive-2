@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1918409,
+  "num_followers": 1918601,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxqLIHYuLTQFKJKfXwn76/C+1ds",
+  "snapshot_id": "AAAAAP0TDF2LVL0eUbOv8oTcknLc3lay",
   "tracks": [
     {
       "added_at": "2026-07-17 00:12:53",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "Famous Last Words",
-      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "Famous Last Words",
+      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 217524,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Diary (Remastered and Expanded Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 217524,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Decadence",
-        "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
-      },
-      "artists": [
-        {
-          "name": "Head Automatica",
-          "url": "https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Beating Heart Baby",
-      "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Leaving Through The Window",
         "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 232200,
       "name": "Punk Rock Princess",
       "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Decadence",
+        "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
+      },
+      "artists": [
+        {
+          "name": "Head Automatica",
+          "url": "https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Beating Heart Baby",
+      "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Home, Like Noplace Is There",
-        "url": "https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL"
-      },
-      "artists": [
-        {
-          "name": "The Hotelier",
-          "url": "https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Your Deep Rest",
-      "url": "https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Everything In Transit",
         "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 194440,
       "name": "The Mixed Tape - 2015 Remastered",
       "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Home, Like Noplace Is There",
+        "url": "https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL"
+      },
+      "artists": [
+        {
+          "name": "The Hotelier",
+          "url": "https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Your Deep Rest",
+      "url": "https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Menos El Oso",
-        "url": "https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H"
-      },
-      "artists": [
-        {
-          "name": "Minus the Bear",
-          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "Pachuca Sunrise",
-      "url": "https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 303093,
       "name": "Ape Dos Mil",
       "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Menos El Oso",
+        "url": "https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H"
+      },
+      "artists": [
+        {
+          "name": "Minus the Bear",
+          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
+        }
+      ],
+      "duration_ms": 215373,
+      "name": "Pachuca Sunrise",
+      "url": "https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Highly Refined Pirates",
-        "url": "https://open.spotify.com/album/1UMubVNQuVVBG7T6Cuzc5w"
-      },
-      "artists": [
-        {
-          "name": "Minus the Bear",
-          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
-        }
-      ],
-      "duration_ms": 324266,
-      "name": "Absinthe Party At The Fly Honey Warehouse",
-      "url": "https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "New Medicines",
         "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 242040,
       "name": "New Medicines",
       "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Highly Refined Pirates",
+        "url": "https://open.spotify.com/album/1UMubVNQuVVBG7T6Cuzc5w"
+      },
+      "artists": [
+        {
+          "name": "Minus the Bear",
+          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Absinthe Party At The Fly Honey Warehouse",
+      "url": "https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj"
     },
     {
       "added_at": "2026-07-17 00:12:53",

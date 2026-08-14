@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,874 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,955 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 97 | [Bad Advice \- The Pool Sessions](https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Bad Advice \(The Pool Sessions\)](https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ) | 3:28 |
 | 98 | [Never Learnt To Pray](https://open.spotify.com/track/4qKGMdTVoDhKnq1JCHvAAH) | [1ST VOWS](https://open.spotify.com/artist/2DLo7eCypgXm3ViDvElOWE) | [Never Learnt To Pray](https://open.spotify.com/album/26zH5zth76DXIT1qGYyVE8) | 3:25 |
 
-Snapshot ID: `AAAAANAcvYYs1NNXUf1Gm8HF0B21ZC93`
+Snapshot ID: `AAAAAOLKepiJn72iye+jHYEQEkoEHmXH`

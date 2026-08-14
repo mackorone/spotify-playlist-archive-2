@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the Black queer community. Cover: Durand Bernarr",
-  "num_followers": 81851,
+  "num_followers": 81855,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbCYrveC+cvnsWKanx+lzLHGli6",
+  "snapshot_id": "AAAAAPpoTsrtm3aifXd1oKFWdtOjyoew",
   "tracks": [
     {
       "added_at": "2026-06-12 08:24:33",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/2ax9yh9o3eJWbJZbF8tDvj"
     },
     {
-      "added_at": "2023-10-05 17:45:18",
-      "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 146791,
-      "name": "Needs",
-      "url": "https://open.spotify.com/track/6sg284TefDkBpFh0317Agp"
-    },
-    {
       "added_at": "2026-06-12 08:24:33",
       "album": {
         "name": "Not So Sweet",
@@ -947,6 +931,22 @@
       "duration_ms": 235088,
       "name": "Not So Sweet",
       "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
+    },
+    {
+      "added_at": "2023-10-05 17:45:18",
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 146791,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/6sg284TefDkBpFh0317Agp"
     },
     {
       "added_at": "2025-05-07 20:24:43",

@@ -4619,6 +4619,32 @@
     },
     {
       "album": {
+        "name": "Re-Amathambo (Remix)",
+        "url": "https://open.spotify.com/album/0RjOSD0wNNrcwZYEbiPJDW"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        },
+        {
+          "name": "Chaleee",
+          "url": "https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c"
+        },
+        {
+          "name": "Anna Widauer",
+          "url": "https://open.spotify.com/artist/0a6EIFJe4gQqo49dHs0oGQ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "Re-Amathambo - Remix",
+      "url": "https://open.spotify.com/track/2AyLWsRNFbkjq4wAqPqyrX"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/7oY5Xy6be2R9efmDVoCnvi"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Stella Lefty, Koe Wetzel with Ella Langley, Gavin Adcock and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,885 likes - 86 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,942 likes - 86 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 85 | [Hell I Won't](https://open.spotify.com/track/4p9oq2SHPTIXvMPZ25WPWd) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd) | [Hell I Won't](https://open.spotify.com/album/5mIvk2CepPD3fKrVhYrVmz) | 2:48 |
 | 86 | [Jesus & Whiskey](https://open.spotify.com/track/4IE1U3DVhuST81jkYMYNx4) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Jesus & Whiskey](https://open.spotify.com/album/3dWpgfkGrrbMNmHH3BJvX2) | 3:39 |
 
-Snapshot ID: `AAAAADhnfj69LGVPLG8sry3zQHiB9Xjr`
+Snapshot ID: `AAAAANXLiIlzG27Q7gMNqbl/pXo1i4pS`

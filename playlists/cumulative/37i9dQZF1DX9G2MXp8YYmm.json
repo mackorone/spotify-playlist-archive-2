@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Tekir",
+  "description": "Pop'un sevilen isimleri. Kapak: Elif Buse Do\u011fan, \u00dcmit Say\u0131n ",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -662,7 +662,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 140816,
       "name": "ANNE O\u011eLUN RAPSTAR",
       "url": "https://open.spotify.com/track/0FwToQGt1a1ss8mDbZPLSF"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 193695,
       "name": "Babalar Gibi",
       "url": "https://open.spotify.com/track/6KL0jnMtKMxgsbhZ4woXdR"
@@ -2736,6 +2736,24 @@
       "duration_ms": 181020,
       "name": "Bitti",
       "url": "https://open.spotify.com/track/3UZH755lCjb6DY1hJq8RA4"
+    },
+    {
+      "album": {
+        "name": "Bitti",
+        "url": "https://open.spotify.com/album/0wUm99URRLXqjgvH1w5aP0"
+      },
+      "artists": [
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172147,
+      "name": "Bitti",
+      "url": "https://open.spotify.com/track/0KN5jobcA3qEwvqeuboHEy"
     },
     {
       "album": {
@@ -5136,7 +5154,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "G\u00f6zlerimde Duman",
       "url": "https://open.spotify.com/track/74e7Bi3qKrfOK5MeSpoiBd"
@@ -6541,6 +6559,24 @@
     },
     {
       "album": {
+        "name": "Kafam\u0131n \u0130\u00e7ini Bi' Salsayd\u0131n",
+        "url": "https://open.spotify.com/album/74k5valldNCxIp8Oi5fqt5"
+      },
+      "artists": [
+        {
+          "name": "Ferhat G\u00f6\u00e7er",
+          "url": "https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124702,
+      "name": "Kafam\u0131n \u0130\u00e7ini Bi' Salsayd\u0131n",
+      "url": "https://open.spotify.com/track/7nMRPBiK8qFCMJoTSFCzi9"
+    },
+    {
+      "album": {
         "name": "Yalan Dolan",
         "url": "https://open.spotify.com/album/20MU09DJjpeHTZRgUg2HCq"
       },
@@ -6972,7 +7008,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 157894,
       "name": "Kerime",
       "url": "https://open.spotify.com/track/2TDWBvCncEKq7ol7iGbffX"
@@ -8311,6 +8347,28 @@
     },
     {
       "album": {
+        "name": "Nas\u0131l Uyuyorsun (Akustik)",
+        "url": "https://open.spotify.com/album/0YdAsUBssjev4FkUF42CbU"
+      },
+      "artists": [
+        {
+          "name": "Ebru Ya\u015far",
+          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
+        },
+        {
+          "name": "G\u00fclden",
+          "url": "https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194318,
+      "name": "Nas\u0131l Uyuyorsun - Akustik",
+      "url": "https://open.spotify.com/track/7q3PSyal8VnxwkR6Nxhvs2"
+    },
+    {
+      "album": {
         "name": "NAZAR",
         "url": "https://open.spotify.com/album/1ltvCwbMqAkRNm5qUYyquF"
       },
@@ -8634,7 +8692,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 163333,
       "name": "Nokta",
       "url": "https://open.spotify.com/track/6cwT8tabwoNRH86QcPERKJ"
@@ -8902,7 +8960,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 183903,
       "name": "Padi\u015fah",
       "url": "https://open.spotify.com/track/6zEblkikv5ixDD7rA9T1HI"
@@ -9076,7 +9134,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 190000,
       "name": "Rimel - Afro Rework",
       "url": "https://open.spotify.com/track/3QgWjH34FiQoOqMifm77ka"
@@ -9258,6 +9316,28 @@
       "duration_ms": 162857,
       "name": "Sana",
       "url": "https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN"
+    },
+    {
+      "album": {
+        "name": "Sana Darg\u0131n\u0131m",
+        "url": "https://open.spotify.com/album/59s43zpMielwyBvmRh6C9I"
+      },
+      "artists": [
+        {
+          "name": "Elif Buse Do\u011fan",
+          "url": "https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS"
+        },
+        {
+          "name": "\u00dcmit Say\u0131n",
+          "url": "https://open.spotify.com/artist/04EJLUSUcz99lY4Vy0DYLM"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175361,
+      "name": "Sana Darg\u0131n\u0131m",
+      "url": "https://open.spotify.com/track/1XDPAT8uaQi9kCiIUfU4NC"
     },
     {
       "album": {
@@ -10080,6 +10160,24 @@
       "duration_ms": 154300,
       "name": "Sevme Diyor",
       "url": "https://open.spotify.com/track/4tLPNJ2wtRdiAdPr713I2O"
+    },
+    {
+      "album": {
+        "name": "Sevmedik \u00d6yle mi?",
+        "url": "https://open.spotify.com/album/4hGTdxCl3y7Qoo02TnzTcH"
+      },
+      "artists": [
+        {
+          "name": "Diyar Pala",
+          "url": "https://open.spotify.com/artist/23Q5T7JtqekFJMbC0XKxnh"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219049,
+      "name": "Sevmedik \u00d6yle mi?",
+      "url": "https://open.spotify.com/track/3b8tSfeTx1oWsyWnS6MBQV"
     },
     {
       "album": {
@@ -11941,6 +12039,24 @@
     },
     {
       "album": {
+        "name": "Yaz Ya\u011fmuru",
+        "url": "https://open.spotify.com/album/6Y5c3tlCjqmuD6AEYbHCYz"
+      },
+      "artists": [
+        {
+          "name": "Ece Mumay",
+          "url": "https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175170,
+      "name": "Yaz Ya\u011fmuru",
+      "url": "https://open.spotify.com/track/6wz7pqHK2buDMeVIWbOGi6"
+    },
+    {
+      "album": {
         "name": "Yaz\u0131k",
         "url": "https://open.spotify.com/album/1188ZVfe2Bte1RZWKzZChy"
       },
@@ -11992,7 +12108,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 151389,
       "name": "Ya\u015fama Sebebimsin",
       "url": "https://open.spotify.com/track/0yJswoE9y1lPYnGMfSIfo8"

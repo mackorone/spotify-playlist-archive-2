@@ -10135,6 +10135,24 @@
     },
     {
       "album": {
+        "name": "MENTAL BREAKDOWN",
+        "url": "https://open.spotify.com/album/63z0XcSxHUDp6amwElKGB4"
+      },
+      "artists": [
+        {
+          "name": "Lina Cooper",
+          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242962,
+      "name": "MENTAL BREAKDOWN",
+      "url": "https://open.spotify.com/track/4b8c8onEYWRBFcK7nMpscR"
+    },
+    {
+      "album": {
         "name": "Messed Up",
         "url": "https://open.spotify.com/album/47irEOvWe6aeYqCORfxZWE"
       },
@@ -11674,6 +11692,24 @@
       "duration_ms": 179185,
       "name": "not the same",
       "url": "https://open.spotify.com/track/3y5BPGWQ5LhGKiUgXTA6SP"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Real",
+        "url": "https://open.spotify.com/album/3NAI2vEVtyJr9sQ3zSaJwk"
+      },
+      "artists": [
+        {
+          "name": "Hellblazers",
+          "url": "https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171917,
+      "name": "Nothing Is Real",
+      "url": "https://open.spotify.com/track/6NeUtmPROc6rT8xt78cKzu"
     },
     {
       "album": {
@@ -16890,6 +16926,24 @@
       "duration_ms": 198602,
       "name": "Tallahassee",
       "url": "https://open.spotify.com/track/3Qhozjq6g10RHqCFvjmDAA"
+    },
+    {
+      "album": {
+        "name": "Tattoo My Brain",
+        "url": "https://open.spotify.com/album/7neWWsrJvASLW6ga1IApAq"
+      },
+      "artists": [
+        {
+          "name": "Dead End Road",
+          "url": "https://open.spotify.com/artist/2G7nnTPUdpp1HPhHrdQro5"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145737,
+      "name": "Tattoo My Brain",
+      "url": "https://open.spotify.com/track/6qI054w5q3vUtzi3YlTNXq"
     },
     {
       "album": {

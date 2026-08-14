@@ -1,12 +1,12 @@
 {
   "description": "Sing along with Moana and Maui to \"How Far I'll Go,\" \"You're Welcome\" and other Disney favorites! Disney's Moana, in theaters soon.",
-  "num_followers": 1177125,
+  "num_followers": 1177265,
   "original_name": "Disney Sing-Alongs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE7CYNzBf7Y1D1aJ+oH+QXFYhR7R",
+  "snapshot_id": "AAAAAPj+g+ekkGHSLbn5YRgduY+dxt1b",
   "tracks": [
     {
       "added_at": "2026-06-29 13:00:22",
@@ -797,6 +797,26 @@
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
     },
     {
+      "added_at": "2026-08-13 05:00:13",
+      "album": {
+        "name": "Camp Rock 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
+      },
+      "artists": [
+        {
+          "name": "Malachi Barton",
+          "url": "https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 188001,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/00vpTgiBa9CXBtUKFbRoav"
+    },
+    {
       "added_at": "2026-06-29 13:00:22",
       "album": {
         "name": "Beauty and the Beast",
@@ -1139,22 +1159,6 @@
     {
       "added_at": "2026-06-29 13:00:22",
       "album": {
-        "name": "Glitter Glide (From \"Stitch and Angel's Pop Star Party\")",
-        "url": "https://open.spotify.com/album/5VT6DktVnly5XCedIRQPIZ"
-      },
-      "artists": [
-        {
-          "name": "Dara Rene\u00e9",
-          "url": "https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Glitter Glide - From \"Stitch and Angel's Pop Star Party\"",
-      "url": "https://open.spotify.com/track/1S2wspqYMjUWEUsNkow23w"
-    },
-    {
-      "added_at": "2026-06-29 13:00:22",
-      "album": {
         "name": "High School Musical",
         "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"
       },
@@ -1475,34 +1479,6 @@
     {
       "added_at": "2026-06-29 13:00:22",
       "album": {
-        "name": "Mary Poppins (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3TpEE2z8atZWn2p7MUHF0U"
-      },
-      "artists": [
-        {
-          "name": "Dick Van Dyke",
-          "url": "https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6"
-        },
-        {
-          "name": "Julie Andrews",
-          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
-        },
-        {
-          "name": "Karen Dotrice",
-          "url": "https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz"
-        },
-        {
-          "name": "Matthew Garber",
-          "url": "https://open.spotify.com/artist/3YDM76Dml4Pyo8H7JSfafZ"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Chim Chim Cher-ee",
-      "url": "https://open.spotify.com/track/0IKYsgkoaylTKGzrlfrpu7"
-    },
-    {
-      "added_at": "2026-06-29 13:00:22",
-      "album": {
         "name": "Pocahontas",
         "url": "https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd"
       },
@@ -1645,60 +1621,32 @@
       "url": "https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN"
     },
     {
-      "added_at": "2026-06-29 13:00:22",
+      "added_at": "2026-08-13 05:00:13",
       "album": {
-        "name": "ZOMBIES 4: Dawn of the Vampires (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q"
+        "name": "Disney Jr. Music: Ozzy Fox",
+        "url": "https://open.spotify.com/album/3qIYY3YJVzFfnVxzsIJt09"
       },
       "artists": [
         {
-          "name": "Milo Manheim",
-          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
         },
         {
-          "name": "Meg Donnelly",
-          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+          "name": "Ozzy Fox",
+          "url": "https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i"
         },
         {
-          "name": "Chandler Kinney",
-          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+          "name": "Mama Fox",
+          "url": "https://open.spotify.com/artist/1oTEIpktT99xzq5awLGKiN"
         },
         {
-          "name": "Kylee Russell",
-          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
-        },
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        },
-        {
-          "name": "Malachi Barton",
-          "url": "https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme"
-        },
-        {
-          "name": "Swayam Bhatia",
-          "url": "https://open.spotify.com/artist/028mgpMVlkwBYNBTphi6VH"
-        },
-        {
-          "name": "Julian Lerner",
-          "url": "https://open.spotify.com/artist/1RAKgWfp7uC98qy4mSvNu3"
-        },
-        {
-          "name": "Mekonnen Knife",
-          "url": "https://open.spotify.com/artist/69y5psIxwqMrSRyQRShsBG"
-        },
-        {
-          "name": "ZOMBIES \u2013 Cast",
-          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Papa Fox",
+          "url": "https://open.spotify.com/artist/7mUmhKMIqiZwOS1kEZjUlU"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Don't Mess With Us",
-      "url": "https://open.spotify.com/track/3r43CXgQe55fI3LEOZ22CG"
+      "duration_ms": 129333,
+      "name": "See You Soon",
+      "url": "https://open.spotify.com/track/4zuUywR4fXQS358rOje7HC"
     },
     {
       "added_at": "2026-06-29 13:00:22",

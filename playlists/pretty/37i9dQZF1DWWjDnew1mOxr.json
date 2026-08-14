@@ -1,12 +1,12 @@
 {
   "description": "Music that means it. Cover: Yard Act",
-  "num_followers": 131640,
+  "num_followers": 131647,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEg7W3yAtchnZLZGPhzuapaCblJf",
+  "snapshot_id": "AAAAAGINemJlfuvkpH0m/j3CS/ZW9gho",
   "tracks": [
     {
       "added_at": "2026-07-16 23:00:23",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Dog Dribble",
-        "url": "https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23"
-      },
-      "artists": [
-        {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Dog Dribble",
-      "url": "https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B"
-    },
-    {
       "added_at": "2026-08-06 19:29:28",
       "album": {
         "name": "7563",
@@ -379,6 +363,22 @@
       "duration_ms": 243302,
       "name": "7563",
       "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Dog Dribble",
+        "url": "https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Dog Dribble",
+      "url": "https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Panic Prevention",
-        "url": "https://open.spotify.com/album/15P0EFs78iLbc5rOLSkYYG"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 259813,
-      "name": "Sheila",
-      "url": "https://open.spotify.com/track/0FGtGmz8SVEywhUqNFYWsQ"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
         "name": "Fall Back",
         "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 193182,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Panic Prevention",
+        "url": "https://open.spotify.com/album/15P0EFs78iLbc5rOLSkYYG"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 259813,
+      "name": "Sheila",
+      "url": "https://open.spotify.com/track/0FGtGmz8SVEywhUqNFYWsQ"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
     },
     {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Got You On My Mind",
-        "url": "https://open.spotify.com/album/4yGedLZjTca9Tke2G364gH"
-      },
-      "artists": [
-        {
-          "name": "Dylan John Thomas",
-          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
-        }
-      ],
-      "duration_ms": 173503,
-      "name": "Got You On My Mind",
-      "url": "https://open.spotify.com/track/5JaoItHBF9bSVFfzjSRymp"
-    },
-    {
       "added_at": "2026-08-06 19:29:28",
       "album": {
         "name": "Dobro",
@@ -861,6 +845,22 @@
       "url": "https://open.spotify.com/track/3tL4ZLFEXLcjJTkbdOwcjW"
     },
     {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Got You On My Mind",
+        "url": "https://open.spotify.com/album/4yGedLZjTca9Tke2G364gH"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "duration_ms": 173503,
+      "name": "Got You On My Mind",
+      "url": "https://open.spotify.com/track/5JaoItHBF9bSVFfzjSRymp"
+    },
+    {
       "added_at": "2026-07-23 23:00:46",
       "album": {
         "name": "sucker punch !",
@@ -875,6 +875,22 @@
       "duration_ms": 124300,
       "name": "sucker punch !",
       "url": "https://open.spotify.com/track/0btEFu2NtMqxTdHwpp1svx"
+    },
+    {
+      "added_at": "2026-08-06 19:29:28",
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 173987,
+      "name": "Canyons",
+      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -907,22 +923,6 @@
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
-    },
-    {
-      "added_at": "2026-08-06 19:29:28",
-      "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 173987,
-      "name": "Canyons",
-      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "Can\u2019t See",
+        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 146127,
+      "name": "Can't See",
+      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "Rushmere",
         "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
       },
@@ -1005,20 +1021,20 @@
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
     },
     {
-      "added_at": "2026-07-16 23:00:23",
+      "added_at": "2026-08-06 19:29:28",
       "album": {
-        "name": "Can\u2019t See",
-        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
         }
       ],
-      "duration_ms": 146127,
-      "name": "Can't See",
-      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
+      "duration_ms": 231716,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1055,6 +1071,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "So Much Country \u2018Till We Get There",
+        "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 144286,
+      "name": "The Wahs",
+      "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "Keira Knightley",
         "url": "https://open.spotify.com/album/6hP36kS9qD7sLDZml4OFyl"
       },
@@ -1087,34 +1119,18 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "So Much Country \u2018Till We Get There",
-        "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
+        "name": "Vice Versa",
+        "url": "https://open.spotify.com/album/5KbsOhirBRc37NY9v3NATC"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
         }
       ],
-      "duration_ms": 144286,
-      "name": "The Wahs",
-      "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
-    },
-    {
-      "added_at": "2026-08-06 19:29:28",
-      "album": {
-        "name": "If I Could",
-        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "If I Could",
-      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
+      "duration_ms": 163687,
+      "name": "Vice Versa",
+      "url": "https://open.spotify.com/track/0pOh1U2tIdIHvMDFZXNNp1"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1131,22 +1147,6 @@
       "duration_ms": 186786,
       "name": "Fuck Me (I Didn\u2019t Know How To Say)",
       "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Vice Versa",
-        "url": "https://open.spotify.com/album/5KbsOhirBRc37NY9v3NATC"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 163687,
-      "name": "Vice Versa",
-      "url": "https://open.spotify.com/track/0pOh1U2tIdIHvMDFZXNNp1"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
     },
     {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Just Begun",
-        "url": "https://open.spotify.com/album/1RYvPGUpvUTnIf4NFGIrY9"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Just Begun",
-      "url": "https://open.spotify.com/track/7zcaQay1ctjagKSXcJ5tNe"
-    },
-    {
       "added_at": "2026-07-23 23:00:46",
       "album": {
         "name": "Standing On A Pane Of Glass",
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "mettle",
-        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
+        "name": "Just Begun",
+        "url": "https://open.spotify.com/album/1RYvPGUpvUTnIf4NFGIrY9"
       },
       "artists": [
         {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
         }
       ],
-      "duration_ms": 176853,
-      "name": "mettle",
-      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
+      "duration_ms": 217000,
+      "name": "Just Begun",
+      "url": "https://open.spotify.com/track/7zcaQay1ctjagKSXcJ5tNe"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "mettle",
+        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "mettle",
+      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Voice Of The Voiceless",
-        "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        }
-      ],
-      "duration_ms": 193612,
-      "name": "Voice Of The Voiceless",
-      "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
         "name": "From the Night",
         "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 251821,
       "name": "From the Night",
       "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Voice Of The Voiceless",
+        "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "duration_ms": 193612,
+      "name": "Voice Of The Voiceless",
+      "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1437,20 +1437,20 @@
       "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
     },
     {
-      "added_at": "2026-07-16 23:00:23",
+      "added_at": "2026-08-06 19:29:28",
       "album": {
-        "name": "I Was Just A Boy",
-        "url": "https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj"
+        "name": "Terror TV",
+        "url": "https://open.spotify.com/album/6GutoOofpiccz3CnPb0WER"
       },
       "artists": [
         {
-          "name": "Madra Salach",
-          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
         }
       ],
-      "duration_ms": 444196,
-      "name": "I Was Just A Boy",
-      "url": "https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb"
+      "duration_ms": 195811,
+      "name": "Terror TV",
+      "url": "https://open.spotify.com/track/7yug9Rrhhz76Nl2dAijt9X"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "I Was Just A Boy",
+        "url": "https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj"
+      },
+      "artists": [
+        {
+          "name": "Madra Salach",
+          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
+        }
+      ],
+      "duration_ms": 444196,
+      "name": "I Was Just A Boy",
+      "url": "https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "Love & Money",
         "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 202048,
       "name": "New York, Let's Do Nothing",
       "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
-    },
-    {
-      "added_at": "2026-08-06 19:29:28",
-      "album": {
-        "name": "Terror TV",
-        "url": "https://open.spotify.com/album/6GutoOofpiccz3CnPb0WER"
-      },
-      "artists": [
-        {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
-        }
-      ],
-      "duration_ms": 195811,
-      "name": "Terror TV",
-      "url": "https://open.spotify.com/track/7yug9Rrhhz76Nl2dAijt9X"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "Vain",
+        "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Vain",
+      "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "Lipstick",
         "url": "https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 216692,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Gears",
-        "url": "https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ"
-      },
-      "artists": [
-        {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
-        }
-      ],
-      "duration_ms": 155874,
-      "name": "Gears",
-      "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
     }
   ],
   "unique_name": "Proper Belters",

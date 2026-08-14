@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Black K",
+  "description": "Le meilleur du rap africain francophone. Photo : Himra",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -471,6 +471,28 @@
     },
     {
       "album": {
+        "name": "Appelez les",
+        "url": "https://open.spotify.com/album/6Woa7Hmr8FzDP0R6pHpVlu"
+      },
+      "artists": [
+        {
+          "name": "Shapat",
+          "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
+        },
+        {
+          "name": "La Diktatur",
+          "url": "https://open.spotify.com/artist/7J1BOYaYUEEDSjQ5om9mbF"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Appelez les",
+      "url": "https://open.spotify.com/track/25vC8lTjugRApvMG07MmCx"
+    },
+    {
+      "album": {
         "name": "Armageddon",
         "url": "https://open.spotify.com/album/2izdFK60er4VekUQoMQMKZ"
       },
@@ -813,6 +835,24 @@
     },
     {
       "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/7pZGBsAiCLwFuWu2wyVhlA"
+      },
+      "artists": [
+        {
+          "name": "Paki Chenzu",
+          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/5df2nzX7vVQckQIhiLjWTj"
+    },
+    {
+      "album": {
         "name": "KIN",
         "url": "https://open.spotify.com/album/2QR90IbHvWeON5AOdIG503"
       },
@@ -832,7 +872,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 183807,
       "name": "Bina",
       "url": "https://open.spotify.com/track/645MT1vGCbzkqC4QJiAxlr"
@@ -1046,6 +1086,28 @@
       "duration_ms": 177002,
       "name": "BOYAUX",
       "url": "https://open.spotify.com/track/15vzfrp9XoX4bzL0Rqv4RV"
+    },
+    {
+      "album": {
+        "name": "BRAMOGO",
+        "url": "https://open.spotify.com/album/4ME6XM6XrlNmRBWYUfhrLV"
+      },
+      "artists": [
+        {
+          "name": "JOPAPI",
+          "url": "https://open.spotify.com/artist/51YvT0bgf9HKKRtcripRT7"
+        },
+        {
+          "name": "The shirurgian on the beatz",
+          "url": "https://open.spotify.com/artist/1ymJIefHhbqjZXbFJvEMDE"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "BRAMOGO",
+      "url": "https://open.spotify.com/track/6I7jDDtu8qKPpiBITFv7nt"
     },
     {
       "album": {
@@ -1577,6 +1639,28 @@
     },
     {
       "album": {
+        "name": "Chapil\u00e9",
+        "url": "https://open.spotify.com/album/74RNArnBHpElPWJja8cKAb"
+      },
+      "artists": [
+        {
+          "name": "King Of Ntcham",
+          "url": "https://open.spotify.com/artist/6uuOFWfVXWTRI0DLAYWI05"
+        },
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "Chapil\u00e9",
+      "url": "https://open.spotify.com/track/5VaxCatCYypNtiYT1i6184"
+    },
+    {
+      "album": {
         "name": "Charger",
         "url": "https://open.spotify.com/album/0iskaRfgHt8Y9iR4sym0VR"
       },
@@ -1966,7 +2050,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 196795,
       "name": "Couch\u00e9",
       "url": "https://open.spotify.com/track/2j2vtMXZiNM7sqh8KBP5N6"
@@ -2342,7 +2426,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 133333,
       "name": "Dj\u00f4lo 241",
       "url": "https://open.spotify.com/track/7LrWIXrxEW1m7AxjbyRvvA"
@@ -2678,7 +2762,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 187906,
       "name": "EN STRING",
       "url": "https://open.spotify.com/track/2zsZlQQHhVVacUqLZa4Q4u"
@@ -2922,7 +3006,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 155250,
       "name": "FAUT LAISSER \u00c7A",
       "url": "https://open.spotify.com/track/2MaX9mFvrZnSVE2VuSMAGG"
@@ -3234,7 +3318,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 133572,
       "name": "Gas Station",
       "url": "https://open.spotify.com/track/7z1igJsgr1XHmBZoHNl5ey"
@@ -5947,6 +6031,24 @@
     },
     {
       "album": {
+        "name": "SORRY I'M BAD",
+        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "PLUS DE LOVE",
+      "url": "https://open.spotify.com/track/2OiQyIqqhqkaJJ83JuiZRH"
+    },
+    {
+      "album": {
         "name": "PLUS QUE TOI",
         "url": "https://open.spotify.com/album/559QxTexkv4Vi1pKfeWwuE"
       },
@@ -6446,7 +6548,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 123428,
       "name": "S/O",
       "url": "https://open.spotify.com/track/1gZDkMvITtBeGhMCz07M9D"
@@ -6592,6 +6694,28 @@
       "duration_ms": 174222,
       "name": "Securiser",
       "url": "https://open.spotify.com/track/5UtM5QxsLvNHnTVsD0JD6N"
+    },
+    {
+      "album": {
+        "name": "Selekele",
+        "url": "https://open.spotify.com/album/3f94FFg6irYe4wiRxkTpUp"
+      },
+      "artists": [
+        {
+          "name": "Bayron Myl",
+          "url": "https://open.spotify.com/artist/6mWYULbeuyqYLEcXeRKjaX"
+        },
+        {
+          "name": "EKE LATERAL",
+          "url": "https://open.spotify.com/artist/4QEryVcS0XZ0sX21GsoKqS"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226693,
+      "name": "Selekele",
+      "url": "https://open.spotify.com/track/37nueKwkPAXDaX5TqEA9cb"
     },
     {
       "album": {
@@ -7651,6 +7775,28 @@
     },
     {
       "album": {
+        "name": "URBAN D\u00c9CAL\u00c9 #2",
+        "url": "https://open.spotify.com/album/5bX8zOHqlyAlsDAbxeRJ6E"
+      },
+      "artists": [
+        {
+          "name": "Jr La Melo",
+          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
+        },
+        {
+          "name": "JD",
+          "url": "https://open.spotify.com/artist/7dlCmucx38So6TIPLzsw0A"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "URBAN D\u00c9CAL\u00c9 #2",
+      "url": "https://open.spotify.com/track/1BFlwRDhiqQLwV39665vcf"
+    },
+    {
+      "album": {
         "name": "Vanit\u00e9",
         "url": "https://open.spotify.com/album/0V9hllhlNbHqK175smjlA1"
       },
@@ -7886,10 +8032,32 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 150000,
       "name": "WOLOSSO",
       "url": "https://open.spotify.com/track/1R04AZROC1WGL7oWQ4v81E"
+    },
+    {
+      "album": {
+        "name": "YAI PAS TETE",
+        "url": "https://open.spotify.com/album/6gX2dd0eG0b3XQLK1SB45o"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e9nom\u00e8ne Authentik",
+          "url": "https://open.spotify.com/artist/1Hux7Z9gLAvEPbKJubiM5I"
+        },
+        {
+          "name": "Momo Hayek",
+          "url": "https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "YAI PAS TETE",
+      "url": "https://open.spotify.com/track/2AZdqR7oxMKBsEzWiQI9TE"
     },
     {
       "album": {

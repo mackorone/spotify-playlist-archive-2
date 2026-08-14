@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Jon Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,976 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,006 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [The Deeps](https://open.spotify.com/track/5aD1dbCslbrws3C5WVRad8) | [Brogan Gaskill](https://open.spotify.com/artist/61i3TetowOKS5rGy0vSUjN), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [The Deeps](https://open.spotify.com/album/4QWEHsujvOaRi9Vf1jnaq5) | 3:55 |
 | 100 | [The Man I Pretended to Be](https://open.spotify.com/track/5GUDxE2wVhpm7DwByjwEde) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [The Man I Pretended to Be](https://open.spotify.com/album/5ricW0tBgDOeBgAaaO24qs) | 4:03 |
 
-Snapshot ID: `AAAAAC6n2wLr0q9EmuhNgR9ZdTI8IDDN`
+Snapshot ID: `AAAAAI7cX7o9abfyrVyDQbj/z8zn87z3`

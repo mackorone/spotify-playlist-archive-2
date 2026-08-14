@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 190802,
+  "num_followers": 190871,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALuy8jD73EQLJWqsfBEgw+uLgDEj",
+  "snapshot_id": "AAAAAGA54fxVGe+GNRQaAF9MT9xPG1US",
   "tracks": [
     {
       "added_at": "2026-08-07 03:01:14",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
+        "name": "Despacha",
+        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178557,
+      "name": "Despacha",
+      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
         "name": "Muito Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
       },
@@ -519,26 +535,6 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "Papinho Ambicioso",
-        "url": "https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Papinho Ambicioso",
-      "url": "https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
         "name": "De Lua",
         "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
       },
@@ -555,38 +551,22 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "Despacha",
-        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
+        "name": "Papinho Ambicioso",
+        "url": "https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4"
       },
       "artists": [
         {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178557,
-      "name": "Despacha",
-      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
-        "name": "off",
-        "url": "https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
         },
         {
-          "name": "Gustavvo",
-          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
         }
       ],
-      "duration_ms": 202106,
-      "name": "off",
-      "url": "https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi"
+      "duration_ms": 154285,
+      "name": "Papinho Ambicioso",
+      "url": "https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -615,8 +595,28 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
+        "name": "off",
+        "url": "https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "off",
+      "url": "https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
+        "name": "Melodia&Barulho",
+        "url": "https://open.spotify.com/album/1WWKBiKHbBKpuPjI6rvKYR"
       },
       "artists": [
         {
@@ -624,13 +624,17 @@
           "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
         },
         {
-          "name": "Meio Feel",
-          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Perigos&Macetes",
-      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
+      "duration_ms": 177468,
+      "name": "Inoc\u00eancia",
+      "url": "https://open.spotify.com/track/37s9yWpkR1G0s4U37KMxzL"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -715,8 +719,8 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "Melodia&Barulho",
-        "url": "https://open.spotify.com/album/1WWKBiKHbBKpuPjI6rvKYR"
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
       },
       "artists": [
         {
@@ -724,17 +728,13 @@
           "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
         },
         {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Linguini",
-          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+          "name": "Meio Feel",
+          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
         }
       ],
-      "duration_ms": 177468,
-      "name": "Inoc\u00eancia",
-      "url": "https://open.spotify.com/track/37s9yWpkR1G0s4U37KMxzL"
+      "duration_ms": 148965,
+      "name": "Perigos&Macetes",
+      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "FORA DA LEI",
-        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 186396,
-      "name": "FORA DA LEI",
-      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
         "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
         "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 152678,
       "name": "Anjo",
       "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "N\u00c3O VOU PARAR",
-        "url": "https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB"
-      },
-      "artists": [
-        {
-          "name": "MARINA NA VOZ",
-          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 145237,
-      "name": "N\u00c3O VOU PARAR",
-      "url": "https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
         "name": "Desse Meu Mel",
         "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 282352,
       "name": "sexta de manh\u00e3",
       "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
+        "name": "N\u00c3O VOU PARAR",
+        "url": "https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 145237,
+      "name": "N\u00c3O VOU PARAR",
+      "url": "https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
+        "name": "Sai do Meu Radar",
+        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
+      },
+      "artists": [
+        {
+          "name": "KAMACHO",
+          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 145078,
+      "name": "Sai do Meu Radar",
+      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
         "name": "Afrodite",
         "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 201264,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
-        "name": "Sai do Meu Radar",
-        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
-      },
-      "artists": [
-        {
-          "name": "KAMACHO",
-          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 145078,
-      "name": "Sai do Meu Radar",
-      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
     },
     {
       "added_at": "2026-08-07 03:01:14",

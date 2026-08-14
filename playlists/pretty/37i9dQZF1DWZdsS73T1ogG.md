@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: FANTA ROSARIO, Jon Z, Hades66, Ñengo Flow, Luar La L
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,066 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,364 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Polaroid](https://open.spotify.com/track/0JvBiJKZuJRl3wKDwGxJBV) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Polaroid](https://open.spotify.com/album/6nRkR4C2MCnIGpagBypyIU) | 2:57 |
 | 100 | [66 am](https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG) | [Miranda León](https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14), [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [66 am](https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX) | 4:00 |
 
-Snapshot ID: `AAAAAI098hMxgqN6lOlgd7Vd2IxPASrH`
+Snapshot ID: `AAAAAP7jJuGFFu9HX8kv4V/rixSE01yO`

@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 
 ### [ฉันดูเอ็มวีไทย](https://open.spotify.com/playlist/37i9dQZF1DXdfI4CvtktqF)
 
-> ฟังและดูเอ็มวีเพลงไทยฮิตที่นี่เลย ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน:  JOEY PHUWASIT
+> ฟังและดูเอ็มวีเพลงไทยฮิตที่นี่เลย ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน:  BOWKYLION
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,080 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,085 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
+| 1 | [นาฬิกาทราย \(sign\)](https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [นาฬิกาทราย \(sign\)](https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW) | 4:15 |
 | 2 | [ขึ้นใจ \(3am call\)](https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ขึ้นใจ \(3am call\)](https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy) | 4:21 |
-| 3 | [Yours Ever \(feat\. Q Flure\)](https://open.spotify.com/track/5W2IYA5Su42XiI90GDdscj) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:19 |
-| 4 | [รักไม่ไหวแล้วโว้ย](https://open.spotify.com/track/0yCXxEPf1wiPn8ZgP96gbR) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [รักไม่ไหวแล้วโว้ย](https://open.spotify.com/album/2KDfXhJNr2E5V1ckYFLS3G) | 3:23 |
-| 5 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
-| 6 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 |
-| 7 | [นาฬิกาทราย \(sign\)](https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [นาฬิกาทราย \(sign\)](https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW) | 4:15 |
+| 3 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
+| 4 | [Yours Ever \(feat\. Q Flure\)](https://open.spotify.com/track/5W2IYA5Su42XiI90GDdscj) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:19 |
+| 5 | [รักไม่ไหวแล้วโว้ย](https://open.spotify.com/track/0yCXxEPf1wiPn8ZgP96gbR) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [รักไม่ไหวแล้วโว้ย](https://open.spotify.com/album/2KDfXhJNr2E5V1ckYFLS3G) | 3:23 |
+| 6 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
+| 7 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 |
 | 8 | [เหตุผลของคำว่ารัก](https://open.spotify.com/track/1fdZwRR7WFgIWsUis4OKNi) | [Wan Thanakrit](https://open.spotify.com/artist/4IYocudwewhFDpAErwolWM), [MARCKRIS OF BUS](https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM) | [เหตุผลของคำว่ารัก](https://open.spotify.com/album/5GV7Z9IvIaP0iBO7aCDQbU) | 3:12 |
 | 9 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
 | 10 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 | 49 | [ลั่นทม \- From "หอมกลิ่นความรัก"](https://open.spotify.com/track/4zkXkoNOJh4N1FJHJENegu) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:32 |
 | 50 | [Goodbye](https://open.spotify.com/track/01rXepgii5VjwHUaajNMmm) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 4:04 |
 
-Snapshot ID: `AAAAAOib3DW09K77ut0kV5b6ur664Lcz`
+Snapshot ID: `AAAAAHr3UGI4TeR1FAHyGWAoMVF/ZgOV`

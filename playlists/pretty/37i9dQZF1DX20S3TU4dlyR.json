@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 76261,
+  "num_followers": 76279,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPf3Wof+Hg4U0TxFw3wxePS2z5pJ",
+  "snapshot_id": "AAAAAKc7CXfD1Fgs/bMyjoHTxMoCiPjX",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:11",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "Cachacoleto",
-        "url": "https://open.spotify.com/album/0OloiZOXxNtn1m8Psr5cum"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 189485,
-      "name": "Vamos Tu y Yo",
-      "url": "https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
         "name": "Llamado",
         "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
@@ -763,6 +743,26 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
+        "name": "Cachacoleto",
+        "url": "https://open.spotify.com/album/0OloiZOXxNtn1m8Psr5cum"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 189485,
+      "name": "Vamos Tu y Yo",
+      "url": "https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 259283,
       "name": "Quemando Tu Pecho",
       "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -811,6 +795,22 @@
       "duration_ms": 210000,
       "name": "Mundo de Cristal",
       "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -999,22 +999,18 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "La Vida Es Una Canci\u00f3n II",
-        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        },
-        {
-          "name": "Camale\u00f3n Land\u00e1ez",
-          "url": "https://open.spotify.com/artist/6luDf7ZddPhDV5TBMVzJNF"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
         }
       ],
-      "duration_ms": 364093,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/1ykf7TrdvlwgitSzzisVE1"
+      "duration_ms": 265216,
+      "name": "Este Mundo",
+      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1035,18 +1031,22 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
+        "name": "La Vida Es Una Canci\u00f3n II",
+        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        },
+        {
+          "name": "Camale\u00f3n Land\u00e1ez",
+          "url": "https://open.spotify.com/artist/6luDf7ZddPhDV5TBMVzJNF"
         }
       ],
-      "duration_ms": 265216,
-      "name": "Este Mundo",
-      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
+      "duration_ms": 364093,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/1ykf7TrdvlwgitSzzisVE1"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 250493,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
+      "duration_ms": 325124,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 325124,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
+      "duration_ms": 250493,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "Humo",
-        "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Buena Suerte",
-      "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 222421,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
     },
     {
       "added_at": "2026-07-31 03:00:11",

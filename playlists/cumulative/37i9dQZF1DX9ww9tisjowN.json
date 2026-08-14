@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: King Gnu",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Ado",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 198250,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/0V8jyTvxnzeM4eL6uYaRmh"
@@ -2286,6 +2286,24 @@
       "duration_ms": 283204,
       "name": "Day After Day feat. Mei Takahashi",
       "url": "https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30e9\u30ea\u30e6\u30ec\u30eb / DAYS!",
+        "url": "https://open.spotify.com/album/0g74c4L2btWbochcpLcy8k"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "DAYS! (NOMELON NOLEMON ver.)",
+      "url": "https://open.spotify.com/track/2WGSfWKHfom5dRiHgMEI21"
     },
     {
       "album": {
@@ -3042,7 +3060,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 158627,
       "name": "Even a poke bowl (feat. KASANE TETO)",
       "url": "https://open.spotify.com/track/4VARGOOU2DwLEP5oQ4aELd"
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 202258,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/6igN41vikzKAZJHcveb1yX"
@@ -4576,6 +4594,24 @@
       "duration_ms": 204000,
       "name": "Hey phone",
       "url": "https://open.spotify.com/track/11S58dYnSjkWPD6jLaBRv7"
+    },
+    {
+      "album": {
+        "name": "High Low",
+        "url": "https://open.spotify.com/album/1r9WZOotWvIBwShZHeUveb"
+      },
+      "artists": [
+        {
+          "name": "yuri",
+          "url": "https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127999,
+      "name": "High Low",
+      "url": "https://open.spotify.com/track/2WQ5Y7NfIkZdSXFP6wXS3p"
     },
     {
       "album": {
@@ -6319,6 +6355,24 @@
     },
     {
       "album": {
+        "name": "Iwaou",
+        "url": "https://open.spotify.com/album/3IAu2faS3zOlSoYxD3c7xq"
+      },
+      "artists": [
+        {
+          "name": "MASS OF THE FERMENTING DREGS",
+          "url": "https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169332,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/5vhxzbVMOzJ9zNX8HLhHZg"
+    },
+    {
+      "album": {
         "name": "89.7 Growl FM",
         "url": "https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy"
       },
@@ -7319,6 +7373,36 @@
     },
     {
       "album": {
+        "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
+        "url": "https://open.spotify.com/album/5yD1foXGvYr9j2oACkXUzt"
+      },
+      "artists": [
+        {
+          "name": "BEYOND BORDERs",
+          "url": "https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "\u3055\u305f\u3071\u3093P",
+          "url": "https://open.spotify.com/artist/7E811BDUJT2UvrpdNsF8tl"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130770,
+      "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
+      "url": "https://open.spotify.com/track/5nODPwKJIZ9gY8aBKN43zW"
+    },
+    {
+      "album": {
         "name": "mild days",
         "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
       },
@@ -7726,6 +7810,24 @@
       "duration_ms": 163750,
       "name": "mosi mosi?",
       "url": "https://open.spotify.com/track/76oCvJj6LRoed2754GybpH"
+    },
+    {
+      "album": {
+        "name": "mountain",
+        "url": "https://open.spotify.com/album/7BHTkOKCrAxpQociodbtHn"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "mountain",
+      "url": "https://open.spotify.com/track/5VeJrJYiHdwuwQgBlVf1GR"
     },
     {
       "album": {
@@ -8836,6 +8938,28 @@
       "duration_ms": 196120,
       "name": "PING PONG! (feat. YMCK)",
       "url": "https://open.spotify.com/track/3J7aROvcIXinMbZd2LzL3B"
+    },
+    {
+      "album": {
+        "name": "outernet \u958b\u304f",
+        "url": "https://open.spotify.com/album/7LRnYt4Cc4SeXoTNCn62vg"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        },
+        {
+          "name": "Jeter",
+          "url": "https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172615,
+      "name": "pink flamingo",
+      "url": "https://open.spotify.com/track/13RAle8tNej3u5Y4pSHB9c"
     },
     {
       "album": {
@@ -12370,7 +12494,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 112992,
       "name": "where 2\u4eba",
       "url": "https://open.spotify.com/track/6eRzqPeVhhHcg6VU4Kstxh"
@@ -17366,7 +17490,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 195666,
       "name": "\u30e1\u30b7\u30a2",
       "url": "https://open.spotify.com/track/3tB9Jgk7T2UO5EIqOp7GNM"
@@ -21004,7 +21128,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 230000,
       "name": "\u732b\u65e5",
       "url": "https://open.spotify.com/track/0xqOOO6CG11e3Wu20cElk7"

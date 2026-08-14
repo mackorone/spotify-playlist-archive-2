@@ -5507,6 +5507,28 @@
     },
     {
       "album": {
+        "name": "Mahat Mabangi",
+        "url": "https://open.spotify.com/album/32dpE6NcdRPPiB5CMYQ1fT"
+      },
+      "artists": [
+        {
+          "name": "BoiBlacc",
+          "url": "https://open.spotify.com/artist/4tXuaGk0P2Z0K0urKXI7vy"
+        },
+        {
+          "name": "Clark Keeng",
+          "url": "https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mahat Mabangi",
+      "url": "https://open.spotify.com/track/3oB7spF5N7fr9IYIzfXCaR"
+    },
+    {
+      "album": {
         "name": "Maji",
         "url": "https://open.spotify.com/album/50nUa53cliPcc7cejZHgpl"
       },
@@ -8137,6 +8159,28 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/1GrGMtG9XNITheW03XP1Dx"
+      },
+      "artists": [
+        {
+          "name": "Coll!eCln",
+          "url": "https://open.spotify.com/artist/0JGD2nzBmhobxEaKuMt1iN"
+        },
+        {
+          "name": "Asum Garvey",
+          "url": "https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/535IHTEahfhIDLpuue1iKs"
+    },
+    {
+      "album": {
         "name": "Shrappin' Rage",
         "url": "https://open.spotify.com/album/4ChS3ntxn25hcVpyDm9K1c"
       },
@@ -8444,7 +8488,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 184000,
       "name": "shine",
       "url": "https://open.spotify.com/track/5lTE8JpRrzwbTQaKQ5zYkE"
@@ -9810,7 +9854,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 136000,
       "name": "The Mission(WYFL Riddim)",
       "url": "https://open.spotify.com/track/4dMcXQiha2cDuq7kZbwpvN"

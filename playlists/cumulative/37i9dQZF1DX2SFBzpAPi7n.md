@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: O.O.O \(오오오\) \) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Shin In Ryu\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,217 songs - 3 day 1 hr 58 min
+1,218 songs - 3 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Don't Say No \(Feat\. Jay Park\)](https://open.spotify.com/track/2AmFJKuVIdW7fayLvZQ3aR) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Don't Say No](https://open.spotify.com/album/1vm6PTRu1D8zhWh3gSStGw) | 3:40 | 2022-04-22 | 2022-07-29 |
 | [Don't Tell My Papa](https://open.spotify.com/track/25xBTsB2GbF5ce1YgX9I1T) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Don't Tell My Papa](https://open.spotify.com/album/2Mxm0aqGb4dFaEf6kj8kFP) | 3:32 | 2024-08-07 | 2024-08-13 |
 | [Done](https://open.spotify.com/track/7hYGoDBt55TYYRBiyd3eJO) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [30.5](https://open.spotify.com/album/1I9I7pFaFwo0x9efpZi12e) | 4:59 | 2024-11-29 | 2025-01-31 |
-| [Don’t Say Goodbye](https://open.spotify.com/track/1Uz2O2C9cnCKaqpnV7u55o) | [JUNE](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [Don’t Say Goodbye](https://open.spotify.com/album/7HAQV68v9V9RT1XIlu5XIp) | 2:57 | 2026-08-07 |  |
+| [Don’t Say Goodbye](https://open.spotify.com/track/1Uz2O2C9cnCKaqpnV7u55o) | [JUNE](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [Don’t Say Goodbye](https://open.spotify.com/album/7HAQV68v9V9RT1XIlu5XIp) | 2:57 | 2026-08-07 | 2026-08-14 |
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-19 |  |
 | [DRACULAGIRL](https://open.spotify.com/track/7GbVHPxzSf6exEgkuOaHan) | [Wussami](https://open.spotify.com/artist/5Pvtm8orj8G3ZpQQ3My3mi) | [DRACULAGIRL](https://open.spotify.com/album/4TS8IjpBrSsmDMIoBjOyWC) | 3:39 | 2024-05-28 | 2024-06-06 |
 | [Drawing an apple](https://open.spotify.com/track/1TeaYVGDM2Jhl1WKl1vzmz) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Drawing an apple](https://open.spotify.com/album/3DDxQVZGc2DwqqOIJbUTp6) | 2:54 | 2026-02-20 | 2026-03-10 |
@@ -449,7 +449,7 @@
 | [HOW i WiSH!](https://open.spotify.com/track/2BuqLW1JazhHDiJ7FmmVeK) | [WhiteUsedSocks](https://open.spotify.com/artist/6DOPRiywZshVyewhu0XTbY) | [HOW i WiSH!](https://open.spotify.com/album/0OKjkBRNuAfKWndRtR7oDL) | 3:45 | 2025-06-26 | 2025-06-30 |
 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-01-26 | 2023-02-04 |
 | [How Time Flies \(feat\. BIGONE & Dive\)](https://open.spotify.com/track/033StetXuelKeMeQ7JWEgI) | [DOHANSE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX), [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd) | [How Time Flies \(feat\. BIGONE & Dive\)](https://open.spotify.com/album/6hVKC1sx3OZ8GIi4g2ernc) | 2:57 | 2024-03-21 | 2024-05-10 |
-| [Human Extinction](https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Archive\. 1](https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs) | 3:26 | 2026-03-04 | 2026-06-27 |
+| [Human Extinction](https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Archive\. 1](https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs) | 3:26 | 2026-03-04 |  |
 | [Human mechanism](https://open.spotify.com/track/1SIkPJSLem5qV4LGoIZglu) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Human mechanism](https://open.spotify.com/album/1WiMNrd1LtVF9OY1HRJEYe) | 3:42 | 2024-11-21 | 2025-01-31 |
 | [Human mechanism](https://open.spotify.com/track/6hfaaIr9uFny885jQBve8s) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Earth](https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr) | 3:42 | 2024-12-18 | 2025-02-19 |
 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-11-06 | 2024-11-22 |
@@ -686,6 +686,7 @@
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-08-01 | 2022-08-13 |
 | [New World](https://open.spotify.com/track/04fxCWCGiHuz4qgABacWlI) | [Cho seong min](https://open.spotify.com/artist/2IdF9YcOnVdN9pMxaIvyM6), [Kim bada](https://open.spotify.com/artist/3yWAjA0zH4BXTK3v0TjBWH) | [Friends Vol.9](https://open.spotify.com/album/4ZB72JIjAXgnYuld5CdZPn) | 3:16 | 2022-05-11 | 2022-05-25 |
 | [Next episode \(with Choi Jung Hoon of JANNABI\)](https://open.spotify.com/track/4h4Ibc1LSJmpLpVm0PBaPV) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:12 | 2022-05-03 | 2022-07-24 |
+| [Nice Day](https://open.spotify.com/track/46DQRMHHHFVcKnEQSWZwVC) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [1126611](https://open.spotify.com/album/4MLYr9Qdrs7dkMkDDkeKgN) | 2:57 | 2026-08-13 |  |
 | [Night at Noon](https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Le Alien Petit Prince : WE ARE THE NIGHT](https://open.spotify.com/album/1wbFdHCvkYjyVT5Z6Zyj3F) | 3:29 | 2025-04-28 | 2025-05-17 |
 | [Night before the end](https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:25 | 2024-10-16 | 2024-12-14 |
 | [Night overtime](https://open.spotify.com/track/7qjcLLTsztqrHnArCqJeO1) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Night overtime](https://open.spotify.com/album/4RPdJpWelwy3Cup5IUZVCW) | 3:44 | 2023-06-13 | 2023-06-20 |
@@ -909,7 +910,7 @@
 | [sleep walking](https://open.spotify.com/track/03WwZjnTBrw9Vohm16So6Q) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [sleep walking](https://open.spotify.com/album/05YBRBySSq1YJfBhc1Lk4M) | 3:47 | 2023-01-16 | 2023-01-27 |
 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 | 2022-04-22 | 2022-07-24 |
 | [SLOW \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/6sjceL2bHRC67mZB1p7h2n) | [Big Ocean](https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [SLOW](https://open.spotify.com/album/4gWygxgd6ECSQvnFyu0sAX) | 3:00 | 2024-08-10 | 2024-09-03 |
-| [Slow, Blurry Dance](https://open.spotify.com/track/5zgm1WBwGJwIOJM2nR3RHT) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [Slow, Blurry Dance](https://open.spotify.com/album/3gY7ETQIkhpPVYLjXnmUTF) | 3:29 | 2026-08-07 |  |
+| [Slow, Blurry Dance](https://open.spotify.com/track/5zgm1WBwGJwIOJM2nR3RHT) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [Slow, Blurry Dance](https://open.spotify.com/album/3gY7ETQIkhpPVYLjXnmUTF) | 3:29 | 2026-08-07 | 2026-08-14 |
 | [Small Talk](https://open.spotify.com/track/4vWN7uDeFopJGuA7Bq6y0M) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [2023 S/S Collection](https://open.spotify.com/album/14rWn1Avz7BP7r0zScLz0n) | 3:59 | 2023-06-29 | 2023-07-08 |
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-14 | 2025-04-26 |
 | [Smokenshot \(feat\. Jang il hyun\)](https://open.spotify.com/track/4M6bgUTUp2JxLdZMLtoTBr) | [SAMUK](https://open.spotify.com/artist/7oXwjmqKXdkQDs6HP2k77H), [Moonshot](https://open.spotify.com/artist/6RJHpycsLTaI6lAtDmVzQ6), [장일현](https://open.spotify.com/artist/256o8MkuNTMMFG2CwJ89Er) | [29:30](https://open.spotify.com/album/74ThytV3fLNHlu6byyAedJ) | 3:29 | 2023-02-14 | 2023-02-24 |

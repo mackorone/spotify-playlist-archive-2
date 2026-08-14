@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Rafa and Meelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,580 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,587 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [Like U](https://open.spotify.com/track/4PXTxHV6BmmPa1249aSej9) | [DRZ](https://open.spotify.com/artist/55WAGKDNjOnBYUoy5Vs3Db) | [Like U](https://open.spotify.com/album/5xx3iZ2XAjgMXNMNaj5SkT) | 3:31 |
 | 50 | [off grid](https://open.spotify.com/track/7GCinGrq47kexX0wuHyJ08) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [off grid](https://open.spotify.com/album/3v0R3blOs494f9U0ukPMiO) | 4:00 |
 
-Snapshot ID: `AAAAAILWX1A6EZHXqB7bw3qpqMSsX+Kp`
+Snapshot ID: `AAAAAFWo2jwZ/16OOEmr0YERTvhPM4/c`

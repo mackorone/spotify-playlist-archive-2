@@ -262,7 +262,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 136086,
       "name": "Abriss",
       "url": "https://open.spotify.com/track/01c8thoi5URg3iWPilFroB"
@@ -3186,6 +3186,28 @@
       "duration_ms": 155000,
       "name": "Get Up Off The Floor",
       "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
+      "album": {
+        "name": "Get Ur Freak On",
+        "url": "https://open.spotify.com/album/2kMhcYHEV94Q4iUmbhg5Mx"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        },
+        {
+          "name": "Para\u00e7ek",
+          "url": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124203,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/5YqUFD4Nx1g6bNQJLjwVaz"
     },
     {
       "album": {
@@ -8314,7 +8336,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 178581,
       "name": "Wahnsinn",
       "url": "https://open.spotify.com/track/2pD8Z7SJbz8ROkYDfNOdft"
@@ -8464,7 +8486,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"

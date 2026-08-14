@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Trigga500k
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,337 likes - 80 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,376 likes - 80 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 79 | [Already Won](https://open.spotify.com/track/3Y4rc9iQUNsleOZUrgU3Oz) | [earthsignchels](https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu) | [Already Won](https://open.spotify.com/album/0yDOsdJdUml7Wlx2VVgTU8) | 1:36 |
 | 80 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 
-Snapshot ID: `AAAAAOUixKeVD9jvdyQTuAq3OG8gCBmr`
+Snapshot ID: `AAAAAPQB0b2q9pcgHnS+b4eT20+YsbIo`

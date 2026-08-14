@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Leto au top de la première playlist de rap français.
+> La Mano 1.9 x Gazo x La Rvfleuze au top de la première playlist de rap français.
 
 467 songs - 23 hr 21 min
 
@@ -125,7 +125,7 @@
 | [Derecha \(feat\. Timar\)](https://open.spotify.com/track/4apq2Q1AsRUk8DrwCVCmu1) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [Jeune prince \(Part\. II\)](https://open.spotify.com/album/1zqtM2XR3DssG9U96oWckW) | 2:15 | 2026-02-19 | 2026-06-19 |
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-04-28 | 2023-02-03 |
 | [Dernière ligne droite \(feat\. Laylow\)](https://open.spotify.com/track/25ph3mbSI8iOkaNGPtrUwk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Autobahn](https://open.spotify.com/album/7IDykeUjRruv9YKVWt33KX) | 3:13 | 2023-06-01 | 2023-12-01 |
-| [Devin Booker](https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Devin Booker](https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt) | 2:53 | 2026-06-18 |  |
+| [Devin Booker](https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Devin Booker](https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt) | 2:53 | 2026-06-18 | 2026-08-14 |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-25 | 2023-05-19 |
 | [DIEU MERCI](https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [PANDEMONIUM](https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM) | 4:20 | 2025-04-03 | 2025-05-02 |
 | [DIS\-MOI \(feat\. SDM\)](https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:55 | 2023-11-23 | 2024-04-19 |
@@ -320,7 +320,7 @@
 | [Nostalgique](https://open.spotify.com/track/16a4aTkLQqmM82uKZTjvxt) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Nostalgique](https://open.spotify.com/album/5gInMpobDAPIsatLPUhNOx) | 3:27 | 2025-11-20 | 2026-05-22 |
 | [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 | 2023-11-30 | 2024-09-27 |
 | [NOUS\#2](https://open.spotify.com/track/6RtlWji8Xzg4beZYSTkDUU) | [K2\_sp](https://open.spotify.com/artist/0lZe1qbPTyYFXebsbkznIh) | [NOUS\#2](https://open.spotify.com/album/1Rj7VCslRWBFZah7Fhhihq) | 2:57 | 2026-01-29 | 2026-06-12 |
-| [Nowhere 2](https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Nowhere 2](https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB) | 2:59 | 2026-02-12 | 2026-05-29 |
+| [Nowhere 2](https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Nowhere 2](https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB) | 2:59 | 2026-02-12 |  |
 | [OG](https://open.spotify.com/track/3Bu67MTSsLLJNyZ8qg3itI) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [LES DENTS DU BONHEUR](https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00) | 2:44 | 2025-12-04 | 2026-06-19 |
 | [Olivia Valere](https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [En Croix](https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv) | 2:46 | 2026-07-30 |  |
 | [ON FAIT LES CHOSES](https://open.spotify.com/track/0geR06bJpVHmOU2wyVnPDl) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [ON FAIT LES CHOSES](https://open.spotify.com/album/1VozY09WFHQaiaukAI2MTh) | 3:15 | 2025-05-29 | 2025-09-12 |

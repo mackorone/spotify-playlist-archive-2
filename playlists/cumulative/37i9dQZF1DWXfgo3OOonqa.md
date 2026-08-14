@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,394 songs - 4 day 5 hr 35 min
+2,398 songs - 4 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Belly](https://open.spotify.com/track/6jZVGi3rAs41u3q6wVKoLe) | [Grillat & Grändy](https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Belly](https://open.spotify.com/album/6RoMvd5VZ4atPFqWdHWFuq) | 2:46 | 2023-04-20 | 2023-05-26 |
 | [BENZEMA](https://open.spotify.com/track/4vBPe99GPe7xmU66muo0PM) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [BENZEMA](https://open.spotify.com/album/7s5AG7Cuq4nKg1RmRkvCDh) | 2:15 | 2022-06-23 | 2022-07-08 |
 | [Berlin](https://open.spotify.com/track/1GTuxx5HrfIozxf60kwMLk) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [Berlin](https://open.spotify.com/album/2Ledv5IU1jLs3JqSCEdA20) | 2:24 | 2025-07-24 | 2025-11-14 |
+| [Best Friends](https://open.spotify.com/track/3fbp3OvNkSeKrBW12F0tCm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Best Friends](https://open.spotify.com/album/2jf5kVVZ6JIqZYvdt6vdVJ) | 2:23 | 2026-08-13 |  |
 | [Bestfriend](https://open.spotify.com/track/2uy44BohFKspxfdfFZBrDl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Bestfriend](https://open.spotify.com/album/3j8BO6g8AJmwDxv38IvpM5) | 2:00 | 2026-07-09 |  |
 | [BESVIKEN](https://open.spotify.com/track/18UZvAJzIRLEvF50BF75Ku) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [BESVIKEN](https://open.spotify.com/album/4Js13CEsNrOS03BCSfpucf) | 2:37 | 2025-07-10 | 2025-11-14 |
 | [Bete Mig](https://open.spotify.com/track/3GVadnvxZ3UJFZX3jV0bzC) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Bete Mig](https://open.spotify.com/album/6LJV0VQjlHGbgxYWNhjXUV) | 2:16 | 2025-02-13 | 2025-05-02 |
@@ -588,6 +589,7 @@
 | [DONDANANA](https://open.spotify.com/track/4Pt8vmYXX4PAAVMW1iGY2T) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [DJ Rschid](https://open.spotify.com/artist/3FumtjxQrRtMUnMtN4PLN3) | [DONDANANA](https://open.spotify.com/album/5KYT1hqGTmMI3pElxEbDpF) | 3:16 | 2021-12-16 | 2022-01-05 |
 | [Donner](https://open.spotify.com/track/1NRw64qKDSjn1ctlaAaglE) | [Microbe](https://open.spotify.com/artist/6h4GwTbvvSfrcx3jWz5scR), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Lever de rideau](https://open.spotify.com/album/3fz71BGWaU0jnKFofgGkeN) | 2:17 | 2023-10-19 | 2024-02-27 |
 | [Dont Stop](https://open.spotify.com/track/43cKERe8r48weKSswLFm6L) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Dont Stop](https://open.spotify.com/album/0TZevyx9qW3q4k6qg4IKA2) | 2:14 | 2026-01-15 | 2026-04-17 |
+| [DON’T DANCE](https://open.spotify.com/track/4cDdqJdRXpb8a35KWHP0m9) | [Skiro](https://open.spotify.com/artist/1FD47WLgw6Lsx1mqLWgsJ7) | [DON’T DANCE](https://open.spotify.com/album/0u631DV7uAOrOPvU8AI4BV) | 2:05 | 2026-08-13 |  |
 | [DOPAMIN](https://open.spotify.com/track/23zOf0Zwi7rfIiBgZsi84w) | [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [DOPAMIN](https://open.spotify.com/album/0ALPDsweGvG8lUv0T6W2Hi) | 3:13 | 2024-02-08 | 2024-06-07 |
 | [DOPAMIN](https://open.spotify.com/track/42Jv5Sboy8OnZMp5WAizL0) | [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [DOPAMIN](https://open.spotify.com/album/66hDNJgNvnM0CupqwMljz8) | 3:13 | 2024-03-07 | 2024-04-19 |
 | [Doppio Passo](https://open.spotify.com/track/5z0FnVkoJlQU1bbhbTSSfC) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Doppio Passo](https://open.spotify.com/album/5EZIPpBqS4FEhaqWKvePGX) | 3:07 | 2022-11-10 | 2023-02-10 |
@@ -1526,6 +1528,7 @@
 | [My Hood](https://open.spotify.com/track/3gMzL7A5pukEGEYB33s2Qs) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv), [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [My Hood](https://open.spotify.com/album/1A2o4sWfmwx6JG5nSYRGE6) | 2:09 | 2024-06-13 | 2024-08-16 |
 | [MY LOVE](https://open.spotify.com/track/3yCzXTflUy03JWZLJqxbRw) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [INLOGGAD 3](https://open.spotify.com/album/5lcGCMjhnL7XotV4KbjmFG) | 2:43 | 2024-09-05 | 2025-01-17 |
 | [My name is](https://open.spotify.com/track/2bnVzTxxuX26vFnoL0E316) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv), [Jay Giovann1](https://open.spotify.com/artist/6FODee3v5qIktg9hw6hGOq) | [Northside Summer](https://open.spotify.com/album/4ZtjXs3YFTaj1t0IpH8XGy) | 2:14 | 2026-06-25 |  |
+| [My Type](https://open.spotify.com/track/1Eh6reKsmK5P9uZp4uzP61) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [My Type](https://open.spotify.com/album/1B0wfLXjm4W9Ksv8dNMcyA) | 2:07 | 2026-08-13 |  |
 | [Mykonos](https://open.spotify.com/track/3tOIoeAozZGvOzaNuUAhcb) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Mykonos](https://open.spotify.com/album/7spJJMCDd8kCoIqPiO0Soe) | 2:42 | 2025-04-10 | 2025-06-20 |
 | [Må Jag Leva](https://open.spotify.com/track/0r4KJZFypMdWNJ06eFX0fb) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [DUBBELDROPP III](https://open.spotify.com/album/371jKJwNKDaVJGpMNl8L6j) | 2:48 | 2025-12-18 | 2026-02-27 |
 | [Må såhär](https://open.spotify.com/track/5fWjO67nSoZZ1GadZfYOQl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Må såhär](https://open.spotify.com/album/730nvnsHUsv78YX7DXyL1u) | 2:21 | 2024-10-03 | 2025-02-21 |
@@ -1793,6 +1796,7 @@
 | [Rop på hjälp](https://open.spotify.com/track/5NmrDCepEwpxQbiOCCYLru) | [Roffe Ruff](https://open.spotify.com/artist/6FkSZBvBZ74ADdf5aWrT1O), [Hofmästarn](https://open.spotify.com/artist/5TgOBj4v5RI1Guk1F0bfGA) | [Panterparken 2](https://open.spotify.com/album/6lmTBJ0qtEp9mvaLwdlxlG) | 3:23 | 2023-08-03 | 2023-09-08 |
 | [ROSA MOLN](https://open.spotify.com/track/6ieSkDC5VFawcSJmYflJzA) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [ROSA MOLN](https://open.spotify.com/album/1grMSfRmWmCFsZdBvtCv4i) | 2:47 | 2023-05-18 | 2023-08-04 |
 | [RTAS](https://open.spotify.com/track/0Mao2we09TRrQshpxDYAXp) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RTAS](https://open.spotify.com/album/70RnlMDQE7FBMx29ZFtNqW) | 2:11 | 2023-07-06 | 2023-09-29 |
+| [Rubriken](https://open.spotify.com/track/3JezcZSSjRAJ02saafvzxc) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Rubriken](https://open.spotify.com/album/6iT88YLxsLt3bj3O9lNYi3) | 2:12 | 2026-08-13 |  |
 | [Run It Up](https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Run It Up](https://open.spotify.com/album/4SyiWqVrp8NbHkTJoTmIx1) | 2:03 | 2025-10-17 | 2026-02-13 |
 | [Runt Bordet](https://open.spotify.com/track/5D1vMZ02SPGYU3212jmBBq) | [Lucaz](https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ), [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Runt Bordet](https://open.spotify.com/album/53Rb4cJmKhu4Olebai8TIO) | 2:16 | 2023-05-25 | 2023-07-07 |
 | [Rush B](https://open.spotify.com/track/3StabSGNHakgNDpUewAu1W) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Rush B](https://open.spotify.com/album/3d1AiQVDQdwSKUoRApdb6K) | 2:24 | 2024-09-26 | 2025-02-21 |

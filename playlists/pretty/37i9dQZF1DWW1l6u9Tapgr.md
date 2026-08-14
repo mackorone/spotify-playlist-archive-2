@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 
 > SUMMER SONIC 2026 TOKYOにてSpotify Stageが登場！出演アーティストをプレイリストでチェック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,952 likes - 54 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,965 likes - 54 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 | 53 | [言った!! \- Remix](https://open.spotify.com/track/4dCFBIiSAlNuvmrnfG2sh3) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [言った!! \(Remix\)](https://open.spotify.com/album/0Wqqc41PW0CFX9ztQ0eOGk) | 2:34 |
 | 54 | [タンデム](https://open.spotify.com/track/0bSBf3zT4yi1ovg4mkakvG) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:50 |
 
-Snapshot ID: `AAAAAMSe63jgGorgvsAXwhwcNC6TlphD`
+Snapshot ID: `AAAAAJleJRYvI8V9rO7zZ+YI5Qr9zGAv`

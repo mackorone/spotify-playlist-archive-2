@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : BLOWSOM
+> La scène française branchée sur courant alternatif\. Photo : a6el
 
-550 songs - 1 day 4 hr 26 min
+553 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [BBY ME LAISSE PAS](https://open.spotify.com/track/7FU5RRBBEscaezfEwf6LvS) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [BBY ME LAISSE PAS](https://open.spotify.com/album/5UyOLn3z4cFOzrM1lXL7r6) | 2:43 | 2026-06-25 |  |
 | [Between Love And Hate](https://open.spotify.com/track/4DbRJhWeAgFlYG7O9UHAJU) | [Entropie](https://open.spotify.com/artist/5zz3hrenMZn0uIE7aHQarB) | [DID](https://open.spotify.com/album/3LlwbCNSb0SgSVksGXgnwd) | 4:03 | 2024-11-21 | 2025-04-11 |
 | [BIEN MÉRITÉ](https://open.spotify.com/track/2kOvLoHKLoZxRbIMzt6AYa) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [BIEN MÉRITÉ](https://open.spotify.com/album/3Ba5qLJD8gEw6l2tmkJY5h) | 2:43 | 2025-01-23 | 2025-04-25 |
+| [BILLETS D'AVION](https://open.spotify.com/track/1PF5428S4WNE4XFjT9Sd8A) | [MILO](https://open.spotify.com/artist/58h0R8NrIJfqNCCZ7nBITD), [NADIR](https://open.spotify.com/artist/403qtnXhKUmoCaMMiYRqKX) | [BILLETS D'AVION](https://open.spotify.com/album/6Ja69xbLAG5TevwKDCsdKw) | 3:14 | 2026-08-13 |  |
 | [Birthday Party](https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Birthday Party](https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82) | 3:30 | 2023-11-30 | 2024-02-09 |
 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BITCH YOU COULD NEVER](https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0) | 2:28 | 2024-05-09 | 2024-10-04 |
 | [BLACKLIST](https://open.spotify.com/track/5DtUbvhnCMURX7UZZmrcX0) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [BLACKLIST](https://open.spotify.com/album/09ipFW8fgvdWVRc2i2Seg0) | 3:25 | 2026-05-28 | 2026-06-26 |
@@ -103,6 +104,7 @@
 | [COLLÉ SERRÉ](https://open.spotify.com/track/0Oeym4SSUPJqNAH9sLUdvy) | [BRIQUE ARGENT](https://open.spotify.com/artist/6oEiRjlcIxYaZvnjlMiYLw) | [COLLÉ SERRÉ](https://open.spotify.com/album/1qRHnXgeDKChBP6iu16FQF) | 3:07 | 2023-09-28 | 2023-11-17 |
 | [Comme des amoureux](https://open.spotify.com/track/5BKwGKUmot2rwiuMPt5qMW) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Comme des amoureux](https://open.spotify.com/album/01Nqb5B3xrGlcjQCScOCgG) | 3:02 | 2026-06-11 |  |
 | [Comme des hyènes](https://open.spotify.com/track/3DVvnkok2V9fHs7IJr5glQ) | [Belfour](https://open.spotify.com/artist/0Dqz4WMcjzUzvkLOauuMqN) | [Comme des hyènes](https://open.spotify.com/album/7gyRUNtOcs0LnDlVZRI96P) | 3:23 | 2026-02-26 | 2026-06-05 |
+| [Comme des rats](https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Vitrine](https://open.spotify.com/album/7oBVdq9PC6arh2qpLuYleb) | 2:21 | 2026-08-13 |  |
 | [Comme tout le monde](https://open.spotify.com/track/0ZsHm5JJImpADvArNIqvff) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Comme tout le monde](https://open.spotify.com/album/5NKUHRNWaQhzNvNIL7s3YS) | 2:39 | 2024-05-02 | 2025-01-24 |
 | [Comme Un Animal](https://open.spotify.com/track/0rQ4QMF4nQ7j2lRMmiAyXL) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Comme Un Animal](https://open.spotify.com/album/517FTIAufDAkVeTyoFeQRd) | 3:05 | 2024-04-18 | 2024-10-18 |
 | [Comme un idiot](https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Comme un idiot](https://open.spotify.com/album/2e5EbSgc1Fy800rbR1SnGm) | 3:37 | 2023-09-28 | 2024-04-12 |
@@ -114,6 +116,7 @@
 | [COPINES?](https://open.spotify.com/track/6USaIObsBoczO9pEFj2rO5) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [COPINES?](https://open.spotify.com/album/0FvG0TMwM7ANCg5FRCkoFy) | 2:23 | 2026-01-08 | 2026-04-03 |
 | [coucou les potes](https://open.spotify.com/track/1R8EXTuGZPIJehG5kDR1rC) | [Dab Rozer](https://open.spotify.com/artist/33Mlo4xMrJsseOIv75xdfl), [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [coucou les potes](https://open.spotify.com/album/2ZD9Dj7uISqHQyBgXWiiLW) | 2:30 | 2026-03-19 | 2026-06-12 |
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-09-28 | 2023-11-17 |
+| [Coup de tête](https://open.spotify.com/track/5LzPzjb3O0dxim7GebwZyx) | [Luv0](https://open.spotify.com/artist/3oAWnKJlbMqdlZYo5cTNjJ) | [Coup de tête](https://open.spotify.com/album/4psXOwsMMKgHN0qezkcmNO) | 2:22 | 2026-08-13 |  |
 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 | 2025-04-24 | 2025-10-11 |
 | [Cours dans la forêt](https://open.spotify.com/track/1cAeZkMEGQz8xU5PPecMUx) | [No Sex Last Night](https://open.spotify.com/artist/4OwWT91x4jWdIGWqKnUH6z) | [Cours dans la forêt](https://open.spotify.com/album/7HKEwSTgjQyccEX7T2j42e) | 3:20 | 2024-10-24 | 2025-03-21 |
 | [Cramé](https://open.spotify.com/track/6eIdxemCVuPhGNemzooQxK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Chahu](https://open.spotify.com/artist/0tCiiQ7rCWK6IRfO6mWUoy) | [Cramé](https://open.spotify.com/album/6bOJkZkJYHaXHecRgyuv1B) | 3:00 | 2025-02-13 | 2025-06-13 |
@@ -312,7 +315,7 @@
 | [Lunettes du style](https://open.spotify.com/track/22kQGWbD8Pq8tdG1PzorJQ) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [Lunettes du style](https://open.spotify.com/album/3UTwX4b6mg3wRf5qBl5wPN) | 3:35 | 2023-09-28 | 2023-11-24 |
 | [Lunettes noires](https://open.spotify.com/track/50QzsGkmFa8HlC16BRCiqe) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [Lunettes noires](https://open.spotify.com/album/3VmWWOtrsNGFAiegI2Oewu) | 2:57 | 2025-02-06 | 2025-06-06 |
 | [LUX](https://open.spotify.com/track/5dfT5UGtX9EoksFWuUTr7k) | [Liv Oddman](https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg) | [SAHA](https://open.spotify.com/album/2BKeidyYKdVtO4Le8o7Uc7) | 3:49 | 2024-06-13 | 2025-01-31 |
-| [Léopard](https://open.spotify.com/track/4sIdhUvB6ElG2OcPoqSmFa) | [Louise XIV](https://open.spotify.com/artist/0JScgHZQDr0hurXOyUrK6V) | [Léopard](https://open.spotify.com/album/6qITI8ylTPWwQezC2goMvh) | 3:02 | 2026-06-04 |  |
+| [Léopard](https://open.spotify.com/track/4sIdhUvB6ElG2OcPoqSmFa) | [Louise XIV](https://open.spotify.com/artist/0JScgHZQDr0hurXOyUrK6V) | [Léopard](https://open.spotify.com/album/6qITI8ylTPWwQezC2goMvh) | 3:02 | 2026-06-04 | 2026-08-14 |
 | [MA CLAQUE](https://open.spotify.com/track/3xqk6PwiujpbLeblkD02hb) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [MA CLAQUE](https://open.spotify.com/album/0CI5Sv3BtwmyDrUeL07qgf) | 1:52 | 2026-03-12 | 2026-05-08 |
 | [Ma new bb m'attend](https://open.spotify.com/track/0mlNdXS3V7MHctPCW7ZnM0) | [Lakna](https://open.spotify.com/artist/4KPdER6eNWruPkJ8ps4f6c) | [Ma new bb m'attend](https://open.spotify.com/album/2h42JSDjJIAT28kCKoaA5l) | 2:07 | 2026-06-25 | 2026-07-24 |
 | [Ma routine sur Vivastreet](https://open.spotify.com/track/6NGKyrt8m0cnhVY3EGGuCY) | [Stanislas](https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1) | [Ma routine sur Vivastreet](https://open.spotify.com/album/63iXUyOAAGlvf2r59NzxUI) | 2:55 | 2026-07-16 |  |
@@ -446,7 +449,7 @@
 | [RÊVES](https://open.spotify.com/track/0cvQgykWnezK58jPRB8kBe) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [RÊVES](https://open.spotify.com/album/1uBZ6ZYFcFFP26QuX06Bmu) | 2:08 | 2025-05-22 | 2025-10-17 |
 | [Rôles](https://open.spotify.com/track/2RihAENLznkliKDPEWV5qJ) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Rôles](https://open.spotify.com/album/3Obub0X33yuxKfEVvSAjXi) | 2:44 | 2023-11-23 | 2024-04-26 |
 | [Sa musique préférée](https://open.spotify.com/track/3MOjw2NvdXvNkgCkcLdLvf) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Sa musique préférée](https://open.spotify.com/album/3zs8IOYRdbsP4O1wWS2Ivf) | 2:31 | 2026-04-23 | 2026-06-05 |
-| [Saint Laurent](https://open.spotify.com/track/6eM39F9Uv0Ss7LUWZYJoA0) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Saint Laurent](https://open.spotify.com/album/36WU86fpaWvRhJSwXyOMSl) | 2:31 | 2026-06-04 |  |
+| [Saint Laurent](https://open.spotify.com/track/6eM39F9Uv0Ss7LUWZYJoA0) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Saint Laurent](https://open.spotify.com/album/36WU86fpaWvRhJSwXyOMSl) | 2:31 | 2026-06-04 | 2026-08-14 |
 | [Sans Cesse](https://open.spotify.com/track/2DLzUlHC6TY0JIri9c3Nd0) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Sans Cesse](https://open.spotify.com/album/5k9uPMU5VmYPDP3Zh5Iu1e) | 2:47 | 2023-09-28 | 2023-10-13 |
 | [SANS MOI](https://open.spotify.com/track/15Bl9bwkJvgUnz1yqHfxfh) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [SANS MOI](https://open.spotify.com/album/5hkrqI7xXyTepwcJjh1cL3) | 2:22 | 2024-05-02 | 2024-07-05 |
 | [Sans toi](https://open.spotify.com/track/1FNZ9bDeAOBDjgtAwoR2Nr) | [Ravage Club](https://open.spotify.com/artist/74RDJyFxXw9okuAnO6zXWm) | [Sans toi](https://open.spotify.com/album/71mDIX5mOHi5xoeJPvX255) | 2:46 | 2023-11-16 | 2024-03-01 |
@@ -494,7 +497,7 @@
 | [TAKING MY DISTANCE](https://open.spotify.com/track/4OSnWq7hDostU8EhYlkyVL) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [TAKING MY DISTANCE](https://open.spotify.com/album/11o2nfD30PapyYXd00imh8) | 2:54 | 2024-10-03 | 2024-11-08 |
 | [Tango Montrouge](https://open.spotify.com/track/4ALUui623wOZZhsJ1h3M2V) | [Olkan & La Vipère Rouge](https://open.spotify.com/artist/7HhOFqVLUdzGOuLgazZhAC) | [Tango Montrouge](https://open.spotify.com/album/5AXn24BfwO7rlfQlLnPjKc) | 3:11 | 2025-11-20 | 2026-02-20 |
 | [Tant que t'es là](https://open.spotify.com/track/2NWzZYh8EGZGpbLhZve0wc) | [Stanislas](https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1) | [Tant que t'es là](https://open.spotify.com/album/4wWfqcZVnJQU3GOfm2Iu2U) | 3:06 | 2026-05-28 | 2026-06-26 |
-| [Te faire du bien](https://open.spotify.com/track/1mfJZL86cyw9jvI8LgoO9Z) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Te faire du bien](https://open.spotify.com/album/7tpemkZD9vVWCZEZtg79sM) | 3:37 | 2026-06-18 |  |
+| [Te faire du bien](https://open.spotify.com/track/1mfJZL86cyw9jvI8LgoO9Z) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Te faire du bien](https://open.spotify.com/album/7tpemkZD9vVWCZEZtg79sM) | 3:37 | 2026-06-18 | 2026-08-14 |
 | [Techno boom boom](https://open.spotify.com/track/2wANJq48Tuxs3KUn4Qe7Pg) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Techno boom boom](https://open.spotify.com/album/1vEKjUDnxmdOGRVtmHthP4) | 2:57 | 2025-12-04 | 2026-03-06 |
 | [tellement que jmen fiche :\)](https://open.spotify.com/track/2pz7x6wZwlDgDe38zDf0pG) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [tellement que jmen fiche :\)](https://open.spotify.com/album/4OSewRcz07w6ToOAT6pXiu) | 2:27 | 2024-09-17 | 2024-11-22 |
 | [Tempelhof](https://open.spotify.com/track/3Rc2TbS9dGOFpjaJPbhxlc) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Tempelhof](https://open.spotify.com/album/1Z38hWEC9zgrud0SsKFTtX) | 3:19 | 2025-05-22 | 2025-09-06 |

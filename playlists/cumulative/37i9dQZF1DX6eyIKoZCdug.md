@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-293 songs - 1 day 2 hr 12 min
+294 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 | 2024-03-07 | 2024-07-19 |
 | [Raptor](https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [Raptor](https://open.spotify.com/album/023fZD6uYgvFdGOqG2HTli) | 3:17 | 2022-02-17 | 2023-02-10 |
 | [Ratata](https://open.spotify.com/track/2lMTb7VeVVkQrhIz8uS8dP) | [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l), [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [FKA Moses](https://open.spotify.com/artist/5bb2nnYAjXPhXXGjv0uHK3), [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD) | [Ratata](https://open.spotify.com/album/4lmS4HsuJ9TgUa7AMLaDV0) | 5:50 | 2024-04-25 | 2024-07-19 |
+| [Re\-Amathambo \- Remix](https://open.spotify.com/track/2AyLWsRNFbkjq4wAqPqyrX) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c), [Anna Widauer](https://open.spotify.com/artist/0a6EIFJe4gQqo49dHs0oGQ) | [Re\-Amathambo \(Remix\)](https://open.spotify.com/album/0RjOSD0wNNrcwZYEbiPJDW) | 7:36 | 2026-07-30 |  |
 | [Replay](https://open.spotify.com/track/5EJGNjrRsfgwgFj7hvf7fR) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB) | [Replay](https://open.spotify.com/album/7oY5Xy6be2R9efmDVoCnvi) | 3:33 | 2025-03-13 |  |
 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 | 2024-06-27 | 2026-03-07 |
 | [RINGIA](https://open.spotify.com/track/0FDMIPkwEGWJ9QAcIUoOje) | [Diamond Dealer](https://open.spotify.com/artist/0al2BDNahdKMbU3Nriry1w), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [RINGIA](https://open.spotify.com/album/4BBfmaz9dGab9p2issSvi0) | 6:54 | 2024-04-25 | 2024-07-19 |

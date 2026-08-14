@@ -1,15 +1,15 @@
 {
   "description": "Hot Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 845734,
+  "num_followers": 845668,
   "original_name": "Hot Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALQysWHMakhu8qCsN12t/QJFgJ9J",
+  "snapshot_id": "AAAAAFs/WvxCPmSNw2ZkmeULubegOXYD",
   "tracks": [
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "T\u00e4nk om",
         "url": "https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Happiness Is So Sad",
         "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Tomma glas (feat. Molly Sand\u00e9n & Dante)",
         "url": "https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -109,23 +109,7 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 184248,
-      "name": "petal",
-      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
-    },
-    {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Fel p\u00e5 dig",
         "url": "https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA"
@@ -145,7 +129,7 @@
       "url": "https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Animal (on the dance floor)",
         "url": "https://open.spotify.com/album/19T0bG3OXAXTePmYZCVK9Z"
@@ -161,7 +145,7 @@
       "url": "https://open.spotify.com/track/0ZdppjPgr8yoNS1xbfqjtG"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Atom",
         "url": "https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB"
@@ -181,7 +165,7 @@
       "url": "https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Det ligger n\u00e5t i luften",
         "url": "https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE"
@@ -197,7 +181,23 @@
       "url": "https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "360",
         "url": "https://open.spotify.com/album/7bjLLZrVTfWp0RrYfWhfNy"
@@ -241,23 +241,7 @@
       "url": "https://open.spotify.com/track/1qSKSqfJ3eLWeSEb9phekc"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
-    },
-    {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Bl\u00e5 Minnen",
         "url": "https://open.spotify.com/album/13ByjiUBq9febVMy4Vv1vx"
@@ -277,7 +261,7 @@
       "url": "https://open.spotify.com/track/6ZLneg9qoP8A6y8dviALMf"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "bloodstream",
         "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
@@ -293,7 +277,7 @@
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Superlim & silvertejp",
         "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
@@ -313,7 +297,7 @@
       "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -329,7 +313,7 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "N\u00e4r vi gr\u00e4ver guld i USA - Spotify Singles",
         "url": "https://open.spotify.com/album/7pH41TuSykueUvJElnq0go"
@@ -353,7 +337,7 @@
       "url": "https://open.spotify.com/track/3vKjA3z6VhX5A6kppUOkHV"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
@@ -369,7 +353,7 @@
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
@@ -385,7 +369,23 @@
       "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Bangaranga",
         "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Withness",
         "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "A*POP",
         "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Eyes Don't Lie",
         "url": "https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Higher Calling",
         "url": "https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "L'undertaker Part.1",
         "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "D\u00f6den ut",
         "url": "https://open.spotify.com/album/5GiH51ivtO7V5v7cqvsWdJ"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/7ELcAhaKTQc95IiXS2A742"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Viva L\u2019Amor",
         "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Stateside + Zara Larsson",
         "url": "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "My System",
         "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Kygo Jo (feat. Lyng) [Kygo Remix]",
         "url": "https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Fr\u00f6jdo Frido",
         "url": "https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Jack & Coke",
         "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "\u00c4r det h\u00e4r det \u00e4r party",
         "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Magnetic / Addicted To Your Love",
         "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Knock Me Out",
         "url": "https://open.spotify.com/album/2wfTnbkq30YqUSdu6ZBX9L"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/427Fc7QQyh1hZSEQK729hP"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Berusade ord",
         "url": "https://open.spotify.com/album/74tRAatbdPLCLyq22KQYSi"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/0RxBz475eVWbDQQwcY7DNa"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Svagare \u00e4n jag",
         "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-08-10 07:26:08",
+      "added_at": "2026-08-13 22:00:47",
       "album": {
         "name": "Tusen sp\u00e4nn",
         "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"

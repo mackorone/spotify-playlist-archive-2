@@ -4,7 +4,7 @@
 
 > Frsh kiest 20 tunes voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-612 songs - 1 day 7 hr 59 min
+614 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:22 | 2024-04-11 | 2024-05-16 |
 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 | 2021-12-16 | 2022-06-17 |
 | [I Love It](https://open.spotify.com/track/0xjmTJrupL1MA0kDLgqUkR) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [I Love It](https://open.spotify.com/album/2DOF69xUSSBvWZ173pgEId) | 2:58 | 2026-02-12 |  |
+| [I LOVE YOUR BODY](https://open.spotify.com/track/1wWJmkrJi5IaNb2512YEcF) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [I LOVE YOUR BODY](https://open.spotify.com/album/1TREZBcJvxodOvigkTQYDQ) | 2:34 | 2026-08-13 |  |
 | [I'll Be Fire](https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He) | [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [I'll Be Fire](https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7) | 3:10 | 2025-05-15 |  |
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2023-02-02 | 2026-05-08 |
 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 4:33 | 2022-03-25 | 2022-04-20 |
@@ -338,6 +339,7 @@
 | [Madiba Riddim](https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:25 | 2021-12-16 | 2022-01-09 |
 | [Magic](https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Magic \(with Amartey\)](https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C) | 3:26 | 2022-01-10 |  |
 | [Make Me Feel \(feat\. Ari Lennox\) \- IzyBeats Dub Mix](https://open.spotify.com/track/60H3vKDbEFREGqEmUdMWGu) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn) | [Higher Place \(Anniversary Edition\)](https://open.spotify.com/album/6Ls6U4y9I6We3tXuilyEHX) | 3:38 | 2021-12-16 | 2022-07-29 |
+| [Maladie](https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI) | 3:12 | 2026-08-13 |  |
 | [Mama Told Me](https://open.spotify.com/track/31MPV2K3de9I9GR3Bs5V36) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91), [Moses Kriss](https://open.spotify.com/artist/5SBoFp61NnGwvCpMeNMLlw) | [Mama Told Me](https://open.spotify.com/album/1OdtUgXaQw1F687zIiE8zm) | 3:56 | 2021-12-16 | 2023-04-07 |
 | [Mami So Bad](https://open.spotify.com/track/7HL6wIxsT3aRJrUxfVowFn) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Mami So Bad](https://open.spotify.com/album/4QX6zxCyytdRQDmR1IcW0R) | 3:01 | 2021-12-16 | 2022-05-17 |
 | [Man on Duty](https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Man on Duty](https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx) | 3:35 | 2021-12-16 | 2023-04-07 |

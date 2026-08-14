@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 274000,
       "name": "Bewajah",
       "url": "https://open.spotify.com/track/6zhgpXx8L5JAUMsGUhrFO9"
@@ -4042,7 +4042,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 349060,
       "name": "Cinema Chowk",
       "url": "https://open.spotify.com/track/5fiziC9GdXwuZuuqCWUiyT"
@@ -6409,6 +6409,36 @@
     },
     {
       "album": {
+        "name": "Fursat",
+        "url": "https://open.spotify.com/album/4hOuhOK9HajId8i4mty9x3"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Devv Sadaana",
+          "url": "https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "Fursat",
+      "url": "https://open.spotify.com/track/5BsCCxp6jEOyWdsI86PbrU"
+    },
+    {
+      "album": {
         "name": "Galtiyaan",
         "url": "https://open.spotify.com/album/0ydtPAEIJQeP2Vkor7mIAs"
       },
@@ -7994,7 +8024,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 197071,
       "name": "Humesha (From \"Aryabhatt Ka Zero\")",
       "url": "https://open.spotify.com/track/3VwKMxZjTTwMvmWWnnNN27"
@@ -8950,6 +8980,32 @@
       "duration_ms": 209048,
       "name": "Jaana Nahi",
       "url": "https://open.spotify.com/track/4b0yYmtJxaS9sO75LTS8rB"
+    },
+    {
+      "album": {
+        "name": "Jaane Bhi Do",
+        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170890,
+      "name": "Jaane Bhi Do",
+      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
     },
     {
       "album": {
@@ -14988,7 +15044,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 166534,
       "name": "O Piya",
       "url": "https://open.spotify.com/track/2VBz6QJFqhi497KuKvWgHl"
@@ -20211,6 +20267,28 @@
     },
     {
       "album": {
+        "name": "Tere Ishq Mein",
+        "url": "https://open.spotify.com/album/4cjDjP6LM78yyOWulsV6mS"
+      },
+      "artists": [
+        {
+          "name": "Sobit Tamang",
+          "url": "https://open.spotify.com/artist/5NuIxtRrRTJMaTn3oCZgyn"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tere Ishq Mein",
+      "url": "https://open.spotify.com/track/17hVMVwsCp8FQOTS8K3wkt"
+    },
+    {
+      "album": {
         "name": "Tere Ishq Ne (From \"Dhurandhar The Revenge\")",
         "url": "https://open.spotify.com/album/5alSSvYlOrQ91HdwJsbtRc"
       },
@@ -21444,6 +21522,36 @@
       "duration_ms": 138461,
       "name": "Tu Pyaasa Hai",
       "url": "https://open.spotify.com/track/2ErePJqq4vhH4uqUHiT2Io"
+    },
+    {
+      "album": {
+        "name": "Tu Rehnuma",
+        "url": "https://open.spotify.com/album/6ViY0GWYWRYm2P9ScrUEeE"
+      },
+      "artists": [
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        },
+        {
+          "name": "Samay",
+          "url": "https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl"
+        },
+        {
+          "name": "Harsh Kargeti",
+          "url": "https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT"
+        },
+        {
+          "name": "Snipr",
+          "url": "https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186067,
+      "name": "Tu Rehnuma",
+      "url": "https://open.spotify.com/track/52NZDQHctUWcoa5MvgoTru"
     },
     {
       "album": {

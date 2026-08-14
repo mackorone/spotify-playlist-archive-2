@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEOyXtKxQZnRL7fb8xD1jYVVbPkK",
+  "snapshot_id": "AAAAAG9HWYgpDVURiBcdXOWfU4rVpECW",
   "tracks": [
     {
       "added_at": "2026-08-07 04:00:00",
@@ -371,6 +371,26 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
+        "name": "Pretty Fly (For A White Guy) [8onthebeat Mix]",
+        "url": "https://open.spotify.com/album/2LpR2ztCCRCzRkiKxKRCl0"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Pretty Fly (For A White Guy) - 8onthebeat Mix",
+      "url": "https://open.spotify.com/track/6Z9qZ6IZPT8ptJ4CW3oVon"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
         "name": "Front Toward Enemy",
         "url": "https://open.spotify.com/album/0RMoHT136VYgUL7DhjUlXd"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 223730,
       "name": "Suspensi\u00f3n",
       "url": "https://open.spotify.com/track/7jyRaOQ5iz7ZsEhYpvhMfK"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Pretty Fly (For A White Guy) [8onthebeat Mix]",
-        "url": "https://open.spotify.com/album/2LpR2ztCCRCzRkiKxKRCl0"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 170089,
-      "name": "Pretty Fly (For A White Guy) - 8onthebeat Mix",
-      "url": "https://open.spotify.com/track/6Z9qZ6IZPT8ptJ4CW3oVon"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
+        "name": "No One Like You b/w The Boy With The Thorn In His Side",
+        "url": "https://open.spotify.com/album/3rZIV2lo58GCndHgBITSNQ"
+      },
+      "artists": [
+        {
+          "name": "Jejune",
+          "url": "https://open.spotify.com/artist/3Ld89roca6iQBS7QuT9xEv"
+        }
+      ],
+      "duration_ms": 271013,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/0AjDJkdo6jYpHlkXFuipsE"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
         "name": "Heart (1st)",
         "url": "https://open.spotify.com/album/1aPGbqbJ5ts9FRLo0XR6v9"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "No One Like You b/w The Boy With The Thorn In His Side",
-        "url": "https://open.spotify.com/album/3rZIV2lo58GCndHgBITSNQ"
-      },
-      "artists": [
-        {
-          "name": "Jejune",
-          "url": "https://open.spotify.com/artist/3Ld89roca6iQBS7QuT9xEv"
-        }
-      ],
-      "duration_ms": 271013,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/0AjDJkdo6jYpHlkXFuipsE"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
         "name": "STATICA",
         "url": "https://open.spotify.com/album/10B4tVS3yJcETgj53m5Lcu"
       },
@@ -547,8 +547,8 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "Destroy Erase Improve: 30th Anniversary Edition (2026 Remastered)",
-        "url": "https://open.spotify.com/album/5QCnX24XWBDYs6ftNrMv5O"
+        "name": "Catch Thirtythree: 20th Anniversary Edition (2026 Remastered)",
+        "url": "https://open.spotify.com/album/1Ts6kmSnDVLMsrkxS9gKV8"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
         }
       ],
-      "duration_ms": 318106,
-      "name": "Soul Burn - 2026 Remastered",
-      "url": "https://open.spotify.com/track/63YGuQEqYCKuROeX8UoBYe"
+      "duration_ms": 107266,
+      "name": "Personae Non Gratae - 2026 Remastered",
+      "url": "https://open.spotify.com/track/0SEF13cHML68dc0xao074a"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "Damaged Suit (Take 5)",
-        "url": "https://open.spotify.com/album/5bn8LpfJOBtOTvhGcoRhYK"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 269493,
-      "name": "Damaged Suit (Take 5)",
-      "url": "https://open.spotify.com/track/3R6cjRBeBEF5Lu1ucoQQfU"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
         "name": "DESMOND CHILD ROCKS THE PARTHENON: THE LIVE CONCERT ALBUM",
         "url": "https://open.spotify.com/album/746YdO0w9Oocz9za5y2vAx"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 319521,
       "name": "Poison (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/6bqOcNllT9zCPmTyY2HCtQ"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Damaged Suit (Take 5)",
+        "url": "https://open.spotify.com/album/5bn8LpfJOBtOTvhGcoRhYK"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "Damaged Suit (Take 5)",
+      "url": "https://open.spotify.com/track/3R6cjRBeBEF5Lu1ucoQQfU"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
+        "name": "Dark Fairy",
+        "url": "https://open.spotify.com/album/4guWZBBGYuf65OhbJvcNF4"
+      },
+      "artists": [
+        {
+          "name": "Gary Stadler",
+          "url": "https://open.spotify.com/artist/3bR26OG0nJ6u3k1lkd4RWO"
+        },
+        {
+          "name": "Ffion Elisa",
+          "url": "https://open.spotify.com/artist/484xsAPWxxJRyDuYzz3WqG"
+        }
+      ],
+      "duration_ms": 242703,
+      "name": "Lullabye",
+      "url": "https://open.spotify.com/track/3vzSFTvCMq2z0wNFa3eOAf"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
         "name": "Red Cathedral",
         "url": "https://open.spotify.com/album/0JAu0RLcoj6dThYG9mtGT7"
       },
@@ -739,22 +759,6 @@
       "duration_ms": 211136,
       "name": "Red Cathedral",
       "url": "https://open.spotify.com/track/650kaXF6EOXT2DA9e9HzmD"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Godlike Alchemy",
-        "url": "https://open.spotify.com/album/1dZz7HDR0UizGLX5QxFHjE"
-      },
-      "artists": [
-        {
-          "name": "Kamelot",
-          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Godlike Alchemy",
-      "url": "https://open.spotify.com/track/166Hhty29MN07dwvLrwMz7"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -775,6 +779,66 @@
       "duration_ms": 423133,
       "name": "You and Your Dog",
       "url": "https://open.spotify.com/track/2p7drL0Q1gQEbVSgrY1NnY"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Godlike Alchemy",
+        "url": "https://open.spotify.com/album/1dZz7HDR0UizGLX5QxFHjE"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Godlike Alchemy",
+      "url": "https://open.spotify.com/track/166Hhty29MN07dwvLrwMz7"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Dio$ No \u20acxiste",
+        "url": "https://open.spotify.com/album/6NdAv66BQHVgtMWV7ktfp4"
+      },
+      "artists": [
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Maldito Fen",
+          "url": "https://open.spotify.com/artist/3H5mQs13EvHXEWCsy910Hu"
+        },
+        {
+          "name": "DJ Pere",
+          "url": "https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP"
+        },
+        {
+          "name": "Con.fusi\u00f3n",
+          "url": "https://open.spotify.com/artist/3LnpeMefgyavyTUTFNs5Xd"
+        }
+      ],
+      "duration_ms": 179846,
+      "name": "Positivo Pesimismo",
+      "url": "https://open.spotify.com/track/3lRwTyNEIuhdfwTVS4nhiA"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "One by One (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/0rdZD8RejHjHxWlvX8gDlp"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 577970,
+      "name": "One by One - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/3GvZPjuZbPMOSeLqMEf9Pn"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -843,70 +907,6 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "Dio$ No \u20acxiste",
-        "url": "https://open.spotify.com/album/6NdAv66BQHVgtMWV7ktfp4"
-      },
-      "artists": [
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "Maldito Fen",
-          "url": "https://open.spotify.com/artist/3H5mQs13EvHXEWCsy910Hu"
-        },
-        {
-          "name": "DJ Pere",
-          "url": "https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP"
-        },
-        {
-          "name": "Con.fusi\u00f3n",
-          "url": "https://open.spotify.com/artist/3LnpeMefgyavyTUTFNs5Xd"
-        }
-      ],
-      "duration_ms": 179846,
-      "name": "Positivo Pesimismo",
-      "url": "https://open.spotify.com/track/3lRwTyNEIuhdfwTVS4nhiA"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Dark Fairy",
-        "url": "https://open.spotify.com/album/4guWZBBGYuf65OhbJvcNF4"
-      },
-      "artists": [
-        {
-          "name": "Gary Stadler",
-          "url": "https://open.spotify.com/artist/3bR26OG0nJ6u3k1lkd4RWO"
-        },
-        {
-          "name": "Ffion Elisa",
-          "url": "https://open.spotify.com/artist/484xsAPWxxJRyDuYzz3WqG"
-        }
-      ],
-      "duration_ms": 242703,
-      "name": "Lullabye",
-      "url": "https://open.spotify.com/track/3vzSFTvCMq2z0wNFa3eOAf"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "One by One (Bright-Side Mix)",
-        "url": "https://open.spotify.com/album/0rdZD8RejHjHxWlvX8gDlp"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 577970,
-      "name": "One by One - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/3GvZPjuZbPMOSeLqMEf9Pn"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/5ij6nHEmee3k91DYwRrgZL"
       },
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
+        "name": "Todos Los Barcos, Todos Los P\u00e1jaros",
+        "url": "https://open.spotify.com/album/3dsU737zeTt0SYXxxFhDxa"
+      },
+      "artists": [
+        {
+          "name": "Nando Varela Pagliaro",
+          "url": "https://open.spotify.com/artist/6i0vecHqHz4B7D1i2yWIFO"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Todos Los Barcos, Todos Los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/1K96cknJZlPJ8J8XvCgd7Q"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
         "name": "Nobody Wants To Die",
         "url": "https://open.spotify.com/album/1DDcHRDWmz4eM2MJFrabSN"
       },
@@ -999,22 +1019,18 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "Todos Los Barcos, Todos Los P\u00e1jaros",
-        "url": "https://open.spotify.com/album/3dsU737zeTt0SYXxxFhDxa"
+        "name": "TAPDAT",
+        "url": "https://open.spotify.com/album/5Px1m7A7KMovRNG2JGAGV6"
       },
       "artists": [
         {
-          "name": "Nando Varela Pagliaro",
-          "url": "https://open.spotify.com/artist/6i0vecHqHz4B7D1i2yWIFO"
-        },
-        {
-          "name": "Piero",
-          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
         }
       ],
-      "duration_ms": 189289,
-      "name": "Todos Los Barcos, Todos Los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/1K96cknJZlPJ8J8XvCgd7Q"
+      "duration_ms": 246767,
+      "name": "TAPDAT",
+      "url": "https://open.spotify.com/track/0pQ9gtLMkVhioRBVl5yCHs"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 249750,
       "name": "Nails In The Coffin",
       "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "TAPDAT",
-        "url": "https://open.spotify.com/album/5Px1m7A7KMovRNG2JGAGV6"
-      },
-      "artists": [
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 246767,
-      "name": "TAPDAT",
-      "url": "https://open.spotify.com/track/0pQ9gtLMkVhioRBVl5yCHs"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
+        "name": "Schwarzer Engel",
+        "url": "https://open.spotify.com/album/0wmPpyq3qklYhgc31Ve58B"
+      },
+      "artists": [
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        },
+        {
+          "name": "ghostbells",
+          "url": "https://open.spotify.com/artist/7EcUTHb15yUmZQ2ZNY49Gl"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Schwarzer Engel - Ghostbells Remix",
+      "url": "https://open.spotify.com/track/4LSkov1d2Jjj3pizZMqHnT"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
         "name": "Feral Future",
         "url": "https://open.spotify.com/album/5CEdUIzsxBGw7v9IkYMs11"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 240581,
       "name": "Solo Busco Paz y Mi Encendedor",
       "url": "https://open.spotify.com/track/563V1E8bshitu7erI6qbQ6"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Schwarzer Engel",
-        "url": "https://open.spotify.com/album/0wmPpyq3qklYhgc31Ve58B"
-      },
-      "artists": [
-        {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
-        },
-        {
-          "name": "ghostbells",
-          "url": "https://open.spotify.com/artist/7EcUTHb15yUmZQ2ZNY49Gl"
-        }
-      ],
-      "duration_ms": 260746,
-      "name": "Schwarzer Engel - Ghostbells Remix",
-      "url": "https://open.spotify.com/track/4LSkov1d2Jjj3pizZMqHnT"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
+        "name": "MY REVENGE",
+        "url": "https://open.spotify.com/album/6hmnBExmVbBcy6OfmKWbG3"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 214821,
+      "name": "MY REVENGE",
+      "url": "https://open.spotify.com/track/6QOtcEeQccDkATwoeVHNDA"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
         "name": "The Singularity: Ekleipsis",
         "url": "https://open.spotify.com/album/5ZGIZYHEABTEKAwjCb6H8O"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 321573,
       "name": "Our Kingdom",
       "url": "https://open.spotify.com/track/7ACZ1Niil8WjseGsXq8NfR"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "MY REVENGE",
-        "url": "https://open.spotify.com/album/6hmnBExmVbBcy6OfmKWbG3"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 214821,
-      "name": "MY REVENGE",
-      "url": "https://open.spotify.com/track/6QOtcEeQccDkATwoeVHNDA"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "Bring On The Psychics",
-        "url": "https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Bring On The Psychics",
-      "url": "https://open.spotify.com/track/1NxMIykscSdcZNI2BeJSoq"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
         "name": "Todas Son Iguales",
         "url": "https://open.spotify.com/album/7zklsb4VVTzrEHWlA2GiPm"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 194677,
       "name": "Me Tiene Enamorao",
       "url": "https://open.spotify.com/track/1oL5pW7Kq6NhoJI8VXt3A9"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Bring On The Psychics",
+        "url": "https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Bring On The Psychics",
+      "url": "https://open.spotify.com/track/1NxMIykscSdcZNI2BeJSoq"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

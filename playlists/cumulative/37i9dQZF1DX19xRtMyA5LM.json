@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: Jiggy Dj\u00e9. <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier meer zomer aanbevelingen!</a>",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: OYSTER <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier meer zomer aanbevelingen!</a>",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -656,6 +656,32 @@
       "duration_ms": 142073,
       "name": "Alleen Is Maar Alleen",
       "url": "https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz"
+    },
+    {
+      "album": {
+        "name": "Alles Is Ok\u00e9",
+        "url": "https://open.spotify.com/album/03XHGM7fb7OAXxeSYCQJCi"
+      },
+      "artists": [
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158739,
+      "name": "Alles Is Ok\u00e9",
+      "url": "https://open.spotify.com/track/5TZ8Lh4qmnTkZocWmlo5dr"
     },
     {
       "album": {
@@ -2014,7 +2040,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 167272,
       "name": "Chinese Food",
       "url": "https://open.spotify.com/track/5uCjThQVqg6hhflfREjJat"
@@ -2212,6 +2238,24 @@
       "duration_ms": 129326,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/7E41iQPkQJ3HhMhzqjeCCa"
+    },
+    {
+      "album": {
+        "name": "Dansvloer",
+        "url": "https://open.spotify.com/album/2wWnvuO5yMfOT57hJzC8IZ"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Dansvloer",
+      "url": "https://open.spotify.com/track/2rjWTsAJFEIEgH1OPDzJ8A"
     },
     {
       "album": {
@@ -3602,6 +3646,24 @@
       "duration_ms": 131067,
       "name": "Geen F'er",
       "url": "https://open.spotify.com/track/5HMBuq0KFaoyNvF1JLl1a9"
+    },
+    {
+      "album": {
+        "name": "DJ ROFFA (LIVE @ FLEX FM)",
+        "url": "https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84915,
+      "name": "GEILA FREESTYLE",
+      "url": "https://open.spotify.com/track/3iXcxNl2DlKytXwXSvWNQB"
     },
     {
       "album": {
@@ -7184,7 +7246,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 158578,
       "name": "Niks Persoonlijks",
       "url": "https://open.spotify.com/track/6tQAp8c1u2UZdTY21xInfF"
@@ -7645,6 +7707,24 @@
     },
     {
       "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/7vEh6zjMMXh15dJ8MFu9IN"
+      },
+      "artists": [
+        {
+          "name": "Jordymone9",
+          "url": "https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193636,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/358pJO9HVztNPIx7pmHfjO"
+    },
+    {
+      "album": {
         "name": "Springplank 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2H3WpgJ9cxgjMcVSwAJTlL"
       },
@@ -7980,7 +8060,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 140284,
       "name": "Petje Scheef",
       "url": "https://open.spotify.com/track/2HB7p9rZwMIX7HrtnI46dc"
@@ -9030,7 +9110,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 98657,
       "name": "Sensa - Remix",
       "url": "https://open.spotify.com/track/76yGv86zc8Jr62SKbpploW"
@@ -9426,7 +9506,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 159393,
       "name": "Stap Maar In",
       "url": "https://open.spotify.com/track/4XBuMkIUw2dT2I0wipNYAL"
@@ -10768,6 +10848,24 @@
       "duration_ms": 133917,
       "name": "VOOR DE FAMILY",
       "url": "https://open.spotify.com/track/4uvtQck40L034n3mvKQInH"
+    },
+    {
+      "album": {
+        "name": "Voor Het Eerst",
+        "url": "https://open.spotify.com/album/6qG6LyFEHQ20nA75IxTft9"
+      },
+      "artists": [
+        {
+          "name": "Mesy",
+          "url": "https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Voor Het Eerst",
+      "url": "https://open.spotify.com/track/27xG981cofM82r8BEdmxgf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Fabiana Cantilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,819 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,748 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Corazón de Piedra](https://open.spotify.com/track/354l8mEn92L1sTVGtYYmyd) | [FUGACES](https://open.spotify.com/artist/2uniXlOVXNeHweNFsaiwpm) | [Corazón de Piedra](https://open.spotify.com/album/5Lpn5CxsFEc5Lmgv06ezHg) | 2:58 |
 | 50 | [Vamos a perder la cabeza](https://open.spotify.com/track/0cnCt1gznM2qf7I23g9C6k) | [Nico Saba](https://open.spotify.com/artist/4ZyzduBCECJgRfPXhnsOV6), [Piscis](https://open.spotify.com/artist/1ecP812Ou47BN0CWt872I6) | [Vamos a perder la cabeza](https://open.spotify.com/album/5UEtNvoQ80cIsOZkW1xtpc) | 3:09 |
 
-Snapshot ID: `AAAAAF54z7ii+K52+O9cYiinIdtnRyz1`
+Snapshot ID: `AAAAAJV2mt1HseaA+Uqt+Y2ysf62Alq9`

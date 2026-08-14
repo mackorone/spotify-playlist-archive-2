@@ -2927,6 +2927,32 @@
     },
     {
       "album": {
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/1hD4ndeK8KUhHmG9E4UNYW"
+      },
+      "artists": [
+        {
+          "name": "His&Hertz",
+          "url": "https://open.spotify.com/artist/5Ymz0VxIThb8lZyIqykGI0"
+        },
+        {
+          "name": "Toprak Baris",
+          "url": "https://open.spotify.com/artist/0o6zBZOHer0cIGpGOQk7nD"
+        },
+        {
+          "name": "Ece Yilmaz",
+          "url": "https://open.spotify.com/artist/6QL4sw7mQfBDo0uuweEnAS"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251089,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/1vkA7llFtaaQb5qo58kiGi"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/37qEBYJEhwnBgG9fC8Omwz"
       },
@@ -4795,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/01hTuJ6v2hNLEm9Mpitxuf"
+      },
+      "artists": [
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1SZtncAeIWUEhifs39ASGa"
+    },
+    {
+      "album": {
         "name": "Esther (Duskus Romantic Edit)",
         "url": "https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J"
       },
@@ -5036,6 +5080,28 @@
       "duration_ms": 209576,
       "name": "Fade Into Nothing",
       "url": "https://open.spotify.com/track/3PmAydfzjWQoLFpSQDYehP"
+    },
+    {
+      "album": {
+        "name": "Faded Eyes",
+        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177713,
+      "name": "Faded Eyes",
+      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
     },
     {
       "album": {
@@ -21368,6 +21434,24 @@
       "duration_ms": 164769,
       "name": "WONDER",
       "url": "https://open.spotify.com/track/3GMQ9rDVclsd1ZbwT3qPta"
+    },
+    {
+      "album": {
+        "name": "wonders",
+        "url": "https://open.spotify.com/album/4h8ZKL12vUMeU8j3SZJerz"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314815,
+      "name": "wonders",
+      "url": "https://open.spotify.com/track/00uwL1Ps1lx9YkV8OtsLz2"
     },
     {
       "album": {

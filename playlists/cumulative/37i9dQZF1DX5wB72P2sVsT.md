@@ -2,9 +2,9 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> HUGEL au top des bangers dance/electro du moment !
+> Bebe Rexha au top des bangers dance/electro du moment !
 
-379 songs - 17 hr 30 min
+380 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 | 2025-09-25 | 2026-05-08 |
 | [Elegibo](https://open.spotify.com/track/3IugKG1BvQJTnK9KviDdpV) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD), [Relight Orchestra](https://open.spotify.com/artist/7mDeWybDDFBOAshsWdDc2j), [DJ Andrea](https://open.spotify.com/artist/2Yx5JNsfQi39z09nCW4Y4O) | [Elegibo](https://open.spotify.com/album/4YypLcBdTBCc7xpyc0MGd4) | 2:31 | 2025-10-02 | 2026-03-06 |
 | [Ella Elle L'a](https://open.spotify.com/track/7oCqUBYVTqWbN0M6aYD7O3) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Ella Elle L'a](https://open.spotify.com/album/4RN7tJXpxyE5LaSIiiFueX) | 2:30 | 2024-01-18 | 2024-04-26 |
-| [Ella Elle L'a](https://open.spotify.com/track/00wugEAK91BksOBu3BY6bk) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Ella Elle L'a](https://open.spotify.com/album/0Whb8AFL8wEhJrQLUutczd) | 2:35 | 2026-07-30 |  |
+| [Ella Elle L'a](https://open.spotify.com/track/00wugEAK91BksOBu3BY6bk) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Ella Elle L'a](https://open.spotify.com/album/0Whb8AFL8wEhJrQLUutczd) | 2:35 | 2026-07-30 | 2026-08-14 |
 | [Embers](https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Embers](https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4) | 3:01 | 2026-01-29 | 2026-05-08 |
 | [Enjoy The Silence](https://open.spotify.com/track/7hv1R50mjtML59cNzkiqi4) | [Make Sense](https://open.spotify.com/artist/2rtefFoZFsWeyIvuTGB327) | [Enjoy The Silence](https://open.spotify.com/album/5hokhMrVOniHdIHfmlZ3NB) | 2:54 | 2024-02-01 | 2024-02-16 |
 | [Euphoria \(with Alok\)](https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Euphoria \(with Alok\)](https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp) | 2:31 | 2025-01-23 | 2025-03-21 |
@@ -260,6 +260,7 @@
 | [Oh la mer](https://open.spotify.com/track/5se5BnFIsMf0CVTno42pq0) | [Ødyssey](https://open.spotify.com/artist/6qLB9SoM25z2JDFBcgvJ8G) | [Oh la mer](https://open.spotify.com/album/7qvoZKKqNXpIc6UIjTlw4T) | 2:30 | 2026-07-16 |  |
 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 | 2025-03-27 | 2025-04-04 |
 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 | 2023-09-28 | 2024-01-19 |
+| [On 2nite](https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [On 2nite](https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N) | 2:38 | 2026-08-13 |  |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-28 | 2023-11-03 |
 | [On My Love \- Felix Jaehn Remix](https://open.spotify.com/track/1CCjb1x6tRof8W6ApIJy6o) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [On My Love \(Felix Jaehn Remix\)](https://open.spotify.com/album/0LMyvKO91nmgBAb1JFpIQw) | 3:30 | 2023-11-02 | 2023-12-08 |
 | [On The Move](https://open.spotify.com/track/7lEBtmu2qRLupeSOupBa1j) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PRISKA](https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w) | [On The Move](https://open.spotify.com/album/2aFtLWVpsrONFCNJZgEo9R) | 2:19 | 2023-09-28 | 2024-01-26 |

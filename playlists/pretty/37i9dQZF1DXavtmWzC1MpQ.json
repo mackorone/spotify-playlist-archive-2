@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 154738,
+  "num_followers": 154745,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ4eDrnvwAyDTdX+1cp0ngDBKUG9",
+  "snapshot_id": "AAAAAPGoQGTWBt2dJdp/crjnn1o9f4cL",
   "tracks": [
     {
       "added_at": "2026-04-02 09:58:26",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Sleepy Stream XIV",
-        "url": "https://open.spotify.com/album/7sX5U6EO4Y8whRL59FenOc"
-      },
-      "artists": [
-        {
-          "name": "Mill Pond",
-          "url": "https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7"
-        }
-      ],
-      "duration_ms": 118625,
-      "name": "Sleepy Stream XIV",
-      "url": "https://open.spotify.com/track/4Dh5KMfMrGzyiNaUFBeMpU"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Soothing Birdsong by the River",
         "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Catskill Forest Preserve",
-        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
+        "name": "Sleepy Stream XIV",
+        "url": "https://open.spotify.com/album/7sX5U6EO4Y8whRL59FenOc"
       },
       "artists": [
         {
-          "name": "Waveseekers",
-          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
+          "name": "Mill Pond",
+          "url": "https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7"
         }
       ],
-      "duration_ms": 247466,
-      "name": "Catskill Forest Preserve",
-      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
+      "duration_ms": 118625,
+      "name": "Sleepy Stream XIV",
+      "url": "https://open.spotify.com/track/4Dh5KMfMrGzyiNaUFBeMpU"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -715,6 +699,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Catskill Forest Preserve",
+        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
+      },
+      "artists": [
+        {
+          "name": "Waveseekers",
+          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "Catskill Forest Preserve",
+      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Still the River Flows",
         "url": "https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Jungle Dusk at Pha Phum National Park",
-        "url": "https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3"
+        "name": "Calming Water Noise",
+        "url": "https://open.spotify.com/album/0cOplbgtR7MRa1zUJf3Sck"
       },
       "artists": [
         {
-          "name": "Natural Song",
-          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+          "name": "Amsonia Star",
+          "url": "https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL"
         }
       ],
-      "duration_ms": 134511,
-      "name": "Jungle Dusk at Pha Phum National Park",
-      "url": "https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl"
+      "duration_ms": 165428,
+      "name": "Calming Water Noise",
+      "url": "https://open.spotify.com/track/0X7LWNqMNDZTG3mWg1tmAK"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -779,18 +779,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Calming Water Noise",
-        "url": "https://open.spotify.com/album/0cOplbgtR7MRa1zUJf3Sck"
+        "name": "Jungle Dusk at Pha Phum National Park",
+        "url": "https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3"
       },
       "artists": [
         {
-          "name": "Amsonia Star",
-          "url": "https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL"
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
         }
       ],
-      "duration_ms": 165428,
-      "name": "Calming Water Noise",
-      "url": "https://open.spotify.com/track/0X7LWNqMNDZTG3mWg1tmAK"
+      "duration_ms": 134511,
+      "name": "Jungle Dusk at Pha Phum National Park",
+      "url": "https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Bird Life",
-        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
+        "name": "Healing Rainforest",
+        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
       },
       "artists": [
         {
-          "name": "Beyond North",
-          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
+          "name": "Manaus",
+          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Bird Life",
-      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
+      "duration_ms": 208000,
+      "name": "Walking In The Rainforest",
+      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
     }
   ],
   "unique_name": "Sons da Natureza",

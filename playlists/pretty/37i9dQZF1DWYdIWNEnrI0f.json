@@ -1,12 +1,12 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 31581,
+  "num_followers": 31619,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFBDOL3y2FHgfwbSjEv94Lck8xDg",
+  "snapshot_id": "AAAAAD2eSgr6NpyK/aUQzGt9U+LcxPsp",
   "tracks": [
     {
       "added_at": "2026-08-07 11:26:05",
@@ -131,26 +131,6 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
-        "name": "breatharian",
-        "url": "https://open.spotify.com/album/0VtIDkYv8JNDTVh48a9GP0"
-      },
-      "artists": [
-        {
-          "name": "Mndsgn",
-          "url": "https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26"
-        },
-        {
-          "name": "Swarvy",
-          "url": "https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL"
-        }
-      ],
-      "duration_ms": 78187,
-      "name": "Bweyy",
-      "url": "https://open.spotify.com/track/7jNIcMRDjKsOzqkVnnw1oL"
-    },
-    {
-      "added_at": "2026-08-07 11:26:05",
-      "album": {
         "name": "Water Flow",
         "url": "https://open.spotify.com/album/7qk8OPhLH17s6PdUxJKxCM"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 154910,
       "name": "Water Flow",
       "url": "https://open.spotify.com/track/2LeF018m9vGgIAirUuOgCr"
+    },
+    {
+      "added_at": "2026-08-07 11:26:05",
+      "album": {
+        "name": "breatharian",
+        "url": "https://open.spotify.com/album/0VtIDkYv8JNDTVh48a9GP0"
+      },
+      "artists": [
+        {
+          "name": "Mndsgn",
+          "url": "https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26"
+        },
+        {
+          "name": "Swarvy",
+          "url": "https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL"
+        }
+      ],
+      "duration_ms": 78187,
+      "name": "Bweyy",
+      "url": "https://open.spotify.com/track/7jNIcMRDjKsOzqkVnnw1oL"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "duration_ms": 219207,
+      "name": "Conflicted",
+      "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
+    },
+    {
+      "added_at": "2026-08-07 11:26:05",
+      "album": {
         "name": "Sofie's SOS Tape",
         "url": "https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 219149,
       "name": "Abeja",
       "url": "https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ"
-    },
-    {
-      "added_at": "2026-08-07 11:26:05",
-      "album": {
-        "name": "Contrast",
-        "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
-      },
-      "artists": [
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        }
-      ],
-      "duration_ms": 219207,
-      "name": "Conflicted",
-      "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -515,18 +515,22 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
-        "name": "Sketchbook",
-        "url": "https://open.spotify.com/album/58hj3WxFm2UOKw5s1ukfHY"
+        "name": "\u6ce2\u7d0b",
+        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
       },
       "artists": [
         {
           "name": "EVISBEATS",
           "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 188866,
-      "name": "\u3086\u308c\u308b - Instrumental-",
-      "url": "https://open.spotify.com/track/6wqBWgnLdQxwjrQOCphIzD"
+      "duration_ms": 189878,
+      "name": "\u6ce2\u7d0b",
+      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -543,22 +547,6 @@
       "duration_ms": 154883,
       "name": "North Wing",
       "url": "https://open.spotify.com/track/05kA0tTx15o8wx0vYqm251"
-    },
-    {
-      "added_at": "2026-08-07 11:26:05",
-      "album": {
-        "name": "samurai champloo music record impression",
-        "url": "https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS"
-      },
-      "artists": [
-        {
-          "name": "Force Of Nature",
-          "url": "https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj"
-        }
-      ],
-      "duration_ms": 235900,
-      "name": "just forget",
-      "url": "https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -583,6 +571,22 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
+        "name": "samurai champloo music record impression",
+        "url": "https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS"
+      },
+      "artists": [
+        {
+          "name": "Force Of Nature",
+          "url": "https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj"
+        }
+      ],
+      "duration_ms": 235900,
+      "name": "just forget",
+      "url": "https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA"
+    },
+    {
+      "added_at": "2026-08-07 11:26:05",
+      "album": {
         "name": "Paris Nights",
         "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
       },
@@ -599,22 +603,18 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
-        "name": "\u6ce2\u7d0b",
-        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
+        "name": "Sketchbook",
+        "url": "https://open.spotify.com/album/58hj3WxFm2UOKw5s1ukfHY"
       },
       "artists": [
         {
           "name": "EVISBEATS",
           "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 189878,
-      "name": "\u6ce2\u7d0b",
-      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
+      "duration_ms": 188866,
+      "name": "\u3086\u308c\u308b - Instrumental-",
+      "url": "https://open.spotify.com/track/6wqBWgnLdQxwjrQOCphIzD"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
       },
       "artists": [
         {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
         }
       ],
-      "duration_ms": 146014,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
+      "duration_ms": 200061,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 146014,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
+    },
+    {
+      "added_at": "2026-08-07 11:26:05",
+      "album": {
         "name": "Beat Theme",
         "url": "https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 221071,
       "name": "Please Think Twice",
       "url": "https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP"
-    },
-    {
-      "added_at": "2026-08-07 11:26:05",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
+        "name": "Night Step",
+        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Night Step",
+      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+    },
+    {
+      "added_at": "2026-08-07 11:26:05",
+      "album": {
         "name": "Light Breeze EP",
         "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 120000,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
-    },
-    {
-      "added_at": "2026-08-07 11:26:05",
-      "album": {
-        "name": "Night Step",
-        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Night Step",
-      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
     },
     {
       "added_at": "2026-08-07 11:26:05",

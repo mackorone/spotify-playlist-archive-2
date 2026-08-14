@@ -4,7 +4,7 @@
 
 > Latest music from Darshan Raval, Simran Choudhary, Adnan Sami,  Shekhar Ravjiani and more.
 
-1,890 songs - 4 day 11 hr 29 min
+1,891 songs - 4 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1750,6 +1750,7 @@
 | [TU NA MERA](https://open.spotify.com/track/3C2KL0Wxmrms8g93W66xzQ) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [TU NA MERA](https://open.spotify.com/album/5R0a37vkkfVTbYTvaQNNfQ) | 3:33 | 2022-07-08 | 2022-09-02 |
 | [Tu Naazneen](https://open.spotify.com/track/0RqaaN7XoGAR6pJEqO07pW) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Tu Naazneen](https://open.spotify.com/album/2WuH5GTQSGbKQ0fkdn2PI5) | 3:57 | 2024-04-19 | 2024-05-11 |
 | [Tu Pyaasa Hai](https://open.spotify.com/track/2ErePJqq4vhH4uqUHiT2Io) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Tu Pyaasa Hai](https://open.spotify.com/album/2WdpiY7Y1xXdx8mTLmew3R) | 2:18 | 2025-09-05 | 2025-11-14 |
+| [Tu Rehnuma](https://open.spotify.com/track/52NZDQHctUWcoa5MvgoTru) | [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl), [Harsh Kargeti](https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu) | [Tu Rehnuma](https://open.spotify.com/album/6ViY0GWYWRYm2P9ScrUEeE) | 3:06 | 2026-08-07 |  |
 | [Tu Ru Ruu](https://open.spotify.com/track/3y7WECxvtou36AS4rhwgYO) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Ru Ruu](https://open.spotify.com/album/036AwFKcee9b7rLriwBHPG) | 3:05 | 2024-12-06 | 2025-03-08 |
 | [Tu Saath Hai](https://open.spotify.com/track/7h1SEjAxpBPPstLExfj8C3) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Tu Saath Hai](https://open.spotify.com/album/6HwDubGIxghrlQq64qYwwx) | 2:35 | 2023-09-08 | 2023-09-30 |
 | [Tu Sab Vekheya](https://open.spotify.com/track/33wXzWYLd3kJWh4WVZyaIU) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tu Sab Vekheya](https://open.spotify.com/album/35ldZRrH83VXMtjooYmXjk) | 3:19 | 2025-06-13 | 2025-07-26 |

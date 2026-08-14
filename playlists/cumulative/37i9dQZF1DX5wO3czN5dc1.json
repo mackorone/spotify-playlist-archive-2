@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Elaine",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Culoe De Song",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -5711,6 +5711,32 @@
     },
     {
       "album": {
+        "name": "Re-Amathambo (Remix)",
+        "url": "https://open.spotify.com/album/0RjOSD0wNNrcwZYEbiPJDW"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        },
+        {
+          "name": "Chaleee",
+          "url": "https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c"
+        },
+        {
+          "name": "Anna Widauer",
+          "url": "https://open.spotify.com/artist/0a6EIFJe4gQqo49dHs0oGQ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "Re-Amathambo - Remix",
+      "url": "https://open.spotify.com/track/2AyLWsRNFbkjq4wAqPqyrX"
+    },
+    {
+      "album": {
         "name": "REASON [SYLVANO - remix (Radio edit)]",
         "url": "https://open.spotify.com/album/2xYVbgPfuPB7gfoPNiO8by"
       },
@@ -6568,6 +6594,24 @@
       "duration_ms": 333559,
       "name": "The Road Before You",
       "url": "https://open.spotify.com/track/3atKTgUQQqg3qb61mXxksS"
+    },
+    {
+      "album": {
+        "name": "Moonhound EP",
+        "url": "https://open.spotify.com/album/7tuCnIeBJ2AnAjxSzLGcg7"
+      },
+      "artists": [
+        {
+          "name": "Culoe De Song",
+          "url": "https://open.spotify.com/artist/69vFBZxQu4TQ4ZDOI9L6KR"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403200,
+      "name": "The Spiker",
+      "url": "https://open.spotify.com/track/7LYeYkN82e5g5vdbQkNOrb"
     },
     {
       "album": {

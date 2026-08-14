@@ -1,18 +1,50 @@
 {
-  "description": "Feeling dramatic? All eyes on you. Cover: Mollie Elizabeth",
-  "num_followers": 566574,
+  "description": "Feeling dramatic? All eyes on you. Cover: Josie Edwards",
+  "num_followers": 566605,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA5jBRLsudhLbPVtgaNzkZZyDIxJ",
+  "snapshot_id": "AAAAAI8zCLuRfC/2nnohX/iI5NFeF4yF",
   "tracks": [
+    {
+      "added_at": "2026-08-14 00:00:20",
+      "album": {
+        "name": "Greetings From Bleak St.",
+        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
+      },
+      "artists": [
+        {
+          "name": "Josie Edwards",
+          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+        }
+      ],
+      "duration_ms": 174881,
+      "name": "The Poet and Her Vice (Happy Ending)",
+      "url": "https://open.spotify.com/track/7xyxpnf63Bad2KTRNY5a5b"
+    },
     {
       "added_at": "2026-07-31 04:00:20",
       "album": {
-        "name": "Puppet Show",
-        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
+        "name": "Knight of Swords",
+        "url": "https://open.spotify.com/album/1QspQHGZ9yJhibMqUshuA0"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "Knight of Swords",
+      "url": "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2"
+    },
+    {
+      "added_at": "2026-05-22 04:02:09",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
       },
       "artists": [
         {
@@ -20,9 +52,41 @@
           "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
         }
       ],
-      "duration_ms": 182665,
-      "name": "Puppet Show",
-      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-07-24 04:02:21",
+      "album": {
+        "name": "Pre-Raphaelite",
+        "url": "https://open.spotify.com/album/4ecmqq3oqOh1y1qS7sn8px"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 262794,
+      "name": "Pre-Raphaelite",
+      "url": "https://open.spotify.com/track/29c7ide0e4bt5a0csdPOPU"
+    },
+    {
+      "added_at": "2026-08-14 00:00:20",
+      "album": {
+        "name": "All American",
+        "url": "https://open.spotify.com/album/45JLlolM49Iw5VAccAEO1M"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "All American",
+      "url": "https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt"
     },
     {
       "added_at": "2026-08-07 05:15:42",
@@ -41,20 +105,20 @@
       "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
     },
     {
-      "added_at": "2026-07-31 04:00:20",
+      "added_at": "2026-04-03 04:01:43",
       "album": {
-        "name": "Knight of Swords",
-        "url": "https://open.spotify.com/album/1QspQHGZ9yJhibMqUshuA0"
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
       },
       "artists": [
         {
-          "name": "Alexandria",
-          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 159157,
-      "name": "Knight of Swords",
-      "url": "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2"
+      "duration_ms": 184788,
+      "name": "Night at the Opera",
+      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
     },
     {
       "added_at": "2026-07-20 18:13:27",
@@ -89,22 +153,6 @@
       "url": "https://open.spotify.com/track/3ZioR8GLXGtoILTI0zyqhC"
     },
     {
-      "added_at": "2026-05-22 04:02:09",
-      "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
-    },
-    {
       "added_at": "2026-07-31 04:00:20",
       "album": {
         "name": "Expensive Taste",
@@ -121,36 +169,20 @@
       "url": "https://open.spotify.com/track/2Q3mfoPvqOZ4TtoXr4Uyv0"
     },
     {
-      "added_at": "2026-07-24 04:02:21",
+      "added_at": "2026-07-31 04:00:20",
       "album": {
-        "name": "Pre-Raphaelite",
-        "url": "https://open.spotify.com/album/4ecmqq3oqOh1y1qS7sn8px"
+        "name": "Puppet Show",
+        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
         }
       ],
-      "duration_ms": 262794,
-      "name": "Pre-Raphaelite",
-      "url": "https://open.spotify.com/track/29c7ide0e4bt5a0csdPOPU"
-    },
-    {
-      "added_at": "2026-04-03 04:01:43",
-      "album": {
-        "name": "Night at the Opera",
-        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 184788,
-      "name": "Night at the Opera",
-      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
+      "duration_ms": 182665,
+      "name": "Puppet Show",
+      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
     },
     {
       "added_at": "2026-07-10 04:24:09",
@@ -719,22 +751,6 @@
     {
       "added_at": "2026-03-20 04:00:49",
       "album": {
-        "name": "Phone Sick",
-        "url": "https://open.spotify.com/album/2z6Jrpz7NPBWDe2yzRY2qv"
-      },
-      "artists": [
-        {
-          "name": "Tommy Newport",
-          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
-        }
-      ],
-      "duration_ms": 168284,
-      "name": "Phone Sick",
-      "url": "https://open.spotify.com/track/0LYwys0V2rejdfZ1LrEiun"
-    },
-    {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
         "name": "No Dogs Allowed",
         "url": "https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 217649,
       "name": "Never Be Me (M\u2605therf\u2605cker)",
       "url": "https://open.spotify.com/track/0RCaDuYsW4d5dtsx6G2u1K"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Happyland",
-        "url": "https://open.spotify.com/album/58grAOX8T0QafdrapcNPSu"
-      },
-      "artists": [
-        {
-          "name": "Sky Li",
-          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Happyland",
-      "url": "https://open.spotify.com/track/09xFY1YnSB0YdjImzv9yCS"
     },
     {
       "added_at": "2025-11-10 22:16:42",

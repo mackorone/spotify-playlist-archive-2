@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-881 songs - 1 day 19 hr 43 min
+883 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Artificial Love](https://open.spotify.com/track/2f0rA5PoORaLqHd6OghZsC) | [Part Native](https://open.spotify.com/artist/31Fhago9BJoUASlISFmieX), [Oly](https://open.spotify.com/artist/46schiPKx3WhuYpa4XykpL) | [Artificial Love](https://open.spotify.com/album/00otmxypSxSWekoqUJwh1D) | 3:21 | 2022-10-13 | 2023-04-28 |
 | [ascend](https://open.spotify.com/track/0u8QvZSfPmibHosPqgaeUl) | [KORZIX](https://open.spotify.com/artist/6amlo0aysVfU2RSddhJ6V0) | [ascend](https://open.spotify.com/album/2IXg9MdjyuKwAXh77EX4EW) | 2:58 | 2026-05-07 |  |
 | [Asteroid II](https://open.spotify.com/track/2gfVi9fQCGfV36D5hOzNqy) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Asteroid II](https://open.spotify.com/album/6a9Rw9SEd0nTwPp4otPeLm) | 3:57 | 2025-01-18 |  |
+| [ASTRA](https://open.spotify.com/track/3F6THn06f6PGFraLEcv2t9) | [Ahrix](https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa) | [ASTRA](https://open.spotify.com/album/4SZDEJH7seVnMCkicfPM1e) | 2:49 | 2026-08-13 |  |
 | [Atlas](https://open.spotify.com/track/65yS1gQXVRk2dHzR5m5j5u) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Atlas](https://open.spotify.com/album/0cOEk2M6iLEVBbPAlHWzgu) | 3:35 | 2026-06-30 |  |
 | [Away](https://open.spotify.com/track/43yExGeOSTvdXzq3GJpeVS) | [James Roche](https://open.spotify.com/artist/4b2kEE2HzyOwcP1rVNBJPT) | [Away](https://open.spotify.com/album/53RQT1BteGO1olm1EZLSUX) | 3:25 | 2022-05-03 | 2023-04-28 |
 | [Away From Me](https://open.spotify.com/track/0hmILZ2aTCcntfX9Hde96T) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [Away From Me](https://open.spotify.com/album/6TK2A3juCejutugbkArptL) | 3:02 | 2022-06-10 | 2023-04-28 |
@@ -176,6 +177,7 @@
 | [Darkness](https://open.spotify.com/track/2yT6EsKV5GBdd9AO8gd4JJ) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Darkness](https://open.spotify.com/album/08xgXUGQbxUp6eCdBWyRTS) | 3:41 | 2022-08-11 | 2023-04-28 |
 | [Daydream](https://open.spotify.com/track/1hUp6I7PRARMZ0pCrXhE7s) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [blankfaces](https://open.spotify.com/artist/6E416eeGBMwMlH3FmlxOMS) | [Daydream](https://open.spotify.com/album/00VnMTJa80xTQFonoCksxo) | 2:49 | 2022-04-12 | 2023-04-28 |
 | [Deep End](https://open.spotify.com/track/784DsuZ2P86jqOmhzYTkdv) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Fendy Cisneros](https://open.spotify.com/artist/2LwuboX4U5ljjdoDmuMRc2), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Deep End](https://open.spotify.com/album/2Ny0KwjIuUXwUWEzTiJedo) | 4:21 | 2026-05-15 |  |
+| [Deep In Paris](https://open.spotify.com/track/2y0pi5dOPByIkp85mg1ayV) | [LXNDER](https://open.spotify.com/artist/5rFyzu1s7Z357JVyhRHs2L) | [Deep In Paris](https://open.spotify.com/album/3E4iMC8c9olNkzr4u6k49D) | 3:09 | 2026-08-13 |  |
 | [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-06-14 |  |
 | [Demnuhbad](https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Demnuhbad](https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH) | 3:06 | 2022-11-03 | 2023-04-28 |
 | [Dependant](https://open.spotify.com/track/19vH2GjbvGE9V9ixp9TBfs) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [VALLO](https://open.spotify.com/artist/4BIIvS5s6ed82JswZFSAoJ), [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 3:13 | 2025-07-25 |  |

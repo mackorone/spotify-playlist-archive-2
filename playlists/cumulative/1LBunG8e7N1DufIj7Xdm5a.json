@@ -12003,6 +12003,24 @@
     },
     {
       "album": {
+        "name": "volume 1",
+        "url": "https://open.spotify.com/album/32rJQIOwi05ntcM63HrBMv"
+      },
+      "artists": [
+        {
+          "name": "I",
+          "url": "https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234765,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/1ZAaAQIEdyjVsLksHQ4OsF"
+    },
+    {
+      "album": {
         "name": "Brit pop emotions",
         "url": "https://open.spotify.com/album/5WC359ysjzx5ttU8vtw59R"
       },
@@ -18118,6 +18136,24 @@
       "duration_ms": 250500,
       "name": "Desde Que Te Vi",
       "url": "https://open.spotify.com/track/4zRfPFZQJ3FgXY6fYPVyee"
+    },
+    {
+      "album": {
+        "name": "Desde Que Te Vi",
+        "url": "https://open.spotify.com/album/3EkwZkINxtxuouw9GX8yJ3"
+      },
+      "artists": [
+        {
+          "name": "RELUCIENTE",
+          "url": "https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256556,
+      "name": "Desde Que Te Vi",
+      "url": "https://open.spotify.com/track/7fxlAkBJCSOt7DbzQmcNgU"
     },
     {
       "album": {
@@ -59882,6 +59918,24 @@
       "duration_ms": 214400,
       "name": "Riding the Waves (another)",
       "url": "https://open.spotify.com/track/6TDSR8kgCz5q7Q62plYaPU"
+    },
+    {
+      "album": {
+        "name": "Riempimi la vita",
+        "url": "https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Urbani",
+          "url": "https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260625,
+      "name": "Riempimi la vita",
+      "url": "https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ"
     },
     {
       "album": {

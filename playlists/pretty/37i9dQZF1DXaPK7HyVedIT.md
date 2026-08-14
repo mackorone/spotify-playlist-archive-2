@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Breaking Beattz, ENNE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,797 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,624 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Belong](https://open.spotify.com/track/6blPhUuaJYCg38wUvUjSxB) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Belong](https://open.spotify.com/album/72EZQPxBJuuPJrE1Y84jqZ) | 3:07 |
 | 80 | [Tira a Roupa](https://open.spotify.com/track/5DubE3xyHVLBWsj1fioWpV) | [Mc Jajau](https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm), [Sourake](https://open.spotify.com/artist/2dkUO7orPMosap7iOINUte) | [Tira a Roupa](https://open.spotify.com/album/6ItvqzeikfkddhiKOKHfGf) | 3:36 |
 
-Snapshot ID: `AAAAAIjgh7yGX1j6QrhyyBcM0T6NbqYW`
+Snapshot ID: `AAAAAJfBSAcw8xYtpeeyeXHmwwmFkliS`

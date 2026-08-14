@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: BNXN & Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,176 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,390 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [Pass By](https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC) | [Yan Yan](https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC) | [Pass By](https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye) | 3:09 |
 | 50 | [California Girls](https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:29 |
 
-Snapshot ID: `AAAAACzurRPj62P/pnT2hdonk6xmk4nX`
+Snapshot ID: `AAAAAFUHkMrn/earfZVEtTs0MWY6iieg`

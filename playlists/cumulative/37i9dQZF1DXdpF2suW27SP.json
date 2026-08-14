@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Piruka entra na zona. ",
+  "description": "Julinho Ksd entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 207900,
       "name": "33 Idade de Cristo",
       "url": "https://open.spotify.com/track/4KFdhXIAQaSPsy6e7CV7yr"
@@ -5811,6 +5811,24 @@
     },
     {
       "album": {
+        "name": "Demb\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/50utoD0gDO1vqAqEVzHXqq"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171645,
+      "name": "Demb\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/5axSqCpJHcCaRdLv6gQ7ks"
+    },
+    {
+      "album": {
         "name": "DEMONS",
         "url": "https://open.spotify.com/album/6X04ooHMiN96MSveBdWffK"
       },
@@ -7074,6 +7092,24 @@
       "duration_ms": 175200,
       "name": "Espirito",
       "url": "https://open.spotify.com/track/1qRFaUg4Lr8suJArLQajv1"
+    },
+    {
+      "album": {
+        "name": "Esp\u00edrito Maci\u00e7o",
+        "url": "https://open.spotify.com/album/7In3g49Y06orBahl50mfiG"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "ESP\u00cdRITO MACI\u00c7O",
+      "url": "https://open.spotify.com/track/5Vmjh474jpJv2QS0Ii9Yfg"
     },
     {
       "album": {
@@ -8448,7 +8484,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 177446,
       "name": "F\u00e9",
       "url": "https://open.spotify.com/track/3OTj724joKEqIYEyAVNUM4"
@@ -14448,6 +14484,32 @@
       "duration_ms": 246949,
       "name": "Offline",
       "url": "https://open.spotify.com/track/3dXtvTPF6BzNaiHvS7Nnrh"
+    },
+    {
+      "album": {
+        "name": "OI MINA (TUDO BEM?)",
+        "url": "https://open.spotify.com/album/22cNUZ9H3mQJa5zZJQczOk"
+      },
+      "artists": [
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176790,
+      "name": "OI MINA (TUDO BEM?)",
+      "url": "https://open.spotify.com/track/4fCRbcfJHO9H4iHiaQJFPN"
     },
     {
       "album": {
@@ -20946,7 +21008,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 157440,
       "name": "ver\u00e3o de lisboa",
       "url": "https://open.spotify.com/track/5BsvhFYvtZocwGJwq0Jstp"

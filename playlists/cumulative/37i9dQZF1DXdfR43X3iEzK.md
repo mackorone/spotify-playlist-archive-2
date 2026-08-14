@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️ cover: Charli xcx
 
-722 songs - 1 day 14 hr 52 min
+725 songs - 1 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-03-07 | 2025-04-04 |
 | [10,000](https://open.spotify.com/track/3L3OyQVxvONlOkQ1P01Kii) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [10,000](https://open.spotify.com/album/0qgJMGAhglrempo7HwOdpl) | 2:56 | 2025-03-28 | 2025-04-18 |
 | [100 degrees](https://open.spotify.com/track/7aHHWISzIJkbIZdDHvnqtS) | [bodydrive](https://open.spotify.com/artist/5tnWqhwxkbOnWHzTObneAc) | [100 degrees](https://open.spotify.com/album/6oJ8zAqD2KcEj0ZnSqflAH) | 2:39 | 2025-09-19 | 2025-11-14 |
-| [2007](https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:04 | 2026-07-24 |  |
+| [2007](https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:04 | 2026-07-24 | 2026-08-14 |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-02-14 | 2025-03-28 |
 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 | 2025-04-03 | 2025-06-07 |
 | [24 hours](https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [24 hours](https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2) | 3:40 | 2024-06-07 | 2024-07-22 |
@@ -202,7 +202,7 @@
 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 | 2026-07-09 |  |
 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 | 2026-05-07 |  |
 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 | 2024-06-07 | 2025-03-03 |
-| [Ego](https://open.spotify.com/track/2GrW3HhogphOsmsRZ18ndR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Ego](https://open.spotify.com/album/5wfBR3x36Lva6PyTaVnwCw) | 2:56 | 2026-05-07 |  |
+| [Ego](https://open.spotify.com/track/2GrW3HhogphOsmsRZ18ndR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Ego](https://open.spotify.com/album/5wfBR3x36Lva6PyTaVnwCw) | 2:56 | 2026-05-07 | 2026-08-14 |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-10-10 | 2025-03-14 |
 | [eighteen](https://open.spotify.com/track/4Nbl1AJEFlECs2PhpxU7o9) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [eighteen](https://open.spotify.com/album/5YRU0weFWelGixTTLqqdoR) | 3:34 | 2025-04-03 | 2025-05-16 |
 | [Eleanor Close](https://open.spotify.com/track/0TSezrWHvsZtBg1OqbkXDt) | [Ava Joe](https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj) | [Eleanor Close](https://open.spotify.com/album/3uBwyz9cflFhhsFABvuiNI) | 3:23 | 2025-04-17 | 2025-06-27 |
@@ -294,7 +294,7 @@
 | [harlequin/los días azules](https://open.spotify.com/track/6Hr364Nq8YBBBRLbgVKdOR) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [harlequin/los días azules](https://open.spotify.com/album/0vkm8EXlPx69p5lqOuZ3BN) | 3:30 | 2025-03-21 | 2025-05-02 |
 | [Have You Ever](https://open.spotify.com/track/2wZz5mg6quvxbVwJhb6DHU) | [Leah Cleaver](https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM) | [Have You Ever](https://open.spotify.com/album/2aXQEIchpBlE0oL29fXuee) | 2:52 | 2025-08-07 | 2025-08-29 |
 | [Head In The Clouds](https://open.spotify.com/track/2V0e7mj9sW7WdYn0bbkLXf) | [Daire Patel](https://open.spotify.com/artist/0qEjllyc5VRbiwOINKPR0G) | [Head In The Clouds](https://open.spotify.com/album/3kjgKZdwgOjHXxZO32ABG1) | 2:49 | 2025-08-21 | 2025-10-03 |
-| [HEART OF DARKNESS](https://open.spotify.com/track/7kByXTZk65bHj9kP2k9yHs) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [DIRT ON MY HANDS](https://open.spotify.com/album/46TbLLLUlWHrDCRlchF4ed) | 2:31 | 2026-04-23 |  |
+| [HEART OF DARKNESS](https://open.spotify.com/track/7kByXTZk65bHj9kP2k9yHs) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [DIRT ON MY HANDS](https://open.spotify.com/album/46TbLLLUlWHrDCRlchF4ed) | 2:31 | 2026-04-23 | 2026-08-14 |
 | [Heartache](https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 4:35 | 2024-06-07 | 2024-07-27 |
 | [heartbreak hotel](https://open.spotify.com/track/1VvYJUC8XGh1U1vJo8y63H) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [heartbreak hotel](https://open.spotify.com/album/1kIBEr0xRymkmsXeRc2kPS) | 2:56 | 2025-03-21 | 2025-04-18 |
 | [Heavenly](https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Heavenly](https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk) | 2:42 | 2026-03-20 | 2026-07-17 |
@@ -352,6 +352,7 @@
 | [IMPLOSION](https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [IMPLOSION](https://open.spotify.com/album/02uOUfa2VRpL4MMGH9fxU2) | 3:20 | 2025-11-28 | 2026-04-03 |
 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 | 2024-10-10 | 2025-03-21 |
 | [In Ur Head](https://open.spotify.com/track/2RDJdP8IxS0QcG1mOucbps) | [HIRA](https://open.spotify.com/artist/2rxiXXKdtR1e3ByeaGs7tv) | [In Ur Head](https://open.spotify.com/album/6SoMhkx6zza5omYrj4s7wG) | 2:33 | 2025-03-28 | 2025-05-10 |
+| [in vino veritas!](https://open.spotify.com/track/1ZUptgW52c61JXpRW6ivmN) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [in vino veritas!](https://open.spotify.com/album/2VIdb7sLoqXNwosA7mJruQ) | 2:27 | 2026-08-13 |  |
 | [infinyte](https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [infinyte](https://open.spotify.com/album/1WYACABvthzXRg3T5b6QZs) | 2:11 | 2025-03-07 | 2025-04-04 |
 | [iNSOMNiAC](https://open.spotify.com/track/1wl9sRI946fOxewS3k2ExF) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [iNSOMNiAC](https://open.spotify.com/album/6VAudXPDYWxC3kECysc8zw) | 2:45 | 2026-01-23 | 2026-02-20 |
 | [Insulin](https://open.spotify.com/track/27Mqha03Zh4DrrV89Qu1dM) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Insulin](https://open.spotify.com/album/5Uyc9rz7uEHFClJIzvr6Er) | 2:25 | 2025-05-15 | 2025-08-01 |
@@ -465,6 +466,7 @@
 | [Near\-hearted](https://open.spotify.com/track/5vUGOdQxiPWVbeCQEfyhUt) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Near\-hearted](https://open.spotify.com/album/2GaymFwMlPI5fzvxqlApwP) | 3:25 | 2025-03-14 | 2025-04-04 |
 | [neckdeep](https://open.spotify.com/track/5zMZ5EoTzjvoRGHTt5cmal) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [neckdeep](https://open.spotify.com/album/1OIRD9TXUp6Pzklt3JKTQZ) | 2:58 | 2025-07-31 | 2025-11-14 |
 | [Need It](https://open.spotify.com/track/4RWS4yahE7x7OYcKGHNDTH) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Need It](https://open.spotify.com/album/134SC6sDYvnri5Pznddc5E) | 3:48 | 2026-06-25 | 2026-07-25 |
+| [Needle](https://open.spotify.com/track/0Bxh3DKY42997tK3SBY6iD) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Needle](https://open.spotify.com/album/7gj35vKZSrndvclu5KyKib) | 3:00 | 2026-08-13 |  |
 | [Neighbourhood Watch](https://open.spotify.com/track/53HoIiqYiL7i63P1F5XF2b) | [Tyrese Ryan](https://open.spotify.com/artist/7MZuK7vnEfwviocPQOTCfu) | [Neighbourhood Watch](https://open.spotify.com/album/7rDkDksgaL55rerai6R2Rt) | 3:57 | 2025-04-03 | 2025-07-25 |
 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 | 2025-06-06 | 2025-07-25 |
 | [Nevagonna](https://open.spotify.com/track/0xAZva9E2vELq4DKF0mtpO) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Join Hands](https://open.spotify.com/album/737OJLS2wQGbtapbSHX9fi) | 4:41 | 2026-02-20 | 2026-07-31 |
@@ -523,6 +525,7 @@
 | [POOR CHOICES](https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [POOR CHOICES](https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE) | 3:24 | 2025-07-24 | 2025-10-24 |
 | [POP GIRL](https://open.spotify.com/track/1diiLBOnInnwZjMnRyKWQT) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [POP GIRL](https://open.spotify.com/album/794FeYrpWfWp4eDcWHuu5d) | 2:34 | 2025-03-21 | 2025-04-04 |
 | [Pop Out](https://open.spotify.com/track/4tJP37H4IBwmajRzyzLiNc) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Pop Out](https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn) | 2:29 | 2025-03-14 | 2025-03-28 |
+| [Porcelain](https://open.spotify.com/track/1o8zQNrBrbA0ukEDRRD9ub) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [The Summer Fables](https://open.spotify.com/album/3ZeT8r59p4lSOwPqiUop6H) | 2:31 | 2026-08-13 |  |
 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 | 2026-01-30 | 2026-04-03 |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-19 | 2026-04-17 |
 | [PQC](https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [PQC](https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY) | 3:32 | 2026-06-18 |  |
@@ -686,7 +689,7 @@
 | [w\-w\-w\-w\-w](https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [w\-w\-w\-w\-w](https://open.spotify.com/album/5wICjFM6k0RJow9l8anfuk) | 4:26 | 2026-01-23 |  |
 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-02 | 2025-11-07 |
 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 | 2026-01-16 | 2026-05-29 |
-| [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 | 2026-04-16 |  |
+| [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 | 2026-04-16 | 2026-08-14 |
 | [Watch You Cry](https://open.spotify.com/track/58V9jnfzBFl02vdET97snL) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Watch You Cry](https://open.spotify.com/album/3051n3lHJtiS1XzjRB2xXP) | 2:29 | 2026-04-09 | 2026-05-08 |
 | [We Move](https://open.spotify.com/track/7ahvkrZ5wIpOTRBKYmL0i0) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Common People](https://open.spotify.com/album/6QuyXjOtOEWJ0RkUanzAlu) | 2:26 | 2024-08-23 | 2024-10-11 |
 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 | 2025-06-19 | 2025-08-22 |

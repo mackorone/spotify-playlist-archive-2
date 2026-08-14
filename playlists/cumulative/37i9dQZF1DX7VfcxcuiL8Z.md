@@ -4,7 +4,7 @@
 
 > The best in new rock\. Cover: BIG NOTER & Joe Talbot
 
-698 songs - 1 day 16 hr 55 min
+700 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Hate Me If You Want](https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Hate Me If You Want](https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg) | 2:52 | 2024-09-19 | 2025-03-21 |
 | [He's A Lad](https://open.spotify.com/track/5btBJ5bMhC5rj9hI5uG44I) | [Noah Dillon](https://open.spotify.com/artist/6g4VCntGKDE2bsGSPEjtal) | [He's A Lad](https://open.spotify.com/album/5oTg0D4D6qNCmtpkOskoYZ) | 3:50 | 2024-07-11 | 2024-09-27 |
 | [Head Chef](https://open.spotify.com/track/4Y9oWVeBZuSdZnIrO2T3Rr) | [Divers](https://open.spotify.com/artist/77BJw9jVNJQNmOf4wUpmtV) | [Head Chef](https://open.spotify.com/album/7nNNcWhjeminih4b3majs1) | 3:04 | 2026-04-02 | 2026-06-26 |
-| [Head On](https://open.spotify.com/track/2UtqgSde6wOGbdXa5ShRq5) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Head On](https://open.spotify.com/album/7l9b9zoidvTrvs0GIIxbG2) | 4:37 | 2026-05-14 |  |
+| [Head On](https://open.spotify.com/track/2UtqgSde6wOGbdXa5ShRq5) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Head On](https://open.spotify.com/album/7l9b9zoidvTrvs0GIIxbG2) | 4:37 | 2026-05-14 | 2026-08-14 |
 | [Heart Has To Work So Hard](https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Heart Has To Work So Hard](https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh) | 3:12 | 2026-05-21 |  |
 | [Heartbeats](https://open.spotify.com/track/7kPB1hXYtfc0uNt6L5bc7v) | [The Angels](https://open.spotify.com/artist/2PeqTZKroEc2oDwTfmB2al) | [Ninety Nine](https://open.spotify.com/album/5GPBkq5Um3EzY4OFnDfcR7) | 3:39 | 2024-06-27 | 2024-12-06 |
 | [Heatin Park](https://open.spotify.com/track/3DFp8aDFLHhw5ybu4EZ6rE) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Heatin Park](https://open.spotify.com/album/7KIvth3SEJwJMnBIyJ6XKT) | 3:11 | 2026-04-30 | 2026-07-17 |
@@ -264,7 +264,7 @@
 | [Heavy Rain](https://open.spotify.com/track/5iFraPN6vo1W4cQAhOMeAH) | [Mulga Bore Hard Rock](https://open.spotify.com/artist/20UoU6pOqBHVcSRITcRIzl) | [Heavy Rain](https://open.spotify.com/album/1agfSEUlwa4atpbck7205R) | 4:31 | 2025-07-17 | 2025-09-12 |
 | [Hello Heaven, Hello](https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hello Heaven, Hello](https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH) | 9:06 | 2025-03-20 | 2025-05-30 |
 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 | 2025-11-20 | 2026-03-13 |
-| [Hexagons](https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Hexagons](https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV) | 5:26 | 2026-05-21 |  |
+| [Hexagons](https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Hexagons](https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV) | 5:26 | 2026-05-21 | 2026-08-14 |
 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 | 2025-08-14 | 2026-01-23 |
 | [High Beaming](https://open.spotify.com/track/5FtasByO6sDnqnG3mSoVjH) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [High Beaming](https://open.spotify.com/album/3oHY7GXtZp2EDsCiBhEDvY) | 3:34 | 2024-10-03 | 2025-03-21 |
 | [Higher](https://open.spotify.com/track/6PSOiV7Kb6x9MXSCnjExjk) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Longing](https://open.spotify.com/album/4MDM4dRocyfz1ufgaslgYK) | 3:10 | 2025-10-09 | 2025-11-07 |
@@ -438,6 +438,7 @@
 | [NOSE BLEED](https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [NOSE BLEED](https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j) | 3:15 | 2024-08-22 | 2024-11-22 |
 | [Not Hell, Not Heaven](https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Not Hell, Not Heaven](https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU) | 3:01 | 2025-01-16 | 2025-04-11 |
 | [Not Sacred](https://open.spotify.com/track/1XVxwUCxMLUztlz8JMy7q8) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky \(Deluxe\)](https://open.spotify.com/album/3otUXa8fv7v1bbi3ndLeW5) | 3:46 | 2025-11-13 | 2026-06-12 |
+| [NOTHING BETTER THAN THIS](https://open.spotify.com/track/2TjPB2mMfxORhUkJYJ9rj8) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [NOTHING BETTER THAN THIS](https://open.spotify.com/album/78D6ZKU4ejLoZF7ghxaqTP) | 2:38 | 2026-08-13 |  |
 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 | 2025-07-10 | 2025-10-03 |
 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 | 2024-12-19 | 2025-02-28 |
 | [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 | 2024-04-09 | 2024-07-05 |
@@ -584,6 +585,7 @@
 | [Taught by Experts](https://open.spotify.com/track/6uY90KiItyiy7Zh9v1pZLa) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Taught by Experts](https://open.spotify.com/album/0scNkybavk92Oy52wopl8l) | 3:01 | 2024-08-01 | 2024-10-18 |
 | [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:49 | 2026-02-26 | 2026-07-10 |
 | [Tell Me When You've Had Enough](https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv) | 3:19 | 2026-06-04 |  |
+| [Ten Over Ten](https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Ten Over Ten](https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za) | 3:17 | 2026-08-13 |  |
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-01 | 2024-12-13 |
 | [That's What You Do For Love](https://open.spotify.com/track/1Vt0rDoC3lqKOqdQtexxyo) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [That's What You Do For Love](https://open.spotify.com/album/1eJIgChtTpPU9PruenGRNo) | 5:24 | 2025-05-29 | 2025-08-01 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-30 | 2024-08-09 |
@@ -598,7 +600,7 @@
 | [The End](https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN) | 3:33 | 2025-05-22 | 2025-08-22 |
 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 | 2026-04-16 | 2026-07-31 |
 | [the first time](https://open.spotify.com/track/5yTWtC6Hrb40M5yWrtdyNN) | [Eskimo Joe](https://open.spotify.com/artist/3yW6jTzGjHUUkLvLkjLOVn) | [the first time](https://open.spotify.com/album/76Nth0BGpoCypOPzUGSYD0) | 3:16 | 2024-04-09 | 2024-07-27 |
-| [The Hallway](https://open.spotify.com/track/72t91cy0ZOAZmFIPG32PI8) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [The Hallway](https://open.spotify.com/album/5WPDCTU1UNc9Cfi9eAU5RR) | 3:12 | 2026-03-26 |  |
+| [The Hallway](https://open.spotify.com/track/72t91cy0ZOAZmFIPG32PI8) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [The Hallway](https://open.spotify.com/album/5WPDCTU1UNc9Cfi9eAU5RR) | 3:12 | 2026-03-26 | 2026-08-14 |
 | [The Headache](https://open.spotify.com/track/67A1kIgbpNZM3Ls7mswvu8) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Headache](https://open.spotify.com/album/3HtBoi74E38TJ3Ve6H7fhj) | 3:19 | 2025-09-11 | 2026-03-13 |
 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 | 2025-08-14 | 2025-10-17 |
 | [The Howl](https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Gravity Stairs](https://open.spotify.com/album/1Fy7fMGY3g1lGy8Wzg0bua) | 3:26 | 2024-05-30 | 2024-08-23 |

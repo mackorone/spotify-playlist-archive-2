@@ -1,12 +1,12 @@
 {
   "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Atif Aslam",
-  "num_followers": 85302,
+  "num_followers": 85312,
   "original_name": "Pakka Hit Hai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAY/+6XPxyaNetHPqNa67DEuMUNt",
+  "snapshot_id": "AAAAAJX3aWgFC/445FVXMnTIyhofjn2z",
   "tracks": [
     {
       "added_at": "2026-08-07 02:55:33",
@@ -951,7 +951,7 @@
     {
       "added_at": "2026-08-07 02:55:33",
       "album": {
-        "name": "Jhol - Acoustic",
+        "name": "Jhol - Acoustic (feat. Asfand)",
         "url": "https://open.spotify.com/album/1z8pfDEtCC0CxAOVT9IYkS"
       },
       "artists": [
@@ -966,10 +966,14 @@
         {
           "name": "Abdullah Siddiqui",
           "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        },
+        {
+          "name": "Asfand",
+          "url": "https://open.spotify.com/artist/5Dmma2b9AAtPyCfZ2tlTcX"
         }
       ],
       "duration_ms": 277600,
-      "name": "Jhol - Acoustic",
+      "name": "Jhol - Acoustic (feat. Asfand)",
       "url": "https://open.spotify.com/track/44LaY2y6wRRlSRjsqbKnuU"
     },
     {

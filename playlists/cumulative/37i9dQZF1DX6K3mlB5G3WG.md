@@ -4,7 +4,7 @@
 
 > Stray Kids in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,586 songs - 7 day 16 hr 42 min
+3,587 songs - 7 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1942,6 +1942,7 @@
 | [Mediterranea \- Dumar Remix](https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba) | [Mediterranea \(Dumar Remix\)](https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4) | 3:04 | 2025-07-17 | 2025-08-29 |
 | [Megapixel \- URANO](https://open.spotify.com/track/1lA9F7QGuekEPyZlPZbAo7) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Megapixel \- URANO](https://open.spotify.com/album/4nvmZ5EqjvSBiurFRFOSOl) | 2:50 | 2024-10-24 | 2024-11-22 |
 | [Meglio di una star](https://open.spotify.com/track/1zXmCTbWhmcIg3PtpQ2ugb) | [NDG](https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi), [sonoalaska](https://open.spotify.com/artist/3lxioj9FChaR6qaLUJqNvP) | [Meglio di una star](https://open.spotify.com/album/1MyJGfG1BmBSakdP1DJvgD) | 2:41 | 2026-07-16 |  |
+| [Melatonin](https://open.spotify.com/track/0Fscl5Gt6r9UfJR6OWG1wI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Melatonin](https://open.spotify.com/album/228ian0XYKvFtY1UchZy5d) | 3:42 | 2026-08-06 |  |
 | [MELODIA A MEZZANOTTE](https://open.spotify.com/track/45OP4nYKqulGEwWJoH40pO) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH) | [MELODIA A MEZZANOTTE](https://open.spotify.com/album/6CFU2OyVJRfhgotoZKbYDi) | 2:41 | 2025-11-20 | 2025-12-19 |
 | [melodrama \- spanish version](https://open.spotify.com/track/58VNLfh2s8c0hIIyt6pSju) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama \(spanish version\)](https://open.spotify.com/album/6ZnPYFp4Kdbq0tktEyiNUZ) | 2:28 | 2024-09-19 | 2024-10-11 |
 | [MELODRAMMATICA](https://open.spotify.com/track/7edWNIbb4IgSLapmElrC71) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1), [Cris Lora](https://open.spotify.com/artist/6qksD3IxPOFl23vSKcwmvi) | [MELODRAMMATICA](https://open.spotify.com/album/09R2MyfdedOCbzlGM8jrXc) | 2:56 | 2026-06-04 | 2026-06-19 |

@@ -2,9 +2,9 @@
 
 ### [Hot Greek Rap](https://open.spotify.com/playlist/37i9dQZF1DXczv0e5n6k9E)
 
-> Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Bossikan
+> Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Likeboss
 
-822 songs - 1 day 14 hr 0 min
+824 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [ATARII](https://open.spotify.com/track/55zrEhzZSjs2iqVPq9hdbU) | [Dan Theo](https://open.spotify.com/artist/0NqenrJcLDQ0mw4KLMCB3n), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX), [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm), [Ν.Ο.Ε.](https://open.spotify.com/artist/32YyBhznrvsMy7KtZRZxU5) | [ATARII](https://open.spotify.com/album/4LvFOsnhGS4GNxqi9zZXf0) | 2:28 | 2024-09-26 | 2024-10-11 |
 | [ATHINA](https://open.spotify.com/track/3ArVgY4NbNqd6RXvD3mdW4) | [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [Venom](https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr), [Dj Paris](https://open.spotify.com/artist/2SPcc674zxWa2igyUZCASd) | [ATHINA](https://open.spotify.com/album/6R6psrXwDcQEFkXn2Ni3oG) | 2:43 | 2024-06-27 | 2024-07-05 |
 | [ATHINA](https://open.spotify.com/track/6KURM9fEiDWxHsepuicdx1) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [SE5EIMAIEKEI](https://open.spotify.com/album/0af7T692JsA9UIYXFdimyh) | 2:03 | 2025-05-15 | 2025-10-10 |
-| [AURIO](https://open.spotify.com/track/1kiaIlzjIAlw7IkobujKvq) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [HIT MACHINE](https://open.spotify.com/artist/5sf5nJwxeeMgsYlNsa0oX4) | [AURIO](https://open.spotify.com/album/3Tn0abANiGtNdXghjKxPKB) | 2:35 | 2026-07-30 |  |
+| [AURIO](https://open.spotify.com/track/1kiaIlzjIAlw7IkobujKvq) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [HIT MACHINE](https://open.spotify.com/artist/5sf5nJwxeeMgsYlNsa0oX4) | [AURIO](https://open.spotify.com/album/3Tn0abANiGtNdXghjKxPKB) | 2:35 | 2026-07-30 | 2026-08-14 |
 | [Automatic](https://open.spotify.com/track/66lzDOj7nOuv3Au4O9LXC3) | [Verde](https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [Automatic](https://open.spotify.com/album/3hsu2wB0cnSbjrAm2Adv0L) | 2:19 | 2025-04-24 | 2025-05-09 |
 | [AVANTAGE](https://open.spotify.com/track/2px5Fplo9yVFFBqlFKWn74) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [AVANTAGE](https://open.spotify.com/album/5cwuxnk3TewfALIK5rLUWK) | 3:31 | 2026-07-30 |  |
 | [AVASIMA STOIXEIA](https://open.spotify.com/track/3Nb7cNFSCPpr8FAyNNxUq7) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm), [Grandbois](https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu) | [AVASIMA STOIXEIA](https://open.spotify.com/album/4zBlFHNnuPZOuTwEJd6Nzm) | 4:10 | 2026-04-30 | 2026-07-03 |
@@ -125,6 +125,7 @@
 | [BLICK](https://open.spotify.com/track/4JYT4c4OfnTHo3M1DiTtxV) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [BLICK](https://open.spotify.com/album/7nHSZtgR01S2lAbMbhxJKQ) | 1:34 | 2024-12-05 | 2024-12-20 |
 | [BLICK \- Remix](https://open.spotify.com/track/0uAzjbolMC0qmUrg2Gxoad) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [BLICK \(Remix\)](https://open.spotify.com/album/68bkuGfJNPQgatDVC6OQ82) | 2:40 | 2024-12-12 | 2025-02-14 |
 | [Bling Blao](https://open.spotify.com/track/13p8k8bvCBi75tcVbgLmDa) | [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG) | [Bling Blao](https://open.spotify.com/album/1zx4y1Zc8vSzCcSPMxCkXa) | 2:29 | 2025-10-30 | 2025-12-12 |
+| [BLUE CURACAO](https://open.spotify.com/track/5tLBF4O1yatzdf8lQeQibM) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [BLUE CURACAO](https://open.spotify.com/album/4jntlpAqQrzRmhjfUMK4zr) | 2:32 | 2026-08-13 |  |
 | [BOGOTA](https://open.spotify.com/track/0RVZgyIzq2mg3dboVj6up9) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [BOGOTA](https://open.spotify.com/album/4z3Bb6klPzOJM241TxiJSh) | 1:49 | 2026-05-07 | 2026-05-19 |
 | [Bonnie](https://open.spotify.com/track/4Mt52gHMDFcLKplLU4NKaW) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [TOPBOY 2](https://open.spotify.com/album/1vAde1dIOlmEuT2UqK2EyK) | 2:38 | 2024-06-27 | 2024-12-20 |
 | [Book of ra](https://open.spotify.com/track/5PuO3krQlVdYAblwsbbq4m) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [Book of ra](https://open.spotify.com/album/71jzzXA6TSrL5b1WTJS7JT) | 1:52 | 2024-10-03 | 2025-02-07 |
@@ -473,6 +474,7 @@
 | [Messy](https://open.spotify.com/track/5CqO0vPgia1781FOP2CjdE) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Messy](https://open.spotify.com/album/7nWf3uKfeQOGvkxAxfRfiw) | 3:12 | 2024-06-27 | 2024-11-29 |
 | [METRITA](https://open.spotify.com/track/2QkVtveUnxkl2tgRILL66t) | [FANN](https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269), [Yung Rocky](https://open.spotify.com/artist/7naeVhwpAjzdKBoHrFha18), [Greco Beats](https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV) | [FAST LANE](https://open.spotify.com/album/4I2anWTbsIegYIwII4jlrK) | 2:46 | 2024-12-12 | 2025-01-24 |
 | [MIA](https://open.spotify.com/track/0QzWunyFKz5uOqXfdhBXwm) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [MIA](https://open.spotify.com/album/3JzLH4HjiidCIJatdl6ipU) | 2:28 | 2024-06-27 | 2024-07-05 |
+| [MIA FORA](https://open.spotify.com/track/5Gd5rEAgtIfvywCINFLQRz) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx) | [MIA FORA](https://open.spotify.com/album/2tqQuMabXftkOdnCzC7co4) | 2:47 | 2026-08-13 |  |
 | [Miami](https://open.spotify.com/track/0rWIlMaivrU7sGtU1G6pIa) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [Miami](https://open.spotify.com/album/01kpClH7z0JanjmKzCXYZs) | 2:14 | 2025-06-26 | 2025-07-18 |
 | [Min Rotas](https://open.spotify.com/track/4q3ZJbvVEIFnZLW4x6wldZ) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Min Rotas](https://open.spotify.com/album/0bLTgeLE1MAWstuWkecADW) | 1:51 | 2026-01-22 | 2026-02-20 |
 | [Mindset](https://open.spotify.com/track/6IzsPGUorc1wM2AEW3Cypy) | [Mel](https://open.spotify.com/artist/0fo4hbtY8v9248tMgaR8i3), [Katohos](https://open.spotify.com/artist/37vmuL2WrCqCOCk0VUVZsH) | [Mindset](https://open.spotify.com/album/0oZxTEFPNUNf0yZygPqJ8U) | 2:34 | 2026-02-12 | 2026-02-27 |

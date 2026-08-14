@@ -3811,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "Bitterljuva unga dar",
+        "url": "https://open.spotify.com/album/157gmJw8xPyZn5dHShHTBP"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222823,
+      "name": "Bitterljuva unga dar",
+      "url": "https://open.spotify.com/track/1tIxDrDWsjUJxyJe4diD6t"
+    },
+    {
+      "album": {
         "name": "Black Widow",
         "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
       },
@@ -4810,7 +4828,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Brogatan",
       "url": "https://open.spotify.com/track/2xDsMtle47sbnSTRM94XxO"
@@ -5914,7 +5932,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 152693,
       "name": "Cherry Blossom Sky",
       "url": "https://open.spotify.com/track/63HUPODfR1TEcUNvMtYnkh"
@@ -6846,7 +6864,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 210292,
       "name": "Dansa med mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi"
@@ -13044,7 +13062,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 216520,
       "name": "F\u00f6r n\u00e4ra solen",
       "url": "https://open.spotify.com/track/6J71OcLTKjZIIH9AlYu0LW"
@@ -14380,7 +14398,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 217560,
       "name": "groby",
       "url": "https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s"
@@ -17126,7 +17144,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 205980,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK"
@@ -17148,6 +17166,24 @@
       "duration_ms": 190572,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/76hEkLg6onuuxavpw4aqlq"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/48kNSC9VNag007n2cdI374"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204483,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o"
     },
     {
       "album": {
@@ -21516,7 +21552,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 148571,
       "name": "K\u00e4nslostyrd",
       "url": "https://open.spotify.com/track/2uehAVAiwspd3OlukIw100"
@@ -23266,7 +23302,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 213880,
       "name": "LOVESONGS",
       "url": "https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR"
@@ -24526,7 +24562,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
@@ -25164,7 +25200,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 155769,
       "name": "Mina b\u00e4sta jeans",
       "url": "https://open.spotify.com/track/735Hwnau3dlQtzLtE1vCRn"
@@ -30422,7 +30458,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 146822,
       "name": "Ring mig",
       "url": "https://open.spotify.com/track/04OVPwGPTvOe5A88zHZsub"
@@ -34266,7 +34302,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 161147,
       "name": "Spelar ingen roll (feat. Simon Superti)",
       "url": "https://open.spotify.com/track/32NTHTbLx4HDwMHyixu8jd"
@@ -36782,7 +36818,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 199561,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
@@ -38288,7 +38324,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-30",
+      "date_removed": null,
       "duration_ms": 178863,
       "name": "Tomma l\u00e4ppar",
       "url": "https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf"
@@ -38422,6 +38458,24 @@
       "duration_ms": 266994,
       "name": "Toys",
       "url": "https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o"
+    },
+    {
+      "album": {
+        "name": "Forever June",
+        "url": "https://open.spotify.com/album/7yY1t6U4nDXv5sG1LXnAol"
+      },
+      "artists": [
+        {
+          "name": "Jacqline",
+          "url": "https://open.spotify.com/artist/5ZIzGM3sXUiF8EI6K18XQC"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/0dI91F5rGGIvG8ARfc9yJG"
     },
     {
       "album": {
@@ -41256,7 +41310,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 182000,
       "name": "V\u00e4ntat",
       "url": "https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM"

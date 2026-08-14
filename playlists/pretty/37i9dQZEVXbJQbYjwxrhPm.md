@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,889 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,892 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 29 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 30 | [Orient Express](https://open.spotify.com/track/5fyieCkRITuBt8EOs47W2f) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Unleashed](https://open.spotify.com/album/4x8QsNNRYXFnhC0TSXN2gs) | 3:29 |
 | 31 | [Rezhim Neprilichna](https://open.spotify.com/track/1BDsCVdpvuR5qku8n8LUqG) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Rezhim Neprilichna](https://open.spotify.com/album/2I068ub5TVwdj8IqoAoP5B) | 3:43 |
-| 32 | [Danoto kopay](https://open.spotify.com/track/1NCd6Euj3t2wiYRgPaX162) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Danoto kopay](https://open.spotify.com/album/5VZ7ACYZjoPVerXbmtIcAt) | 4:08 |
+| 32 | [Дъното копай](https://open.spotify.com/track/1HNT2gc2dDu9uymszz1ITN) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Дъното копай](https://open.spotify.com/album/10IxXLlcxkd2fssT2gsxts) | 4:08 |
 | 33 | [ΜΗ ΜΕ ΚΡΊΝΕΙΣ](https://open.spotify.com/track/6cCqKjD1W4wzTPg2B9JYKP) | [PakelDj](https://open.spotify.com/artist/2IBq49mnHMFx9he2kmPigF) | [ΜΗ ΜΕ ΚΡΊΝΕΙΣ](https://open.spotify.com/album/1dajQMalLpnTZzD0BJURR0) | 2:37 |
 | 34 | [TARIKATA](https://open.spotify.com/track/55BpgtsgLWNJs5OW1SpmLA) | [Nasyo Chernia](https://open.spotify.com/artist/14hRjnPyJXRdg38ghjQA9H), [Fury](https://open.spotify.com/artist/1NoJcqjaeEWed9cu8s55e5), [Bobo Armani](https://open.spotify.com/artist/1qlcFQMEzCTkYb6TsvirQg) | [TARIKATA](https://open.spotify.com/album/5bPqaqhQOjGuTS3bRYmbWc) | 3:43 |
 | 35 | [Kasay](https://open.spotify.com/track/4d8taEOlMp4ckG2OqxOjuW) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Kasay](https://open.spotify.com/album/5nS4Z3Ef0WDmhiSAWIu4ED) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Ne se iztrivash](https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Da gori v lyubov](https://open.spotify.com/album/2IoMC9LCOv4Ns9b5kSldYK) | 4:06 |
 | 50 | [Времето лекува](https://open.spotify.com/track/4kuW4hHAIl9tn8LuFQbAoz) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Времето лекува](https://open.spotify.com/album/4VtU0bvfeiySYWyZIsKiG0) | 3:37 |
 
-Snapshot ID: `Mg/YQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MhEpwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

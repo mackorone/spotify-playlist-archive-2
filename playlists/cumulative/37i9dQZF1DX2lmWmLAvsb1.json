@@ -712,13 +712,13 @@
           "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         },
         {
-          "name": "Rafa Pab\u00f6n",
+          "name": "Rafa Pab\u00f3n",
           "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
         }
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 259600,
       "name": "Jangueo",
       "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 219520,
       "name": "Solita",
       "url": "https://open.spotify.com/track/0tJCo71s7HT9Mu5Z4juuLw"

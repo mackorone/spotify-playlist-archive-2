@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,418 songs - 5 day 9 hr 37 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,420 songs - 5 day 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1504,7 +1504,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1494 | [I'll Go Home Then \- Radio Edit](https://open.spotify.com/track/50vAi3hmxhTMtPCUQFPN8t) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 1:53 |
 | 1495 | [Dumb](https://open.spotify.com/track/56gG5NdPZB1dyJJaQsgQC5) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 2:55 |
 | 1496 | [F The World](https://open.spotify.com/track/6sXwm0rdUS07s5sGZd11Jd) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz), [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 3:26 |
-| 1497 | [All The Things She Said \- Sped Up](https://open.spotify.com/track/2m1JNhcHrWOsexYdbqu9Ku) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [ex7stence](https://open.spotify.com/artist/24VULASL3GkrIpKGZUJQBd) | [All The Things She Said \(Sped Up\)](https://open.spotify.com/album/1JS0COqrR1cURcgPEiePjc) | 2:54 |
+| 1497 | [All The Things She Said \- Sped Up](https://open.spotify.com/track/2m1JNhcHrWOsexYdbqu9Ku) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V), [ex7stence](https://open.spotify.com/artist/24VULASL3GkrIpKGZUJQBd) | [All The Things She Said \(Sped Up\)](https://open.spotify.com/album/1JS0COqrR1cURcgPEiePjc) | 2:54 |
 | 1498 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 |
 | 1499 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 |
 | 1500 | [彼女が12\-14年間自分を切](https://open.spotify.com/track/2o57RiydGNsZmm7dLJLbhP) | [Rory in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N) | [黄色いチケット](https://open.spotify.com/album/1IOKPGvO8NCw5aD7nKbqEx) | 1:30 |
@@ -2426,5 +2426,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2416 | [POP](https://open.spotify.com/track/70I6XTFiBWQJubyJwXEmwX) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe) | [POP](https://open.spotify.com/album/5SbByqQTjHABlhNMymgKaU) | 1:48 |
 | 2417 | [Muerte Guarachosa](https://open.spotify.com/track/0MmpXLLJUOWrn6GZUCRYqX) | [Aleroj](https://open.spotify.com/artist/54m3plxbB6d8a0oIADRAgh) | [\*lo soba\*](https://open.spotify.com/album/0bSawKUm8QkOjAYdkQ3A1I) | 3:30 |
 | 2418 | [closer](https://open.spotify.com/track/7a0mDoO2vE1i9E3YQQxsPt) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [closer](https://open.spotify.com/album/26VxN0hSv4olzoRij5wyAD) | 3:33 |
+| 2419 | [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 |
+| 2420 | [Hurt](https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Hurt](https://open.spotify.com/album/6JIMB5E0g8XgwXd0sdS83S) | 2:47 |
 
-Snapshot ID: `AAAFe0+/p4EjgvGpj3Ej4jd6JGrz9Nk1`
+Snapshot ID: `AAAFfQys42ajYhVoz2Uot24GLfCfMC3X`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "BESTFRIEND",
+        "url": "https://open.spotify.com/album/614V2vkuaJXUcbrZZVDj2L"
+      },
+      "artists": [
+        {
+          "name": "Maya MZ",
+          "url": "https://open.spotify.com/artist/6owAxNul4DhFKaG1mjwONS"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189794,
+      "name": "BESTFRIEND",
+      "url": "https://open.spotify.com/track/1wEsaatfIyOqB7c4bjiXpb"
+    },
+    {
+      "album": {
         "name": "BISOUS",
         "url": "https://open.spotify.com/album/0gVRO0ZLekpgSMM7geLxUW"
       },
@@ -1268,6 +1286,28 @@
       "duration_ms": 157017,
       "name": "BoBo",
       "url": "https://open.spotify.com/track/0Win4YFmAvETJbDVOxFauD"
+    },
+    {
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/6qrU2hCfC6rguDad15MZz4"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127152,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6yLd1r4dwmoTZV8hgm4Gbn"
     },
     {
       "album": {
@@ -3020,7 +3060,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 157507,
       "name": "D2MB (SEXY RUMBA)",
       "url": "https://open.spotify.com/track/3jFCMn89zSlsFKONa2EbH4"
@@ -7254,6 +7294,24 @@
       "duration_ms": 167293,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0H5UXo3J6LWUtsNwIgdQr8"
+    },
+    {
+      "album": {
+        "name": "location",
+        "url": "https://open.spotify.com/album/0Kq1CqgBfILlRlxT3Xq8k6"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "location",
+      "url": "https://open.spotify.com/track/0PDTp5dVHePKWrJ4b532tg"
     },
     {
       "album": {
@@ -12227,6 +12285,32 @@
     },
     {
       "album": {
+        "name": "SLOW MOTION",
+        "url": "https://open.spotify.com/album/1P48SrsmARehR2mdIlutfh"
+      },
+      "artists": [
+        {
+          "name": "Buds",
+          "url": "https://open.spotify.com/artist/3WWwaNIedCv5YRyZ4eIhZd"
+        },
+        {
+          "name": "Questbeatz",
+          "url": "https://open.spotify.com/artist/5zUQMgPrB663FilLnbJ3Og"
+        },
+        {
+          "name": "Ruck P",
+          "url": "https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165319,
+      "name": "SLOW MOTION",
+      "url": "https://open.spotify.com/track/4UNP8eBTWUSLSptHCvEtdJ"
+    },
+    {
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/33HiiSp6nYFy2wpIJiT8Nl"
       },
@@ -13048,7 +13132,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 172235,
       "name": "Tant besoin de toi",
       "url": "https://open.spotify.com/track/3NfEKlon6TooIFcOekFpYh"
@@ -13204,7 +13288,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 165000,
       "name": "TELECOMMANDE",
       "url": "https://open.spotify.com/track/2ktUhX6j6vRgv3RWdof7I9"
@@ -13432,7 +13516,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 172023,
       "name": "Today",
       "url": "https://open.spotify.com/track/6qwYrQ50Zcxyfj3kDIowdU"

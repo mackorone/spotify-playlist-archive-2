@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 368157,
+  "num_followers": 368146,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKqpp6PE0UH/1Asp3pogamCRq2lN",
+  "snapshot_id": "AAAAANaMnKzLaasC1SzeEL3z8pKZtx5F",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "All I Know So Far",
-        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "All I Know So Far",
-      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "WIR",
         "url": "https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 207113,
       "name": "In N\u00e4chten Wie Diesen",
       "url": "https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "All I Know So Far",
+        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 277413,
+      "name": "All I Know So Far",
+      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "How Beautiful This Life Is",
-        "url": "https://open.spotify.com/album/2CshB3bOrYGHuXyIu9FsP9"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 161093,
-      "name": "Yesterday, Today, Tomorrow",
-      "url": "https://open.spotify.com/track/2rz6LNSkIKcG1ulv67HNZZ"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 215000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "How Beautiful This Life Is",
+        "url": "https://open.spotify.com/album/2CshB3bOrYGHuXyIu9FsP9"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 161093,
+      "name": "Yesterday, Today, Tomorrow",
+      "url": "https://open.spotify.com/track/2rz6LNSkIKcG1ulv67HNZZ"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Faded Love",
-        "url": "https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345"
-      },
-      "artists": [
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 148345,
-      "name": "Faded Love",
-      "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Good Old Days",
         "url": "https://open.spotify.com/album/0oHB2HAnWAToJvn7c4qZIt"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 179893,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/4oWMKNeoD1ghLCy37m0wQ1"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Faded Love",
+        "url": "https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 148345,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
     },
     {
       "added_at": "2026-08-06 22:00:47",

@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Durga Mantra - Extended",
+        "url": "https://open.spotify.com/album/5LceflBlofcir3TyJu88yC"
+      },
+      "artists": [
+        {
+          "name": "CassMae",
+          "url": "https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183760,
+      "name": "Durga Mantra - Extended",
+      "url": "https://open.spotify.com/track/47b3mwI3c1rD048JyqkKFL"
+    },
+    {
+      "album": {
         "name": "Gaiye Ganpati Jagvandan LoFi",
         "url": "https://open.spotify.com/album/3zlMtlTdavvMI8as1oZrCH"
       },
@@ -2812,7 +2830,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 1081463,
       "name": "Ram Naam Chanting",
       "url": "https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2"

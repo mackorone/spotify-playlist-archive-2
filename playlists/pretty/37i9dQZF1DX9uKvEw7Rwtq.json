@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 126861,
+  "num_followers": 126891,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP5XMqiXtJ2LsTQq+dIh3hwi3p/n",
+  "snapshot_id": "AAAAAOVb25UkCvjcFtT1oN57GppNCUrI",
   "tracks": [
     {
       "added_at": "2026-05-29 04:00:33",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Random Forest",
+        "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
+      },
+      "artists": [
+        {
+          "name": "Random Forest",
+          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
+        }
+      ],
+      "duration_ms": 327720,
+      "name": "Shadows Fall",
+      "url": "https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Random Forest",
-        "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
-      },
-      "artists": [
-        {
-          "name": "Random Forest",
-          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
-        }
-      ],
-      "duration_ms": 327720,
-      "name": "Shadows Fall",
-      "url": "https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Source (Live Mix)",
-        "url": "https://open.spotify.com/album/3xYn1CcHErSi12pM6DMMMu"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 178686,
-      "name": "Source - Live Mix",
-      "url": "https://open.spotify.com/track/64dLxmbabfLFq4R4HRsI3L"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 160465,
       "name": "Goodbye Sierra",
       "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Source (Live Mix)",
+        "url": "https://open.spotify.com/album/3xYn1CcHErSi12pM6DMMMu"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 178686,
+      "name": "Source - Live Mix",
+      "url": "https://open.spotify.com/track/64dLxmbabfLFq4R4HRsI3L"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -579,22 +579,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "41 Longfield Street Late \u201880s",
-        "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H"
       },
       "artists": [
         {
-          "name": "Kieran Hebden",
-          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+          "name": "Ambient Endeavors",
+          "url": "https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W"
         },
         {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
         }
       ],
-      "duration_ms": 474353,
-      "name": "Secret City",
-      "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
+      "duration_ms": 173705,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -615,22 +615,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H"
+        "name": "41 Longfield Street Late \u201880s",
+        "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
       },
       "artists": [
         {
-          "name": "Ambient Endeavors",
-          "url": "https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W"
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
         },
         {
-          "name": "We Dream of Eden",
-          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
         }
       ],
-      "duration_ms": 173705,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK"
+      "duration_ms": 474353,
+      "name": "Secret City",
+      "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Water Temple",
-        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
-      },
-      "artists": [
-        {
-          "name": "Lords of Lounge",
-          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
-        }
-      ],
-      "duration_ms": 258510,
-      "name": "Water Temple",
-      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Farewell, Stars (The American Dollar Rework)",
         "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 228973,
       "name": "Farewell, Stars - The American Dollar Rework",
       "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Water Temple",
+        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
+      },
+      "artists": [
+        {
+          "name": "Lords of Lounge",
+          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
+        }
+      ],
+      "duration_ms": 258510,
+      "name": "Water Temple",
+      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
-      },
-      "artists": [
-        {
-          "name": "Pray for Sound",
-          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Dusk/Dawn",
         "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 182760,
       "name": "Tear Trails",
       "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
+      },
+      "artists": [
+        {
+          "name": "Pray for Sound",
+          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
-      },
-      "artists": [
-        {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "(not) alone",
         "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
       },
@@ -1147,6 +1131,38 @@
       "duration_ms": 279197,
       "name": "(not) alone",
       "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Acknowledge Kindness",
+        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
+      },
+      "artists": [
+        {
+          "name": "The Reds, Pinks and Purples",
+          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
+        }
+      ],
+      "duration_ms": 178428,
+      "name": "Blue Heron Lake",
+      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+      },
+      "artists": [
+        {
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Acknowledge Kindness",
-        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
-      },
-      "artists": [
-        {
-          "name": "The Reds, Pinks and Purples",
-          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
-        }
-      ],
-      "duration_ms": 178428,
-      "name": "Blue Heron Lake",
-      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
       },
@@ -1211,6 +1211,26 @@
       "duration_ms": 227975,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Lifelike",
+        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
+      },
+      "artists": [
+        {
+          "name": "Amulets",
+          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
+        },
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 278067,
+      "name": "Lifelike",
+      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1247,6 +1267,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "kissing maggots",
+        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
+      },
+      "artists": [
+        {
+          "name": "mieke?",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 230157,
+      "name": "kissing maggots",
+      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1267,58 +1303,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Lifelike",
-        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
-      },
-      "artists": [
-        {
-          "name": "Amulets",
-          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
-        },
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
-        }
-      ],
-      "duration_ms": 278067,
-      "name": "Lifelike",
-      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "kissing maggots",
-        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
-      },
-      "artists": [
-        {
-          "name": "mieke?",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
-        }
-      ],
-      "duration_ms": 230157,
-      "name": "kissing maggots",
-      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Pearldiving",
-        "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 152260,
-      "name": "Les Amourettes",
-      "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "you are now listening to a tender spring",
         "url": "https://open.spotify.com/album/2ymV75wRLGGSeO45vwGU6X"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 171624,
       "name": "You Have My Whole Heart",
       "url": "https://open.spotify.com/track/3XSMK307R9qBIK1HUgau2x"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Pearldiving",
+        "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 152260,
+      "name": "Les Amourettes",
+      "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "A Place to Breathe",
-        "url": "https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ"
-      },
-      "artists": [
-        {
-          "name": "Lumestria",
-          "url": "https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "A Place to Breathe",
-      "url": "https://open.spotify.com/track/6buddStONGyZPOSDaYODVU"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Dark Awakening",
         "url": "https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh"
       },
@@ -1423,38 +1407,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Songs to Disappear to",
-        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 257568,
-      "name": "Old Moon",
-      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Hy-Brasil",
-        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
-      },
-      "artists": [
-        {
-          "name": "LIGHTS OUT ASIA",
-          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Abell 1835",
-      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
       },
@@ -1471,6 +1423,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Songs to Disappear to",
+        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 257568,
+      "name": "Old Moon",
+      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Pajama Avenue",
         "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
       },
@@ -1483,6 +1451,38 @@
       "duration_ms": 232026,
       "name": "Back To Dangerous",
       "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "A Place to Breathe",
+        "url": "https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ"
+      },
+      "artists": [
+        {
+          "name": "Lumestria",
+          "url": "https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "A Place to Breathe",
+      "url": "https://open.spotify.com/track/6buddStONGyZPOSDaYODVU"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Hy-Brasil",
+        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
+      },
+      "artists": [
+        {
+          "name": "LIGHTS OUT ASIA",
+          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Abell 1835",
+      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "endless, somewhere",
-        "url": "https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK"
-      },
-      "artists": [
-        {
-          "name": "Nitewalk",
-          "url": "https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "endless, somewhere",
-      "url": "https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Screen Time",
         "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 164453,
       "name": "The Station",
       "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "endless, somewhere",
+        "url": "https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK"
+      },
+      "artists": [
+        {
+          "name": "Nitewalk",
+          "url": "https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "endless, somewhere",
+      "url": "https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu"
     }
   ],
   "unique_name": "Ambient Post-Rock",

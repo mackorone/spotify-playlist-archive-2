@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Sylwia Grzeszczak",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Margaret",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -246,6 +246,32 @@
       "duration_ms": 203825,
       "name": "Aeroplan",
       "url": "https://open.spotify.com/track/39p0zf55b56ftZa2bvz0fQ"
+    },
+    {
+      "album": {
+        "name": "AIOLI",
+        "url": "https://open.spotify.com/album/2YtxeCsI2O64Zx6z6ChhAW"
+      },
+      "artists": [
+        {
+          "name": "Hi Hania",
+          "url": "https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "AIOLI",
+      "url": "https://open.spotify.com/track/7rPpyQOTrwogcFW1PZ6DYQ"
     },
     {
       "album": {
@@ -648,6 +674,28 @@
       "duration_ms": 147804,
       "name": "A\u017c B\u0119dziesz Wiedzie\u0107",
       "url": "https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM"
+    },
+    {
+      "album": {
+        "name": "a\u017c nie chce si\u0119 wraca\u0107",
+        "url": "https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134563,
+      "name": "a\u017c nie chce si\u0119 wraca\u0107",
+      "url": "https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm"
     },
     {
       "album": {
@@ -4846,7 +4894,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 177365,
       "name": "Gdyby kto\u015b pyta\u0142",
       "url": "https://open.spotify.com/track/5pjp4ydhdLaFOcZaQXDjkP"
@@ -5988,7 +6036,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 153882,
       "name": "Jak si\u0119 masz?",
       "url": "https://open.spotify.com/track/2v47bRt43uKCgSz4S0A6eF"
@@ -7414,7 +7462,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 158230,
       "name": "LAWETA",
       "url": "https://open.spotify.com/track/0BB4jjCL7bYDZwZk6OsKsf"
@@ -8696,6 +8744,24 @@
       "duration_ms": 197000,
       "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
       "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
+    },
+    {
+      "album": {
+        "name": "VOICE",
+        "url": "https://open.spotify.com/album/1jla2nToQeZX2xHYxS8cfo"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148640,
+      "name": "Mog\u0142e\u015b tu by\u0107",
+      "url": "https://open.spotify.com/track/040ISsaRJlzaQWpqBo81Dx"
     },
     {
       "album": {
@@ -10524,6 +10590,24 @@
       "duration_ms": 169180,
       "name": "Nie wyobra\u017cam sobie",
       "url": "https://open.spotify.com/track/1HIe88rRDB7K9AHxwu4TTm"
+    },
+    {
+      "album": {
+        "name": "Nie za\u015bpiewam Twojej mamie",
+        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
+      },
+      "artists": [
+        {
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Nie za\u015bpiewam Twojej mamie",
+      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
     },
     {
       "album": {
@@ -13068,7 +13152,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 187712,
       "name": "Primabalerina",
       "url": "https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu"
@@ -14914,6 +14998,24 @@
       "duration_ms": 144000,
       "name": "SUPERPOWER",
       "url": "https://open.spotify.com/track/2LfJ1hKjKQZ4PTZ6C67HID"
+    },
+    {
+      "album": {
+        "name": "SYREN",
+        "url": "https://open.spotify.com/album/6Gu4uc5aNeUOtCW6YycQxC"
+      },
+      "artists": [
+        {
+          "name": "Kasia DVD \u2727",
+          "url": "https://open.spotify.com/artist/2JOXsgxJjwrpoELAOqhQuL"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "SYREN",
+      "url": "https://open.spotify.com/track/6EHCRmMbDquS2PRDkTGUed"
     },
     {
       "album": {
@@ -18140,7 +18242,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 147840,
       "name": "YEYEYO - the Official Song of the FIFA U-20 Women's World Cup Poland 2026\u2122",
       "url": "https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6"

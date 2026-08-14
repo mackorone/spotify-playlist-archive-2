@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: DIIV",
+  "description": "The UK's biggest rock playlist. Cover: Royal Blood",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "TURN OFF THE TV",
+        "url": "https://open.spotify.com/album/7tUiEjuHXAgVB7R0yzd9hD"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236239,
+      "name": "ALL WE HAVE IS US",
+      "url": "https://open.spotify.com/track/6KZujDsgkXLe0qfdCZMtrQ"
+    },
+    {
+      "album": {
         "name": "Who've You Come As?, Pt. 2",
         "url": "https://open.spotify.com/album/3AVhzOJ1jUZB5uSB4reg6i"
       },
@@ -1570,6 +1588,24 @@
       "duration_ms": 193607,
       "name": "Am I Even A Man",
       "url": "https://open.spotify.com/track/203aZkz0i3swvunzfGlUbe"
+    },
+    {
+      "album": {
+        "name": "Put On A Record Tommy (Deluxe)",
+        "url": "https://open.spotify.com/album/1twaqm0O2cz9VnTz1NmrDh"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159940,
+      "name": "Am I Ever Gonna be a Rockstar?",
+      "url": "https://open.spotify.com/track/3auCOziw6bSFj9jIyZKv9S"
     },
     {
       "album": {
@@ -2680,7 +2716,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 180837,
       "name": "BETTER THAN THERAPY",
       "url": "https://open.spotify.com/track/54KdAbrwzNUhxZJmEUUd2Q"
@@ -4172,7 +4208,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 222596,
       "name": "Cancel Me (I\u2019m Tired)",
       "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
@@ -8896,7 +8932,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 268042,
       "name": "Giraffe",
       "url": "https://open.spotify.com/track/7DQ3JbZ8JmjjxoGmOYkjoR"
@@ -11218,7 +11254,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 190100,
       "name": "I Can See You From Here",
       "url": "https://open.spotify.com/track/5siXvTM8ElmVQgTPqn2aY8"
@@ -13741,6 +13777,24 @@
     },
     {
       "album": {
+        "name": "Live by the Sword",
+        "url": "https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219665,
+      "name": "Live by the Sword",
+      "url": "https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG"
+    },
+    {
+      "album": {
         "name": "Living A Lie",
         "url": "https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg"
       },
@@ -13918,7 +13972,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 258509,
       "name": "LOSE YOUR SELF",
       "url": "https://open.spotify.com/track/5suLEhSjprXsUQ5ofXJH8Q"
@@ -16543,6 +16597,24 @@
     },
     {
       "album": {
+        "name": "NOTHING BETTER THAN THIS",
+        "url": "https://open.spotify.com/album/78D6ZKU4ejLoZF7ghxaqTP"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158243,
+      "name": "NOTHING BETTER THAN THIS",
+      "url": "https://open.spotify.com/track/2TjPB2mMfxORhUkJYJ9rj8"
+    },
+    {
+      "album": {
         "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
         "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
       },
@@ -16558,6 +16630,24 @@
       "duration_ms": 194672,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
+    },
+    {
+      "album": {
+        "name": "Nothing Happens Twice",
+        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222395,
+      "name": "Nothing Happens Twice",
+      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
     },
     {
       "album": {
@@ -17876,7 +17966,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 179110,
       "name": "Party Lines",
       "url": "https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp"
@@ -22570,7 +22660,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 173240,
       "name": "SUPERPOWERS",
       "url": "https://open.spotify.com/track/0GJ9W1TSQzbxAgCCX2xc6d"
@@ -22592,6 +22682,24 @@
       "duration_ms": 287324,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/5FJqmD13HjltqMbxtOo5Ul"
+    },
+    {
+      "album": {
+        "name": "SWALLOW",
+        "url": "https://open.spotify.com/album/5EpAybJJ0kQgwGbqPGv38p"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209422,
+      "name": "SWALLOW",
+      "url": "https://open.spotify.com/track/7zbGyhYLWxgpiWyGqdNWUI"
     },
     {
       "album": {
@@ -23098,6 +23206,24 @@
       "duration_ms": 215342,
       "name": "TELL ME WHY (feat. Mark Hoppus, Danny Elfman, Eric Nally, and Sorry My Love)",
       "url": "https://open.spotify.com/track/3CYQ2bxyRAqt3ELgvCxXnk"
+    },
+    {
+      "album": {
+        "name": "Ten Over Ten",
+        "url": "https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197323,
+      "name": "Ten Over Ten",
+      "url": "https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m"
     },
     {
       "album": {
@@ -26606,7 +26732,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 235504,
       "name": "Who Will You Follow",
       "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"

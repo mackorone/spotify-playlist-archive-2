@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Mavi ",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Lvbel C5",
   "name": "NKVT",
   "tracks": [
     {
@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "5 YILDIZ",
+        "url": "https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90451,
+      "name": "5 YILDIZ",
+      "url": "https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs"
+    },
+    {
+      "album": {
         "name": "55-53",
         "url": "https://open.spotify.com/album/5zZ36nu81XoL3vA4VeZhn7"
       },
@@ -342,6 +364,28 @@
       "duration_ms": 128307,
       "name": "57",
       "url": "https://open.spotify.com/track/6n6Qy0b2bNrRsAS5bU1pqd"
+    },
+    {
+      "album": {
+        "name": "P\u0130YASA",
+        "url": "https://open.spotify.com/album/1Mpk9CjA5YUu7NX6OCAaVR"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "59",
+      "url": "https://open.spotify.com/track/4CPddNJjMP8T0R68FyJ2Rx"
     },
     {
       "album": {
@@ -696,7 +740,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 144706,
       "name": "ABC",
       "url": "https://open.spotify.com/track/3jruh78WJhVhp02SKnp6El"
@@ -1456,7 +1500,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 141923,
       "name": "ANKARA TATANGALAR",
       "url": "https://open.spotify.com/track/4MkndNZKOkfiasYF06RiWx"
@@ -1598,7 +1642,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 140816,
       "name": "ANNE O\u011eLUN RAPSTAR",
       "url": "https://open.spotify.com/track/0FwToQGt1a1ss8mDbZPLSF"
@@ -3078,7 +3122,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 113980,
       "name": "BELVEDERE",
       "url": "https://open.spotify.com/track/1g1oJs0KhCeSDhT39TLR8k"
@@ -5108,7 +5152,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 149743,
       "name": "DAHA \u00c7OK VAR",
       "url": "https://open.spotify.com/track/5OFkmUrm06LMWQewivU4ls"
@@ -6631,6 +6675,28 @@
     },
     {
       "album": {
+        "name": "Legend (Sagopa Kajmer Remix)",
+        "url": "https://open.spotify.com/album/4IxjrFXY4OJMVAJPtJsQUp"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fuchs",
+          "url": "https://open.spotify.com/artist/51o6QF11Nswx5jMlp6rAL8"
+        },
+        {
+          "name": "Sagopa Kajmer",
+          "url": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Everyone Is A Murderer - Sagopa Kajmer Remix",
+      "url": "https://open.spotify.com/track/17bbJR1MzComBHweaFpbof"
+    },
+    {
+      "album": {
         "name": "EXTENDO",
         "url": "https://open.spotify.com/album/7yLc5gd9QLV7N4z5HoU3Ig"
       },
@@ -7594,7 +7660,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 169411,
       "name": "Geri Ver",
       "url": "https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG"
@@ -8489,6 +8555,28 @@
     },
     {
       "album": {
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/0asUsMmYpgXW9lkGB3AxLg"
+      },
+      "artists": [
+        {
+          "name": "Metth",
+          "url": "https://open.spotify.com/artist/6T5EThaaQrfKqzdQ4eRuHf"
+        },
+        {
+          "name": "Ceg",
+          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Hannibal Lecter",
+      "url": "https://open.spotify.com/track/0NX9KIumXJHyPBjTgFDv8y"
+    },
+    {
+      "album": {
         "name": "HAN\u00c7ER",
         "url": "https://open.spotify.com/album/5RW7KSlHEC9w1qTTUWadtq"
       },
@@ -9038,6 +9126,28 @@
       "duration_ms": 142680,
       "name": "herkes kendine yak\u0131\u015fan\u0131 yaps\u0131n",
       "url": "https://open.spotify.com/track/38evhex5V6BPZumBToe7SY"
+    },
+    {
+      "album": {
+        "name": "41",
+        "url": "https://open.spotify.com/album/7fMbsBDq97BCqv1dxn6BFk"
+      },
+      "artists": [
+        {
+          "name": "Kayra",
+          "url": "https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3"
+        },
+        {
+          "name": "Vesca",
+          "url": "https://open.spotify.com/artist/3XQjRLbSnGpqd83IMoO4dv"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234375,
+      "name": "Herkes \u00d6ld\u00fc Kimsenin Haberi Yok",
+      "url": "https://open.spotify.com/track/3bQtLI9JmUhy6gUHuMYrjy"
     },
     {
       "album": {
@@ -10482,6 +10592,24 @@
       "duration_ms": 201290,
       "name": "Jurassic Park",
       "url": "https://open.spotify.com/track/3xWQkZCyuRyo8s1QGUon0b"
+    },
+    {
+      "album": {
+        "name": "J\u00f6n",
+        "url": "https://open.spotify.com/album/3lHjVFUcbRdYKQWtDzgfpi"
+      },
+      "artists": [
+        {
+          "name": "Kava",
+          "url": "https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107966,
+      "name": "J\u00f6n",
+      "url": "https://open.spotify.com/track/6QAWwp1zufihIZUDb6siZ6"
     },
     {
       "album": {
@@ -13483,6 +13611,32 @@
     },
     {
       "album": {
+        "name": "Marina Mixtape",
+        "url": "https://open.spotify.com/album/0FK6aIMiutLkrrdcCS5gXb"
+      },
+      "artists": [
+        {
+          "name": "\u015eam",
+          "url": "https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti"
+        },
+        {
+          "name": "D3",
+          "url": "https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3"
+        },
+        {
+          "name": "akca",
+          "url": "https://open.spotify.com/artist/1OBAc1CshCapEzN3cfmNtc"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Makaray\u0131z",
+      "url": "https://open.spotify.com/track/4SoLtactNAdSZxshUZne6a"
+    },
+    {
+      "album": {
         "name": "MAKINA",
         "url": "https://open.spotify.com/album/53vvwKlifFZdwN7ogYPinN"
       },
@@ -14486,6 +14640,28 @@
       "duration_ms": 207500,
       "name": "NAM NAM",
       "url": "https://open.spotify.com/track/4BaDMyA1nxnLn9mBOEvC39"
+    },
+    {
+      "album": {
+        "name": "Nane \u0646\u0639\u0646\u0627\u0639",
+        "url": "https://open.spotify.com/album/41YXRUqslAGIGx9gEPlXds"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164644,
+      "name": "Nane \u0646\u0639\u0646\u0627\u0639",
+      "url": "https://open.spotify.com/track/3juSoiFBZhI9vT7l34hpNS"
     },
     {
       "album": {
@@ -17741,6 +17917,28 @@
     },
     {
       "album": {
+        "name": "Selamu Aleykum",
+        "url": "https://open.spotify.com/album/4slADnUle0j1SkqJ9cYofT"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011frul Bekta\u015f",
+          "url": "https://open.spotify.com/artist/3QQWKCc48eBmxfw5wOrmgN"
+        },
+        {
+          "name": "Slong",
+          "url": "https://open.spotify.com/artist/6XHIqSQlYX8Qo8DGAxM9c7"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Selamu Aleykum",
+      "url": "https://open.spotify.com/track/2qNIKS5GYqhRQs5Man9vm5"
+    },
+    {
+      "album": {
         "name": "Sen Dinlen",
         "url": "https://open.spotify.com/album/5LZRhjszAz4Wk1xwq3pquO"
       },
@@ -18008,7 +18206,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 134018,
       "name": "senle nefes al\u0131yordum",
       "url": "https://open.spotify.com/track/5I3ngBnF9bDUGEsm2ClrqT"
@@ -19460,7 +19658,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 107296,
       "name": "TANK TANK",
       "url": "https://open.spotify.com/track/3IsjT9QiL12hwqFhd5XTJi"
@@ -19942,6 +20140,24 @@
       "duration_ms": 201380,
       "name": "TRY HARD",
       "url": "https://open.spotify.com/track/11ViaAOjlAqHHNpPZ7XY34"
+    },
+    {
+      "album": {
+        "name": "tsk saol",
+        "url": "https://open.spotify.com/album/4NXQc9WqVm03qgif5Rq4vY"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6K$VL",
+          "url": "https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100179,
+      "name": "tsk saol",
+      "url": "https://open.spotify.com/track/72nLX1dJcZQbtLPVcO8ghS"
     },
     {
       "album": {
@@ -22194,7 +22410,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 160000,
       "name": "ZEMINLER",
       "url": "https://open.spotify.com/track/5rh8bbSIAEuVbzIF7Ws6FM"
@@ -22900,7 +23116,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 163448,
       "name": "\u015eEHR\u0130ME BOMBALAR",
       "url": "https://open.spotify.com/track/52e9OPUMOE97on91NrpxnK"

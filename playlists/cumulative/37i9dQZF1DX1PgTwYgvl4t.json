@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-10",
-  "description": "Strictly Nigerian worship songs. Cover: Mercy Chinwo & Nathaniel Bassey",
+  "description": "Strictly Nigerian worship songs. Cover: Nathaniel Bassey",
   "name": "Naija Worship",
   "tracks": [
     {
@@ -908,6 +908,28 @@
       "duration_ms": 262325,
       "name": "Beautiful Exchange",
       "url": "https://open.spotify.com/track/7clvto32JaAp4fcLcHD1Lf"
+    },
+    {
+      "album": {
+        "name": "Beautiful One",
+        "url": "https://open.spotify.com/album/0pmidcdB8w4UxVjAYLFFxd"
+      },
+      "artists": [
+        {
+          "name": "Taiwo Oshin",
+          "url": "https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U"
+        },
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329042,
+      "name": "Beautiful One",
+      "url": "https://open.spotify.com/track/5Mvj01bwIhS4RYcCBgnmVQ"
     },
     {
       "album": {
@@ -2169,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Eze Mo (Live)",
+        "url": "https://open.spotify.com/album/0odnu4b4TXbJbUaEmD3yjX"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530000,
+      "name": "Eze Mo (Live)",
+      "url": "https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D"
+    },
+    {
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/6aJJ3GRPM2S8rfK1gNUUuT"
       },
@@ -2527,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "The Life Recording",
+        "url": "https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 814591,
+      "name": "Glory to God in the Highest",
+      "url": "https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI"
+    },
+    {
+      "album": {
         "name": "Glory to Jesus Forever",
         "url": "https://open.spotify.com/album/1qotccFUotC9CrhD3hnNYj"
       },
@@ -2787,6 +2845,28 @@
     },
     {
       "album": {
+        "name": "Hallelujah Jesu",
+        "url": "https://open.spotify.com/album/5pr7pUeUGcfr4IqHJJAZAu"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 960493,
+      "name": "Hallelujah Jesu",
+      "url": "https://open.spotify.com/track/4hB0gEeorkLNIKEIsQsbf9"
+    },
+    {
+      "album": {
         "name": "Hallelujah Weapon - Living Sacrifices June 2025",
         "url": "https://open.spotify.com/album/56ObtdfC7UfgZEbu4qGupj"
       },
@@ -3002,6 +3082,24 @@
       "duration_ms": 435411,
       "name": "Here I am",
       "url": "https://open.spotify.com/track/78oQ0ay9cicFhLHIIMs6Me"
+    },
+    {
+      "album": {
+        "name": "Higher Realms",
+        "url": "https://open.spotify.com/album/2ass0oA32lxUCs6bNqKEld"
+      },
+      "artists": [
+        {
+          "name": "Enakeno",
+          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312486,
+      "name": "Higher Realms",
+      "url": "https://open.spotify.com/track/48Nl1PcL6iRJDikTNDRRQ8"
     },
     {
       "album": {
@@ -3408,7 +3506,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 177551,
       "name": "I Know A God",
       "url": "https://open.spotify.com/track/4nQbDeYVl8Vb04PQhSxZpk"
@@ -5598,6 +5696,24 @@
       "duration_ms": 395481,
       "name": "Nothing Without You - Live",
       "url": "https://open.spotify.com/track/3c14NjEO3dR6bGZpCl7VBp"
+    },
+    {
+      "album": {
+        "name": "Nwaturu Chukwu",
+        "url": "https://open.spotify.com/album/6mGa3maxydY3tqX0YeHSOA"
+      },
+      "artists": [
+        {
+          "name": "Cheemah",
+          "url": "https://open.spotify.com/artist/6vHRbHLaqOoAfLHEB7yF0r"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135554,
+      "name": "Nwaturu Chukwu",
+      "url": "https://open.spotify.com/track/0gLmHxgE408gBRoNZVn7Bw"
     },
     {
       "album": {

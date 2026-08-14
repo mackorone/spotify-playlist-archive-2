@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,684 songs - 2 day 21 hr 53 min
+1,686 songs - 2 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Boom Boom Pow](https://open.spotify.com/track/4S2qrsdY4BF0T5UFQLtqoU) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Boom Boom Pow](https://open.spotify.com/album/3UTRfRr2s6XLj3It38Vw8d) | 3:05 | 2021-12-16 | 2022-08-26 |
 | [Booty Call](https://open.spotify.com/track/41kMShsVIBgBYl3dIu6I0L) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Booty Call](https://open.spotify.com/album/1arVLyiIrvLgfFzvCG6N3I) | 2:06 | 2022-03-24 | 2022-12-24 |
 | [Borde gå hem](https://open.spotify.com/track/3gUiM93ojFPguligTylTwk) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Borde gå hem](https://open.spotify.com/album/69EATUW5p3jmER1XKvF4nJ) | 2:36 | 2022-09-29 | 2023-01-06 |
+| [Bordeaux & Deauville](https://open.spotify.com/track/5BnXdURD493zS5nYY3kUdt) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Bordeaux & Deauville](https://open.spotify.com/album/63uJB63MumGfRcX8porN9C) | 2:27 | 2026-08-13 |  |
 | [BORTAMATCH](https://open.spotify.com/track/6KOdcw6aEPLAVWdtuylF8g) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [BORTAMATCH](https://open.spotify.com/album/5nxoDtwdwxLkSyke2SFhmV) | 1:58 | 2024-04-04 | 2024-05-09 |
 | [BOTAS](https://open.spotify.com/track/0o0Vq3U25bkb8yYLCeQmIq) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8) | [BOTAS](https://open.spotify.com/album/3bYjdxDqPBZprOVB3ed0Ky) | 2:20 | 2023-01-12 | 2023-03-03 |
 | [Boten Anna](https://open.spotify.com/track/0Lxvi9uGDr4zXVA7dhUaDg) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu), [Hubbe](https://open.spotify.com/artist/2BSpar5fkultsfTEgtRBpP) | [Boten Anna](https://open.spotify.com/album/4RD4pXQ5olk7LK21QP1Avi) | 2:51 | 2024-09-26 | 2025-03-07 |
@@ -1088,6 +1089,7 @@
 | [Ordner seg](https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6) | [3D](https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU) | [Ordner seg](https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu) | 2:55 | 2025-11-06 | 2026-04-03 |
 | [Oslo](https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Oslo](https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH) | 2:31 | 2026-01-26 | 2026-02-02 |
 | [OTROGEN](https://open.spotify.com/track/1acoJNp0YXcfHOQsnfOZ9V) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [OTROGEN](https://open.spotify.com/album/2hJae9cgGcK7CEHDHQAqNE) | 2:07 | 2023-07-13 | 2023-09-08 |
+| [OTROGNA JÄVEL](https://open.spotify.com/track/06GbhrvzmHSVbDkpNXtjHW) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [OTROGNA JÄVEL](https://open.spotify.com/album/18Ur89QjPbFWiKeRYKxAFU) | 2:53 | 2026-08-13 |  |
 | [Overload](https://open.spotify.com/track/7BFfobG0V0WN8yqvorXj7y) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Overload](https://open.spotify.com/album/61mlqCWXFehEIMYjXw3b5O) | 2:53 | 2022-06-16 | 2022-07-19 |
 | [PACKAD](https://open.spotify.com/track/0mA2l1eX3NjAbvgTbwCN2z) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [MADNEZZ](https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b) | [PACKAD](https://open.spotify.com/album/3gulxQThrDvwihZsZHQLOr) | 2:03 | 2024-02-15 | 2024-03-15 |
 | [PALLAR INTE SKOLAN](https://open.spotify.com/track/5DealAxYuuWVSt2divtiPK) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [PALLAR INTE SKOLAN](https://open.spotify.com/album/0XZIS8Oh1QN9y80OoygQY9) | 2:03 | 2023-06-29 | 2023-09-08 |

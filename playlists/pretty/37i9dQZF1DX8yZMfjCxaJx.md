@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Arley Pérez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,690 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,722 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 149 | [El 19 y Sus Locos](https://open.spotify.com/track/4VIGOAuNghjsPnCteLAJV9) | [Grupo Asociado](https://open.spotify.com/artist/4HGpI109XSwNngqUJJ2HJK), [Grupo Compacto](https://open.spotify.com/artist/6nNkO3Nw7zq1WDElrPT0AF) | [El 19 y Sus Locos](https://open.spotify.com/album/3Gi2oY8PvZUIMKAJkXMzrs) | 4:03 |
 | 150 | [El Viejo Fino](https://open.spotify.com/track/0fOUYjkxWEtO5lCeqBfqbh) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [El Viejo Fino](https://open.spotify.com/album/01EPmgyUtq7RRLPFbwpwtG) | 2:51 |
 
-Snapshot ID: `AAAAAFo0escXtQG0cBeKzXUd9O7g2NNf`
+Snapshot ID: `AAAAAO7U5Lrby66ISfOZoNBRDzXklhRk`

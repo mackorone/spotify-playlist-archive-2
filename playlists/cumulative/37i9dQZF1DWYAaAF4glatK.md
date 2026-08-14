@@ -2,7 +2,7 @@
 
 ### [hits de l'été 2026](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> La BO officielle de l'été 2026 🌞 Photo : Shakira x Burna Boy
+> La BO officielle de l'été 2026 🌞 Photo : Ofenbach
 
 463 songs - 23 hr 16 min
 

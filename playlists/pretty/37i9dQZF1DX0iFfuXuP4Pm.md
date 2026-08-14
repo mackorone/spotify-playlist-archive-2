@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Janine Berdin
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,041,858 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,041,694 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Purgatoryo](https://open.spotify.com/track/2ww7tsDpQujEz4hY4PKW6g) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Purgatoryo](https://open.spotify.com/album/3HcEMi3hhykdzTUXNRUXK0) | 2:15 |
 | 50 | [Ganun Pa Rin](https://open.spotify.com/track/4KY8kJGQqVA9VzPzvNKTrH) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Ganun Pa Rin](https://open.spotify.com/album/78LyI9YGLRQmLbjxvrEriu) | 4:40 |
 
-Snapshot ID: `AAAAACrSClvHMzpEjBdGcjhu0c2St52P`
+Snapshot ID: `AAAAAOk/Di2eIXLn0qk0I6fF+dFajyFz`

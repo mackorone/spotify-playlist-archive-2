@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "A hand-picked selection for an extraordinary palette. Cover: The Durutti Column",
+  "description": "A hand-picked selection for an extraordinary palette. Cover: Nina Winder-Lind",
   "name": "The Listening Post",
   "tracks": [
     {
@@ -1324,6 +1324,24 @@
     {
       "album": {
         "name": "Cameos",
+        "url": "https://open.spotify.com/album/1Uts53saLs17xjrNjZ1STw"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175720,
+      "name": "Cameos",
+      "url": "https://open.spotify.com/track/0bdEpK83erx3mPwSqxGGNP"
+    },
+    {
+      "album": {
+        "name": "Cameos",
         "url": "https://open.spotify.com/album/1KtLF0mP4It7MNhJSmE0Yc"
       },
       "artists": [
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 175720,
       "name": "Cameos",
       "url": "https://open.spotify.com/track/6q1og9CkTnFTTYqOSN9ed3"
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 228999,
       "name": "drains",
       "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
@@ -3022,6 +3040,24 @@
       "duration_ms": 387495,
       "name": "For the Cold Country",
       "url": "https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7"
+    },
+    {
+      "album": {
+        "name": "Wild Love",
+        "url": "https://open.spotify.com/album/14lUXimueH6tfm8jOmHXWq"
+      },
+      "artists": [
+        {
+          "name": "Nina Winder-Lind",
+          "url": "https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259813,
+      "name": "Foremothers",
+      "url": "https://open.spotify.com/track/5YWWODFNkHVhOnl34R1GQb"
     },
     {
       "album": {
@@ -4442,6 +4478,24 @@
       "duration_ms": 236167,
       "name": "Kick Stones (The Boys)",
       "url": "https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp"
+    },
+    {
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281544,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
     },
     {
       "album": {
@@ -8490,7 +8544,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 273400,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/6HLMttRTKAdNgt1TwORlkW"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: TWO LANES
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,660 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,746 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [enjoy losing](https://open.spotify.com/track/1rPTB1gRhvSgMvQvhwdOFE) | [Jason Calhoun](https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy) | [enjoy losing](https://open.spotify.com/album/0rPSYm5vWFvdpiQ9Md5RPM) | 2:35 |
 | 2 | [Caracol](https://open.spotify.com/track/4dNuvs0z50wMKxlLqhDp5G) | [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Caracol](https://open.spotify.com/album/2KEc61IyRAfj4uS4nfVPOo) | 4:03 |
 | 3 | [Everything That Remains](https://open.spotify.com/track/6XYEBFUyj01gpjCtj5ZIrg) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Everything That Remains](https://open.spotify.com/album/3yDMOrivm16BCSTpkz9OzU) | 4:11 |
-| 4 | [Wind with Wings](https://open.spotify.com/track/7JPYrAXfZmZqqPdEU6TTCy) | [Francis and Gareth](https://open.spotify.com/artist/7iZsnxcOWeEdy5gfABebWI) | [Wind with Wings](https://open.spotify.com/album/7aX0F9QzBrEUEOxQ4iRJgu) | 5:29 |
+| 4 | [Wind with Wings](https://open.spotify.com/track/7JPYrAXfZmZqqPdEU6TTCy) | [Francis and Gareth](https://open.spotify.com/artist/7iZsnxcOWeEdy5gfABebWI), [Francis Harris](https://open.spotify.com/artist/3pTGFfv4bHpC2MO7LS9S6W), [Gareth Quinn Redmond](https://open.spotify.com/artist/1Rw4xgCvK2mTLwep8iowEU) | [Wind with Wings](https://open.spotify.com/album/7aX0F9QzBrEUEOxQ4iRJgu) | 5:29 |
 | 5 | [snöyra](https://open.spotify.com/track/0MlNhqcLNVbMyiQzIr5zjI) | [vånda](https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd) | [it made you want to live](https://open.spotify.com/album/6ShpezQuO51yrMOUOl0ATZ) | 2:07 |
 | 6 | [Arunachala](https://open.spotify.com/track/4hmGl0K4KGWz2JM8qVG5pZ) | [HUG](https://open.spotify.com/artist/0fPTd29x2F2C4lHNVUwFEs), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf), [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Arunachala](https://open.spotify.com/album/5eAKqqqyqEnB0N9efco2A4) | 4:54 |
 | 7 | [Circle 72 \(Summer Hum\)](https://open.spotify.com/track/4GaMNPn6H4UtLFxHuyeBI8) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Circle 72 \(Summer Hum\)](https://open.spotify.com/album/3w8hHfe15rdE2PLQeFjw8C) | 4:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Malachite](https://open.spotify.com/track/3qHbOgMaAlrnKoQq0mwU4e) | [Martin Brugger](https://open.spotify.com/artist/1CChwzxv51jVD73HJwnHM5) | [The Shell](https://open.spotify.com/album/6CjAsLFtw2SHYaqCuU2FYc) | 3:47 |
 | 100 | [goethite](https://open.spotify.com/track/0ctAcnpjdaB29zyziKkVWT) | [coulou's cafe](https://open.spotify.com/artist/5EHMIshG4dQaW4MrIj9cHa), [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [goethite](https://open.spotify.com/album/5qkPyxH9elarvGHnxPFo3M) | 3:38 |
 
-Snapshot ID: `AAAAAGb0MT7742CeVKrN19Ld7fk1OdBP`
+Snapshot ID: `AAAAAMpg6+ZMC3FTG9yS8uAbRbMhPBVI`

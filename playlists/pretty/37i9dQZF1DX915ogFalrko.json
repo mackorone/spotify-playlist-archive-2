@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188006,
+  "num_followers": 188008,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIQWfY1U8E+B3vux1MMsrLp1sFiW",
+  "snapshot_id": "AAAAADctnkqRYHl9K//TUTBQZ7B5cYFO",
   "tracks": [
     {
       "added_at": "2026-07-31 09:01:32",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
-        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 221790,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Cold Fact",
         "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 154240,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 221790,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Matahari",
-        "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "Vacances",
-      "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Can't Help Myself",
         "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
+        "name": "Matahari",
+        "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Vacances",
+      "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
         "name": "Everything in Between",
         "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
+        "name": "Junk",
+        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
       },
       "artists": [
         {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
         }
       ],
-      "duration_ms": 200826,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
+      "duration_ms": 163301,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Junk",
-        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
       },
       "artists": [
         {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
         }
       ],
-      "duration_ms": 163301,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
+      "duration_ms": 200826,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Christina",
-        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
-      },
-      "artists": [
-        {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Beginner Again",
         "url": "https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 156394,
       "name": "Didn't Mean To",
       "url": "https://open.spotify.com/track/0R2F8Y0exgly8whypDattk"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "Christina",
+        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Everything All at Once",
-        "url": "https://open.spotify.com/album/47yvyiBxCBut9R8JFCRkBI"
-      },
-      "artists": [
-        {
-          "name": "Ashel",
-          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
-        }
-      ],
-      "duration_ms": 143171,
-      "name": "Everything All at Once",
-      "url": "https://open.spotify.com/track/7fCG3RyG1Kn4Hyy7WvK0pU"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "LOVE. HURT. REPEAT.",
         "url": "https://open.spotify.com/album/6rrhjvEEHny6k5nybt2Wc3"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 173296,
       "name": "pool party",
       "url": "https://open.spotify.com/track/0NGp0uHiKPWjnd5EKR9K58"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "Everything All at Once",
+        "url": "https://open.spotify.com/album/47yvyiBxCBut9R8JFCRkBI"
+      },
+      "artists": [
+        {
+          "name": "Ashel",
+          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
+        }
+      ],
+      "duration_ms": 143171,
+      "name": "Everything All at Once",
+      "url": "https://open.spotify.com/track/7fCG3RyG1Kn4Hyy7WvK0pU"
     },
     {
       "added_at": "2026-07-31 09:01:32",

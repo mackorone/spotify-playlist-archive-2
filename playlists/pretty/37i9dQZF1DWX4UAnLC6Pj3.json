@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Marca MP \ud83d\udcf8",
-  "num_followers": 1296595,
+  "num_followers": 1296608,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAHRiO7gvj/rEfMp9J+Dwxf85htC",
+  "snapshot_id": "AAAAAB/IM5hTL2Nt4yVMjhDjHts9OD+V",
   "tracks": [
     {
       "added_at": "2026-07-31 08:27:18",
@@ -379,8 +379,8 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Dos Hojas Sin Rumbo",
-        "url": "https://open.spotify.com/album/4cvzxtNWvlXocEsmWujeqt"
+        "name": "La Vida Es As\u00ed",
+        "url": "https://open.spotify.com/album/6lqyfU9G5QpallxLMEEFl6"
       },
       "artists": [
         {
@@ -388,13 +388,13 @@
           "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         },
         {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 177009,
-      "name": "Dos Hojas Sin Rumbo",
-      "url": "https://open.spotify.com/track/1tDiVfNhR0ETO0BgAH7FCv"
+      "duration_ms": 230064,
+      "name": "La Vida Es As\u00ed",
+      "url": "https://open.spotify.com/track/45bJeOgpjE4fizusyt7XWg"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -471,8 +471,8 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "La Vida Es As\u00ed",
-        "url": "https://open.spotify.com/album/6lqyfU9G5QpallxLMEEFl6"
+        "name": "Dos Hojas Sin Rumbo",
+        "url": "https://open.spotify.com/album/4cvzxtNWvlXocEsmWujeqt"
       },
       "artists": [
         {
@@ -480,13 +480,13 @@
           "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         },
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
         }
       ],
-      "duration_ms": 230064,
-      "name": "La Vida Es As\u00ed",
-      "url": "https://open.spotify.com/track/45bJeOgpjE4fizusyt7XWg"
+      "duration_ms": 177009,
+      "name": "Dos Hojas Sin Rumbo",
+      "url": "https://open.spotify.com/track/1tDiVfNhR0ETO0BgAH7FCv"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Piratita",
-        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 115826,
-      "name": "Piratita",
-      "url": "https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Por Salud Mental",
         "url": "https://open.spotify.com/album/5daCtEvl4hwiozKbCQxc9h"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 200346,
       "name": "Por Salud Mental",
       "url": "https://open.spotify.com/track/3scDoFYqOF2LxyN066Dp5s"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Piratita",
+        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 115826,
+      "name": "Piratita",
+      "url": "https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Si Se Trata De Ti",
+      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0FcQ8qNCjTOba9EVl2mANA"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 213250,
       "name": "Vete",
       "url": "https://open.spotify.com/track/7mt1OIVVExwWPg3SBBmef4"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Si Se Trata De Ti",
-      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Legado Coleccion 1 Regrabado",
-        "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 230965,
-      "name": "Mil Heridas",
-      "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Quien De Los Dos Sera",
         "url": "https://open.spotify.com/album/5LJJAbIZiS4Uhhuz14T3wZ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 219922,
       "name": "\u00bfC\u00f3mo Se Te Ocurre?",
       "url": "https://open.spotify.com/track/0DFEiu7V6q0Z4mYAOtkN8v"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Legado Coleccion 1 Regrabado",
+        "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 230965,
+      "name": "Mil Heridas",
+      "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 202416,
-      "name": "Amor (Bonus Track)",
-      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Lo Pasado Pisado",
         "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 185250,
       "name": "Lo Pasado Pisado",
       "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 202416,
+      "name": "Amor (Bonus Track)",
+      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
+        "name": "Vale M\u00e1s Que Reces",
+        "url": "https://open.spotify.com/album/4jqFvYmcnZ3uhmDsd9HxXb"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "duration_ms": 187434,
+      "name": "Vale M\u00e1s Que Reces",
+      "url": "https://open.spotify.com/track/03Svr4GkEGdHeB8wTRg8w8"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
         "name": "El Recuerdo Que Dej\u00f3",
         "url": "https://open.spotify.com/album/4Up6tMrKw9p929MnHKVSdT"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 192535,
       "name": "El Recuerdo Que Dej\u00f3",
       "url": "https://open.spotify.com/track/3C48UbZIHMs5cItujTxxqD"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
-        "name": "Vale M\u00e1s Que Reces",
-        "url": "https://open.spotify.com/album/4jqFvYmcnZ3uhmDsd9HxXb"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        }
-      ],
-      "duration_ms": 187434,
-      "name": "Vale M\u00e1s Que Reces",
-      "url": "https://open.spotify.com/track/03Svr4GkEGdHeB8wTRg8w8"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Sentimental (En Vivo)",
-        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Sentimental - En Vivo",
-      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Desde La Mochila Con La Banda Session 2 (En Vivo)",
         "url": "https://open.spotify.com/album/7oKlBewCFw1v1OxcStGAT5"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 187200,
       "name": "Cuando El Sol Salga Al Rev\u00e9s - En Vivo",
       "url": "https://open.spotify.com/track/7Cw8DJs4OKvWk6DDQI19S6"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Sentimental (En Vivo)",
+        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Sentimental - En Vivo",
+      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Todo Que Ver",
-        "url": "https://open.spotify.com/album/6ozaArafEB0OcZ28oNUZJV"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 185156,
-      "name": "Todo Que Ver",
-      "url": "https://open.spotify.com/track/3AEtByTA2GdHNdZi6RAHBl"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Lo Pongo En Tus Manos",
         "url": "https://open.spotify.com/album/4NBmgO6hYiOcBKmiZyaYWy"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 194291,
       "name": "Lo Pongo En Tus Manos",
       "url": "https://open.spotify.com/track/56HD6F1ISgG4wJ2bFxPVyx"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Todo Que Ver",
+        "url": "https://open.spotify.com/album/6ozaArafEB0OcZ28oNUZJV"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 185156,
+      "name": "Todo Que Ver",
+      "url": "https://open.spotify.com/track/3AEtByTA2GdHNdZi6RAHBl"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Ya no Vivo por Vivir",
-        "url": "https://open.spotify.com/album/4RZikNFqQ77YwN4ATZ7mBq"
-      },
-      "artists": [
-        {
-          "name": "Brazeros Musical De Durango",
-          "url": "https://open.spotify.com/artist/2xroXLusGdM2xFGs0CbFyC"
-        }
-      ],
-      "duration_ms": 213075,
-      "name": "Ya no Vivo por Vivir",
-      "url": "https://open.spotify.com/track/4a8MhQVIJ7oby8q3p2oEHJ"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "T\u00fa Ya Las Conoces, Vol. 1",
         "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 141688,
       "name": "Nunca Voy A Olvidarte",
       "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Ya no Vivo por Vivir",
+        "url": "https://open.spotify.com/album/4RZikNFqQ77YwN4ATZ7mBq"
+      },
+      "artists": [
+        {
+          "name": "Brazeros Musical De Durango",
+          "url": "https://open.spotify.com/artist/2xroXLusGdM2xFGs0CbFyC"
+        }
+      ],
+      "duration_ms": 213075,
+      "name": "Ya no Vivo por Vivir",
+      "url": "https://open.spotify.com/track/4a8MhQVIJ7oby8q3p2oEHJ"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Si No Me Querias",
-        "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 231780,
-      "name": "Si No Me Querias",
-      "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "La Historia Es Otra",
         "url": "https://open.spotify.com/album/5dmPi8B2msoHPo36SSwBRp"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 145920,
       "name": "La Historia Es Otra",
       "url": "https://open.spotify.com/track/0mgPNIIiyOYfiPPlk1aN9F"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Si No Me Querias",
+        "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 231780,
+      "name": "Si No Me Querias",
+      "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 244650,
-      "name": "Tu Ex Amigo",
-      "url": "https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Si Te Vuelves a Enamorar",
         "url": "https://open.spotify.com/album/1Fz1KX39tfYhKAp4oT8S7B"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 263000,
       "name": "Si Te Vuelves a Enamorar",
       "url": "https://open.spotify.com/track/0nqvp9S34yE0We5sHOoHNv"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 244650,
+      "name": "Tu Ex Amigo",
+      "url": "https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l"
     },
     {
       "added_at": "2026-07-31 08:27:18",

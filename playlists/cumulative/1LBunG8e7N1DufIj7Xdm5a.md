@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,619 songs - 10 day 8 hr 29 min
+4,622 songs - 10 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [Cigarettes After Sex](https://open.spotify.com/track/0QJA3wddV7sj6GVYMGifQT) | [Lilith Left The Garden](https://open.spotify.com/artist/0S8tp7VPxIpsU94O4Qdsxz) | [Cigarettes After Sex](https://open.spotify.com/album/6YMnhHynqZLIanUdsfUxp8) | 3:04 | 2025-05-06 |  |
 | [Cincinatti Pumpin!!](https://open.spotify.com/track/2tsmBwTvtJ0pU1IViRvsWJ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:51 | 2025-05-16 |  |
 | [Cinico](https://open.spotify.com/track/4jnbwRNHoKNUZlQx6sTHBQ) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Cinico](https://open.spotify.com/album/1kautYbCKwv3SHc4BTRG4W) | 3:55 | 2026-02-13 |  |
+| [Circle](https://open.spotify.com/track/1ZAaAQIEdyjVsLksHQ4OsF) | [I](https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR) | [volume 1](https://open.spotify.com/album/32rJQIOwi05ntcM63HrBMv) | 3:54 | 2026-08-13 |  |
 | [City Lights](https://open.spotify.com/track/1TNDtodNlIpObANzsbmare) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Brit pop emotions](https://open.spotify.com/album/5WC359ysjzx5ttU8vtw59R) | 3:17 | 2025-08-19 |  |
 | [City Lights](https://open.spotify.com/track/4L8xJ17lnbZJGelNtHOuVr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Contemporary Beat](https://open.spotify.com/album/1mSzbkXUupBlGjCc8R6bTx) | 3:40 | 2025-09-19 |  |
 | [City Lights \(2\)](https://open.spotify.com/track/3uwnBzR7kPCEfnV6iwicQk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Contemporary Beat](https://open.spotify.com/album/1mSzbkXUupBlGjCc8R6bTx) | 2:50 | 2025-09-19 |  |
@@ -996,6 +997,7 @@
 | [Desaparecer](https://open.spotify.com/track/5k43PEh1iZOquA15KQ7prD) | [Rebelde](https://open.spotify.com/artist/1r1L0bboEJnbzjdPf8LI2j) | [Desaparecer](https://open.spotify.com/album/6B50SDdtSZBIq3yu0TUVZX) | 3:55 | 2026-08-07 |  |
 | [Descifrar](https://open.spotify.com/track/0cNJnZTnGO7txFYAT3HUkK) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 4:17 | 2025-07-29 |  |
 | [Desde Que Te Vi](https://open.spotify.com/track/4zRfPFZQJ3FgXY6fYPVyee) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Desde Que Te Vi](https://open.spotify.com/album/0BeMj6uXo1D1ew6FgT9210) | 4:10 | 2025-06-02 |  |
+| [Desde Que Te Vi](https://open.spotify.com/track/7fxlAkBJCSOt7DbzQmcNgU) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Desde Que Te Vi](https://open.spotify.com/album/3EkwZkINxtxuouw9GX8yJ3) | 4:16 | 2026-08-13 |  |
 | [Deseos](https://open.spotify.com/track/22oChzp35MRgYG18jktD2y) | [Leyna y Estos Otros](https://open.spotify.com/artist/4mVrxEe5cktiKKhmvBEAVu) | [Deseos](https://open.spotify.com/album/6D061seVmfQH4eTwP94671) | 4:00 | 2026-02-06 |  |
 | [Desert is blind](https://open.spotify.com/track/5H8nFIaeVEmLLGZriXwC8T) | [Khoora](https://open.spotify.com/artist/2SEpC1uryEwjK4RxLtxZlY) | [Desert is blind](https://open.spotify.com/album/2mzEWMMSS4pH88svJWzbwD) | 4:01 | 2025-09-21 |  |
 | [Desert Roses](https://open.spotify.com/track/3okRhR1XTli6ggbUJNEroZ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Flamenco](https://open.spotify.com/album/40K1xsNXWY9D6ojMs744Qf) | 3:29 | 2025-08-29 |  |
@@ -3272,6 +3274,7 @@
 | [Riding Dinamite](https://open.spotify.com/track/5tJNvlN9W3yH6xDAad0ilT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:36 | 2026-05-21 |  |
 | [Riding the Waves](https://open.spotify.com/track/3lxKZlfSvw1gSDCBoWIlT7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:19 | 2025-09-19 |  |
 | [Riding the Waves \(another\)](https://open.spotify.com/track/6TDSR8kgCz5q7Q62plYaPU) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:34 | 2025-09-19 |  |
+| [Riempimi la vita](https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Riempimi la vita](https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH) | 4:20 | 2026-08-13 |  |
 | [Riffle gun](https://open.spotify.com/track/180XhecKAAcAiMDFb1wwJt) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Riffle gun](https://open.spotify.com/album/0lkcmLr2UtipAk2VyEBkLY) | 2:56 | 2025-07-26 |  |
 | [rifle crew](https://open.spotify.com/track/5JL77p8CYEt7vHEBS9eyVB) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [i wanna be a sniperrrrr](https://open.spotify.com/album/3hqf7upVvfJhXJDgBfmBMq) | 2:03 | 2025-07-28 |  |
 | [Riflesso di me](https://open.spotify.com/track/5jXmMokEYA03s3KYMg9lUB) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Riflesso di me](https://open.spotify.com/album/1ZMzareBq5KUc7C89dbAMH) | 3:22 | 2026-01-31 |  |

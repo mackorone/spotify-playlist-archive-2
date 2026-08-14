@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 301194,
+  "num_followers": 301372,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADRPU2TqcQRfU+zUVrv/FqY68w+j",
+  "snapshot_id": "AAAAAI6bWctvAwtLVZ0VPBnSgoLNMe5c",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j"
     },
     {
-      "added_at": "2023-12-01 09:10:43",
-      "album": {
-        "name": "Core Of The Truth",
-        "url": "https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS"
-      },
-      "artists": [
-        {
-          "name": "Dhyaan Sangeet",
-          "url": "https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI"
-        }
-      ],
-      "duration_ms": 206184,
-      "name": "Core Of The Truth",
-      "url": "https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2"
-    },
-    {
       "added_at": "2021-06-15 08:38:14",
       "album": {
         "name": "The Healing Process",
@@ -251,6 +235,22 @@
       "duration_ms": 161442,
       "name": "The Healing Process",
       "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
+    },
+    {
+      "added_at": "2023-12-01 09:10:43",
+      "album": {
+        "name": "Core Of The Truth",
+        "url": "https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS"
+      },
+      "artists": [
+        {
+          "name": "Dhyaan Sangeet",
+          "url": "https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI"
+        }
+      ],
+      "duration_ms": 206184,
+      "name": "Core Of The Truth",
+      "url": "https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Endless Nights",
-        "url": "https://open.spotify.com/album/39G4Sh25irfylUiwli0abu"
-      },
-      "artists": [
-        {
-          "name": "Devansh Tushar",
-          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "Endless Nights",
-      "url": "https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV"
-    },
-    {
       "added_at": "2023-12-01 09:10:43",
       "album": {
         "name": "The Sweetest Bansuri",
@@ -407,6 +391,22 @@
       "duration_ms": 166000,
       "name": "The Sweetest Bansuri",
       "url": "https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Endless Nights",
+        "url": "https://open.spotify.com/album/39G4Sh25irfylUiwli0abu"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Endless Nights",
+      "url": "https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
-      },
-      "artists": [
-        {
-          "name": "Devansh Tushar",
-          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Dawn Dusk Divinity",
-      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 332333,
       "name": "At Ease",
       "url": "https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Dawn Dusk Divinity",
+      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50"
     },
     {
-      "added_at": "2023-12-01 09:10:43",
-      "album": {
-        "name": "Yoga Dream",
-        "url": "https://open.spotify.com/album/2YwRSxhluGFUDhU6YFO2Sq"
-      },
-      "artists": [
-        {
-          "name": "Namaste Flute",
-          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
-        }
-      ],
-      "duration_ms": 209048,
-      "name": "Yoga Dream",
-      "url": "https://open.spotify.com/track/7HkYYOPExaCdMkVgyH0NW3"
-    },
-    {
       "added_at": "2021-06-15 08:38:14",
       "album": {
         "name": "Sacred Woods",
@@ -551,6 +535,22 @@
       "duration_ms": 247283,
       "name": "Mindful and Free",
       "url": "https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v"
+    },
+    {
+      "added_at": "2023-12-01 09:10:43",
+      "album": {
+        "name": "Yoga Dream",
+        "url": "https://open.spotify.com/album/2YwRSxhluGFUDhU6YFO2Sq"
+      },
+      "artists": [
+        {
+          "name": "Namaste Flute",
+          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
+        }
+      ],
+      "duration_ms": 209048,
+      "name": "Yoga Dream",
+      "url": "https://open.spotify.com/track/7HkYYOPExaCdMkVgyH0NW3"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
-        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
-      },
-      "artists": [
-        {
-          "name": "Oceanmere",
-          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Birds Sounds",
-      "url": "https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 143333,
       "name": "The Longest Rest",
       "url": "https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
+        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
+      },
+      "artists": [
+        {
+          "name": "Oceanmere",
+          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Birds Sounds",
+      "url": "https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sleep Music With Ambient Nature",
-        "url": "https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM"
-      },
-      "artists": [
-        {
-          "name": "Nature Sounds",
-          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
-        }
-      ],
-      "duration_ms": 148981,
-      "name": "Waves Music Relax",
-      "url": "https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Yoga Music",
-        "url": "https://open.spotify.com/album/13MrYs2p8gjLMnUMDbuipS"
-      },
-      "artists": [
-        {
-          "name": "Savasana",
-          "url": "https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk"
-        }
-      ],
-      "duration_ms": 335766,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Minimalia",
         "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
       },
@@ -1051,6 +1019,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Sleep Music With Ambient Nature",
+        "url": "https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "duration_ms": 148981,
+      "name": "Waves Music Relax",
+      "url": "https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "The Healing Touch - Music for Reiki and Meditation, Vol. 2",
         "url": "https://open.spotify.com/album/69jtcMWOhK48aAPC52ZRwp"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 903986,
       "name": "Spheres Of The Angels",
       "url": "https://open.spotify.com/track/6ioQi5nd8gxD2RE3iZqik1"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Yoga Music",
+        "url": "https://open.spotify.com/album/13MrYs2p8gjLMnUMDbuipS"
+      },
+      "artists": [
+        {
+          "name": "Savasana",
+          "url": "https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk"
+        }
+      ],
+      "duration_ms": 335766,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Relaxation and Meditation in Bollywood",
-        "url": "https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm"
-      },
-      "artists": [
-        {
-          "name": "Arijit Ghoshal",
-          "url": "https://open.spotify.com/artist/0pEb6D4xs90JTZIYe8QT86"
-        }
-      ],
-      "duration_ms": 406999,
-      "name": "Inner Calmness",
-      "url": "https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Hyper Focus",
         "url": "https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Relaxation and Meditation in Bollywood",
+        "url": "https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm"
+      },
+      "artists": [
+        {
+          "name": "Arijit Ghoshal",
+          "url": "https://open.spotify.com/artist/0pEb6D4xs90JTZIYe8QT86"
+        }
+      ],
+      "duration_ms": 406999,
+      "name": "Inner Calmness",
+      "url": "https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Yoga Nidra - Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes",
         "url": "https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 288298,
       "name": "REM Deep Sleep Inducing",
       "url": "https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Zen Music for Massage: Tranquility & Total Relax",
+        "url": "https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA"
+      },
+      "artists": [
+        {
+          "name": "Memory Helper",
+          "url": "https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h"
+        }
+      ],
+      "duration_ms": 413999,
+      "name": "Calm Meditation",
+      "url": "https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I"
     },
     {
       "added_at": "2025-02-06 10:03:27",
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Zen Music for Massage: Tranquility & Total Relax",
-        "url": "https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA"
+        "name": "Relaxation - Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation",
+        "url": "https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv"
       },
       "artists": [
         {
-          "name": "Memory Helper",
-          "url": "https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h"
+          "name": "Mitchell Solaris",
+          "url": "https://open.spotify.com/artist/1478i00xqrQalHvEdqWIrU"
         }
       ],
-      "duration_ms": 413999,
-      "name": "Calm Meditation",
-      "url": "https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I"
+      "duration_ms": 317277,
+      "name": "A Peaceful Music",
+      "url": "https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Relaxation - Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation",
-        "url": "https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Solaris",
-          "url": "https://open.spotify.com/artist/1478i00xqrQalHvEdqWIrU"
-        }
-      ],
-      "duration_ms": 317277,
-      "name": "A Peaceful Music",
-      "url": "https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Wellness Meditation Relaxation: Musical Images, Vol. 100",
         "url": "https://open.spotify.com/album/31baJpqQCjXr2tG7Bo8WrJ"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 215472,
       "name": "Hands of Love",
       "url": "https://open.spotify.com/track/5thzPpq4bX8deK5qYzcbx5"
+    },
+    {
+      "added_at": "2023-06-27 05:36:24",
+      "album": {
+        "name": "Beauty of Hope",
+        "url": "https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Ramos",
+          "url": "https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz"
+        }
+      ],
+      "duration_ms": 160374,
+      "name": "Beauty of Hope",
+      "url": "https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV"
     },
     {
       "added_at": "2025-02-06 10:03:27",
@@ -1315,22 +1331,6 @@
       "duration_ms": 304000,
       "name": "Poornam",
       "url": "https://open.spotify.com/track/7JRb8YV4LFbRv0ULSw1Qjs"
-    },
-    {
-      "added_at": "2023-06-27 05:36:24",
-      "album": {
-        "name": "Beauty of Hope",
-        "url": "https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Ramos",
-          "url": "https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz"
-        }
-      ],
-      "duration_ms": 160374,
-      "name": "Beauty of Hope",
-      "url": "https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV"
     },
     {
       "added_at": "2021-06-15 08:38:14",

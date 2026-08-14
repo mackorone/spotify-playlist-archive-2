@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Maisha Kanna",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Paul Partohap",
   "name": "JIVVA",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 148474,
       "name": "All U Want (feat. Keianka)",
       "url": "https://open.spotify.com/track/2cVo56bYrdYPAvFq6IjU3B"
@@ -828,6 +828,24 @@
       "duration_ms": 186279,
       "name": "BULAN",
       "url": "https://open.spotify.com/track/0sbqnT2yCqhZbMcDHrZTFd"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/4OmmLc2KBpOKmUzC7rCvVd"
+      },
+      "artists": [
+        {
+          "name": "Laura Geraldine",
+          "url": "https://open.spotify.com/artist/2mxvSPHMJnQDZUL61yMLZC"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162308,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/1M7S9Zp9DDclXC6PmEyitG"
     },
     {
       "album": {
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 212800,
       "name": "Jatuh Pelan",
       "url": "https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK"
@@ -4786,6 +4804,24 @@
       "duration_ms": 173750,
       "name": "Space & Time",
       "url": "https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU"
+    },
+    {
+      "album": {
+        "name": "CAN I CALL YOU MINE?",
+        "url": "https://open.spotify.com/album/1DTI1m8JrTW9Ae3GJ239zR"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237391,
+      "name": "SPEED DIAL #1",
+      "url": "https://open.spotify.com/track/6BphkJI46fmiXEWZfPQFl0"
     },
     {
       "album": {

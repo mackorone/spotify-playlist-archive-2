@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "60 Aniversario, Vol. 1",
+        "url": "https://open.spotify.com/album/4ZHXY8ifNdoPPWgsG9dLPy"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143680,
+      "name": "Arriba Pichataro",
+      "url": "https://open.spotify.com/track/14GAOBV6m1VACDZVoshg9x"
+    },
+    {
+      "album": {
         "name": "\u00a1\u00a1La Explosiva!!",
         "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
       },
@@ -380,24 +398,6 @@
       "duration_ms": 199550,
       "name": "Arrinconamela",
       "url": "https://open.spotify.com/track/5dRTL1DCt4J0VU17j8RqwS"
-    },
-    {
-      "album": {
-        "name": "60 Aniversario, Vol. 1",
-        "url": "https://open.spotify.com/album/4ZHXY8ifNdoPPWgsG9dLPy"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "date_added": "2026-06-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143680,
-      "name": "Arrriba Pichataro",
-      "url": "https://open.spotify.com/track/14GAOBV6m1VACDZVoshg9x"
     },
     {
       "album": {
@@ -2618,8 +2618,8 @@
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda El Recodo - Homenaje P\u00f3stumo",
+          "url": "https://open.spotify.com/artist/6qMTJaiqfbD7HTT8Dl4L2W"
         }
       ],
       "date_added": "2026-06-10",

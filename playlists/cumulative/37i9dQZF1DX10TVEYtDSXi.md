@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-292 songs - 15 hr 27 min
+293 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-02-14 | 2025-07-11 |
 | [Saga Class](https://open.spotify.com/track/6Ub81suCL3HnM30LJa4JST) | [HelgiT](https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL), [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Saga Class](https://open.spotify.com/album/5ws8t2nOVAeiPFd4hKxvj0) | 2:29 | 2025-09-26 | 2025-11-14 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-11 | 2025-03-29 |
+| [Sama stað](https://open.spotify.com/track/4N06eE0cjXt4ZPJTSzS5Ny) | [FRANKO](https://open.spotify.com/artist/2OYQjMIn5e8PdEFOqJok8o) | [Sama stað](https://open.spotify.com/album/4OILmcTnYETZPOdtoakQKi) | 2:49 | 2026-08-11 |  |
 | [Sama um](https://open.spotify.com/track/4yUnGQmxjQFyxQHLf0GjRw) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [Sama um](https://open.spotify.com/album/7dn9xXKT3qSNXmBvh61IN8) | 2:14 | 2024-06-21 | 2024-08-16 |
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-21 | 2024-08-23 |
 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-07-01 |  |

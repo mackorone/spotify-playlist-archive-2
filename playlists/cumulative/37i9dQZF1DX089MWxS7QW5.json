@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: DAWN (\ub358))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Urban Zakapa)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -1550,6 +1550,24 @@
       "duration_ms": 149853,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6eijhbNjs96BeOYG8PVC8x"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Blue Diamond",
+      "url": "https://open.spotify.com/track/6sjXCnawLHV5LId3cXMaj0"
     },
     {
       "album": {
@@ -12970,7 +12988,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 290690,
       "name": "\ub0b4\uac00 \uc8fd\uc73c\ub824\uace0 \uc0dd\uac01\ud55c \uac83\uc740 \u50d5\u304c\u6b7b\u306e\u3046\u3068\u601d\u3063\u305f\u306e\u306f (The Reason Why I Thought I'd Die)",
       "url": "https://open.spotify.com/track/2OBptPww39taCRvg856hiU"

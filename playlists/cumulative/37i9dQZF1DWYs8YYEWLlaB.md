@@ -2,7 +2,7 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Ati242
+> viral, trend ve yükselenler\. Kapak: Asil Gök
 
 311 songs - 15 hr 46 min
 

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,191 songs - 3 day 5 hr 0 min
+1,194 songs - 3 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [3rd Planet](https://open.spotify.com/track/7Gi8kaILAUgjYqgdee9410) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Moon & Antarctica](https://open.spotify.com/album/5SbcupirEParczvqqyUPXL) | 3:58 | 2022-09-20 | 2024-01-22 |
 | [4 Better Or 4 Worse \(Interlude\)](https://open.spotify.com/track/2OCJ0ZZW75wPcMyUI9l1Lb) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 0:36 | 2024-01-08 |  |
 | [6'1" \- 2018 Remaster](https://open.spotify.com/track/55LqsLfv1S01SoVPbR8naN) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Exile In Guyville \(2018 Remaster\)](https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd) | 3:06 | 2022-08-07 |  |
+| [89 Days](https://open.spotify.com/track/14twvCzXql2brH14KA7vzX) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Melt the Honey](https://open.spotify.com/album/1b3i2e3n3ayNsVKXANYsPz) | 2:42 | 2026-08-14 |  |
 | [953](https://open.spotify.com/track/6TYqetg2GzbwdeDvLBZbZF) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 5:20 | 2024-01-03 |  |
 | [<2](https://open.spotify.com/track/6b7UmVZAUEdc7cwF52tuBd) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg) | [Slugger](https://open.spotify.com/album/4pIfQJoWkRlqdPG4geudEf) | 3:23 | 2024-01-18 |  |
 | [A Beautiful Woman](https://open.spotify.com/track/31NVIwE4edzNpTXAZ7UyB6) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [The Expanding Flower Planet](https://open.spotify.com/album/10e1mx1PykreNOn02pFjIU) | 3:31 | 2023-03-23 |  |
@@ -363,6 +364,7 @@
 | [Four Years and One Day](https://open.spotify.com/track/1N46EUnUiBP4lhLMCLwnFG) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 3:17 | 2024-02-14 |  |
 | [Fragile](https://open.spotify.com/track/2YWjyGARRK5KOFBxSBRPup) | [Yasmin Nur](https://open.spotify.com/artist/5QJ3lLasHPr4juIkXB3siz) | [Slaughter](https://open.spotify.com/album/11jhOP95Uh2qmFo7jC1P9n) | 3:56 | 2026-03-03 |  |
 | [French Navy](https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 3:18 | 2023-06-08 |  |
+| [French Radio](https://open.spotify.com/track/2DFY5xoMUyUMColK7xaRi8) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [They Spent Their Wild Youthful Days In The Glittering World Of The Salons](https://open.spotify.com/album/3bEI2P01ZCL5AnpAY7GGcg) | 0:18 | 2026-08-14 |  |
 | [From The Gods](https://open.spotify.com/track/3y0DIcBw075qzj3dOwJ5aL) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3), [Fat Ray](https://open.spotify.com/artist/7tjfWNXhMsf8G6WosK2hy2) | [Food From the Gods](https://open.spotify.com/album/1M4p6UNirW9jsDnnNzPyqR) | 1:28 | 2026-01-19 | 2026-01-22 |
 | [Fruity](https://open.spotify.com/track/2cNZzxSe048owMCdRloYkH) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Sun Machine](https://open.spotify.com/album/5Nzqg5Xb7xaKfl3XudeNiY) | 3:50 | 2024-02-07 | 2024-05-17 |
 | [Full Cobra](https://open.spotify.com/track/2RklSC5aWr0n6YzWensReD) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Languish Arts](https://open.spotify.com/album/2mvvQ1WnfeB5tduglyPCrz) | 2:48 | 2026-06-29 |  |
@@ -1060,6 +1062,7 @@
 | [Theme From Leaving Philadelphia](https://open.spotify.com/track/4hznb8bMK38TxibW8BQRNK) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [Home Constellation Study](https://open.spotify.com/album/3x7F1yCZ0wjlKhRbWqkMzw) | 3:52 | 2024-09-09 | 2025-01-04 |
 | [There's a Rugged Road \- Remastered](https://open.spotify.com/track/5rIjJkNIY3sRtjPJVOctRE) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Heart Food](https://open.spotify.com/album/40epQ5uLIK1k7mGL0ESpUn) | 3:44 | 2022-12-17 | 2023-04-20 |
 | [Thief](https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:00 | 2025-06-18 | 2025-06-22 |
+| [This Is Radio Etienne](https://open.spotify.com/track/6AP9itKfq3NiSGpkpXWWI5) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 0:42 | 2026-08-14 |  |
 | [This Is Why](https://open.spotify.com/track/1EZWqtdpu8nw0uKGmWPz5a) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 2:55 | 2024-10-10 | 2024-12-19 |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2023-03-11 | 2024-01-30 |
 | [This Love Isn't Crazy](https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:53 | 2023-08-01 | 2023-12-14 |

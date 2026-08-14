@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Revaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,771 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,774 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [First Sight](https://open.spotify.com/track/23MlHVusddJP6e2WAXFsqf) | [Ekkan](https://open.spotify.com/artist/2VnWKIkpDJE8f6qukTmnpa), [Marz](https://open.spotify.com/artist/5V7bS224vebOH5hCq5nlMB) | [First Sight](https://open.spotify.com/album/1oZsx2Pc3vjWOYKGlYyJR5) | 2:56 |
 | 50 | [Let Me Go](https://open.spotify.com/track/27Dme4bufvtzLZklVhAxLS) | [EAGLE BEATZ](https://open.spotify.com/artist/1z3q1N6XSG06XXvknr5iU2), [Aniket](https://open.spotify.com/artist/6rDjrU2KLibztNixyM3Kia) | [Let Me Go](https://open.spotify.com/album/2psXgAp4DOpkcqWAObQq9p) | 2:23 |
 
-Snapshot ID: `AAAAANUZuDQDBoLwgl5wnkgbQSOtZo7s`
+Snapshot ID: `AAAAAK77sUzH8UmQo8Asb/IjNDVsCopG`

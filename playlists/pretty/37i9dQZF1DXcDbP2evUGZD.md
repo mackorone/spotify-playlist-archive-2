@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 98 | [Fighting](https://open.spotify.com/track/3GramJRJejUKwSxaah879N) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf), [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Fighting](https://open.spotify.com/album/1srljphnYcHZ7gfO5lTFel) | 3:16 |
 | 99 | [YES MAN](https://open.spotify.com/track/55EwqptSKkVJjdaJG8LlQN) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [YES MAN](https://open.spotify.com/album/7MsumZ5RaI96ToAiBhs36v) | 3:33 |
 
-Snapshot ID: `AAAAABrDFPVWb39caJngKs2wvORyY1KP`
+Snapshot ID: `AAAAAMsKAf8viXPNV1IbIbQCcBCR0wNj`

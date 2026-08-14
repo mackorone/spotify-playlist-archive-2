@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Apne mulk ki homegrown hits 🎶 Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,302 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,312 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 47 | [Bewajah](https://open.spotify.com/track/3N3KsOsPrLxxWNQHTl0Kkz) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Bewajah](https://open.spotify.com/album/1nMYA7uloQvFhTDY565dtn) | 3:25 |
 | 48 | [Sila](https://open.spotify.com/track/4UKjQODokAfEMaTgvTHbVX) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Khasara](https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA) | 4:08 |
 | 49 | [SARGOSHI](https://open.spotify.com/track/1JX4YjJ6EtxOheUjer7Vsu) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE), [Usamasutra](https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L) | [SARGOSHI](https://open.spotify.com/album/3LxvwpsXj6aX0I9St3ZAB3) | 2:12 |
-| 50 | [Jhol \- Acoustic](https://open.spotify.com/track/44LaY2y6wRRlSRjsqbKnuU) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Jhol \- Acoustic](https://open.spotify.com/album/1z8pfDEtCC0CxAOVT9IYkS) | 4:37 |
+| 50 | [Jhol \- Acoustic \(feat\. Asfand\)](https://open.spotify.com/track/44LaY2y6wRRlSRjsqbKnuU) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Asfand](https://open.spotify.com/artist/5Dmma2b9AAtPyCfZ2tlTcX) | [Jhol \- Acoustic \(feat\. Asfand\)](https://open.spotify.com/album/1z8pfDEtCC0CxAOVT9IYkS) | 4:37 |
 | 51 | [Andaz E Karam](https://open.spotify.com/track/4nnRfvjgJGWufaaKY7vjsd) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Andaz E Karam](https://open.spotify.com/album/1NWUdEQ1tXwhkx3y8lsYfZ) | 4:48 |
 | 52 | [Tum Na Ho](https://open.spotify.com/track/0Pm2OPYWunQUhF1a0EATed) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Tum Na Ho](https://open.spotify.com/album/2LJzRpHLbu88KdcFLdn2KE) | 2:50 |
 | 53 | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/album/47HV1rQNbrAPcv15zgbTHy) | 3:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 69 | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/track/6Z4CqbQZOgrQHGHHlgGkEa) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Damsaaz](https://open.spotify.com/artist/3LRZBrgGGCFYMwjDvuYd1i), [Shahid Hussain](https://open.spotify.com/artist/1wadN23m2ThzgO3bGdRFCL) | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/album/1849WiGK8CzEIBS6Y4wOCY) | 8:19 |
 | 70 | [Tu Hai Wohi](https://open.spotify.com/track/3hrvVVBKL6jfpqGzR2WSlH) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Tu Hai Wohi](https://open.spotify.com/album/5AAyhb4xNYCV97FTVtV0Xl) | 2:29 |
 
-Snapshot ID: `AAAAAAY/+6XPxyaNetHPqNa67DEuMUNt`
+Snapshot ID: `AAAAAJX3aWgFC/445FVXMnTIyhofjn2z`

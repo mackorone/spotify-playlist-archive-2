@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anpmAAAAAAAaIdRZqBpnInmPIqGl4J+U",
+  "snapshot_id": "anu3gAAAAABPOJd0w51Iycjhyom0nnh/",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Spend, Spend, Spend",
-      "url": "https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67"
+      "duration_ms": 213906,
+      "name": "FM",
+      "url": "https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 213906,
-      "name": "FM",
-      "url": "https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV"
+      "duration_ms": 195693,
+      "name": "Spend, Spend, Spend",
+      "url": "https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 134213,
-      "name": "Number One Enemy",
-      "url": "https://open.spotify.com/track/2KtEq0B5iP9iVkPbY6mu5N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skateboard Punk Hits",
         "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
       },
@@ -423,22 +407,6 @@
       "duration_ms": 212506,
       "name": "Grapevine (Live)",
       "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "Femme Fatale (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt"
     },
     {
       "added_at": null,
@@ -471,6 +439,38 @@
       "duration_ms": 135973,
       "name": "Vaseline (Live at The Gibus Club, 1978)",
       "url": "https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 134213,
+      "name": "Number One Enemy",
+      "url": "https://open.spotify.com/track/2KtEq0B5iP9iVkPbY6mu5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "Femme Fatale (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt"
     },
     {
       "added_at": null,

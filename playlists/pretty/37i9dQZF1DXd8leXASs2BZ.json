@@ -1,12 +1,12 @@
 {
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: It-Works",
-  "num_followers": 6651,
+  "num_followers": 6654,
   "original_name": "+81 Connect FRESH",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEQtCEWyntHt/LiQE3LreL3aUlzL",
+  "snapshot_id": "AAAAAKOuYM0b6VJ8WmNgJK0gD8F0mYQZ",
   "tracks": [
     {
       "added_at": "2026-08-12 05:33:31",
@@ -255,6 +255,34 @@
       "duration_ms": 180223,
       "name": "Neet Mie",
       "url": "https://open.spotify.com/track/39CjF982Y6kiReD3ON4Nsf"
+    },
+    {
+      "added_at": "2026-08-12 05:33:31",
+      "album": {
+        "name": "WHPH",
+        "url": "https://open.spotify.com/album/3Cq39CmuYa2J2rUSNPGJpI"
+      },
+      "artists": [
+        {
+          "name": "Newera",
+          "url": "https://open.spotify.com/artist/3LBpiM7XMp8NTxTOnKZjpc"
+        },
+        {
+          "name": "MAR\u00dc",
+          "url": "https://open.spotify.com/artist/1HjXRad4rNCKcm7V00WoEr"
+        },
+        {
+          "name": "sh1t",
+          "url": "https://open.spotify.com/artist/3IchFX2kpT6ARyP7hURWyo"
+        },
+        {
+          "name": "Baby Onyx",
+          "url": "https://open.spotify.com/artist/6r1RbkLWIKW6NT7RuAYJ7V"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "WHPH",
+      "url": "https://open.spotify.com/track/1tg1AJOiSncuzN7as7mlZC"
     },
     {
       "added_at": "2026-08-12 05:33:31",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Q",
+  "description": "Beyond titles, beyond genre. Cover: Troye Sivan",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -788,7 +788,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 125849,
       "name": "androgynous",
       "url": "https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 211038,
       "name": "Bally",
       "url": "https://open.spotify.com/track/0vFwQDpQPSFb3j2IVlr7Ik"
@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 159987,
       "name": "COLD WEATHER",
       "url": "https://open.spotify.com/track/0UFW7DHcL73cpDmc8BXWpZ"
@@ -3356,6 +3356,28 @@
       "duration_ms": 117322,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/3QIhVvfoBWr4X85530IMeB"
+    },
+    {
+      "album": {
+        "name": "Cut Off Your Nose",
+        "url": "https://open.spotify.com/album/1E67EQszSby3pLRPzg2Px3"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Recorded",
+          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
+        },
+        {
+          "name": "Jah Wobble",
+          "url": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152471,
+      "name": "Cut Off Your Nose",
+      "url": "https://open.spotify.com/track/2ioqznBYgAU8lo0tUgR71H"
     },
     {
       "album": {
@@ -4574,7 +4596,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 192140,
       "name": "Dry",
       "url": "https://open.spotify.com/track/4qECdOrbHjtsEKMvfi01Nt"
@@ -4610,7 +4632,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 170213,
       "name": "Dust in the Wind",
       "url": "https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0"
@@ -4754,7 +4776,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 266767,
       "name": "Eleanor",
       "url": "https://open.spotify.com/track/4x9RLHwtUvN2zchIJt7F3W"
@@ -4815,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "elmyra",
+        "url": "https://open.spotify.com/album/65y4iXOL3zrW1njXzX3yQj"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283386,
+      "name": "elmyra",
+      "url": "https://open.spotify.com/track/5pedzmyyKGTs8PV23dnvbc"
+    },
+    {
+      "album": {
         "name": "End of Time",
         "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
       },
@@ -4862,7 +4902,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 166809,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6"
@@ -4970,7 +5010,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 289075,
       "name": "Essex_Honey.mp3",
       "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
@@ -5710,7 +5750,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 292526,
       "name": "Food Shopping",
       "url": "https://open.spotify.com/track/6npEef5m4kQ5tgQbwZp9ky"
@@ -6851,6 +6891,28 @@
     },
     {
       "album": {
+        "name": "Hartebeest / Neath the grove is a heart",
+        "url": "https://open.spotify.com/album/5jeB1tiQiecZj9TFKh4ViQ"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        },
+        {
+          "name": "Keath \u00d3sk",
+          "url": "https://open.spotify.com/artist/5nS4Ohh7IG844fp1Eu1GMI"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189413,
+      "name": "Hartebeest",
+      "url": "https://open.spotify.com/track/3jDIToTde37aah61zvoTPN"
+    },
+    {
+      "album": {
         "name": "Have A Baby (With Me)",
         "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
       },
@@ -7376,6 +7438,24 @@
       "duration_ms": 147592,
       "name": "Home",
       "url": "https://open.spotify.com/track/651NGwLvO5GiIpx6v9HJE0"
+    },
+    {
+      "album": {
+        "name": "Lost In Another World",
+        "url": "https://open.spotify.com/album/6a4PjuIDMW3kxLNuoi4LXf"
+      },
+      "artists": [
+        {
+          "name": "James Ellis Ford",
+          "url": "https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231079,
+      "name": "Homesick For Another World",
+      "url": "https://open.spotify.com/track/7LO4MeJGzjow43zIaqoOsA"
     },
     {
       "album": {
@@ -8345,6 +8425,24 @@
     },
     {
       "album": {
+        "name": "in vino veritas!",
+        "url": "https://open.spotify.com/album/2VIdb7sLoqXNwosA7mJruQ"
+      },
+      "artists": [
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "in vino veritas!",
+      "url": "https://open.spotify.com/track/1ZUptgW52c61JXpRW6ivmN"
+    },
+    {
+      "album": {
         "name": "Industrial Love Song / Bells",
         "url": "https://open.spotify.com/album/0jMKVV7RHBC8Pr0kV8R397"
       },
@@ -9297,6 +9395,24 @@
     },
     {
       "album": {
+        "name": "left you",
+        "url": "https://open.spotify.com/album/46r0YggpgLn2vgxuYgs7o6"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157948,
+      "name": "left you",
+      "url": "https://open.spotify.com/track/6yI8tTGKH2LRIufGSck7GN"
+    },
+    {
+      "album": {
         "name": "Less of You",
         "url": "https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht"
       },
@@ -9950,7 +10066,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 218946,
       "name": "Love & Tears",
       "url": "https://open.spotify.com/track/0USF54f34DPnAn9nEmqNIN"
@@ -10128,6 +10244,24 @@
       "duration_ms": 195070,
       "name": "Lowdown (part i)",
       "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
+    },
+    {
+      "album": {
+        "name": "Lowest Common Denominator",
+        "url": "https://open.spotify.com/album/7HbqmHK5PWveZcre4BJdbW"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240546,
+      "name": "Lowest Common Denominator",
+      "url": "https://open.spotify.com/track/17yyNFmPN0vP9jIaO7kRqU"
     },
     {
       "album": {
@@ -11028,7 +11162,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 200021,
       "name": "move, honey",
       "url": "https://open.spotify.com/track/5LqGOqE1vnNjc8ELAP76Tt"
@@ -11209,6 +11343,32 @@
     },
     {
       "album": {
+        "name": "Needle",
+        "url": "https://open.spotify.com/album/7gj35vKZSrndvclu5KyKib"
+      },
+      "artists": [
+        {
+          "name": "Cyst",
+          "url": "https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT"
+        },
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        },
+        {
+          "name": "daisy*",
+          "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180002,
+      "name": "Needle",
+      "url": "https://open.spotify.com/track/0Bxh3DKY42997tK3SBY6iD"
+    },
+    {
+      "album": {
         "name": "negotiate",
         "url": "https://open.spotify.com/album/2Zt49RShX3Gr4aouDdqeEj"
       },
@@ -11348,7 +11508,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 178000,
       "name": "New Park",
       "url": "https://open.spotify.com/track/0gldSDrbMgZW6zi1kUHa5o"
@@ -12753,6 +12913,24 @@
     },
     {
       "album": {
+        "name": "The Summer Fables",
+        "url": "https://open.spotify.com/album/3ZeT8r59p4lSOwPqiUop6H"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151511,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/1o8zQNrBrbA0ukEDRRD9ub"
+    },
+    {
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
       },
@@ -13006,6 +13184,24 @@
       "duration_ms": 223738,
       "name": "PROMISE",
       "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/3EoYDo2Kxva9WXrk4iRN5O"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160249,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/7xia6ZCAVUJv33LvFpcLig"
     },
     {
       "album": {
@@ -13772,7 +13968,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 144500,
       "name": "Sail By...",
       "url": "https://open.spotify.com/track/3VEFs1haxtNVNRw8o0r94U"
@@ -14254,7 +14450,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 315604,
       "name": "Shallow Hits",
       "url": "https://open.spotify.com/track/39EJv0Bf5T9m3CrOTusmEC"
@@ -15522,6 +15718,24 @@
     {
       "album": {
         "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
         "url": "https://open.spotify.com/album/27WtbsG9A8Rnaru5BG9ew2"
       },
       "artists": [
@@ -15870,6 +16084,24 @@
       "duration_ms": 296607,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/7qDBCXw48fj85AaJDvyLD9"
+    },
+    {
+      "album": {
+        "name": "Thani",
+        "url": "https://open.spotify.com/album/5T4b3aTGG6UDBpqTNNlbB6"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192273,
+      "name": "Thani",
+      "url": "https://open.spotify.com/track/1W4fXbpFtEhbEXDHrwfUho"
     },
     {
       "album": {
@@ -16387,6 +16619,24 @@
     },
     {
       "album": {
+        "name": "The Rot",
+        "url": "https://open.spotify.com/album/04TXLv2JHrjWwedE0e4BvF"
+      },
+      "artists": [
+        {
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196453,
+      "name": "The Rot",
+      "url": "https://open.spotify.com/track/0BXd8OZonjsjn6VelekrpD"
+    },
+    {
+      "album": {
         "name": "The Seize",
         "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
@@ -16478,7 +16728,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 202972,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
@@ -17596,7 +17846,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 130952,
       "name": "violet",
       "url": "https://open.spotify.com/track/2b7UZ6xgMY6xsW41qIPJLH"
@@ -17872,6 +18122,28 @@
       "duration_ms": 211680,
       "name": "We Don't Speak Anymore",
       "url": "https://open.spotify.com/track/7IfarhuPKJeyOotOzlBxfA"
+    },
+    {
+      "album": {
+        "name": "It's Lovely, Come On In REWORKS",
+        "url": "https://open.spotify.com/album/1nKYJT6UpqCfQwuU9zFFSM"
+      },
+      "artists": [
+        {
+          "name": "thredd",
+          "url": "https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC"
+        },
+        {
+          "name": "Max Winter",
+          "url": "https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "We Don't Speak Anymore - Max Winter REWORK",
+      "url": "https://open.spotify.com/track/0ofaapXJQBI0IlED1Qbvnp"
     },
     {
       "album": {

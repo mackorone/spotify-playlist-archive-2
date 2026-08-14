@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Travy",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Clavish, MoStack",
   "name": "Rap UK",
   "tracks": [
     {
@@ -1218,6 +1218,24 @@
       "duration_ms": 125070,
       "name": "44",
       "url": "https://open.spotify.com/track/39SJPuVarUZXm5tytwxqbt"
+    },
+    {
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1Z0nnNdSO57sk7ENh7EHY7"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155860,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI"
     },
     {
       "album": {
@@ -7088,7 +7106,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 122072,
       "name": "Boyega",
       "url": "https://open.spotify.com/track/2SIFNfukEygTgvlrHsLjG6"
@@ -17526,7 +17544,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 214255,
       "name": "Gardener Flow",
       "url": "https://open.spotify.com/track/2BwY3JVjpZiCy9V3qfXkRN"
@@ -24555,7 +24573,7 @@
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 234866,
+      "duration_ms": 233151,
       "name": "levels",
       "url": "https://open.spotify.com/track/5WnAF1Vh2byZgn0KwOT5in"
     },
@@ -32852,7 +32870,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 127071,
       "name": "Parable Of A Skinnyman",
       "url": "https://open.spotify.com/track/7p9dsXg6IkoZoCwQHJWUAv"
@@ -37627,6 +37645,28 @@
     },
     {
       "album": {
+        "name": "SADAM",
+        "url": "https://open.spotify.com/album/6ff20s7O9nwOySdtwTP63A"
+      },
+      "artists": [
+        {
+          "name": "David Armada",
+          "url": "https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh"
+        },
+        {
+          "name": "N4T",
+          "url": "https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97642,
+      "name": "SADAM",
+      "url": "https://open.spotify.com/track/2kUnhPF2WzafNnXxKy925t"
+    },
+    {
+      "album": {
         "name": "sade",
         "url": "https://open.spotify.com/album/1aCX6QNk94fByjeBIB6vJ1"
       },
@@ -38606,6 +38646,32 @@
       "duration_ms": 156000,
       "name": "Shellingham",
       "url": "https://open.spotify.com/track/2nPSd2jrNHMjf0OiwWWfRA"
+    },
+    {
+      "album": {
+        "name": "Shelloff",
+        "url": "https://open.spotify.com/album/3TPUhTQSfsSATLcuIets81"
+      },
+      "artists": [
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        },
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Shelloff",
+      "url": "https://open.spotify.com/track/1Eu6TSgKQudrFrHbQyKGmz"
     },
     {
       "album": {
@@ -47092,7 +47158,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 153600,
       "name": "Whats My Name",
       "url": "https://open.spotify.com/track/3LZeT8JO6gGfOsjjo8AjYf"
@@ -47260,6 +47326,28 @@
       "duration_ms": 181333,
       "name": "Which One",
       "url": "https://open.spotify.com/track/3URpUsUUv4Kr7l1hVnWy1K"
+    },
+    {
+      "album": {
+        "name": "goldenboy",
+        "url": "https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3"
+      },
+      "artists": [
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        },
+        {
+          "name": "onoola-sama",
+          "url": "https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "whine am well ft. onoola-sama",
+      "url": "https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu"
     },
     {
       "album": {

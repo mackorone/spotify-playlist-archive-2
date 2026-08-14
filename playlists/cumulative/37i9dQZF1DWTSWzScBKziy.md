@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Joseph O'Brien
 
-1,475 songs - 3 day 18 hr 9 min
+1,476 songs - 3 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [beauty & love](https://open.spotify.com/track/4XGkBfD397mVlrFwC7W9yY) | [HOMECOMING](https://open.spotify.com/artist/4HNKPi9snti1H0ISjcTslT) | [beauty & love](https://open.spotify.com/album/1akBMQl5vGrNas29IEG4wj) | 4:11 | 2026-02-07 | 2026-03-22 |
 | [Beauty Of The Lord](https://open.spotify.com/track/76NrsYcTrCXVxVlJ3Wz21s) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Cosmic Supreme](https://open.spotify.com/album/2FKITMZKvsHU1YNG2eUnsa) | 6:14 | 2025-04-04 | 2025-06-07 |
 | [Because Of God \- feat\. Tenth Avenue North](https://open.spotify.com/track/73sCmgmVQdGGRAnyFmcVtP) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW), [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Because Of God \(feat\. Tenth Avenue North\)](https://open.spotify.com/album/5ShCSS4EhBuMPicMN0YZVs) | 3:20 | 2026-04-17 | 2026-05-30 |
+| [Becoming](https://open.spotify.com/track/1lDtM5Nqoo45DzY1ftYLhd) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Becoming](https://open.spotify.com/album/3C4REww4VAXUkh4WpGDMAl) | 2:42 | 2026-08-07 |  |
 | [Before I Knew Jesus](https://open.spotify.com/track/656oooz2McvWe0TezAzkDL) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Before I Knew Jesus](https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo) | 3:16 | 2022-10-29 | 2024-06-08 |
 | [belief](https://open.spotify.com/track/00RJUxqmSh4UFm0NHOCAV2) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [belief](https://open.spotify.com/album/2zHvAXT8cLsC0QW96LsSS6) | 2:49 | 2026-03-21 | 2026-04-18 |
 | [Belong In Heaven](https://open.spotify.com/track/1wAMwyjAqZxWfKTL0Gi9bu) | [Johan Åsgärde](https://open.spotify.com/artist/6VMGCLxmS95jnze9DRPcgr) | [Belong In Heaven](https://open.spotify.com/album/58vgCAyahoxZIgoMcN2WGl) | 3:57 | 2026-01-17 | 2026-02-21 |
@@ -936,7 +937,7 @@
 | [OBSESSED](https://open.spotify.com/track/1P8d7DlFSl1M8EENCmQQ6V) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [OBSESSED](https://open.spotify.com/album/3F2UElJknY4a349YxClEDE) | 2:38 | 2026-04-17 | 2026-05-30 |
 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 | 2025-09-14 | 2025-11-16 |
 | [Oh Death](https://open.spotify.com/track/1U8KGvV3UNBYomNP7taETr) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Oh Death](https://open.spotify.com/album/4nMkF8ILHhE2AUqH7sFNGZ) | 3:30 | 2025-05-17 | 2025-07-20 |
-| [Oh My Soul](https://open.spotify.com/track/4kvRVDFQazhqMk5ox7fhoB) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [Oh My Soul + I Know A Name](https://open.spotify.com/album/7oqCcj5CucrhmdGA3AuXbb) | 3:55 | 2026-07-17 |  |
+| [Oh My Soul](https://open.spotify.com/track/4kvRVDFQazhqMk5ox7fhoB) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [Oh My Soul + I Know A Name](https://open.spotify.com/album/7oqCcj5CucrhmdGA3AuXbb) | 3:55 | 2026-07-17 | 2026-08-14 |
 | [Oh What A Friend](https://open.spotify.com/track/6Me57rRHSblLtoexHpPw7n) | [John Wesley](https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq) | [Oh What A Friend](https://open.spotify.com/album/1i2J6zD8932uZXrhrnqFhj) | 3:46 | 2024-07-26 | 2024-10-12 |
 | [OKAY!](https://open.spotify.com/track/3AqhSTSYYOm8EVMkD8tRaW) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [OKAY!](https://open.spotify.com/album/3i6UnjFI76QC3zakPBApV7) | 4:34 | 2026-05-19 | 2026-06-20 |
 | [Oklahoma](https://open.spotify.com/track/1WXHHQim1F23dML0yFIUt5) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Oklahoma](https://open.spotify.com/album/6TryrnzGC2Ud4DorIe5gZq) | 3:52 | 2026-05-29 | 2026-07-04 |

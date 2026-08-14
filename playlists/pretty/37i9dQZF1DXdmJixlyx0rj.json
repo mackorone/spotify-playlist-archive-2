@@ -1,12 +1,12 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Winter Back)",
-  "num_followers": 37924,
+  "num_followers": 37933,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHgcqlcZ0oMFQbIRqU+KH1DLO4lw",
+  "snapshot_id": "AAAAAC8/ohTJhrurtTJrz7nP2hfI2BO4",
   "tracks": [
     {
       "added_at": "2026-08-07 06:11:04",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "Super (Workout Remix)",
+        "url": "https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 193586,
+      "name": "Super (Workout Remix)",
+      "url": "https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "d\u2606ct (soccer banger)",
         "url": "https://open.spotify.com/album/5Z0yiqKRzFfXie0tinKQ3Z"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 184347,
       "name": "d\u2606ct (soccer banger)",
       "url": "https://open.spotify.com/track/50NbbKgWFbwkTCRP7AkZ6I"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "Super (Workout Remix)",
-        "url": "https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 193586,
-      "name": "Super (Workout Remix)",
-      "url": "https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "Falling In Love (feat. Natalie Major)",
         "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
       },
@@ -823,22 +807,18 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "Keep My Light On",
-        "url": "https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW"
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
       },
       "artists": [
         {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Raiden",
-          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Keep My Light On",
-      "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -863,6 +843,26 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "Keep My Light On",
+        "url": "https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Keep My Light On",
+      "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "Mirror ball (feat. Moon Sujin)",
         "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
       },
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "Love Eternally (feat. JUNNY)",
-        "url": "https://open.spotify.com/album/3GyXdxYwhVyzlMfUlDBczH"
-      },
-      "artists": [
-        {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/4tux3ya8LhUBgGoXfXsocl"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Love Eternally (feat. JUNNY)",
-      "url": "https://open.spotify.com/track/20YNEkOUj8r3jHscotaGpe"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "We The One",
         "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
       },
@@ -919,22 +899,22 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "TOMBOY (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
+        "name": "Love Eternally (feat. JUNNY)",
+        "url": "https://open.spotify.com/album/3GyXdxYwhVyzlMfUlDBczH"
       },
       "artists": [
         {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/4tux3ya8LhUBgGoXfXsocl"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 129677,
-      "name": "TOMBOY (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
+      "duration_ms": 237133,
+      "name": "Love Eternally (feat. JUNNY)",
+      "url": "https://open.spotify.com/track/20YNEkOUj8r3jHscotaGpe"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -963,6 +943,26 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "TOMBOY (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 129677,
+      "name": "TOMBOY (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "caffeine withdrawal",
         "url": "https://open.spotify.com/album/0nJlGYaDlHYfbdRx9NTFe0"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "CHU\u2661",
-        "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        }
-      ],
-      "duration_ms": 99324,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "silkysmooth 06",
         "url": "https://open.spotify.com/album/0ruOKA3oxsRvAbW5rX06EG"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 213852,
       "name": "Tangerine Fade",
       "url": "https://open.spotify.com/track/4kkwW5Zx780EgDKf4vMSYv"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "CHU\u2661",
+        "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        }
+      ],
+      "duration_ms": 99324,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "My Bad (feat. Julie Bergan) [KSHMR Edit]",
         "url": "https://open.spotify.com/album/35NGvCNRwl2NiWfcai5k4G"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 212352,
       "name": "My Bad (feat. Julie Bergan) - KSHMR Edit",
       "url": "https://open.spotify.com/track/7rM4FWiY8PqU2TxdXX6BXh"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/1VFB78LC4Lv3Y0J3W2tz9F"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        }
-      ],
-      "duration_ms": 169883,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/2qSCVrKlaiJSwmCqS2bUBx"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "Love Crime",
         "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 154712,
       "name": "Felony",
       "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1VFB78LC4Lv3Y0J3W2tz9F"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        }
+      ],
+      "duration_ms": 169883,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/2qSCVrKlaiJSwmCqS2bUBx"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1287,6 +1287,22 @@
       "duration_ms": 139419,
       "name": "Back for More (with Anitta) (House Remix)",
       "url": "https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1327,22 +1343,6 @@
       "duration_ms": 190151,
       "name": "allez, pousse!",
       "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
-      },
-      "artists": [
-        {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
-        }
-      ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
-      },
-      "artists": [
-        {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
-        }
-      ],
-      "duration_ms": 255628,
-      "name": "Energetic (Prequel Remix)",
-      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "eigensinn",
         "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 261301,
       "name": "homes",
       "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "duration_ms": 255628,
+      "name": "Energetic (Prequel Remix)",
+      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "wo ai ni / break it even",
-        "url": "https://open.spotify.com/album/2GMtWkMoiQifiJB7qDW4XY"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 211525,
-      "name": "wo ai ni",
-      "url": "https://open.spotify.com/track/4Tu9m6n8UUrCWo2ULTGm3n"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "iScreaM Vol.11 : Queendom Remix",
         "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 194754,
       "name": "Queendom - Demicat Remix",
       "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/2GMtWkMoiQifiJB7qDW4XY"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 211525,
+      "name": "wo ai ni",
+      "url": "https://open.spotify.com/track/4Tu9m6n8UUrCWo2ULTGm3n"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "iScreaM Vol.25 : Red Flavor Remix",
-        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "MAR VISTA",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Red Flavor - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "Lucky Star",
         "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 224640,
       "name": "Armageddon (Mount XLR Remix)",
       "url": "https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "iScreaM Vol.25 : Red Flavor Remix",
+        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "MAR VISTA",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Red Flavor - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "silkysmooth 05",
+        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 181536,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "MOONLIGHT (MOTi Remix)",
         "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 191654,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "silkysmooth 05",
-        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 181536,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
     }
   ],
   "unique_name": "Electronii[K]",

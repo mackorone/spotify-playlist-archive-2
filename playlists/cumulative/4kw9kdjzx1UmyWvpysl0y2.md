@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,283 songs - 2 day 23 hr 9 min
+1,284 songs - 2 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Follow The Princess](https://open.spotify.com/track/5ZsxH6fMtuPuYRgf5J7bub) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [Follow The Princess](https://open.spotify.com/album/2LxCos1KHu0QscEpxALzEm) | 3:33 | 2023-09-11 | 2024-01-11 |
 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 | 2023-03-08 | 2023-05-30 |
 | [For Me \- VIP](https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are \(Deluxe\)](https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3) | 3:00 | 2022-05-10 | 2022-07-21 |
+| [Forever](https://open.spotify.com/track/7GsyVPk2ixVCK7AJ6XfBOk) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Forever](https://open.spotify.com/album/2ZeAmtRg9exjRNBM9kDAdH) | 2:28 | 2026-08-13 |  |
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 | 2022-06-10 |
 | [Forget About Us](https://open.spotify.com/track/2uxmaOqUv8HGSWyZNMJIA0) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija), [Lava Hong](https://open.spotify.com/artist/6yDrbCYEt6ICpuW4Uc9YZu) | [Odyssey Soundsystem](https://open.spotify.com/album/1ZxKili2mstqTPvHrVhbeN) | 3:30 | 2025-04-11 | 2025-07-09 |
 | [Foul](https://open.spotify.com/track/678Xgl1L3zy2RR1QQO44zm) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Foul \(RAIZHELL Remix\)](https://open.spotify.com/album/3n1dpx6mzHp6UA5uw8F7VU) | 2:59 | 2025-02-05 | 2025-02-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > the best of modern alternative rock\. Cover: Basement
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,331 likes - 110 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,293 likes - 110 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 109 | [Borrowed](https://open.spotify.com/track/2oq0G2o0KHuyKxBoSEM6DN) | [Skeever](https://open.spotify.com/artist/2hwZtNH1ykR4CFp9xTY0VQ) | [Needle & Thread](https://open.spotify.com/album/5FzC8wCjWmXjQZ73HgKJVU) | 3:39 |
 | 110 | [Ghost](https://open.spotify.com/track/2dlrU8rkjGhJZ78Y1USwau) | [Day Saints](https://open.spotify.com/artist/3DjOiXzQgfpGW3hXxQCvd6) | [Warmth // Ghost](https://open.spotify.com/album/2ojQavRkjdDT1WYU9F1zA7) | 4:01 |
 
-Snapshot ID: `AAAAAAv+bnHa6HTlhywFU/4cBmK9uVbJ`
+Snapshot ID: `AAAAAHRPkzb+N3MDnTumB/YslXIamQob`

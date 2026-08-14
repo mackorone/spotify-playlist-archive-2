@@ -1,12 +1,12 @@
 {
   "description": "\"Si ma\u00f1ana yo me muero, no se pongan a llorar, mejor me pasean con banda por mi pueblito natal\" Valentin Elizalde en portada. ",
-  "num_followers": 382750,
+  "num_followers": 382767,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADsC/frjnS7UR7AWkq8DLAIdqvs5",
+  "snapshot_id": "AAAAADemmSs08Y/MQBlcL9wp90pMZ2I7",
   "tracks": [
     {
       "added_at": "2025-11-25 17:51:31",
@@ -547,22 +547,18 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "Atenci\u00f3n Al Cliente",
-        "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Los Mentados De Culiac\u00e1n",
-          "url": "https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 183173,
-      "name": "El Viaje De Mi Vida",
-      "url": "https://open.spotify.com/track/3RVOk2SAS2KwQSYk3F8BPp"
+      "duration_ms": 177013,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -583,18 +579,22 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+        "name": "Atenci\u00f3n Al Cliente",
+        "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Los Mentados De Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
+      "duration_ms": 183173,
+      "name": "El Viaje De Mi Vida",
+      "url": "https://open.spotify.com/track/3RVOk2SAS2KwQSYk3F8BPp"
     },
     {
       "added_at": "2025-11-25 17:51:31",

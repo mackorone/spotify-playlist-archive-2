@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Billboard Style
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,724 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,771 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Get Some](https://open.spotify.com/track/2AyIGo8j3lKMXn2TzfJeC4) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [Drawl // Get Some](https://open.spotify.com/album/4zO3UH8wMlrmiFYZLpS1kb) | 3:19 |
 | 75 | [Wasted Tonight](https://open.spotify.com/track/7JaXJWPO9nVTkscVcqINkk) | [Slippers](https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM) | [Wasted Tonight](https://open.spotify.com/album/1jNhZfZpj37L6rXBq3aZiq) | 2:12 |
 
-Snapshot ID: `AAAAAAlkJ45RqVRMzvlD4Df8eWh1O+xN`
+Snapshot ID: `AAAAADBqxB2ms07M+iH4AMrZyggDIO05`

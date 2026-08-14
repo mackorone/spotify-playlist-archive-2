@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 232630,
+  "num_followers": 232658,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anpmAAAAAACxhcwXbIrs5A8kr8WzTxPK",
+  "snapshot_id": "anu3gAAAAADAIfB+R/DBwGQZHzgzi7EN",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 132026,
-      "name": "A Tree For My Bed",
-      "url": "https://open.spotify.com/track/799BZgHYabYSYp7VtpIWcb"
+      "duration_ms": 474933,
+      "name": "Welcome To Jurassic Park",
+      "url": "https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 474933,
-      "name": "Welcome To Jurassic Park",
-      "url": "https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK"
+      "duration_ms": 132026,
+      "name": "A Tree For My Bed",
+      "url": "https://open.spotify.com/track/799BZgHYabYSYp7VtpIWcb"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saving Private Ryan",
+        "url": "https://open.spotify.com/album/60Ymcp3amHOWlPfPnNeNSI"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 370266,
+      "name": "Hymn To The Fallen - From \"Saving Private Ryan\" Soundtrack",
+      "url": "https://open.spotify.com/track/71zPpqRMdkEUCl7cPQIBrV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Silver Violin",
         "url": "https://open.spotify.com/album/47VlUP2jxeitw3MaAtIPQn"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 228946,
       "name": "Main Theme (From \"Schindler's List\")",
       "url": "https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saving Private Ryan",
-        "url": "https://open.spotify.com/album/60Ymcp3amHOWlPfPnNeNSI"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 370266,
-      "name": "Hymn To The Fallen - From \"Saving Private Ryan\" Soundtrack",
-      "url": "https://open.spotify.com/track/71zPpqRMdkEUCl7cPQIBrV"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obi-Wan Kenobi (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 246520,
-      "name": "Obi-Wan",
-      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schindler's List",
         "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 246520,
+      "name": "Obi-Wan",
+      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jurassic Park",
         "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
       },
@@ -795,26 +795,6 @@
       "duration_ms": 532706,
       "name": "Journey To The Island",
       "url": "https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Yoda's Theme",
-      "url": "https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL"
     },
     {
       "added_at": null,
@@ -835,6 +815,26 @@
       "duration_ms": 263226,
       "name": "Princess Leia's Theme",
       "url": "https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Yoda's Theme",
+      "url": "https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL"
     },
     {
       "added_at": null,

@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Al\u00e9m Do Tempo",
+        "url": "https://open.spotify.com/album/5wSMphnKqBeihlJzLaliuC"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147763,
+      "name": "Alguns Defeitos",
+      "url": "https://open.spotify.com/track/23AU70NKsQ4HfdSyd7lwZl"
+    },
+    {
+      "album": {
         "name": "Ali Te Ama",
         "url": "https://open.spotify.com/album/6aR8YMno9VPTfKYvRf8DSL"
       },

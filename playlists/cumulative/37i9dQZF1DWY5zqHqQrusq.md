@@ -2,9 +2,9 @@
 
 ### [Barefoot and Free](https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq)
 
-> Chill, take a long walk and clear your mind\. Cover: Kahuti
+> Chill, take a long walk and clear your mind\. Cover: Altair Saïd
 
-154 songs - 8 hr 43 min
+155 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [For Life](https://open.spotify.com/track/6VbXGySuhLG1MTb7AkZast) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [For Life](https://open.spotify.com/album/01LAdgvIXOkrBigv0pyDLF) | 3:15 | 2024-02-23 |  |
 | [For Lovers](https://open.spotify.com/track/7yKzWjujvc2MnBhRyURV9p) | [Hornsphere](https://open.spotify.com/artist/27PRI6n81ZU9wJUSbIiLUN), [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Aliye](https://open.spotify.com/artist/7yo0XV88xEkqroBbH2O0kq), [Noi](https://open.spotify.com/artist/4azaSqZcFF6qd2xy8WIR9P) | [Fomation](https://open.spotify.com/album/1S2TtBkcswiXj96CoMY3vv) | 5:04 | 2025-02-14 |  |
 | [Forever yours](https://open.spotify.com/track/0dd0McSQVC7kxppAEunPQN) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndoa](https://open.spotify.com/album/3vKSPMAe4vy4p8LcaOygoR) | 4:35 | 2022-11-11 | 2025-02-22 |
-| [Free](https://open.spotify.com/track/3oNPOIzZYk6WCCvSSLDLqI) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Free](https://open.spotify.com/album/0TwahsX1CAvVgooTwZSvP1) | 2:35 | 2025-02-21 |  |
+| [Free](https://open.spotify.com/track/3oNPOIzZYk6WCCvSSLDLqI) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Free](https://open.spotify.com/album/0TwahsX1CAvVgooTwZSvP1) | 2:35 | 2025-02-21 | 2026-08-14 |
 | [Greenland](https://open.spotify.com/track/66Nj1QNmgmEM6O4MZAOOBP) | [ATTHIENO](https://open.spotify.com/artist/5nUoAiLFVvbPAvuJds1vvw), [Noel Grass](https://open.spotify.com/artist/1a6i0GGbOBR2MQykr2H1vG) | [Greenland](https://open.spotify.com/album/1YbhnfrTvpigmqeZMm2nu4) | 3:41 | 2025-12-04 |  |
 | [Guidance](https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Guidance](https://open.spotify.com/album/5rJTqmaSUmsoWCqM0nfLF0) | 2:55 | 2025-05-30 |  |
 | [Heal](https://open.spotify.com/track/4NTXQuCZ1DrGRgdm1ItzKa) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Healing](https://open.spotify.com/album/0tOUGN0EVBE6KDwWH7Me8k) | 3:30 | 2026-02-19 |  |
@@ -76,7 +76,7 @@
 | [Kidege](https://open.spotify.com/track/2WbEO8DRGaGuZUiawdVoDZ) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81) | [Leta Ngoma](https://open.spotify.com/album/1rX8TJwwfaEfhjp2v41emq) | 3:32 | 2026-07-02 |  |
 | [Kitanda Baridi](https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/37koEdQDcJf6odt9woXGUu) | 2:56 | 2023-09-15 | 2026-04-03 |
 | [Kitanda Baridi](https://open.spotify.com/track/6pKPr8Q8DPtQ5HI0JMfTmx) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/7hJjPkoexYN13yHx7W7XhI) | 2:56 | 2024-02-23 | 2024-04-19 |
-| [Kizungu](https://open.spotify.com/track/6IOwNDCwz8TZ1MUpiI5nr9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Ceke](https://open.spotify.com/artist/4mVKiUZ9zJwWX2p4wmNgO3) | [Kizungu](https://open.spotify.com/album/3QtoYICiNK1G0wE6SAHOaU) | 1:00 | 2025-10-16 |  |
+| [Kizungu](https://open.spotify.com/track/6IOwNDCwz8TZ1MUpiI5nr9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Ceke](https://open.spotify.com/artist/4mVKiUZ9zJwWX2p4wmNgO3) | [Kizungu](https://open.spotify.com/album/3QtoYICiNK1G0wE6SAHOaU) | 1:00 | 2025-10-16 | 2026-08-14 |
 | [Kupendwa Na We](https://open.spotify.com/track/11J60sqzkA3kC4iHTzGCuL) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Kupendwa Na We](https://open.spotify.com/album/4o59AzJ3bVaTfr8zHVkmi6) | 3:38 | 2026-07-24 |  |
 | [Leila](https://open.spotify.com/track/0ftDY0RdXs6vOm09xHdM4B) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Leila](https://open.spotify.com/album/67mq6sEbC07yaHwBROT0Nu) | 3:04 | 2026-07-24 |  |
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-11-11 | 2023-04-17 |
@@ -122,6 +122,7 @@
 | [See Me](https://open.spotify.com/track/7eaKAVoEqeo98PBEIsgLM0) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Fallin' Apart](https://open.spotify.com/album/7sTMUZfjsk7CjmCybDP1nX) | 4:20 | 2022-11-11 | 2023-09-16 |
 | [Sema Ukweli](https://open.spotify.com/track/4qRXTonzWvpBo079XXFeAV) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Lick Back](https://open.spotify.com/album/08DXRawHAxPzzamzypr5QU) | 1:59 | 2026-05-29 |  |
 | [Sexy In Chanel](https://open.spotify.com/track/4MkgXmqA9xpmAAr4Mp1grJ) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [I WISH I WAS HONEST](https://open.spotify.com/album/1Tv0ZJXSTMZ7lI47lFvY1J) | 3:26 | 2025-11-10 |  |
+| [Show Me](https://open.spotify.com/track/5rXWTxgm7w41aQx1w3xN7R) | [Hadaya Eliana](https://open.spotify.com/artist/1FbR4POuJEavlbVoYnXrz1), [Genes1s](https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e) | [Show Me](https://open.spotify.com/album/0GdglHmlytSouH0ZXfRRzV) | 2:48 | 2026-08-13 |  |
 | [Side Chick](https://open.spotify.com/track/6XeOjWznRQ6WWTelTBUCsZ) | [ItsYaba](https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j), [Jefflawgan](https://open.spotify.com/artist/5ciu7LFuG7PZSGPzIS8jav) | [Side Chick](https://open.spotify.com/album/3GOgVhlZZdyehCcVFmFwx3) | 3:50 | 2025-03-28 | 2025-05-02 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-11-11 | 2024-01-12 |
 | [Silence](https://open.spotify.com/track/22G4l622bTQvI2cXCWukEh) | [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Silence](https://open.spotify.com/album/281QRwB2V26Emhe54lVsYg) | 3:07 | 2026-08-06 |  |

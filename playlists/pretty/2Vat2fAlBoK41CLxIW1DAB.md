@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,585 likes - 1,140 songs - 2 day 23 hr 40 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,585 likes - 1,143 songs - 2 day 23 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1148,5 +1148,8 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1138 | [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 |
 | 1139 | [אלגוריתם](https://open.spotify.com/track/6tAW14B3CwdEC0uSqxNjCo) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [אלגוריתם](https://open.spotify.com/album/3z86HVtVhwZRLEU2VGjGtO) | 3:27 |
 | 1140 | [The Summer](https://open.spotify.com/track/65Osn2jt5o15yIq6MSfx9q) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [The Summer](https://open.spotify.com/album/4d9HaHNZDRysrsFDaEt5NN) | 3:21 |
+| 1141 | [Tattoo My Brain](https://open.spotify.com/track/6qI054w5q3vUtzi3YlTNXq) | [Dead End Road](https://open.spotify.com/artist/2G7nnTPUdpp1HPhHrdQro5) | [Tattoo My Brain](https://open.spotify.com/album/7neWWsrJvASLW6ga1IApAq) | 2:25 |
+| 1142 | [MENTAL BREAKDOWN](https://open.spotify.com/track/4b8c8onEYWRBFcK7nMpscR) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [MENTAL BREAKDOWN](https://open.spotify.com/album/63z0XcSxHUDp6amwElKGB4) | 4:02 |
+| 1143 | [Nothing Is Real](https://open.spotify.com/track/6NeUtmPROc6rT8xt78cKzu) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Nothing Is Real](https://open.spotify.com/album/3NAI2vEVtyJr9sQ3zSaJwk) | 2:51 |
 
-Snapshot ID: `AAAEnmqE1akrtMxlTj+L9e1HfdWQjD35`
+Snapshot ID: `AAAEoYMaqxJ+ojaiDkMtCH8DLXE8ma0f`

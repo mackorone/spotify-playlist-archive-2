@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 482020,
       "name": "1000 Ese",
       "url": "https://open.spotify.com/track/3c6UaL8xu539Trl9YEWUBq"
@@ -2540,7 +2540,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 240692,
       "name": "Close To Your Heart",
       "url": "https://open.spotify.com/track/3VaG5piaBR0mjuDiIhqfOC"
@@ -3746,7 +3746,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 407014,
       "name": "Elohim (Live)",
       "url": "https://open.spotify.com/track/6RFYj6PyYe0aJThegeE1AG"
@@ -4302,6 +4302,24 @@
       "duration_ms": 496886,
       "name": "Eze Abata",
       "url": "https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M"
+    },
+    {
+      "album": {
+        "name": "Eze Mo (Live)",
+        "url": "https://open.spotify.com/album/0odnu4b4TXbJbUaEmD3yjX"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530000,
+      "name": "Eze Mo (Live)",
+      "url": "https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D"
     },
     {
       "album": {
@@ -5263,6 +5281,24 @@
     },
     {
       "album": {
+        "name": "The Life Recording",
+        "url": "https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 814591,
+      "name": "Glory to God in the Highest",
+      "url": "https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI"
+    },
+    {
+      "album": {
         "name": "The Glory of His Presence",
         "url": "https://open.spotify.com/album/0G15dQmK6vpTiHwQNiroWz"
       },
@@ -5478,7 +5514,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 392870,
       "name": "God Will Work It Out",
       "url": "https://open.spotify.com/track/5evSnRhml9lC1iYr0Oanet"
@@ -5622,7 +5658,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 242352,
       "name": "Good (Psalms 145)",
       "url": "https://open.spotify.com/track/41ooM5xnCXgj0iat09QJoa"
@@ -6127,6 +6163,24 @@
     },
     {
       "album": {
+        "name": "Great Things",
+        "url": "https://open.spotify.com/album/001uedMrATaG7UHBi43ab4"
+      },
+      "artists": [
+        {
+          "name": "O'Tims",
+          "url": "https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278048,
+      "name": "Great Things",
+      "url": "https://open.spotify.com/track/158T7YS2ZsopAKiGrsV343"
+    },
+    {
+      "album": {
         "name": "Greater",
         "url": "https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU"
       },
@@ -6423,6 +6477,28 @@
     },
     {
       "album": {
+        "name": "Hallelujah Jesu",
+        "url": "https://open.spotify.com/album/5pr7pUeUGcfr4IqHJJAZAu"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 960493,
+      "name": "Hallelujah Jesu",
+      "url": "https://open.spotify.com/track/4hB0gEeorkLNIKEIsQsbf9"
+    },
+    {
+      "album": {
         "name": "Halleluyah",
         "url": "https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB"
       },
@@ -6434,7 +6510,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 416232,
       "name": "Halleluyah",
       "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
@@ -6514,7 +6590,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 503688,
       "name": "He Has Done It",
       "url": "https://open.spotify.com/track/3tjjbmXmertILW8ExDYqxI"
@@ -6922,7 +6998,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 352500,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/2pMMJBKFleLX6yb3BMEwvp"
@@ -7718,7 +7794,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 177551,
       "name": "I Know A God",
       "url": "https://open.spotify.com/track/4nQbDeYVl8Vb04PQhSxZpk"
@@ -8936,7 +9012,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 358000,
       "name": "IT IS WELL",
       "url": "https://open.spotify.com/track/2ChpsGA8GVZ20W4rfse3Zd"
@@ -9698,7 +9774,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 284853,
       "name": "Kulungile Baba",
       "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
@@ -9948,7 +10024,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 350000,
       "name": "Lifter of my head",
       "url": "https://open.spotify.com/track/4IahJFgVlxlQd7xzNEDV7Q"
@@ -10530,7 +10606,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 1005560,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/5j3fJAxQp4gQ53xOPRnzvA"
@@ -11224,7 +11300,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 275000,
       "name": "My Ebenezer",
       "url": "https://open.spotify.com/track/6FRNX4eCgujb0KdATJxRRu"
@@ -11464,6 +11540,24 @@
       "duration_ms": 576213,
       "name": "My Soul be Still",
       "url": "https://open.spotify.com/track/7ASv6VTzG0ntDAUWEPYM5b"
+    },
+    {
+      "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442538,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
     },
     {
       "album": {
@@ -14076,7 +14170,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 703171,
       "name": "Rafiki",
       "url": "https://open.spotify.com/track/0cSMbkqNF20ryCR8rKfs70"
@@ -14170,7 +14264,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 537386,
       "name": "Reckless Lover",
       "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
@@ -15179,6 +15273,32 @@
     },
     {
       "album": {
+        "name": "Speak Lord",
+        "url": "https://open.spotify.com/album/1JboqcmSuZft5WePBNZJCm"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Nicole Muwanguzi",
+          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230823,
+      "name": "Speak Lord",
+      "url": "https://open.spotify.com/track/0b7sBStWpaCPEvQVRoVmVD"
+    },
+    {
+      "album": {
         "name": "Donnie McClurkin",
         "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
       },
@@ -15562,7 +15682,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 319164,
       "name": "Tasted",
       "url": "https://open.spotify.com/track/0VSRo5qR7cP9PVtoFC9U3M"
@@ -17148,7 +17268,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 503240,
       "name": "Way Maker - Live",
       "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 378785,
+  "num_followers": 378824,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMprJrsJaxumDmuDHkN8O4SLUoNG",
+  "snapshot_id": "AAAAAEYY+twNJhoZTYsOARjxAPtKwSG2",
   "tracks": [
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
+        "name": "Post Self",
+        "url": "https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE"
+      },
+      "artists": [
+        {
+          "name": "Godflesh",
+          "url": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "Post Self",
+      "url": "https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
         "name": "Disobey (Disruptor Remix)",
         "url": "https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 208250,
       "name": "Disobey - Disruptor Remix",
       "url": "https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
-        "name": "Post Self",
-        "url": "https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE"
-      },
-      "artists": [
-        {
-          "name": "Godflesh",
-          "url": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "Post Self",
-      "url": "https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J"
     },
     {
       "added_at": "2025-02-10 19:48:47",

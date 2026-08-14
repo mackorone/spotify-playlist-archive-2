@@ -1,12 +1,12 @@
 {
   "description": "One night only. Cover: Ink Waruntorn, SERIOUS BACON",
-  "num_followers": 53591,
+  "num_followers": 53577,
   "original_name": "On Tour Singapore: Ink Waruntorn, SERIOUS BACON",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF0L4z/sRUAzGp4H56DIm97HQ1r6",
+  "snapshot_id": "AAAAAJfUUvju2iexfDNDXucuFB3Aww6i",
   "tracks": [
     {
       "added_at": "2026-07-31 10:19:40",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-07-31 10:19:40",
       "album": {
+        "name": "INK",
+        "url": "https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "\u0e14\u0e35\u0e43\u0e08\u0e14\u0e49\u0e27\u0e22\u0e19\u0e30",
+      "url": "https://open.spotify.com/track/4NThLQDTayuRMmulVLAX8T"
+    },
+    {
+      "added_at": "2026-07-31 10:19:40",
+      "album": {
         "name": "\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c\u0e41\u0e1a\u0e1a",
         "url": "https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 207391,
       "name": "\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c\u0e41\u0e1a\u0e1a",
       "url": "https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "INK",
-        "url": "https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "\u0e14\u0e35\u0e43\u0e08\u0e14\u0e49\u0e27\u0e22\u0e19\u0e30",
-      "url": "https://open.spotify.com/track/4NThLQDTayuRMmulVLAX8T"
     },
     {
       "added_at": "2026-07-31 10:19:40",

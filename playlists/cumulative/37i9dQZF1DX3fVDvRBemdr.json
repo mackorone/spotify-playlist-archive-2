@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Frank van Etten",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Mart Hoogkamer",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 122882,
       "name": "Al Win Ik 10 Miljoen",
       "url": "https://open.spotify.com/track/6Lt1QW8Y7eO8rv2bdiTO1Q"
@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 189809,
       "name": "Dans tot de morgen met mij",
       "url": "https://open.spotify.com/track/5pWhF7YA7P5leU1bAOrChs"
@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 140098,
       "name": "Doen We Het Vaker",
       "url": "https://open.spotify.com/track/0TnZ9a7qyF3nZS3bnc8JBo"
@@ -4905,6 +4905,28 @@
     },
     {
       "album": {
+        "name": "Happie Sappie BBQ-tje (feat. Jean Paul)",
+        "url": "https://open.spotify.com/album/4KyKM5a0BF2yortjIuIlkC"
+      },
+      "artists": [
+        {
+          "name": "De Havenzangers",
+          "url": "https://open.spotify.com/artist/52Q4TyDwkpvHsKdx5aPPEn"
+        },
+        {
+          "name": "Jean Paul",
+          "url": "https://open.spotify.com/artist/7udmIJntOaH0P0eCQlpQi6"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Happie Sappie BBQ-tje (feat. Jean Paul)",
+      "url": "https://open.spotify.com/track/2vYehw7szKiZOsEwU76uB3"
+    },
+    {
+      "album": {
         "name": "Hart Gestolen",
         "url": "https://open.spotify.com/album/2iYMjlSP6sgjm6suHJEQV3"
       },
@@ -5425,6 +5447,24 @@
     },
     {
       "album": {
+        "name": "Hoef Niet Te Weten",
+        "url": "https://open.spotify.com/album/6RAM0lEfcvVsTXar9BjEsX"
+      },
+      "artists": [
+        {
+          "name": "Mike Oskam",
+          "url": "https://open.spotify.com/artist/4h0EhiZy6kumY4jKmqWjBc"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171778,
+      "name": "Hoef Niet Te Weten",
+      "url": "https://open.spotify.com/track/6SyHRSC7vcJBljdt7iUGMP"
+    },
+    {
+      "album": {
         "name": "Hoeveel Tranen Moet Ik Huilen",
         "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
       },
@@ -5566,7 +5606,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 161814,
       "name": "H\u00e9 Kom Maar Op",
       "url": "https://open.spotify.com/track/1dGawRtvZwrsV9lqXIPzb7"
@@ -5692,7 +5732,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 195357,
       "name": "Ik ben een uurtje later",
       "url": "https://open.spotify.com/track/6KC10NmoMbhKcOUpH6nRbi"
@@ -6360,6 +6400,24 @@
       "duration_ms": 195748,
       "name": "Ik Was Mezelf Even Kwijtgeraakt",
       "url": "https://open.spotify.com/track/5QgOJonvPznLzJG91jClTe"
+    },
+    {
+      "album": {
+        "name": "Ik Weet Dat Zij Het Ziet",
+        "url": "https://open.spotify.com/album/12XU0KTPZXN238ZStFvZCZ"
+      },
+      "artists": [
+        {
+          "name": "Roy van Nuland",
+          "url": "https://open.spotify.com/artist/0rnA333PgkP9joLU7KM3qy"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150937,
+      "name": "Ik Weet Dat Zij Het Ziet",
+      "url": "https://open.spotify.com/track/51fX0yAXCfJ7Ka7SZ9G4Er"
     },
     {
       "album": {
@@ -7362,7 +7420,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 187488,
       "name": "Jong & Dom",
       "url": "https://open.spotify.com/track/4Sr55tCgF7I1gEr9YJ7Xng"
@@ -7848,6 +7906,24 @@
       "duration_ms": 123782,
       "name": "Kouwe Kak",
       "url": "https://open.spotify.com/track/6br7zmBXTUgQWoqVDQ6qBW"
+    },
+    {
+      "album": {
+        "name": "Kroegen in de Hemel",
+        "url": "https://open.spotify.com/album/0WNSIdhb8F6wZwnvNF3748"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183674,
+      "name": "Kroegen in de Hemel",
+      "url": "https://open.spotify.com/track/7daRniFQ3OpZzxCmCBPuoE"
     },
     {
       "album": {
@@ -9743,6 +9819,24 @@
     },
     {
       "album": {
+        "name": "Nooit",
+        "url": "https://open.spotify.com/album/34JXL6GXWWKrY2Fq7WjfXM"
+      },
+      "artists": [
+        {
+          "name": "Dennis Jones",
+          "url": "https://open.spotify.com/artist/1yX3XZMzhkLPR66FrbG5o2"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172142,
+      "name": "Nooit",
+      "url": "https://open.spotify.com/track/01QVkVJWMDejYHCE1R4PzJ"
+    },
+    {
+      "album": {
         "name": "Nooit Meer",
         "url": "https://open.spotify.com/album/63DRVLfUVYRkRLTQlyXZIG"
       },
@@ -10521,6 +10615,24 @@
     },
     {
       "album": {
+        "name": "Poppetjes In Jouw Ogen",
+        "url": "https://open.spotify.com/album/4jLOx05K2DHprsGwvBlvat"
+      },
+      "artists": [
+        {
+          "name": "Donny den Heijer",
+          "url": "https://open.spotify.com/artist/2wkF6FM62mmhOmWWArIpaI"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Poppetjes In Jouw Ogen",
+      "url": "https://open.spotify.com/track/4mjSDiUnNaLKA80e1Bp3sB"
+    },
+    {
+      "album": {
         "name": "Proost",
         "url": "https://open.spotify.com/album/4sUvujNWFPRYxmDMziZwG4"
       },
@@ -10965,6 +11077,24 @@
     },
     {
       "album": {
+        "name": "Sjansen",
+        "url": "https://open.spotify.com/album/4E7hhC2EOWBxo3VZ0ksOiQ"
+      },
+      "artists": [
+        {
+          "name": "Henk Dissel",
+          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149057,
+      "name": "Sjansen",
+      "url": "https://open.spotify.com/track/5CFrNBn5fJymiGNUn6D5dQ"
+    },
+    {
+      "album": {
         "name": "Slapen Doen We 's Nachts",
         "url": "https://open.spotify.com/album/28oenfZzaK5tPqS4P3BRgq"
       },
@@ -11180,7 +11310,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 186750,
       "name": "Spreid Mijn Vleugels Uit",
       "url": "https://open.spotify.com/track/7wmCxH0kdh25z1JZQwz6WD"

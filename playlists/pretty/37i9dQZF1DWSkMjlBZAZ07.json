@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1868648,
+  "num_followers": 1868562,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMoD3SONQmO/8MsWbAGA/2XkpWj4",
+  "snapshot_id": "AAAAAJyL301E1kh7gAx3/mq0CwzKPZs8",
   "tracks": [
     {
       "added_at": "2026-06-05 20:48:48",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Under The Streetlights",
-        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 213483,
-      "name": "I Should Know Better",
-      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Under The Streetlights",
+        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 213483,
+      "name": "I Should Know Better",
+      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "In The Wind",
-        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
-      },
-      "artists": [
-        {
-          "name": "MAGIC GIANT",
-          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Taking Things For Granted",
         "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 216167,
       "name": "Taking Things For Granted",
       "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "In The Wind",
+        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
+      },
+      "artists": [
+        {
+          "name": "MAGIC GIANT",
+          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 189859,
-      "name": "I\u2019D MISS THE BIRDS",
-      "url": "https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Saratoga",
         "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 230533,
       "name": "Saratoga",
       "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 189859,
+      "name": "I\u2019D MISS THE BIRDS",
+      "url": "https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Almost Home",
         "url": "https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 169177,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
+        "name": "Early in the Morning (Special Edition)",
+        "url": "https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 219952,
+      "name": "Sparrow and the Wolf",
+      "url": "https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
         "name": "Both Can Be True",
         "url": "https://open.spotify.com/album/78VYmUeibMyKEhanJqBd73"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 179374,
       "name": "Wild Spirit",
       "url": "https://open.spotify.com/track/5VDctoEJ0T3YGJwj0XHIEg"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
-        "name": "Early in the Morning (Special Edition)",
-        "url": "https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 219952,
-      "name": "Sparrow and the Wolf",
-      "url": "https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Headlights / Summer Bird",
-        "url": "https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 191980,
-      "name": "Summer Bird",
-      "url": "https://open.spotify.com/track/5K5R7SYPJB81a6pMhkzNbi"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Soap",
         "url": "https://open.spotify.com/album/1KYYQCuxfGl7gV9KpXBWRv"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 214820,
       "name": "Soap",
       "url": "https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Headlights / Summer Bird",
+        "url": "https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 191980,
+      "name": "Summer Bird",
+      "url": "https://open.spotify.com/track/5K5R7SYPJB81a6pMhkzNbi"
     },
     {
       "added_at": "2026-06-05 20:48:48",

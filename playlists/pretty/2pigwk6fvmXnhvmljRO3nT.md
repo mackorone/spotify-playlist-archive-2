@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,584 songs - 21 day 20 hr 11 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,588 songs - 21 day 20 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8592,5 +8592,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8582 | [Shiawasenomonosashi](https://open.spotify.com/track/5iUjWA0lGW4TXr6KJs6Y0r) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx) | 5:27 |
 | 8583 | [何もきかないで](https://open.spotify.com/track/1TVytW8KF6lq6yFtJze61w) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:11 |
 | 8584 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 |
+| 8585 | [Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:28 |
+| 8586 | [Trying to Feel Alive](https://open.spotify.com/track/4W9c6wnc7ZNKiheIUMG6k7) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 4:39 |
+| 8587 | [Kibou no uta](https://open.spotify.com/track/68ixFFKB7TguskFFkB4eD5) | [DEARDROPS](https://open.spotify.com/artist/3biG6ieWoAYIWR60w5NGJj) | [My dear stardust](https://open.spotify.com/album/660QGAgfAkeRpVsFW0IHpe) | 3:42 |
+| 8588 | [雑踏、僕らの街 \(Cover\)](https://open.spotify.com/track/0GyfVaFXVNAtn5ee9FTHeN) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.10](https://open.spotify.com/album/5dTXdRw5PSYXPwlJYitry4) | 3:08 |
 
-Snapshot ID: `AAAMoj3H6AXnrRblHKGa/pKUwqz8Ybck`
+Snapshot ID: `AAAMpjUy38+rbUMU59PbUg8ZLJSSvZOq`

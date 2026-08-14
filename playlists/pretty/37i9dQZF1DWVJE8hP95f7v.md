@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,021 likes - 76 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,051 likes - 76 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 75 | [Nega](https://open.spotify.com/track/0OjgZ3RyR4Tgr7zoVZA40w) | [Jorginho Neto](https://open.spotify.com/artist/0VvWlL07E17nYkS6Lz9VvG), [Wilson Simoninha](https://open.spotify.com/artist/2xhtX9ufvSwDbiH9VQ8pHr), [Carlinhos Noronha](https://open.spotify.com/artist/47DyunqeZ4YkNtlcj977Tx), [Denilson Martins](https://open.spotify.com/artist/6q07mlyf0q4QJmdvvw1wov), [Erick Pontes](https://open.spotify.com/artist/5kczxDhwmcDsQd3WInJO2I), [Gustavo Bugni](https://open.spotify.com/artist/1PGTRfX9y9pYVYT5avnBSF), [Sidmar Vieira](https://open.spotify.com/artist/13yenubT6mQJO3m6uDQTiN), [Tuto Ferraz](https://open.spotify.com/artist/3AVod2hiob1FXHhXv3UwZd) | [Nega](https://open.spotify.com/album/7c0gzWi6yQjPYRMRZvcm4O) | 4:01 |
 | 76 | [Derrete](https://open.spotify.com/track/7CRkPyNdM9KvvliymmrgV1) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8), [Allure Dayo](https://open.spotify.com/artist/5QXS66BHpTWa3WXKgVbsNx) | [Derrete](https://open.spotify.com/album/5s1HAwaUOQoO10Yf0hik0Z) | 5:03 |
 
-Snapshot ID: `AAAAAHpsN5yIJUvXxcyAo8/pkq3LgFvQ`
+Snapshot ID: `AAAAAFm27RpLOlaaCnUkvnE3Yhj4Z4iV`

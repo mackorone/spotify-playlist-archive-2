@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> ايه الجديد؟ الغلاف: زاب ثروت وساري هاني
+> ايه الجديد؟ الغلاف: هيلة
 
-[Spotify](https://open.spotify.com/user/spotify) - 933 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 954 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [WAHDY](https://open.spotify.com/track/2i8QR2SaHxO9p3iD3jv2ct) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK), [Hawary](https://open.spotify.com/artist/26OWOavHCrNUbYxyDYjzcG) | [TALAT SENEEN](https://open.spotify.com/album/6JRnGZpjZTy3gQSLNd1jaO) | 3:38 |
-| 2 | [Wahdy](https://open.spotify.com/track/1OwzQclT2f3H8LoHmIG0eE) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Supernova](https://open.spotify.com/album/6bMRDWTllCiFBjlbVwiKUh) | 4:53 |
-| 3 | [Tayreen](https://open.spotify.com/track/0EQhVIbGAYCQ21EoAD3I9a) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [ELECTRO ALBUM](https://open.spotify.com/album/2AGo1KB2oK2dA5OzkH6Uln) | 4:52 |
-| 4 | [Metlakhbata Ahwaly](https://open.spotify.com/track/5vWcAMQKuk2aR2qB9fSyyT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:24 |
-| 5 | [3ady Sahla \- By Remix](https://open.spotify.com/track/2XMQPut031KtcM1qcQH55H) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [3ady Sahla \(By Remix\)](https://open.spotify.com/album/2I4TmQdZQmzTMha8iewVrD) | 3:27 |
-| 6 | [Men Bassa Wahda](https://open.spotify.com/track/5FKQhhCYY9lh2sSsJsI7sZ) | [Hussein Yasser](https://open.spotify.com/artist/2ZW5HChxwvF3imncWL70mr) | [Men Bassa Wahda](https://open.spotify.com/album/2x8cJGGjZ7jrnQRqxiExpb) | 1:58 |
-| 7 | [Enty Gameela](https://open.spotify.com/track/1kerkUkLMypal9V49Gi3is) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [Malak Dahshan](https://open.spotify.com/artist/4Mlf1J5tiFzpoxORof3imG) | [Enty Gameela](https://open.spotify.com/album/5AANtIvLGAJICYztx0GYNp) | 3:00 |
-| 8 | [EL SAMA WEL NGOOM](https://open.spotify.com/track/4SR9nn4MVJZOYT4hIFez6e) | [Daro](https://open.spotify.com/artist/7rnVWUI5RiIkgiAptXQKMX) | [Sherine](https://open.spotify.com/album/1pifPHhyBaMDvP35P0MqHN) | 3:08 |
-| 9 | [Law Tseeb Haseeb](https://open.spotify.com/track/7jFS9fKFHqgEGlrz7YUDNv) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Law Tseeb Haseeb](https://open.spotify.com/album/0rTXCEzys2Opo7pQ6R1xux) | 2:59 |
-| 10 | [Mahesh Far2a](https://open.spotify.com/track/20btvMUJHhu6k2Geo7Iqb3) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [Mahesh Far2a](https://open.spotify.com/album/20wpRtFJTghXYg6gc8soJQ) | 3:39 |
-| 11 | [نوكيا](https://open.spotify.com/track/4EpJriErcEHEUrGDJJqMG6) | [Azwed](https://open.spotify.com/artist/2LxQRRF8sFUTHnpYf1mf9e) | [نوكيا](https://open.spotify.com/album/0KknC4qPtrrqBv2bYk3qo6) | 2:30 |
-| 12 | [Kol El Ebar](https://open.spotify.com/track/7K6g96al7xyKQa94s0Q6vq) | [Dalia Omar](https://open.spotify.com/artist/4BTYqwzIds7SK6mRNnH8HW), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [Kol El Ebar](https://open.spotify.com/album/5nm4urk8zZerjj2632l5Jw) | 3:16 |
-| 13 | [wawawa](https://open.spotify.com/track/046CGM0O1PrlQdZOiWP7Pf) | [Hila](https://open.spotify.com/artist/3A3pot8KOSN2Yozwl0NLuU), [omar1](https://open.spotify.com/artist/7jjjKCy2gmItj6XvRQcwA4) | [wawawa](https://open.spotify.com/album/5MzYH3a3nz51bneApq2T0N) | 1:39 |
+| 1 | [wawawa](https://open.spotify.com/track/046CGM0O1PrlQdZOiWP7Pf) | [Hila](https://open.spotify.com/artist/3A3pot8KOSN2Yozwl0NLuU), [omar1](https://open.spotify.com/artist/7jjjKCy2gmItj6XvRQcwA4) | [wawawa](https://open.spotify.com/album/5MzYH3a3nz51bneApq2T0N) | 1:39 |
+| 2 | [WAHDY](https://open.spotify.com/track/2i8QR2SaHxO9p3iD3jv2ct) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK), [Hawary](https://open.spotify.com/artist/26OWOavHCrNUbYxyDYjzcG) | [TALAT SENEEN](https://open.spotify.com/album/6JRnGZpjZTy3gQSLNd1jaO) | 3:38 |
+| 3 | [Wahdy](https://open.spotify.com/track/1OwzQclT2f3H8LoHmIG0eE) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Supernova](https://open.spotify.com/album/6bMRDWTllCiFBjlbVwiKUh) | 4:53 |
+| 4 | [Tayreen](https://open.spotify.com/track/0EQhVIbGAYCQ21EoAD3I9a) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [ELECTRO ALBUM](https://open.spotify.com/album/2AGo1KB2oK2dA5OzkH6Uln) | 4:52 |
+| 5 | [Metlakhbata Ahwaly](https://open.spotify.com/track/5vWcAMQKuk2aR2qB9fSyyT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:24 |
+| 6 | [3ady Sahla \- By Remix](https://open.spotify.com/track/2XMQPut031KtcM1qcQH55H) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [3ady Sahla \(By Remix\)](https://open.spotify.com/album/2I4TmQdZQmzTMha8iewVrD) | 3:27 |
+| 7 | [Men Bassa Wahda](https://open.spotify.com/track/5FKQhhCYY9lh2sSsJsI7sZ) | [Hussein Yasser](https://open.spotify.com/artist/2ZW5HChxwvF3imncWL70mr) | [Men Bassa Wahda](https://open.spotify.com/album/2x8cJGGjZ7jrnQRqxiExpb) | 1:58 |
+| 8 | [Enty Gameela](https://open.spotify.com/track/1kerkUkLMypal9V49Gi3is) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [Malak Dahshan](https://open.spotify.com/artist/4Mlf1J5tiFzpoxORof3imG) | [Enty Gameela](https://open.spotify.com/album/5AANtIvLGAJICYztx0GYNp) | 3:00 |
+| 9 | [EL SAMA WEL NGOOM](https://open.spotify.com/track/4SR9nn4MVJZOYT4hIFez6e) | [Daro](https://open.spotify.com/artist/7rnVWUI5RiIkgiAptXQKMX) | [Sherine](https://open.spotify.com/album/1pifPHhyBaMDvP35P0MqHN) | 3:08 |
+| 10 | [Law Tseeb Haseeb](https://open.spotify.com/track/7jFS9fKFHqgEGlrz7YUDNv) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Law Tseeb Haseeb](https://open.spotify.com/album/0rTXCEzys2Opo7pQ6R1xux) | 2:59 |
+| 11 | [Mahesh Far2a](https://open.spotify.com/track/20btvMUJHhu6k2Geo7Iqb3) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [Mahesh Far2a](https://open.spotify.com/album/20wpRtFJTghXYg6gc8soJQ) | 3:39 |
+| 12 | [نوكيا](https://open.spotify.com/track/4EpJriErcEHEUrGDJJqMG6) | [Azwed](https://open.spotify.com/artist/2LxQRRF8sFUTHnpYf1mf9e) | [نوكيا](https://open.spotify.com/album/0KknC4qPtrrqBv2bYk3qo6) | 2:30 |
+| 13 | [Kol El Ebar](https://open.spotify.com/track/7K6g96al7xyKQa94s0Q6vq) | [Dalia Omar](https://open.spotify.com/artist/4BTYqwzIds7SK6mRNnH8HW), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [Kol El Ebar](https://open.spotify.com/album/5nm4urk8zZerjj2632l5Jw) | 3:16 |
 | 14 | [C’est la vie](https://open.spotify.com/track/3wYjpbmdEzbyBsoFOubDPv) | [MOMO1](https://open.spotify.com/artist/5Fgxr1E80JwE2qhyIIjiZo), [Bloodymarry](https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40) | [C’est la vie](https://open.spotify.com/album/5XNht8UVenHnG2YHSJ4rtm) | 2:37 |
 | 15 | [SENGARY](https://open.spotify.com/track/0KUmgVeluvgfpXbwxd5N1b) | [RAMY](https://open.spotify.com/artist/7nLFVXAvSbhHfbBMHbr0nS) | [روميو](https://open.spotify.com/album/7FjY0vyEd48SMhzHhWnwrC) | 3:01 |
 | 16 | [AUTOMATEEKI](https://open.spotify.com/track/7z84NjPnVNqiU0HrLijBAV) | [Hussob](https://open.spotify.com/artist/01XJ5fP6pN5SFWkLuC0jHs), [Bea Kadri](https://open.spotify.com/artist/6PEL51sVVuFWxri9rDwNiN) | [AUTOMATEEKI](https://open.spotify.com/album/3aKK74kxa4BeruLx3fWCoa) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 59 | [TAB EH?](https://open.spotify.com/track/07VNX7kQuXuhXM4BDc8Mwf) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw) | [TAB EH?](https://open.spotify.com/album/7tM1CUtPCfLeGFaT07aJn8) | 2:24 |
 | 60 | [As2ela](https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [As2ela](https://open.spotify.com/album/3IY5PQ1fXwxQgB37D12wf5) | 3:41 |
 
-Snapshot ID: `AAAAALnmhU+hjEB7CcTHN7PpJ3pBdZQe`
+Snapshot ID: `AAAAAPXNd3tlQ5emeTnFurjA9r352Gpt`

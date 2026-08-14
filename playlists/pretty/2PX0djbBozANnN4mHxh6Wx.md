@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > Playlist artwork by: @mun15h on Instagram
 
-[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,034 likes - 528 songs - 1 day 7 hr 33 min
+[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,033 likes - 528 songs - 1 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -312,8 +312,8 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 302 | [Heaven](https://open.spotify.com/track/1G5jWQn1OwFVJMmySMwl7X) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/6X3WjCJIzOzTAyTSjZ65op) | 2:59 |
 | 303 | [mint tears](https://open.spotify.com/track/3T8xr6PCMdp2aHz2Jdvyjh) | [太鼓の達人](https://open.spotify.com/artist/5TuifiMxdEVXdUXRI4UGwn), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [Taiko no Tatsujin Namco Original Soundtrack ”Hit songs” collection](https://open.spotify.com/album/4X8yktGQS5pULcm11d1bwq) | 1:54 |
 | 304 | [A World Of Madness](https://open.spotify.com/track/2GMeVXL0JQFLmAIJJa8K2n) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 （Original Soundtrack）](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:47 |
-| 305 | [Besaid Island \(From " Final Fantasy X"\)](https://open.spotify.com/track/2sZcI6xW26um19TVkxzGjR) | [Voltz Supreme](https://open.spotify.com/artist/23NeaktbZaCSZsrvScA86N) | [Synth VGM Remixes, Vol\. 3 \(Underwater & Slightly Moist Themes, Pt\. 2\)](https://open.spotify.com/album/3CZtxso7RKhJSdcWYEMcHu) | 5:03 |
-| 306 | [A Secret Sleeping in the Deep Sea \(From "Final Fantasy VII"\)](https://open.spotify.com/track/1bAQrOyXB3CYn0eJSDTEho) | [Voltz Supreme](https://open.spotify.com/artist/23NeaktbZaCSZsrvScA86N) | [Synth VGM Remixes, Vol\. 3 \(Underwater & Slightly Moist Themes, Pt\. 2\)](https://open.spotify.com/album/3CZtxso7RKhJSdcWYEMcHu) | 4:40 |
+| 305 | [Besaid Island \(Final Fantasy X\)](https://open.spotify.com/track/2sZcI6xW26um19TVkxzGjR) | [Voltz Supreme](https://open.spotify.com/artist/23NeaktbZaCSZsrvScA86N) | [Synth VGM Remixes, Vol\. 3 \(Underwater & Slightly Moist Themes, Pt\. 2\)](https://open.spotify.com/album/3CZtxso7RKhJSdcWYEMcHu) | 5:03 |
+| 306 | [A Secret Sleeping in the Deep Sea \(Final Fantasy VII\)](https://open.spotify.com/track/1bAQrOyXB3CYn0eJSDTEho) | [Voltz Supreme](https://open.spotify.com/artist/23NeaktbZaCSZsrvScA86N) | [Synth VGM Remixes, Vol\. 3 \(Underwater & Slightly Moist Themes, Pt\. 2\)](https://open.spotify.com/album/3CZtxso7RKhJSdcWYEMcHu) | 4:40 |
 | 307 | [Doku](https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd) | 2:52 |
 | 308 | [Graceful Serenity](https://open.spotify.com/track/0vxZgI9aBz4to8vdECMZUe) | [Jarren Crist](https://open.spotify.com/artist/5BzOL3EXQhDQ8DyjyttgIS) | [Lost in Vivo \(Original Game Soundtrack\)](https://open.spotify.com/album/2CVaQtS1hlWU4tnRIM9WSu) | 2:34 |
 | 309 | [leatherman \(let me sleep\)](https://open.spotify.com/track/3TqihnuiXyKHldaYvutXn5) | [Haircuts For Men](https://open.spotify.com/artist/68FhxiYwHrzz3DjAgmtg5K) | [a path](https://open.spotify.com/album/5QdsmyPRpd6HcnUcYT3gDv) | 15:12 |

@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "ayuda divina",
+        "url": "https://open.spotify.com/album/23JjSNkD6qQpq6c41hJ9hJ"
+      },
+      "artists": [
+        {
+          "name": "Isabel Isabel",
+          "url": "https://open.spotify.com/artist/7mp9WJLhPhr2mnZQkZWjEC"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137926,
+      "name": "ayuda divina",
+      "url": "https://open.spotify.com/track/1spqZ6oJxIGm5zknbTl20p"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },

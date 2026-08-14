@@ -560,7 +560,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 203419,
       "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
       "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
@@ -1124,6 +1124,32 @@
       "duration_ms": 336979,
       "name": "Monday",
       "url": "https://open.spotify.com/track/1xSRhbrcNp5Nhfq3wLbNVP"
+    },
+    {
+      "album": {
+        "name": "AHHCade",
+        "url": "https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "sadMONTH",
+          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178204,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/0zbVUavSPx1L6KdlTEKxZO"
     },
     {
       "album": {

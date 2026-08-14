@@ -2,9 +2,9 @@
 
 ### [Afro House Pulse](https://open.spotify.com/playlist/37i9dQZF1DX5wO3czN5dc1)
 
-> The heartbeat of Afro House from Africa and around the globe\. Cover: Elaine
+> The heartbeat of Afro House from Africa and around the globe\. Cover: Culoe De Song
 
-333 songs - 1 day 3 hr 47 min
+335 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Qula](https://open.spotify.com/track/6tawA3kM9Q2RbOl4vDOjtt) | [Deejay Soso](https://open.spotify.com/artist/6t9XXzELFCYuL7ZCaRTDNe), [VID Musique](https://open.spotify.com/artist/3ZfhN8TDwwQJZlrN6IKPi4) | [Qula](https://open.spotify.com/album/0fB3ZB14mXqaNEn8JpYUVb) | 3:35 | 2025-07-03 | 2025-11-21 |
 | [Rain On](https://open.spotify.com/track/3In7ZBOtXXgYU0lC1Mgshi) | [Klanglust](https://open.spotify.com/artist/0kXrWIPHhPhL3oii2nKmMP), [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [Rain On](https://open.spotify.com/album/3dVE9OHGlXjS8Na4ABpGM1) | 4:48 | 2025-08-21 | 2026-01-15 |
 | [Raiz Brasileira](https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Amazone Project](https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64) | 3:50 | 2026-02-13 | 2026-07-31 |
+| [Re\-Amathambo \- Remix](https://open.spotify.com/track/2AyLWsRNFbkjq4wAqPqyrX) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c), [Anna Widauer](https://open.spotify.com/artist/0a6EIFJe4gQqo49dHs0oGQ) | [Re\-Amathambo \(Remix\)](https://open.spotify.com/album/0RjOSD0wNNrcwZYEbiPJDW) | 7:36 | 2026-08-13 |  |
 | [REASON \- SYLVANO \- remix \(Radio edit\)](https://open.spotify.com/track/6VgcXYTNBKyOclCfaeTq3Q) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [SYLVANO](https://open.spotify.com/artist/4dE0APO4S5W1VLeYCKMuO4), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [REASON \[SYLVANO \- remix \(Radio edit\)\]](https://open.spotify.com/album/2xYVbgPfuPB7gfoPNiO8by) | 2:56 | 2025-06-19 | 2025-06-27 |
 | [Retirantes](https://open.spotify.com/track/2M5lHqnHFTfiETD0eHmI4m) | [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX), [Valexx](https://open.spotify.com/artist/4wA2CLt9Kxkh5440U9ol2K) | [Retirantes](https://open.spotify.com/album/1cyrDJ0fCFmaJbwK3u6oO2) | 2:51 | 2025-07-17 | 2025-07-25 |
 | [Reverence](https://open.spotify.com/track/1WmT0M2l6QehO4jDwdEW1I) | [Naethan](https://open.spotify.com/artist/5sHJLHpf3JhMlETb6bWFXw), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Reverence](https://open.spotify.com/album/48yZmbMrVDZnQppWUGwEN3) | 6:17 | 2025-06-19 | 2025-07-04 |
@@ -277,6 +278,7 @@
 | [The Drum](https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [The Drum](https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp) | 3:17 | 2026-04-30 |  |
 | [The Oracle](https://open.spotify.com/track/1ZKUeb4VShKVUSmf9EQTT9) | [Warren Deep](https://open.spotify.com/artist/1VeB0gDzrF52WT55s8rSG6), [Takue SBT](https://open.spotify.com/artist/5YDzSHHcPzdA9RdEgi3g2U) | [The Oracle](https://open.spotify.com/album/7woygLyit8Van2Bgpngekf) | 6:15 | 2025-07-31 | 2025-08-15 |
 | [The Road Before You](https://open.spotify.com/track/3atKTgUQQqg3qb61mXxksS) | [Miči](https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am) | [The Road Before You](https://open.spotify.com/album/7stxae1ApXmRDNfXuYpMLO) | 5:33 | 2026-05-14 |  |
+| [The Spiker](https://open.spotify.com/track/7LYeYkN82e5g5vdbQkNOrb) | [Culoe De Song](https://open.spotify.com/artist/69vFBZxQu4TQ4ZDOI9L6KR) | [Moonhound EP](https://open.spotify.com/album/7tuCnIeBJ2AnAjxSzLGcg7) | 6:43 | 2026-08-13 |  |
 | [Thinking About You](https://open.spotify.com/track/0F7VIl2pS58IFwFTwenXc3) | [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Secrets of the WRLD](https://open.spotify.com/album/0Lh96OK9UoR8pDDzeBsuzI) | 3:32 | 2026-07-30 |  |
 | [Tholukuthi \(Clap Song\) \(feat\. MaWhoo\)](https://open.spotify.com/track/1d3srkotnZxmQhsqbIu9jv) | [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Tholukuthi \(Clap Song\) \[feat\. MaWhoo\]](https://open.spotify.com/album/3fdFe3KPYCzaUpbOngXaem) | 7:43 | 2025-06-26 | 2026-03-20 |
 | [Thonga Lami](https://open.spotify.com/track/3nBzoSYfVHHDMVlM37YAui) | [Harricane](https://open.spotify.com/artist/58Zaghu7BDXbq72pNggeh3), [SBO SA](https://open.spotify.com/artist/1eA17YzZx9iVEvSOjcFUvo), [Catalyst](https://open.spotify.com/artist/7we5WqcBSJ5SuGANciiz8T), [Teekay](https://open.spotify.com/artist/2YA5TR00ZNaKMrkwpN0SJD) | [Thonga Lami](https://open.spotify.com/album/1A4qOjyfhz3X55CvRBEIyH) | 5:31 | 2025-07-17 | 2025-07-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: DIIV",
+  "description": "A new world of alternative noise. Cover: Gurriers",
   "name": "Wire",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 223876,
       "name": "Adore",
       "url": "https://open.spotify.com/track/3o2HsnIllbCX9zexne2UMV"
@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Shock Corridor",
+        "url": "https://open.spotify.com/album/17gMcCILR3WdtxduhoSn98"
+      },
+      "artists": [
+        {
+          "name": "Shock Corridor",
+          "url": "https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330814,
+      "name": "Alarm Bell",
+      "url": "https://open.spotify.com/track/6l7UWZ3Gt3bDl1KGAXFiyW"
+    },
+    {
+      "album": {
         "name": "Ambulance!",
         "url": "https://open.spotify.com/album/6pO6ipcfEtTFGMRd8ibsJt"
       },
@@ -128,7 +146,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 219360,
       "name": "Ambulance!",
       "url": "https://open.spotify.com/track/3RCuSsrITvgcEFx35Dkx4j"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 271653,
       "name": "Lucinda (EM)",
       "url": "https://open.spotify.com/track/0oocoADIlPjnJtdYbY1AkS"
@@ -2609,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "Nothing Happens Twice",
+        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222395,
+      "name": "Nothing Happens Twice",
+      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
+    },
+    {
+      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz"
       },
@@ -2736,6 +2772,28 @@
       "duration_ms": 147746,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/6JIh5QYBFfoaRQkYvpnkvH"
+    },
+    {
+      "album": {
+        "name": "Perla",
+        "url": "https://open.spotify.com/album/7nLDUciyhxmS4Mk7QVcSCj"
+      },
+      "artists": [
+        {
+          "name": "Cherry Chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "Perla",
+      "url": "https://open.spotify.com/track/3AS7Y4Oh1tgy8x7w3C35Dm"
     },
     {
       "album": {

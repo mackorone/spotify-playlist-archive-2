@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3iu1uE.md) - [plain]
 
 > This is X\-Ray Spex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,800 likes - 16 songs - 44 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,801 likes - 16 songs - 44 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3iu1uE.md) - [plain]
 | 11 | [The Day the World Turned Day\-Glo](https://open.spotify.com/track/0rccdaligaDK8URad52GZG) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 2:52 |
 | 12 | [Party](https://open.spotify.com/track/3AekeEt7Fn2erIUo1YoOQa) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:48 |
 | 13 | [Art\-I\-Ficial](https://open.spotify.com/track/4sOHhQfxnV1Wdr26hnuVtC) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 3:24 |
-| 14 | [Peace Meal](https://open.spotify.com/track/1yVF4IbeaoBWg3YgBLd4N9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:31 |
+| 14 | [Good Time Girl](https://open.spotify.com/track/39YULbxBJ8q7yQSdWffNH9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:59 |
 | 15 | [Warrior in Woolworths](https://open.spotify.com/track/1euywBbU9IYRoT9qFOdUvr) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 3:07 |
-| 16 | [Good Time Girl](https://open.spotify.com/track/39YULbxBJ8q7yQSdWffNH9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:59 |
+| 16 | [Peace Meal](https://open.spotify.com/track/1yVF4IbeaoBWg3YgBLd4N9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:31 |
 
-Snapshot ID: `anpmAAAAAACPuZ1sM5KX3Y/iRrS6H4re`
+Snapshot ID: `anu3gAAAAACKuDgsnEoe1E+qxE6iC+4W`

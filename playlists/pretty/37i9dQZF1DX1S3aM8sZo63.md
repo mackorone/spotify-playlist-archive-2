@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > Así como lo pediste, ponte cursi con las canciones más románticas\. Toño y Fredy en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,895 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,876 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 86 | [Morí](https://open.spotify.com/track/49EGUsjMqCJkrAYaf8KmY6) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Morí](https://open.spotify.com/album/3DNTpm5JHxawakHXkfOWcq) | 3:50 |
 | 87 | [Las Edades \- En Vivo](https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:00 |
 | 88 | [Pequeña Y Frágil](https://open.spotify.com/track/14DxrLChj0kcZVMjmQcw6i) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Princesa](https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ) | 2:26 |
-| 89 | [Que Fueras Tu](https://open.spotify.com/track/4vSR9P8dxAneEKmYMebuSC) | [Banda Los Reales](https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI) | [Que Fueras Tu](https://open.spotify.com/album/3qym38qDwhuV9FtEfVdDYC) | 2:58 |
-| 90 | [Creo Estar Sonañdo](https://open.spotify.com/track/2pDG22gxgPsxFjh7aVcDHY) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Ranchero y Mucho Más](https://open.spotify.com/album/1s2tmVGQkMd6nlVaRxqM4W) | 2:43 |
+| 89 | [Creo Estar Sonañdo](https://open.spotify.com/track/2pDG22gxgPsxFjh7aVcDHY) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Ranchero y Mucho Más](https://open.spotify.com/album/1s2tmVGQkMd6nlVaRxqM4W) | 2:43 |
+| 90 | [Que Fueras Tu](https://open.spotify.com/track/4vSR9P8dxAneEKmYMebuSC) | [Banda Los Reales](https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI) | [Que Fueras Tu](https://open.spotify.com/album/3qym38qDwhuV9FtEfVdDYC) | 2:58 |
 | 91 | [Naturalita](https://open.spotify.com/track/6uVXyLrhgveo67VbraCd9T) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Naturalita](https://open.spotify.com/album/0gngiOzOmm4SEVKDHXpVUh) | 3:03 |
 | 92 | [Se Va A Querer Morir](https://open.spotify.com/track/7r3pnWG7rIYnr9ipn7viBa) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Se Va A Querer Morir](https://open.spotify.com/album/5OPgEqmLQ9LYbPpGDoaOdT) | 3:26 |
 | 93 | [La Que Me Bateaba](https://open.spotify.com/track/3MMBQrXTIo8wsJt8PkEcaR) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Que Me Bateaba](https://open.spotify.com/album/64nt5dhPAUPQUqwNBXaRTn) | 2:04 |
@@ -110,13 +110,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 100 | [Te Amo](https://open.spotify.com/track/3EMEDF8iBEGeiR4ZEPRrFs) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n) | [Te Amo](https://open.spotify.com/album/3GVsiC0rnhSEFID1RUBzPw) | 3:21 |
 | 101 | [Se Busca Plebita](https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Se Busca Plebita](https://open.spotify.com/album/2sqpCovDDnDfAL7Xay4CCs) | 2:33 |
 | 102 | [Habla Tu Ex](https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Habla Tu Ex](https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ) | 3:13 |
-| 103 | [Con La Misma Piedra](https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Con La Misma Piedra](https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA) | 2:55 |
-| 104 | [Caso Perdido](https://open.spotify.com/track/22sGlWHrJfScxPwCd26S2z) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Mundo Es Del Que Se Anima](https://open.spotify.com/album/6zuGZAkB6sMHRNUOC11hgx) | 3:07 |
+| 103 | [Caso Perdido](https://open.spotify.com/track/22sGlWHrJfScxPwCd26S2z) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Mundo Es Del Que Se Anima](https://open.spotify.com/album/6zuGZAkB6sMHRNUOC11hgx) | 3:07 |
+| 104 | [Con La Misma Piedra](https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Con La Misma Piedra](https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA) | 2:55 |
 | 105 | [Si Se Trata De Ti](https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [No Tiene Precio](https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B) | 3:03 |
 | 106 | [Amor \(Bonus Track\)](https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Tu Ex Amigo](https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd) | 3:22 |
-| 107 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 |
-| 108 | [Y Sigues Siendo Tú](https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Y Sigues Siendo Tú](https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd) | 2:42 |
-| 109 | [Bésame Diferente](https://open.spotify.com/track/2mDtsObUPQJ3BhhLqW6wxh) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Bésame Diferente](https://open.spotify.com/album/2pL8DZXeH1W8TblZQtgiNS) | 2:32 |
+| 107 | [Bésame Diferente](https://open.spotify.com/track/2mDtsObUPQJ3BhhLqW6wxh) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Bésame Diferente](https://open.spotify.com/album/2pL8DZXeH1W8TblZQtgiNS) | 2:32 |
+| 108 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 |
+| 109 | [Y Sigues Siendo Tú](https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Y Sigues Siendo Tú](https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd) | 2:42 |
 | 110 | [Celos](https://open.spotify.com/track/0KEym4CJmghhtnTbcS3p9i) | [Francisco El Gallo Elizalde](https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb) | [Celos](https://open.spotify.com/album/6earVwRvnJfEkdJtx9G5oj) | 3:16 |
 | 111 | [Estoy Enamorado De Ti](https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [\#TB...Hits, Vol\. 2](https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf) | 3:07 |
 | 112 | [Muero Sin Ti](https://open.spotify.com/track/7xoJTQoNra0grcha2DwiMi) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Muero Sin Ti](https://open.spotify.com/album/1cMVq3vzO29T5pgdBm9LAk) | 2:44 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 124 | [De Uno Y De Todos Los Modos \- Version Bolero](https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Situaciones](https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM) | 3:53 |
 | 125 | [Mi Meta Contigo](https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:08 |
 
-Snapshot ID: `AAAAAGIXo8iInDtFnrwVFCnoKVkuPnnJ`
+Snapshot ID: `AAAAAKgsT3Vlpa/k69AtMMlbr5u0TTwg`

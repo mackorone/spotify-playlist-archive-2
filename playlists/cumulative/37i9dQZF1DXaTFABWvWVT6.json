@@ -748,7 +748,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 162149,
       "name": "Bass Provider (feat. MC Vapour)",
       "url": "https://open.spotify.com/track/1UQ9xq3YMhJWaiqk8R6Joo"
@@ -973,6 +973,28 @@
     },
     {
       "album": {
+        "name": "Boujee",
+        "url": "https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ"
+      },
+      "artists": [
+        {
+          "name": "Stephani B",
+          "url": "https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A"
+        },
+        {
+          "name": "Scott Forshaw",
+          "url": "https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Boujee",
+      "url": "https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff"
+    },
+    {
+      "album": {
         "name": "Bounce Music",
         "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
       },
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 230769,
       "name": "Bounce Music",
       "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
@@ -1182,7 +1204,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 156000,
       "name": "Chica",
       "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
@@ -3534,7 +3556,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 209799,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/7LWGTXRs0lnEPMVwoiWjFR"
@@ -4539,6 +4561,32 @@
     },
     {
       "album": {
+        "name": "MYSTERY OF RAW",
+        "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "MYSTERY OF RAW",
+      "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
+    },
+    {
+      "album": {
         "name": "neck",
         "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
       },
@@ -5006,6 +5054,32 @@
       "duration_ms": 344593,
       "name": "Pressure Makes Diamonds",
       "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
+    },
+    {
+      "album": {
+        "name": "Pumpin (Robbie Doherty Remix)",
+        "url": "https://open.spotify.com/album/0pwEhzuMwkadGXLd7ZFEeK"
+      },
+      "artists": [
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Pumpin - Robbie Doherty Remix",
+      "url": "https://open.spotify.com/track/5UHWWKPPfPhMnq2qub3Fwh"
     },
     {
       "album": {
@@ -5596,6 +5670,24 @@
       "duration_ms": 153742,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
+    },
+    {
+      "album": {
+        "name": "Sing It Back",
+        "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
+      },
+      "artists": [
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220312,
+      "name": "Sing It Back",
+      "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
     },
     {
       "album": {
@@ -6264,6 +6356,24 @@
       "duration_ms": 210000,
       "name": "The Miracle Makers - Edit",
       "url": "https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1"
+    },
+    {
+      "album": {
+        "name": "The Montana Girl",
+        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "The Montana Girl",
+      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
     },
     {
       "album": {
@@ -6962,7 +7072,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 190298,
       "name": "Work Dub",
       "url": "https://open.spotify.com/track/6cldCn0zKbOhBxoqMPR2o1"

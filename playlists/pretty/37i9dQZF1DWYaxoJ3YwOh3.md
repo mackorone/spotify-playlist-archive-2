@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,481 likes - 89 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,532 likes - 89 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 88 | [Yarımburgaz](https://open.spotify.com/track/0jJDpZFapjoiU2kUW2SFXa) | [Anatolian Flute](https://open.spotify.com/artist/2WDfPwwWs8loSU6HnjENBZ) | [Yarımburgaz](https://open.spotify.com/album/5HIh6H9CdZJp7mKV7ERAPb) | 4:04 |
 | 89 | [Morning Clarity](https://open.spotify.com/track/3CAPK6ARot8aIxX2XcoLLA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Morning Clarity](https://open.spotify.com/album/2qT2WMGMgqYXuBGB3UBIJA) | 3:02 |
 
-Snapshot ID: `AAAAAHAIE10Fgi4aiinSzPCg0OpsEZP8`
+Snapshot ID: `AAAAAOsHnBBG1hB8zJWqr/967hGyMOfF`

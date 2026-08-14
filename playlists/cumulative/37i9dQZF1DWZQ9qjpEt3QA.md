@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-170 songs - 11 hr 25 min
+171 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-05-30 |  |
 | [My Dear](https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 2:39 | 2024-02-29 | 2025-09-17 |
 | [Nada Baru](https://open.spotify.com/track/1LhdXtrMe59OLXwl6hS4lx) | [FLQ](https://open.spotify.com/artist/0FtcckD9bgB13MyrCfmyTn), [Dian](https://open.spotify.com/artist/3zNHpA8FDAYtacSXZK4iB5) | [Untuk Kau](https://open.spotify.com/album/2TiWTQXhPKBEgIHcKJfLTw) | 3:39 | 2024-01-06 |  |
+| [Nice Day](https://open.spotify.com/track/46DQRMHHHFVcKnEQSWZwVC) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [1126611](https://open.spotify.com/album/4MLYr9Qdrs7dkMkDDkeKgN) | 2:57 | 2026-08-13 |  |
 | [Noisy Love](https://open.spotify.com/track/6FmPut7Qe0PIfdw4SLucPo) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Noisy Love](https://open.spotify.com/album/1Z7ZRVIIrML6E5wTxPXjrv) | 2:45 | 2023-10-19 | 2025-09-17 |
 | [not alright](https://open.spotify.com/track/3qvK5qHvwP1mX6g9lOF2dJ) | [kan](https://open.spotify.com/artist/1lBTgx2dax8DTyeZ4URvzZ) | [not alright](https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB) | 4:04 | 2022-05-26 |  |
 | [One Way My Love](https://open.spotify.com/track/3HxDFhicGXxE5hlvypryCU) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Ladies In The City](https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7) | 3:17 | 2022-05-26 | 2023-02-17 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWekySnB4xpt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWekySnB4xpt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWekySnB4xpt)
 
-### [Unidos por Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
+### [Unidos por los nuestros](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
 
-> Acompáñanos en un concierto benéfico el 16 de agosto en Kaseya Center \(Miami\) 🇻🇪❤️ <a href="https://www.ticketmaster.com/event/0D0064EA9A88501D">Entradas a la venta aquí.</a>
+> Acompáñanos en un concierto benéfico el 16 de agosto en Kaseya Center \(Miami\) 🇻🇪❤️🇨🇴<a href="https://www.ticketmaster.com/event/0D0064EA9A88501D">Entradas a la venta aquí.</a>
 
 221 songs - 12 hr 53 min
 

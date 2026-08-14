@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-118 songs - 20 hr 14 min
+119 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Awon Alhaji](https://open.spotify.com/track/1M0DIMkMAJ6BVMFGxeIE8q) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 4:27 | 2025-08-14 | 2026-05-01 |
 | [Baba Fona Han Wa](https://open.spotify.com/track/2u2K81Cdw0SueqpsS3Euyo) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Ajo Yio](https://open.spotify.com/album/7fUmMhVQ7z8KUZVfcKpBIR) | 18:48 | 2023-12-26 |  |
 | [Baba Loran Mi Wa](https://open.spotify.com/track/6GgoZhtXqEvZnhBG4ik7wS) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 6:01 | 2024-10-19 | 2026-08-13 |
+| [Baba Loran Mi Wa](https://open.spotify.com/track/5VqnkZkXZ06LuXoa35raMP) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Pegan Pegan](https://open.spotify.com/album/5HijvhTxbIJCBHkWekbGYX) | 6:04 | 2026-08-14 |  |
 | [Board Members](https://open.spotify.com/track/414geRl06sq9YvNaOozReX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 6](https://open.spotify.com/album/30jDRu2udWrunytzkcUjCO) | 19:34 | 2024-03-31 |  |
 | [Bonus Track](https://open.spotify.com/track/5aabOGm40vt2ibeVN0SLr9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 50](https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6) | 2:57 | 2021-12-28 | 2024-05-26 |
 | [Bonus Track1](https://open.spotify.com/track/2taVMmndMmnT6dwF0RUh8F) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 32](https://open.spotify.com/album/3SLsmP1ydaSxN39MLRXGYx) | 4:22 | 2021-12-28 | 2023-12-14 |

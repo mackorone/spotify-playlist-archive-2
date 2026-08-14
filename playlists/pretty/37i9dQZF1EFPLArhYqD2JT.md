@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,600 likes - 392 songs - 19 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601 likes - 392 songs - 19 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,8 +258,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 248 | [I Can't Do Without You](https://open.spotify.com/track/5I0bQmdP8zMhacVg1iVW9a) | [Guy Lombardo & His Royal Canadians](https://open.spotify.com/artist/5fJ4w85NxFXyWlPU9wH6BE) | [Guy Lombardo & His Royal Canadians](https://open.spotify.com/album/3KhhvEzva69q1LDabGo3ru) | 3:25 |
 | 249 | [Manhattan Madness](https://open.spotify.com/track/18qqTrzbj8psiv6CJgHXu0) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Bolcom & Morris](https://open.spotify.com/artist/0H3tK6rbZtv8znaGqe98sP) | [Blue Skies \- Songs Of Irving Berlin](https://open.spotify.com/album/7kZZGWDd2eJIi3AKdPsCFg) | 2:05 |
 | 250 | [Mr\. President: In Our Hide\-Away](https://open.spotify.com/track/25Jrn6iHoB8dGRfiiss0A3) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Mr\. President Ensemble](https://open.spotify.com/artist/1pAMFgMKMM36cX7ZF6Uo6d), [Jay Blackton](https://open.spotify.com/artist/4fY8KapL2wSI0Zu33g3hqp) | [Mr\. President \(Original Broadway Cast Recording](https://open.spotify.com/album/5lNjG2SiOIlokRNn8clZVa) | 2:22 |
-| 251 | [Sex Marches On](https://open.spotify.com/track/0Wa5WUKaM8J7eByJ33zf40) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Louisiana Purchase \- Music & Lyrics By Irving Berlin](https://open.spotify.com/album/2mCC7Kn6xHReDCxeurS6bt) | 3:15 |
-| 252 | [Crinoline Days](https://open.spotify.com/track/28AeVWlDr3UoQPGAtWwVhf) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [Jazz King \- Paul Whiteman Vol\. 1](https://open.spotify.com/album/1MyuMQtdcTjzoW0XBGhN1g) | 2:42 |
+| 251 | [Crinoline Days](https://open.spotify.com/track/28AeVWlDr3UoQPGAtWwVhf) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [Jazz King \- Paul Whiteman Vol\. 1](https://open.spotify.com/album/1MyuMQtdcTjzoW0XBGhN1g) | 2:42 |
+| 252 | [Sex Marches On](https://open.spotify.com/track/0Wa5WUKaM8J7eByJ33zf40) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Louisiana Purchase \- Music & Lyrics By Irving Berlin](https://open.spotify.com/album/2mCC7Kn6xHReDCxeurS6bt) | 3:15 |
 | 253 | [There Are No Wings on a Fox\-Hole](https://open.spotify.com/track/55jJVQVWhuT9heuDNr5MiI) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P), [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Entertaining the Boys..\. With Crooning Tunes: The V\-Discs of the American Forces, Vol\. 3 \(Remastered 2016\)](https://open.spotify.com/album/7eQdMXqGgycdb15JsxLnAj) | 2:42 |
 | 254 | [How Can it Be Told](https://open.spotify.com/track/1POnpsBlNZyfJkfKF4GyAZ) | [Tony Martin](https://open.spotify.com/artist/5AHm2PdPYw9qsj1q1bhxj2) | [How Can it Be Told](https://open.spotify.com/album/62zDtuEmqBSmHQmuMrDoLW) | 3:18 |
 | 255 | [Annie Get Your Gun, Act I: Circus Dance \('Ballyhoo'\)](https://open.spotify.com/track/71t3pZTduD0JlX8yxflmHk) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Kim Criswell](https://open.spotify.com/artist/0uusW198iXgIdooU7txyAw), [London Sinfonietta](https://open.spotify.com/artist/68kuKZp7yrgzZpoh5m6dWA), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK) | [Irving Berlin: Annie Get Your Gun](https://open.spotify.com/album/1WQgBPGe120eAEorkTGVz9) | 2:27 |
@@ -401,4 +401,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 391 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 | 392 | [I'm Gonna Pin My Medal on the Girl I Left Behind](https://open.spotify.com/track/5WQ41Qe3nYVMw2HpDD4oJ2) | [Ryan Muska](https://open.spotify.com/artist/5LeIaDIJrUFG97GnfDDHZ9) | [Chip Deffaa's Irving Berlin: Love Songs and Such](https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8) | 2:29 |
 
-Snapshot ID: `AcZaYAAAAAAUqwJjzBMg+XZaQ+uVaX6G`
+Snapshot ID: `AcZgAAAAAABdmrNOA3jTqTVQt4iJVNW7`

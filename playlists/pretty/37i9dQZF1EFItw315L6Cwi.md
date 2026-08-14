@@ -10,8 +10,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Alors \(feat\. CAPO\)](https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [KRISTALL](https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g) | 2:44 |
 | 2 | [Bundeswehr](https://open.spotify.com/track/5JLbgRkto4OrrkWgAHcJZT) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 1:37 |
-| 3 | [Intro](https://open.spotify.com/track/0gssRfxoOFfBeOIdclrTjF) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [High & Hungrig 2](https://open.spotify.com/album/67p5Ktm0ramlZ87r39fxNg) | 2:54 |
-| 4 | [Diamantstein](https://open.spotify.com/track/3UhJb0BOiY6joXpAANMe9R) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 2:12 |
+| 3 | [Diamantstein](https://open.spotify.com/track/3UhJb0BOiY6joXpAANMe9R) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 2:12 |
+| 4 | [Intro](https://open.spotify.com/track/0gssRfxoOFfBeOIdclrTjF) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [High & Hungrig 2](https://open.spotify.com/album/67p5Ktm0ramlZ87r39fxNg) | 2:54 |
 | 5 | [Fussballer ⚽️](https://open.spotify.com/track/6FGPpwHlUBnl0TLGKyN4Nl) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Fussballer ⚽️](https://open.spotify.com/album/0vY4PEsfG24NoCi71jLpY7) | 1:23 |
 | 6 | [LOBSTER](https://open.spotify.com/track/06X1jf46YLupZP2dWHgmqX) | [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [LOBSTER](https://open.spotify.com/album/1hOfmAqTU8E3wQtb4sPyVn) | 2:20 |
 | 7 | [Das ist Bonez 💀](https://open.spotify.com/track/6tJxEvSIBU46PrbcK5TDnM) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [LOVELINE EP 💔](https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC) | 2:23 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 98 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
 | 99 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
 
-Snapshot ID: `AcZaTAAAAAC0rkFLeoo+5p8/bJWUc4r9`
+Snapshot ID: `AcZf9gAAAAA7BZ9p2TukRcG+U0vpFXp1`

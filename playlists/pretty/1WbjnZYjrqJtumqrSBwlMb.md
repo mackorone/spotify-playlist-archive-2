@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,287 songs - 3 day 7 hr 25 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,287 songs - 3 day 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1271,7 +1271,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1261 | [Feel](https://open.spotify.com/track/67YTj3YV37MZ5pv266bzOx) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 2:48 |
 | 1262 | [Musician](https://open.spotify.com/track/7k6jxIMMAcXjHnbbHmGC9H) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 3:58 |
 | 1263 | [Mad at Me](https://open.spotify.com/track/5avJdJjXtHN9ADFeSn1pDq) | [forgive yourself](https://open.spotify.com/artist/4R0PDznz6UhsZTqglLC8Yq) | [Songs I'll Never Release](https://open.spotify.com/album/6a1cLgO7MZ6nFJcRfh5kjE) | 2:43 |
-| 1264 | [Dark Magic](https://open.spotify.com/track/60hga4vu4erXRxcxEGDLMQ) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Dark Magic](https://open.spotify.com/album/1iBUPWKDIoHqRhNxmnNQps) | 3:43 |
+| 1264 | [Dark Magic](https://open.spotify.com/track/60hga4vu4erXRxcxEGDLMQ) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Dark Magic](https://open.spotify.com/album/1iBUPWKDIoHqRhNxmnNQps) | 2:55 |
 | 1265 | [80's Films](https://open.spotify.com/track/6ZSwwQsW9HTH0EJaQfjRYl) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 3:36 |
 | 1266 | [He Is The Same](https://open.spotify.com/track/6Kr2WqO9jWYU64D24yqapu) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 4:01 |
 | 1267 | [Hand Of God \- Outro](https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 5:37 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Jonny Chopps",
+  "description": "The best new AUS & NZ Rap. Cover: Baakio, UTILITY, Eco$ystem",
   "name": "Local Hype",
   "tracks": [
     {
@@ -170,6 +170,32 @@
       "duration_ms": 123243,
       "name": "2 STEP",
       "url": "https://open.spotify.com/track/5kjAcTZuwCFQD5Fm6nCp8M"
+    },
+    {
+      "album": {
+        "name": "All Eyes",
+        "url": "https://open.spotify.com/album/2K4HdHvotZBsEP5mXV9OGe"
+      },
+      "artists": [
+        {
+          "name": "Baakio",
+          "url": "https://open.spotify.com/artist/36ws0N21AlYMI8YMyiz2Il"
+        },
+        {
+          "name": "Eco$ystem",
+          "url": "https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113376,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/3UvjjcxvC6hOJON7OzRMDS"
     },
     {
       "album": {
@@ -2254,7 +2280,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 150000,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/3XWhOtA0BA9XIvllqiAlys"
@@ -4416,6 +4442,24 @@
       "duration_ms": 117607,
       "name": "Bump",
       "url": "https://open.spotify.com/track/1CT6q5bHXEPIKJtThRaxnr"
+    },
+    {
+      "album": {
+        "name": "BUNUBA BABY",
+        "url": "https://open.spotify.com/album/71B7WqBfnzlzXLYChx68ab"
+      },
+      "artists": [
+        {
+          "name": "Kayps",
+          "url": "https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156194,
+      "name": "BUNUBA BABY",
+      "url": "https://open.spotify.com/track/7vJWLvuDuXDd9hK0eGjgKT"
     },
     {
       "album": {
@@ -15472,7 +15516,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 182256,
       "name": "Last Week",
       "url": "https://open.spotify.com/track/6gAebIN55aRWbTF6q1DRMX"
@@ -18129,6 +18173,28 @@
     },
     {
       "album": {
+        "name": "MOLOTOV (feat. Terror Reid)",
+        "url": "https://open.spotify.com/album/5QewxUTw1iZOqUjA8TVTvL"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "MOLOTOV (feat. Terror Reid)",
+      "url": "https://open.spotify.com/track/0xvhfqxN1vTzgvHkVk8O23"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/6KKUeARPA9fr5i2NVJftJY"
       },
@@ -18300,7 +18366,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 150857,
       "name": "Money Talk",
       "url": "https://open.spotify.com/track/4ftgaYyQV1uUKJLvhxDE2X"
@@ -18750,7 +18816,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 175040,
       "name": "Must Be",
       "url": "https://open.spotify.com/track/4jYwgNne9MLJjkoQ3KTyX9"
@@ -21157,6 +21223,24 @@
     },
     {
       "album": {
+        "name": "Out The Blue",
+        "url": "https://open.spotify.com/album/2xJTHtzH8amjbriR8O2zJg"
+      },
+      "artists": [
+        {
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119670,
+      "name": "Out The Blue",
+      "url": "https://open.spotify.com/track/3dQ8MRBpgHLm2fKBkxLykd"
+    },
+    {
+      "album": {
         "name": "OUT THE BLUE",
         "url": "https://open.spotify.com/album/3Sj0osGYNy5HNdqtRiiAA0"
       },
@@ -21982,7 +22066,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 179975,
       "name": "Playing For Keeps",
       "url": "https://open.spotify.com/track/5GdVcbQNi5opA5L39G0MDF"
@@ -28315,6 +28399,24 @@
     },
     {
       "album": {
+        "name": "THE MOVE",
+        "url": "https://open.spotify.com/album/0UHAkgIMFbxc71UbbxLz1r"
+      },
+      "artists": [
+        {
+          "name": "BARAKA THE KID",
+          "url": "https://open.spotify.com/artist/632zuYvAmSbcN7oXlck1DF"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "THE MOVE",
+      "url": "https://open.spotify.com/track/7EhejUEzKGX8wnEYWdD4Un"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/5MMxsxfktFYqhm2qumR03Z"
       },
@@ -28726,6 +28828,28 @@
       "duration_ms": 132408,
       "name": "THROW AWAY BARS",
       "url": "https://open.spotify.com/track/5dZgSlWGLKyf5LnCyyvU6x"
+    },
+    {
+      "album": {
+        "name": "Thug like me",
+        "url": "https://open.spotify.com/album/1kG3r2LtTVqf5x97TQWLCO"
+      },
+      "artists": [
+        {
+          "name": "Stallyano",
+          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
+        },
+        {
+          "name": "Mista LT",
+          "url": "https://open.spotify.com/artist/297Nn16JjUcYBY47isCGHR"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140322,
+      "name": "Thug like me",
+      "url": "https://open.spotify.com/track/6zTL4nbyPzJzC5DlzvTIv1"
     },
     {
       "album": {
@@ -32376,7 +32500,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 179076,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/2BlD3TjjQGxv0t3TTH7a5C"

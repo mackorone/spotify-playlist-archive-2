@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 872711,
+  "num_followers": 872773,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEjSK7wj5j+NGDhKQ45gGwEWXLeX",
+  "snapshot_id": "AAAAAOTGG5DlPBN3vcNXseIpMNuAlVIU",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -435,6 +435,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "The Glamorous Life",
+        "url": "https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW"
+      },
+      "artists": [
+        {
+          "name": "Sheila E.",
+          "url": "https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P"
+        }
+      ],
+      "duration_ms": 543560,
+      "name": "The Glamorous Life",
+      "url": "https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 232133,
       "name": "Back To Life (However Do You Want Me)",
       "url": "https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Glamorous Life",
-        "url": "https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW"
-      },
-      "artists": [
-        {
-          "name": "Sheila E.",
-          "url": "https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P"
-        }
-      ],
-      "duration_ms": 543560,
-      "name": "The Glamorous Life",
-      "url": "https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD"
     },
     {
       "added_at": "2021-07-01 19:39:13",

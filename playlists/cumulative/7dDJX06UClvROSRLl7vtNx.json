@@ -5041,6 +5041,32 @@
     },
     {
       "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/5QI2Qd0N66uPA0kgcKOkvA"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        },
+        {
+          "name": "Luna Serenade",
+          "url": "https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/4FoFi2hgbJiC5wSHcRdyQB"
+    },
+    {
+      "album": {
         "name": "Comeback",
         "url": "https://open.spotify.com/album/53beMOOUXueIBxRBJJqRrt"
       },
@@ -29650,6 +29676,24 @@
       "duration_ms": 149243,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/6Fy8K1TTQj7SPdsjYl0gLC"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/5Gc3mQ76l2GkaUPm30uAsH"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132682,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/3Y8rEea0MlM2jnWaW3Wthp"
     },
     {
       "album": {

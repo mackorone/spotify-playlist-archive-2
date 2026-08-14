@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "AC Black Flag Resynced",
+        "url": "https://open.spotify.com/album/3q1IaxIZfselJHae7MzLxT"
+      },
+      "artists": [
+        {
+          "name": "Zarcort",
+          "url": "https://open.spotify.com/artist/3ljuRRLVJKgXJKO0xNqzi6"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "AC Black Flag Resynced",
+      "url": "https://open.spotify.com/track/2mSJNIzdmibHEWiURgqrvd"
+    },
+    {
+      "album": {
         "name": "Cachitos de Mi Cora",
         "url": "https://open.spotify.com/album/1DAUQCHm1bN01Jzr2ndxmT"
       },
@@ -5532,7 +5550,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 175637,
       "name": "En Picado",
       "url": "https://open.spotify.com/track/6iK38YR3zX1EdoiuGvFDWF"
@@ -5561,6 +5579,24 @@
     },
     {
       "album": {
+        "name": "En Tu Para Ti",
+        "url": "https://open.spotify.com/album/58OwgMltR6pSur1wQzgAQ5"
+      },
+      "artists": [
+        {
+          "name": "Kadec Santa Anna",
+          "url": "https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199015,
+      "name": "En Tu Para Ti",
+      "url": "https://open.spotify.com/track/2syBxwrg9BcXBe3V4JlMc2"
+    },
+    {
+      "album": {
         "name": "Camisa de Fuerza",
         "url": "https://open.spotify.com/album/2MKNpzPSc7jJF2ZmcxhqNc"
       },
@@ -5576,7 +5612,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 260306,
       "name": "Encantamiento",
       "url": "https://open.spotify.com/track/5ryq2kLF7FQNJFMlc0dKxk"
@@ -6841,6 +6877,28 @@
     },
     {
       "album": {
+        "name": "MES\u00d3N MAS\u00d3N",
+        "url": "https://open.spotify.com/album/2EW1VjUpqyOLoqIMoc0xt1"
+      },
+      "artists": [
+        {
+          "name": "Los Diozes",
+          "url": "https://open.spotify.com/artist/30Ml7nTMkXYyb0UoLwtmCc"
+        },
+        {
+          "name": "Faenna",
+          "url": "https://open.spotify.com/artist/2iLGzMc00PRgD5qP07bP2b"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196340,
+      "name": "GLORIA",
+      "url": "https://open.spotify.com/track/3hiibeXyyy4wEROwB4DYk4"
+    },
+    {
+      "album": {
         "name": "Gluones",
         "url": "https://open.spotify.com/album/31MUdjrA9NQu9CMT4bVSEL"
       },
@@ -8015,6 +8073,28 @@
     },
     {
       "album": {
+        "name": "Kexup",
+        "url": "https://open.spotify.com/album/5syvI4dSZuHmfXssT7k2T0"
+      },
+      "artists": [
+        {
+          "name": "MNAK",
+          "url": "https://open.spotify.com/artist/3w8tXz1RKW2UPZEDp7qSug"
+        },
+        {
+          "name": "AFTERMUSIC",
+          "url": "https://open.spotify.com/artist/04YSw7UXO3e1AKezbynmKo"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171493,
+      "name": "Kexup",
+      "url": "https://open.spotify.com/track/5oroWr5i1IxlYSi7knD8FP"
+    },
+    {
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/15eOxilb6S1lta2uSo4vBu"
       },
@@ -8520,7 +8600,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 203181,
       "name": "LA NETA SIN CARETA",
       "url": "https://open.spotify.com/track/5mELwfFZZRAdCTXjhdNSwB"
@@ -8590,6 +8670,24 @@
       "duration_ms": 184000,
       "name": "La Presi\u00f3n",
       "url": "https://open.spotify.com/track/5ypuVIBvxyWja7Pz7bjAPc"
+    },
+    {
+      "album": {
+        "name": "La Profec\u00eda",
+        "url": "https://open.spotify.com/album/3zgugl9VrRrUVYxT08NBLY"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222944,
+      "name": "La Profec\u00eda",
+      "url": "https://open.spotify.com/track/61hBOCzK2C3QJ91CHUslC6"
     },
     {
       "album": {
@@ -9358,7 +9456,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 210025,
       "name": "Loco Co",
       "url": "https://open.spotify.com/track/3QeYNPyNB9O8aXRaQXohuK"
@@ -9638,7 +9736,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 191061,
       "name": "LUZ DE LUNA",
       "url": "https://open.spotify.com/track/2NmlyHE4vtW0CnX1xDiOWM"
@@ -9812,7 +9910,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 250101,
       "name": "Mala",
       "url": "https://open.spotify.com/track/4a2XWY2QdeJOMPy9wouQfw"
@@ -10760,6 +10858,24 @@
       "duration_ms": 135034,
       "name": "Mientras Dorm\u00edas",
       "url": "https://open.spotify.com/track/1UJ80JhXQbfoSLaCRn3hyX"
+    },
+    {
+      "album": {
+        "name": "Mil inviernos y mil veranos",
+        "url": "https://open.spotify.com/album/4zFj4dWlHdST1cXmqwFP7q"
+      },
+      "artists": [
+        {
+          "name": "Diegales",
+          "url": "https://open.spotify.com/artist/18jngJTQ7eBdgzAhHKk9TW"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Mil inviernos y mil veranos",
+      "url": "https://open.spotify.com/track/70Kz7FjhcPjrloZq8HoxuI"
     },
     {
       "album": {
@@ -12864,7 +12980,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 148989,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/73aP3L09ZMCH8Fj6QPOCH6"
@@ -14144,7 +14260,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 115955,
       "name": "REAL",
       "url": "https://open.spotify.com/track/3xrDsH3N8RmWEz36ktZ6cX"
@@ -14866,6 +14982,24 @@
       "duration_ms": 232325,
       "name": "Se me caen las rimas",
       "url": "https://open.spotify.com/track/0Dug2B73xnHYByNJFDFlrL"
+    },
+    {
+      "album": {
+        "name": "Se Te Ve El Plumero",
+        "url": "https://open.spotify.com/album/0HYpW9qG4h5hzEVL6y41Xp"
+      },
+      "artists": [
+        {
+          "name": "Solea kella",
+          "url": "https://open.spotify.com/artist/3PGLXmVuFleENSR1RiNTD9"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137386,
+      "name": "Se Te Ve El Plumero",
+      "url": "https://open.spotify.com/track/6nTMZ0PTHxrzBp1O1apipF"
     },
     {
       "album": {
@@ -17176,6 +17310,28 @@
       "duration_ms": 170425,
       "name": "UN BESO A LOS ANILLOS",
       "url": "https://open.spotify.com/track/31ueh1AXGU25LTgXGs6YgL"
+    },
+    {
+      "album": {
+        "name": "Un lamento y un cigarro",
+        "url": "https://open.spotify.com/album/1NPwTHabebWO2mNd318xW6"
+      },
+      "artists": [
+        {
+          "name": "Blessed013",
+          "url": "https://open.spotify.com/artist/5DVm69abKxGbe2P2Gmjvr9"
+        },
+        {
+          "name": "Dawiz",
+          "url": "https://open.spotify.com/artist/16pbYWC2245gjzNQa3BlCs"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117362,
+      "name": "Un lamento y un cigarro",
+      "url": "https://open.spotify.com/track/18MFJpvBRfFwR7KUPj4lo1"
     },
     {
       "album": {

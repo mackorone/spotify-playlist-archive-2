@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3UnZlY6Uz50iVWuMOUHrER.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 148 songs - 13 hr 45 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 150 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,5 +156,7 @@ pretty - [cumulative](/playlists/cumulative/3UnZlY6Uz50iVWuMOUHrER.md) - [plain]
 | 146 | [2084](https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [2084](https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI) | 6:06 |
 | 147 | [Ivory](https://open.spotify.com/track/0qAp4Nv3f0kY3MuSQEVN8j) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Hertz](https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7) | [Ivory \(Edit\)](https://open.spotify.com/album/25QVWRqHOPZ1nAKwmQMj4Z) | 3:19 |
 | 148 | [Going Existential In The Rave](https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Going Existential In The Rave](https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v) | 3:07 |
+| 149 | [Shadow Of Tears](https://open.spotify.com/track/5NagG9mPJeTrO0ut3lZZhW) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Shadow Of Tears](https://open.spotify.com/album/0joiyo2pC9Ad2CmIZsgBq0) | 7:38 |
+| 150 | [Monsters](https://open.spotify.com/track/09YIQFg8QleQknfduk71HE) | [AEREA](https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA) | [Monsters](https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7) | 2:52 |
 
-Snapshot ID: `AAAAsXWqgLR99sQK3cpxTTktATjwJ4fn`
+Snapshot ID: `AAAAs4w9RxQbFM3qnGf5g47IaCYrRfK1`

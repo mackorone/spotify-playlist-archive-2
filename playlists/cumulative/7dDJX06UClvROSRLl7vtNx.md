@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,450 songs - 2 day 14 hr 25 min
+1,452 songs - 2 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Come Along](https://open.spotify.com/track/2Yj6saJ5EcnzIsxQbkQX45) | [John Von Dusk](https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz), [Holly Terrens](https://open.spotify.com/artist/3qtADNwGleL4IDaLbuc1uD), [one more cig](https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5) | [Come Along](https://open.spotify.com/album/2xliqZ8RDALc7KGCRXPGBN) | 3:02 | 2026-04-12 | 2026-07-21 |
 | [Come Around](https://open.spotify.com/track/3BIwy46uY7GPXRKhyWc3ux) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Come Around](https://open.spotify.com/album/0TqvRFeCR9OFLhXxipbNwR) | 2:26 | 2026-07-02 |  |
 | [Come Back](https://open.spotify.com/track/3qUKagwiBJl4fYfjB6g2Aj) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Come Back](https://open.spotify.com/album/3i8qrJdKsUhMxzgwlYuUOK) | 2:47 | 2024-09-02 | 2025-04-07 |
+| [Come Closer](https://open.spotify.com/track/4FoFi2hgbJiC5wSHcRdyQB) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [Come Closer](https://open.spotify.com/album/5QI2Qd0N66uPA0kgcKOkvA) | 2:00 | 2026-08-13 |  |
 | [Comeback](https://open.spotify.com/track/1yjS1ilQGRHz4tBWSuOs0f) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Comeback](https://open.spotify.com/album/53beMOOUXueIBxRBJJqRrt) | 3:01 | 2024-04-07 | 2024-04-16 |
 | [comethru](https://open.spotify.com/track/4zoxk2PDfddqoXLxGHmeOS) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Dohdo](https://open.spotify.com/artist/1mJodmcNOJqBItwNVdofvU), [Kin Alura](https://open.spotify.com/artist/5UbieAXGfZvPmsbbvdb3Xc) | [comethru](https://open.spotify.com/album/2q7Eff5Zu4nfLQ4wBOYBMS) | 2:30 | 2026-08-03 |  |
 | [Coming Home](https://open.spotify.com/track/25g3oz2lI2H9sUeFWfw4YA) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9) | [Coming Home](https://open.spotify.com/album/3jIi4BSJfVI0xbA15zJSs3) | 2:18 | 2023-10-20 | 2024-05-13 |
@@ -1320,6 +1321,7 @@
 | [Under The Sun](https://open.spotify.com/track/4rZInku37XsXiHg8Px4smI) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [Under The Sun](https://open.spotify.com/album/53lSthGjKdN6jvmm9I3yG6) | 2:43 | 2025-03-28 |  |
 | [Under The Sun](https://open.spotify.com/track/4KEm9CeGESnWJCMs9xyfhH) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Under The Sun](https://open.spotify.com/album/6mLcNI2PXdwtcjgOyLuvwB) | 2:06 | 2026-07-12 |  |
 | [Undertow](https://open.spotify.com/track/6Fy8K1TTQj7SPdsjYl0gLC) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3), [Ynnox](https://open.spotify.com/artist/12Br190pgwwhEjMY1ResUN) | [Undertow](https://open.spotify.com/album/0dnBeLR9f0oDAptNqPZQH5) | 2:29 | 2024-08-29 | 2025-04-22 |
+| [Underwater](https://open.spotify.com/track/3Y8rEea0MlM2jnWaW3Wthp) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Underwater](https://open.spotify.com/album/5Gc3mQ76l2GkaUPm30uAsH) | 2:12 | 2026-08-13 |  |
 | [Unknown Lovers](https://open.spotify.com/track/7KjuxlANmMeOAPHrlMeInu) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [MBB](https://open.spotify.com/artist/3Yk2lTHJVFzRCwNdUCqCQ8), [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [Kaley](https://open.spotify.com/artist/5ioRU3OGYb8O0rPw0PNxiN) | [Unknown Lovers](https://open.spotify.com/album/1A0a3oLjVA2OfrD4bvj6FN) | 2:23 | 2025-11-09 | 2025-11-24 |
 | [Unreachable](https://open.spotify.com/track/1ZJf99SCDgvPmc5y5bFlaJ) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Unreachable](https://open.spotify.com/album/2U3XIbR7gUgRnQQZJ68d9o) | 2:50 | 2025-09-25 | 2026-05-11 |
 | [Until The End Of Time](https://open.spotify.com/track/0Zv5hSYT7LD7GFRO8Ip0oU) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Until The End Of Time](https://open.spotify.com/album/6ncZ16w9NoA8EXiTRAXAj1) | 3:14 | 2024-01-06 | 2024-05-13 |

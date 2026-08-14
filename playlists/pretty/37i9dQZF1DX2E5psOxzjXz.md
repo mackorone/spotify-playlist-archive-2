@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Abdullah Siddiqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,641 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,642 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 99 | [MAKE YOU MINE \(feat\. Abdul Hannan & Hasan Raheem\)](https://open.spotify.com/track/6OyqZB5FA70Nnl6Z7GkN2Y) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:08 |
 | 100 | [Dekh Sakti Hun](https://open.spotify.com/track/4XKsxIDjNxUwfqGTk5Mq9F) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Parveen Shakir](https://open.spotify.com/artist/4sSaA096BL94U4rkcqK4Jc) | [Khushboo](https://open.spotify.com/album/493fKLr1Pe5JeupPQTxiSL) | 3:32 |
 
-Snapshot ID: `AAAAAB2uGKyBmWVEFnc31Xa8z636bXiw`
+Snapshot ID: `AAAAAF8u2H6d/iflPetf44YnFu2/zB01`

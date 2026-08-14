@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 406747,
+  "num_followers": 406771,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5A61J3QMsVj64tUAdhosBbYm0o",
+  "snapshot_id": "AAAAAA9Hl9vUKl6ewLKoWQU2roI50usY",
   "tracks": [
     {
       "added_at": "2026-05-19 09:20:45",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
-      },
-      "artists": [
-        {
-          "name": "Jean Schultheis",
-          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Confidence pour confidence - Version originale 1981",
-      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
         "name": "Incontournable Gold",
         "url": "https://open.spotify.com/album/0RPMT9OFkLNQMUjCxhlTlR"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 235173,
       "name": "Capitaine abandonn\u00e9",
       "url": "https://open.spotify.com/track/38LHrcQIVbJJtS8H3xfCKn"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
+      },
+      "artists": [
+        {
+          "name": "Jean Schultheis",
+          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Confidence pour confidence - Version originale 1981",
+      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
     },
     {
       "added_at": "2026-05-19 09:20:45",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "Best of D\u00e9but de Soir\u00e9e (Le meilleur des ann\u00e9es 80)",
-        "url": "https://open.spotify.com/album/57LfHmeSkUoS4rImFooP0L"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9but De Soir\u00e9e",
-          "url": "https://open.spotify.com/artist/3EeGYcRZaklMqgjWNhPrzu"
-        }
-      ],
-      "duration_ms": 253786,
-      "name": "Nuit de folie - Version originale 1988",
-      "url": "https://open.spotify.com/track/2pXzTDfEoA19Fqhtl08Hiw"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
         "name": "Voyou (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 161493,
       "name": "Diego libre dans sa t\u00eate - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
+        "name": "Best of D\u00e9but de Soir\u00e9e (Le meilleur des ann\u00e9es 80)",
+        "url": "https://open.spotify.com/album/57LfHmeSkUoS4rImFooP0L"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9but De Soir\u00e9e",
+          "url": "https://open.spotify.com/artist/3EeGYcRZaklMqgjWNhPrzu"
+        }
+      ],
+      "duration_ms": 253786,
+      "name": "Nuit de folie - Version originale 1988",
+      "url": "https://open.spotify.com/track/2pXzTDfEoA19Fqhtl08Hiw"
     },
     {
       "added_at": "2026-05-19 09:20:45",

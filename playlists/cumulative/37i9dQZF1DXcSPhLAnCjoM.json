@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Dis-moi o\u00f9\" de Julien Lieb et OTTA est le Grand Hit de la semaine.  ",
+  "description": "\"Fr\u00e9rot\" de J\u00e9r\u00e9my Frerot est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 206002,
       "name": "Dansons",
       "url": "https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8"
@@ -5766,6 +5766,24 @@
       "duration_ms": 172725,
       "name": "Sur la piste",
       "url": "https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3"
+    },
+    {
+      "album": {
+        "name": "Systaime",
+        "url": "https://open.spotify.com/album/3WPu1zUqJ9nWCsjeIqTe4t"
+      },
+      "artists": [
+        {
+          "name": "Christophe Willem",
+          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154991,
+      "name": "Systaime",
+      "url": "https://open.spotify.com/track/03P7mOAnyLr6T8uIGGU9Pr"
     },
     {
       "album": {

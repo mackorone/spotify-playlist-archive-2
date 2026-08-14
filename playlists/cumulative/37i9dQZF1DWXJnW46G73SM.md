@@ -2,7 +2,7 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> ايه الجديد؟ الغلاف: زاب ثروت وساري هاني
+> ايه الجديد؟ الغلاف: هيلة
 
 1,781 songs - 4 day 2 hr 50 min
 

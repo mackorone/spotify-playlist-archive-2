@@ -4787,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "NEONUTS",
+        "url": "https://open.spotify.com/album/1rhlPU6f6KwmE9CDQGwrmD"
+      },
+      "artists": [
+        {
+          "name": "\u6838\u679c\u4ebaNUTS",
+          "url": "https://open.spotify.com/artist/0eYN1dX9ZuhqO3vEqaNPRG"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261786,
+      "name": "Super Shine",
+      "url": "https://open.spotify.com/track/3RF64EPmi4SjigN9aa9Vk3"
+    },
+    {
+      "album": {
         "name": "SWING DANCE\uff08\u52d5\u756b\u300a\u5996\u679c\u5c0f\u5b78\u300b\u7247\u5c3e\u66f2\uff09",
         "url": "https://open.spotify.com/album/0qxdaSXF0Z9DlF0Kqa3peT"
       },
@@ -11894,6 +11912,28 @@
       "duration_ms": 233300,
       "name": "\u6211\u8981\u8d70\u5566",
       "url": "https://open.spotify.com/track/6hKOTKvM6RiDEYgIlKHYOp"
+    },
+    {
+      "album": {
+        "name": "\u6211\u8a0e\u53ad\u4f60",
+        "url": "https://open.spotify.com/album/6kw02Umlwacgmxdv0SuBOg"
+      },
+      "artists": [
+        {
+          "name": "Soph T.",
+          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+        },
+        {
+          "name": "Good Band",
+          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "\u6211\u8a0e\u53ad\u4f60",
+      "url": "https://open.spotify.com/track/2J2lvKl9D6axFb0Eq9TCal"
     },
     {
       "album": {

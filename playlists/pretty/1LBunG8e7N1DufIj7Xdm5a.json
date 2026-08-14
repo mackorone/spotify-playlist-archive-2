@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJpY4CcrYDsvOSeuIerfJ6xpS/9atM",
+  "snapshot_id": "AAAJqKdxV8ZBxD6joUjPHst4hnJXPH2A",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -76467,6 +76467,54 @@
       "duration_ms": 189679,
       "name": "Echoes Of Aether",
       "url": "https://open.spotify.com/track/2EOgtXubkshm9MiCFizYHI"
+    },
+    {
+      "added_at": "2026-08-13 13:20:02",
+      "album": {
+        "name": "volume 1",
+        "url": "https://open.spotify.com/album/32rJQIOwi05ntcM63HrBMv"
+      },
+      "artists": [
+        {
+          "name": "I",
+          "url": "https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR"
+        }
+      ],
+      "duration_ms": 234765,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/1ZAaAQIEdyjVsLksHQ4OsF"
+    },
+    {
+      "added_at": "2026-08-13 13:57:12",
+      "album": {
+        "name": "Desde Que Te Vi",
+        "url": "https://open.spotify.com/album/3EkwZkINxtxuouw9GX8yJ3"
+      },
+      "artists": [
+        {
+          "name": "RELUCIENTE",
+          "url": "https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99"
+        }
+      ],
+      "duration_ms": 256556,
+      "name": "Desde Que Te Vi",
+      "url": "https://open.spotify.com/track/7fxlAkBJCSOt7DbzQmcNgU"
+    },
+    {
+      "added_at": "2026-08-13 18:01:37",
+      "album": {
+        "name": "Riempimi la vita",
+        "url": "https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Urbani",
+          "url": "https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN"
+        }
+      ],
+      "duration_ms": 260625,
+      "name": "Riempimi la vita",
+      "url": "https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ"
     }
   ],
   "unique_name": "playlist spotify free",

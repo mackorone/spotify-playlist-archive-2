@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: PERRA BRAVA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,552 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,557 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 84 | [Vacación](https://open.spotify.com/track/133OgnAA7A8IsAg6KtFuvD) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Vacación](https://open.spotify.com/album/2TaN65ndOTCH9Of28vpdU5) | 3:12 |
 | 85 | [Yo Me Quedo](https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Yo Me Quedo / Todo El Bien](https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz) | 2:54 |
 
-Snapshot ID: `AAAAANGXxCOEUbsthDq77EZ7emEaDl1w`
+Snapshot ID: `AAAAAM0mVjNMJ1V/VzQivm0rIFUChABD`

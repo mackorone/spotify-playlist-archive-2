@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Azul de Viena en portada.",
-  "num_followers": 39236,
+  "num_followers": 39240,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHUUEDQ3gnwaM0mi6W49Gs/79bQ2",
+  "snapshot_id": "AAAAAPpYBIfqbmnYw6alh6PvNitJU4ch",
   "tracks": [
     {
       "added_at": "2026-07-03 06:00:12",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Pel\u00edculas De Acci\u00f3n",
-        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Pel\u00edculas De Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "NO ME IMPORTA",
         "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 153815,
       "name": "NO ME IMPORTA",
       "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Pel\u00edculas De Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Pel\u00edculas De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Antes Que Me Vaya",
-        "url": "https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Antes Que Me Vaya",
-      "url": "https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Campeones del Mundo / Rayo de Luz",
-        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
+        "name": "Antes Que Me Vaya",
+        "url": "https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
         }
       ],
-      "duration_ms": 341600,
-      "name": "Rayo de Luz",
-      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
+      "duration_ms": 206000,
+      "name": "Antes Que Me Vaya",
+      "url": "https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -859,6 +843,22 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Campeones del Mundo / Rayo de Luz",
+        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 341600,
+      "name": "Rayo de Luz",
+      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Vidrio por Doquier",
-        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Vidrio por Doquier",
-      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "MAPAS II",
         "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 223125,
       "name": "Sombra",
       "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Vidrio por Doquier",
+        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Vidrio por Doquier",
+      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Mentiras Arriesgadas",
-        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Mentiras Arriesgadas",
-      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "Perfecto Final",
         "url": "https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 206633,
       "name": "Perfecto Final",
       "url": "https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Mentiras Arriesgadas",
+        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "Mentiras Arriesgadas",
+      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "Todo est\u00e1 pasando ahora",
-        "url": "https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 228911,
-      "name": "Todo est\u00e1 pasando ahora",
-      "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "7 Secretos",
         "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 193906,
       "name": "Prometimos",
       "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "Todo est\u00e1 pasando ahora",
+        "url": "https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 228911,
+      "name": "Todo est\u00e1 pasando ahora",
+      "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
     },
     {
       "added_at": "2026-07-03 06:00:12",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
-        "name": "EN LO TOTAL",
-        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        }
-      ],
-      "duration_ms": 235141,
-      "name": "EN LO TOTAL",
-      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
         "name": "ESO Que Nos Trajo a Abbey Road",
         "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 198051,
       "name": "Memoria Muscular - Desde Abbey Road",
       "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
+        "name": "EN LO TOTAL",
+        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        }
+      ],
+      "duration_ms": 235141,
+      "name": "EN LO TOTAL",
+      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
     },
     {
       "added_at": "2026-07-03 06:00:12",

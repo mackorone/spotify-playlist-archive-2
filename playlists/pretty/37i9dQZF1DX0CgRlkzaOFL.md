@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,258 likes - 68 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,275 likes - 68 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 67 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK２](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
 | 68 | [Battle! \(Gym Leader Drayden\)](https://open.spotify.com/track/1c1MxMmlEx79C2q2hx5II0) | [Kunning Fox](https://open.spotify.com/artist/3RghLagVWsyJ69agzOVeDn) | [Back To Unova 2, Vol\. IV \(Music From "Pokémon Black 2 & White 2"\)](https://open.spotify.com/album/7d4AsqdnFBHShIwfMuMNUR) | 2:55 |
 
-Snapshot ID: `AAAAAJIuNToC3TJyB78CoozP2AmsOvJR`
+Snapshot ID: `AAAAAJd1tbJlCMXsjC3++rAgQ8X/tB47`

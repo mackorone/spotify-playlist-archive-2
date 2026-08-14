@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Canciones del Tío Ryan para bailar con la tía\. Foto: Ryan Castro y SOG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,368 likes - 30 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,358 likes - 30 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 29 | [Golpe Con Golpe](https://open.spotify.com/track/62ebrScTyZO1d93HVmHvnb) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 3:33 |
 | 30 | [Fantasía Nocturna](https://open.spotify.com/track/2wakNkyngKfcDC3NDHHsj5) | [Gustavo "El Loco" Quintero](https://open.spotify.com/artist/7qf3WdV7lYx6WknoNnxokl) | [Isla para Dos](https://open.spotify.com/album/6Gz3SBWJVMiEigtFgWw3hA) | 2:58 |
 
-Snapshot ID: `AAAAANoiSW6lI8uwjsIksgtObRo66uTp`
+Snapshot ID: `AAAAALEHxytBy5vmq4WbWNGl4UWPLMyI`

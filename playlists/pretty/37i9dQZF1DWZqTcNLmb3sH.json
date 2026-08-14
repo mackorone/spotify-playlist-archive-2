@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 72630,
+  "num_followers": 72670,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOFoJpo+TqL1Dd81HZB+ylk0mwNZ",
+  "snapshot_id": "AAAAAMS4ZXbSGH0dMmK3YHPodQpQKQuD",
   "tracks": [
     {
       "added_at": "2026-07-21 08:31:10",
@@ -197,6 +197,30 @@
       "url": "https://open.spotify.com/track/6gisQUEvKEafz2G06y0G6P"
     },
     {
+      "added_at": "2026-08-13 09:05:19",
+      "album": {
+        "name": "Jeevana",
+        "url": "https://open.spotify.com/album/5oBBmuQToU1lFtbYGxbwtz"
+      },
+      "artists": [
+        {
+          "name": "Ashwatth M Uppoor",
+          "url": "https://open.spotify.com/artist/4zihticqDn9sT89sZyevtF"
+        },
+        {
+          "name": "Adithya Nayak",
+          "url": "https://open.spotify.com/artist/3rxvX2DtDXrCAlS5wLNrhR"
+        },
+        {
+          "name": "Sanjay Purohit",
+          "url": "https://open.spotify.com/artist/2hT9BPXOfxIpkHvyQjro4i"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Jeevana",
+      "url": "https://open.spotify.com/track/7IQwHBf3yEVs6GKA467J6O"
+    },
+    {
       "added_at": "2026-08-03 09:41:18",
       "album": {
         "name": "Gajanana Cricketers (Original Motion Picture Soundtrack)",
@@ -267,6 +291,22 @@
       "duration_ms": 250991,
       "name": "Nee Nanna Jeeva (From \"Flirt\")",
       "url": "https://open.spotify.com/track/6gdqtFaM5gpTnil9uTkpkF"
+    },
+    {
+      "added_at": "2026-08-13 09:05:19",
+      "album": {
+        "name": "Chandiranaaduva",
+        "url": "https://open.spotify.com/album/2FjEr1n6soBb5LVgv5lCc6"
+      },
+      "artists": [
+        {
+          "name": "Rosh",
+          "url": "https://open.spotify.com/artist/48DR3KgemVdJeBrzZPSzPp"
+        }
+      ],
+      "duration_ms": 178695,
+      "name": "Chandiranaaduva",
+      "url": "https://open.spotify.com/track/60NVF5PynQBRLuwIgJFh8Y"
     },
     {
       "added_at": "2026-07-31 10:35:23",
@@ -1769,30 +1809,6 @@
       "url": "https://open.spotify.com/track/4k6yhERNSWuyBiqkCg4kQK"
     },
     {
-      "added_at": "2026-05-25 11:02:31",
-      "album": {
-        "name": "Jai Anjaneya (From \"Shrimathi Sindhoora\")",
-        "url": "https://open.spotify.com/album/6MMetR1fuZK5fq7ZBsDJ6Y"
-      },
-      "artists": [
-        {
-          "name": "A B Muralidharan",
-          "url": "https://open.spotify.com/artist/2kPI0jVyM38eUTs3wj88MN"
-        },
-        {
-          "name": "Manjunath Kabse",
-          "url": "https://open.spotify.com/artist/7MzhpWShPEDbNVNwMr5QJv"
-        },
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        }
-      ],
-      "duration_ms": 386078,
-      "name": "Jai Anjaneya (From \"Shrimathi Sindhoora\")",
-      "url": "https://open.spotify.com/track/46AI3mUgYzB2ym6es1wZ8S"
-    },
-    {
       "added_at": "2026-05-25 11:01:14",
       "album": {
         "name": "Hellallallo (From \"Peddi\") [KANNADA]",
@@ -1815,22 +1831,6 @@
       "duration_ms": 228048,
       "name": "Hellallallo (From \"Peddi\") [KANNADA]",
       "url": "https://open.spotify.com/track/5xKA3HFZ0UTKFJ1zxGJrby"
-    },
-    {
-      "added_at": "2026-05-22 07:29:22",
-      "album": {
-        "name": "KD Title Track (From \"KD\")",
-        "url": "https://open.spotify.com/album/5wZXBjo4RqJhIMJXaRLZET"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "KD Title Track (From \"KD\")",
-      "url": "https://open.spotify.com/track/3mSGFXSGleDhdk6vFGbQxU"
     }
   ],
   "unique_name": "Latest Kannada",

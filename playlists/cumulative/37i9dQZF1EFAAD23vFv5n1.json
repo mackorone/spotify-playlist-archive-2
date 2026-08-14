@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "ICONA",
+        "url": "https://open.spotify.com/album/2tnspppLpd17wrWXaBT45p"
+      },
+      "artists": [
+        {
+          "name": "ALE",
+          "url": "https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165969,
+      "name": "ICONA",
+      "url": "https://open.spotify.com/track/4J0KAFyrq0uibV9WxW2aRM"
+    },
+    {
+      "album": {
         "name": "IL BUIO (MI CALMA)",
         "url": "https://open.spotify.com/album/6ZLAvAQ6LmWeF7RinL9FgV"
       },

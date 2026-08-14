@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6QvQCarjaeuT9QNZvbEGXJ">Juna Ara</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,221 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,241 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [Anagram](https://open.spotify.com/track/0YIoEwrNk4HcHJu7EA84VB) | [Runia](https://open.spotify.com/artist/2H7QeqEBPdqQlJndh3s4sv) | [RUINA](https://open.spotify.com/album/4NI4ECBBQh4uUwTXeEIKIL) | 2:55 |
 | 50 | [Finansowa](https://open.spotify.com/track/31oCDDD8PmcvVCI7WdME7k) | [TwójSamuel](https://open.spotify.com/artist/3geIvmq6KlhGzEWFR8MoZ9), [riZine](https://open.spotify.com/artist/1uMTwEZ1zsh6ockGUcu3LZ) | [PRESJA](https://open.spotify.com/album/6Ih4OyVcE0TVKMRQRthKcX) | 3:39 |
 
-Snapshot ID: `AAAAAJ5ZrkdvsW0ArXWFeLG1Mmp96DrZ`
+Snapshot ID: `AAAAAKinkahL8FCsP5OdtiDln1FgKy2O`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,804 likes - 56 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,819 likes - 56 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 55 | [Fragile](https://open.spotify.com/track/536KX7LmY2wEBY1XbWaTbR) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Guitar Covers](https://open.spotify.com/album/41FqGppViwn20HibrPfdmx) | 3:30 |
 | 56 | [At This Point](https://open.spotify.com/track/6ENVQhWISAF4em1AMU08Gm) | [Vera Stockhaus](https://open.spotify.com/artist/3zelFu7VpEQ4gAlbOl8C28) | [At This Point](https://open.spotify.com/album/0E5DSqASdf05sO5F3zJffo) | 2:50 |
 
-Snapshot ID: `AAAAALu7n6g/+A3DmrT12NUzSfzwCwL4`
+Snapshot ID: `AAAAABGIJdmaNIYbVJ0ENEigpp/9DB42`

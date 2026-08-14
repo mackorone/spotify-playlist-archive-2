@@ -2369,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Chandiranaaduva",
+        "url": "https://open.spotify.com/album/2FjEr1n6soBb5LVgv5lCc6"
+      },
+      "artists": [
+        {
+          "name": "Rosh",
+          "url": "https://open.spotify.com/artist/48DR3KgemVdJeBrzZPSzPp"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178695,
+      "name": "Chandiranaaduva",
+      "url": "https://open.spotify.com/track/60NVF5PynQBRLuwIgJFh8Y"
+    },
+    {
+      "album": {
         "name": "Charged Up",
         "url": "https://open.spotify.com/album/4udiyEwX8oKNTjnfa8leQx"
       },
@@ -5813,6 +5831,32 @@
     },
     {
       "album": {
+        "name": "Jeevana",
+        "url": "https://open.spotify.com/album/5oBBmuQToU1lFtbYGxbwtz"
+      },
+      "artists": [
+        {
+          "name": "Ashwatth M Uppoor",
+          "url": "https://open.spotify.com/artist/4zihticqDn9sT89sZyevtF"
+        },
+        {
+          "name": "Adithya Nayak",
+          "url": "https://open.spotify.com/artist/3rxvX2DtDXrCAlS5wLNrhR"
+        },
+        {
+          "name": "Sanjay Purohit",
+          "url": "https://open.spotify.com/artist/2hT9BPXOfxIpkHvyQjro4i"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Jeevana",
+      "url": "https://open.spotify.com/track/7IQwHBf3yEVs6GKA467J6O"
+    },
+    {
+      "album": {
         "name": "Jolly Jolly",
         "url": "https://open.spotify.com/album/7BvprRs0Qjum74sY0QQGMH"
       },
@@ -6702,7 +6746,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 323000,
       "name": "Khushi",
       "url": "https://open.spotify.com/track/7cd8f7AqLjP6v47ZQNRJxV"
@@ -7176,7 +7220,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 202222,
       "name": "Maaye",
       "url": "https://open.spotify.com/track/0Ulwf4CxhoKaaqDgNAgja9"
@@ -8002,6 +8046,24 @@
       "duration_ms": 263753,
       "name": "Matthe Meravanige",
       "url": "https://open.spotify.com/track/61JVZE02xZy5l2XJkIczfQ"
+    },
+    {
+      "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/5Jzwb949gMZcLHNPSgJI7V"
+      },
+      "artists": [
+        {
+          "name": "Agnata",
+          "url": "https://open.spotify.com/artist/14CiWY1teVPQ8Eja9O86P3"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168041,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/3ZvG8O7BN0ONVw2aCpEgY2"
     },
     {
       "album": {

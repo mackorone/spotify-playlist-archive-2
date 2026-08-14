@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: スピッツ Spitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,005 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,012 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [UPSIDE DOWN](https://open.spotify.com/track/3Flk3HKs6CincLAM3tagXA) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [UPSIDE DOWN](https://open.spotify.com/album/5ro74xP1AManSglqKzpyYf) | 3:53 |
 | 100 | [kaero](https://open.spotify.com/track/2sOuYyxxsfy3jOb7Zc2TK7) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [kaero](https://open.spotify.com/album/5imMQ2R6cE5mOw0xuw4U4x) | 3:59 |
 
-Snapshot ID: `AAAAAMDl7MbMBPN288SHLK+yzdtCt1u/`
+Snapshot ID: `AAAAAGVU1WSFg1JL0T+nQQMgJG9M0TMR`

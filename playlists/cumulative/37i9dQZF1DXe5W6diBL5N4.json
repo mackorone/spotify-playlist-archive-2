@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "dinnermode",
+        "url": "https://open.spotify.com/album/6xKnYHY00EbvxZAXYP0vhW"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210625,
+      "name": "+82",
+      "url": "https://open.spotify.com/track/41dQW7vAjBGZvOZI4u7LKO"
+    },
+    {
+      "album": {
         "name": "HYPNOSIS THERAPY REMIX",
         "url": "https://open.spotify.com/album/7FqvWR5VVGiU1vrR7kYm9l"
       },
@@ -9980,6 +9998,24 @@
       "duration_ms": 219920,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
+    },
+    {
+      "album": {
+        "name": "adrenaline",
+        "url": "https://open.spotify.com/album/5JQrbOavjXtpWSVrt08u97"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172215,
+      "name": "adrenaline",
+      "url": "https://open.spotify.com/track/4JsQ2nu0YdUmnKoAkEkr9Z"
     },
     {
       "album": {
@@ -73648,9 +73684,27 @@
           "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
         }
       ],
-      "date_added": "2026-08-10",
+      "date_added": "2026-08-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 221000,
+      "name": "END+ing",
+      "url": "https://open.spotify.com/track/3G0OJBjIsffe37Xj4YQMbP"
+    },
+    {
+      "album": {
+        "name": "Spooky in Love, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/580CKziW6SnbQqsNDimAc0"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-14",
       "duration_ms": 221000,
       "name": "END+ing (Inst.)",
       "url": "https://open.spotify.com/track/2Jvr7wmzWKYaiZ9klxDaDu"
@@ -143192,6 +143246,24 @@
       "duration_ms": 205400,
       "name": "LaSalle Ave",
       "url": "https://open.spotify.com/track/1JpvGHw0UOQJxycLniNIgK"
+    },
+    {
+      "album": {
+        "name": "SPLAY : CHAPTER 01",
+        "url": "https://open.spotify.com/album/6sPKB4Cl0uad4i9sKYMhZp"
+      },
+      "artists": [
+        {
+          "name": "Splayit",
+          "url": "https://open.spotify.com/artist/6dO5cb6LNYGs5Ob5JCY4un"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Last bus",
+      "url": "https://open.spotify.com/track/22g0phblhI57wSMjRcjQZ6"
     },
     {
       "album": {
@@ -246383,6 +246455,28 @@
     },
     {
       "album": {
+        "name": "STUCK!",
+        "url": "https://open.spotify.com/album/4GXzgF5llx2GbPLZjTP1Ge"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "STUCK! (Feat. g0nny)",
+      "url": "https://open.spotify.com/track/6ktupQbU1lqT36umdY5nWJ"
+    },
+    {
+      "album": {
         "name": "Study cafe",
         "url": "https://open.spotify.com/album/3faXS5xMxwGuV9GWd4zekf"
       },
@@ -265866,6 +265960,24 @@
       "duration_ms": 155674,
       "name": "Thousand times",
       "url": "https://open.spotify.com/track/1d6IdTV1ZZdz7s8qUlpUBa"
+    },
+    {
+      "album": {
+        "name": "Traces of Summer",
+        "url": "https://open.spotify.com/album/4SyZZKR7SFdrzeHNtQB1RD"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Three days after",
+      "url": "https://open.spotify.com/track/33Xaxgi8GR99MuJm8BBYIR"
     },
     {
       "album": {

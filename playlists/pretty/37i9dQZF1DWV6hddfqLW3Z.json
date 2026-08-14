@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 809351,
+  "num_followers": 809373,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALmvgyUkC8OvC7nwsTNKSeIAYNmm",
+  "snapshot_id": "AAAAAJv/vtr060cAQGpWm+KujbTUcPOq",
   "tracks": [
     {
       "added_at": "2026-08-07 02:23:08",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
+        "url": "https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 208470,
+      "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
+      "url": "https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
-        "url": "https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 208470,
-      "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
-      "url": "https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Reconstru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 204895,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 224720,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Reconstru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 204895,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
     },
     {
       "added_at": "2026-08-07 02:23:08",

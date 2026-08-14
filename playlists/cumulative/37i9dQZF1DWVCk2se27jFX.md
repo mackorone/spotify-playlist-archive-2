@@ -4,7 +4,7 @@
 
 > Los sonidos, artistas y escenas que convergen en el BOmm 2026\. Foto: Jossman
 
-198 songs - 11 hr 49 min
+199 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Nada Que Extrañar](https://open.spotify.com/track/27SOl55VMSsvBTrNTmnBL6) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Nada Que Extrañar](https://open.spotify.com/album/26VRbNvZy0xLUdvmBYcBMb) | 3:24 | 2024-04-12 | 2026-08-12 |
 | [Nancy Resabiada](https://open.spotify.com/track/0t5NQ1WnjDOD1EyhGYCKL5) | [El Kalvo](https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v), [La Banda Resabiada](https://open.spotify.com/artist/2u4Kf5tMOLnBHRlhmvxo8D) | [Nancy Resabiada](https://open.spotify.com/album/0wjYtDSpg4SkZmncZWhblL) | 4:00 | 2026-08-11 |  |
 | [Nena](https://open.spotify.com/track/3T1zkKDRBi9JRrl1fGYc5I) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ), [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [No Es Tan Simple](https://open.spotify.com/album/2iZL4xwhSTNHVgqZ1Y2TBV) | 4:00 | 2026-08-11 |  |
+| [Niña Pequeña](https://open.spotify.com/track/5fm5PiXoLoKDe62EYluoP7) | [Maria Fuell](https://open.spotify.com/artist/6bXmuG2Y5ZvquhnGyuOdic) | [Niña Pequeña](https://open.spotify.com/album/3CmVbkQjldRAJn1AzzCHBE) | 2:22 | 2026-08-14 |  |
 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2023-09-25 | 2026-08-12 |
 | [No Es Tan Simple](https://open.spotify.com/track/39arkeng7T81lC2yHM6Wvw) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ) | [No Es Tan Simple](https://open.spotify.com/album/7AOTGfAah3ni08RZbNcBP8) | 2:56 | 2023-09-25 | 2026-08-12 |
 | [No es trabajo pero cansa](https://open.spotify.com/track/1oVRCLt4Aming2SK7DM3e3) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Nochenegra](https://open.spotify.com/album/26LIPmS7mDj5y995ySUlgQ) | 4:40 | 2025-05-23 | 2026-08-12 |
@@ -180,7 +181,7 @@
 | [Sonámbulos](https://open.spotify.com/track/5WcdnmiTRE4PHzmSBwZuoA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Sonámbulos](https://open.spotify.com/album/0yGnWZZyz9iKsCzXQzhpYf) | 3:13 | 2023-09-25 | 2026-08-12 |
 | [Sucker Punch \(feat\. Dead Heat\)](https://open.spotify.com/track/050rNDY8BuoVImj6KZCbc1) | [Poison the Preacher](https://open.spotify.com/artist/3InxEfnjMqTJWqsWvHjjPU), [Dead Heat](https://open.spotify.com/artist/19iuui5P7sEZs1T7IX5Uh8) | [Sucker Punch \(feat\. Dead Heat\)](https://open.spotify.com/album/1UzWvxPC97pNLLLOvcC3BF) | 3:45 | 2026-08-11 |  |
 | [Suesca](https://open.spotify.com/track/0kypfp2rFu4yYj6VEcJ8np) | [Linamaria O.](https://open.spotify.com/artist/2dEVP1wKxAcWN6VrAi2FXx) | [Suesca](https://open.spotify.com/album/4vnyziCZ0moK6gPoQw013h) | 3:05 | 2025-03-14 | 2026-08-12 |
-| [Sí, Sí, Sí \(Fruta Fresca\)](https://open.spotify.com/track/7iZsFbTtRWvhXObEIpnjoj) | [LA FIEBRE AMARILLA](https://open.spotify.com/artist/1CPb7peXAH16YuBjakcPxg), [Maria Fuell](https://open.spotify.com/artist/6bXmuG2Y5ZvquhnGyuOdic), [Estereobeat](https://open.spotify.com/artist/4i70orTITjlYP1lDoHPsZr), [Ciegossordomudos](https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk) | [La Barra Incondicional Colombia](https://open.spotify.com/album/3GM2YdyOXYKWZ9lGAO83N6) | 0:45 | 2026-08-11 |  |
+| [Sí, Sí, Sí \(Fruta Fresca\)](https://open.spotify.com/track/7iZsFbTtRWvhXObEIpnjoj) | [LA FIEBRE AMARILLA](https://open.spotify.com/artist/1CPb7peXAH16YuBjakcPxg), [Maria Fuell](https://open.spotify.com/artist/6bXmuG2Y5ZvquhnGyuOdic), [Estereobeat](https://open.spotify.com/artist/4i70orTITjlYP1lDoHPsZr), [Ciegossordomudos](https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk) | [La Barra Incondicional Colombia](https://open.spotify.com/album/3GM2YdyOXYKWZ9lGAO83N6) | 0:45 | 2026-08-11 | 2026-08-14 |
 | [Tarantinero](https://open.spotify.com/track/1KxUzY6eWEKsXmZ6fjv1GC) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [777: A Quemarropa](https://open.spotify.com/album/231YzqIbLQ9ddB3fsVSRDg) | 4:37 | 2023-09-25 | 2025-03-15 |
 | [te odio](https://open.spotify.com/track/2xyCkGYkYIrbi5JwzCjcH8) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/6j7QHBlPi3gdLeMOqiTZAT) | 2:50 | 2026-08-11 |  |
 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 | 2023-10-07 | 2026-08-12 |

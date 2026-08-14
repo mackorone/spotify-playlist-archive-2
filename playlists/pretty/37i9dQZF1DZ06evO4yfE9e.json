@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2922,
+  "num_followers": 2923,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anpmAAAAAADHkoQ01qBwvsya5bd/CrGx",
+  "snapshot_id": "anu3gAAAAADCZWqeh97sjvXbC3DxE4ls",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steve Aoki (feat. bludnymph)",
-        "url": "https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6"
-      },
-      "artists": [
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Steve Aoki (feat. bludnymph)",
-      "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishin",
         "url": "https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 173760,
       "name": "Wishin",
       "url": "https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Steve Aoki (feat. bludnymph)",
+        "url": "https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6"
+      },
+      "artists": [
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Steve Aoki (feat. bludnymph)",
+      "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
     }
   ],
   "unique_name": "This Is bludnymph",

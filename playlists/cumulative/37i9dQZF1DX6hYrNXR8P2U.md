@@ -4,7 +4,7 @@
 
 > Isla Mujeres en portada.
 
-705 songs - 1 day 12 hr 40 min
+706 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [AUTOESTIMA](https://open.spotify.com/track/5eIMsg846G1fgvJR3tkJOK) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [AUTOESTIMA](https://open.spotify.com/album/2WIPTovvQmyBCVLBIouNOv) | 2:57 | 2025-04-11 | 2025-06-07 |
 | [Ay Mami! \(feat\. Pablo Rojas, DJ Acres\)](https://open.spotify.com/track/1Jn46nlw3HGA75rOVU1va1) | [Bruno Borlone](https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo), [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw), [Pablo Rojas](https://open.spotify.com/artist/2LTIaVNDpBXpl4OQzuhGCy), [DJ Acres](https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ) | [Ay Mami! \(feat\. Pablo Rojas, DJ Acres\)](https://open.spotify.com/album/1CVN4hkTTwhPrRmpOi2sq5) | 2:13 | 2025-12-05 | 2026-03-07 |
 | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP) | 2:59 | 2024-07-19 | 2024-09-14 |
+| [ayuda divina](https://open.spotify.com/track/1spqZ6oJxIGm5zknbTl20p) | [Isabel Isabel](https://open.spotify.com/artist/7mp9WJLhPhr2mnZQkZWjEC) | [ayuda divina](https://open.spotify.com/album/23JjSNkD6qQpq6c41hJ9hJ) | 2:17 | 2026-08-10 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-05-30 | 2025-09-13 |
 | [Bailar](https://open.spotify.com/track/1c7mns2I81sJ4QWYcvHvec) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailar](https://open.spotify.com/album/0amD7KdCrcQDorc6Ljd58H) | 3:11 | 2025-01-10 | 2025-03-08 |
 | [bajare](https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D) | [Lito](https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW) | [bajare](https://open.spotify.com/album/7H1sGpah9AY06xW4QB3rPW) | 2:27 | 2026-04-10 |  |

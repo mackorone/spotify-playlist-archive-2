@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 43912,
+  "num_followers": 43936,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGrvTGNwZ0PqQDq0r5P3smA33ghF",
+  "snapshot_id": "AAAAAGd5fgPKePUZxcT/QflFxVrL3KTi",
   "tracks": [
     {
       "added_at": "2026-08-07 09:22:30",
@@ -227,26 +227,6 @@
     {
       "added_at": "2026-08-07 09:22:30",
       "album": {
-        "name": "Mausam",
-        "url": "https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
-        }
-      ],
-      "duration_ms": 351108,
-      "name": "Ik Tu Hi Tu Hi (Mehfil Mix)",
-      "url": "https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6"
-    },
-    {
-      "added_at": "2026-08-07 09:22:30",
-      "album": {
         "name": "Mere Naal Tu (From \"Saunkan Saunkanay 2\")",
         "url": "https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 209117,
       "name": "Mere Naal Tu (From \"Saunkan Saunkanay 2\")",
       "url": "https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu"
+    },
+    {
+      "added_at": "2026-08-07 09:22:30",
+      "album": {
+        "name": "Mausam",
+        "url": "https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        }
+      ],
+      "duration_ms": 351108,
+      "name": "Ik Tu Hi Tu Hi (Mehfil Mix)",
+      "url": "https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6"
     },
     {
       "added_at": "2026-08-07 09:22:30",
@@ -475,22 +475,18 @@
     {
       "added_at": "2026-08-07 09:22:30",
       "album": {
-        "name": "Qubool Hai",
-        "url": "https://open.spotify.com/album/0YqdLvNV20CLUKQAZPfnf6"
+        "name": "Andaaz - E - Sufi",
+        "url": "https://open.spotify.com/album/7c81HIvRMeSp9DdNKBG5GX"
       },
       "artists": [
         {
           "name": "Kanwar Grewal",
           "url": "https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu"
-        },
-        {
-          "name": "Anhad Kaur",
-          "url": "https://open.spotify.com/artist/1xTTsDAwaJ17ufCVjpyV86"
         }
       ],
-      "duration_ms": 409137,
-      "name": "Qubool Hai",
-      "url": "https://open.spotify.com/track/3L0pDSx6tBEuBs6f2gk7tQ"
+      "duration_ms": 318043,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/5acSF43QLkBhy2O3Y5QLLn"
     },
     {
       "added_at": "2026-08-07 09:22:30",
@@ -579,18 +575,22 @@
     {
       "added_at": "2026-08-07 09:22:30",
       "album": {
-        "name": "Andaaz - E - Sufi",
-        "url": "https://open.spotify.com/album/7c81HIvRMeSp9DdNKBG5GX"
+        "name": "Qubool Hai",
+        "url": "https://open.spotify.com/album/0YqdLvNV20CLUKQAZPfnf6"
       },
       "artists": [
         {
           "name": "Kanwar Grewal",
           "url": "https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu"
+        },
+        {
+          "name": "Anhad Kaur",
+          "url": "https://open.spotify.com/artist/1xTTsDAwaJ17ufCVjpyV86"
         }
       ],
-      "duration_ms": 318043,
-      "name": "Ranjha",
-      "url": "https://open.spotify.com/track/5acSF43QLkBhy2O3Y5QLLn"
+      "duration_ms": 409137,
+      "name": "Qubool Hai",
+      "url": "https://open.spotify.com/track/3L0pDSx6tBEuBs6f2gk7tQ"
     },
     {
       "added_at": "2026-08-07 09:22:30",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-08-07 09:22:30",
       "album": {
-        "name": "Ek Buta Ambi Da",
-        "url": "https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i"
-      },
-      "artists": [
-        {
-          "name": "Deedar Singh Pardesi",
-          "url": "https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu"
-        }
-      ],
-      "duration_ms": 248554,
-      "name": "Raat Chanani Maen Turan",
-      "url": "https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux"
-    },
-    {
-      "added_at": "2026-08-07 09:22:30",
-      "album": {
         "name": "Treasured Moments",
         "url": "https://open.spotify.com/album/3AJVUQpGABGVVUoDvi848K"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 1174226,
       "name": "Ve Sone Diyan Kangna",
       "url": "https://open.spotify.com/track/3E765tcRR8JBqWBha6AG3Q"
+    },
+    {
+      "added_at": "2026-08-07 09:22:30",
+      "album": {
+        "name": "Ek Buta Ambi Da",
+        "url": "https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i"
+      },
+      "artists": [
+        {
+          "name": "Deedar Singh Pardesi",
+          "url": "https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu"
+        }
+      ],
+      "duration_ms": 248554,
+      "name": "Raat Chanani Maen Turan",
+      "url": "https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux"
     },
     {
       "added_at": "2026-08-07 09:22:30",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-08-07 09:22:30",
       "album": {
+        "name": "Deewani",
+        "url": "https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy"
+      },
+      "artists": [
+        {
+          "name": "Sudhir Yaduvanshi",
+          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
+        },
+        {
+          "name": "Aniket Sharma",
+          "url": "https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx"
+        }
+      ],
+      "duration_ms": 184701,
+      "name": "Deewani",
+      "url": "https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX"
+    },
+    {
+      "added_at": "2026-08-07 09:22:30",
+      "album": {
         "name": "Ranjha",
         "url": "https://open.spotify.com/album/3IKEzGl5fUUO29QdbPlc9X"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 271749,
       "name": "Dil Nu",
       "url": "https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5"
-    },
-    {
-      "added_at": "2026-08-07 09:22:30",
-      "album": {
-        "name": "Deewani",
-        "url": "https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy"
-      },
-      "artists": [
-        {
-          "name": "Sudhir Yaduvanshi",
-          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
-        },
-        {
-          "name": "Aniket Sharma",
-          "url": "https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx"
-        }
-      ],
-      "duration_ms": 184701,
-      "name": "Deewani",
-      "url": "https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX"
     },
     {
       "added_at": "2026-08-07 09:22:30",

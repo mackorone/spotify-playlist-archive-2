@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-689 songs - 1 day 14 hr 9 min
+692 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [HOLY](https://open.spotify.com/track/7l33UbLQbU2r8fKLgQtdxd) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v) | [HOLY](https://open.spotify.com/album/7L2fmrTXkZJPfFE3E0loa5) | 6:09 | 2025-11-21 | 2026-02-27 |
 | [HOLY](https://open.spotify.com/track/6cRZ4f3sng13Zr2jrYjORD) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [HOLY](https://open.spotify.com/album/1Ksfz3ws1FGDssmFc9gvrl) | 3:17 | 2025-10-03 | 2025-10-31 |
 | [HOLY \- Choir Version](https://open.spotify.com/track/2QrNCXp6HbRAcIDVT3Umra) | [Mark Success](https://open.spotify.com/artist/2UsJ6DTOfg7n99HC3aJAip) | [HOLY \(Choir Version\)](https://open.spotify.com/album/0YgIWrQZ9ssYZhv1O1FQds) | 1:40 | 2024-04-26 | 2024-07-05 |
+| [Holy God](https://open.spotify.com/track/6V3SPRoks84L79tAs9ajyM) | [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Holy God](https://open.spotify.com/album/4gPuQo6Xo1zwm5qK0PR3Sq) | 11:02 | 2026-08-14 |  |
 | [Holy Hip\-Hop](https://open.spotify.com/track/2PiygCTWtDWGfNeAFbVEoE) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Holy Hip\-Hop](https://open.spotify.com/album/4ek9Wu3eDpVLyxzwVTRBAN) | 2:17 | 2024-01-12 | 2024-02-23 |
 | [Holy Hip\-Hop II](https://open.spotify.com/track/5tfF2kMhZqYCDPBXVcQe9v) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Pwa'ashino](https://open.spotify.com/artist/3BAq1Yh9Bnz0mhMwOdBKkX) | [Holy Hip\-Hop II](https://open.spotify.com/album/739MEjClzOAKQ6JkMRzOS2) | 3:20 | 2024-08-16 | 2024-10-18 |
 | [Holy Lion \- Live](https://open.spotify.com/track/1a5o3ggaPXvJQ4jpJse1G7) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Holy Lion](https://open.spotify.com/album/0iPF450yj9uArQB1dzYGwP) | 8:36 | 2026-04-03 | 2026-06-26 |
@@ -416,6 +417,7 @@
 | [New Face](https://open.spotify.com/track/642VvtTlmNlyhq37E45xhv) | [Mr.Sbeatz](https://open.spotify.com/artist/6smtubj4mOwgz9A83p2wRr), [Esperanza](https://open.spotify.com/artist/2OESEn9e5pKa7F8oiYWBoU) | [New Face](https://open.spotify.com/album/5Vqn7jb7ztB2HkyBXp3qkt) | 3:31 | 2025-10-17 | 2025-11-21 |
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-01-19 |  |
 | [NEW MAN](https://open.spotify.com/track/5kDbguGWpYYVrPqea82REe) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [NEW MAN](https://open.spotify.com/album/2WU2dNuXAPRwQeaEo8udk2) | 2:53 | 2025-04-18 | 2025-11-28 |
+| [NO BODY](https://open.spotify.com/track/3JgEZJGDSQMVOHslGDAtDc) | [Jayron Kabuye](https://open.spotify.com/artist/7fV3a7FfqEpp9ScUzDvuqY) | [NO BODY](https://open.spotify.com/album/4jhWAVdHsvDmm7HcOUcAh7) | 3:17 | 2026-08-14 |  |
 | [No Greater Love](https://open.spotify.com/track/03RrQuBjBUuSDsYFLzv0tX) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [No Greater Love](https://open.spotify.com/album/0QOPcLOzyKusIibJ3l7KlQ) | 3:24 | 2025-03-07 | 2025-05-02 |
 | [No Holiday](https://open.spotify.com/track/6bxvTw0Yz1ZVfJYBViYRZl) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Holiday](https://open.spotify.com/album/4W9RcH0poROY0B3fowCQHC) | 2:32 | 2025-02-07 | 2025-03-28 |
 | [No Longer Slaves](https://open.spotify.com/track/3k1SRcEZGJ8RFQADgUSTcy) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [No Longer Slaves](https://open.spotify.com/album/4GlxFPsBe7r7ak8m4wAAj3) | 2:26 | 2025-01-17 | 2025-06-27 |
@@ -557,6 +559,7 @@
 | [Song Of Love](https://open.spotify.com/track/0UhMMj6DTG65TC84UxIl3V) | [Mo'Lola](https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO), [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ) | [Song Of Love](https://open.spotify.com/album/2xeDGHYMn8QUsbBZUwLRnJ) | 4:34 | 2024-02-09 | 2024-03-01 |
 | [SORO \(speak\)](https://open.spotify.com/track/5R7K57LirFdfq4cpQjaUft) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Apostle Richard Onebamoi](https://open.spotify.com/artist/1pX3Iyn0rqhwDo7vKN5tmY) | [SORO \(speak\)](https://open.spotify.com/album/7MrAxqjMlYl64mABcbRiQv) | 5:54 | 2025-01-30 | 2025-03-21 |
 | [Sparrow](https://open.spotify.com/track/2JMcODWr2bxsnum0G2Atre) | [Yimika](https://open.spotify.com/artist/5YlBgQy703VoyidAjPDzzO), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [Sparrow](https://open.spotify.com/album/5x3YLyNDrKn75OUd3ijTMX) | 2:01 | 2026-02-20 | 2026-04-24 |
+| [Speak Lord](https://open.spotify.com/track/0b7sBStWpaCPEvQVRoVmVD) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Speak Lord](https://open.spotify.com/album/1JboqcmSuZft5WePBNZJCm) | 3:50 | 2026-08-14 |  |
 | [Stand Up for Jesus](https://open.spotify.com/track/1XWRCvOmdhWGkxyId5CoBY) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Stand Up for Jesus](https://open.spotify.com/album/51ti9f8P8w3I4SZoAjBl24) | 2:40 | 2025-05-23 | 2025-08-15 |
 | [Stirring Up \- Kushim Remix](https://open.spotify.com/track/7DQBaHkzDwlUGK5JPJ9mbI) | [Before Flags](https://open.spotify.com/artist/6qZr5jzAGYYWSWVvC4IBBN), [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [Stirring Up \(Kushim Remix\)](https://open.spotify.com/album/3ImwPCszapvtdy22kLPmxJ) | 2:21 | 2023-10-20 | 2024-01-26 |
 | [SUMMER](https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [SUMMER](https://open.spotify.com/album/42lZ7fs6ZVYjOvpXvbhUu1) | 2:25 | 2024-07-26 | 2024-10-18 |

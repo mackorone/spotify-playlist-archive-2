@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-284 songs - 16 hr 38 min
+285 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Lost Souls \- Nora En Pure Remix](https://open.spotify.com/track/5LTeqr4WhuXG6ctnIjVj3t) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Ost](https://open.spotify.com/artist/6nd2xPiNkapZHlg6UvIVVx), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Moments Of Clarity \(The Remixes\)](https://open.spotify.com/album/3uUhGP880QEhqoMYGYKpII) | 3:41 | 2025-07-18 | 2026-04-18 |
 | [Lost Tonight](https://open.spotify.com/track/1xD8hBK99rAPgcwjWWnxwf) | [Saje](https://open.spotify.com/artist/3I2596dGk4K3e4qKjwpzQb) | [Lost Tonight](https://open.spotify.com/album/3tzWmKo39Q3OypyD9UbNZl) | 3:18 | 2025-07-18 | 2026-04-18 |
 | [Love Shy \- Sandgate Remix](https://open.spotify.com/track/1ABOmwAomsvuiCMtVglU5M) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Sandgate](https://open.spotify.com/artist/5PioVJlc4cBXoeTQHliaML) | [Love Shy \(Sandgate Remix\)](https://open.spotify.com/album/3eC3cVfYLin6QQ0UkvYWD8) | 3:02 | 2025-07-18 | 2026-04-18 |
+| [Love's Been Right Here](https://open.spotify.com/track/4yNioM58jjociyeM8LvLmU) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Stephanie Cooke](https://open.spotify.com/artist/0tQ6E3EZuU6HCF9SaClbI2), [Kenny Bobien](https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS) | [Love's Been Right Here](https://open.spotify.com/album/5tVBQxGLVHC0RCe6ZFSu8V) | 2:30 | 2026-08-14 |  |
 | [Love, Love, Love \- Here I Come](https://open.spotify.com/track/0k1MFlTGPkqOwz1BPFTImS) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Love, Love, Love \- Here I Come](https://open.spotify.com/album/0ZvCTm4WEuKcXbeozxcTdf) | 3:33 | 2025-07-18 |  |
 | [Love, Love, Love \- Here I Come \- Beatless Mix](https://open.spotify.com/track/2vs3iXxqRtxvTTGne50E5E) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Love, Love, Love \- Here I Come / Day One \(Beatless Mixes\)](https://open.spotify.com/album/3CJhzXPTPepxpXfjO8ljRH) | 3:33 | 2025-06-19 |  |
 | [Magnetic](https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Belle Doron](https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ) | [Magnetic](https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl) | 3:02 | 2025-06-19 |  |

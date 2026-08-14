@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 104244,
+  "num_followers": 104285,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlYd44QLU/b4METDOGH8bwQyD0I",
+  "snapshot_id": "AAAAALq3vWSXGCMDVjb7Hq68+0kNOL6Y",
   "tracks": [
     {
       "added_at": "2026-06-12 10:05:49",
@@ -755,38 +755,6 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
-        "name": "Pelo Tse Thata (feat. DJ Maphorisa)",
-        "url": "https://open.spotify.com/album/49Q8RG3DoTw58SuAZP2jSG"
-      },
-      "artists": [
-        {
-          "name": "Pabi Cooper",
-          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
-        },
-        {
-          "name": "Boohle",
-          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Mulest Vankay",
-          "url": "https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        }
-      ],
-      "duration_ms": 372168,
-      "name": "Pelo Tse Thata (feat. DJ Maphorisa)",
-      "url": "https://open.spotify.com/track/740a5PyydGEN0fDTNPwRQ7"
-    },
-    {
-      "added_at": "2026-06-12 10:05:49",
-      "album": {
         "name": "Umona",
         "url": "https://open.spotify.com/album/2h86FnfcyRYsYWFkoUDq8q"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 368588,
       "name": "Umona",
       "url": "https://open.spotify.com/track/26YYPFHWxEnft8x64CsTxW"
+    },
+    {
+      "added_at": "2026-06-12 10:05:49",
+      "album": {
+        "name": "Pelo Tse Thata (feat. DJ Maphorisa)",
+        "url": "https://open.spotify.com/album/49Q8RG3DoTw58SuAZP2jSG"
+      },
+      "artists": [
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Mulest Vankay",
+          "url": "https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "duration_ms": 372168,
+      "name": "Pelo Tse Thata (feat. DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/740a5PyydGEN0fDTNPwRQ7"
     },
     {
       "added_at": "2026-06-12 10:05:49",

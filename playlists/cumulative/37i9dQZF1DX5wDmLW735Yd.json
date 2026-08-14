@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Delta Heavy",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Andy C",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 186352,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/24HjWAn603YNmI3gSsgj2T"
@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 211300,
       "name": "Burning",
       "url": "https://open.spotify.com/track/5n1pY15l26QRpBZ0urMjvO"
@@ -5137,6 +5137,28 @@
     },
     {
       "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/7JzvA3oPCNgASsnYdaUlJC"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "Mali-Koa",
+          "url": "https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/6VHpBfCdKJeT6gEKyEedOZ"
+    },
+    {
+      "album": {
         "name": "Comedown",
         "url": "https://open.spotify.com/album/3GWl74uAhfuBmwx1de0YHW"
       },
@@ -5310,6 +5332,36 @@
       "duration_ms": 224914,
       "name": "Cous Cous",
       "url": "https://open.spotify.com/track/1AC2Np13uqqDmhNnDpMaEu"
+    },
+    {
+      "album": {
+        "name": "Crash 'N Burn",
+        "url": "https://open.spotify.com/album/3SLCN8osrpAluu6igm5xum"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        },
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "Crash 'N Burn",
+      "url": "https://open.spotify.com/track/2iFj7unOkRSbpTZ3091Jqv"
     },
     {
       "album": {
@@ -9166,7 +9218,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 226206,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
@@ -16181,6 +16233,28 @@
     },
     {
       "album": {
+        "name": "Motorola (feat. Mila Falls)",
+        "url": "https://open.spotify.com/album/3sqjFs2eZbv7T8yRdSLkBi"
+      },
+      "artists": [
+        {
+          "name": "Harriet Jaxxon",
+          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201779,
+      "name": "Motorola (feat. Mila Falls)",
+      "url": "https://open.spotify.com/track/3ouGGUedbT0g5g1yEYcvAR"
+    },
+    {
+      "album": {
         "name": "Move Your Body (Hedex Remix)",
         "url": "https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo"
       },
@@ -22983,6 +23057,28 @@
     },
     {
       "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/6MSTMW3jFWruQrveegjX5O"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/7dTulc6zDFUPUHWHrnKMwo"
+    },
+    {
+      "album": {
         "name": "Stampede",
         "url": "https://open.spotify.com/album/0AgVq85MSX0QDbsppdDe8l"
       },
@@ -25250,7 +25346,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 157241,
       "name": "Told Em",
       "url": "https://open.spotify.com/track/4YDEXNTLp1SGtENC1WAaxP"
@@ -25608,6 +25704,24 @@
       "duration_ms": 289655,
       "name": "Twice As Long",
       "url": "https://open.spotify.com/track/2CVIkGJ98ekf0cIpHsk9uR"
+    },
+    {
+      "album": {
+        "name": "U & I",
+        "url": "https://open.spotify.com/album/7nyQq9UwNu6U3PXihBCI5t"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/1AZi5pbLqIP0uHt1iiVLMH"
     },
     {
       "album": {
@@ -26644,7 +26758,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 207844,
       "name": "Watch Your Step",
       "url": "https://open.spotify.com/track/10obaeO9W5iLXoc5SUFfEi"

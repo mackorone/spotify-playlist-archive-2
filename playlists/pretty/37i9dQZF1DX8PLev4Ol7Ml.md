@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: FRUITS ZIPPER
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,740 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,753 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [恋最](https://open.spotify.com/track/292ba7CCSEWwVvydAqeF2M) | [LIT MOON](https://open.spotify.com/artist/66uHGBfcUjnieMG8Yp9YNn) | [恋最](https://open.spotify.com/album/3rBxxl66yk9qWU1ypOhRId) | 3:46 |
 | 50 | [SCRAP製作委員会](https://open.spotify.com/track/1g1MhVgjx3BofGZu0Tof5G) | [FOKALITE](https://open.spotify.com/artist/3MGnwZKDzNXiDtf1wMEmb0) | [SCRAP製作委員会](https://open.spotify.com/album/61IDp4MkqdLqgGiFLB7OtY) | 3:34 |
 
-Snapshot ID: `AAAAACp9hWvEK5TiAfKmDjIgm//DWBod`
+Snapshot ID: `AAAAAEEuLa8AxinaAzIU0glRpnX9oEsl`

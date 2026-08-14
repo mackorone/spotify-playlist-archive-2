@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 243 songs - 22 hr 44 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 242 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,8 +248,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 238 | [There's Hope In Your Eyes](https://open.spotify.com/track/4cR6cgInYHfRsgLSl4VlyM) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [There's Hope In Your Eyes](https://open.spotify.com/album/6NTcK9N518nRlmJ7h5daHz) | 3:59 |
 | 239 | [Hurricane \- Extended Mix](https://open.spotify.com/track/1sWT14jzdy9AoLg8jjWj1o) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Kingstarlight](https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx) | [Hurricane](https://open.spotify.com/album/5gPQStZ112bHjLB4Gx4JFj) | 4:49 |
 | 240 | [Satisfied](https://open.spotify.com/track/2BirbjcIsHDyoNTfzAfkyG) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied](https://open.spotify.com/album/6CImRMVY60VHBVCGysxFff) | 5:17 |
-| 241 | [Vergeben](https://open.spotify.com/track/1pxn9vFQkHsVutQKoEcAzd) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Vergeben](https://open.spotify.com/album/0OnnJO0iBVLbqfaYHtyY2s) | 5:23 |
-| 242 | [Can't Stop Loving You](https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Can't Stop Loving You](https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX) | 3:25 |
-| 243 | [Valley of the Yuccas \- Live from Joshua Tree](https://open.spotify.com/track/1ijfRk425gDo9RAV0U7BI6) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Live from Joshua Tree](https://open.spotify.com/album/5OcHrujEkMm1x4FSihxTgv) | 3:47 |
+| 241 | [Can't Stop Loving You](https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Can't Stop Loving You](https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX) | 3:25 |
+| 242 | [Valley of the Yuccas \- Live from Joshua Tree](https://open.spotify.com/track/1ijfRk425gDo9RAV0U7BI6) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Live from Joshua Tree](https://open.spotify.com/album/5OcHrujEkMm1x4FSihxTgv) | 3:47 |
 
-Snapshot ID: `AAABQgmWZnQhROcm0e627nxOAuovIBEG`
+Snapshot ID: `AAABQ450weM+pYBwYEwbZ1vlm/jRb6Oj`

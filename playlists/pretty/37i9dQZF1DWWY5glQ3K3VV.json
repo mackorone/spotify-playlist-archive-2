@@ -1,12 +1,12 @@
 {
   "description": "SPINGERE",
-  "num_followers": 117302,
+  "num_followers": 117321,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGs+JtUmbOnZj9+XETngWgjsZ9hr",
+  "snapshot_id": "AAAAABs+8fOF/Dt7WSupZhgAXSnA07qX",
   "tracks": [
     {
       "added_at": "2026-08-05 08:16:35",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191702,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
         "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
         "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 188000,
       "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
       "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191702,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
+        "name": "Leanin'",
+        "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 146285,
+      "name": "Leanin'",
+      "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
         "name": "Reinsertado 2.0",
         "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 201600,
       "name": "Sentir",
       "url": "https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
-        "name": "Leanin'",
-        "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 146285,
-      "name": "Leanin'",
-      "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
     },
     {
       "added_at": "2026-08-05 08:16:35",

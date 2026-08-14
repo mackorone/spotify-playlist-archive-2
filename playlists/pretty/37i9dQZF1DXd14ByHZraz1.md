@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,765 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,703 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Ypsilon](https://open.spotify.com/track/0uwUEWkwJTIgWLKD1VHZMr) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Ypsilon](https://open.spotify.com/album/5O8xD8uIUZ1YkRhSqdynX2) | 5:02 |
 | 50 | [Amor en Miami](https://open.spotify.com/track/0AGXJn0vNyFHJNA4B5oF13) | [Tinx & Lucas](https://open.spotify.com/artist/5Csue1GZhgZ2rMRredYxIL), [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ), [Kaala Shaw](https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf) | [Amor en Miami](https://open.spotify.com/album/4ISpV8ZnYGPjG9fnV97ucD) | 3:01 |
 
-Snapshot ID: `AAAAAEY+eVm4YwukUZWOkddhYiSsXhNW`
+Snapshot ID: `AAAAAJ8ZB1JYivwU7xiC7EAJZhL0HaKl`

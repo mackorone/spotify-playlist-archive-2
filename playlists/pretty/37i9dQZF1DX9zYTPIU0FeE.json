@@ -1,12 +1,12 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Linda Sikhakhane",
-  "num_followers": 14489,
+  "num_followers": 14496,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOdgJcFt76y5mERHcCsbhhyBllOR",
+  "snapshot_id": "AAAAAG7n9yznPBfh6jwpsrZQCnleQCjI",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:42",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "Nguwe",
-        "url": "https://open.spotify.com/album/1lbVmXMwuOaR7IGh4V47cQ"
-      },
-      "artists": [
-        {
-          "name": "Internet Athi",
-          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
-        }
-      ],
-      "duration_ms": 309303,
-      "name": "Nguwe",
-      "url": "https://open.spotify.com/track/0TqxXQxF11lNHNzpzQ8MCZ"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
         "name": "Hymn For Hani",
         "url": "https://open.spotify.com/album/1ii3szb5NzB9ssDm4Vghvg"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 716000,
       "name": "Hymn For Hani",
       "url": "https://open.spotify.com/track/1dyINry7aQw296piLxPzUB"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
+        "name": "Nguwe",
+        "url": "https://open.spotify.com/album/1lbVmXMwuOaR7IGh4V47cQ"
+      },
+      "artists": [
+        {
+          "name": "Internet Athi",
+          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
+        }
+      ],
+      "duration_ms": 309303,
+      "name": "Nguwe",
+      "url": "https://open.spotify.com/track/0TqxXQxF11lNHNzpzQ8MCZ"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
+        "name": "In The Wake",
+        "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 602023,
+      "name": "Lesedi",
+      "url": "https://open.spotify.com/track/7yCLdDtr0RBqQ36gQ0OYhO"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
         "name": "Sankofa",
         "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 243046,
       "name": "xandibona wena feat. Thandi Ntuli",
       "url": "https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
-        "name": "In The Wake",
-        "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 602023,
-      "name": "Lesedi",
-      "url": "https://open.spotify.com/track/7yCLdDtr0RBqQ36gQ0OYhO"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "Kumi Lach",
-        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
-      },
-      "artists": [
-        {
-          "name": "Yosef Gutman",
-          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Kumi Lach",
-      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
         "name": "Idabi Labantu",
         "url": "https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 305071,
       "name": "Idabi Labantu",
       "url": "https://open.spotify.com/track/6qi5vAQlXgBjWPJfvqFo5u"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
+        "name": "Kumi Lach",
+        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
+      },
+      "artists": [
+        {
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Kumi Lach",
+      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "Let The Sky Open Under Your Feet",
-        "url": "https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec"
-      },
-      "artists": [
-        {
-          "name": "Skyjack",
-          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
-        }
-      ],
-      "duration_ms": 395213,
-      "name": "Let The Sky Open Under Your Feet",
-      "url": "https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
         "name": "A Dance More Sweetly Played",
         "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 384853,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
+        "name": "Let The Sky Open Under Your Feet",
+        "url": "https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec"
+      },
+      "artists": [
+        {
+          "name": "Skyjack",
+          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+        }
+      ],
+      "duration_ms": 395213,
+      "name": "Let The Sky Open Under Your Feet",
+      "url": "https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "Come Home (feat. Filah Lah Lah)",
-        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
-      },
-      "artists": [
-        {
-          "name": "Ndabo Zulu",
-          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
-        },
-        {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
-        }
-      ],
-      "duration_ms": 366048,
-      "name": "Come Home (feat. Filah Lah Lah)",
-      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
         "name": "The Crossover II",
         "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 129998,
       "name": "Brunch In Harlem",
       "url": "https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
+        "name": "Come Home (feat. Filah Lah Lah)",
+        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
+      },
+      "artists": [
+        {
+          "name": "Ndabo Zulu",
+          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
+        },
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+        }
+      ],
+      "duration_ms": 366048,
+      "name": "Come Home (feat. Filah Lah Lah)",
+      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
       },
       "artists": [
         {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Bawo Ndi Xolele (Hymn)",
-      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
+      "duration_ms": 365000,
+      "name": "H.O.P.E",
+      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
       "artists": [
         {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
         }
       ],
-      "duration_ms": 365000,
-      "name": "H.O.P.E",
-      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
+      "duration_ms": 210666,
+      "name": "Bawo Ndi Xolele (Hymn)",
+      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+        }
+      ],
+      "duration_ms": 349750,
+      "name": "Journey of Gratitude",
+      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 236202,
       "name": "Africa",
       "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
-        "name": "P (x) J",
-        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
-      },
-      "artists": [
-        {
-          "name": "NALEDI",
-          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
-        }
-      ],
-      "duration_ms": 272120,
-      "name": "P (x) J",
-      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
     }
   ],
   "unique_name": "Jazz NEXT",

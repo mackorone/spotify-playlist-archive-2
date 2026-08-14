@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: Ink Waruntorn, SERIOUS BACON
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,591 likes - 30 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,577 likes - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 25 | [กี่ล้านดวงดาว \(From "กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/track/7LjJ6i2eyDEFwPHgr5q0dy) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [กี่ล้านดวงดาว \(From "กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/album/3O8dbbspauX5NLajUkrfr4) | 3:48 |
 | 26 | [เมื่อได้พบเธอ](https://open.spotify.com/track/5FYxzI2IqHq12NCwVToqjS) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เมื่อได้พบเธอ](https://open.spotify.com/album/0NkWqn8mAVVHsmUdpenuO1) | 3:31 |
 | 27 | [ฝากใจ](https://open.spotify.com/track/75ACbvWG7cCsdnFxToJjqM) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [BOLD](https://open.spotify.com/album/21tzslgWGyfVH7JP9o5x3n) | 4:19 |
-| 28 | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p) | 3:27 |
-| 29 | [ดีใจด้วยนะ](https://open.spotify.com/track/4NThLQDTayuRMmulVLAX8T) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI) | 4:39 |
+| 28 | [ดีใจด้วยนะ](https://open.spotify.com/track/4NThLQDTayuRMmulVLAX8T) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI) | 4:39 |
+| 29 | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p) | 3:27 |
 | 30 | [สายตาหลอกกันไม่ได้](https://open.spotify.com/track/6VLp0TwZt3N7NNmaKJIVos) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI) | 3:08 |
 
-Snapshot ID: `AAAAAF0L4z/sRUAzGp4H56DIm97HQ1r6`
+Snapshot ID: `AAAAAJfUUvju2iexfDNDXucuFB3Aww6i`

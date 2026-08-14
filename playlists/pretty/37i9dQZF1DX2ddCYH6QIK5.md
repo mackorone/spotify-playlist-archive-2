@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: SYDOW, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,626 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,618 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Hass dich heimlich](https://open.spotify.com/track/0Y0INTcnSG4U1CL7aorQZk) | [Ratte Rosa](https://open.spotify.com/artist/4agI3gWWTRQNGbGeSisz8U) | [Hass dich heimlich](https://open.spotify.com/album/7gAg33HTnJiFb1rox9tMPC) | 3:00 |
 | 50 | [Ich dachte es wär' L'Amour toujours](https://open.spotify.com/track/5rzVThaJh0gWFXjHNG12Ty) | [Amigo Altmark](https://open.spotify.com/artist/1XhVUKaD8seaza3vv32MV2) | [Ich dachte es wär' L'Amour toujours](https://open.spotify.com/album/5vQx72pKOlEeiFHkE32ruy) | 3:28 |
 
-Snapshot ID: `AAAAAFetjkIvNRcPDJfisW8om+u8fcTv`
+Snapshot ID: `AAAAAB5KH5/PfdNmWUpFecLiADdafFQS`

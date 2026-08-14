@@ -6,7 +6,7 @@
     "name": "Anything's Possible Music",
     "url": "https://open.spotify.com/user/ashdown1981"
   },
-  "snapshot_id": "AAA7c2L3w41QSDKWrH7qgVunpGzwG0Ux",
+  "snapshot_id": "AAA7dnA9T2lL9N+oA+7rpeCJTaTf9BUP",
   "tracks": [
     {
       "added_at": "2026-06-04 08:55:44",
@@ -3224,8 +3224,8 @@
       },
       "artists": [
         {
-          "name": "Killian Omara",
-          "url": "https://open.spotify.com/artist/3AS9xpatJPke7cgit9LJC0"
+          "name": "RooWave",
+          "url": "https://open.spotify.com/artist/0VRinGdW6yuWODqKMKYgyY"
         }
       ],
       "duration_ms": 172886,
@@ -3851,6 +3851,54 @@
       "duration_ms": 170657,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/5WRPtxnqTfXfGYDf1BXzRI"
+    },
+    {
+      "added_at": "2026-08-13 06:06:03",
+      "album": {
+        "name": "BEYOND REPAIR (Demo)",
+        "url": "https://open.spotify.com/album/6J4ubA3FUlE9HX22a2NuGA"
+      },
+      "artists": [
+        {
+          "name": "DYNA",
+          "url": "https://open.spotify.com/artist/1MVIESkcJtleUke23ZOIdy"
+        }
+      ],
+      "duration_ms": 142868,
+      "name": "BEYOND REPAIR - Demo",
+      "url": "https://open.spotify.com/track/2LrKTv3mmFtq8rxz89ja9p"
+    },
+    {
+      "added_at": "2026-08-13 16:53:24",
+      "album": {
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/0JPabOkFfoioyJkk5DXl9N"
+      },
+      "artists": [
+        {
+          "name": "Biernacki",
+          "url": "https://open.spotify.com/artist/1uPEP1OPYU5FmVjv64zv1g"
+        }
+      ],
+      "duration_ms": 201191,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/684NwcQYvTJx8IcHX0ypX8"
+    },
+    {
+      "added_at": "2026-08-13 16:53:36",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/3nPv3E0eHGEIDebTMjypuT"
+      },
+      "artists": [
+        {
+          "name": "Mila Sidhu",
+          "url": "https://open.spotify.com/artist/20oJy3JgS9UN5oX9Muirwk"
+        }
+      ],
+      "duration_ms": 161470,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/5uCY4Ic97K8b9iZsTri6OS"
     }
   ],
   "unique_name": "30 Days of New Unsigned Music",

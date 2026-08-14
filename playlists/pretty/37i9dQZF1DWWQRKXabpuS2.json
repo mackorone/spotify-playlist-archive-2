@@ -1,13 +1,61 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 47182,
+  "num_followers": 47190,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIFXbgTrtTJGil033a/pE0rMiSsh",
+  "snapshot_id": "AAAAAG5rbdeVcEbX+4Lecbp8oJtJxUBm",
   "tracks": [
+    {
+      "added_at": "2026-08-13 10:38:39",
+      "album": {
+        "name": "\u062a\u0645\u0633\u0643 \u0628\u064a",
+        "url": "https://open.spotify.com/album/6EReB4XNZ2sB7ovAyU3yDP"
+      },
+      "artists": [
+        {
+          "name": "Meteb Alshalan",
+          "url": "https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA"
+        }
+      ],
+      "duration_ms": 255998,
+      "name": "\u062a\u0645\u0633\u0643 \u0628\u064a",
+      "url": "https://open.spotify.com/track/3gTx8e5TLJYe1VBtmAhTdF"
+    },
+    {
+      "added_at": "2026-08-13 10:38:39",
+      "album": {
+        "name": "\u062f\u0642\u0629 \u062e\u0637\u0627\u0648\u064a\u0643",
+        "url": "https://open.spotify.com/album/4gYwRmpb0MWfSfTQ3I33y6"
+      },
+      "artists": [
+        {
+          "name": "Hamad Al Khazinah",
+          "url": "https://open.spotify.com/artist/5l9dJPTWI6qfI4IRZnbdF0"
+        }
+      ],
+      "duration_ms": 277353,
+      "name": "\u062f\u0642\u0629 \u062e\u0637\u0627\u0648\u064a\u0643",
+      "url": "https://open.spotify.com/track/3Ib9fWcBsaItPPl6n9XvU7"
+    },
+    {
+      "added_at": "2026-08-13 10:39:37",
+      "album": {
+        "name": "\u0639\u0631\u0634 \u0628\u0644\u0642\u064a\u0633",
+        "url": "https://open.spotify.com/album/3XgQHeHZYmSEFi0QrOpnxq"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "duration_ms": 230619,
+      "name": "\u0639\u0631\u0634 \u0628\u0644\u0642\u064a\u0633",
+      "url": "https://open.spotify.com/track/1sA87h1EcFMsQ3tOA5fYSF"
+    },
     {
       "added_at": "2026-07-23 13:15:21",
       "album": {

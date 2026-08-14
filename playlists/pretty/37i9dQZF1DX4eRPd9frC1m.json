@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2570654,
+  "num_followers": 2570625,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALcKz3uvPKeaNpT4bWS1ceMxntl5",
+  "snapshot_id": "AAAAAFyOXeRBLXqpzPVXO+tMaNWwiueP",
   "tracks": [
     {
       "added_at": "2026-08-07 04:02:25",
@@ -547,42 +547,6 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
-        "name": "Club XL",
-        "url": "https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        }
-      ],
-      "duration_ms": 153206,
-      "name": "Club XL",
-      "url": "https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3"
-    },
-    {
-      "added_at": "2026-08-07 04:02:25",
-      "album": {
-        "name": "Throw It Up",
-        "url": "https://open.spotify.com/album/32yCWDKsr3wEDexXr6dPZB"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 201069,
-      "name": "Throw It Up",
-      "url": "https://open.spotify.com/track/0fLLrfJ4sikNitD6sDg2ne"
-    },
-    {
-      "added_at": "2026-08-07 04:02:25",
-      "album": {
         "name": "4EVR",
         "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
       },
@@ -603,6 +567,42 @@
       "duration_ms": 191357,
       "name": "THRASH (PARTY STARTER)",
       "url": "https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM"
+    },
+    {
+      "added_at": "2026-08-07 04:02:25",
+      "album": {
+        "name": "Throw It Up",
+        "url": "https://open.spotify.com/album/32yCWDKsr3wEDexXr6dPZB"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 201069,
+      "name": "Throw It Up",
+      "url": "https://open.spotify.com/track/0fLLrfJ4sikNitD6sDg2ne"
+    },
+    {
+      "added_at": "2026-08-07 04:02:25",
+      "album": {
+        "name": "Club XL",
+        "url": "https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "duration_ms": 153206,
+      "name": "Club XL",
+      "url": "https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3"
     },
     {
       "added_at": "2026-08-07 04:02:25",
@@ -643,18 +643,22 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
-        "name": "TYNAN TIME",
-        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
+        "name": "HARD IN DA PAINT",
+        "url": "https://open.spotify.com/album/3OFU7rvRXLRudveTssJIWI"
       },
       "artists": [
         {
-          "name": "TYNAN",
-          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
         }
       ],
-      "duration_ms": 158095,
-      "name": "his name is",
-      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
+      "duration_ms": 195362,
+      "name": "HARD IN DA PAINT",
+      "url": "https://open.spotify.com/track/3CL5yUXDzK8YXCdMC8HWhr"
     },
     {
       "added_at": "2026-08-07 04:02:25",
@@ -711,22 +715,18 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
-        "name": "HARD IN DA PAINT",
-        "url": "https://open.spotify.com/album/3OFU7rvRXLRudveTssJIWI"
+        "name": "TYNAN TIME",
+        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
       },
       "artists": [
         {
-          "name": "HOL!",
-          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
         }
       ],
-      "duration_ms": 195362,
-      "name": "HARD IN DA PAINT",
-      "url": "https://open.spotify.com/track/3CL5yUXDzK8YXCdMC8HWhr"
+      "duration_ms": 158095,
+      "name": "his name is",
+      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
     },
     {
       "added_at": "2026-08-07 04:02:25",
@@ -831,22 +831,18 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
-        "name": "Homework (feat. Lancey Foux)",
-        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
+        "name": "SONG REQUEST",
+        "url": "https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
         }
       ],
-      "duration_ms": 154943,
-      "name": "Homework (feat. Lancey Foux)",
-      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
+      "duration_ms": 204923,
+      "name": "SONG REQUEST",
+      "url": "https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD"
     },
     {
       "added_at": "2026-08-07 04:02:25",
@@ -871,18 +867,22 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
-        "name": "SONG REQUEST",
-        "url": "https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz"
+        "name": "Homework (feat. Lancey Foux)",
+        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
       },
       "artists": [
         {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
         }
       ],
-      "duration_ms": 204923,
-      "name": "SONG REQUEST",
-      "url": "https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD"
+      "duration_ms": 154943,
+      "name": "Homework (feat. Lancey Foux)",
+      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
     },
     {
       "added_at": "2026-08-07 04:02:25",

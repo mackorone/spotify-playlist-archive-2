@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Lycina\u00efs Jean",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Blaiz Fayah",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 153290,
       "name": "2 min",
       "url": "https://open.spotify.com/track/7J8OTRdXb6noyWoKwlnjk6"
@@ -8935,6 +8935,24 @@
     },
     {
       "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5GTscuP4LFZBQfkpVZi4kx"
+      },
+      "artists": [
+        {
+          "name": "GG3",
+          "url": "https://open.spotify.com/artist/43e5sCG0FOvKg1k3qpLfFw"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99740,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/3uUWc98AXUKWzQM09bKbf4"
+    },
+    {
+      "album": {
         "name": "Hard & Strong",
         "url": "https://open.spotify.com/album/5nm7V9dkjdXJOQf3mzwM3b"
       },
@@ -9120,6 +9138,28 @@
       "duration_ms": 169581,
       "name": "Hit & Run (feat. Masicka & Di Genius)",
       "url": "https://open.spotify.com/track/7hgY5a1FNiChuxoSZDyaMs"
+    },
+    {
+      "album": {
+        "name": "Hit the Road Jack",
+        "url": "https://open.spotify.com/album/5OHUjo2JLl0xRZZ8DdT45A"
+      },
+      "artists": [
+        {
+          "name": "Limitlezz",
+          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
+        },
+        {
+          "name": "General Love",
+          "url": "https://open.spotify.com/artist/1WAlq8XEubGcpfKjE1e7za"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/5YkDNoRPQyHDrCgT2SSjL0"
     },
     {
       "album": {
@@ -10352,7 +10392,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 143054,
       "name": "KALMAN",
       "url": "https://open.spotify.com/track/55FdCoVTDOcWQ9VoK5HC4Z"
@@ -11926,7 +11966,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 145000,
       "name": "Lunettes",
       "url": "https://open.spotify.com/track/3puDJkxPGz3EMOJ3pVnZUJ"
@@ -15100,7 +15140,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 160440,
       "name": "pAPi - BAMBY REMIX",
       "url": "https://open.spotify.com/track/3Oc6uVENYin6N6JEwZmE9u"
@@ -15118,7 +15158,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 151465,
       "name": "PAPILLON",
       "url": "https://open.spotify.com/track/1eMqQKrCsYkAFYVdj1ybh2"
@@ -15338,6 +15378,32 @@
       "duration_ms": 156000,
       "name": "Pas Jalouse",
       "url": "https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E"
+    },
+    {
+      "album": {
+        "name": "Pas la",
+        "url": "https://open.spotify.com/album/560PkulVfAl6f6cxrOB5iz"
+      },
+      "artists": [
+        {
+          "name": "3Lettres",
+          "url": "https://open.spotify.com/artist/1bV39nWuL5NWO6NwjvsQll"
+        },
+        {
+          "name": "Foxii",
+          "url": "https://open.spotify.com/artist/5nU3O7mV2w9OiOxQFzlHEv"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Pas la",
+      "url": "https://open.spotify.com/track/6nQwiKXXk9ONeGQDTsp1Qa"
     },
     {
       "album": {
@@ -17054,7 +17120,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 206000,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/6UyTG7dDTWgNJWHpGqKiJE"
@@ -21002,6 +21068,24 @@
       "duration_ms": 187670,
       "name": "Vieux cl\u00e9bard",
       "url": "https://open.spotify.com/track/4gIMsglbc74V6os6lsRap6"
+    },
+    {
+      "album": {
+        "name": "Vitamine G",
+        "url": "https://open.spotify.com/album/4vTPFcwBgDMIFr8Wyi83aD"
+      },
+      "artists": [
+        {
+          "name": "KENZY DONA",
+          "url": "https://open.spotify.com/artist/3tVOuuZqPW4toF0vFTERMl"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Vitamine G",
+      "url": "https://open.spotify.com/track/7GlY1cM2G0neO5ZmevG6IT"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : aupinard",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Wamen x K\u00fffy",
   "name": "le miel",
   "tracks": [
     {
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 210883,
       "name": "COURSIVE",
       "url": "https://open.spotify.com/track/3NJtJXaEj4TtJo8Ep4hqjV"
@@ -9593,6 +9593,24 @@
     },
     {
       "album": {
+        "name": "SALAIRE",
+        "url": "https://open.spotify.com/album/5vUZ3OoGBB2p1FD2E9zILZ"
+      },
+      "artists": [
+        {
+          "name": "Jeeno",
+          "url": "https://open.spotify.com/artist/50Q6ncKrwwBB6P2oj6vufC"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "SALAIRE",
+      "url": "https://open.spotify.com/track/2gJIWDEOpqN2y1VoyPANki"
+    },
+    {
+      "album": {
         "name": "Sans dire au revoir",
         "url": "https://open.spotify.com/album/2tZPImOS0u8gUmIO7f2nJS"
       },
@@ -10573,6 +10591,24 @@
     },
     {
       "album": {
+        "name": "TEXTILE (acoustique)",
+        "url": "https://open.spotify.com/album/5mELB6gCvkoM9iMkAgDgBQ"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91972,
+      "name": "TEXTILE (acoustique)",
+      "url": "https://open.spotify.com/track/3qEroIllmQ3e8RSs4qs1gW"
+    },
+    {
+      "album": {
         "name": "The Love We Had",
         "url": "https://open.spotify.com/album/75rAbP2kp7LpcHbFz3uHBj"
       },
@@ -10890,7 +10926,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 158373,
       "name": "Toute seule \u00e0 la plage",
       "url": "https://open.spotify.com/track/2rSmqmk8SFCtuhlPiNwRGO"

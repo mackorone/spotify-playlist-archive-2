@@ -4,7 +4,7 @@
 
 > Dans pisti hazır! Mix yalnızca Premium'da\. Kapak: Carlita, Malive
 
-78 songs - 4 hr 32 min
+79 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [No Division](https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367) | 6:06 | 2026-05-22 | 2026-08-01 |
 | [No Gravity \- Yuvèe Remix](https://open.spotify.com/track/1xhYYjVZSIKgMLxQXcTXWE) | [Sezer Uysal](https://open.spotify.com/artist/4y0Bho33I93MMxrgsRwMOj), [Yuvèe](https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f) | [No Gravity \(Yuvèe Remix\)](https://open.spotify.com/album/3Y2kg4C4aQ9mB5bb4UQ72x) | 5:37 | 2026-05-22 |  |
 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 | 2026-05-22 | 2026-07-28 |
+| [Panjab](https://open.spotify.com/track/5lXfwFlQywqVHvLsjdRWnu) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [SPHYNX](https://open.spotify.com/artist/5IG9HaT8HgSpmYCrdjjVGw) | [Panjab](https://open.spotify.com/album/1Lkq7m0PezljuJYzz7GUBI) | 2:27 | 2026-08-10 |  |
 | [Puppet's Call](https://open.spotify.com/track/2J1SxoYU8EndVsPZzyfw5C) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Puppet's Call](https://open.spotify.com/album/4cc9NhSHzq5KgsRoXP43FT) | 4:10 | 2026-07-02 | 2026-08-01 |
 | [Return \- ELIF Remix](https://open.spotify.com/track/4b0pQPcMMjB61w8VtwGfI2) | [Tats K](https://open.spotify.com/artist/5jjJ6wZq5QffW15hshrxny), [ELIF](https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm) | [Return \(ELIF Remix\)](https://open.spotify.com/album/2rUawKllasWj2vkppuW6Ji) | 3:26 | 2026-05-22 | 2026-08-01 |
 | [Rooz O Shab](https://open.spotify.com/track/6HObf9TPe4vJQvRmRrfy0l) | [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV), [DR ZAVIN](https://open.spotify.com/artist/0e0aoMtk3zIsAkuGrsdJAM), [EyeNaz](https://open.spotify.com/artist/6x8EHJBKT3SXbif450A1HS) | [Rooz O Shab](https://open.spotify.com/album/5cIih3B1UIK9CGyRqHVi30) | 5:50 | 2026-07-31 |  |

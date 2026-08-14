@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > Rueda el balón a ritmo de La Madre de Todas las Bandas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,614 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,621 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 23 | [Seis Pies Abajo](https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:56 |
 | 24 | [El Pato Juan](https://open.spotify.com/track/1iJlcg3vmGbe0s3s7HYWb3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Esta...Si! Es Banda! Pegando Con Tubo](https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5) | 3:19 |
 | 25 | [El Jaripeo](https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Esta...Si! Es Banda! Pegando Con Tubo](https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5) | 2:39 |
-| 26 | [El Sinaloense](https://open.spotify.com/track/0As4JIfkhj2cHiSRj9kfsb) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [En Memoria: Las Canciones Preferidas de Don Cruz](https://open.spotify.com/album/4b9MByxyu2Sfb4aB9YBX7w) | 2:12 |
+| 26 | [El Sinaloense](https://open.spotify.com/track/0As4JIfkhj2cHiSRj9kfsb) | [Banda El Recodo \- Homenaje Póstumo](https://open.spotify.com/artist/6qMTJaiqfbD7HTT8Dl4L2W) | [En Memoria: Las Canciones Preferidas de Don Cruz](https://open.spotify.com/album/4b9MByxyu2Sfb4aB9YBX7w) | 2:12 |
 | 27 | [Que Solo Estoy Sin Ti](https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Parranda Con La Banda](https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq) | 3:39 |
 | 28 | [Como El Primer Día](https://open.spotify.com/track/56ztKm9mnRxqrAMEtfE07J) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Parranda Con La Banda](https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq) | 3:06 |
-| 29 | [Arrriba Pichataro](https://open.spotify.com/track/14GAOBV6m1VACDZVoshg9x) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [60 Aniversario, Vol\. 1](https://open.spotify.com/album/4ZHXY8ifNdoPPWgsG9dLPy) | 2:23 |
+| 29 | [Arriba Pichataro](https://open.spotify.com/track/14GAOBV6m1VACDZVoshg9x) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [60 Aniversario, Vol\. 1](https://open.spotify.com/album/4ZHXY8ifNdoPPWgsG9dLPy) | 2:23 |
 | 30 | [Y Llegaste Tú](https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Contigo Por Siempre](https://open.spotify.com/album/10bfwCIfySATCoekmUjeab) | 3:16 |
 | 31 | [Cada Vez Te Extraño Mas](https://open.spotify.com/track/5aMNyHXPssxFQitvrvyF7q) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Contigo Por Siempre](https://open.spotify.com/album/10bfwCIfySATCoekmUjeab) | 3:17 |
 | 32 | [La Crazy Loca](https://open.spotify.com/track/7FPJBfDvf83vU4LmVxre9O) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Contigo Por Siempre](https://open.spotify.com/album/10bfwCIfySATCoekmUjeab) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 49 | [Juan Colorado](https://open.spotify.com/track/5A40LJZRgmHQuXd9U8tMqD) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Sones Raíces](https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph) | 2:43 |
 | 50 | [El Rey](https://open.spotify.com/track/2EnTOzm8U9gSfGoRlKGuhN) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Hecho En México…Mágico](https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv) | 2:07 |
 
-Snapshot ID: `AAAAAHMQ/Y//Ou/Gnd1IOmdPubt8F2Cm`
+Snapshot ID: `AAAAANMJYXK3WJ0W2ksfgAgWJD30GyxC`

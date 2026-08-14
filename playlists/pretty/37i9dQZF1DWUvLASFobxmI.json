@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Tigres Del Norte en portada.",
-  "num_followers": 531223,
+  "num_followers": 531246,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMZrYfczYqMltQDmJc32bxv8v+lD",
+  "snapshot_id": "AAAAAL9AMkAN495r4Q7yvpquVftW1sNs",
   "tracks": [
     {
       "added_at": "2026-07-31 09:14:20",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
+        "name": "TAN FACIL",
+        "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        }
+      ],
+      "duration_ms": 162711,
+      "name": "TAN FACIL",
+      "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
         "name": "\"De Rancho en Rancho\" Vol. 1 Edicion: Guasave (En Vivo)",
         "url": "https://open.spotify.com/album/47aTy4eu806DDgrTkkpHlz"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 183428,
       "name": "El Baron del Desierto - En Vivo",
       "url": "https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
-        "name": "TAN FACIL",
-        "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Caro",
-          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
-        }
-      ],
-      "duration_ms": 162711,
-      "name": "TAN FACIL",
-      "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "Jammin' sessions",
-        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
+        "name": "Etapa Migajera",
+        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
       },
       "artists": [
         {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         }
       ],
-      "duration_ms": 183562,
-      "name": "Cosas Del Amor - Live",
-      "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
+      "duration_ms": 172202,
+      "name": "Etapa Migajera",
+      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "Etapa Migajera",
-        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
+        "name": "Jammin' sessions",
+        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
         }
       ],
-      "duration_ms": 172202,
-      "name": "Etapa Migajera",
-      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
+      "duration_ms": 183562,
+      "name": "Cosas Del Amor - Live",
+      "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "Pa' D\u00f3nde",
-        "url": "https://open.spotify.com/album/59EYpnVskaEs2RuFjwZ4fq"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        },
-        {
-          "name": "Bolela",
-          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pa' D\u00f3nde",
-      "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
         "name": "Apenas Prend\u00ed El Motor",
         "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 117866,
       "name": "Apenas Prend\u00ed El Motor",
       "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
+        "name": "Pa' D\u00f3nde",
+        "url": "https://open.spotify.com/album/59EYpnVskaEs2RuFjwZ4fq"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        },
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pa' D\u00f3nde",
+      "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "Dos Botellas De Mezcal",
-        "url": "https://open.spotify.com/album/23cru7artXa7AdyifqwPEU"
+        "name": "Jammin' sessions",
+        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
       "artists": [
         {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
         }
       ],
-      "duration_ms": 220613,
-      "name": "Dos Botellas De Mezcal",
-      "url": "https://open.spotify.com/track/0ayUOJMUh5fGejMbhdQkcp"
+      "duration_ms": 171506,
+      "name": "Gotas De Agua Dulce - Live",
+      "url": "https://open.spotify.com/track/2GTj69Y6CI9UNjiFNRSb3C"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "Jammin' sessions",
-        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
+        "name": "Dos Botellas De Mezcal",
+        "url": "https://open.spotify.com/album/23cru7artXa7AdyifqwPEU"
       },
       "artists": [
         {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
         }
       ],
-      "duration_ms": 171506,
-      "name": "Gotas De Agua Dulce - Live",
-      "url": "https://open.spotify.com/track/2GTj69Y6CI9UNjiFNRSb3C"
+      "duration_ms": 220613,
+      "name": "Dos Botellas De Mezcal",
+      "url": "https://open.spotify.com/track/0ayUOJMUh5fGejMbhdQkcp"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "EL CHAVALON",
-        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
-      },
-      "artists": [
-        {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "EL CHAVALON",
-      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
         "name": "Llamada Prohibida",
         "url": "https://open.spotify.com/album/0kCd03KyQWeyMTwVPPvvIW"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 158000,
       "name": "Llamada Prohibida",
       "url": "https://open.spotify.com/track/13pfpsGhaxPbSKZHuuc5Ni"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
+        "name": "EL CHAVALON",
+        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
+      },
+      "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "EL CHAVALON",
+      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
     },
     {
       "added_at": "2026-07-31 09:14:20",

@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 | 75 | [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 |
 | 76 | [Stingy](https://open.spotify.com/track/5yUV8Nha2gXUvVZ7BCb3As) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [It's Me, Not You](https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI) | 4:11 |
 
-Snapshot ID: `AAAAAECp2+eVSYGffa6UnHHpTGmsV0Cw`
+Snapshot ID: `AAAAAO1gl1XSPMJ3QpyBta+hFSTkuawo`

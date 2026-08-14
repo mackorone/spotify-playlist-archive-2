@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,270 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,274 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [Telia](https://open.spotify.com/track/1hM5FY0uXg0NqTaeibm2cq) | [Ioakim Fokas](https://open.spotify.com/artist/3gPQS5zS2UCbrBuRtuxiNT), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Telia](https://open.spotify.com/album/4J7LEQh6SB3UGZFvRYTH4U) | 3:53 |
 | 60 | [Plati](https://open.spotify.com/track/4h4HJ4Ukao32nesuYLFC5b) | [Stella Kalli](https://open.spotify.com/artist/4caYcw8LODY0fjoS5k9lxX) | [Ola Mou Ta S' Agapo](https://open.spotify.com/album/3UPmwIj9Uhc7Ti323agnVs) | 3:56 |
 
-Snapshot ID: `AAAAALxA5AZFzvewEpbZtuiz/YaPEQaW`
+Snapshot ID: `AAAAAFnD1wTXMphPxLOQcvlr1TbgE2l6`

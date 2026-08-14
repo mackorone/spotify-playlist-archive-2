@@ -927,6 +927,28 @@
     },
     {
       "album": {
+        "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
+        "url": "https://open.spotify.com/album/6HvRqIC1KLVpc5qNkqAgVC"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Thamizh Aadhavan",
+          "url": "https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129251,
+      "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
+      "url": "https://open.spotify.com/track/0xYYUicaDPp0VPyL0z7xzB"
+    },
+    {
+      "album": {
         "name": "Ayyayo Ammaadi (From \"Sigma\") (Tamil)",
         "url": "https://open.spotify.com/album/2ab2RcwUfgFcQB2bBxezII"
       },
@@ -1303,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101828,
+      "name": "Bloody Valentine - Instrumental",
+      "url": "https://open.spotify.com/track/1iq5WScWkug39WEweHfdXp"
+    },
+    {
+      "album": {
         "name": "Bodhai Kaname (From \"Oh Manapenne\")",
         "url": "https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ"
       },
@@ -1622,10 +1662,40 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 190048,
       "name": "Crazy Love (from the Netflix Film \"Pyaar Prema Kalyanam\")",
       "url": "https://open.spotify.com/track/4mHI5yOT8i8ZkHT7hDth0q"
+    },
+    {
+      "album": {
+        "name": "Pyaar Prema Kalyanam (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0AdWol9lj8HHZJuWewMNi7"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Snigdha Chandra",
+          "url": "https://open.spotify.com/artist/5lkP9r6eDJY1EBvu5jYgV7"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190048,
+      "name": "Crazy Love (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+      "url": "https://open.spotify.com/track/6B9pHSfSutkI7kWvAhprPK"
     },
     {
       "album": {
@@ -1914,7 +1984,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 269154,
       "name": "Edhukku Dhan Indha Kaadhal",
       "url": "https://open.spotify.com/track/7AgTsP87xw1OpQ3lmeDf6Z"
@@ -2200,7 +2270,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 205081,
       "name": "Ennai Polave",
       "url": "https://open.spotify.com/track/03SW4ub7oWUEzby2LL4qsE"
@@ -2437,6 +2507,28 @@
     },
     {
       "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247816,
+      "name": "Hangova",
+      "url": "https://open.spotify.com/track/1W8MIxJT69pJTJpAbmIBGM"
+    },
+    {
+      "album": {
         "name": "Hangova (From \"DC\")",
         "url": "https://open.spotify.com/album/5UJZXoC2VS7yzRE5c4R6Vz"
       },
@@ -2452,7 +2544,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 247816,
       "name": "Hangova (From \"DC\")",
       "url": "https://open.spotify.com/track/2MvEcJxJAxCr31kA5wHwve"
@@ -2534,6 +2626,32 @@
       "duration_ms": 246412,
       "name": "Hey Sita Hey Rama (From \"Sita Ramam (Tamil)\")",
       "url": "https://open.spotify.com/track/27KG5tsJVk9cmC0JbDsEq8"
+    },
+    {
+      "album": {
+        "name": "Pyaar Prema Kalyanam (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0AdWol9lj8HHZJuWewMNi7"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297500,
+      "name": "High On Kaadhal",
+      "url": "https://open.spotify.com/track/5mCbDAhxef5s1smT9Vi5ve"
     },
     {
       "album": {
@@ -4225,6 +4343,32 @@
     },
     {
       "album": {
+        "name": "Pyaar Prema Kalyanam (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0AdWol9lj8HHZJuWewMNi7"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Love is Beautiful",
+      "url": "https://open.spotify.com/track/4ktbqeu6NROKFgolMh4vbe"
+    },
+    {
+      "album": {
         "name": "Youth (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6F3YA8G80h2ibHt6SMIcRx"
       },
@@ -5238,7 +5382,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 166153,
       "name": "Mutta Kalakki (From \"Youth\")",
       "url": "https://open.spotify.com/track/3GNlsHDf3OH7V3LgccGAFc"
@@ -5674,7 +5818,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 204896,
       "name": "Neel Vaaname",
       "url": "https://open.spotify.com/track/7MU1QuYJkZ2UTK2zXGjle9"
@@ -5918,7 +6062,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 185062,
       "name": "Nerungatta",
       "url": "https://open.spotify.com/track/13xOVzImUS6QDlHlAH2czt"
@@ -6140,7 +6284,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 172453,
       "name": "Oar Thoorale",
       "url": "https://open.spotify.com/track/2QARTBUKy2Sm0B5DqsoqVs"
@@ -6633,6 +6777,36 @@
     },
     {
       "album": {
+        "name": "Pappali Pazhamey (From \"Meesaya Murukku 2\")",
+        "url": "https://open.spotify.com/album/5wyzLTC7raD64h30Q56pmp"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Gana Vinoth",
+          "url": "https://open.spotify.com/artist/0MmchTAod9cNvsJgXVS6xz"
+        },
+        {
+          "name": "Gana Ulagam Dharani",
+          "url": "https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7"
+        },
+        {
+          "name": "K.R.Dharan",
+          "url": "https://open.spotify.com/artist/3waLs3SAMAcObbCUrAoGxQ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206032,
+      "name": "Pappali Pazhamey (From \"Meesaya Murukku 2\")",
+      "url": "https://open.spotify.com/track/2RDQNajI8je1z7gkMW8mg1"
+    },
+    {
+      "album": {
         "name": "Paranthene Penne (From \"Youth\")",
         "url": "https://open.spotify.com/album/7KP9rdrmLHAq1N7iPceFTR"
       },
@@ -6846,6 +7020,28 @@
       "duration_ms": 211500,
       "name": "Pesaama Pesum Kannu - From \"Kalvan\"",
       "url": "https://open.spotify.com/track/18EZxvtfNcAu6t2i437pAd"
+    },
+    {
+      "album": {
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        },
+        {
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "album": {

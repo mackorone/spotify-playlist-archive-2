@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: wave to earth\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: HYNN\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,553 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,907 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
-| 2 | [hyang](https://open.spotify.com/track/2GtHsRoTWn968sy3xLfbUK) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [bad pieces](https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U) | 3:16 |
-| 3 | [I won’t even want more \(Peacock\)](https://open.spotify.com/track/7hDUPRElIrvjSmVIFQZFQX) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [I won’t even want more \(Peacock\)](https://open.spotify.com/album/0Ud5x6ghXQvkxkhFmRdk10) | 4:00 |
-| 4 | [Last Love](https://open.spotify.com/track/2JwWon35h47xXgA89STbEN) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stay: Two](https://open.spotify.com/album/2gOa5uroWd6vArXZ1u2lg5) | 4:10 |
-| 5 | [Become More Beautiful](https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Become More Beautiful](https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt) | 4:28 |
+| 2 | [Three days after](https://open.spotify.com/track/33Xaxgi8GR99MuJm8BBYIR) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Traces of Summer](https://open.spotify.com/album/4SyZZKR7SFdrzeHNtQB1RD) | 3:26 |
+| 3 | [Last Love](https://open.spotify.com/track/2JwWon35h47xXgA89STbEN) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stay: Two](https://open.spotify.com/album/2gOa5uroWd6vArXZ1u2lg5) | 4:10 |
+| 4 | [Become More Beautiful](https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Become More Beautiful](https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt) | 4:28 |
+| 5 | [hyang](https://open.spotify.com/track/2GtHsRoTWn968sy3xLfbUK) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [bad pieces](https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U) | 3:16 |
 | 6 | [Polaris](https://open.spotify.com/track/6QGqi4zoMNSxrktzLKgp4B) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy), [주시크](https://open.spotify.com/artist/5MzBor5xeZxucJb4XhAXNj) | [\[Vol\. 1\] <Happy Together>](https://open.spotify.com/album/7oL519vywzi9QiNWOEx6au) | 3:27 |
 | 7 | [Sad monologue](https://open.spotify.com/track/3qY3pZxPkWX20g7079B2E7) | [Park Ji Hyeon](https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q) | [Sad monologue \(Park Ji Hyeon X Busking Traveler 3\)](https://open.spotify.com/album/2ydO8itiJyhklQypKuseEp) | 4:33 |
 | 8 | [마음은 작별하지 않는다](https://open.spotify.com/track/3HEHMfWuwKgsOf2qIerIcR) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [사랑이 온다 \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/0JKECKaOwz3Ymv4En6LTvn) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [한마디](https://open.spotify.com/track/6j5fAwwQ0uKCYeIY42vDgU) | [Ahn Yeseul](https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl) | [한마디](https://open.spotify.com/album/6KFf9BmY8utP22He3lFMPZ) | 3:30 |
 | 100 | [When It’s Called Love](https://open.spotify.com/track/6iDfmFtNZGtXnpok8E7kbS) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON Digital Single ‘When It’s Called Love’](https://open.spotify.com/album/5cXFzlzAkJjKZU6mys5NEV) | 2:50 |
 
-Snapshot ID: `AAAAAMod3R0hlqZNqNZnUe/czeiTFUwM`
+Snapshot ID: `AAAAAAasxxv6fInkA7LrBvmTRoheUFj8`

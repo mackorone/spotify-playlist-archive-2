@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,867,282 likes - 100 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,868,673 likes - 100 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 14 | [X\-COOL! \- Slowed](https://open.spotify.com/track/3Yju0AQsjm06w7Q53xt4Ht) | [tienanh109](https://open.spotify.com/artist/2cEiz8Q3ZntEQl2rJr1An7), [HDN](https://open.spotify.com/artist/2VeycUHUfDjoYqpkOSllnn), [MC K3](https://open.spotify.com/artist/1w1IS5ufNR3HLQ0tMWYyGc) | [X\-COOL!](https://open.spotify.com/album/3PCH80fzGQH5i7YB4wvEc2) | 1:55 |
 | 15 | [MONTAGEM URANIUM \- Slowed](https://open.spotify.com/track/7N3H0T7EgeflYdKd68lvIV) | [ZAYLO](https://open.spotify.com/artist/41rOXkwf7ccICwE9yRnEKi) | [MONTAGEM URANIUM](https://open.spotify.com/album/02v4wwlrIwnowie9SrjSuY) | 1:39 |
 | 16 | [MONTAGEM DELÍRIO \- Super Slowed](https://open.spotify.com/track/1O6LIybBwZr2q9YoveyLWf) | [ZXVREN](https://open.spotify.com/artist/4jDmNbUXa1sKqBuETMJvpQ) | [MONTAGEM DELÍRIO](https://open.spotify.com/album/6EyppOUKzHlBAwB62ClQB5) | 2:05 |
-| 17 | [Party Funk](https://open.spotify.com/track/2WOC880HHZcDB2YRgiPRuX) | [Young Madz](https://open.spotify.com/artist/3ofxdYHNTybYtecPRDGENF) | [PARTY FUNK](https://open.spotify.com/album/2rHyIQPDgK3d6MB0LG1ok9) | 2:12 |
+| 17 | [Party Funk](https://open.spotify.com/track/2WOC880HHZcDB2YRgiPRuX) | [Young Madz](https://open.spotify.com/artist/3ofxdYHNTybYtecPRDGENF), [MC Zudo Boladão](https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7) | [PARTY FUNK](https://open.spotify.com/album/2rHyIQPDgK3d6MB0LG1ok9) | 2:12 |
 | 18 | [NO ERA AMOR \- Slowed](https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9) | [DJ Asul](https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe) | [NO ERA AMOR](https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU) | 1:33 |
 | 19 | [CLIMA LINDO \- SLOWED](https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp) | [GXMZ](https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02), [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko) | [CLIMA LINDO](https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH) | 1:21 |
 | 20 | [DIA DELÍCIA](https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/6bKskOvtdva3ul5sCUAiV5) | 1:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [NO REPLY](https://open.spotify.com/track/7oVgRICO5xflAGdRc8UIp9) | [NTPV](https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ), [Sei Lean](https://open.spotify.com/artist/6V2yd0Ru6yTlI9nEPaWcaO), [GodDamn](https://open.spotify.com/artist/0IGg2CHxFOsEvxt5ZY1Xj3), [Phonk King](https://open.spotify.com/artist/3SZ90ANlXjdw2hmDT4ULaW) | [NO REPLY](https://open.spotify.com/album/3vlYdF6pldcScpnudZqXJ2) | 2:08 |
 | 100 | [FUNK INFERNAL](https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y) | [DYGO](https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7), [Mxng0](https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3) | [FUNK INFERNAL](https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W) | 1:30 |
 
-Snapshot ID: `AAAAAC9AKoS4Tvrwl8tjviEfpAw6SD19`
+Snapshot ID: `AAAAAKTlOec67S+rAxPgHf6F77a5GoyD`

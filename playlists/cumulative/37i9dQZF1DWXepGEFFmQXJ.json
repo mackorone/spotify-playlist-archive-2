@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Shaboozey",
+  "description": "The cream of today's country crop. Cover: Jordan Davis",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -3953,6 +3953,28 @@
     },
     {
       "album": {
+        "name": "Closing Time",
+        "url": "https://open.spotify.com/album/4M14ePO4UooHzwWZNh2XPl"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158049,
+      "name": "Closing Time (with Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw"
+    },
+    {
+      "album": {
         "name": "Closing Time In California",
         "url": "https://open.spotify.com/album/77s1WZEMDVRT2mENUEJBzl"
       },
@@ -4706,7 +4728,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 175763,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
@@ -4944,6 +4966,24 @@
       "duration_ms": 217446,
       "name": "Damned If I Do",
       "url": "https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous"
+    },
+    {
+      "album": {
+        "name": "ashley cooke",
+        "url": "https://open.spotify.com/album/5vNtvppAHCSsUdI9dBvqEy"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238811,
+      "name": "dance around it",
+      "url": "https://open.spotify.com/track/29BOij3pNtniyS00CiQeq3"
     },
     {
       "album": {
@@ -5546,7 +5586,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 203269,
       "name": "Dirt Floor",
       "url": "https://open.spotify.com/track/6ijzG4bmEpvdDEmJCGN0jr"
@@ -9280,7 +9320,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 190157,
       "name": "Hits Me",
       "url": "https://open.spotify.com/track/7hbsfi6jiydEHGmXSQWA2m"
@@ -10118,7 +10158,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 228836,
       "name": "I Can't Love You Anymore",
       "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
@@ -12857,6 +12897,24 @@
     },
     {
       "album": {
+        "name": "Made You Look",
+        "url": "https://open.spotify.com/album/5jz9JF2g8WpsGqfc36R48A"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183366,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/2PNFJjCgX9FYjkpGttjZbC"
+    },
+    {
+      "album": {
         "name": "Made Your Bed",
         "url": "https://open.spotify.com/album/5WvxLCVOUaTSyftyLpWrFh"
       },
@@ -13382,6 +13440,24 @@
       "duration_ms": 172480,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
+    },
+    {
+      "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/3ySRESI8LQ6OoQfKjpxJTH"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159810,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/5H8s6OVuZ5hJZ0RT4rpPsf"
     },
     {
       "album": {
@@ -16042,7 +16118,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 220474,
       "name": "Raining Inside",
       "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
@@ -19540,6 +19616,24 @@
     {
       "album": {
         "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/0Oah9EbCYErHmTl68eXbCh"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185672,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/404HkGbdie5tqrkFGs1pSB"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
         "url": "https://open.spotify.com/album/01Y0pBzYfnlxvcjG9HxCym"
       },
       "artists": [
@@ -19914,7 +20008,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 161864,
       "name": "The Day I Hang It Up",
       "url": "https://open.spotify.com/track/05LCkBsBCDEcQv9nqZab41"

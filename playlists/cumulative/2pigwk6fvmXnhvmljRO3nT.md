@@ -4,7 +4,7 @@
 
 > 
 
-8,800 songs - 22 day 9 hr 27 min
+8,804 songs - 22 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2596,6 +2596,7 @@
 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 | 2025-03-25 |  |
 | [Good Time](https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Midsummer Station](https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p) | 3:25 | 2025-01-15 |  |
 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2024-12-10 |  |
+| [Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:28 | 2026-08-13 |  |
 | [Goodbye, So Long](https://open.spotify.com/track/5ttIhcEDUXCORrcBDxTYtF) | [Funk Inc.](https://open.spotify.com/artist/4E2WMVMkVEyXugsOdfLyAV) | [Superfunk](https://open.spotify.com/album/7MCnlejwp0RwkpGcaxvUkT) | 4:25 | 2025-01-03 |  |
 | [Goodbyes](https://open.spotify.com/track/4CYBfRX3oEPni9Elqm8Bnt) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:50 | 2025-01-03 |  |
 | [Goodbyes \(feat\. Young Thug\)](https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:54 | 2025-01-15 |  |
@@ -3544,6 +3545,7 @@
 | [Ketsuro](https://open.spotify.com/track/5HOoXPkuxLmZP1HdWsffVr) | [Rina Katahira](https://open.spotify.com/artist/2e8owTBZutgOq6uUnVTURB) | [Ai no Sei](https://open.spotify.com/album/0PsZH8AbKyHuyUkPcLz2oX) | 4:45 | 2025-05-26 |  |
 | [Kevin’s Heart](https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:20 | 2025-01-03 |  |
 | [Key](https://open.spotify.com/track/7K7E7LKK51PezScgsvVg9Y) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 1:05 | 2025-05-05 |  |
+| [Kibou no uta](https://open.spotify.com/track/68ixFFKB7TguskFFkB4eD5) | [DEARDROPS](https://open.spotify.com/artist/3biG6ieWoAYIWR60w5NGJj) | [My dear stardust](https://open.spotify.com/album/660QGAgfAkeRpVsFW0IHpe) | 3:42 | 2026-08-13 |  |
 | [Kichijoji 199X](https://open.spotify.com/track/2TIarrFNY6nroID7mu1Xfm) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [Persona 5 Royal: Original Soundtrack](https://open.spotify.com/album/5DFy4n6tGVadO1bqkEQw1I) | 2:16 | 2024-12-07 |  |
 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 | 2025-01-04 |  |
 | [Kids In The Dark](https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:36 | 2024-12-05 |  |
@@ -6903,6 +6905,7 @@
 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 | 2025-01-15 |  |
 | [Try Everything \- From "Zootropolis"](https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Try Everything \(From "Zootropolis"\)](https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo) | 3:16 | 2025-01-15 |  |
 | [Try Me](https://open.spotify.com/track/4ppTAJUbNXELZcoUaL90wo) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:41 | 2025-01-15 |  |
+| [Trying to Feel Alive](https://open.spotify.com/track/4W9c6wnc7ZNKiheIUMG6k7) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 4:39 | 2026-08-13 |  |
 | [TT](https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 3:32 | 2025-04-25 | 2026-05-21 |
 | [Tuba Mirum](https://open.spotify.com/track/1pFS3hKjdOcS61pnAEYM2k) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Cantus Aeternus \(Original Game Soundtrack\)](https://open.spotify.com/album/2n2LvBVabXSthRaLEDGGSe) | 1:22 | 2025-11-29 |  |
 | [Tuesday \(feat\. Drake\)](https://open.spotify.com/track/35rSpXB5bk9ega9jsjcRts) | [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I LOVE MAKONNEN](https://open.spotify.com/album/4gyGykGf5e2iGiSeVNDAyW) | 5:21 | 2025-01-03 |  |
@@ -8407,6 +8410,7 @@
 | [闇夜](https://open.spotify.com/track/7vtM2vTsBAIE3sXzmIrmkz) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS) | 3:50 | 2025-01-03 |  |
 | [限りなく灰色へ](https://open.spotify.com/track/4JqO5DZY4QsEQ5fzUA5NYK) | [東雲絵名](https://open.spotify.com/artist/7aFsPOlM4a8W7ViZ8lnUjW) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:34 | 2025-10-03 |  |
 | [陽はまた昇るから](https://open.spotify.com/track/1dRpScsBwVPG7c57gx5dSY) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/2UFCuaFyUfOuudIuzQRNeB) | 4:26 | 2025-01-15 |  |
+| [雑踏、僕らの街 \(Cover\)](https://open.spotify.com/track/0GyfVaFXVNAtn5ee9FTHeN) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.10](https://open.spotify.com/album/5dTXdRw5PSYXPwlJYitry4) | 3:08 | 2026-08-13 |  |
 | [雨とカプチーノ](https://open.spotify.com/track/7rX3Gw6nyUuMjiZqe5jyr5) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [エルマ](https://open.spotify.com/album/2jgZDVp8aoPDTAqxswhz9g) | 4:29 | 2025-01-15 |  |
 | [雨のち青天](https://open.spotify.com/track/10zauRjTKtpR363FAKz2ea) | [ShibayanRecords](https://open.spotify.com/artist/0h8tSYXnFjmrLdUSGOKNSX) | [TOHO BOSSA NOVA 3](https://open.spotify.com/album/6fwWmCRqBuFXl03lga3yyK) | 3:45 | 2026-07-12 |  |
 | [雨燦々](https://open.spotify.com/track/34PR0zLBVl7VMF9E7dDwdo) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [雨燦々](https://open.spotify.com/album/2gv7KqKXqTEfXnNOUyu85q) | 4:55 | 2025-01-03 |  |

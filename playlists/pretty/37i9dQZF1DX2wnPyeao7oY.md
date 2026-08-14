@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Sable Hills
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,325 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,368 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [Flesh and Bone](https://open.spotify.com/track/2AbOj8FBoZ17C0u3HsSiFp) | [Purified](https://open.spotify.com/artist/4PP1xBqS1H1BXen5qH6Xny) | [Flesh and Bone](https://open.spotify.com/album/5AzlgI6h3g1qJjaWEimIgu) | 2:45 |
 | 50 | [Black Rose](https://open.spotify.com/track/6fBk3Z3gIqxWjrbKVAcmtq) | [The Frst](https://open.spotify.com/artist/51pujOHRXZEQWnqgyUviVe), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Bodybox](https://open.spotify.com/artist/0umvpzkCMoxVBy0IoNpN4Q) | [Black Rose](https://open.spotify.com/album/1IZ4lQbx5NxddgZ8SCOgZM) | 3:33 |
 
-Snapshot ID: `AAAAAOtNodxl27HnE18EY8X2NaURZOWK`
+Snapshot ID: `AAAAAHq+T5aQvMl9IKW0joOFT6AFZW7y`

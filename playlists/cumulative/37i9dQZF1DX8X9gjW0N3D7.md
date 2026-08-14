@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Hansom Ēli
 
-571 songs - 1 day 7 hr 56 min
+572 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Imprudences](https://open.spotify.com/track/7y9gFcoaAmuO1hsFsakQKI) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Imprudences](https://open.spotify.com/album/3PEbqGoks0gX4m9JuKLz0F) | 3:18 | 2025-04-25 | 2025-05-17 |
 | [In My Veins](https://open.spotify.com/track/2ZDW65Ppesq4QU4vSwc4aQ) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc), [Bella Galasso](https://open.spotify.com/artist/0xOHwnESa9ODHYNWMLgZCI) | [Homegrown](https://open.spotify.com/album/5YIbqEjbabS5ivl3EqQXfk) | 2:32 | 2026-01-16 | 2026-04-11 |
 | [Insolente](https://open.spotify.com/track/1WpuopwHKPAb2dnOxLtjqP) | [Les Chiens De Ruelles](https://open.spotify.com/artist/4cgHDMFVZHOSFUOKEPbXAG) | [BTDT](https://open.spotify.com/album/6eWpV9tyWqUzpIHxPPNgIF) | 3:44 | 2024-08-16 | 2025-09-13 |
+| [Isabella](https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV) | [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Isabella](https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP) | 4:08 | 2026-08-07 |  |
 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-01-09 | 2026-03-21 |
 | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/album/6s7BXT6Pxzl0OmRJIlVxoT) | 2:52 | 2024-06-28 | 2025-06-07 |
 | [J'ai besoin de cette chance](https://open.spotify.com/track/55f3bjbsl6ih6M3wm4TcvB) | [Andréane Le May](https://open.spotify.com/artist/2NGzDvmw2CBYLEUuLKPiKe) | [J'ai besoin de cette chance](https://open.spotify.com/album/2t4yc3Lrqr7BH2a4b1SodF) | 3:31 | 2025-10-03 | 2025-11-08 |
@@ -447,7 +448,7 @@
 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 | 2024-11-23 |
 | [Rinque de même que c'est](https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Rinque de même que c'est](https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ) | 3:33 | 2026-06-19 |  |
 | [Rivière](https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Rivière](https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8) | 3:17 | 2025-11-07 | 2026-01-15 |
-| [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 | 2026-04-17 |  |
+| [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 | 2026-04-17 | 2026-08-14 |
 | [Roses](https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Something More](https://open.spotify.com/album/09TCXjNpzMmadwJdLw0x3w) | 3:55 | 2026-05-15 |  |
 | [Rouler en août](https://open.spotify.com/track/7if4mulQZiyZ9ZK4grdW3j) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Rouler en août](https://open.spotify.com/album/2nERBo365hzapvIzvDi7dU) | 4:16 | 2025-05-16 | 2025-07-05 |
 | [Râ](https://open.spotify.com/track/7bY0a9gNYwEy895mpYPtMx) | [Pastel Barbo](https://open.spotify.com/artist/3abwdC0noTf5gkzwKdXVzM) | [Râ](https://open.spotify.com/album/3T1RDxhshQMgd50oJeLmoa) | 4:07 | 2026-05-29 | 2026-08-01 |

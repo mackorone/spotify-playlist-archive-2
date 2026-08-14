@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 386 songs - 19 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 526 likes - 386 songs - 19 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -379,8 +379,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 369 | [When I Was a Little Cuckoo](https://open.spotify.com/track/6COliJJRcC2dFhuEC2RE0H) | [Charlotte Rae](https://open.spotify.com/artist/1RRFegdj7q3BQRHqjlxPgC) | [Songs I Taught My Mother](https://open.spotify.com/album/0JBxQhvCYJpGXNhgaKl4b2) | 2:33 |
 | 370 | [Porter / Orch\. Klickmann, Spialek, Russell Bennett & De Paeckh: Fifty Million Frenchmen: Overture](https://open.spotify.com/track/3anTizdPA3D58ynOdbEbzi) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [London Sinfonietta](https://open.spotify.com/artist/68kuKZp7yrgzZpoh5m6dWA), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK) | [Porter: Overtures & Within the Quota](https://open.spotify.com/album/453quw75TPiFDwhNYYg7oh) | 3:44 |
 | 371 | [A Little Rumba Numba \- From the Musical ''Let's Face It''](https://open.spotify.com/track/50ZihVZ3plSTqSkqok1Pev) | [Hildegarde](https://open.spotify.com/artist/2rRbq8hkrtbwE1tDbbWXlq) | [Let's Face It \(From the Musical ''Let's Face It''\)](https://open.spotify.com/album/1NHxATXTjt8ySrOR4Vh54G) | 3:00 |
-| 372 | [You're Too Far Away](https://open.spotify.com/track/2kgfqPDxQAt6xBKoqf1xfz) | [Muzzy Marcellino](https://open.spotify.com/artist/7uRhymmIttUu5cbYlOeX4C), [Ted Fio Rito & His Orchestra](https://open.spotify.com/artist/7DIWTRQhlpxu8KwizRVpu1) | [We Call It Jazz!, Vol\. 55](https://open.spotify.com/album/3MTcw3us3uqlwZ3WOgaiut) | 2:54 |
-| 373 | [Gigolo](https://open.spotify.com/track/2Ar4duALNV2YzlyqXrXKTv) | [Courtney Kenny](https://open.spotify.com/artist/4n35oaVa9XMujvcvhdT1OU) | [American Cabaret Songs, 1950\-2000](https://open.spotify.com/album/4Mo8QFsHZvL68i5tAfyK4Z) | 2:02 |
+| 372 | [Gigolo](https://open.spotify.com/track/2Ar4duALNV2YzlyqXrXKTv) | [Courtney Kenny](https://open.spotify.com/artist/4n35oaVa9XMujvcvhdT1OU) | [American Cabaret Songs, 1950\-2000](https://open.spotify.com/album/4Mo8QFsHZvL68i5tAfyK4Z) | 2:02 |
+| 373 | [You're Too Far Away](https://open.spotify.com/track/2kgfqPDxQAt6xBKoqf1xfz) | [Muzzy Marcellino](https://open.spotify.com/artist/7uRhymmIttUu5cbYlOeX4C), [Ted Fio Rito & His Orchestra](https://open.spotify.com/artist/7DIWTRQhlpxu8KwizRVpu1) | [We Call It Jazz!, Vol\. 55](https://open.spotify.com/album/3MTcw3us3uqlwZ3WOgaiut) | 2:54 |
 | 374 | [C'est si facile de vous aimer \(Easy to Love\)](https://open.spotify.com/track/6sPAZooZny9UycKZt7Vgkl) | [Marc Fosset Trio](https://open.spotify.com/artist/2XJm4YgjpQdlnbVcj14I5L) | [I Want to Be Happy](https://open.spotify.com/album/0I52fHQ0GcrlTVIuDWQHJf) | 3:44 |
 | 375 | [You'll Never Get Rich](https://open.spotify.com/track/15C6kgeHsiGFmQqwR7BsVQ) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 0:56 |
 | 376 | [Du bist Schuld daran](https://open.spotify.com/track/188X6WD8Bu0Sb7U4AsW4Vc) | [Caroline Kiesewetter](https://open.spotify.com/artist/72Rbr2DX6hUSA5KuyILAxd) | [Mal laut, mal leise](https://open.spotify.com/album/08EDCfCpdlA6uuafwGpJLk) | 3:08 |
@@ -395,4 +395,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 385 | [Hey, Babe, Hey!](https://open.spotify.com/track/2AtJDtWp8xywuhbGQEooyY) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Forgotten Compositions](https://open.spotify.com/album/6e8n4UEP3B71zl6G6WBvYg) | 2:29 |
 | 386 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcZafgAAAAAvNhvs+8Mn0NIomR2Rg62X`
+Snapshot ID: `AcZf9gAAAADHArqCZUbhbD79KKYX/fmz`

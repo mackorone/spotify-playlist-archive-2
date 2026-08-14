@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Intersection of R&B and afrobeats. Cover:  Nasty C & Tellaman",
+  "description": "Intersection of R&B and afrobeats. Cover: Ayra Starr ",
   "name": "afro&b ",
   "tracks": [
     {
@@ -426,6 +426,28 @@
       "duration_ms": 376242,
       "name": "Amaphutha (feat. Master KG, Lowsheen & Murumba Pitch)",
       "url": "https://open.spotify.com/track/0RTIcLHr6k9PWX7lizdyxM"
+    },
+    {
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Kwn",
+          "url": "https://open.spotify.com/artist/3CxDgsEZxVQP9Kz9SRSjt2"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "Amazing (feat. Kwn)",
+      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
     },
     {
       "album": {
@@ -1574,6 +1596,24 @@
       "duration_ms": 130565,
       "name": "Break",
       "url": "https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc"
+    },
+    {
+      "album": {
+        "name": "Break Me Down",
+        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
     },
     {
       "album": {
@@ -3442,7 +3482,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 171360,
       "name": "Fated Love",
       "url": "https://open.spotify.com/track/1R5tvVVoFebYfh46ePonVE"
@@ -6172,6 +6212,24 @@
       "duration_ms": 204382,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/6FLxB7ot3KZwjr0Zew8L7p"
+    },
+    {
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207155,
+      "name": "Letter To God",
+      "url": "https://open.spotify.com/track/12rdodvyiBOTxhaoxX53VQ"
     },
     {
       "album": {
@@ -9240,7 +9298,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 177815,
       "name": "SAGACIT\u00c9",
       "url": "https://open.spotify.com/track/7iLMhRjmsufvisk3lW4ctc"
@@ -9659,6 +9717,28 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/0GdglHmlytSouH0ZXfRRzV"
+      },
+      "artists": [
+        {
+          "name": "Hadaya Eliana",
+          "url": "https://open.spotify.com/artist/1FbR4POuJEavlbVoYnXrz1"
+        },
+        {
+          "name": "Genes1s",
+          "url": "https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168186,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/5rXWTxgm7w41aQx1w3xN7R"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -9944,6 +10024,24 @@
       "duration_ms": 218130,
       "name": "Somebody\u2019s Son (Ft Brandy)",
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
+    },
+    {
+      "album": {
+        "name": "Something In Your Love",
+        "url": "https://open.spotify.com/album/2cceY9LoDKnZBaely8PW7D"
+      },
+      "artists": [
+        {
+          "name": "Samzii",
+          "url": "https://open.spotify.com/artist/2rIRdcRrB9NuzFNWZtIdLb"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185759,
+      "name": "Something In Your Love",
+      "url": "https://open.spotify.com/track/2ZJbSKRHurdJztjNLM57bS"
     },
     {
       "album": {
@@ -10265,6 +10363,24 @@
     },
     {
       "album": {
+        "name": "Sugarcane",
+        "url": "https://open.spotify.com/album/3UpjXvU89J0X1Lyx7uAyrG"
+      },
+      "artists": [
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145617,
+      "name": "Sugarcane",
+      "url": "https://open.spotify.com/track/4UaWK6d1o295r49cTKnAPk"
+    },
+    {
+      "album": {
         "name": "Was It Something I Said?",
         "url": "https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi"
       },
@@ -10562,7 +10678,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 237134,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4kYo4gwBmu2MJVrUBeYkbO"
@@ -11048,6 +11164,24 @@
       "duration_ms": 287908,
       "name": "Toxic Arms",
       "url": "https://open.spotify.com/track/4I2IFTF3PzcpnP3q6J2GHS"
+    },
+    {
+      "album": {
+        "name": "JUNCTION",
+        "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/6aei8QEEWpulY1NiuQqZjZ"
     },
     {
       "album": {

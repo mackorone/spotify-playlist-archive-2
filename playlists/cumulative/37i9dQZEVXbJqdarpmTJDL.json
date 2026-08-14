@@ -7668,7 +7668,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 128611,
       "name": "BBB",
       "url": "https://open.spotify.com/track/4ff2Xlgyc33wNP5a8dITfj"
@@ -9064,6 +9064,24 @@
       "duration_ms": 182200,
       "name": "Blu",
       "url": "https://open.spotify.com/track/1t3EjkTyBWUAFn3690PaFG"
+    },
+    {
+      "album": {
+        "name": "BLUE CURACAO",
+        "url": "https://open.spotify.com/album/4jntlpAqQrzRmhjfUMK4zr"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152368,
+      "name": "BLUE CURACAO",
+      "url": "https://open.spotify.com/track/5tLBF4O1yatzdf8lQeQibM"
     },
     {
       "album": {
@@ -10646,7 +10664,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 196933,
       "name": "Cannes",
       "url": "https://open.spotify.com/track/6wDG7d2tf9FCIele4toCg3"
@@ -11576,7 +11594,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 203244,
       "name": "CHATGPT",
       "url": "https://open.spotify.com/track/5m9pK3a3oMIbZHThbyraDi"
@@ -13036,7 +13054,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 171433,
       "name": "C\u2019est La Vie",
       "url": "https://open.spotify.com/track/5EeOJPGZHFoxGqGdGWKr3H"
@@ -63948,7 +63966,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 155156,
       "name": "YING YANG",
       "url": "https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td"

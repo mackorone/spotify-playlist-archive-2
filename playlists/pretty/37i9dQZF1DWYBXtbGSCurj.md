@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Major RD, MC Cabelinho, Djonga
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,917 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,899 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Cê foi embora](https://open.spotify.com/track/2ttV8wYEot5jYJ8cPoPXoH) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Elow](https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M) | [Cê foi embora](https://open.spotify.com/album/6AwNYPBLq6ZD90bs7qKRUo) | 2:30 |
 | 75 | [MINHA FOME](https://open.spotify.com/track/5ZncoXYFDsodiGpxqqNQja) | [Rz Oficial](https://open.spotify.com/artist/233ruFAAEuyk91yJJTsflV), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [MINHA FOME](https://open.spotify.com/album/0pt8i9OgqttYdZkmXsyx63) | 2:21 |
 
-Snapshot ID: `AAAAABsOjIi1BMEqRzOowQX+IEfaJRh5`
+Snapshot ID: `AAAAAB6Jb7w9aj0a7K+7dIcsGoyhCkHe`

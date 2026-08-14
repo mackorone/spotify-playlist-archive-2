@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: スーパー登山部 Super Climbing Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,888 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,913 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [Flower song](https://open.spotify.com/track/1YwHV5qDZ26WwR3Jc5gqmB) | [明るい花BAND](https://open.spotify.com/artist/3KCsMG7NNZBmcvjlyNSNBX) | [Flower song](https://open.spotify.com/album/4aH8fAAcolHVIBEYehnDYs) | 3:51 |
 | 100 | [憧れ](https://open.spotify.com/track/0xM7FVImSB0oa68TLWlq3u) | [杉野菊キャラバン音楽隊](https://open.spotify.com/artist/1zMqmyXXf8tQFerQ666Kik) | [憧れ](https://open.spotify.com/album/0Dp9gc2ObpmJuoXy6Xj3a9) | 3:15 |
 
-Snapshot ID: `AAAAAANAhdSX4RlunrQXbxIq9UjtNiaL`
+Snapshot ID: `AAAAAO96J0Ew92ptIngWjRJDPzCNcTCj`

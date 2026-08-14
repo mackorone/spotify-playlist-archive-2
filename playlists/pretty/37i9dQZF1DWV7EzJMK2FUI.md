@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,307,383 likes - 200 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,307,706 likes - 200 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 199 | [Only Promises](https://open.spotify.com/track/0JjXSOMRukDpHVdTMeuUo2) | [Two steps in the street](https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN) | [Only Promises](https://open.spotify.com/album/68ako0kZwLxl3ehIYyeLat) | 2:45 |
 | 200 | [Ease Up](https://open.spotify.com/track/5ncuMqqLJnYhmXrN49ok5z) | [The Super Smart Trio](https://open.spotify.com/artist/19EdaKxdLLZPymS8It1yZC) | [Ease Up](https://open.spotify.com/album/58UwGsqrnKFQChzau97DOS) | 2:50 |
 
-Snapshot ID: `AAAAACLOZL/KRhRacF05wgC0DwRlGozv`
+Snapshot ID: `AAAAAGnZmMaYOlJQx8Qlpzb09UFBzr96`

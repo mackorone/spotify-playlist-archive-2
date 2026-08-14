@@ -4,7 +4,7 @@
 
 > We’re going to be golden!
 
-246 songs - 12 hr 47 min
+247 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Feel The Light \- From The "Home" Soundtrack](https://open.spotify.com/track/26Zco2DqGMnDIjOX0aIqER) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Feel The Light \(From The "Home" Soundtrack\)](https://open.spotify.com/album/4M3KMVcGDPrJvSXn37r54K) | 4:51 | 2022-03-25 | 2025-01-18 |
 | [Feel The Thunder \(The Croods: A New Age\)](https://open.spotify.com/track/17qLSNEfV1FSflyNzvFBAD) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Feel The Thunder \(The Croods: A New Age\)](https://open.spotify.com/album/6lOoFfBjuw789SAD75Ibdq) | 2:48 | 2022-03-25 | 2025-07-03 |
 | [Finally Free](https://open.spotify.com/track/2Z66HN2DBZz6WlhR5bSQAa) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Smallfoot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9) | 3:24 | 2022-03-25 |  |
-| [Fire Inside \- From the Netflix Film "Thelma the Unicorn"](https://open.spotify.com/track/0qKcxHh9LIiM4fX9cjraJg) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Thelma The Unicorn \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0D9M2GIdN1CfCMyVU1jgeH) | 1:54 | 2024-06-27 |  |
+| [Fire Inside \- From the Netflix Film "Thelma the Unicorn"](https://open.spotify.com/track/0qKcxHh9LIiM4fX9cjraJg) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Thelma The Unicorn \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0D9M2GIdN1CfCMyVU1jgeH) | 1:54 | 2024-06-27 | 2026-08-14 |
 | [Firework](https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2022-03-25 | 2025-07-03 |
 | [Fly](https://open.spotify.com/track/2zjRdTdYaso74GDeEzZ6FJ) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Mark Ronson Presents The Music Of "Spies In Disguise"](https://open.spotify.com/album/0EeETtjyIpQwsiqIQMHLtk) | 2:43 | 2022-03-25 | 2025-01-18 |
 | [Forever](https://open.spotify.com/track/0nELsIU1usFlFYwGiszSTK) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [The Lego Batman Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20Am1bee946Kdace8R9bC0) | 3:48 | 2022-03-25 | 2024-04-19 |
@@ -241,6 +241,7 @@
 | [When I Am Older](https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 1:51 | 2022-03-25 | 2023-12-30 |
 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 | 2022-03-25 | 2023-12-30 |
 | [Wonderful Life \(Mi Oh My\) \- From the Angry Birds Movie Original Motion Picture Soundtrack](https://open.spotify.com/track/3PQQWkpJhBvytg5TPTsU2T) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [The Angry Birds Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Sp6HR4bYIsiOBO9pPaZv8) | 3:30 | 2022-03-25 |  |
+| [Work \- from PAW Patrol: The Dino Movie](https://open.spotify.com/track/00Xuy2tVDaGt9XTfY3yUyV) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Work \(from PAW Patrol: The Dino Movie\)](https://open.spotify.com/album/2GigBQ0Qp01sJQxnLf201N) | 2:40 | 2026-08-14 |  |
 | [You Belong \(from Spirit Untamed\)](https://open.spotify.com/track/1r4W3q6EIYuHyB7bppMEOt) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [You Belong \(from Spirit Untamed\)](https://open.spotify.com/album/2rFePcmzDB288agcX9ULin) | 3:16 | 2022-03-25 | 2026-07-25 |
 | [You're Welcome](https://open.spotify.com/track/17COeLVhBWg8QMBMPyizuD) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6WcwTfjz7H5SPRFF4Hf7g5) | 2:43 | 2022-03-25 |  |
 | [You're Welcome \- From "Moana"/Soundtrack Version](https://open.spotify.com/track/2ldoyUu1SRf96pQ6G5n3gY) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 2:44 | 2022-03-25 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yThnpS6Pdp.md) - [plain]
 
 > The ultimate playlist of party anthems to get everyone on the dancefloor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,869 likes - 90 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,906 likes - 90 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yThnpS6Pdp.md) - [plain]
 | 89 | [Fade \(feat\. Kimblee\) \- Grant Nelson Big Room Remix](https://open.spotify.com/track/2MrqsdUMUzC3a02oQUbkpQ) | [Solu Music](https://open.spotify.com/artist/0lpwsK5bX64iD7GjEda5De), [KimBlee](https://open.spotify.com/artist/4OKxdPfybjZIWXLj8rml2s) | [Fade \(feat\. Kimblee\)](https://open.spotify.com/album/6BCPilvXMiQhjS9zoKRx2W) | 2:55 |
 | 90 | [Yeah Yeah \- D Ramirez Vocal Radio Edit](https://open.spotify.com/track/4HVGC52IogHANcKFA0QYiT) | [Bodyrox](https://open.spotify.com/artist/3FVJvsdVNbVmydSuI22Z5v), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [D\. Ramirez](https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz) | [Yeah Yeah](https://open.spotify.com/album/0qIj9p0MyiMJWtw9Bqc5br) | 2:41 |
 
-Snapshot ID: `AAAAAGa/sdKocky5UljkrHyTZbrtAcF1`
+Snapshot ID: `AAAAANBgzv6Gvfbzi+m2z8Tm9Old/n/W`

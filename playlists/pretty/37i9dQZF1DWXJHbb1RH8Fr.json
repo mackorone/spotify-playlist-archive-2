@@ -1,12 +1,12 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 12529,
+  "num_followers": 12526,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4VUs1bdr9DapYX7iElveRgXJWe",
+  "snapshot_id": "AAAAAFG/DE8iHNFpRk4748a7w41XV9Oe",
   "tracks": [
     {
       "added_at": "2024-03-05 11:27:00",
@@ -99,26 +99,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Mevlana Mevlevi (Turkish Mysticism Sounds)",
-        "url": "https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2"
-      },
-      "artists": [
-        {
-          "name": "Kaz\u0131m Girit",
-          "url": "https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519"
-        },
-        {
-          "name": "Murat Da\u011fl\u0131",
-          "url": "https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr"
-        }
-      ],
-      "duration_ms": 219898,
-      "name": "Huzur",
-      "url": "https://open.spotify.com/track/0KeejjurbY9OjXu8espe8s"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "Kandil 2 Ney & Ud",
         "url": "https://open.spotify.com/album/2DfVKzTfSjfcHpEHxitJVX"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 312253,
       "name": "H\u00fcseyni Saz Semaisi",
       "url": "https://open.spotify.com/track/6kyKxCLATMgXi0zDBuoW8S"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Mevlana Mevlevi (Turkish Mysticism Sounds)",
+        "url": "https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2"
+      },
+      "artists": [
+        {
+          "name": "Kaz\u0131m Girit",
+          "url": "https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519"
+        },
+        {
+          "name": "Murat Da\u011fl\u0131",
+          "url": "https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr"
+        }
+      ],
+      "duration_ms": 219898,
+      "name": "Huzur",
+      "url": "https://open.spotify.com/track/0KeejjurbY9OjXu8espe8s"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Ney Taksimleri",
+        "url": "https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD"
+      },
+      "artists": [
+        {
+          "name": "Murat Akman",
+          "url": "https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe"
+        }
+      ],
+      "duration_ms": 110493,
+      "name": "Ney'le Zalimsin Hicazkar Taksim",
+      "url": "https://open.spotify.com/track/3HmjKUnDbOGaghDFlW2yL5"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Mevlana Mevlevi (Turkish Mysticism Sounds)",
         "url": "https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 269871,
       "name": "Hakikat",
       "url": "https://open.spotify.com/track/12Uxmwn0kopbL8ejceA5sz"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Ney Taksimleri",
-        "url": "https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD"
-      },
-      "artists": [
-        {
-          "name": "Murat Akman",
-          "url": "https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe"
-        }
-      ],
-      "duration_ms": 110493,
-      "name": "Ney'le Zalimsin Hicazkar Taksim",
-      "url": "https://open.spotify.com/track/3HmjKUnDbOGaghDFlW2yL5"
     },
     {
       "added_at": "2024-03-05 11:27:00",

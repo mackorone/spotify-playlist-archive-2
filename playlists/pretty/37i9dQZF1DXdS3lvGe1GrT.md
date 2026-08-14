@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Ada Lea
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,879 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,968 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 74 | [Pearl Cloud Song](https://open.spotify.com/track/2GOC8SnvzxwJS66nKVNaBC) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Pearl Cloud Song](https://open.spotify.com/album/5CFZFveOSHzFGL3UCekS38) | 4:20 |
 | 75 | [Full Circle](https://open.spotify.com/track/3vDjuLWIztKBycG5gxHibt) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [When You Turn Around](https://open.spotify.com/album/6JL74yOq6MXK9oRRM6c4X8) | 3:15 |
 
-Snapshot ID: `AAAAAGQNSSkxTIQt9WcpqAe4t2S4WceG`
+Snapshot ID: `AAAAAPcSkpkWhvWBvaBYgXm4wfrsvUsZ`

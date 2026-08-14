@@ -1,12 +1,12 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
-  "num_followers": 37631,
+  "num_followers": 37629,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANSbdjHSkmwfGkholzupTDwgJmpp",
+  "snapshot_id": "AAAAAJShglhyq9E2k5uxR5vePIoTOzMX",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:40",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/7nK6vEIK0sdUSuEA2iD57w"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 166782,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2ovqDAWhl1pa6uWyWi1Ibi"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Backyard By The River",
         "url": "https://open.spotify.com/album/7kdKVcRUFsPY4AagcozeXt"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 169500,
       "name": "River",
       "url": "https://open.spotify.com/track/4rhnAszHuZWU0237E7cdlI"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/7nK6vEIK0sdUSuEA2iD57w"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 166782,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2ovqDAWhl1pa6uWyWi1Ibi"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Love Me Better",
-        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Wednesdays",
         "url": "https://open.spotify.com/album/3H3CoWLhNoe3Z1KP4th1Xp"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 210842,
       "name": "Wednesdays",
       "url": "https://open.spotify.com/track/131XfngivzGCdM0p9kzsAP"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "HOMECOMING",
-        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 141190,
-      "name": "HOMECOMING",
-      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Have I Lost My Magic?",
         "url": "https://open.spotify.com/album/0zWh0MPnuwAfcbEhGFpZ22"
       },
@@ -495,6 +479,38 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "HOMECOMING",
+        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 141190,
+      "name": "HOMECOMING",
+      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Hot Girl Summer",
+        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162781,
+      "name": "Hot Girl Summer",
+      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "backbone",
         "url": "https://open.spotify.com/album/5oJk44MiQxfydL5aTYU5S0"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 173414,
       "name": "backbone",
       "url": "https://open.spotify.com/track/4DR5gb0S6KOfLx5LGLjyuU"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -535,24 +567,8 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "fire",
-        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
       },
       "artists": [
         {
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 135866,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -579,22 +595,6 @@
       "duration_ms": 165206,
       "name": "Fire To The Sky",
       "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Hot Girl Summer",
-        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162781,
-      "name": "Hot Girl Summer",
-      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -631,8 +631,24 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+        "name": "Starcrossed",
+        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Starcrossed",
+      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "fire",
+        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
       "artists": [
         {
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+      "duration_ms": 135866,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -659,22 +675,6 @@
       "duration_ms": 167847,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Starcrossed",
-        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Starcrossed",
-      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "House of Glass",
-        "url": "https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 193576,
-      "name": "House of Glass",
-      "url": "https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 157540,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "House of Glass",
+        "url": "https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 193576,
+      "name": "House of Glass",
+      "url": "https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 136767,
-      "name": "You Hurt Me",
-      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 199125,
       "name": "Let Myself Go",
       "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 136767,
+      "name": "You Hurt Me",
+      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 207307,
-      "name": "As I Am",
-      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Roommates",
         "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 151250,
       "name": "Roommates",
       "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 207307,
+      "name": "As I Am",
+      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Prosecco",
-        "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
-      },
-      "artists": [
-        {
-          "name": "Hecht",
-          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
-        }
-      ],
-      "duration_ms": 199838,
-      "name": "Prosecco",
-      "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Where Do Lost Dreams Go?",
         "url": "https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 329898,
       "name": "Where Do Lost Dreams Go?",
       "url": "https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Prosecco",
+        "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
+      },
+      "artists": [
+        {
+          "name": "Hecht",
+          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
+        }
+      ],
+      "duration_ms": 199838,
+      "name": "Prosecco",
+      "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Ehrlich",
-        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
-      },
-      "artists": [
-        {
-          "name": "Baschi",
-          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
-        }
-      ],
-      "duration_ms": 230310,
-      "name": "Ehrlich",
-      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 161340,
       "name": "Low Tide",
       "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Ehrlich",
+        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
+      },
+      "artists": [
+        {
+          "name": "Baschi",
+          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
+        }
+      ],
+      "duration_ms": 230310,
+      "name": "Ehrlich",
+      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "I've Got Everything",
+        "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 181891,
+      "name": "I've Got Everything",
+      "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Take Me Dancing",
         "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
       },
@@ -1375,38 +1391,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "I've Got Everything",
-        "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 181891,
-      "name": "I've Got Everything",
-      "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Will You Take Me As I Am?",
-        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 199983,
-      "name": "Take me as i am",
-      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Hearts",
         "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 148410,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Will You Take Me As I Am?",
+        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 199983,
+      "name": "Take me as i am",
+      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Devil On My Back",
-        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "Devil On My Back",
-      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Old Again",
         "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 197458,
       "name": "Old Again",
       "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Devil On My Back",
+        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "Devil On My Back",
+      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1619,34 +1619,38 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/2VSTDIH1sT7ZzxanLuShoG"
+        "name": "Born With A Broken Heart",
+        "url": "https://open.spotify.com/album/2xilCRt00xyTgs3xW8i0Fb"
       },
       "artists": [
         {
-          "name": "Gigi Malua",
-          "url": "https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Marc Storace",
+          "url": "https://open.spotify.com/artist/3JJ2TxK8vyck6aIzU4XvVM"
         }
       ],
-      "duration_ms": 145464,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t"
+      "duration_ms": 186175,
+      "name": "Born With A Broken Heart",
+      "url": "https://open.spotify.com/track/6We5V23tVaQ7axZDfIvz8W"
     },
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Flatline",
-        "url": "https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw"
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 165867,
-      "name": "Flatline",
-      "url": "https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz"
+      "duration_ms": 171753,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
     }
   ],
   "unique_name": "Swiss Made",

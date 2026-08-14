@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 
 > <a href="spotify:artist:5YFS41yoX0YuFY39fq21oN">Bob Sinclar</a>'s favourite tracks\. Updated regularly\. Curated by Bob Sinclar\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,124 likes - 70 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,154 likes - 70 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 | 69 | [Don Dadda](https://open.spotify.com/track/36umETHgZmiWrhyZdvLiPU) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Saliva Commandos](https://open.spotify.com/artist/1KoSnTUvEhtwNeZqaZnZ9M) | [Don Dadda](https://open.spotify.com/album/44BHcTsU2XAvFUgBnN1Lh6) | 3:22 |
 | 70 | [Deep Down](https://open.spotify.com/track/3oABXSV2rnraVr5vhusLdG) | [Illyus Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Aden Rémai](https://open.spotify.com/artist/5U3Av6ofccuxkUHYtCbfXn) | [Deep Down](https://open.spotify.com/album/5DoiCmPGUBTIww7OPeJ1Ip) | 3:23 |
 
-Snapshot ID: `AAAAABmsvyC9PAqMnfW/pRTuI9TMqlT7`
+Snapshot ID: `AAAAAObl94WvvjJsEEzD4emqEQbhf6xq`

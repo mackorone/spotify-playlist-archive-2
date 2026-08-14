@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 142728,
+  "num_followers": 142829,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA9xstgSiNhMaYTP4DVIZp9wir5miNr",
+  "snapshot_id": "AAA9zK2ezGSVVdMuN5h93JUpORoHXmvO",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
     },
     {
+      "added_at": "2026-08-13 13:14:32",
+      "album": {
+        "name": "slow dance!",
+        "url": "https://open.spotify.com/album/7n3QY1L09eSXScGla1mulW"
+      },
+      "artists": [
+        {
+          "name": "Kiana Corley",
+          "url": "https://open.spotify.com/artist/6c613EFBtkzPX5Vj6C1OgG"
+        }
+      ],
+      "duration_ms": 187188,
+      "name": "slow dance!",
+      "url": "https://open.spotify.com/track/5oh4apLCPAMrCwvNoYFFr8"
+    },
+    {
       "added_at": "2026-08-03 13:46:17",
       "album": {
         "name": "Burning Pockets of Love",
@@ -1069,6 +1085,26 @@
       "url": "https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF"
     },
     {
+      "added_at": "2026-08-13 13:16:24",
+      "album": {
+        "name": "Talk to You",
+        "url": "https://open.spotify.com/album/14uUOPxK1Lt7M3WCd5RO8I"
+      },
+      "artists": [
+        {
+          "name": "Tala Silva",
+          "url": "https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J"
+        },
+        {
+          "name": "Ryoma",
+          "url": "https://open.spotify.com/artist/6KjjUJmVmLX2mcRpfq7Y0H"
+        }
+      ],
+      "duration_ms": 226956,
+      "name": "Talk to You",
+      "url": "https://open.spotify.com/track/4PicHWxTA5RGvDMDASyd63"
+    },
+    {
       "added_at": "2026-08-13 00:33:51",
       "album": {
         "name": "Fairytales",
@@ -1083,6 +1119,22 @@
       "duration_ms": 213354,
       "name": "Fairytales",
       "url": "https://open.spotify.com/track/6JU1wxWDrPU9p6oTJMzWn0"
+    },
+    {
+      "added_at": "2026-08-13 13:15:12",
+      "album": {
+        "name": "Verano!",
+        "url": "https://open.spotify.com/album/7updVHZbPfCz3VDEJ14YI8"
+      },
+      "artists": [
+        {
+          "name": "Ivana June",
+          "url": "https://open.spotify.com/artist/0uKpC8kiMcqAxihriuu7cP"
+        }
+      ],
+      "duration_ms": 223011,
+      "name": "Verano!",
+      "url": "https://open.spotify.com/track/7cN5M5xQgljTIDX65h9EF3"
     },
     {
       "added_at": "2024-08-12 20:27:59",
@@ -1667,6 +1719,22 @@
       "duration_ms": 200173,
       "name": "Stream of Dreams",
       "url": "https://open.spotify.com/track/4KkLnLRVMVshheQJtOawZL"
+    },
+    {
+      "added_at": "2026-08-13 16:25:30",
+      "album": {
+        "name": "Cease & Desist",
+        "url": "https://open.spotify.com/album/3BlodwszJG3m5XIsdFaWny"
+      },
+      "artists": [
+        {
+          "name": "The Grassring",
+          "url": "https://open.spotify.com/artist/2GyzqvnWxsjsBCtD5qiyL0"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "The Hard Rule",
+      "url": "https://open.spotify.com/track/6kzy7u6j5gg9u2Y3pEin7J"
     },
     {
       "added_at": "2026-07-14 17:52:13",
@@ -3423,22 +3491,6 @@
       "duration_ms": 197034,
       "name": "Summer Before the Fall",
       "url": "https://open.spotify.com/track/359cOk5Pd91eWSr7JkVtdd"
-    },
-    {
-      "added_at": "2026-08-02 23:09:02",
-      "album": {
-        "name": "Amigos Reales",
-        "url": "https://open.spotify.com/album/6apKUDd0yjNm0l55cluybL"
-      },
-      "artists": [
-        {
-          "name": "Alison Rios",
-          "url": "https://open.spotify.com/artist/5636FjEzpovBP9SrT0zNsc"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Amigos Reales",
-      "url": "https://open.spotify.com/track/4MM5YmLN0Knf385DUC2pfH"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

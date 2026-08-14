@@ -1,12 +1,12 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117174,
+  "num_followers": 117176,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALn3WkVVwKFEYCV1rdTyxFnrZNdw",
+  "snapshot_id": "AAAAAD3oNxb80jt97RgphD8hmV6fItPU",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:42",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Down By The Old Mainstream",
-        "url": "https://open.spotify.com/album/3JN6iTnWyTYFULRijpCtTY"
-      },
-      "artists": [
-        {
-          "name": "Golden Smog",
-          "url": "https://open.spotify.com/artist/0BLh5cn4nqfqoVUREx3hLj"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Radio King",
-      "url": "https://open.spotify.com/track/3C46CEeM0ltNQwOtPN8jRg"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "It Had To Happen",
         "url": "https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 439440,
       "name": "No More Buffalo",
       "url": "https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Down By The Old Mainstream",
+        "url": "https://open.spotify.com/album/3JN6iTnWyTYFULRijpCtTY"
+      },
+      "artists": [
+        {
+          "name": "Golden Smog",
+          "url": "https://open.spotify.com/artist/0BLh5cn4nqfqoVUREx3hLj"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Radio King",
+      "url": "https://open.spotify.com/track/3C46CEeM0ltNQwOtPN8jRg"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Strange Weirdos: Music From And Inspired By The Film Knocked Up",
-        "url": "https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9"
-      },
-      "artists": [
-        {
-          "name": "Loudon Wainwright III",
-          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "You Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Paging Mr. Proust",
         "url": "https://open.spotify.com/album/68Gfrh064D2bJfIAw2jdkn"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 186960,
       "name": "Quiet Corners & Empty Spaces",
       "url": "https://open.spotify.com/track/7crEMhx5kDsaV7hHmL0gkE"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Strange Weirdos: Music From And Inspired By The Film Knocked Up",
+        "url": "https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9"
+      },
+      "artists": [
+        {
+          "name": "Loudon Wainwright III",
+          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "You Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw"
     },
     {
       "added_at": "2026-06-19 04:01:42",

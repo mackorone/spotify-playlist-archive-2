@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Zino Vinci
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,665 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,660 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Random Yutes](https://open.spotify.com/track/372zFtfJxHdZgYxHuxtGK0) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Random Yutes](https://open.spotify.com/album/1ZblTU3ZEZ0FoBovc8omNx) | 2:38 |
 | 2 | [Champagne & Lace](https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Champagne & Lace](https://open.spotify.com/album/0BDVoMb8Ry73OcefLlnMtd) | 2:38 |
 | 3 | [Dare You/N2S](https://open.spotify.com/track/1lGlrfpVqRoSRhHaq9V3sn) | [Javán](https://open.spotify.com/artist/5Q3s71M9YsjdQNa0NTkzkE) | [Dare You/N2S](https://open.spotify.com/album/5RaZ81hlhuq2Pa0R6kOxV6) | 2:29 |
-| 4 | [levels](https://open.spotify.com/track/5WnAF1Vh2byZgn0KwOT5in) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G), [Saiming](https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68) | [levels](https://open.spotify.com/album/1fI4KwMxN0uRh3yA3XvmZJ) | 3:54 |
+| 4 | [levels](https://open.spotify.com/track/5WnAF1Vh2byZgn0KwOT5in) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G), [Saiming](https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68) | [levels](https://open.spotify.com/album/1fI4KwMxN0uRh3yA3XvmZJ) | 3:53 |
 | 5 | [Dripkid](https://open.spotify.com/track/1QmRkbvG3b4DNhzKiET5EV) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc), [faldwight](https://open.spotify.com/artist/1ZuMy2aXQ7tzw2uzfH5x9u) | [Dripkid](https://open.spotify.com/album/7mXlw7bMEiG6j4NR1mJ2a4) | 2:49 |
 | 6 | [future millionaire \(couldn't care less\)](https://open.spotify.com/track/3tu97lTFhy5Xz2ZiUqN4zQ) | [Heroic Dragon](https://open.spotify.com/artist/4d1z8SbLjVUT8qd7kMvBdk) | [future millionaire \(couldn't care less\)](https://open.spotify.com/album/0UIzQ1OStPtWn6vL2uQyds) | 1:53 |
 | 7 | [Oiii DJ](https://open.spotify.com/track/4PnPLsW50W3AoX8gYf3e7i) | [£MONZO](https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv) | [Oiii DJ](https://open.spotify.com/album/2pAjAum20KgmBY3aCeTkII) | 2:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [DARLING](https://open.spotify.com/track/2zq3pwi2tlf96KbnZqDYvq) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [DARLING](https://open.spotify.com/album/0HJRLdzJ0Y6phDRCBg6i7u) | 3:15 |
 | 70 | [LEGACY](https://open.spotify.com/track/3e82RF8rwQYOpCwjLSu6gA) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [LEGACY](https://open.spotify.com/album/480cO3M1pWRyGwxnYb0hxF) | 2:14 |
 
-Snapshot ID: `AAAAAGT9j1lKiZ9RzR7Q2IOpB/YDUDQJ`
+Snapshot ID: `AAAAAPneG8lZ/a/6nxgAtbc179AUM7AM`

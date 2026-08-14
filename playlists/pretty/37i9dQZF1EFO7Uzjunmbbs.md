@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 89 | [My Kinda People](https://open.spotify.com/track/6pgvPF8fhAWUf0rzuy2IB1) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:02 |
 | 90 | [Next Best Thing](https://open.spotify.com/track/7wgCP1PkbVrypoerM10Odj) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [to be honest](https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25) | 3:49 |
 | 91 | [Motel Flamingo](https://open.spotify.com/track/3o4n673cQvRJ0mON7vg5pF) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Motel Flamingo](https://open.spotify.com/album/3qxC1n7VT78zERw6tUByxR) | 3:32 |
-| 92 | [Everybody Gonna Talk](https://open.spotify.com/track/18HjTiUz8CapH4BFB0Jrwz) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:09 |
-| 93 | [When Nothing Hurts](https://open.spotify.com/track/2fA9HIEg0WAzdGVKMINAXp) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 3:25 |
+| 92 | [When Nothing Hurts](https://open.spotify.com/track/2fA9HIEg0WAzdGVKMINAXp) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 3:25 |
+| 93 | [Everybody Gonna Talk](https://open.spotify.com/track/18HjTiUz8CapH4BFB0Jrwz) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:09 |
 | 94 | [shot in the dark](https://open.spotify.com/track/4hYYFdTNjBRgKY3q38MLIg) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 2:53 |
 | 95 | [Our Love Glows \(feat\. Lady Antebellum\)](https://open.spotify.com/track/3QUtbFgjjnAHTtLup31xVa) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Neon Future III](https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV) | 2:53 |
 | 96 | [Country In Me](https://open.spotify.com/track/6lQ8oqbyVAp8nNPQAKELFq) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Getting Good](https://open.spotify.com/album/4dKNidNDeT9LaPwjzrKv6c) | 3:20 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 215 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 216 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcZaYAAAAABqFxNQrOsx7w9TsPlja6XN`
+Snapshot ID: `AcZgAAAAAAD3odjXZCX98uwRGe2l1PBb`

@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Dis\-moi où" de Julien Lieb et OTTA est le Grand Hit de la semaine.
+> "Frérot" de Jérémy Frerot est le Grand Hit de la semaine.
 
-345 songs - 17 hr 37 min
+346 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Crush](https://open.spotify.com/track/5xAZbiKC3j8IVU3XQUybZ4) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Crush](https://open.spotify.com/album/6UqCMBGylvsiza6n6F5e6U) | 3:12 | 2023-09-28 | 2024-04-26 |
 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 | 2023-09-28 | 2024-03-08 |
 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 | 2023-09-28 | 2023-12-09 |
-| [Dansons](https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Dansons](https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5) | 3:26 | 2026-04-23 |  |
+| [Dansons](https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Dansons](https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5) | 3:26 | 2026-04-23 | 2026-08-14 |
 | [Derniers humains](https://open.spotify.com/track/1hIiHu1M2Lb42pe8Nktbfx) | [Christophe Mali](https://open.spotify.com/artist/5rpAfk1bTwhl9lXqxW6OGa), [Lucie Lebrun](https://open.spotify.com/artist/35BETn8HHfVHitMw8TTtJp), [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Derniers humains](https://open.spotify.com/album/7evFIy8Cj5iyiow2xrFZg1) | 2:44 | 2024-05-23 | 2024-07-27 |
 | [Dernière](https://open.spotify.com/track/1PC25sIu8MEzagtD44W9do) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/1DO9NnnNHJHstVla096ryH) | 3:23 | 2023-09-28 | 2023-11-11 |
 | [Dernière danse](https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Dernière danse](https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q) | 3:11 | 2023-09-28 | 2024-04-26 |
@@ -312,6 +312,7 @@
 | [Stigmate \- Radio Edit](https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Stigmate \(Radio Edit\)](https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf) | 2:25 | 2024-01-25 | 2024-02-09 |
 | [Summer Body](https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Pas de seum pour le summer](https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA) | 2:59 | 2024-07-04 | 2025-01-10 |
 | [Sur la piste](https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Sur la piste](https://open.spotify.com/album/16vXhWhUZhSLmRDuljs5ui) | 2:52 | 2026-07-23 |  |
+| [Systaime](https://open.spotify.com/track/03P7mOAnyLr6T8uIGGU9Pr) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Systaime](https://open.spotify.com/album/3WPu1zUqJ9nWCsjeIqTe4t) | 2:34 | 2026-08-13 |  |
 | [T'en aller](https://open.spotify.com/track/59MVdyazjn9ExcL2C8xuTY) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [T'en aller](https://open.spotify.com/album/00nbP0PHv8JjqtS82B1hYN) | 3:11 | 2024-10-17 | 2025-04-18 |
 | [Ta peine](https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R) | 2:44 | 2024-02-29 | 2024-06-21 |
 | [Tant pis pour elle](https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw) | 2:38 | 2025-09-18 | 2026-07-24 |

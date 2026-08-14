@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: rumbos.
 
-761 songs - 1 day 15 hr 26 min
+764 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Asmr para Ti](https://open.spotify.com/track/1GoxaGq8RW3tKIGfbAMALM) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Asmr para Ti](https://open.spotify.com/album/6ssqYbEUWuliYeDOg2R6SK) | 3:00 | 2025-07-24 |  |
 | [Atea](https://open.spotify.com/track/7ewzTvhvVzmxK4VftnH0AZ) | [NIÑA COYOTE eta CHICO TORNADO](https://open.spotify.com/artist/4QlaoCIrTZjyl1M6TaDUEW) | [Atea](https://open.spotify.com/album/7aunMQw78a4Z5pllz06ken) | 3:39 | 2025-05-01 | 2025-06-06 |
 | [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-21 | 2025-01-24 |
+| [AURA](https://open.spotify.com/track/4DRqeEke8KlH8FU1J3DyCd) | [Oslo Ovnies](https://open.spotify.com/artist/3KSBsxMjBEZCxmrj0GEWJI) | [AURA](https://open.spotify.com/album/11SyyZjjwvrUYJuu0dhl12) | 2:36 | 2026-08-13 |  |
 | [Autocine](https://open.spotify.com/track/3sn8PJGtBOpb4ktUgQJYMQ) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Autocine](https://open.spotify.com/album/0I3rZBB5lbYlHEAGuPEokP) | 2:41 | 2025-03-20 | 2025-06-11 |
 | [AUTÓMATA](https://open.spotify.com/track/5oik3K9Zah7EUZkMMRZAim) | [Martes Mal](https://open.spotify.com/artist/55kgOTb4zLb5sHTZJ49mVR) | [LAS INCREÍBLES AVENTURAS DE TOÑO TERREMOTO](https://open.spotify.com/album/20CcwSEJkwFWqR7WATrpQl) | 2:31 | 2026-04-30 |  |
 | [Avril Lavigne](https://open.spotify.com/track/60bTk1SlT5iqTe8Ns7LKaW) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Tus Cosas En Una Caja \(Deluxe\)](https://open.spotify.com/album/5QObzw8RDkekcaheeUi8Rn) | 2:04 | 2025-09-25 | 2025-10-17 |
@@ -85,6 +86,7 @@
 | [Barrio](https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL) | [Impacto Vudu](https://open.spotify.com/artist/4q9S9g5IA3WQtjeNa11obo) | [Barrio](https://open.spotify.com/album/0ltN0HsRNUxEB1OsFuiH93) | 3:05 | 2024-06-27 | 2024-12-06 |
 | [Barro](https://open.spotify.com/track/6HUvZJPij7HhU2nyBMoBdI) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [Barro](https://open.spotify.com/album/5Ej715h0WyeMNleYBPM99u) | 2:01 | 2026-06-18 |  |
 | [Bats \- Bonus Track](https://open.spotify.com/track/1MrCEloTvLxizWYBaCsJcF) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [VIVA HINDS](https://open.spotify.com/album/4uZYu8YuWfnDcEAnmJ0UQj) | 3:03 | 2024-10-04 | 2024-10-25 |
+| [BB](https://open.spotify.com/track/4p7Tq8pkiuIbcF97cxoATa) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [BB](https://open.spotify.com/album/6w3974TILTOMBKzUloUpjJ) | 2:42 | 2026-08-13 |  |
 | [Benito el aparejador](https://open.spotify.com/track/6i8ZEKYyMjSIIptOea9EBq) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Benito el aparejador](https://open.spotify.com/album/4nBWA6NMAHZhzAfIulGWse) | 2:20 | 2025-09-18 | 2026-02-20 |
 | [Bestia del Abismo](https://open.spotify.com/track/7qYyTfMnyZ212UpTLa3J4f) | [Medalla](https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet) | [Bestia del Abismo](https://open.spotify.com/album/51dDr8Nk0YWXm8wzHO63no) | 4:08 | 2025-09-18 | 2025-10-17 |
 | [Bigger Splash](https://open.spotify.com/track/1Iglg0BzSGKUh1bdoloFpb) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Bigger Splash](https://open.spotify.com/album/3FQsXp0okLvibv2KLf56f6) | 4:30 | 2026-07-09 |  |
@@ -168,7 +170,7 @@
 | [Demasiados Deseos](https://open.spotify.com/track/1A6dbG3FyqNIt3uQbQDSPu) | [el momento incómodo](https://open.spotify.com/artist/5aWqwamv84KqpNLOestUqh) | [Demasiados Deseos](https://open.spotify.com/album/7HsP5xchqdjIduuOr5tGTy) | 2:53 | 2025-02-27 | 2025-03-14 |
 | [Denver, Colorado](https://open.spotify.com/track/5M20UikR4ugUlgOCdvMW86) | [Señor Torrance](https://open.spotify.com/artist/7uaAm14EP7uflcACRPYAD6) | [Denver, Colorado](https://open.spotify.com/album/7wrVeoKSUxmXjyO96OtQQc) | 3:46 | 2026-04-23 |  |
 | [DEPRIMIDA PERO ALTERNATIVA](https://open.spotify.com/track/52zFhF23fcJ9nOsPTufKtg) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [DEPRIMIDA PERO ALTERNATIVA](https://open.spotify.com/album/0heEVcwGbnziEE8tkMLbaC) | 2:49 | 2026-02-19 |  |
-| [DESDE QUE YA NO ESTÁS](https://open.spotify.com/track/48lc61H6BvktrqOjeT9CrK) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [DESDE QUE YA NO ESTÁS](https://open.spotify.com/album/2si1JsqL9dqY0ZDJLJscsW) | 3:27 | 2026-07-16 |  |
+| [DESDE QUE YA NO ESTÁS](https://open.spotify.com/track/48lc61H6BvktrqOjeT9CrK) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [DESDE QUE YA NO ESTÁS](https://open.spotify.com/album/2si1JsqL9dqY0ZDJLJscsW) | 3:27 | 2026-07-16 | 2026-08-14 |
 | [desespero](https://open.spotify.com/track/01LTw1am3qHNvSWogwZMK5) | [BALONCESTO](https://open.spotify.com/artist/37KpgwJAlQfKRRwdEkv1CO) | [desespero](https://open.spotify.com/album/5R4cWGgf5Gkee4ISJouCaX) | 2:12 | 2026-06-25 |  |
 | [Deshielo](https://open.spotify.com/track/2O31y8p7s2Iewo6tXILtWF) | [Ecos del Cierzo](https://open.spotify.com/artist/29kY0iavpytP7srVoxmoVz) | [Deshielo](https://open.spotify.com/album/7kF5hajZBpYYjymBr50cpC) | 4:03 | 2025-08-14 | 2025-09-12 |
 | [Despedida \(de una vez por todas\)](https://open.spotify.com/track/1ciUi9ir51csJiBOrYq7yG) | [La 126](https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY) | [Despedida \(de una vez por todas\)](https://open.spotify.com/album/6elwDlEkgkBIuYCEDHqHRr) | 2:44 | 2026-05-07 |  |
@@ -360,6 +362,7 @@
 | [La Torre Picasso](https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [La Torre Picasso](https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq) | 8:04 | 2024-09-12 | 2025-08-22 |
 | [La Trinidad No Paga Traidores](https://open.spotify.com/track/1pPDwSfFzRJCjL9xrOcOMC) | [La Trinidad](https://open.spotify.com/artist/15KUuOUuBqWGiInJr8dZah) | [La Trinidad No Paga Traidores](https://open.spotify.com/album/1BoXNKQyGWzZYCu3j1myIT) | 4:03 | 2026-04-30 | 2026-05-08 |
 | [La Vida Cañón](https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 2:32 | 2024-06-27 | 2025-10-03 |
+| [Laia](https://open.spotify.com/track/22R4mlAgYegIjaJsQdz6Xp) | [Diagnóstico Binario](https://open.spotify.com/artist/4toUuM31r6QCBRJcCKh7ad) | [Laia](https://open.spotify.com/album/3xyYfmdnOpkU8lePnIV1oM) | 3:24 | 2026-08-13 |  |
 | [Lamine Yamal](https://open.spotify.com/track/20y4yD5ytJN0pRfVWJUruc) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Lamine Yamal](https://open.spotify.com/album/02nmVvMMHW9BANuTzBpUDe) | 2:52 | 2026-06-18 |  |
 | [LAPSUS](https://open.spotify.com/track/5gaHUShVDYB2kn5s0xzIAi) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [LAPSUS](https://open.spotify.com/album/50MmSo6jaCpsBd585e4oOP) | 4:20 | 2026-02-26 |  |
 | [Las Colinas Van A Ciegas](https://open.spotify.com/track/4QQE9hgpoFqNhNon1QYrf7) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [Alas De Piedra](https://open.spotify.com/album/3eyb8TYEES1GrS4KBFetMI) | 2:30 | 2026-03-12 | 2026-03-20 |
@@ -454,7 +457,7 @@
 | [Mundo hostil](https://open.spotify.com/track/4Bpitmd7bXb7sQm7ID8RUg) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Mundo hostil](https://open.spotify.com/album/5F20WyirAP1yfVDq2Zx90A) | 2:48 | 2026-01-15 | 2026-03-06 |
 | [Murakami](https://open.spotify.com/track/39gCPFKyoopu1YUdxJVdOU) | [Joaquín Fénix](https://open.spotify.com/artist/4nElXUxyGrDvNpZrbyU6Tg) | [Murakami](https://open.spotify.com/album/1UkCBbIJH8qR7huS9367qr) | 2:36 | 2025-02-13 | 2025-03-07 |
 | [Máis Bicos Que Rosas](https://open.spotify.com/track/7lz45FaqwnVY0isoRUgeoi) | [The Rapants](https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7) | [Rapants Club](https://open.spotify.com/album/6bqLmHnAFaz0g7ZTLpyrWf) | 2:52 | 2026-03-05 |  |
-| [Más o menos bien](https://open.spotify.com/track/0xyCtRkZmP0ktcRqjV8fip) | [Hotel Nebraska](https://open.spotify.com/artist/417xUJN8m2gRJYI2Wu2ZnC) | [Más o menos bien](https://open.spotify.com/album/5vNVdu7wRFeDSh7B61fgLt) | 3:01 | 2026-07-30 |  |
+| [Más o menos bien](https://open.spotify.com/track/0xyCtRkZmP0ktcRqjV8fip) | [Hotel Nebraska](https://open.spotify.com/artist/417xUJN8m2gRJYI2Wu2ZnC) | [Más o menos bien](https://open.spotify.com/album/5vNVdu7wRFeDSh7B61fgLt) | 3:01 | 2026-07-30 | 2026-08-14 |
 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 | 2024-06-27 | 2025-08-22 |
 | [Mírame](https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Mírame](https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT) | 3:53 | 2025-02-06 | 2025-03-28 |
 | [música infinita](https://open.spotify.com/track/720CqaGLhexdPJpjUeO7pI) | [La Plata](https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS) | [música infinita](https://open.spotify.com/album/5eyLKFG2laZ2c3ly36uhbz) | 2:56 | 2025-02-13 | 2025-03-07 |
@@ -581,7 +584,7 @@
 | [Recibe lo que hay en mí \(que eres tú\)](https://open.spotify.com/track/7nscz2qQM4pUj9x3MrHruV) | [Ramona Flores](https://open.spotify.com/artist/4nwf3ZjNlcteyEGCh3KSrk) | [Recibe lo que hay en mí \(que eres tú\)](https://open.spotify.com/album/0T8FT4IjeI7gyne5qiGYUf) | 3:55 | 2024-08-22 | 2024-09-13 |
 | [Regalarte flores](https://open.spotify.com/track/5nzapEXyXahIR0DdArUhp6) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Regalarte flores](https://open.spotify.com/album/4OzBnxTA4Sm5kScqYzYMWc) | 2:06 | 2026-02-05 | 2026-02-20 |
 | [Regla y purpurina](https://open.spotify.com/track/5vZx86TYr9NSY8IRjng270) | [Tus Novias Indie](https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl) | [Aún no sé nada del amor](https://open.spotify.com/album/5t7rzhHnSjbEtTQeBGKQHb) | 3:14 | 2025-05-22 | 2025-06-27 |
-| [Reino](https://open.spotify.com/track/3qawHMDedZz4sIcXIjPTwi) | [Neverland Bari](https://open.spotify.com/artist/68hEzkqJzDWakEF63HUHeA) | [Reino](https://open.spotify.com/album/69gZUiVfOxi8YzI3f2kn3D) | 2:47 | 2026-07-02 |  |
+| [Reino](https://open.spotify.com/track/3qawHMDedZz4sIcXIjPTwi) | [Neverland Bari](https://open.spotify.com/artist/68hEzkqJzDWakEF63HUHeA) | [Reino](https://open.spotify.com/album/69gZUiVfOxi8YzI3f2kn3D) | 2:47 | 2026-07-02 | 2026-08-14 |
 | [Relío](https://open.spotify.com/track/2otP8TzPK3k5oUN4WMQCzi) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [2 canciones para el fomo](https://open.spotify.com/album/6hRE8se5sdDi37Fo9urH3J) | 2:42 | 2025-06-05 | 2025-07-11 |
 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 | 2024-06-27 | 2024-07-27 |
 | [Rizo de gitana](https://open.spotify.com/track/5evTw8CEqIP3Ovu9LaPtsE) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Rizo de gitana](https://open.spotify.com/album/2ZQACLflzN6J7AcLaXmOhP) | 3:39 | 2025-11-20 | 2026-04-17 |

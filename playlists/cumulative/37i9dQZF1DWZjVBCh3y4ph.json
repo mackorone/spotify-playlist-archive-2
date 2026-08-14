@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Les hits zouk & kompa du moment. Photo : Kalipsxau",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 225384,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/5JoiT8yPlAtYMmYhF2DSLL"
@@ -2554,7 +2554,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 215686,
       "name": "En p\u00e9tard",
       "url": "https://open.spotify.com/track/7Jzf4jD5AgtFQ6BmE6TADL"
@@ -6157,6 +6157,28 @@
     },
     {
       "album": {
+        "name": "Papillon",
+        "url": "https://open.spotify.com/album/27ugUMe8RarYYssfLDkDt7"
+      },
+      "artists": [
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        },
+        {
+          "name": "MCBOX",
+          "url": "https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164470,
+      "name": "Papillon",
+      "url": "https://open.spotify.com/track/0Vl2qHHtv0TPMJ1v39DqZS"
+    },
+    {
+      "album": {
         "name": "Parano",
         "url": "https://open.spotify.com/album/5JN3VD2ECGpmpLddXRd71h"
       },
@@ -8414,6 +8436,24 @@
       "duration_ms": 249940,
       "name": "Tout contre moi",
       "url": "https://open.spotify.com/track/4OxWlgo0VYmkmcuCgednmi"
+    },
+    {
+      "album": {
+        "name": "Tout Donner",
+        "url": "https://open.spotify.com/album/3zOb84XlFCKQbZaQOrvccv"
+      },
+      "artists": [
+        {
+          "name": "LordMiike",
+          "url": "https://open.spotify.com/artist/6OjF9eo5mIZATUsGiBk0Xk"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tout Donner",
+      "url": "https://open.spotify.com/track/71VataW4xIxBbczy7ptp7q"
     },
     {
       "album": {

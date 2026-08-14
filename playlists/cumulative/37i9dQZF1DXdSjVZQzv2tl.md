@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Matheus Fernandes
 
-413 songs - 19 hr 24 min
+414 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Admita \- Ao Vivo](https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Admita \(Ao Vivo\)](https://open.spotify.com/album/5LSlkNPGCk88r7UzXC33e2) | 2:55 | 2026-04-03 |  |
 | [Aham \- Ao Vivo](https://open.spotify.com/track/3Bkw2nrO4vXwql6BBDH5pq) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Questão de Tempo \(Ao Vivo / Parte 2\)](https://open.spotify.com/album/4tcd8Asdup9cwhIpLAxcbx) | 2:29 | 2024-08-30 | 2025-02-07 |
 | [Ai Eu Chorei \- Ao Vivo](https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [No Churrasco 2 \(Ao Vivo\)](https://open.spotify.com/album/6GwoKtfGlr1VGlrTU6Xb9u) | 2:56 | 2022-07-22 | 2023-08-05 |
+| [Alguns Defeitos](https://open.spotify.com/track/23AU70NKsQ4HfdSyd7lwZl) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Além Do Tempo](https://open.spotify.com/album/5wSMphnKqBeihlJzLaliuC) | 2:27 | 2026-08-14 |  |
 | [Ali Te Ama](https://open.spotify.com/track/75UeFgDZUmxJW1eViQtbYF) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ali Te Ama](https://open.spotify.com/album/6aR8YMno9VPTfKYvRf8DSL) | 2:48 | 2023-11-10 | 2024-08-23 |
 | [ALUGA\-SE \- Ao Vivo](https://open.spotify.com/track/2yx7F8ISwZ3VMEi9VptQGm) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN AO VIVO NA LUA](https://open.spotify.com/album/0U69VPPPmw2VGsQW37Iy57) | 3:04 | 2025-02-21 | 2025-02-26 |
 | [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 | 2025-06-06 | 2026-05-30 |

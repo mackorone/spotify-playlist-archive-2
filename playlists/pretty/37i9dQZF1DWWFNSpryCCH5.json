@@ -1,12 +1,12 @@
 {
   "description": "puras canciones desenchufadas. Cover: Man\u00e1",
-  "num_followers": 1058083,
+  "num_followers": 1058018,
   "original_name": "Videos Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM/54ROY4cD503PEd0QeB3E7awuh",
+  "snapshot_id": "AAAAABtNo6RI6bOudEkqq2s6PGdEGwnW",
   "tracks": [
     {
       "added_at": "2026-02-12 19:18:10",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-02-12 19:18:10",
       "album": {
-        "name": "The Man Who Sold The World (Live - MTV Unplugged)",
-        "url": "https://open.spotify.com/album/4DLEM1qia6R8KEm0VKohoc"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 216032,
-      "name": "The Man Who Sold The World - Live - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5WcCCdW1cMzWpdfBm2RdyL"
-    },
-    {
-      "added_at": "2026-02-12 19:18:10",
-      "album": {
         "name": "Mentira (Unplugged) - Video Oficial",
         "url": "https://open.spotify.com/album/0F09OsVhJbYnrK5AaF6O8D"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 288256,
       "name": "Mentira - Unplugged",
       "url": "https://open.spotify.com/track/0ZN94oWGDeX9GCLoYQvcOO"
+    },
+    {
+      "added_at": "2026-02-12 19:18:10",
+      "album": {
+        "name": "The Man Who Sold The World (Live - MTV Unplugged)",
+        "url": "https://open.spotify.com/album/4DLEM1qia6R8KEm0VKohoc"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 216032,
+      "name": "The Man Who Sold The World - Live - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5WcCCdW1cMzWpdfBm2RdyL"
     },
     {
       "added_at": "2026-02-12 19:18:10",

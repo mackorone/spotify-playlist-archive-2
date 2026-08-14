@@ -1,12 +1,12 @@
 {
   "description": "English songs from Indian artists.\nCover: Tsumyoki",
-  "num_followers": 40088,
+  "num_followers": 40093,
   "original_name": "Indian Indie English",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLRiRKimbGWb9qYpnL9CO77fIPQ",
+  "snapshot_id": "AAAAAGhQ0k+4kZek33gAdxg39bd0T5Fo",
   "tracks": [
     {
       "added_at": "2026-08-07 05:50:11",
@@ -379,6 +379,26 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
+        "name": "Kindergarten Juliet",
+        "url": "https://open.spotify.com/album/71UxutgcpGPi7IvNc4d8sk"
+      },
+      "artists": [
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        },
+        {
+          "name": "Timothy Thampy",
+          "url": "https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK"
+        }
+      ],
+      "duration_ms": 174625,
+      "name": "Kindergarten Juliet",
+      "url": "https://open.spotify.com/track/5hpvF3zigqgwOicVeeyMoX"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
         "name": "sad in chanel",
         "url": "https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 237712,
       "name": "sad in chanel",
       "url": "https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
-        "name": "Kindergarten Juliet",
-        "url": "https://open.spotify.com/album/71UxutgcpGPi7IvNc4d8sk"
-      },
-      "artists": [
-        {
-          "name": "Janisht Joshi",
-          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
-        },
-        {
-          "name": "Timothy Thampy",
-          "url": "https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK"
-        }
-      ],
-      "duration_ms": 174625,
-      "name": "Kindergarten Juliet",
-      "url": "https://open.spotify.com/track/5hpvF3zigqgwOicVeeyMoX"
     },
     {
       "added_at": "2026-08-07 05:50:11",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE"
-      },
-      "artists": [
-        {
-          "name": "Run it's the Kid",
-          "url": "https://open.spotify.com/artist/36057fby7tY856T2vg7jQj"
-        }
-      ],
-      "duration_ms": 176869,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
         "name": "593, Vol. I",
         "url": "https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 130000,
       "name": "Attached",
       "url": "https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE"
+      },
+      "artists": [
+        {
+          "name": "Run it's the Kid",
+          "url": "https://open.spotify.com/artist/36057fby7tY856T2vg7jQj"
+        }
+      ],
+      "duration_ms": 176869,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV"
     },
     {
       "added_at": "2026-08-07 05:50:11",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8"
+      },
+      "artists": [
+        {
+          "name": "BombayMami",
+          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
+        }
+      ],
+      "duration_ms": 168139,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
         "name": "pocket friendly: volume i",
         "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 153000,
       "name": "lighthouse",
       "url": "https://open.spotify.com/track/0ugCLPltxIsEaaPOnqyXRO"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8"
-      },
-      "artists": [
-        {
-          "name": "BombayMami",
-          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
-        }
-      ],
-      "duration_ms": 168139,
-      "name": "Jaloux",
-      "url": "https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4"
     },
     {
       "added_at": "2026-08-07 05:50:11",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
+        "name": "Wishbone",
+        "url": "https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC"
+      },
+      "artists": [
+        {
+          "name": "Saachi",
+          "url": "https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "E.L.T",
+      "url": "https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
         "name": "omg (Stripped Version)",
         "url": "https://open.spotify.com/album/5AfeQ52MnzIkoMGXCrvKkN"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 206956,
       "name": "omg - Stripped Version",
       "url": "https://open.spotify.com/track/4HIr0vK4N4YQgLUZE3aQ80"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
-        "name": "Wishbone",
-        "url": "https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC"
-      },
-      "artists": [
-        {
-          "name": "Saachi",
-          "url": "https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "E.L.T",
-      "url": "https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg"
     },
     {
       "added_at": "2026-08-07 05:50:11",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
-        "name": "pocket friendly: volume i",
-        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
-      },
-      "artists": [
-        {
-          "name": "sudan",
-          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
-        },
-        {
-          "name": "Tejas",
-          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "a hiatus",
-      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
         "name": "Nyima, Vol. 1",
         "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
       },
@@ -1031,26 +1011,22 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
-        "name": "Painted Faces",
-        "url": "https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL"
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
       },
       "artists": [
         {
-          "name": "MR ISHAN JACK",
-          "url": "https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF"
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
         },
         {
-          "name": "Insha Gill",
-          "url": "https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj"
-        },
-        {
-          "name": "Sonic Wav",
-          "url": "https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh"
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
         }
       ],
-      "duration_ms": 179806,
-      "name": "Painted Faces",
-      "url": "https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa"
+      "duration_ms": 167250,
+      "name": "a hiatus",
+      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
     },
     {
       "added_at": "2026-08-07 05:50:11",
@@ -1087,6 +1063,30 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
+        "name": "Painted Faces",
+        "url": "https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL"
+      },
+      "artists": [
+        {
+          "name": "MR ISHAN JACK",
+          "url": "https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF"
+        },
+        {
+          "name": "Insha Gill",
+          "url": "https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj"
+        },
+        {
+          "name": "Sonic Wav",
+          "url": "https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh"
+        }
+      ],
+      "duration_ms": 179806,
+      "name": "Painted Faces",
+      "url": "https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
         "name": "Nyima, Vol. 1",
         "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
-        "name": "Nyima, Vol. 1",
-        "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
-      },
-      "artists": [
-        {
-          "name": "Sahana Naresh",
-          "url": "https://open.spotify.com/artist/4OFt1ADSi91sMx70NtrFD9"
-        }
-      ],
-      "duration_ms": 230522,
-      "name": "Into The Wild",
-      "url": "https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
         "name": "Baby Breath",
         "url": "https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 167343,
       "name": "Baby Breath",
       "url": "https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
+        "name": "Nyima, Vol. 1",
+        "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
+      },
+      "artists": [
+        {
+          "name": "Sahana Naresh",
+          "url": "https://open.spotify.com/artist/4OFt1ADSi91sMx70NtrFD9"
+        }
+      ],
+      "duration_ms": 230522,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn"
     },
     {
       "added_at": "2026-08-07 05:50:11",

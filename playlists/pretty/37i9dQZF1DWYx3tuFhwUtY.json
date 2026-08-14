@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 129722,
+  "num_followers": 129712,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEKKtigov/R8oLuKLwSf/jvEH+rR",
+  "snapshot_id": "AAAAACcC2UDnWp+qrG1TcQRURm0SShXP",
   "tracks": [
     {
       "added_at": "2024-07-12 23:20:36",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "I Don't Know What You See In Me",
-        "url": "https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "I Don't Know What You See In Me",
-      "url": "https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Favor",
         "url": "https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 278213,
       "name": "Favor",
       "url": "https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "I Don't Know What You See In Me",
+        "url": "https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 219360,
+      "name": "I Don't Know What You See In Me",
+      "url": "https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG"
     },
     {
       "added_at": "2024-07-12 23:20:36",

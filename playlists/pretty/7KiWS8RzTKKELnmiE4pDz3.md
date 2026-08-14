@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 318 songs - 20 hr 18 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 320 songs - 20 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -326,5 +326,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 316 | [Runnin'](https://open.spotify.com/track/7bqTOtOJKoXSa6ar6lozvF) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Tony Yayo](https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 4:26 |
 | 317 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/6dc1efEhnYMzVwz05VY4ZP) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:10 |
 | 318 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/6dc1efEhnYMzVwz05VY4ZP) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:10 |
+| 319 | [My Way](https://open.spotify.com/track/2j91CgtRZJ4Jobg2LGyrS8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Purple City Matrix](https://open.spotify.com/album/6Wvkkih58R1C7HCrdoPW9E) | 3:28 |
+| 320 | [yoshi's island](https://open.spotify.com/track/1FYeOxFvEOzPT2hk4kzSDN) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/113M3j7mkEpg5TUgXJDS79) | 6:18 |
 
-Snapshot ID: `AAAgoo316Spp+hHXACF7QRSndOgWVnP5`
+Snapshot ID: `AAAgpEDshVca/MShs3hXkFY5adwb0LCa`

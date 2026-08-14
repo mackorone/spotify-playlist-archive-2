@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,526 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,447 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 |
 | 100 | [Cold](https://open.spotify.com/track/4sJMPvKfnqfvH5J7QtJ2sC) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Cold](https://open.spotify.com/album/68ga6iLeiMUXafEi9tzehV) | 2:48 |
 
-Snapshot ID: `AAAAAETbR/OFqzpfYQYtjS7mLjZPlUp6`
+Snapshot ID: `AAAAACizKPdKy+QrKdGrh+X0BgQnLR7N`

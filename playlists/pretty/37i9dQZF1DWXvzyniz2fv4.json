@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158224,
+  "num_followers": 158222,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANsX7Kbs5HjmfYLnxlxuTQv6yZ2m",
+  "snapshot_id": "AAAAAD7RieNT9qE/vsB2cZFuzmOkkt1Y",
   "tracks": [
     {
       "added_at": "2026-08-07 14:29:31",
@@ -455,30 +455,6 @@
     {
       "added_at": "2026-08-07 14:29:31",
       "album": {
-        "name": "Brisa Errada",
-        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
-      },
-      "artists": [
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "DaluzzZ",
-          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 123582,
-      "name": "Brisa Errada",
-      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
-    },
-    {
-      "added_at": "2026-08-07 14:29:31",
-      "album": {
         "name": "Ver o Mar",
         "url": "https://open.spotify.com/album/1kNv2xQt9IUQAYYxUyPETs"
       },
@@ -503,6 +479,30 @@
       "duration_ms": 187274,
       "name": "Ver o Mar",
       "url": "https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ"
+    },
+    {
+      "added_at": "2026-08-07 14:29:31",
+      "album": {
+        "name": "Brisa Errada",
+        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DaluzzZ",
+          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 123582,
+      "name": "Brisa Errada",
+      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
     },
     {
       "added_at": "2026-08-07 14:29:31",

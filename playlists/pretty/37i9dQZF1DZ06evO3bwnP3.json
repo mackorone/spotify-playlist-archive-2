@@ -1,12 +1,12 @@
 {
   "description": "This is Kara-Lis Coverdale. The essential tracks, all in one playlist.",
-  "num_followers": 113,
+  "num_followers": 114,
   "original_name": "This Is Kara-Lis Coverdale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anpmAAAAAABvuigs6qtpH25KDXDtm1ZQ",
+  "snapshot_id": "anu3gAAAAADUYqpenKxbqxivnKkyX+Na",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 131743,
-      "name": "Habitat",
-      "url": "https://open.spotify.com/track/31svskbKJJBnUFVl6DUCuE"
+      "duration_ms": 245311,
+      "name": "Problem of No Name",
+      "url": "https://open.spotify.com/track/65pLS8T7mESnWG1EFmZkQK"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 211022,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/2EFrVQIBtydHgQd8S6Ftrz"
+      "duration_ms": 349832,
+      "name": "The Placid Illusion",
+      "url": "https://open.spotify.com/track/3mHjUdY3pIhmq4st2iOUtY"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 134715,
-      "name": "Offload Flip",
-      "url": "https://open.spotify.com/track/1BUyg7OdWyF1dnTqpUjcz8"
+      "duration_ms": 111455,
+      "name": "Coming Around",
+      "url": "https://open.spotify.com/track/565qhLsAoCjgkxshqE8HYo"
     },
     {
       "added_at": null,
@@ -560,45 +560,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 196374,
-      "name": "Soft Fold 3/4",
-      "url": "https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        },
-        {
-          "name": "LXV",
-          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
-        }
-      ],
-      "duration_ms": 426041,
-      "name": "Informant",
-      "url": "https://open.spotify.com/track/5DlXehvZA7eKs50M8UEcgc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inscriptions, Vol. 3",
-        "url": "https://open.spotify.com/album/4xjqtaDrXhWVPHZzB5pMfq"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Buried Trig",
-      "url": "https://open.spotify.com/track/0cmTYyCmYFOQjrR94Qph4A"
+      "duration_ms": 174895,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/1D4DYYiOlkwmSIuHA0EqdL"
     },
     {
       "added_at": null,
@@ -639,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inscriptions, Vol. 3",
+        "url": "https://open.spotify.com/album/4xjqtaDrXhWVPHZzB5pMfq"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Buried Trig",
+      "url": "https://open.spotify.com/track/0cmTYyCmYFOQjrR94Qph4A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A 480",
         "url": "https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm"
       },
@@ -668,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 356000,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/1D28HzWfjCZQ3uxUYfahoT"
+      "duration_ms": 426041,
+      "name": "Informant",
+      "url": "https://open.spotify.com/track/5DlXehvZA7eKs50M8UEcgc"
     },
     {
       "added_at": null,
@@ -691,6 +671,26 @@
       "duration_ms": 334750,
       "name": "Buffering landscape",
       "url": "https://open.spotify.com/track/0DeNECMRpIJFEhPNR0Uf9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        },
+        {
+          "name": "LXV",
+          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/1D28HzWfjCZQ3uxUYfahoT"
     }
   ],
   "unique_name": "This Is Kara-Lis Coverdale",

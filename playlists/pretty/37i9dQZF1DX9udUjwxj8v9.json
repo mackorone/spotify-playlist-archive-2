@@ -1,12 +1,12 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 154372,
+  "num_followers": 154371,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxi1gmHUyZv1GLtTsUXD5xULYoN",
+  "snapshot_id": "AAAAAOznVSZZmT7atR17miMmkBxu4kRX",
   "tracks": [
     {
       "added_at": "2025-07-11 03:00:07",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "\u00c9 Demais Meu Rei!!!",
-        "url": "https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t"
-      },
-      "artists": [
-        {
-          "name": "Cheiro de Amor",
-          "url": "https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Vai Sacudir, Vai Abalar",
-      "url": "https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 371720,
       "name": "Vai Passar",
       "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "\u00c9 Demais Meu Rei!!!",
+        "url": "https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t"
+      },
+      "artists": [
+        {
+          "name": "Cheiro de Amor",
+          "url": "https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Vai Sacudir, Vai Abalar",
+      "url": "https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk"
     },
     {
       "added_at": "2025-07-11 03:00:07",

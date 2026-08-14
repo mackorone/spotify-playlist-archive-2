@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 324047,
       "name": "Ebukhoneni",
       "url": "https://open.spotify.com/track/5l0Vfkkk9TC375DG7WCSjR"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 311280,
       "name": "Galalela (Live)",
       "url": "https://open.spotify.com/track/2GE8CsW01WAlA0RGdYIdAS"
@@ -1950,6 +1950,28 @@
       "duration_ms": 496695,
       "name": "Hallelujah - Live",
       "url": "https://open.spotify.com/track/53Vs8PsI3FEGr08i3f23mM"
+    },
+    {
+      "album": {
+        "name": "Hallelujah Jesu",
+        "url": "https://open.spotify.com/album/5pr7pUeUGcfr4IqHJJAZAu"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 960493,
+      "name": "Hallelujah Jesu",
+      "url": "https://open.spotify.com/track/4hB0gEeorkLNIKEIsQsbf9"
     },
     {
       "album": {
@@ -6483,6 +6505,24 @@
     },
     {
       "album": {
+        "name": "Siyabonga",
+        "url": "https://open.spotify.com/album/1ZgXPgkTtzW9G7Cimo2yls"
+      },
+      "artists": [
+        {
+          "name": "Brenda Mtambo",
+          "url": "https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "Siyabonga",
+      "url": "https://open.spotify.com/track/7agNMxkB0YK4Th4shl17OU"
+    },
+    {
+      "album": {
         "name": "Sojabula (Hosanna Kweliphezulu)",
         "url": "https://open.spotify.com/album/4e7plmHk0aw1kvX22l852X"
       },
@@ -8336,7 +8376,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 361797,
       "name": "Uyinqaba Yami - Live",
       "url": "https://open.spotify.com/track/3FbLOTs1PBGUl1MXiwqIN5"
@@ -9472,6 +9512,28 @@
       "duration_ms": 403306,
       "name": "You Will Never Leave Me - Live",
       "url": "https://open.spotify.com/track/1Y2L2fRfR6xRxmE9ucmYig"
+    },
+    {
+      "album": {
+        "name": "Your Presence",
+        "url": "https://open.spotify.com/album/3QpIciR7IxpawiOZ1Xvl7J"
+      },
+      "artists": [
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/5FtyQahL4dAUs13zlVslU7"
+        },
+        {
+          "name": "Buhle Thela",
+          "url": "https://open.spotify.com/artist/3LW26tYtBgsMCv8QpoUuhs"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489308,
+      "name": "Your Presence",
+      "url": "https://open.spotify.com/track/7viB42X7E7Z4tNhOBEn6pr"
     },
     {
       "album": {

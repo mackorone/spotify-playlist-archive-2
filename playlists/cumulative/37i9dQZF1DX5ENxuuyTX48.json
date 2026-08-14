@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "After all, we are all siblings. Cover: After Mdnight",
+  "description": "After all, we are all siblings. Cover: For Revenge",
   "name": "mantap vibes",
   "tracks": [
     {
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 246107,
       "name": "Alunan Mimpi",
       "url": "https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj"
@@ -8079,6 +8079,24 @@
     },
     {
       "album": {
+        "name": "Catch Me",
+        "url": "https://open.spotify.com/album/7vGcAHbY5AP162w3MJbua8"
+      },
+      "artists": [
+        {
+          "name": "Marbles",
+          "url": "https://open.spotify.com/artist/5f5BQHYqjKGpSrgawqYWHQ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/378OMdKKsgorhYbTnnXgjj"
+    },
+    {
+      "album": {
         "name": "Cecilia",
         "url": "https://open.spotify.com/album/1K5HPlcVA6LSD74GhydxR4"
       },
@@ -13685,6 +13703,28 @@
     },
     {
       "album": {
+        "name": "Gemintang",
+        "url": "https://open.spotify.com/album/6wnP0NCIwqGy1SRp9ryl8o"
+      },
+      "artists": [
+        {
+          "name": "Tohpati",
+          "url": "https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN"
+        },
+        {
+          "name": "Sisca Saras",
+          "url": "https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248800,
+      "name": "Gemintang",
+      "url": "https://open.spotify.com/track/5BxLFIcFh9khvcjXuwG1hg"
+    },
+    {
+      "album": {
         "name": "GENUINE",
         "url": "https://open.spotify.com/album/0YpFNKxT9qpeYKFMGbQqHJ"
       },
@@ -16604,6 +16644,28 @@
       "duration_ms": 402360,
       "name": "I'tiraf",
       "url": "https://open.spotify.com/track/0YRbxYgXm4AC9QdBJB11do"
+    },
+    {
+      "album": {
+        "name": "ia",
+        "url": "https://open.spotify.com/album/4KoEuqB2HrrniK4zUliLUW"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        },
+        {
+          "name": "Good Morning Everyone",
+          "url": "https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "ia",
+      "url": "https://open.spotify.com/track/7bTpVhzQWlD87vHoeDXpSx"
     },
     {
       "album": {
@@ -22917,6 +22979,28 @@
     },
     {
       "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/3L4AshtZgor3KawCadj87w"
+      },
+      "artists": [
+        {
+          "name": "MFMF.",
+          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
+        },
+        {
+          "name": "Tarrarin",
+          "url": "https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151181,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/2Cmy5KcGE2psp0OJcNJFcZ"
+    },
+    {
+      "album": {
         "name": "Laut Kelabu",
         "url": "https://open.spotify.com/album/42EQMlaWuo2SyGq3jNq4gl"
       },
@@ -23923,6 +24007,28 @@
     },
     {
       "album": {
+        "name": "lonely",
+        "url": "https://open.spotify.com/album/40rK0NG4CzkqNQwsDcnDcY"
+      },
+      "artists": [
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        },
+        {
+          "name": "Zhe Kamil",
+          "url": "https://open.spotify.com/artist/2fuvcl5AoXU1gAu8B8Sfq7"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195963,
+      "name": "lonely",
+      "url": "https://open.spotify.com/track/0uBY1zFXa4aARktcsHTsWM"
+    },
+    {
+      "album": {
         "name": "Looking for Love in Wrong Places",
         "url": "https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp"
       },
@@ -24474,7 +24580,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 256725,
       "name": "Lupain Aku Plis",
       "url": "https://open.spotify.com/track/2kOglow8zWLuTtdktmZZ1W"
@@ -26958,7 +27064,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 233410,
       "name": "Menjaga Hati",
       "url": "https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk"
@@ -30954,7 +31060,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 287700,
       "name": "Pelindungmu - Ayah, Aku Mau Cerita Original Soundtrack",
       "url": "https://open.spotify.com/track/5KzSxY3ZSFtC6C0rVIs6jq"
@@ -36618,7 +36724,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 170361,
       "name": "seketika",
       "url": "https://open.spotify.com/track/432AvgkVqNjwXiN5xjuOuu"
@@ -39558,6 +39664,24 @@
       "duration_ms": 145333,
       "name": "Speed",
       "url": "https://open.spotify.com/track/62UDdS1BuZ30tJFbBasLN4"
+    },
+    {
+      "album": {
+        "name": "CAN I CALL YOU MINE?",
+        "url": "https://open.spotify.com/album/1DTI1m8JrTW9Ae3GJ239zR"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237391,
+      "name": "SPEED DIAL #1",
+      "url": "https://open.spotify.com/track/6BphkJI46fmiXEWZfPQFl0"
     },
     {
       "album": {
@@ -44622,7 +44746,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 204479,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/43snIl2IVhuGGiGFBMAr99"

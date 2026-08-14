@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Basia Ma\u0142ecka",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Janek Bidiuk",
   "name": "up next",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 239011,
       "name": "#bliska",
       "url": "https://open.spotify.com/track/6mNCznYwsBp7N3FCGC83MQ"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 153531,
       "name": "ADA",
       "url": "https://open.spotify.com/track/4TxgjXRNWI6IlKc1wRxjDg"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 139000,
       "name": "B\u0105d\u017a ze mn\u0105",
       "url": "https://open.spotify.com/track/1Sa8Kkb8onNb8ET8THUM5z"
@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 190073,
       "name": "chat gpt",
       "url": "https://open.spotify.com/track/1ltA0vbSCivzueR5xjwMwa"
@@ -3589,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "DELI SUPREME",
+        "url": "https://open.spotify.com/album/2iyTvhDOMGcBDx7Klstyio"
+      },
+      "artists": [
+        {
+          "name": "MJ Deli",
+          "url": "https://open.spotify.com/artist/4zlJMomtDhz5jPYQC0UNhE"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151920,
+      "name": "DELI SUPREME",
+      "url": "https://open.spotify.com/track/7mFj66qVnjoZUXkyPljGj8"
+    },
+    {
+      "album": {
         "name": "Destroy Me, Today",
         "url": "https://open.spotify.com/album/0nzJM5ozNQ9ZynPsswgrWH"
       },
@@ -4736,6 +4754,24 @@
       "duration_ms": 147992,
       "name": "Fotografie",
       "url": "https://open.spotify.com/track/7Hy0orWwbe8uUnxQEjp9T5"
+    },
+    {
+      "album": {
+        "name": "Francuskie poca\u0142unki",
+        "url": "https://open.spotify.com/album/0kbd9oL7m7hcCFeRZz6Zar"
+      },
+      "artists": [
+        {
+          "name": "Martyna Wrochna",
+          "url": "https://open.spotify.com/artist/6bDtZgCcEV7naaRe0ynqQ0"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185015,
+      "name": "Francuskie poca\u0142unki",
+      "url": "https://open.spotify.com/track/6y23ZdgplPyXUaF44n9pBJ"
     },
     {
       "album": {
@@ -9221,6 +9257,24 @@
     },
     {
       "album": {
+        "name": "Nadwodne miasto",
+        "url": "https://open.spotify.com/album/0CIuv9E6CIKkK395Ha63Lb"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217617,
+      "name": "Nadwodne miasto",
+      "url": "https://open.spotify.com/track/5CWurWx4wdICZSTsXEe3OZ"
+    },
+    {
+      "album": {
         "name": "Nagie Cia\u0142a",
         "url": "https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR"
       },
@@ -9920,6 +9974,24 @@
       "duration_ms": 192203,
       "name": "Nie zawsze wszystko",
       "url": "https://open.spotify.com/track/4cl6qxj75z0HOdbHK2yDWD"
+    },
+    {
+      "album": {
+        "name": "Nie za\u015bpiewam Twojej mamie",
+        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
+      },
+      "artists": [
+        {
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Nie za\u015bpiewam Twojej mamie",
+      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
     },
     {
       "album": {
@@ -10674,7 +10746,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 173400,
       "name": "OdFiltruj Rzeczywisto\u015b\u0107 - we wsp\u00f3\u0142pracy z PZU",
       "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
@@ -12648,7 +12720,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 166779,
       "name": "REWERS",
       "url": "https://open.spotify.com/track/6hi98M5T73adlUVLp0RTaR"
@@ -13608,7 +13680,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 163687,
       "name": "SPOK\u00d3J",
       "url": "https://open.spotify.com/track/2G072HrgSDTCDkf66aXPZl"
@@ -13828,7 +13900,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 159473,
       "name": "STILL PRETTY WHEN I CRY",
       "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
@@ -14853,6 +14925,24 @@
     },
     {
       "album": {
+        "name": "THAT'S MY SWAG",
+        "url": "https://open.spotify.com/album/5ibPa6XSEOAYyJ7tWtgu5r"
+      },
+      "artists": [
+        {
+          "name": "Janek Bidiuk",
+          "url": "https://open.spotify.com/artist/6N750kTaZdAypOStcgDqDZ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161764,
+      "name": "THAT'S MY SWAG",
+      "url": "https://open.spotify.com/track/1SWYFWDK3ewkrV9D2gDgo1"
+    },
+    {
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -15593,6 +15683,24 @@
     },
     {
       "album": {
+        "name": "t\u0142uk\u0119 si\u0119 o asfalt",
+        "url": "https://open.spotify.com/album/7pmBjZp0VrLY95tqdHdZxQ"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178387,
+      "name": "t\u0142uk\u0119 si\u0119 o asfalt",
+      "url": "https://open.spotify.com/track/5FO3zFjF0Cp8QhQF7Bu91i"
+    },
+    {
+      "album": {
         "name": "U Want Me Anyway",
         "url": "https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4"
       },
@@ -15688,6 +15796,24 @@
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
+    {
+      "album": {
+        "name": "Unikat",
+        "url": "https://open.spotify.com/album/76Eyw4h31W2DsCPHT3Og5Y"
+      },
+      "artists": [
+        {
+          "name": "Oliwia Janusz",
+          "url": "https://open.spotify.com/artist/2gzylqKH4MMjL9FAMkULif"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207511,
+      "name": "Unikat",
+      "url": "https://open.spotify.com/track/4traV6vOZ2ek6x85VDf2M8"
     },
     {
       "album": {
@@ -17554,7 +17680,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 177313,
       "name": "ZIEMIA_ARDHI",
       "url": "https://open.spotify.com/track/7e6kfmfl84bOdlUeg80CYp"

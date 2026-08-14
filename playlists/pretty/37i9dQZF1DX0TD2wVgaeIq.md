@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 
 > Beautiful bansuri flute and sitar from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,624 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,687 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 | 99 | [Raag Bhairavi \- Alap](https://open.spotify.com/track/5OwdGNpfx8D74GtHK3aaiH) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Vijay Ghate](https://open.spotify.com/artist/7ETcoV7VniCB1EvWjtbMMU), [Pt\. Bhawani Shankar](https://open.spotify.com/artist/483a0T0I96l0BLsJILbOVF) | [Call of the Divine \- Magical Flute of Rakesh Chaurasia](https://open.spotify.com/album/599KZQj3bgW8DtIVaxNSjB) | 3:37 |
 | 100 | [Healing Energy](https://open.spotify.com/track/5BgmQUITJ3NuJAYCcHsdfA) | [Shaant Man](https://open.spotify.com/artist/3DlcfbEsCsjEkmTOAHBNwO) | [Healing Energy](https://open.spotify.com/album/2ClNJPtgaQ1P6c3QuMSSAI) | 3:50 |
 
-Snapshot ID: `AAAAADepQ+htDPmrrE6EuLNESFaM7VbZ`
+Snapshot ID: `AAAAAC5t68VHJc8XiBTks0B4omh5+1y+`

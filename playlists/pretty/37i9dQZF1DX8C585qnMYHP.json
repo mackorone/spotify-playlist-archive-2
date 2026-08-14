@@ -1,28 +1,28 @@
 {
-  "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:4QVnoNeoWQkbb9oOG4Ce2f\">Gloorp</a> on cover. Artwork by Thami Nabil.",
-  "num_followers": 199386,
+  "description": "The best new music by independent Experimental artists. DjRUM on cover. Artwork by Thami Nabil.",
+  "num_followers": 199438,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKr+VSzxo6Y0XxyiNexSm3yyL8zR",
+  "snapshot_id": "AAAAAD4uSipbaBU8NKsZlBpHdisIrrNn",
   "tracks": [
     {
-      "added_at": "2026-07-30 04:00:30",
+      "added_at": "2026-08-13 12:07:23",
       "album": {
-        "name": "Gloorp Life",
-        "url": "https://open.spotify.com/album/54OXD4tM4Qo3YN2ehGCwov"
+        "name": "I Wander (IV + V)",
+        "url": "https://open.spotify.com/album/2llnA988XlEflLbh7FgXco"
       },
       "artists": [
         {
-          "name": "Gloorp",
-          "url": "https://open.spotify.com/artist/4QVnoNeoWQkbb9oOG4Ce2f"
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
         }
       ],
-      "duration_ms": 215978,
-      "name": "Swag",
-      "url": "https://open.spotify.com/track/7MEJdaQ9rSY332NVI6tiL5"
+      "duration_ms": 206776,
+      "name": "I Wander (IV + V)",
+      "url": "https://open.spotify.com/track/1MfOMpg9fTsBWRbOdy8aqx"
     },
     {
       "added_at": "2026-07-24 04:01:47",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/1F7o8AyrudMe3K3BJm9VcL"
     },
     {
+      "added_at": "2026-08-13 12:07:23",
+      "album": {
+        "name": "Nothing Space Music",
+        "url": "https://open.spotify.com/album/0LVls3YIcjSXh0Mv08HYep"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "duration_ms": 333125,
+      "name": "Astral Echoes",
+      "url": "https://open.spotify.com/track/0wb3PXLcaKa6Ta87CCR0BK"
+    },
+    {
       "added_at": "2026-07-17 17:13:46",
       "album": {
         "name": "Cow With Half Moon Parasol",
@@ -197,6 +213,22 @@
       "url": "https://open.spotify.com/track/4kytiTENCQoF0Rhnqy0PHm"
     },
     {
+      "added_at": "2026-08-13 12:07:23",
+      "album": {
+        "name": "cows & horses",
+        "url": "https://open.spotify.com/album/2q8Z3PSAZCBHzWx6Msl34u"
+      },
+      "artists": [
+        {
+          "name": "calamity",
+          "url": "https://open.spotify.com/artist/2R5sX9pM0oTSCqDBibpvf8"
+        }
+      ],
+      "duration_ms": 154885,
+      "name": "side b",
+      "url": "https://open.spotify.com/track/6GiDOYI1Qk7A6GY4XJYSfv"
+    },
+    {
       "added_at": "2026-08-06 14:41:06",
       "album": {
         "name": "Dissidente",
@@ -231,6 +263,22 @@
       "duration_ms": 156440,
       "name": "TOURNIQUET",
       "url": "https://open.spotify.com/track/5KZnditY0Ik8OakFR8W5bz"
+    },
+    {
+      "added_at": "2026-08-13 12:07:23",
+      "album": {
+        "name": "Rolling Face",
+        "url": "https://open.spotify.com/album/52q3EH4AOgwgDwxsuldg1H"
+      },
+      "artists": [
+        {
+          "name": "Adult DVD",
+          "url": "https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG"
+        }
+      ],
+      "duration_ms": 309005,
+      "name": "Rolling Face",
+      "url": "https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp"
     },
     {
       "added_at": "2026-07-17 17:13:46",
@@ -315,6 +363,22 @@
       "duration_ms": 315000,
       "name": "Seastar",
       "url": "https://open.spotify.com/track/0Hy6fOnmqa1w6Oi4sPTRvw"
+    },
+    {
+      "added_at": "2026-07-30 04:00:30",
+      "album": {
+        "name": "Gloorp Life",
+        "url": "https://open.spotify.com/album/54OXD4tM4Qo3YN2ehGCwov"
+      },
+      "artists": [
+        {
+          "name": "Gloorp",
+          "url": "https://open.spotify.com/artist/4QVnoNeoWQkbb9oOG4Ce2f"
+        }
+      ],
+      "duration_ms": 215978,
+      "name": "Swag",
+      "url": "https://open.spotify.com/track/7MEJdaQ9rSY332NVI6tiL5"
     },
     {
       "added_at": "2026-07-17 17:13:46",
@@ -595,6 +659,26 @@
       "duration_ms": 374693,
       "name": "Chaosmosis",
       "url": "https://open.spotify.com/track/6w5EhMONFzd90QfCLMcyVA"
+    },
+    {
+      "added_at": "2026-08-13 12:07:23",
+      "album": {
+        "name": "Images parl\u00e9es",
+        "url": "https://open.spotify.com/album/71NNWfHWGDMmQceCXmMIt6"
+      },
+      "artists": [
+        {
+          "name": "Philippe Poirier",
+          "url": "https://open.spotify.com/artist/7FDV7EN81yVnK2RrF7eqvd"
+        },
+        {
+          "name": "Rom\u00e9o Poirier",
+          "url": "https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "En soixante et en dix-huit",
+      "url": "https://open.spotify.com/track/0A8p5mpUFp76Gsqepi2DjS"
     },
     {
       "added_at": "2026-07-17 17:13:46",

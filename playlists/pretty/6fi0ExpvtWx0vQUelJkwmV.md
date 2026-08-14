@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6fi0ExpvtWx0vQUelJkwmV.md) - [plain]
 
 > The hardest beats from the rap game Photo: MoStack
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 424,020 likes - 62 songs - 3 hr 22 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 423,945 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6fi0ExpvtWx0vQUelJkwmV.md) - [plain]
 | 15 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 |
 | 16 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 |
 | 17 | [A Yo](https://open.spotify.com/track/7jLePOhkwslpzYSw5ZTCDG) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [TizzTrap](https://open.spotify.com/artist/2gkITzNx4kpWyX8Tf140HX), [BG](https://open.spotify.com/artist/331Xmbd0r2nu2TxnA4aQQR) | [A Yo](https://open.spotify.com/album/7H3XNmuhuX5HOpXpByYKRL) | 2:41 |
-| 18 | [Kukoč \(feat\. NAV\)](https://open.spotify.com/track/188Y8ny5w1GArwFjXE2arA) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Flu Game](https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7) | 3:15 |
+| 18 | [Kukoč](https://open.spotify.com/track/188Y8ny5w1GArwFjXE2arA) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Flu Game](https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7) | 3:15 |
 | 19 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
 | 20 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 |
 | 21 | [Toxic](https://open.spotify.com/track/3UJMTYmekhx9WHGr9ggZkF) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Toxic](https://open.spotify.com/album/7F4wYjAjZX0xzzXxnIBmrc) | 3:10 |

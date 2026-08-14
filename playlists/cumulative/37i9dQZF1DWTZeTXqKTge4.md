@@ -4,7 +4,7 @@
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Jeekay, Imposs
 
-1,298 songs - 2 day 15 hr 54 min
+1,299 songs - 2 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,6 +735,7 @@
 | [Ma pref](https://open.spotify.com/track/6Jk0HOH7Qrr6xbNf5xTKGi) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Ma pref](https://open.spotify.com/album/1r18lQrF1s9xhZecqOUJ2d) | 3:17 | 2024-09-06 | 2025-02-08 |
 | [Ma pref \(avec Naomi\)](https://open.spotify.com/track/32D1TpVHBuNqF53CmLgxIL) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Vivre à mourir](https://open.spotify.com/album/7KSsIQNO4IVCe1gIpYiPbg) | 3:17 | 2025-12-03 | 2026-02-21 |
 | [Ma réalité](https://open.spotify.com/track/2fIukPQSldwrBlzwACakSX) | [ray.z](https://open.spotify.com/artist/1EfhaaHz0yZn4W0SLHFKQS) | [Ma réalité](https://open.spotify.com/album/4CPw1Mo7hJItpMplRcFdyx) | 2:14 | 2026-03-20 | 2026-05-02 |
+| [Ma Vi2le](https://open.spotify.com/track/6DlTLfWBKAVoyj4f5vgV0V) | [Nikolas Anka](https://open.spotify.com/artist/30I3w8xcvfstM7a237uFva) | [Ma Vi2le](https://open.spotify.com/album/5ganaKs8H394USamdrDcLO) | 1:58 | 2026-08-07 |  |
 | [mabad](https://open.spotify.com/track/1Hn57cjATQkdDQUfOsVj2Q) | [hrshie](https://open.spotify.com/artist/7ldNa75VRHwmDtoxY5rGhv) | [mabad](https://open.spotify.com/album/5zzjX0TmH5KMhH9S2PhTib) | 2:57 | 2026-04-10 | 2026-05-02 |
 | [MACHETE 2 \(Masasi\)](https://open.spotify.com/track/3ZvAGglWF7RPO7V79GNOAE) | [Deuzeus](https://open.spotify.com/artist/2KMthShLYbRTCpnEsGufqn) | [MACHETE 2 \(Masasi\)](https://open.spotify.com/album/4f4FVqHgcjS4VtL8IT5IAl) | 2:41 | 2023-06-30 | 2024-04-19 |
 | [Madeleine de Proust](https://open.spotify.com/track/30w2EoOuuLej0QhiPmWIOd) | [Sael](https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3) | [Madeleine de Proust](https://open.spotify.com/album/07ImhsS3zs8C126gzdOmOp) | 2:37 | 2025-01-10 | 2025-10-18 |
@@ -1107,7 +1108,7 @@
 | [Sixième sens](https://open.spotify.com/track/2Mzf4hKAHExr1MOBSPxYhZ) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [LOSTALGIK \(2LUXE\)](https://open.spotify.com/album/1hCxmaFKOjRfj0dGieA2IK) | 3:18 | 2022-01-07 | 2022-01-15 |
 | [Smbre](https://open.spotify.com/track/392wxfXZiHJE8JiToNC5G6) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Smbre](https://open.spotify.com/album/2yaMSZkN3IZU8MqMKQCqTB) | 3:28 | 2025-11-21 | 2025-12-04 |
 | [Smoothie aux bleuets](https://open.spotify.com/track/6EWPlzxSNjswZzV3PPeN4H) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [Smoothie aux bleuets](https://open.spotify.com/album/3TAkY1hpg5TFKmKskLRYVn) | 2:58 | 2026-06-12 |  |
-| [SNAKES](https://open.spotify.com/track/0DIV0ykuV9lPlznikqP3vu) | [Brayden](https://open.spotify.com/artist/0A7yFF4dpVIW3M7w4V1ylZ), [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT) | [SNAKES](https://open.spotify.com/album/1bRtUi7SnGuVIuZKkU73Ve) | 2:36 | 2026-07-31 |  |
+| [SNAKES](https://open.spotify.com/track/0DIV0ykuV9lPlznikqP3vu) | [Brayden](https://open.spotify.com/artist/0A7yFF4dpVIW3M7w4V1ylZ), [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT) | [SNAKES](https://open.spotify.com/album/1bRtUi7SnGuVIuZKkU73Ve) | 2:36 | 2026-07-31 | 2026-08-14 |
 | [Soleil](https://open.spotify.com/track/4vxCBbwpMyrcbzAe4uO2oO) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Soleil](https://open.spotify.com/album/0A49z1LkvPN2TIbqWDbJzz) | 3:30 | 2023-01-28 | 2023-12-09 |
 | [Solitaire](https://open.spotify.com/track/6gAgG805virNFNDqzpIcu1) | [Ness](https://open.spotify.com/artist/6avojCXTJAdQ2FUqt4zHqc) | [Solitaire](https://open.spotify.com/album/1qTWqCHk6qApXeMO5JwGHj) | 2:19 | 2026-03-27 | 2026-06-27 |
 | [SOLO SOLO](https://open.spotify.com/track/6wSuxoPuQrCfSnCWlIdCmp) | [KDS Requinzer](https://open.spotify.com/artist/6ig5quIM4AJ5GRzccMh5r3) | [SOLO SOLO](https://open.spotify.com/album/3OfkKZ4yEkGXT0T2seeOiq) | 2:32 | 2026-07-24 |  |

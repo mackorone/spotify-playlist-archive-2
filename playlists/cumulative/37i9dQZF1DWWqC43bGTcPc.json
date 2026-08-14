@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u6d3e\u5049\u4fca Patrick Brasca",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: Eric Chou \u5468\u8208\u54f2 ",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -7956,7 +7956,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 169624,
       "name": "\u539f\u8ad2\u6211\u96e2\u958b",
       "url": "https://open.spotify.com/track/0c7kCBNDlH0xuqg3PPqgAS"
@@ -9820,7 +9820,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 220962,
       "name": "\u5931\u91cd\u524d\u5e78\u798f",
       "url": "https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T"
@@ -14783,6 +14783,24 @@
     },
     {
       "album": {
+        "name": "\u6574\u500b\u4e16\u754c\uff0c\u53ea\u6709\u4f60\u9023\u4e0a\u4e86\u6211 (\u300a\u6574\u500b\u4e16\u754c\uff0c\u53ea\u6709\u4f60\u9023\u4e0a\u4e86\u6211\u300b\u5f71\u96c6\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4aPSsJzEkjBA5Y5qLKlIV2"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244930,
+      "name": "\u6574\u500b\u4e16\u754c\uff0c\u53ea\u6709\u4f60\u9023\u4e0a\u4e86\u6211 - \u300a\u6574\u500b\u4e16\u754c\uff0c\u53ea\u6709\u4f60\u9023\u4e0a\u4e86\u6211\u300b\u5f71\u96c6\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/1kEDF2O38pTvoeI1OeazbZ"
+    },
+    {
+      "album": {
         "name": "\u6578\u5230\u4e09 321",
         "url": "https://open.spotify.com/album/58QvjinWUsIV2UyKCd1aIQ"
       },
@@ -17360,7 +17378,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 200909,
       "name": "\u6e1b\u50b7",
       "url": "https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu"
@@ -20548,7 +20566,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 202832,
       "name": "\u865b\u83ef\u7684\u5922\u60f3\u662f\u4e00\u652f\u5200",
       "url": "https://open.spotify.com/track/5Q4IGbHiua8uVqhu7aZX6y"
@@ -21118,6 +21136,24 @@
       "duration_ms": 255401,
       "name": "\u8b5c\u5beb\u7684\u9752\u6625",
       "url": "https://open.spotify.com/track/4FqsQh3OgLL7xQy18xdJbt"
+    },
+    {
+      "album": {
+        "name": "\u8b8a\u5f62\u8a18",
+        "url": "https://open.spotify.com/album/072TwJkm4l1PuHgwi8atEO"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/153IGWBrtnwq4YxIvg3zeO"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "\u8b8a\u5f62\u8a18 (\u5f71\u96c6\u300a\u8070\u660e\u93ae\u300b\u5ba3\u50b3\u66f2)",
+      "url": "https://open.spotify.com/track/3aGCZOOlEkgFJtl0rJjyme"
     },
     {
       "album": {

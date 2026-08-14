@@ -4,7 +4,7 @@
 
 > 
 
-1,538 songs - 3 day 11 hr 4 min
+1,540 songs - 3 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -880,6 +880,7 @@
 | [My Balloon](https://open.spotify.com/track/4pnA1Ur4W98FlmJpnkEsTH) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3QjaxGp6wfwMiZbYdIeOUO) | 4:15 | 2024-04-23 | 2024-11-06 |
 | [My Collection!](https://open.spotify.com/track/4Hn7NbJ6thvvclZxz74yj8) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC2 \#\#B4GC2](https://open.spotify.com/album/5c2It0s5mFF54999njBo3L) | 2:36 | 2022-08-05 | 2023-04-12 |
 | [My Kitchen](https://open.spotify.com/track/5IFi8YfugyA9JBdfHlaMUP) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [No Pad, No Pencil](https://open.spotify.com/album/1wDWjJ7PtREkx56xMyOIWf) | 3:42 | 2026-01-15 | 2026-03-08 |
+| [My Way](https://open.spotify.com/track/2j91CgtRZJ4Jobg2LGyrS8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Purple City Matrix](https://open.spotify.com/album/6Wvkkih58R1C7HCrdoPW9E) | 3:28 | 2026-08-13 |  |
 | [My Way Out](https://open.spotify.com/track/0qiWnrmi9yBjfqyPbYXPMi) | [Fulcrum](https://open.spotify.com/artist/6nbidWb6qovzknhOdeExt7) | [My Way Out](https://open.spotify.com/album/3Pq3unl3zli2vWiK1UeiFy) | 2:07 | 2023-01-09 | 2023-08-28 |
 | [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 | 2023-05-26 | 2023-12-14 |
 | [Myself!](https://open.spotify.com/track/1OIsxL4PVsEE9rSrdu93Co) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:03 | 2022-11-02 | 2023-04-12 |
@@ -1537,6 +1538,7 @@
 | [Yeah \- bonus](https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 5:04 | 2025-08-16 | 2026-03-08 |
 | [Yerushalayim \- Live](https://open.spotify.com/track/3igp09h8uL0V3STzyZxx35) | [Yerachmiel Begun & The Miami Boys Choir](https://open.spotify.com/artist/6s2HLzlqGE56ToNhMvWu7Q) | [Miami On Social Media](https://open.spotify.com/album/5ZNfrmc30yRwOEFMUQNT4P) | 4:11 | 2025-08-23 | 2026-03-08 |
 | [Yoppenheimer](https://open.spotify.com/track/59xdYjVILhhafdiPHBpRda) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Yoppenheimer](https://open.spotify.com/album/1eUhZBzrbVNVkP0UE1r5bB) | 2:15 | 2025-08-02 | 2026-03-08 |
+| [yoshi's island](https://open.spotify.com/track/1FYeOxFvEOzPT2hk4kzSDN) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/113M3j7mkEpg5TUgXJDS79) | 6:18 | 2026-08-13 |  |
 | [You > Them \(Hate It!\)](https://open.spotify.com/track/3XwNEmdMEmjf9CkZrDBpM9) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [You > Them \(Hate It!\)](https://open.spotify.com/album/1t3gqZG4owzK59lurQyRjl) | 2:15 | 2022-12-07 | 2024-04-24 |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2025-05-01 | 2026-02-08 |
 | [You Know How It Is](https://open.spotify.com/track/2rj5XqPLceqhzK65BMdpu6) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:14 | 2025-06-10 | 2026-03-08 |

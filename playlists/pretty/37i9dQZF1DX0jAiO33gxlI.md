@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: VND, SD9, Lis Mc, Lifee
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,974 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,955 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Vai Chover](https://open.spotify.com/track/49g2dRb2hXfFJ2lIAQSXES) | [Léo da Bodega](https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g), [Tobioui](https://open.spotify.com/artist/2YgMHpEWXt0svvK705HUBH) | [Vai Chover](https://open.spotify.com/album/557mOer5pY52OoustukoyA) | 2:05 |
 | 75 | [Adam Sandler](https://open.spotify.com/track/4nrQTRZHQHZAYlMAM3j8qd) | [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [Como Se Fosse a Primeira Vez](https://open.spotify.com/album/1qb8BFWp8DBQbtjtA5b33M) | 1:45 |
 
-Snapshot ID: `AAAAAA2868uBEU8+hmXnOHx8r0sRYj30`
+Snapshot ID: `AAAAAEPvo+VGHKVpQ1FEEvA6Lj9VVlbE`

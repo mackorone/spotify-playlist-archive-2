@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 862058,
+  "num_followers": 862069,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPgSB8OXO4mSE8NFb1je9tGD3Lr3",
+  "snapshot_id": "AAAAAM9TLyEOg+E4ZFOSr8N6C33uYbLo",
   "tracks": [
     {
       "added_at": "2026-04-02 20:42:56",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "I Can't Go on Without You",
-        "url": "https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Deaf Heat EP",
         "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 215729,
       "name": "Deep Green",
       "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "I Can't Go on Without You",
+        "url": "https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
+        "name": "Glass Balloon",
+        "url": "https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8"
+      },
+      "artists": [
+        {
+          "name": "Twin Caverns",
+          "url": "https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa"
+        }
+      ],
+      "duration_ms": 243667,
+      "name": "Swell",
+      "url": "https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
         "name": "Hush (Theme From Turn)",
         "url": "https://open.spotify.com/album/7Ktx3fXFQf0zvz3Hbd1DNl"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 197240,
       "name": "Hush - Theme From Turn",
       "url": "https://open.spotify.com/track/6gt6hUfAeCcdDJcmlsD06p"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Glass Balloon",
-        "url": "https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8"
-      },
-      "artists": [
-        {
-          "name": "Twin Caverns",
-          "url": "https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa"
-        }
-      ],
-      "duration_ms": 243667,
-      "name": "Swell",
-      "url": "https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Until the Levee",
-        "url": "https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Until the Levee",
-      "url": "https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Oko",
         "url": "https://open.spotify.com/album/5OPKOFs2I80ODdmHjXmD89"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 196160,
       "name": "Every Man Is a Warrior",
       "url": "https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Until the Levee",
+        "url": "https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Until the Levee",
+      "url": "https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1587,6 +1587,58 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
+        "name": "No Burden",
+        "url": "https://open.spotify.com/album/6Ru52lwXvbPaAMSdyPOFsL"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Dream State...",
+      "url": "https://open.spotify.com/track/6tp18AVA4FEjFTYaSD8exB"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Highwomen / Redesigning Women / Crowded Table",
+        "url": "https://open.spotify.com/album/0Uwv4WEMv2lX0QDkVLGWg1"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Highwomen",
+      "url": "https://open.spotify.com/track/7aGpNpXbk0gIfZUe1mWoKK"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
         "name": "The System Only Dreams in Total Darkness",
         "url": "https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9"
       },
@@ -1615,38 +1667,6 @@
       "duration_ms": 276488,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Marked for Death",
-        "url": "https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4"
-      },
-      "artists": [
-        {
-          "name": "Emma Ruth Rundle",
-          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Marked for Death",
-      "url": "https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Notion",
-        "url": "https://open.spotify.com/album/295QySTXTwWvjhah3XVHvg"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/2DkRjzvzTxzeijk0pjSNBD"
     }
   ],
   "unique_name": "Dark & Stormy",

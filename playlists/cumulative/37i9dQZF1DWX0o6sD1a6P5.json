@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: CKay",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Tiakola",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 175814,
       "name": "CA$H",
       "url": "https://open.spotify.com/track/1n4i6Wz1W0QIVy0XWjWf0p"
@@ -3624,6 +3624,28 @@
       "duration_ms": 172017,
       "name": "Chairlady",
       "url": "https://open.spotify.com/track/7BVfw1GhKbT9NdhCdBXyxQ"
+    },
+    {
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/3RfQ73RyxRtmhnNYMKHKA5"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Bilouki",
+          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168565,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/0IY1yzvNwS83VF8POTKFjE"
     },
     {
       "album": {
@@ -9963,6 +9985,24 @@
     },
     {
       "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165784,
+      "name": "La tip\u00e8re",
+      "url": "https://open.spotify.com/track/63JDKTI5MdjUVsqaJ7Rd5O"
+    },
+    {
+      "album": {
         "name": "La Var (feat. KeBlack)",
         "url": "https://open.spotify.com/album/5DWtCV4A2qf4MxfFh57rzq"
       },
@@ -12130,7 +12170,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 178842,
       "name": "Money",
       "url": "https://open.spotify.com/track/64N74inwNvjJ7H2jNe2uhT"
@@ -14122,7 +14162,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 180983,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/662kXym3EfWBhRvevjYv3g"
@@ -20078,6 +20118,28 @@
       "duration_ms": 180000,
       "name": "YAWA",
       "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "Yaya (feat. Aya Nakamura)",
+      "url": "https://open.spotify.com/track/7epR1NCOGkOtJBZtp5Vicl"
     },
     {
       "album": {

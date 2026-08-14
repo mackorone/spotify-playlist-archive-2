@@ -1,12 +1,12 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11695,
+  "num_followers": 11693,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJEJZXR8hS9HNsmuj1Mehemks79m",
+  "snapshot_id": "AAAAADwwdrKitPp8gTk6vdx+6incXoUP",
   "tracks": [
     {
       "added_at": "2026-04-09 22:12:46",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Quattro",
+        "url": "https://open.spotify.com/album/264RetMxM0ihGubycm2Y4L"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Opiat",
+          "url": "https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Quattro",
+      "url": "https://open.spotify.com/track/0lMpZ1eELPt7WENvcei807"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "NIE MA CB (PRZY MNIE TU)",
         "url": "https://open.spotify.com/album/2ZBuaxJT22uoSJdsJEOmiw"
       },
@@ -619,26 +639,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Quattro",
-        "url": "https://open.spotify.com/album/264RetMxM0ihGubycm2Y4L"
-      },
-      "artists": [
-        {
-          "name": "Kabe",
-          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
-        },
-        {
-          "name": "Opiat",
-          "url": "https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Quattro",
-      "url": "https://open.spotify.com/track/0lMpZ1eELPt7WENvcei807"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "KTO MA STYL",
         "url": "https://open.spotify.com/album/3jCqpBKAq0S52X0O2Bd0I4"
       },
@@ -655,34 +655,6 @@
       "duration_ms": 136250,
       "name": "KTO MA STYL",
       "url": "https://open.spotify.com/track/4LeiikqM8SP6y943JAvrqy"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Tenten",
-        "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
-      },
-      "artists": [
-        {
-          "name": "Wenext",
-          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
-        },
-        {
-          "name": "M\u0142ody West",
-          "url": "https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK"
-        },
-        {
-          "name": "wane",
-          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
-        },
-        {
-          "name": "Okekel",
-          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
-        }
-      ],
-      "duration_ms": 219566,
-      "name": "Tenten",
-      "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -719,6 +691,34 @@
       "duration_ms": 180504,
       "name": "Fioletowy rok",
       "url": "https://open.spotify.com/track/71ZFriu82lLJQRtcOCREO0"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Tenten",
+        "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
+      },
+      "artists": [
+        {
+          "name": "Wenext",
+          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
+        },
+        {
+          "name": "M\u0142ody West",
+          "url": "https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK"
+        },
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        },
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        }
+      ],
+      "duration_ms": 219566,
+      "name": "Tenten",
+      "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "BANGKOK2025",
-        "url": "https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk"
-      },
-      "artists": [
-        {
-          "name": "Bardal",
-          "url": "https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR"
-        },
-        {
-          "name": "r\u00f3w babicze",
-          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
-        }
-      ],
-      "duration_ms": 198865,
-      "name": "BANGKOK2025",
-      "url": "https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Po\u0142\u0105czenia 2",
         "url": "https://open.spotify.com/album/2feprtPOCyMVM6HW7j3taF"
       },
@@ -1055,26 +1035,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "nareszcie w domu",
-        "url": "https://open.spotify.com/album/7prZBQ3CV8ZUO05o9tnhbb"
+        "name": "BANGKOK2025",
+        "url": "https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk"
       },
       "artists": [
         {
-          "name": "kuqe 2115",
-          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+          "name": "Bardal",
+          "url": "https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR"
         },
         {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        },
-        {
-          "name": "Kubi Producent",
-          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+          "name": "r\u00f3w babicze",
+          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
         }
       ],
-      "duration_ms": 144313,
-      "name": "lodowisko",
-      "url": "https://open.spotify.com/track/0lQQLAQY4vmCb1dpcz1OlH"
+      "duration_ms": 198865,
+      "name": "BANGKOK2025",
+      "url": "https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1095,6 +1071,30 @@
       "duration_ms": 169000,
       "name": "kiedy by\u0142em ale to house",
       "url": "https://open.spotify.com/track/3fF3RKOiMgMtCpPqdF3xdA"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "nareszcie w domu",
+        "url": "https://open.spotify.com/album/7prZBQ3CV8ZUO05o9tnhbb"
+      },
+      "artists": [
+        {
+          "name": "kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "duration_ms": 144313,
+      "name": "lodowisko",
+      "url": "https://open.spotify.com/track/0lQQLAQY4vmCb1dpcz1OlH"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "ALBUM ALPHA (DEMO)",
+        "url": "https://open.spotify.com/album/3B5gMNPmUMIpn05rwuitV6"
+      },
+      "artists": [
+        {
+          "name": "Bober",
+          "url": "https://open.spotify.com/artist/03rREATXGWcD2CfG3OXDZY"
+        },
+        {
+          "name": "shhieda",
+          "url": "https://open.spotify.com/artist/3SmlmvX2qQzGJDn2QZkMFW"
+        }
+      ],
+      "duration_ms": 159981,
+      "name": "Nie ma takiego numeru",
+      "url": "https://open.spotify.com/track/4KwrwRXSWlY95QccTUxiD5"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Czwarta Rano",
         "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 160851,
       "name": "Czwarta Rano",
       "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "ALBUM ALPHA (DEMO)",
-        "url": "https://open.spotify.com/album/3B5gMNPmUMIpn05rwuitV6"
-      },
-      "artists": [
-        {
-          "name": "Bober",
-          "url": "https://open.spotify.com/artist/03rREATXGWcD2CfG3OXDZY"
-        },
-        {
-          "name": "shhieda",
-          "url": "https://open.spotify.com/artist/3SmlmvX2qQzGJDn2QZkMFW"
-        }
-      ],
-      "duration_ms": 159981,
-      "name": "Nie ma takiego numeru",
-      "url": "https://open.spotify.com/track/4KwrwRXSWlY95QccTUxiD5"
     },
     {
       "added_at": "2026-04-09 22:12:46",

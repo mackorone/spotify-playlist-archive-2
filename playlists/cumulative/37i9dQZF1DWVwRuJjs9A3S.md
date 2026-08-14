@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie\. Cover: Susanne Sundfør
+> Det senaste och bästa från världen av indie\. Cover: Phoebe Bridgers
 
-1,349 songs - 3 day 5 hr 34 min
+1,358 songs - 3 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Big Idea](https://open.spotify.com/track/6H8zVCDkxJVx7MPDLQGvtQ) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Chaos Angel](https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2) | 3:42 | 2024-06-27 | 2024-07-27 |
 | [Big Mistake](https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Big Mistake](https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU) | 3:35 | 2026-04-23 |  |
 | [Big Solo](https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR) | [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Minute Nothing](https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz) | 3:38 | 2026-03-19 |  |
+| [Big Strong Man](https://open.spotify.com/track/0dIqX63wlCNs47iwUOq0G3) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Big Strong Man](https://open.spotify.com/album/2KLdQb39rhE54nb7Razscv) | 3:49 | 2026-08-13 |  |
 | [Bigger Person](https://open.spotify.com/track/1VZJQ8i70HJiRYZyOvOBRX) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY) | [Nordic Noir](https://open.spotify.com/album/4KB0uWkYl4ktPULgeW8hUS) | 3:11 | 2025-09-11 | 2026-01-16 |
 | [Birdsong](https://open.spotify.com/track/0AJJRuYWCpIdBrA2EM4Ka2) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Birdsong](https://open.spotify.com/album/5PTqT2mtWUJeeXs64lfK1i) | 3:21 | 2025-11-27 | 2026-05-01 |
 | [Bit mig](https://open.spotify.com/track/4thI83CMJQYfi9CXIayke1) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Klunk](https://open.spotify.com/album/3UHqvrisWMiefwr9OjnmPM) | 4:31 | 2026-02-12 |  |
@@ -228,6 +229,7 @@
 | [Close to Dying](https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Close to Dying](https://open.spotify.com/album/5YVuajI1Qk3oSfE3hfFTRM) | 3:00 | 2024-08-22 | 2024-11-01 |
 | [Closer To You](https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Closer To You](https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V) | 2:33 | 2024-06-27 | 2024-07-27 |
 | [Closing Scene](https://open.spotify.com/track/3hyy3rcfPvri9oyMHbpK8X) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Closing Scene](https://open.spotify.com/album/2EFtuaQTln5xxuKBduf692) | 3:23 | 2026-01-08 |  |
+| [Cocoon Time](https://open.spotify.com/track/2iL9dmSYg4o0eYueUlZme4) | [Vau](https://open.spotify.com/artist/2qx4y4ZEEuLFE6UB03i6oa) | [Cocoon Time](https://open.spotify.com/album/0E6HiEo7Np5rFqoqlI2Zqu) | 4:47 | 2026-08-13 |  |
 | [codepending](https://open.spotify.com/track/1WMTEpq5ngLwPGRV1fq5yx) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [codepending](https://open.spotify.com/album/6VdT3gkIWTkc9Jj4184Tna) | 3:14 | 2024-06-27 | 2024-08-16 |
 | [Coffin Change](https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Coffin Change](https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG) | 3:05 | 2025-02-20 | 2025-04-04 |
 | [Coil](https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Rumspringa](https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn) | 3:54 | 2026-05-28 |  |
@@ -275,6 +277,7 @@
 | [Del av dig \- Edit](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig \(Edit\)](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-05 | 2024-11-15 |
 | [Delete Forever](https://open.spotify.com/track/5hsvL0N22UBECtZFEezvC6) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Delete Forever](https://open.spotify.com/album/6vns0F3lPj9nkAuQ3BxUzu) | 3:32 | 2026-01-22 |  |
 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-02-27 | 2025-04-25 |
+| [Deliver Me From Trying](https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Deliver Me From Trying](https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r) | 3:54 | 2026-08-13 |  |
 | [DeLorean](https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [DeLorean](https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN) | 3:31 | 2025-01-23 | 2025-04-18 |
 | [Demons](https://open.spotify.com/track/38VyxEI8InzvhKZfQJfKEM) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY) | [Demons](https://open.spotify.com/album/5jUs3aZpuNvoxD0IkLsUfl) | 2:50 | 2025-08-21 | 2025-09-12 |
 | [Den enda du har](https://open.spotify.com/track/4qhTYbdnPbpZr2SQgStJrP) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Den enda du har](https://open.spotify.com/album/1gwhFxLUwG7QFmKiibz01j) | 4:46 | 2025-09-18 | 2026-05-01 |
@@ -397,6 +400,7 @@
 | [FOR THE BOYS](https://open.spotify.com/track/6SVl0VRh9ZfHuN6Iy94GoQ) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [FOR THE BOYS](https://open.spotify.com/album/5xk2bNPyiDBHR5mqglyVWo) | 4:33 | 2025-11-20 |  |
 | [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 | 2026-07-23 |  |
 | [Forcefed Serenity](https://open.spotify.com/track/7dOKUA3dk7cCG6BVv8RAuE) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z), [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg) | [Forcefed Serenity](https://open.spotify.com/album/5gW4SSCvyvPC36IQsu1icB) | 2:36 | 2025-10-23 |  |
+| [Foremothers](https://open.spotify.com/track/5YWWODFNkHVhOnl34R1GQb) | [Nina Winder\-Lind](https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j) | [Wild Love](https://open.spotify.com/album/14lUXimueH6tfm8jOmHXWq) | 4:19 | 2026-08-13 |  |
 | [Forever Is Not That Long](https://open.spotify.com/track/7jNodDaB30i6W03yxzhBgQ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP), [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Forever Is Not That Long](https://open.spotify.com/album/0T1ISornBJUnYNnrYRI4Ju) | 4:18 | 2025-02-06 | 2025-04-25 |
 | [forever on my mind](https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [forever on my mind](https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p) | 2:53 | 2024-10-24 | 2025-01-17 |
 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Laminar Flow](https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42) | 2:13 | 2025-10-23 | 2026-05-01 |
@@ -473,6 +477,7 @@
 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 | 2024-09-19 | 2024-11-15 |
 | [Head In My Hands](https://open.spotify.com/track/3iLF9cXb9IHSLNpGIbLOvs) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Head In My Hands](https://open.spotify.com/album/4OiUkPoc5WSkXGjjSOYO00) | 3:12 | 2024-10-17 | 2024-12-06 |
 | [Headfirst](https://open.spotify.com/track/1pBiGqXUOVRrCxP44nonG2) | [Nina Winder\-Lind](https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j) | [Headfirst](https://open.spotify.com/album/0UeCgZQsDJTmdPMAQRKHkc) | 2:38 | 2026-07-16 |  |
+| [Headless](https://open.spotify.com/track/2J7YLJ1Llo14Dlh4qBLhUH) | [Iben](https://open.spotify.com/artist/74r4FqTey9wuD0hsGp1gdf) | [Hulder](https://open.spotify.com/album/0zt5TFTvB8h4Avd5WAC72i) | 3:34 | 2026-08-13 |  |
 | [Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself \(Deluxe Version\)](https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM) | 3:35 | 2025-02-27 | 2025-04-25 |
 | [Heartbeats](https://open.spotify.com/track/1yeWvrJVxBl1vYeuKSDuY0) | [Weatherday](https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK) | [Angel](https://open.spotify.com/album/125JWbV6hgxrcKOLwqCKpD) | 2:30 | 2025-02-03 | 2025-03-28 |
 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 | 2025-02-06 | 2025-03-28 |
@@ -532,6 +537,7 @@
 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 | 2024-10-10 | 2025-01-24 |
 | [I Believe In You](https://open.spotify.com/track/0cSTSdCl9ovNRUXDCUY3s1) | [Vargen](https://open.spotify.com/artist/3sl00gQLFexX8tuanNfe9e), [Mats "MP" Persson](https://open.spotify.com/artist/5miXrCJvExLhtdaB2Jajgt) | [I Believe In You](https://open.spotify.com/album/6y3xdTYXr1rDsIouBcAHkz) | 3:32 | 2025-08-21 | 2026-01-16 |
 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 | 2024-12-19 | 2025-02-21 |
+| [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 | 2026-08-13 |  |
 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 | 2025-03-20 | 2025-06-20 |
 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 | 2025-04-24 | 2025-07-25 |
 | [I don't know](https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [I don't know](https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu) | 3:01 | 2026-04-09 |  |
@@ -666,6 +672,7 @@
 | [Komma ner](https://open.spotify.com/track/2IjVBIfT7V9U2fq2o5DM1S) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Komma ner](https://open.spotify.com/album/5V7Qlr9LxudwzDv6jCM3CQ) | 3:22 | 2025-05-01 | 2025-07-25 |
 | [Kraut](https://open.spotify.com/track/29pzCVABjlBFfMLlgg3AKd) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Kraut](https://open.spotify.com/album/1JAoPZrG9rUe9o55VpjNaa) | 2:53 | 2025-02-06 | 2025-04-18 |
 | [Ladies Of The Fight](https://open.spotify.com/track/1JtafYgKoyS7ifGy0IGIdi) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Ladies Of The Fight](https://open.spotify.com/album/0OKOwnbNf6hEy7e6Nozm3L) | 2:39 | 2024-06-27 | 2024-08-09 |
+| [Lady Love](https://open.spotify.com/track/10nw6y9It4go7FGkOQpyAo) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Lady Love](https://open.spotify.com/album/7gSEtRaXhGTaxiKlFkeUqa) | 3:28 | 2026-08-13 |  |
 | [Lago Maggiore](https://open.spotify.com/track/2QGQO0H2bkgAvRfgfvnxbD) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Nordic Machine](https://open.spotify.com/album/4XHdvDlocx2Kd8VdXVmDpI) | 2:58 | 2025-05-08 | 2025-10-10 |
 | [Landslide](https://open.spotify.com/track/6xmfvJOanTz7lLPTOnPCG2) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Mosquito](https://open.spotify.com/album/2ajSzW4bjY8bGnRt0RBMhm) | 4:06 | 2026-03-05 |  |
 | [Last Forever](https://open.spotify.com/track/3k7fKbbxx0FPxknUdUfOpp) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf), [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Last Forever](https://open.spotify.com/album/08Q5zl0Pi1083nDP01RMna) | 3:11 | 2024-09-12 | 2024-11-15 |
@@ -845,6 +852,7 @@
 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-27 | 2025-06-20 |
 | [November](https://open.spotify.com/track/3wxe1sxClKHMW73z9hnL4y) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Om du behöver mig](https://open.spotify.com/album/0Df1JBTZ6Qg2V2JN26W9CZ) | 3:48 | 2025-11-06 | 2026-05-29 |
 | [Now And Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now And Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 | 2025-01-02 | 2025-02-14 |
+| [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 | 2026-08-13 |  |
 | [NPC](https://open.spotify.com/track/1gha8sE1ZhS3G74nQaazHH) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [NPC](https://open.spotify.com/album/76OeV1RkQcnOhoMfuk4EYt) | 4:05 | 2025-11-13 | 2026-05-01 |
 | [Numb](https://open.spotify.com/track/3R3gSrDHRnAu0ZMxXPaqd4) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Numb](https://open.spotify.com/album/4hUxwuyEjww2DH1RrdIqlK) | 2:53 | 2026-01-22 |  |
 | [Nämndeman \- om medelklassens dilemma](https://open.spotify.com/track/3wbgRz2v0P0HB5h8V5yEUY) | [Året Var](https://open.spotify.com/artist/1IuIAS0zkKRpITz8IMNa3i) | [Nämndeman \- om medelklassens dilemma](https://open.spotify.com/album/1lSK4DtV2KBJqZz8R0tsXW) | 5:52 | 2026-07-16 |  |
@@ -956,6 +964,7 @@
 | [Rivers Don't Speak](https://open.spotify.com/track/1qf3auAlvL3BNTTgvBistk) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Rivers Don't Speak](https://open.spotify.com/album/7bmD1ZPyifBcTIbpxgufq1) | 3:35 | 2024-08-01 | 2024-09-19 |
 | [Rivmärken](https://open.spotify.com/track/6fzRvxObCvbqwX4d1AFZiI) | [Agitator](https://open.spotify.com/artist/6dIwSdnbb2L8BfKtpUQAej) | [Rivmärken](https://open.spotify.com/album/27EdEB9jOecif5mFCYbddA) | 3:26 | 2024-08-22 | 2024-09-06 |
 | [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 | 2026-02-19 |  |
+| [Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Robotboy](https://open.spotify.com/album/02XtoOnK9btJCcMgVpk11Z) | 2:34 | 2026-08-13 |  |
 | [Rock and Roll, Summer](https://open.spotify.com/track/2wpi25Kv4W62DdDU8jrAFt) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [See what heaven looks like now](https://open.spotify.com/album/46MlUsV2c7Jxi8tQItfT57) | 3:10 | 2025-03-13 | 2025-06-20 |
 | [Rock'n'Roll](https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Rock'n'Roll](https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK) | 2:39 | 2024-09-19 | 2025-01-17 |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-10-18 | 2025-02-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Weezer along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,941 likes - 81 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,980 likes - 81 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 80 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
 | 81 | [World's Always Burning \[Feat\. Mannequin Pussy\]](https://open.spotify.com/track/23i3HWN6em3HxUJyyiynYh) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [World's Always Burning \[Feat\. Mannequin Pussy\]](https://open.spotify.com/album/3vFNcU7GHXyLCt7Q4bBDbs) | 2:58 |
 
-Snapshot ID: `AAAAADv9ElOdQwDkKo+2JWaWVBHhVzOU`
+Snapshot ID: `AAAAAHxA1z+JyCBbPQEqrIE6XOHI9kZp`

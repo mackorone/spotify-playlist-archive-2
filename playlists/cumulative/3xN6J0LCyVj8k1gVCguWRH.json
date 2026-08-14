@@ -5866,7 +5866,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 167142,
       "name": "Amigos Reales",
       "url": "https://open.spotify.com/track/4MM5YmLN0Knf385DUC2pfH"
@@ -93627,6 +93627,24 @@
     },
     {
       "album": {
+        "name": "slow dance!",
+        "url": "https://open.spotify.com/album/7n3QY1L09eSXScGla1mulW"
+      },
+      "artists": [
+        {
+          "name": "Kiana Corley",
+          "url": "https://open.spotify.com/artist/6c613EFBtkzPX5Vj6C1OgG"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187188,
+      "name": "slow dance!",
+      "url": "https://open.spotify.com/track/5oh4apLCPAMrCwvNoYFFr8"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/2YoqXNIJ6raFaJ0N7Tw0Te"
       },
@@ -102113,6 +102131,28 @@
     },
     {
       "album": {
+        "name": "Talk to You",
+        "url": "https://open.spotify.com/album/14uUOPxK1Lt7M3WCd5RO8I"
+      },
+      "artists": [
+        {
+          "name": "Tala Silva",
+          "url": "https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J"
+        },
+        {
+          "name": "Ryoma",
+          "url": "https://open.spotify.com/artist/6KjjUJmVmLX2mcRpfq7Y0H"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226956,
+      "name": "Talk to You",
+      "url": "https://open.spotify.com/track/4PicHWxTA5RGvDMDASyd63"
+    },
+    {
+      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/3cfN1J6tTG60BlR3DNbhJJ"
       },
@@ -104328,6 +104368,24 @@
       "duration_ms": 229538,
       "name": "The Habit Machine",
       "url": "https://open.spotify.com/track/4WcsXz04Jdjoi3dMjR4sj5"
+    },
+    {
+      "album": {
+        "name": "Cease & Desist",
+        "url": "https://open.spotify.com/album/3BlodwszJG3m5XIsdFaWny"
+      },
+      "artists": [
+        {
+          "name": "The Grassring",
+          "url": "https://open.spotify.com/artist/2GyzqvnWxsjsBCtD5qiyL0"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240386,
+      "name": "The Hard Rule",
+      "url": "https://open.spotify.com/track/6kzy7u6j5gg9u2Y3pEin7J"
     },
     {
       "album": {
@@ -112218,6 +112276,24 @@
       "duration_ms": 198150,
       "name": "Venus",
       "url": "https://open.spotify.com/track/6mdDuI5mMFotaaqV6xdelZ"
+    },
+    {
+      "album": {
+        "name": "Verano!",
+        "url": "https://open.spotify.com/album/7updVHZbPfCz3VDEJ14YI8"
+      },
+      "artists": [
+        {
+          "name": "Ivana June",
+          "url": "https://open.spotify.com/artist/0uKpC8kiMcqAxihriuu7cP"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223011,
+      "name": "Verano!",
+      "url": "https://open.spotify.com/track/7cN5M5xQgljTIDX65h9EF3"
     },
     {
       "album": {

@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 205943,
       "name": "gippal",
       "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
@@ -1432,6 +1432,28 @@
       "duration_ms": 143157,
       "name": "The Emo Song (feat. Sihk)",
       "url": "https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac"
+    },
+    {
+      "album": {
+        "name": "The Emo Song (feat. Sihk)",
+        "url": "https://open.spotify.com/album/2kjjl29CB8nVwrXaEOaJO6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "The Emo Song (feat. Sihk)",
+      "url": "https://open.spotify.com/track/6EVtAgOJw0NHlLXltpn41u"
     },
     {
       "album": {

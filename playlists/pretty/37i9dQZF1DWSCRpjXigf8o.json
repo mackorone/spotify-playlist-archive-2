@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIQPDs6Nn47PAAQcFDyZjwPGAk/",
+  "snapshot_id": "AAAAACxpcWF+VrYAViuxNUUg6OGI2hip",
   "tracks": [
     {
       "added_at": "2026-02-19 15:16:11",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
-        "url": "https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA"
-      },
-      "artists": [
-        {
-          "name": "Arata Manako",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
-      "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30a2\u30a4\u30a6\u30bf",
         "url": "https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 292917,
       "name": "\u30a2\u30a4\u30a6\u30bf",
       "url": "https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA"
+      },
+      "artists": [
+        {
+          "name": "Arata Manako",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/09tkV5i4lWmAVSumsJIsEE"
     },
     {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "You are Silence",
-        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "You are Silence",
-      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "Trio & Charm",
@@ -943,6 +927,22 @@
       "duration_ms": 226585,
       "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
       "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
+    },
+    {
+      "added_at": "2026-07-16 15:00:53",
+      "album": {
+        "name": "You are Silence",
+        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "duration_ms": 361000,
+      "name": "You are Silence",
+      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
+        "url": "https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 209899,
+      "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
+      "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Fall Into You",
         "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 168658,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
-        "url": "https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 209899,
-      "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
-      "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
     },
     {
       "added_at": "2026-07-09 15:00:41",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Apple",
-        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
-      },
-      "artists": [
-        {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
         "url": "https://open.spotify.com/album/0GQmfz006T3QqIQ1bRMdVv"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 218513,
       "name": "all my perfects",
       "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u6803\u6728",
-        "url": "https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE"
-      },
-      "artists": [
-        {
-          "name": "Guiba",
-          "url": "https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN"
-        }
-      ],
-      "duration_ms": 229034,
-      "name": "\u6803\u6728",
-      "url": "https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "NEW ERA",
         "url": "https://open.spotify.com/album/68M8Tmn6r8UHPjj9mEKfIv"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "\u6803\u6728",
+        "url": "https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE"
+      },
+      "artists": [
+        {
+          "name": "Guiba",
+          "url": "https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN"
+        }
+      ],
+      "duration_ms": 229034,
+      "name": "\u6803\u6728",
+      "url": "https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Love me tender",
         "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 271266,
       "name": "So am I",
       "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Turntable in the Lift",
+        "url": "https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u5de2 Nosu",
+          "url": "https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs"
+        }
+      ],
+      "duration_ms": 426250,
+      "name": "Tunes for Suly",
+      "url": "https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1323,22 +1339,6 @@
       "duration_ms": 221490,
       "name": "maybe",
       "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Turntable in the Lift",
-        "url": "https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk"
-      },
-      "artists": [
-        {
-          "name": "\u91ce\u5de2 Nosu",
-          "url": "https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs"
-        }
-      ],
-      "duration_ms": 426250,
-      "name": "Tunes for Suly",
-      "url": "https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u541b\u306f\u8a00\u3046\u304b\u306a",
-        "url": "https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "\u541b\u306f\u8a00\u3046\u304b\u306a",
-      "url": "https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2kKGCcO1yYBdkbUMRb2VxJ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 238249,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1gIPa9lKYq33Y7B9bJoBau"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u541b\u306f\u8a00\u3046\u304b\u306a",
+        "url": "https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "\u541b\u306f\u8a00\u3046\u304b\u306a",
+      "url": "https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb"
     },
     {
       "added_at": "2026-02-19 15:16:11",

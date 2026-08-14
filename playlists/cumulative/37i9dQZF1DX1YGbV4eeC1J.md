@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Nandy
+> What is your love language? Say it in Swahili\.  Cover: Abigail Chams
 
-381 songs - 21 hr 20 min
+383 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 | 2022-05-26 | 2023-06-09 |
 | [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 | 2023-02-16 | 2026-03-27 |
 | [Mahaba Rundo](https://open.spotify.com/track/7IQHfseN0kGCQuUrfpfPKn) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 2:46 | 2024-08-15 | 2025-01-31 |
-| [MAJO](https://open.spotify.com/track/3iNaSkn53KpB0DM6MvC64r) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [MAJO / SEE BODY](https://open.spotify.com/album/4ITZ8yzAWfUEbNjR4SYrpC) | 2:26 | 2025-12-05 |  |
+| [MAJO](https://open.spotify.com/track/3iNaSkn53KpB0DM6MvC64r) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [MAJO / SEE BODY](https://open.spotify.com/album/4ITZ8yzAWfUEbNjR4SYrpC) | 2:26 | 2025-12-05 | 2026-08-14 |
 | [Malaika](https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/3yPFOMzNH7EAJVDPZpyMsj) | 3:42 | 2022-05-26 | 2023-04-21 |
 | [Mali Safi](https://open.spotify.com/track/275GPFzAqqi5hEZWTvdmPU) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Prince Indah](https://open.spotify.com/artist/72UZHvETWq3aV97cVxC5VS) | [Mali Safi](https://open.spotify.com/album/7fotVPs9r5uBiCmpzidB76) | 3:58 | 2024-07-04 | 2025-02-14 |
 | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/track/1n2beraaBdeHstydRddlpI) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/album/3quhGw7vAKqk1Kudwin32W) | 2:50 | 2024-03-14 | 2024-03-22 |
@@ -333,6 +333,7 @@
 | [Tina](https://open.spotify.com/track/2XgoqCgvCYzOZDw7HvSoxn) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Tina](https://open.spotify.com/album/0PenAHs174BfKImPfisGti) | 3:06 | 2024-09-20 | 2025-01-17 |
 | [Tiririka](https://open.spotify.com/track/0cjQ4PR7bYMXl2GWMIRlAm) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Tiririka](https://open.spotify.com/album/2KQwOdsGxPTILQpk5ny7nB) | 3:47 | 2024-03-14 | 2024-03-22 |
 | [Toto \(feat\. Barnaba\)](https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Toto \(feat\. Barnaba\)](https://open.spotify.com/album/0j9QtYqhQwm5fcjgwFfK0A) | 3:39 | 2024-10-31 | 2025-07-25 |
+| [Touch](https://open.spotify.com/track/6LhhKqI7A7Pyn6TQp0KqNq) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Touch](https://open.spotify.com/album/2yBzGSKc9W0KyTb7fwowhW) | 3:45 | 2026-08-13 |  |
 | [Trouble](https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Trouble](https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS) | 3:25 | 2023-06-15 | 2023-11-07 |
 | [Tulia Na Mimi \(feat\. Jay Melody\)](https://open.spotify.com/track/53rL8Pf3wxrrYHK3PzmFJZ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Take Away The Pain](https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo) | 3:09 | 2025-02-06 | 2025-07-05 |
 | [Tunapendana](https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Tunapendana](https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2) | 3:35 | 2024-11-22 | 2026-05-01 |
@@ -377,7 +378,7 @@
 | [WIVU](https://open.spotify.com/track/0wKkMsJb5vGjUMG1AHU4OM) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [THE MOTIONS](https://open.spotify.com/album/4fPOxjuC3kyV9c6TW4Ejjq) | 3:00 | 2024-08-08 | 2025-01-31 |
 | [Wivu](https://open.spotify.com/track/14p6haa3m3b9WxUhDF93iy) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Listen to Me Again](https://open.spotify.com/album/4xQ3Molayp9PvepgQsZqe4) | 3:32 | 2026-06-26 |  |
 | [Wote](https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Love Season](https://open.spotify.com/album/3lmgIevac4UvNrj4K5I3hg) | 3:10 | 2025-02-06 |  |
-| [Wow](https://open.spotify.com/track/1a50fC98TLpeermDrb5dws) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [This is Appy](https://open.spotify.com/album/43i28oP35562ecl4k6KOzs) | 3:32 | 2026-02-12 |  |
+| [Wow](https://open.spotify.com/track/1a50fC98TLpeermDrb5dws) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [This is Appy](https://open.spotify.com/album/43i28oP35562ecl4k6KOzs) | 3:32 | 2026-02-12 | 2026-08-14 |
 | [Yako Wapi](https://open.spotify.com/track/3EIGn3wZiw5PZw66eHwBuq) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Yako Wapi](https://open.spotify.com/album/6RCoSr3PynLjqURiK99QRK) | 3:35 | 2025-01-23 | 2025-09-12 |
 | [Yanamwagika](https://open.spotify.com/track/2QDnyZuNoQdwKgaFQ9WVqm) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Yanamwagika](https://open.spotify.com/album/6U2gw3Hf4KribaJkGRa1hV) | 3:17 | 2026-05-28 |  |
 | [Yazoee](https://open.spotify.com/track/7go3M2likVy1B21NC0XJA1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Yazoee](https://open.spotify.com/album/6Lc9nilYGt0nnZKRPhXwsa) | 3:09 | 2026-05-07 |  |
@@ -386,6 +387,7 @@
 | [You \(feat\. Yammi\)](https://open.spotify.com/track/4XTcVh6TLERIw3BcA4sX2D) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [You \(feat\. Yammi\)](https://open.spotify.com/album/6yWJogn1gsms4cAXPE6b7x) | 3:30 | 2024-03-14 | 2024-03-22 |
 | [You Better Go](https://open.spotify.com/track/0kZoAZDJMIz1nObifhVNWC) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [You Better Go](https://open.spotify.com/album/6uVWT5KW2uov5KNYHpM4Mj) | 3:19 | 2024-08-29 | 2025-04-25 |
 | [Your Loss](https://open.spotify.com/track/5v3BFswaqCAri7bZY2g78o) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Your Loss](https://open.spotify.com/album/6HzYn6HViKNb7mWwbIC8Ie) | 2:33 | 2026-01-15 |  |
+| [Yoyo](https://open.spotify.com/track/78AwXtsxAg9TErM4gwNs2k) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Yoyo](https://open.spotify.com/album/68uiH2UHyO8clfkV4HWnzq) | 3:10 | 2026-08-13 |  |
 | [Yule \- Remix](https://open.spotify.com/track/7t4SpN8c927O7Y3ymBsXnG) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yule \(Remix\)](https://open.spotify.com/album/5wfD1q45IeSUz5Tq8aQ42e) | 3:11 | 2024-06-07 | 2024-12-06 |
 | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Dadiposlim](https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy) | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou) | 3:30 | 2024-02-15 | 2026-01-16 |
 | [Zoba](https://open.spotify.com/track/6x3liByFkS6SWGUWHUKsjL) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Zoba](https://open.spotify.com/album/5uML55NyKv8bCQRHhROyqh) | 3:36 | 2024-05-30 | 2024-11-01 |

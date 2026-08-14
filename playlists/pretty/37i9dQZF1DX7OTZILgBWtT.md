@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OTZILgBWtT.md) - [plain]
 
 > enjoy the Dynamicduo concert \[가끔씩 오래 보자\] LIVE SET including the voices of them on stage! \(다이나믹 듀오의 무대 멘트와 목소리가 포함된 \[가끔씩 오래 보자\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037 likes - 35 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040 likes - 35 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OTZILgBWtT.md) - [plain]
 | 34 | [MENT 8](https://open.spotify.com/track/4sDohIFEmYFaQK98CpbcxY) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Dynamicduo concert \[In The Long Run\]](https://open.spotify.com/album/5eFkpZ4qPvX2rSLD7wrYXL) | 0:34 |
 | 35 | [Johnny \(Feat\. Dynamicduo\)](https://open.spotify.com/track/4OHq2ao4pXmGq9OOuP3lxb) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Johnny](https://open.spotify.com/album/4PGzs8JNNxXkaE3SMpApOm) | 3:54 |
 
-Snapshot ID: `AAAAADB7SLkrmJPz/661TlOUROQgbPxG`
+Snapshot ID: `AAAAALef0hGhZB5Ybox/OMi3kjspbI4M`

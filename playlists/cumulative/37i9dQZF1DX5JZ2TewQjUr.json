@@ -3299,6 +3299,28 @@
     },
     {
       "album": {
+        "name": "No More Dark",
+        "url": "https://open.spotify.com/album/6W1mrwW0Lz2jONi7hyfQGd"
+      },
+      "artists": [
+        {
+          "name": "Kung Chi Shing",
+          "url": "https://open.spotify.com/artist/0iDLyRwkaS3TcFUMea3zb9"
+        },
+        {
+          "name": "Olivier Cong",
+          "url": "https://open.spotify.com/artist/2nhcHKPRMgQm4Z9wkz6GVn"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Coda (its so near)",
+      "url": "https://open.spotify.com/track/3lD57x1Vc82p99gfhIFOcL"
+    },
+    {
+      "album": {
         "name": "Coffee or tea",
         "url": "https://open.spotify.com/album/5cYa0ENtyWPMnfCGEBXVje"
       },
@@ -30304,6 +30326,28 @@
       "duration_ms": 274066,
       "name": "\u7b49\u4e00\u7b49",
       "url": "https://open.spotify.com/track/539h61H0uqsk2NS9HAkcp0"
+    },
+    {
+      "album": {
+        "name": "\u7b49\u4e00\u7b49 (\u751f\u65e5\u5929\u5929\u904e\u7248\u672c)",
+        "url": "https://open.spotify.com/album/64sO68DtvEuoRh1IKrkH1x"
+      },
+      "artists": [
+        {
+          "name": "The Hertz",
+          "url": "https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b"
+        },
+        {
+          "name": "Serrini",
+          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274058,
+      "name": "\u7b49\u4e00\u7b49 - \u751f\u65e5\u5929\u5929\u904e\u7248\u672c",
+      "url": "https://open.spotify.com/track/3fTX40iobyUMZsFuntoICn"
     },
     {
       "album": {

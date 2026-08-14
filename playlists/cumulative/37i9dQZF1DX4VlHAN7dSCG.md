@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Tizzy Bac
 
-986 songs - 2 day 16 hr 13 min
+988 songs - 2 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Summer XX](https://open.spotify.com/track/5EiCqSphioHscDDFhUVuoN) | [Schoolgirl Byebye](https://open.spotify.com/artist/6kfcndVsu8F9Y5gL5xc717) | [Summer XX](https://open.spotify.com/album/17pDZhXXwIMkY3Yn8X7Q8t) | 2:48 | 2024-10-10 | 2024-11-01 |
 | [Sun Moon Darkness 明日音](https://open.spotify.com/track/2tTO2OFiSkyOXuExTRZSgO) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Sun Moon Darkness 明日音](https://open.spotify.com/album/2EfM5EqV0igQZIZRtii4dg) | 4:43 | 2025-11-27 | 2025-12-12 |
 | [SUNNYDAY](https://open.spotify.com/track/7CjfU8IOB6Y1BoBLFYYvZi) | [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [SUNNYDAY](https://open.spotify.com/album/6VplCaA9aBrHJ9zSIFgE2B) | 2:49 | 2025-07-03 | 2025-07-25 |
+| [Super Shine](https://open.spotify.com/track/3RF64EPmi4SjigN9aa9Vk3) | [核果人NUTS](https://open.spotify.com/artist/0eYN1dX9ZuhqO3vEqaNPRG) | [NEONUTS](https://open.spotify.com/album/1rhlPU6f6KwmE9CDQGwrmD) | 4:21 | 2026-08-13 |  |
 | [SWING DANCE（動畫《妖果小學》片尾曲）](https://open.spotify.com/track/3AuNMzZZqB83zl8DlaLkHY) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [SWING DANCE（動畫《妖果小學》片尾曲）](https://open.spotify.com/album/0qxdaSXF0Z9DlF0Kqa3peT) | 2:12 | 2025-08-07 | 2025-08-29 |
 | [Take Me To Beijing \(一起回北京\)](https://open.spotify.com/track/1tUkBgIuQcMvRnM0cYcYtp) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Take Me To Beijing \(一起回北京\)](https://open.spotify.com/album/3JFhMbGDRnTcupzeyZz0iQ) | 3:28 | 2024-08-29 | 2024-09-20 |
 | [Take Me To The Edge](https://open.spotify.com/track/2bYK8AmAQHxh9WtywzOBDl) | [THE EON](https://open.spotify.com/artist/4HVanu07Tw84GozJVHR1lk) | [Take Me To The Edge](https://open.spotify.com/album/43RBd3EmvewVeyc5coUPXX) | 3:10 | 2025-12-04 | 2025-12-26 |
@@ -616,6 +617,7 @@
 | [我被寫進你的笑話裡](https://open.spotify.com/track/4syuTyqxlRjsdgIHwt4zFW) | [Kumara the Cat 貓咪庫瑪拉](https://open.spotify.com/artist/77YGTeS9iyhPgzRlMgSaGv) | [我被寫進你的笑話裡](https://open.spotify.com/album/6lxixocnBBEVJm9HxkXfPV) | 3:13 | 2025-04-03 | 2025-05-09 |
 | [我要把眼淚當汽水](https://open.spotify.com/track/5VUmUyA0zJSZ0wuFLB4oy2) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [我要把眼淚當汽水](https://open.spotify.com/album/1MSPxTnskCnjQqHIYmLYbF) | 3:03 | 2025-09-11 | 2025-10-03 |
 | [我要走啦](https://open.spotify.com/track/6hKOTKvM6RiDEYgIlKHYOp) | [The Life Journey](https://open.spotify.com/artist/3qs5OOuNyNxW1JGhfdgnUI) | [我要走啦](https://open.spotify.com/album/5nDKFvWiT7MzqRvPtlWO11) | 3:53 | 2025-07-03 | 2025-07-18 |
+| [我討厭你](https://open.spotify.com/track/2J2lvKl9D6axFb0Eq9TCal) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [我討厭你](https://open.spotify.com/album/6kw02Umlwacgmxdv0SuBOg) | 3:22 | 2026-08-13 |  |
 | [我變了](https://open.spotify.com/track/2gLecIEf04d3hORpt1gxC8) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [好不容易我變了](https://open.spotify.com/album/2qFZjXJVyRtBVCKPYZ0Sxy) | 2:26 | 2024-07-25 | 2024-10-11 |
 | [我还是会想他](https://open.spotify.com/track/6Kv80Ap9kUKglc5pH6ykNZ) | [d00nuts](https://open.spotify.com/artist/5HhB2I4VDq7HzEm7Ay1Lmv) | [我还是会想他](https://open.spotify.com/album/5FFH7W2V3N8I1KDu1X1FmR) | 4:44 | 2025-10-30 | 2025-11-07 |
 | [所有情歌都關於你](https://open.spotify.com/track/5m5So19AilO6NpcadojFNQ) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [所有情歌都關於你](https://open.spotify.com/album/2onBGNbk9DKfCEiljt4hHz) | 3:15 | 2025-10-30 | 2025-11-21 |

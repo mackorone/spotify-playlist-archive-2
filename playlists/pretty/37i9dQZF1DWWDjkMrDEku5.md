@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDjkMrDEku5.md) - [plain]
 
 > Get ready for Disney and Pixar’s Toy Story 5, only in theaters\. To infinity and beyond!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,409 likes - 36 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,541 likes - 36 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDjkMrDEku5.md) - [plain]
 | 35 | [Parting Gifts & New Horizons](https://open.spotify.com/track/1ahHAEbsSMfnDTe8E8K4qj) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 5:05 |
 | 36 | [So Long](https://open.spotify.com/track/62rYlqHQSByn5XCXSEyozl) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y8MjpBVOSPzJLdgUGNIZQ) | 4:55 |
 
-Snapshot ID: `AAAAAOsb4cJiSh97Au/XDEX4GvkMoMID`
+Snapshot ID: `AAAAAJzYDEcmP0Q+dibUKs0KdFvo9J5E`

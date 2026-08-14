@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Mollie Elizabeth
+> Feeling dramatic? All eyes on you\. Cover: Josie Edwards
 
-603 songs - 1 day 8 hr 47 min
+605 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [ALICE \- Red Queen Version](https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh), [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [ALICE \(Red Queen Version\)](https://open.spotify.com/album/7tzDJQwW4WzJXSbSJpFqG2) | 2:28 | 2025-10-17 | 2026-05-16 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2023-05-26 | 2024-06-29 |
 | [Alive](https://open.spotify.com/track/1DtQMNuEieMUYm2g4SoD8M) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Alive](https://open.spotify.com/album/1LUxUwfGmcVMmT2K5Tn4ed) | 2:48 | 2024-05-03 | 2024-05-15 |
+| [All American](https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [All American](https://open.spotify.com/album/45JLlolM49Iw5VAccAEO1M) | 3:48 | 2026-08-14 |  |
 | [All Eyes On Me](https://open.spotify.com/track/2Q6RiCAKOrxRYtvl9pcpjY) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 5:02 | 2022-06-07 | 2022-08-06 |
 | [All Eyes On Me](https://open.spotify.com/track/3rV5y8rcQrwRt9fWGLmjOQ) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 5:02 | 2022-05-17 | 2022-07-29 |
 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2023-02-16 | 2023-08-19 |
@@ -238,7 +239,7 @@
 | [Happy as Hell](https://open.spotify.com/track/29z3ucWB5DV4EjS1jQ7e39) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Happy as Hell](https://open.spotify.com/album/62DWhM478uiSSlDk6WQRpe) | 3:09 | 2025-08-22 | 2026-04-21 |
 | [Happy Place](https://open.spotify.com/track/2eunobIVSTIr6ZvBJroKDF) | [ZAMination](https://open.spotify.com/artist/7K463FESyap8fJPiVUDK5U), [Zachary Preciado](https://open.spotify.com/artist/7f6Ytci5zAhJECf9qcXTYF) | [Happy Place](https://open.spotify.com/album/1BcYulpCmLIQDTfAnE4NfW) | 2:26 | 2025-01-10 | 2025-04-05 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-26 | 2024-12-07 |
-| [Happyland](https://open.spotify.com/track/09xFY1YnSB0YdjImzv9yCS) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Happyland](https://open.spotify.com/album/58grAOX8T0QafdrapcNPSu) | 3:39 | 2026-01-09 |  |
+| [Happyland](https://open.spotify.com/track/09xFY1YnSB0YdjImzv9yCS) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Happyland](https://open.spotify.com/album/58grAOX8T0QafdrapcNPSu) | 3:39 | 2026-01-09 | 2026-08-14 |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-17 |  |
 | [Hater](https://open.spotify.com/track/3ZDWkcuyJOOZZJgZAAyTId) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Hater](https://open.spotify.com/album/7AaZZ5PezxbMCHrsN8Ic2x) | 2:46 | 2024-08-23 | 2024-10-05 |
 | [Haunted Hotel](https://open.spotify.com/track/3hU8MzXKeThkB9IPKR7iIr) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Haunted Hotel](https://open.spotify.com/album/7J6LFUuNIeajdBgAoA55U9) | 2:01 | 2024-06-14 | 2024-11-16 |
@@ -413,7 +414,7 @@
 | [Perfume](https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j) | 3:27 | 2022-09-16 | 2023-02-17 |
 | [Perfume](https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:27 | 2022-08-05 | 2022-10-13 |
 | [Person in the Mirror](https://open.spotify.com/track/4L6mbkUpy4bmbeOQmw4hXu) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [Person in the Mirror](https://open.spotify.com/album/3xypvFTyaBdnGjwTwc1iSg) | 1:11 | 2022-07-12 | 2022-12-03 |
-| [Phone Sick](https://open.spotify.com/track/0LYwys0V2rejdfZ1LrEiun) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Phone Sick](https://open.spotify.com/album/2z6Jrpz7NPBWDe2yzRY2qv) | 2:48 | 2026-03-20 |  |
+| [Phone Sick](https://open.spotify.com/track/0LYwys0V2rejdfZ1LrEiun) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Phone Sick](https://open.spotify.com/album/2z6Jrpz7NPBWDe2yzRY2qv) | 2:48 | 2026-03-20 | 2026-08-14 |
 | [piano in the sky](https://open.spotify.com/track/1EMQCope8VHOJDHIKQTbRW) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [piano in the sky](https://open.spotify.com/album/5Pn3JRVnxuR5dROybezUyK) | 2:10 | 2025-06-20 |  |
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-05-17 | 2022-06-02 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-02-03 | 2026-01-15 |
@@ -527,6 +528,7 @@
 | [The Moon Will Sing](https://open.spotify.com/track/4v0Zqmuhlbt5nCj712Y26n) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS) | 3:40 | 2025-08-18 | 2026-05-02 |
 | [The Mountain Song](https://open.spotify.com/track/2ileXC69Z7xb95s3ljUBqb) | [Tophouse](https://open.spotify.com/artist/5WvwaJTMkZ5jb06EwCt34K) | [The Mountain Song](https://open.spotify.com/album/2KADkXNDzS6Rz7bUt9UE1b) | 4:06 | 2024-04-05 | 2024-05-03 |
 | [The Place To Be](https://open.spotify.com/track/2Y8D1aBfSngGN41XnOwydy) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [The Place To Be](https://open.spotify.com/album/6L31U4bZtscOccwZbnIvXm) | 3:28 | 2022-09-16 | 2022-12-10 |
+| [The Poet and Her Vice \(Happy Ending\)](https://open.spotify.com/track/7xyxpnf63Bad2KTRNY5a5b) | [Josie Edwards](https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq) | [Greetings From Bleak St.](https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1) | 2:54 | 2026-08-14 |  |
 | [The Red Means I Love You](https://open.spotify.com/track/3FD23QWCO0aP7fzKXHCDE8) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [Sunset on Summerville](https://open.spotify.com/album/6IA6npG3aDtFpcVwNNBT9r) | 3:53 | 2022-09-16 | 2024-04-19 |
 | [The Red Means I Love You](https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [The Red Means I Love You](https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E) | 3:53 | 2022-05-17 | 2024-10-12 |
 | [The Rumble](https://open.spotify.com/track/1y0HpPenLuwD1nF8ODsAep) | [Morgan Clae](https://open.spotify.com/artist/15FUFHW6daCdrPd8oVecht) | [The Rumble](https://open.spotify.com/album/4VGux9VwBAY7AbrxYpD8rB) | 5:28 | 2024-06-28 | 2024-10-05 |

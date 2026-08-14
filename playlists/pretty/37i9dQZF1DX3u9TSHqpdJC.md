@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Ami Cheon Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,192 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,193 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [Now](https://open.spotify.com/track/1sFl68Q8f6W8Arq5o2FfAd) | [Jenny Baker](https://open.spotify.com/artist/3dpzuWZAPfCMiZqR2KP7eT) | [Now](https://open.spotify.com/album/3g9UF1Df3H7B0KVS6FzpsD) | 3:18 |
 | 75 | [Temporary Love](https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR) | [Paycheque](https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe) | [Temporary Love](https://open.spotify.com/album/4016CeKzSOstXXe2jLqqoh) | 3:59 |
 
-Snapshot ID: `AAAAAHMD3RhWvaYM2+BIgxMFWk82+kt3`
+Snapshot ID: `AAAAABAIdFNrMDrfoS+3R6PjB+6I1p9z`

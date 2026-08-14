@@ -1,12 +1,12 @@
 {
   "description": "darf man so ?? (in den tag starten, kurz leben leben, bisschen pause machen) ",
-  "num_followers": 620844,
+  "num_followers": 620795,
   "original_name": "morning glow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMYk2XiOftUbz9F7RQ/SlQBcI0tR",
+  "snapshot_id": "AAAAAGUgBHIQ8N3/vzyTdAtEe1niWO32",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:41",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "New Heart",
-        "url": "https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 184481,
-      "name": "New Heart",
-      "url": "https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK"
-    },
-    {
-      "added_at": "2026-08-06 22:00:41",
-      "album": {
         "name": "trees for the woods",
         "url": "https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 247540,
       "name": "trees for the woods",
       "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
+    },
+    {
+      "added_at": "2026-08-06 22:00:41",
+      "album": {
+        "name": "New Heart",
+        "url": "https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 184481,
+      "name": "New Heart",
+      "url": "https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK"
     },
     {
       "added_at": "2026-08-06 22:00:41",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "Sweet Fortune",
-        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 221595,
-      "name": "Virtuoso",
-      "url": "https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI"
-    },
-    {
-      "added_at": "2026-08-06 22:00:41",
-      "album": {
         "name": "Niemand ist wie du",
         "url": "https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 143026,
       "name": "Niemand ist wie du",
       "url": "https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y"
+    },
+    {
+      "added_at": "2026-08-06 22:00:41",
+      "album": {
+        "name": "Sweet Fortune",
+        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 221595,
+      "name": "Virtuoso",
+      "url": "https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI"
     },
     {
       "added_at": "2026-08-06 22:00:41",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "Adore Ya",
-        "url": "https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 212288,
-      "name": "Adore Ya",
-      "url": "https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP"
-    },
-    {
-      "added_at": "2026-08-06 22:00:41",
-      "album": {
         "name": "Sommerregen EP",
         "url": "https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 116052,
       "name": "4 Life",
       "url": "https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG"
+    },
+    {
+      "added_at": "2026-08-06 22:00:41",
+      "album": {
+        "name": "Adore Ya",
+        "url": "https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 212288,
+      "name": "Adore Ya",
+      "url": "https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP"
     },
     {
       "added_at": "2026-08-06 22:00:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "Bleeding Gold",
-        "url": "https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 242820,
-      "name": "Bleeding Gold",
-      "url": "https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1"
-    },
-    {
-      "added_at": "2026-08-06 22:00:41",
-      "album": {
         "name": "After The Love",
         "url": "https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 220708,
       "name": "After The Love",
       "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
+    },
+    {
+      "added_at": "2026-08-06 22:00:41",
+      "album": {
+        "name": "Bleeding Gold",
+        "url": "https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 242820,
+      "name": "Bleeding Gold",
+      "url": "https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1"
     },
     {
       "added_at": "2026-08-06 22:00:41",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Jasmim",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: PZ, Os Azeitonas",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
@@ -1399,6 +1399,28 @@
     },
     {
       "album": {
+        "name": "Can\u00e7\u00e3o da Revolta",
+        "url": "https://open.spotify.com/album/1Rhgce9YdqozrihyBKpDiX"
+      },
+      "artists": [
+        {
+          "name": "Janeiro",
+          "url": "https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0"
+        },
+        {
+          "name": "Meta_",
+          "url": "https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176673,
+      "name": "Can\u00e7\u00e3o da Revolta",
+      "url": "https://open.spotify.com/track/1IaGCDVoodmO1fvC7zcYEf"
+    },
+    {
+      "album": {
         "name": "Can\u00e7\u00e3o de \u00e1guas mil",
         "url": "https://open.spotify.com/album/2mf1hnQvz6QWP3pfcfTFZU"
       },
@@ -1540,6 +1562,28 @@
       "duration_ms": 227397,
       "name": "Celestial Bodies",
       "url": "https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM"
+    },
+    {
+      "album": {
+        "name": "Chamadas Que Ignoras",
+        "url": "https://open.spotify.com/album/3FWEyEKGDbSZDnSuidPdpf"
+      },
+      "artists": [
+        {
+          "name": "PZ",
+          "url": "https://open.spotify.com/artist/6c9SE6fHc4wrrmvXlx21OE"
+        },
+        {
+          "name": "Os Azeitonas",
+          "url": "https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187431,
+      "name": "Chamadas Que Ignoras",
+      "url": "https://open.spotify.com/track/4GKcqRGGwQpLMBISTMFSXK"
     },
     {
       "album": {
@@ -4043,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217205,
+      "name": "I Can\u2019t Wait",
+      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
+    },
+    {
+      "album": {
         "name": "I DON'T WANNA FEEL THAT WAY",
         "url": "https://open.spotify.com/album/4cgZKnrEghJaMLFOMCDv8K"
       },
@@ -4318,7 +4380,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 245745,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/1J3DRgVbRDDWbSN9AYMRrE"
@@ -7590,7 +7652,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 260305,
       "name": "Sal",
       "url": "https://open.spotify.com/track/23ytaSu4ydqwz3PnizbBEV"

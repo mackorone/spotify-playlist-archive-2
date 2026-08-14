@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Maisha Kanna
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Paul Partohap
 
-283 songs - 16 hr 37 min
+285 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Again](https://open.spotify.com/track/1VyIAhJTXnOPH2tS0XmxTK) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Again](https://open.spotify.com/album/0Yea9WMntfl4PY8JdYfFqh) | 3:34 | 2025-08-07 | 2026-05-01 |
 | [Against All The Odds](https://open.spotify.com/track/5HevQCX2dDxGXDmQOYDXkc) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Merangkai](https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z) | 4:14 | 2025-05-16 |  |
 | [All of Our Friends](https://open.spotify.com/track/5n04xhk5uLiRODhnms3eow) | [Melisa Lestira](https://open.spotify.com/artist/5TAIXdOUxvx8CK65DG00KV) | [All of Our Friends](https://open.spotify.com/album/50ZCoF9liqAOOS5Q41Sdhc) | 4:17 | 2025-05-29 | 2025-10-17 |
-| [All U Want \(feat\. Keianka\)](https://open.spotify.com/track/2cVo56bYrdYPAvFq6IjU3B) | [Jakarta Soul System](https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP), [Bryan Renaldo](https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR), [Keianka](https://open.spotify.com/artist/5RTv9Js6nOCOPChuTA6bu9) | [All U Want \(feat\. Keianka\)](https://open.spotify.com/album/4hGfIJEm3zbEZNNy2foyMR) | 2:28 | 2026-04-30 |  |
+| [All U Want \(feat\. Keianka\)](https://open.spotify.com/track/2cVo56bYrdYPAvFq6IjU3B) | [Jakarta Soul System](https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP), [Bryan Renaldo](https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR), [Keianka](https://open.spotify.com/artist/5RTv9Js6nOCOPChuTA6bu9) | [All U Want \(feat\. Keianka\)](https://open.spotify.com/album/4hGfIJEm3zbEZNNy2foyMR) | 2:28 | 2026-04-30 | 2026-08-14 |
 | [Anggap Aku Ada](https://open.spotify.com/track/4zbLLlSlpQTixjfaSIWFd8) | [Canti](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ) | [Anggap Aku Ada](https://open.spotify.com/album/0MZfRSiHi1Uq2x2hziT0Bg) | 3:47 | 2026-01-22 |  |
 | [Apa Kabar](https://open.spotify.com/track/57AzzQHGqd9QO0eBCzfq0W) | [Radhini](https://open.spotify.com/artist/7KwNYf1K0Qt3sV7DtVHWcU) | [Apa Kabar](https://open.spotify.com/album/3tQx2RPsvOKCJ02ETZ3hR9) | 3:11 | 2025-01-23 | 2025-10-17 |
 | [Arti Kehidupan](https://open.spotify.com/track/0SGcJpFys6vSrSMPMpMBdC) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Loving You Like This](https://open.spotify.com/album/3davMx4cy50svq19sHjvhI) | 3:36 | 2025-11-27 |  |
@@ -51,6 +51,7 @@
 | [BUKIT BINTANG](https://open.spotify.com/track/4Of5JPjcIxFEXOfOnovH1a) | [Tarrarin](https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f) | [BUKIT BINTANG](https://open.spotify.com/album/3EdLgSYC680ajncQZlnUms) | 3:33 | 2024-10-03 |  |
 | [Buktinya Baik\-Baik Saja](https://open.spotify.com/track/3cn9Fhd4UbxokJLDFLYZgK) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Buktinya Baik\-Baik Saja](https://open.spotify.com/album/70gWvpQaa7gQtr4jOuAnZd) | 3:25 | 2025-07-24 | 2026-04-10 |
 | [BULAN](https://open.spotify.com/track/0sbqnT2yCqhZbMcDHrZTFd) | [Raina Gumay](https://open.spotify.com/artist/1ANlamE7Sj9Kf70tVz35Ck) | [BULAN](https://open.spotify.com/album/3jIpal5Mo7hWXSypXGXJku) | 3:06 | 2025-02-21 | 2025-08-01 |
+| [Butterflies](https://open.spotify.com/track/1M7S9Zp9DDclXC6PmEyitG) | [Laura Geraldine](https://open.spotify.com/artist/2mxvSPHMJnQDZUL61yMLZC) | [Butterflies](https://open.spotify.com/album/4OmmLc2KBpOKmUzC7rCvVd) | 2:42 | 2026-08-13 |  |
 | [BYE](https://open.spotify.com/track/2qCXWSd8AtolyVTZRatjZH) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [BYE](https://open.spotify.com/album/3nawUQoRQ9QlaATlotBQNj) | 3:03 | 2025-11-13 | 2026-05-29 |
 | [Cantikkuuuuu](https://open.spotify.com/track/0Opos1749YAMnjC2htWzYV) | [William Sihombing](https://open.spotify.com/artist/1HXxCMWL1jyKHQ2odKWR3j) | [Cantikkuuuuu](https://open.spotify.com/album/0a50H8wn696CVLTOVn4zLY) | 3:16 | 2026-04-23 |  |
 | [Capek Banget](https://open.spotify.com/track/2llpJaxtJREV6VxDeG9SBz) | [Nabila Ellisa](https://open.spotify.com/artist/7MwrsCIC6ViKMHiVFNJw5Q), [Bianura](https://open.spotify.com/artist/0KXKIxr1NN8aICdaA183Xc) | [Capek Banget](https://open.spotify.com/album/3Kimas3OtK9RTpFnQnTspL) | 3:16 | 2025-12-11 |  |
@@ -135,7 +136,7 @@
 | [Jangan Jatuh Cinta Di Jakarta](https://open.spotify.com/track/7jVreiuVEbCk86gW9IRpou) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Jangan Jatuh Cinta Di Jakarta](https://open.spotify.com/album/1ulNzGRi72yRkgzyQsogJv) | 3:07 | 2025-02-14 | 2025-08-01 |
 | [JANGAN JAUH](https://open.spotify.com/track/6U5ajYRHzwjtDquZ1yZFyq) | [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [JANGAN JAUH](https://open.spotify.com/album/6XrScvnCtCk6kmsp3BYtxT) | 2:06 | 2026-06-04 |  |
 | [Jangan pernah](https://open.spotify.com/track/19LPjG1o8NvdveiD6p1s3v) | [Rutinitas Pagi](https://open.spotify.com/artist/341CEIcTf5f6ucLhiViNRd) | [Jangan pernah](https://open.spotify.com/album/4VCZ2bGOwcr6KoyYaQQUNx) | 3:40 | 2024-12-20 | 2025-05-30 |
-| [Jatuh Pelan](https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Jatuh Pelan](https://open.spotify.com/album/5V7IAnnRfxhHBp7GqxxeNs) | 3:32 | 2026-05-07 |  |
+| [Jatuh Pelan](https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Jatuh Pelan](https://open.spotify.com/album/5V7IAnnRfxhHBp7GqxxeNs) | 3:32 | 2026-05-07 | 2026-08-14 |
 | [Jawab Aku](https://open.spotify.com/track/4uAzEeTdzl7vYcLvua55oc) | [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Jawab Aku](https://open.spotify.com/album/0cYjH0dc1T885wVjQgFimg) | 3:45 | 2025-05-22 | 2025-11-21 |
 | [Kamu Lagi](https://open.spotify.com/track/5iEExVSeZBQc5sbUv1JxlT) | [Chelsea Tilford](https://open.spotify.com/artist/2gf6zGKR3WeY9DrWcnkLo8) | [Kamu Lagi](https://open.spotify.com/album/0gx3y0XlQ86q4ITqEqPdy0) | 2:45 | 2026-03-05 |  |
 | [Kau Pilih Dia](https://open.spotify.com/track/1BupzCNunldnbAHPi7yChV) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH), [Mas Jordan](https://open.spotify.com/artist/60DER02sQPfuD32Y5e5LC1), [Malikoendang](https://open.spotify.com/artist/5F8bwX8A27eKQp8FZw0fZI) | [Kau Pilih Dia](https://open.spotify.com/album/2fiSKPE4Ki58GVOnlwjcfR) | 4:01 | 2024-10-03 | 2026-05-08 |
@@ -252,6 +253,7 @@
 | [Soulless Blues](https://open.spotify.com/track/1p5SEMVpbUdQtvFMEqjTTt) | [Arya Novanda](https://open.spotify.com/artist/7bQ37VC8fmdF36yIIOVIlc), [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Soulless Blues](https://open.spotify.com/album/6Cmj3kEEH6TXtFt3lcCVy5) | 4:40 | 2025-06-26 | 2025-10-24 |
 | [Sour Candy](https://open.spotify.com/track/4EnQxvppOihfeLqRQGgnDQ) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Sour Candy](https://open.spotify.com/album/6AST0741qWPUcJAr2HfsCp) | 3:24 | 2025-07-10 | 2026-04-10 |
 | [Space & Time](https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Space & Time](https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir) | 2:53 | 2025-01-23 | 2025-05-30 |
+| [SPEED DIAL \#1](https://open.spotify.com/track/6BphkJI46fmiXEWZfPQFl0) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [CAN I CALL YOU MINE?](https://open.spotify.com/album/1DTI1m8JrTW9Ae3GJ239zR) | 3:57 | 2026-08-13 |  |
 | [Status Palsu](https://open.spotify.com/track/2Q0glA9LEusp3MlGl26VNS) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [status palsu](https://open.spotify.com/album/5WQQrEyQu8ylwVuWPojX5v) | 3:58 | 2024-10-03 |  |
 | [STAY/GO \(Do What You Want\)](https://open.spotify.com/track/4o1OYUJIRRWoe7qcAAaYv0) | [yuan](https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ) | [STAY/GO \(Do What You Want\)](https://open.spotify.com/album/1xQ4cqjMBG5J1RcFLrl6Mi) | 2:33 | 2026-03-12 | 2026-08-01 |
 | [Sujud](https://open.spotify.com/track/6W6ouayFyOk3ugWzMzs0jK) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Sujud](https://open.spotify.com/album/0485ThYj1iYy1yGaa0oUm6) | 3:33 | 2025-02-27 | 2025-11-28 |

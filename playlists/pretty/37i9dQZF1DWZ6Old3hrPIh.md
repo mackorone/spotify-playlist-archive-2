@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Zeb Bangash, Noorima Rehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,903 likes - 61 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,910 likes - 61 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 44 | [Baliye \(Laung Gawacha\)](https://open.spotify.com/track/7g0uleT45wucL3CAeWRVSx) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Haroon Shahid](https://open.spotify.com/artist/4OasZ0m66s8HZzsyQAYCGJ), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:34 |
 | 45 | [Tu Hi Tu](https://open.spotify.com/track/6i9bNUYCaeHa7heIG1Y9iN) | [Mehwish Hayat](https://open.spotify.com/artist/7qGq83yTjRoUuLuob12vv2), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 5:26 |
 | 46 | [Par Chanaa De](https://open.spotify.com/track/3ycWX9C27LyqxYNOrAn5ZI) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 11:06 |
-| 47 | [Laal Meri Pat](https://open.spotify.com/track/29UhqX83vWJ1jTRCmV3Ozy) | [Quratulain Balouch](https://open.spotify.com/artist/5qLPwJWMkvZeosL6sOyFhO), [Akbar Ali](https://open.spotify.com/artist/05YKbyGJeAcnQJxManto4S), [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 8:20 |
+| 47 | [Laal Meri Pat](https://open.spotify.com/track/29UhqX83vWJ1jTRCmV3Ozy) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Akbar Ali](https://open.spotify.com/artist/05YKbyGJeAcnQJxManto4S), [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 8:20 |
 | 48 | [Aaya Laariye](https://open.spotify.com/track/3AwPmvABmAc0iVuH49UOi8) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:12 |
 | 49 | [Shamaan Pai Gaiyaan / Kee Dam da Bharosa](https://open.spotify.com/track/2ghir479Xrk0B7iASVgyCb) | [Rachel Viccaji](https://open.spotify.com/artist/79BYcJwv1Xid7f250YBhun), [Kashif Ali](https://open.spotify.com/artist/1yvFwbn2g2LzY6CuTbfANQ), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 6:30 |
 | 50 | [Lagi Bina / Chal Mele Noon Challiye](https://open.spotify.com/track/2TjnflQB8mssCigfip3x9k) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 8:12 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 60 | [Daachi Waaliya](https://open.spotify.com/track/1uBcSRrHdMrTwLIoBYoUMi) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Daachi Waaliya](https://open.spotify.com/album/73YNgJro1GEHAzecBWrPs2) | 8:02 |
 | 61 | [Pardesiya](https://open.spotify.com/track/4yiPORt9JZGtYlsd22p8So) | [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Pardesiya](https://open.spotify.com/album/699uRjiyL8W2TssLjLzT4s) | 8:42 |
 
-Snapshot ID: `AAAAAG+m72F4VmR7ljc1CvLEfGI17Fi4`
+Snapshot ID: `AAAAAJYTNg7/FzbdrKLI19npNji7ZklI`

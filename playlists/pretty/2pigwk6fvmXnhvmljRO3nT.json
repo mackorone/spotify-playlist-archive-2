@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAMoj3H6AXnrRblHKGa/pKUwqz8Ybck",
+  "snapshot_id": "AAAMpjUy38+rbUMU59PbUg8ZLJSSvZOq",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -152511,6 +152511,70 @@
       "duration_ms": 182800,
       "name": "\u30eb\u30fc\u30b8\u30e5\u306e\u4f1d\u8a00",
       "url": "https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL"
+    },
+    {
+      "added_at": "2026-08-13 03:06:02",
+      "album": {
+        "name": "Worlds",
+        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Goodbye To A World",
+      "url": "https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk"
+    },
+    {
+      "added_at": "2026-08-13 03:08:01",
+      "album": {
+        "name": "Nurture",
+        "url": "https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 279692,
+      "name": "Trying to Feel Alive",
+      "url": "https://open.spotify.com/track/4W9c6wnc7ZNKiheIUMG6k7"
+    },
+    {
+      "added_at": "2026-08-13 16:29:24",
+      "album": {
+        "name": "My dear stardust",
+        "url": "https://open.spotify.com/album/660QGAgfAkeRpVsFW0IHpe"
+      },
+      "artists": [
+        {
+          "name": "DEARDROPS",
+          "url": "https://open.spotify.com/artist/3biG6ieWoAYIWR60w5NGJj"
+        }
+      ],
+      "duration_ms": 222120,
+      "name": "Kibou no uta",
+      "url": "https://open.spotify.com/track/68ixFFKB7TguskFFkB4eD5"
+    },
+    {
+      "added_at": "2026-08-13 16:41:59",
+      "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea\uff01 \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01 \u30ab\u30d0\u30fc\u30b3\u30ec\u30af\u30b7\u30e7\u30f3Vol.10",
+        "url": "https://open.spotify.com/album/5dTXdRw5PSYXPwlJYitry4"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 188233,
+      "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857 (Cover)",
+      "url": "https://open.spotify.com/track/0GyfVaFXVNAtn5ee9FTHeN"
     }
   ],
   "unique_name": "Purge",

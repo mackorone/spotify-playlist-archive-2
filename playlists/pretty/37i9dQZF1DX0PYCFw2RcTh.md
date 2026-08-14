@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain]
 | 9 | [1\. Blattetjejer är the original tradwives](https://open.spotify.com/episode/2xDKQMHfoC24OwfnNJaqy4) | [Lanas podd](https://open.spotify.com/show/33udL6c6lNBHjHwHdQ7fbs) | [Lanas podd](https://open.spotify.com/album/33udL6c6lNBHjHwHdQ7fbs) | 49:09 |
 | 10 | [30\. Grottmänniskor och kokosnöts\-bikini](https://open.spotify.com/episode/6yaqVeFniBUd1fywxB1yxc) | [Hälsa morsan](https://open.spotify.com/show/5jCWf83Z27IKpp5DxGHWNU) | [Hälsa morsan](https://open.spotify.com/album/5jCWf83Z27IKpp5DxGHWNU) | 1:00:31 |
 
-Snapshot ID: `AAAAANuoAuZC5dAOKBCvs58T0lglGV/s`
+Snapshot ID: `AAAAAIryZ70CeYIA6W00UZxSfR717/w+`

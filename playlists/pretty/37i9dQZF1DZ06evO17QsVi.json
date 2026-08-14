@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1235359,
+  "num_followers": 1235407,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anpmAAAAAAB6zn7Xm+jWMfhOtZy/LKYn",
+  "snapshot_id": "anu3gAAAAAAC+2ptSIpQ7Z9/KJnQW6sC",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of War: World War 2",
-        "url": "https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx"
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
       },
       "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        },
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 307986,
-      "name": "Thug Luv (feat. 2pac)",
-      "url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb"
+      "duration_ms": 174266,
+      "name": "When We Ride On Our Enemies - Briss Remix",
+      "url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG"
     },
     {
       "added_at": null,
@@ -587,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Dayz",
-        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+        "name": "The Art of War: World War 2",
+        "url": "https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx"
       },
       "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 174266,
-      "name": "When We Ride On Our Enemies - Briss Remix",
-      "url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG"
+      "duration_ms": 307986,
+      "name": "Thug Luv (feat. 2pac)",
+      "url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
       "duration_ms": 279200,
       "name": "Old School",
       "url": "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 322573,
+      "name": "My Block - Nitty Remix",
+      "url": "https://open.spotify.com/track/2qcllSUyD3gKbfh9NEjARW"
     },
     {
       "added_at": null,
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Dayz",
-        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 322573,
-      "name": "My Block - Nitty Remix",
-      "url": "https://open.spotify.com/track/2qcllSUyD3gKbfh9NEjARW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Against The World",
         "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
       },
@@ -691,6 +691,26 @@
       "duration_ms": 293933,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/6pFfeJceBPGdzTOGgUcLWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "They Don't Give A F**** About Us",
+      "url": "https://open.spotify.com/track/4mfc9g4VHf8e7mVLiPEsrq"
     },
     {
       "added_at": null,
@@ -727,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Dayz",
-        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Outlawz",
-          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "They Don't Give A F**** About Us",
-      "url": "https://open.spotify.com/track/4mfc9g4VHf8e7mVLiPEsrq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Until The End Of Time",
         "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
       },
@@ -759,6 +759,26 @@
       "duration_ms": 255626,
       "name": "Ballad Of A Dead Soulja",
       "url": "https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Still Ballin' - Nitty Remix",
+      "url": "https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT"
     },
     {
       "added_at": null,
@@ -799,26 +819,6 @@
       "duration_ms": 217440,
       "name": "Pac's Life",
       "url": "https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Dayz",
-        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Still Ballin' - Nitty Remix",
-      "url": "https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        },
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "Unchained (The Payback / Untouchable)",
-      "url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loyal To The Game",
         "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 230493,
       "name": "Soldier Like Me",
       "url": "https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "Unchained (The Payback / Untouchable)",
+      "url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj"
     },
     {
       "added_at": null,

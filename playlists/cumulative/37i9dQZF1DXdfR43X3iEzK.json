@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 124045,
       "name": "2007",
       "url": "https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng"
@@ -3604,7 +3604,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 176143,
       "name": "Ego",
       "url": "https://open.spotify.com/track/2GrW3HhogphOsmsRZ18ndR"
@@ -5304,7 +5304,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 151384,
       "name": "HEART OF DARKNESS",
       "url": "https://open.spotify.com/track/7kByXTZk65bHj9kP2k9yHs"
@@ -6342,6 +6342,24 @@
       "duration_ms": 153750,
       "name": "In Ur Head",
       "url": "https://open.spotify.com/track/2RDJdP8IxS0QcG1mOucbps"
+    },
+    {
+      "album": {
+        "name": "in vino veritas!",
+        "url": "https://open.spotify.com/album/2VIdb7sLoqXNwosA7mJruQ"
+      },
+      "artists": [
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "in vino veritas!",
+      "url": "https://open.spotify.com/track/1ZUptgW52c61JXpRW6ivmN"
     },
     {
       "album": {
@@ -8455,6 +8473,32 @@
     },
     {
       "album": {
+        "name": "Needle",
+        "url": "https://open.spotify.com/album/7gj35vKZSrndvclu5KyKib"
+      },
+      "artists": [
+        {
+          "name": "Cyst",
+          "url": "https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT"
+        },
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        },
+        {
+          "name": "daisy*",
+          "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180002,
+      "name": "Needle",
+      "url": "https://open.spotify.com/track/0Bxh3DKY42997tK3SBY6iD"
+    },
+    {
+      "album": {
         "name": "Neighbourhood Watch",
         "url": "https://open.spotify.com/album/7rDkDksgaL55rerai6R2Rt"
       },
@@ -9524,6 +9568,24 @@
       "duration_ms": 149682,
       "name": "Pop Out",
       "url": "https://open.spotify.com/track/4tJP37H4IBwmajRzyzLiNc"
+    },
+    {
+      "album": {
+        "name": "The Summer Fables",
+        "url": "https://open.spotify.com/album/3ZeT8r59p4lSOwPqiUop6H"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151511,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/1o8zQNrBrbA0ukEDRRD9ub"
     },
     {
       "album": {
@@ -12552,7 +12614,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 154853,
       "name": "Wannabeher",
       "url": "https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G"

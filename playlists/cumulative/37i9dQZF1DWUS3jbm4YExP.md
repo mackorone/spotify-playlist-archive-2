@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-909 songs - 2 day 16 hr 1 min
+910 songs - 2 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Lovin'](https://open.spotify.com/track/72nY8T0GWF3bCTRjpE1kpi) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Lovin'](https://open.spotify.com/album/2agFe3zLex12Y3mSFiuOyb) | 2:01 | 2024-02-09 | 2024-09-23 |
 | [Lupita](https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G) | [Nico Gomez](https://open.spotify.com/artist/48YivTBA0WJnVTQpmvTQzF), [Nico Gomez And His Afro Percussion Inc.](https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys) | [Ritual](https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ) | 3:42 | 2023-12-20 |  |
 | [L‘amour](https://open.spotify.com/track/5KLRKXUI7TQrUVl3kxlcpT) | [Jiri Jiri](https://open.spotify.com/artist/56ObiuDJOF8goWVKX81zxe) | [Give Me Disco, Vol\. 1 \(Selected by DJ Kobayashi\)](https://open.spotify.com/album/0YdkoedEJ06zjdrBKxTXGV) | 3:47 | 2025-10-24 |  |
+| [M'akoma Nnwom](https://open.spotify.com/track/1FkQaRUsKY4Ele0UcYF0bG) | [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Love Warrior's Anthem](https://open.spotify.com/album/0FpSLU6MAakFXThlR9K6pw) | 4:29 | 2026-08-07 |  |
 | [Ma'a Ibnat](https://open.spotify.com/track/2PQePG0V7qY5svFvwKoFvF) | [Ouiness](https://open.spotify.com/artist/3OatvQHeTWSnkuKDvvfVnd) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 2:52 | 2021-10-06 | 2022-01-14 |
 | [Macumba de Marea](https://open.spotify.com/track/34NHlhFXYug6lChbveHIVU) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/2ecxzRChLnsvsmrF3DXp4Z) | 5:11 | 2022-04-26 | 2022-07-29 |
 | [Magica Nueva](https://open.spotify.com/track/6BMnWybJGa1ECarOi99Xvo) | [Junglelyd](https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c) | [Paracaídas](https://open.spotify.com/album/6EPBq63T1DMFseKbMJ4qwm) | 3:19 | 2021-10-06 | 2022-04-21 |
@@ -855,7 +856,7 @@
 | [Vérité](https://open.spotify.com/track/5LFckjiAEHV0Ee3WvgpNns) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Oko Ebombo](https://open.spotify.com/artist/0nxkDLU7KQX931VkQqaGwJ) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 3:50 | 2021-10-06 | 2024-04-28 |
 | [Waile](https://open.spotify.com/track/2SQ1RHD0v47oggTFmR68q1) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/2cYQVweVo4ZuMgIB40YRxl) | 5:15 | 2022-09-30 | 2022-11-22 |
 | [Waile](https://open.spotify.com/track/7CrdlbRadEBmd16KQWt4xf) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Zango](https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f) | 5:15 | 2023-10-05 | 2024-01-23 |
-| [Waiting](https://open.spotify.com/track/0ecKLqDfhBU9BIrSfo97w6) | [Willy Delphia](https://open.spotify.com/artist/3cOrJsMYcSXlIhz5eQ7dzX), [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Waiting](https://open.spotify.com/album/2emcK2s7FxbczdlFqKlDKC) | 5:04 | 2026-06-25 |  |
+| [Waiting](https://open.spotify.com/track/0ecKLqDfhBU9BIrSfo97w6) | [Willy Delphia](https://open.spotify.com/artist/3cOrJsMYcSXlIhz5eQ7dzX), [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Waiting](https://open.spotify.com/album/2emcK2s7FxbczdlFqKlDKC) | 5:04 | 2026-06-25 | 2026-08-14 |
 | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp) | 3:23 | 2025-06-03 | 2026-06-26 |
 | [Warni Warni](https://open.spotify.com/track/3cAeVEM3e2qv2V4lVhMpdR) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Wenu Wenu](https://open.spotify.com/album/3E2DQ7tVjC1zcgiCSTIoaC) | 6:52 | 2025-05-09 | 2025-06-27 |
 | [Watany Al Kabir](https://open.spotify.com/track/4Uompvio1rSmz6geQU9Pkl) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [The Father of Libyan Reggae \(Habibi Funk 024\)](https://open.spotify.com/album/0SmSMo59rx6TuI0B8lsQuZ) | 5:44 | 2023-11-13 | 2024-06-02 |

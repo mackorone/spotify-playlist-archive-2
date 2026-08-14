@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Jeremiah Paltan
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,853 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,878 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [Union](https://open.spotify.com/track/7rO2RdfL0bEYE9a6bgijuK) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5), [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Union](https://open.spotify.com/album/66W9AgljBwVVT80qrgBNP5) | 5:16 |
 | 75 | [redeemed](https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2) | [sun haze](https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2) | [redeemed](https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f) | 3:25 |
 
-Snapshot ID: `AAAAABvtAuM2vWKC5+Y2usniTDQLSg/s`
+Snapshot ID: `AAAAACbU74ScyzhNrVRoc/FHX9b/dZeM`

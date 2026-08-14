@@ -1,12 +1,12 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Asake",
-  "num_followers": 320664,
+  "num_followers": 320669,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANUzvEuowo2JVsK/UcKoLlSURxNc",
+  "snapshot_id": "AAAAAIIFqzLJXlnb8IjElWfhOfcrpEgy",
   "tracks": [
     {
       "added_at": "2026-07-23 23:00:54",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
+        "name": "TEMPERATURE",
+        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "duration_ms": 157727,
+      "name": "TEMPERATURE",
+      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
         "name": "Formation",
         "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 159183,
       "name": "Muhammad Ali (Can't Relate)",
       "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
-        "name": "TEMPERATURE",
-        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
-      },
-      "artists": [
-        {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
-        }
-      ],
-      "duration_ms": 157727,
-      "name": "TEMPERATURE",
-      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
     },
     {
       "added_at": "2026-07-23 23:00:54",

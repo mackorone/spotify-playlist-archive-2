@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feeling dramatic? All eyes on you. Cover: Mollie Elizabeth",
+  "description": "Feeling dramatic? All eyes on you. Cover: Josie Edwards",
   "name": "Limelight",
   "tracks": [
     {
@@ -478,6 +478,24 @@
       "duration_ms": 168776,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1DtQMNuEieMUYm2g4SoD8M"
+    },
+    {
+      "album": {
+        "name": "All American",
+        "url": "https://open.spotify.com/album/45JLlolM49Iw5VAccAEO1M"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "All American",
+      "url": "https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt"
     },
     {
       "album": {
@@ -4296,7 +4314,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 219500,
       "name": "Happyland",
       "url": "https://open.spotify.com/track/09xFY1YnSB0YdjImzv9yCS"
@@ -7566,7 +7584,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-14",
       "duration_ms": 168284,
       "name": "Phone Sick",
       "url": "https://open.spotify.com/track/0LYwys0V2rejdfZ1LrEiun"
@@ -9708,6 +9726,24 @@
       "duration_ms": 208739,
       "name": "The Place To Be",
       "url": "https://open.spotify.com/track/2Y8D1aBfSngGN41XnOwydy"
+    },
+    {
+      "album": {
+        "name": "Greetings From Bleak St.",
+        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
+      },
+      "artists": [
+        {
+          "name": "Josie Edwards",
+          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174881,
+      "name": "The Poet and Her Vice (Happy Ending)",
+      "url": "https://open.spotify.com/track/7xyxpnf63Bad2KTRNY5a5b"
     },
     {
       "album": {

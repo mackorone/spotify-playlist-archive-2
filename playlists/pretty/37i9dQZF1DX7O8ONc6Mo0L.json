@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 384481,
+  "num_followers": 384515,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJq2g2+UwCsXcqQaWujk9lIsr9YD",
+  "snapshot_id": "AAAAABmxUWKtQgCkp1ZEezfE9fup/s6l",
   "tracks": [
     {
       "added_at": "2026-08-10 15:32:09",
@@ -343,26 +343,18 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5"
+        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
       },
       "artists": [
         {
-          "name": "AM\u00c9M",
-          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "L\u00e9o Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
         }
       ],
-      "duration_ms": 236031,
-      "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m"
+      "duration_ms": 443013,
+      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -383,18 +375,26 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
+        "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "AM\u00c9M",
+          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
         }
       ],
-      "duration_ms": 443013,
-      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
+      "duration_ms": 236031,
+      "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Valeu a Pena",
-        "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        },
-        {
-          "name": "Esdras Gondim",
-          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
-        }
-      ],
-      "duration_ms": 237510,
-      "name": "Valeu a Pena",
-      "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Se N\u00e3o Fosse Ele",
         "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 289638,
       "name": "Se N\u00e3o Fosse Ele",
       "url": "https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Valeu a Pena",
+        "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        },
+        {
+          "name": "Esdras Gondim",
+          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+        }
+      ],
+      "duration_ms": 237510,
+      "name": "Valeu a Pena",
+      "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/63SgNZhriYWjvXiCIH9fui"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        },
-        {
-          "name": "UVULUC",
-          "url": "https://open.spotify.com/artist/3oYJ0RiHUZRQChkRErZW16"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Escape - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2muJIyYeYKUv0cAQvoPKWK"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Tuas \u00c1guas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 299893,
       "name": "Tuas \u00c1guas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/63SgNZhriYWjvXiCIH9fui"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        },
+        {
+          "name": "UVULUC",
+          "url": "https://open.spotify.com/artist/3oYJ0RiHUZRQChkRErZW16"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "Escape - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2muJIyYeYKUv0cAQvoPKWK"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
         "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 299008,
       "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
       "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -1235,30 +1235,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Quem Sou",
-        "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
-      },
-      "artists": [
-        {
-          "name": "PEDRAZUL",
-          "url": "https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA"
-        },
-        {
-          "name": "Ant\u00f4nio",
-          "url": "https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5"
-        },
-        {
-          "name": "Jaqueline Nobre",
-          "url": "https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd"
-        }
-      ],
-      "duration_ms": 270933,
-      "name": "Quem Sou",
-      "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Me Enche de Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
       },
@@ -1279,6 +1255,30 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Quem Sou",
+        "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
+      },
+      "artists": [
+        {
+          "name": "PEDRAZUL",
+          "url": "https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA"
+        },
+        {
+          "name": "Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5"
+        },
+        {
+          "name": "Jaqueline Nobre",
+          "url": "https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd"
+        }
+      ],
+      "duration_ms": 270933,
+      "name": "Quem Sou",
+      "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374096,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
         "name": "Acoustic Session, Vol. 01",
         "url": "https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 342250,
       "name": "A Casa \u00c9 Sua - Acoustic Session",
       "url": "https://open.spotify.com/track/5ROOQb6C8Tz71kJbViGSwG"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 374096,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2026-08-10 15:32:09",

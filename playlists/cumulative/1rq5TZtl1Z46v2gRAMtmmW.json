@@ -4293,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "Grilled Lobster",
+        "url": "https://open.spotify.com/album/1dyX9GA2E1molGiYdQs8uW"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112192,
+      "name": "Grilled Lobster",
+      "url": "https://open.spotify.com/track/6JWc3cBOFjN2RZk9Rb8qFl"
+    },
+    {
+      "album": {
         "name": "GROWUP",
         "url": "https://open.spotify.com/album/4pWSY3omW0xCyunRfuO8Hl"
       },

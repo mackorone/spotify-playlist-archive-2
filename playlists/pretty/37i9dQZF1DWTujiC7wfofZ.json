@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIKPtdSPDXrVtROX18up4PFdN371",
+  "snapshot_id": "AAAAAPH2t3+X/Cz6kxShtOUs4FIG3vdC",
   "tracks": [
     {
       "added_at": "2024-12-20 01:31:11",
@@ -229,20 +229,20 @@
       "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
     },
     {
-      "added_at": "2024-12-20 01:31:11",
+      "added_at": "2024-12-30 11:00:05",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+      "duration_ms": 285853,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -261,20 +261,20 @@
       "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
+      "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 285853,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Good News For People Who Love Bad News",
-        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Good News For People Who Love Bad News",
+        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 234857,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
-    },
-    {
       "added_at": "2024-12-30 11:00:05",
       "album": {
         "name": "Night Time, My Time",
@@ -799,6 +783,22 @@
       "duration_ms": 250120,
       "name": "Everything Is Embarrassing",
       "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 234857,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Blossoms",
-        "url": "https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 215647,
-      "name": "Honey Sweet",
-      "url": "https://open.spotify.com/track/4D2rEIyYw0meeh8AOXqfxK"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "The Ride",
@@ -1599,6 +1583,22 @@
       "duration_ms": 261560,
       "name": "Soundcheck",
       "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Blossoms",
+        "url": "https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 215647,
+      "name": "Honey Sweet",
+      "url": "https://open.spotify.com/track/4D2rEIyYw0meeh8AOXqfxK"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Want Want",
-      "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 293468,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1929,22 +1929,6 @@
       "url": "https://open.spotify.com/track/1EmimnysAUBhiy8rDbNN01"
     },
     {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Cheer Up Baby",
-      "url": "https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ"
-    },
-    {
       "added_at": "2024-12-30 11:00:05",
       "album": {
         "name": "D.A.N.C.E",
@@ -1959,6 +1943,22 @@
       "duration_ms": 211880,
       "name": "D.A.N.C.E - Radio Edit",
       "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Cheer Up Baby",
+      "url": "https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -2077,22 +2077,6 @@
       "url": "https://open.spotify.com/track/37XsaGX7crh4YJKv6k946u"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Given To The Wild",
-        "url": "https://open.spotify.com/album/7hRcDIP5CKDlCnjHVPb9qd"
-      },
-      "artists": [
-        {
-          "name": "The Maccabees",
-          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Pelican",
-      "url": "https://open.spotify.com/track/0HjRzOti4wvuKwIUsjZrHM"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "Keep It Up",
@@ -2107,6 +2091,22 @@
       "duration_ms": 156524,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/7EZ8gPvzFfKXGklRmHCu9b"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Given To The Wild",
+        "url": "https://open.spotify.com/album/7hRcDIP5CKDlCnjHVPb9qd"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Pelican",
+      "url": "https://open.spotify.com/track/0HjRzOti4wvuKwIUsjZrHM"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
+        "name": "Seventeen Going Under",
+        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 237280,
+      "name": "Seventeen Going Under - Edit",
+      "url": "https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G"
       },
@@ -2163,18 +2179,18 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Seventeen Going Under",
-        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
+        "name": "V",
+        "url": "https://open.spotify.com/album/5F7t2oVAxnazEU21nbUZGc"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
         }
       ],
-      "duration_ms": 237280,
-      "name": "Seventeen Going Under - Edit",
-      "url": "https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz"
+      "duration_ms": 400041,
+      "name": "Something To Remember Me By",
+      "url": "https://open.spotify.com/track/3iyfg1RwpatVcqfMshEplN"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2191,22 +2207,6 @@
       "duration_ms": 231466,
       "name": "Cold Reactor",
       "url": "https://open.spotify.com/track/0WprcCQhZuJBU2KR1h8tRh"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/5F7t2oVAxnazEU21nbUZGc"
-      },
-      "artists": [
-        {
-          "name": "The Horrors",
-          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
-        }
-      ],
-      "duration_ms": 400041,
-      "name": "Something To Remember Me By",
-      "url": "https://open.spotify.com/track/3iyfg1RwpatVcqfMshEplN"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2257,22 +2257,6 @@
       "url": "https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC"
     },
     {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "Get To Heaven (Deluxe)",
-        "url": "https://open.spotify.com/album/1oScYOf8ImO6L9bdvhep1J"
-      },
-      "artists": [
-        {
-          "name": "Everything Everything",
-          "url": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Distant Past",
-      "url": "https://open.spotify.com/track/4L2F0LcDVtNrFc1K4lmx3m"
-    },
-    {
       "added_at": "2024-12-30 11:00:05",
       "album": {
         "name": "Every Open Eye",
@@ -2291,18 +2275,18 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw"
+        "name": "Get To Heaven (Deluxe)",
+        "url": "https://open.spotify.com/album/1oScYOf8ImO6L9bdvhep1J"
       },
       "artists": [
         {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+          "name": "Everything Everything",
+          "url": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
         }
       ],
-      "duration_ms": 207320,
-      "name": "I Belong In Your Arms",
-      "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
+      "duration_ms": 221693,
+      "name": "Distant Past",
+      "url": "https://open.spotify.com/track/4L2F0LcDVtNrFc1K4lmx3m"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2319,6 +2303,22 @@
       "duration_ms": 265786,
       "name": "Zero",
       "url": "https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "I Belong In Your Arms",
+      "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2369,38 +2369,6 @@
       "url": "https://open.spotify.com/track/5hfP8cKSzpfBisP3R24cAy"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Sometimes I Sit And Think, And Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/1VHxShkFJR9xA281epCtkz"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Pedestrian At Best",
-      "url": "https://open.spotify.com/track/7w7qzJd1j5FQVexn9TuxJw"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/6FJWesEzZe425dNdigUbSa"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
@@ -2419,18 +2387,34 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Where\u2019s My Utopia?",
-        "url": "https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg"
+        "name": "1",
+        "url": "https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y"
       },
       "artists": [
         {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
         }
       ],
-      "duration_ms": 182606,
-      "name": "We Make Hits",
-      "url": "https://open.spotify.com/track/7mYTcajvGEU4LZeHQ8V5w2"
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/6FJWesEzZe425dNdigUbSa"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 177511,
+      "name": "My Love - Edit",
+      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2449,20 +2433,36 @@
       "url": "https://open.spotify.com/track/13LsKYpr3ZNMTRu0Lo8Z7R"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
+      "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+        "name": "Right Here, For Now",
+        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 177511,
-      "name": "My Love - Edit",
-      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
+      "duration_ms": 180933,
+      "name": "Right Here, for Now",
+      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Where\u2019s My Utopia?",
+        "url": "https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/7mYTcajvGEU4LZeHQ8V5w2"
     }
   ],
   "unique_name": "Indie Party",

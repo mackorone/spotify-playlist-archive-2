@@ -4,7 +4,7 @@
 
 > 
 
-2,445 songs - 5 day 11 hr 19 min
+2,447 songs - 5 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [all the kids are depressed](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:49 | 2021-08-05 |  |
 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2021-11-30 |  |
 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2021-09-08 |  |
-| [All The Things She Said \- Sped Up](https://open.spotify.com/track/2m1JNhcHrWOsexYdbqu9Ku) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [ex7stence](https://open.spotify.com/artist/24VULASL3GkrIpKGZUJQBd) | [All The Things She Said \(Sped Up\)](https://open.spotify.com/album/1JS0COqrR1cURcgPEiePjc) | 2:54 | 2022-09-05 |  |
+| [All The Things She Said \- Sped Up](https://open.spotify.com/track/2m1JNhcHrWOsexYdbqu9Ku) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V), [ex7stence](https://open.spotify.com/artist/24VULASL3GkrIpKGZUJQBd) | [All The Things She Said \(Sped Up\)](https://open.spotify.com/album/1JS0COqrR1cURcgPEiePjc) | 2:54 | 2022-09-05 |  |
 | [All this love](https://open.spotify.com/track/52IPeim7OfK6ucIZC68DYY) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 4:09 | 2021-11-14 |  |
 | [alleswirdgut](https://open.spotify.com/track/2ucKoWiCS8eTk5IUwin4fq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:19 | 2024-08-28 |  |
 | [Alligator Blood](https://open.spotify.com/track/1Jx2ZMYVcXM0CfqOysoC8R) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [There Is A Hell Believe Me I've Seen It\. There Is A Heaven Let's Keep It A Secret](https://open.spotify.com/album/2BxDLAnw4QPcs8U4r1StrI) | 4:31 | 2021-08-05 |  |
@@ -1005,6 +1005,7 @@
 | [Hungry Hippo](https://open.spotify.com/track/0WpDeBJ22LcwF4QoERQOTv) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Whack World](https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8) | 1:00 | 2021-08-05 |  |
 | [HUNNIDDOLLA](https://open.spotify.com/track/4cOdRhWoQg8wrtggw6YZLY) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [HUNNIDDOLLA](https://open.spotify.com/album/2Zd7deeqEMClIaUCo19aIc) | 2:16 | 2025-12-29 |  |
 | [HURT](https://open.spotify.com/track/067hayOg89adiLyGpC6Ox6) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [HURT](https://open.spotify.com/album/3wpSPPVxf7OgZToA2KWCzO) | 2:53 | 2021-08-05 |  |
+| [Hurt](https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Hurt](https://open.spotify.com/album/6JIMB5E0g8XgwXd0sdS83S) | 2:47 | 2026-08-13 |  |
 | [Hush](https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:01 | 2021-11-14 |  |
 | [HUSHH](https://open.spotify.com/track/6Jb7UPWUXDOrgdI0XnBSp5) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Hushh](https://open.spotify.com/album/3zrEXbxVZJJ5Y9Ih06oxUP) | 3:00 | 2021-08-05 |  |
 | [Hustle Bones](https://open.spotify.com/track/5PXyH5bb5fbVfO8LjByhBb) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:12 | 2021-11-30 |  |
@@ -2196,6 +2197,7 @@
 | [TITS, LIPS, HIPS, KISS \(10/10 Remix\)](https://open.spotify.com/track/3KkesrPkSGFZYXUHtk1Zfn) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [TITS, LIPS, HIPS, KISS \(10/10 Remix\)](https://open.spotify.com/album/49KddmD3D6OD8USyLdTHCe) | 3:36 | 2025-04-24 |  |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-09-27 |  |
 | [TOES \(feat\. Lil Baby & Moneybagg Yo\)](https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:16 | 2021-08-05 |  |
+| [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 | 2026-08-13 |  |
 | [Tokyo Love Hotel](https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 4:27 | 2022-11-02 |  |
 | [Tommy](https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Tommy](https://open.spotify.com/album/6ypPEd46mjBNn9NsfpxWKT) | 4:34 | 2026-02-08 |  |
 | [Tomorrow Never Came \(feat\. Sean Ono Lennon\)](https://open.spotify.com/track/6VZwnDUMkAZs36g6v9MVQX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 5:07 | 2021-08-05 |  |

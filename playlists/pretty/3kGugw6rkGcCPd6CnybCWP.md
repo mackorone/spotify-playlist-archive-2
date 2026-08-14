@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 91 songs - 5 hr 25 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 95 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 89 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 |
 | 90 | [Reason To Exist \- Suburban Sessions](https://open.spotify.com/track/28oMohx3ZGC9mJZ1oN7b5D) | [According To Jack](https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs) | [Reason To Exist \(Suburban Sessions\)](https://open.spotify.com/album/5X4CMD7OWlu4mZIwadQEoQ) | 2:50 |
 | 91 | [Fear](https://open.spotify.com/track/5JDoCALAWk9tryxgXaNHtN) | [Revolana](https://open.spotify.com/artist/10GMiQxPVYdUZ5OceNBtNC) | [Fear](https://open.spotify.com/album/5PcV3AxCIWaXY4t2f26cbb) | 2:31 |
+| 92 | [cherry](https://open.spotify.com/track/1tyluKkTakBz8ZcuThvjWo) | [Camryn Levert](https://open.spotify.com/artist/2HtNeBOFredlrp4D0LLyLB) | [cherry](https://open.spotify.com/album/1MViH955oQfqqzMAHzxRIQ) | 2:40 |
+| 93 | [Disney Princess](https://open.spotify.com/track/2DgX8mPMcz7DbIZPYaYSQl) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [Disney Princess](https://open.spotify.com/album/4guOJjMBtA0nQEo9xVpC4F) | 4:15 |
+| 94 | [Blodwyn](https://open.spotify.com/track/5UFmMdHSFqbWXQJoAbppSm) | [Moss Meredith](https://open.spotify.com/artist/3DL8xk1UlC6kPkrlbTHA56) | [Blodwyn](https://open.spotify.com/album/6UUxFXo46hihB0aOxV5kPq) | 3:20 |
+| 95 | [1AM \(okay?\)](https://open.spotify.com/track/4H4fEmpLjtbQFO0W8paX3W) | [AT2AM](https://open.spotify.com/artist/2xU3yMdBTq8VWl2zEVjfQy) | [1AM \(okay?\)](https://open.spotify.com/album/0lzkhu2xCpdb1TeR4t0E90) | 2:12 |
 
-Snapshot ID: `AAAPxzkVvOVlcI5GeEv/xb7ksbnWLY39`
+Snapshot ID: `AAAPy02+Z7a6due4FurX/0DR3EneW0v5`

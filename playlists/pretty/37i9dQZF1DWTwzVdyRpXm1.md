@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,650 likes - 95 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,738 likes - 95 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 6 | [Qatal](https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:51 |
 | 7 | [Afsos](https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Afsos](https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa) | 3:11 |
 | 8 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |
-| 9 | [Jhol \- Acoustic](https://open.spotify.com/track/44LaY2y6wRRlSRjsqbKnuU) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Jhol \- Acoustic](https://open.spotify.com/album/1z8pfDEtCC0CxAOVT9IYkS) | 4:37 |
+| 9 | [Jhol \- Acoustic \(feat\. Asfand\)](https://open.spotify.com/track/44LaY2y6wRRlSRjsqbKnuU) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Asfand](https://open.spotify.com/artist/5Dmma2b9AAtPyCfZ2tlTcX) | [Jhol \- Acoustic \(feat\. Asfand\)](https://open.spotify.com/album/1z8pfDEtCC0CxAOVT9IYkS) | 4:37 |
 | 10 | [Har Baar](https://open.spotify.com/track/3VJpl4jrFSqY3Y6mAzqfux) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Har Baar](https://open.spotify.com/album/1oRAxwfxb55WuW7KjSx5uw) | 4:10 |
 | 11 | [Hairan Amanam \(feat\. Tissilawen\)](https://open.spotify.com/track/0avO50pud1zOzaFKh3efBV) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Rizwan Abbas](https://open.spotify.com/artist/4kOvSNxvoq1KMyie7p2qx0), [Maheen Sattar](https://open.spotify.com/artist/1bheH3ZoEEfJlLkWVZfBHW), [Tissilawen](https://open.spotify.com/artist/14viaIxpNaKT0mCz5p46jR) | [Hairan Amanam \(feat\. Tissilawen\)](https://open.spotify.com/album/4Vf5F1uAaEiavQl6qbyS1t) | 5:09 |
 | 12 | [Ishq](https://open.spotify.com/track/31HU1zDw7DRAEw6BiCYtpo) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 3:14 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 94 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
 | 95 | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6NJ8Z5GDoHe47R6gGX6sLq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/album/2rSFhbKldPsvtXI5IuseAF) | 3:34 |
 
-Snapshot ID: `AAAAAEdi/cW4tubUc5kUv7FSK3o8EB1w`
+Snapshot ID: `AAAAAG58dLbkdfX1Nf+zMOKA8Qjvayxd`

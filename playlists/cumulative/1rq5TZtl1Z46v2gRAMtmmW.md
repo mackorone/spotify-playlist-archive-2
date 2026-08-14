@@ -4,7 +4,7 @@
 
 > 
 
-562 songs - 1 day 12 hr 14 min
+563 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Grammar](https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Grammar](https://open.spotify.com/album/5UNPHRM6OIx2ePeHbP3MOi) | 7:41 | 2022-04-05 | 2023-04-20 |
 | [Green](https://open.spotify.com/track/2nVivsN3qpFbYUtvDNzi6v) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Green](https://open.spotify.com/album/00ACuCXVSKxpsG0BtIfD0g) | 4:05 | 2024-09-10 | 2025-04-01 |
 | [Green \- St\. David Remix](https://open.spotify.com/track/0sPi3AetQCt7b9CAtumw20) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [St\. David](https://open.spotify.com/artist/1t0FcS0U41EGNcCsMdkpXL) | [In The Night \(Paul Sirrell Remix\) / Green \(St\. David Remix\)](https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI) | 3:13 | 2025-01-16 | 2025-02-25 |
+| [Grilled Lobster](https://open.spotify.com/track/6JWc3cBOFjN2RZk9Rb8qFl) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Grilled Lobster](https://open.spotify.com/album/1dyX9GA2E1molGiYdQs8uW) | 1:52 | 2026-08-13 |  |
 | [GROWUP](https://open.spotify.com/track/4BCHnbhllVVwyVBbHaQwyY) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [GROWUP](https://open.spotify.com/album/4pWSY3omW0xCyunRfuO8Hl) | 2:26 | 2024-10-11 | 2025-09-18 |
 | [GUNZ](https://open.spotify.com/track/3bAW73ap6fM7DnDDRo8Xe2) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [GUNZ](https://open.spotify.com/album/4JKQF6JHokN1F4Kj5PkxdS) | 3:15 | 2023-08-17 | 2023-09-06 |
 | [HABITS](https://open.spotify.com/track/5L8dahm9afHErsFh5vsiUo) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [3FOR82\_D3LUX3](https://open.spotify.com/album/3S4N97ESS4YTCEEQsRluxZ) | 2:44 | 2024-10-25 | 2024-11-30 |
