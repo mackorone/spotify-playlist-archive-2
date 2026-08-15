@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Fantasy (Baby if u know me) (feat. Kosmo Kint)",
+        "url": "https://open.spotify.com/album/0QPCBavysOWUEif1OZZDRl"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189231,
+      "name": "Fantasy (Baby if u know me) (feat. Kosmo Kint)",
+      "url": "https://open.spotify.com/track/5vBOE85x2iJsbtBmDg34Hi"
+    },
+    {
+      "album": {
         "name": "Feel Again",
         "url": "https://open.spotify.com/album/4qWqvo8kjkb6EZWbM3ExE1"
       },
@@ -1464,6 +1486,28 @@
       "duration_ms": 204836,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/1lnqLxjlkgbR06AceNHYZw"
+    },
+    {
+      "album": {
+        "name": "Feeling Of You (feat. Lilly Ahlberg)",
+        "url": "https://open.spotify.com/album/0lVRdFQm7FL4n05eyvbhJq"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Feeling Of You (feat. Lilly Ahlberg)",
+      "url": "https://open.spotify.com/track/1uOAD1Q0AgmE1jcosLY4HY"
     },
     {
       "album": {
@@ -3126,7 +3170,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 218880,
       "name": "Magnetic - Samm Remix",
       "url": "https://open.spotify.com/track/1XrNwP64XgqbQO7YWtYJNr"
@@ -4568,7 +4612,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 150869,
       "name": "Seek Love (On The Beach)",
       "url": "https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP"

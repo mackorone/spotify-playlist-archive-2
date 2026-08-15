@@ -2,9 +2,9 @@
 
 ### [Hecho en Cuba](https://open.spotify.com/playlist/37i9dQZF1DWWM5o62BfFWh)
 
-> ¡Música que representa a Cuba! Cover: Dany Ome & Kevincito El 13
+> ¡Música que representa a Cuba! Cover: IAmChino, Pitbull & Gente de Zona
 
-200 songs - 11 hr 24 min
+201 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Veces](https://open.spotify.com/track/1c2lJocDQiD2hgXupkYdWz) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [A Veces](https://open.spotify.com/album/42B1duHMCKPjC2YRNJ1Wy9) | 3:15 | 2022-02-25 | 2026-07-01 |
 | [A Veces](https://open.spotify.com/track/6vCB60g1U7wIRfncvEcG0a) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [A Veces](https://open.spotify.com/album/1j599y64H6FzxwnpnbEzfd) | 3:15 | 2022-04-08 | 2022-11-13 |
 | [A Veces](https://open.spotify.com/track/6cXQX7pRILTVVamY7CJIVi) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [A Veces](https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT) | 3:01 | 2026-06-30 |  |
-| [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 | 2023-05-12 |  |
+| [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 | 2023-05-12 | 2026-08-15 |
 | [After Party](https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 2:37 | 2024-04-19 |  |
 | [Apagame la Luz](https://open.spotify.com/track/5YNm7rjtayQtYKgK1tLpcW) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Apagame la Luz](https://open.spotify.com/album/5A19cv9THtQaFe45nJ2beo) | 3:25 | 2022-04-08 | 2022-12-26 |
 | [Apagame la Luz](https://open.spotify.com/track/6KaCsW4E7ETLaukIDRkpon) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 3:25 | 2022-04-08 | 2023-02-11 |
@@ -66,6 +66,7 @@
 | [Formula Favorita](https://open.spotify.com/track/5lngWJVhe0Voo2jSFNxN4b) | [Skarlet](https://open.spotify.com/artist/5EBHFUWkDWg7EqzTk0yP1d), [MILAN](https://open.spotify.com/artist/53813mpn1haYsOi2xrLpeU) | [Formula Favorita](https://open.spotify.com/album/25ECDeb56UVUPXJD3tUozO) | 4:00 | 2022-04-08 | 2023-02-11 |
 | [Formula Favorita \- Remix](https://open.spotify.com/track/0DnqGNJ5ijXdqptfTsz6cJ) | [Skarlet](https://open.spotify.com/artist/5EBHFUWkDWg7EqzTk0yP1d), [MILAN](https://open.spotify.com/artist/53813mpn1haYsOi2xrLpeU) | [Formula Favorita \(Remix\)](https://open.spotify.com/album/5GKlxshf9Jq2jpTF8Thrfq) | 4:00 | 2022-02-25 | 2022-07-29 |
 | [Fácil \- Prod\. by Dj Honda x Roberto Ferrante](https://open.spotify.com/track/6itSyNPuJ19DXQ1yBXG4Pj) | [Bebeshito](https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Fácil](https://open.spotify.com/album/155p79q9L3ZMgXM8Aa1bPT) | 2:53 | 2026-06-30 |  |
+| [Gringa Repartera](https://open.spotify.com/track/6gwqBHNEJn2XYcDjAwCvsX) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Gringa Repartera](https://open.spotify.com/album/32PMfaSuQA6iMKmHWxlQEv) | 3:12 | 2026-08-14 |  |
 | [GuaChiNeo – Con La Punta del Pie \- Reparto / Repaton Edit](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe) | [GUACHINEO](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 | 2022-02-25 | 2026-07-01 |
 | [Gustazo](https://open.spotify.com/track/2H5OYDaZdZV5kS3v07TjHG) | [Candelita](https://open.spotify.com/artist/4WzBqbc7fxl2y8XrznMSqf), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Gustazo](https://open.spotify.com/album/0uYdSjjjjZZaUF2dKqgGSY) | 2:45 | 2025-04-18 | 2026-07-01 |
 | [Hace tiempo que no sé de tí](https://open.spotify.com/track/2QaX4WMwJNIxwio16tuxxI) | [Ozunaje](https://open.spotify.com/artist/6JIkIALBpxg5g5ia07E9bG), [El Dany MG](https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG), [Fernando Produce](https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ), [Cal Lybeat](https://open.spotify.com/artist/56NCcu2ap5rWxQx4FUosWB) | [Hace tiempo que no sé de tí](https://open.spotify.com/album/3uoaYIfJlv7PkBayh9rkiF) | 2:33 | 2026-06-30 |  |

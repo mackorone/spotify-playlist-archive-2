@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: DAYOUNG, Jay Park\) 지금 가장 핫한 댄스곡들을 만나보세요.
+> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: aespa\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,465 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,404 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FLIRTY](https://open.spotify.com/track/1V0U6NEryn8VzQFTLwX0dk) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [FLIRTY](https://open.spotify.com/album/2GIDfAsKGJVasFJ4BZdsX2) | 2:15 |
-| 2 | [Back To Life](https://open.spotify.com/track/64VnWqnEIz130BnVlqYHgV) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 1st Album 'Where To Now? \(Part.2\) : NOWHERE'](https://open.spotify.com/album/5gfNUlvzZB0T5Qj4v5cNiz) | 2:40 |
-| 3 | [BAD \(Speed Up Ver.\)](https://open.spotify.com/track/41yNTlsUC42eFdsd2BppqW) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BAD \(Remix\)](https://open.spotify.com/album/3XTrYtpw8lzLWvL4bvGg3L) | 2:17 |
+| 1 | [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 |
+| 2 | [Love wave \(Remix\)](https://open.spotify.com/track/0vdAdZRCi8KR8wTFCWGtik) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [Love wave \(Remix\)](https://open.spotify.com/album/79Bf7purIdO87UtBecfuSG) | 3:23 |
+| 3 | [FLIRTY](https://open.spotify.com/track/1V0U6NEryn8VzQFTLwX0dk) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [FLIRTY](https://open.spotify.com/album/2GIDfAsKGJVasFJ4BZdsX2) | 2:15 |
 | 4 | [LEMONADE \(Zedd Remix\)](https://open.spotify.com/track/3hoxvqaTCa2aeCDLZqlYJp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [LEMONADE \(Zedd Remix\)](https://open.spotify.com/album/4U3rMcsMqPoS2iGDaEczZ6) | 3:02 |
 | 5 | [Don’t Wake Me Up!](https://open.spotify.com/track/3Dj4kMRfZQKqU9wNvoNhAg) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [CORE](https://open.spotify.com/album/2aellk2HBrjc38bHfqXK9V) | 2:37 |
 | 6 | [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 |
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 | 48 | [TNT](https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN](https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT) | 2:02 |
 | 49 | [Stick With You](https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [7TH YEAR: A Moment of Stillness in the Thorns](https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk) | 2:33 |
 | 50 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
-| 51 | [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 |
 
-Snapshot ID: `AAAAAC67WVIxG8fnyYPvBHyTXn4sGDk8`
+Snapshot ID: `AAAAAOCxcTMpEizLrLA7Tf1QtbEZk60s`

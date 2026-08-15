@@ -1,15 +1,15 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 615228,
+  "num_followers": 615300,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKYQDzGIlLq5LgbrMz/tDoqQX19I",
+  "snapshot_id": "AAAAAP+l8rb6Bb4Hw/LMiGGoRAPhoKJN",
   "tracks": [
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2o2xhyri4aJUtgMGkf5P0J"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Dominguinho",
         "url": "https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS"
@@ -53,47 +53,23 @@
       "url": "https://open.spotify.com/track/3MZasYL4eB4Tm2U2LZ58tj"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
-        "name": "Quarto Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6o6okkJ5d9iwA0VAha2IXv"
+        "name": "At\u00e9 Outro Dia Amor",
+        "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
       },
       "artists": [
         {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        },
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
         }
       ],
-      "duration_ms": 169066,
-      "name": "Algu\u00e9m Melhor",
-      "url": "https://open.spotify.com/track/3xPL74iZjL7Ndl2znVQDjX"
+      "duration_ms": 208492,
+      "name": "At\u00e9 Outro Dia Amor",
+      "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "MAIS FORTE QUE A D\u00daVIDA",
-        "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 206171,
-      "name": "ANA",
-      "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
@@ -109,34 +85,10 @@
       "url": "https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/0RENWCeNQeexSBoS9rzxjG"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 141935,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/71Vau26vLY4Vl6Z4ajFKW0"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "Seu e S\u00f3",
-        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
+        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
+        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
       },
       "artists": [
         {
@@ -144,12 +96,32 @@
           "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 153148,
-      "name": "Seu e S\u00f3",
-      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
+      "duration_ms": 189276,
+      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
+      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
+      "album": {
+        "name": "Algo Me Diz",
+        "url": "https://open.spotify.com/album/6thHdBENSsVg9O5elJfW8I"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Algo Me Diz",
+      "url": "https://open.spotify.com/track/0I2Qjv3OpCJ8kGN7emPUtz"
+    },
+    {
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Dominguinho",
         "url": "https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS"
@@ -173,63 +145,39 @@
       "url": "https://open.spotify.com/track/6c6brFif6MTMSq0sVwgMAT"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
+        "name": "4 da manh\u00e3",
+        "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
       },
       "artists": [
         {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 199812,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
+      "duration_ms": 216428,
+      "name": "4 da manh\u00e3",
+      "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
-        "name": "Algo Me Diz",
-        "url": "https://open.spotify.com/album/6thHdBENSsVg9O5elJfW8I"
+        "name": "Troco Likes",
+        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
       "artists": [
         {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 210612,
-      "name": "Algo Me Diz",
-      "url": "https://open.spotify.com/track/0I2Qjv3OpCJ8kGN7emPUtz"
+      "duration_ms": 178718,
+      "name": "Coisa Linda",
+      "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "escapismo",
-        "url": "https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb"
-      },
-      "artists": [
-        {
-          "name": "Gabi Melim",
-          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
-        },
-        {
-          "name": "Mestrinho",
-          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
-        }
-      ],
-      "duration_ms": 179052,
-      "name": "mexe com meu ju\u00edzo",
-      "url": "https://open.spotify.com/track/3jRjwADDFans8VFXW2N5Vz"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
@@ -249,63 +197,7 @@
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "CARAMELO SALGADO",
-        "url": "https://open.spotify.com/album/52E7tqry5EliX0ypc7n3oM"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 238058,
-      "name": "SECA PALHA",
-      "url": "https://open.spotify.com/track/6X6h7rjzj166usJ7Bx4MM1"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "4 da manh\u00e3",
-        "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "4 da manh\u00e3",
-      "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "Troco Likes",
-        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 178718,
-      "name": "Coisa Linda",
-      "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Aos Vivos",
         "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
@@ -321,7 +213,7 @@
       "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "C\u00e9u Azul",
         "url": "https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N"
@@ -337,7 +229,7 @@
       "url": "https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Esmeraldas (\u00c1lbum Comentado)",
         "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
@@ -353,7 +245,7 @@
       "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Varrendo a Lua",
         "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
@@ -373,7 +265,7 @@
       "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Meu Canto - EP",
         "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
@@ -393,7 +285,7 @@
       "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Pode Se Achegar",
         "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
@@ -417,7 +309,7 @@
       "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
@@ -437,7 +329,7 @@
       "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Silva & Liniker (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
@@ -457,7 +349,7 @@
       "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "N",
         "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
@@ -473,7 +365,7 @@
       "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "As Cores, as Curvas e as Dores do Mundo",
         "url": "https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX"
@@ -489,7 +381,7 @@
       "url": "https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Coisas Naturais",
         "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
@@ -505,7 +397,7 @@
       "url": "https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
@@ -525,7 +417,7 @@
       "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Cru",
         "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
@@ -541,7 +433,7 @@
       "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
@@ -561,7 +453,23 @@
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
+      "album": {
+        "name": "Seu e S\u00f3",
+        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 153148,
+      "name": "Seu e S\u00f3",
+      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
+    },
+    {
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Te Fa\u00e7o um Cafun\u00e9",
         "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
@@ -577,7 +485,7 @@
       "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Um dia de domingo",
         "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
@@ -597,7 +505,7 @@
       "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "deixa fluir",
         "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
@@ -617,7 +525,7 @@
       "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Pra Voc\u00ea Guardei o Amor",
         "url": "https://open.spotify.com/album/7qOUwMmQjLBCzKYQszzNBT"
@@ -637,7 +545,7 @@
       "url": "https://open.spotify.com/track/3JsF6aWPsSUaGsGOq6kqAG"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
@@ -657,7 +565,7 @@
       "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Anitta",
         "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
@@ -673,7 +581,7 @@
       "url": "https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
@@ -693,7 +601,7 @@
       "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
@@ -709,7 +617,7 @@
       "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Ensaio Ac\u00fastico",
         "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
@@ -725,7 +633,7 @@
       "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
@@ -745,7 +653,7 @@
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Le\u00e3o",
         "url": "https://open.spotify.com/album/1N5Lvy0FhCxXpB0P047oRg"
@@ -761,7 +669,7 @@
       "url": "https://open.spotify.com/track/5jyhJeoNPBM5EGMU1OTfb8"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
@@ -777,7 +685,7 @@
       "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Lisboa-Madrid",
         "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
@@ -797,7 +705,7 @@
       "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Gal Estratosf\u00e9rica",
         "url": "https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H"
@@ -813,7 +721,7 @@
       "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5W4dS7EDdMOT9i1rnIoOS9"
@@ -829,7 +737,7 @@
       "url": "https://open.spotify.com/track/5SsVGUftRUdEuiTfSFFYXq"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Um amor puro",
         "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
@@ -849,7 +757,7 @@
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Garotos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk"
@@ -865,7 +773,7 @@
       "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Flora - EP",
         "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
@@ -881,7 +789,7 @@
       "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Balada do Amor Inabal\u00e1vel",
         "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
@@ -897,7 +805,7 @@
       "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Me conta da tua janela",
         "url": "https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF"
@@ -913,7 +821,31 @@
       "url": "https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
+      "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/0RENWCeNQeexSBoS9rzxjG"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 141935,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/71Vau26vLY4Vl6Z4ajFKW0"
+    },
+    {
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
@@ -933,7 +865,7 @@
       "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "M\u00fasica para Casar",
         "url": "https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V"
@@ -949,7 +881,7 @@
       "url": "https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
@@ -965,7 +897,7 @@
       "url": "https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
@@ -981,7 +913,27 @@
       "url": "https://open.spotify.com/track/7chMvjylTedOhNEnRQzBYj"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
+      "album": {
+        "name": "Quarto Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6o6okkJ5d9iwA0VAha2IXv"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Algu\u00e9m Melhor",
+      "url": "https://open.spotify.com/track/3xPL74iZjL7Ndl2znVQDjX"
+    },
+    {
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Mundan\u00e7a",
         "url": "https://open.spotify.com/album/3JWFKWdDalc9xBfekjsk2o"
@@ -997,7 +949,7 @@
       "url": "https://open.spotify.com/track/6pZhsDgyThgdww4vNQpov5"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Banda do Mar",
         "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
@@ -1013,7 +965,7 @@
       "url": "https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Caf\u00e9",
         "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
@@ -1029,7 +981,7 @@
       "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Aqui, Ali, Em Qualquer Lugar",
         "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
@@ -1045,7 +997,47 @@
       "url": "https://open.spotify.com/track/5dIZa3pwSn1vDenZpSBEFO"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
+      "album": {
+        "name": "escapismo",
+        "url": "https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb"
+      },
+      "artists": [
+        {
+          "name": "Gabi Melim",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "duration_ms": 179052,
+      "name": "mexe com meu ju\u00edzo",
+      "url": "https://open.spotify.com/track/3jRjwADDFans8VFXW2N5Vz"
+    },
+    {
+      "added_at": "2026-08-14 03:00:37",
+      "album": {
+        "name": "MAIS FORTE QUE A D\u00daVIDA",
+        "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 206171,
+      "name": "ANA",
+      "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
+    },
+    {
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Carnaval de Sof\u00e1",
         "url": "https://open.spotify.com/album/6ne5ijX7ThpjEdy3y3GZBk"
@@ -1061,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0Wr2aRTg74el3e98NKu8Zs"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Preciso Dizer Que Te Amo",
         "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
@@ -1081,7 +1073,7 @@
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Meu Xod\u00f3",
         "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
@@ -1101,7 +1093,7 @@
       "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Deixa Vir Do Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
@@ -1121,7 +1113,7 @@
       "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Caravanas",
         "url": "https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu"
@@ -1141,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1UI0p7UHJVyiVlug9ENhjg"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Tons de Marrom",
         "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
@@ -1161,7 +1153,7 @@
       "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Maria Beth\u00e2nia - Noite Luzidia (ao Vivo)",
         "url": "https://open.spotify.com/album/5SGR9EAQOqls8xrn8fnuHa"
@@ -1181,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2OGTo6ZsIrRr1F7rtd7PbP"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
@@ -1201,7 +1193,7 @@
       "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "J\u00fapiter",
         "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
@@ -1217,7 +1209,7 @@
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "FOR\u00c7A DA JUVENTUDE",
         "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
@@ -1241,7 +1233,7 @@
       "url": "https://open.spotify.com/track/0iWJQJ8xkCNqVyCWOG6hRM"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "S\u00f3 love",
         "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
@@ -1265,7 +1257,7 @@
       "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "ME LIGA",
         "url": "https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka"
@@ -1285,7 +1277,7 @@
       "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Meu Esquema",
         "url": "https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi"
@@ -1301,7 +1293,7 @@
       "url": "https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Moska Apresenta Zoombido: Mart'n\u00e1lia",
         "url": "https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn"
@@ -1317,7 +1309,7 @@
       "url": "https://open.spotify.com/track/0QzxEXZTx8Ygqhl3yDhvaA"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
@@ -1337,7 +1329,23 @@
       "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
+      "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 199812,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
+    },
+    {
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Por Causa de Voc\u00ea",
         "url": "https://open.spotify.com/album/3ouwXPloR4FWOYb2b5fKA5"
@@ -1361,7 +1369,7 @@
       "url": "https://open.spotify.com/track/3N9TzvYRK1yNIE8yJc41Y9"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "FOR\u00c7A DA JUVENTUDE",
         "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
@@ -1377,7 +1385,7 @@
       "url": "https://open.spotify.com/track/0yzpUJbXuG7vNd20TzGHlR"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Ser\u00e1 Que \u00c9 Amor?",
         "url": "https://open.spotify.com/album/0y37fswbscUTCzBBdD7tOF"
@@ -1397,7 +1405,7 @@
       "url": "https://open.spotify.com/track/28PEXv20R3MetQYRdnMsSg"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Ney Matogrosso Interpreta Cartola",
         "url": "https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z"
@@ -1413,7 +1421,7 @@
       "url": "https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "OutroEu",
         "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
@@ -1433,7 +1441,7 @@
       "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Voc\u00ea Tem",
         "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
@@ -1453,7 +1461,7 @@
       "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Fa\u00e7o Parar de Chover",
         "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
@@ -1473,7 +1481,7 @@
       "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
@@ -1493,7 +1501,7 @@
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Rosa Maria",
         "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
@@ -1509,7 +1517,7 @@
       "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
@@ -1537,7 +1545,7 @@
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Sentido",
         "url": "https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0"
@@ -1557,7 +1565,7 @@
       "url": "https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "When The Wind Blows (Private Sessions)",
         "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
@@ -1573,7 +1581,7 @@
       "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Banho de Folhas",
         "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
@@ -1589,7 +1597,7 @@
       "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
@@ -1605,7 +1613,7 @@
       "url": "https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Todo Caminho \u00c9 Sorte",
         "url": "https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof"
@@ -1621,7 +1629,7 @@
       "url": "https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Kavita 1",
         "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
@@ -1641,7 +1649,31 @@
       "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
+      "album": {
+        "name": "CARAMELO SALGADO",
+        "url": "https://open.spotify.com/album/52E7tqry5EliX0ypc7n3oM"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 238058,
+      "name": "SECA PALHA",
+      "url": "https://open.spotify.com/track/6X6h7rjzj166usJ7Bx4MM1"
+    },
+    {
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
@@ -1657,7 +1689,7 @@
       "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
@@ -1693,7 +1725,7 @@
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Carinhoso",
         "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
@@ -1709,7 +1741,7 @@
       "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Mano",
         "url": "https://open.spotify.com/album/6CRy9PfqYrPyrW75jb0Ny7"
@@ -1733,7 +1765,7 @@
       "url": "https://open.spotify.com/track/125cqbgLq4WeIW65E33qNU"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
@@ -1757,23 +1789,7 @@
       "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "LAGUM AO VIVO",
-        "url": "https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 158295,
-      "name": "Outro Algu\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
@@ -1789,7 +1805,7 @@
       "url": "https://open.spotify.com/track/44lq0DN2TWWfKzstAzKLXJ"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/3GGUhsGGdHx4LFSJRNEFK8"
@@ -1805,7 +1821,7 @@
       "url": "https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Mahmundi",
         "url": "https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN"
@@ -1821,7 +1837,7 @@
       "url": "https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/2wKOCCeBGn6D2KJImp97vW"
@@ -1841,7 +1857,7 @@
       "url": "https://open.spotify.com/track/4PUFsnaztPNbXSHhGnQ2Tw"
     },
     {
-      "added_at": "2026-08-07 03:00:11",
+      "added_at": "2026-08-14 03:00:37",
       "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
@@ -1859,26 +1875,6 @@
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "da primeira vez (from the first time)",
-        "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "da primeira vez (from the first time)",
-      "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

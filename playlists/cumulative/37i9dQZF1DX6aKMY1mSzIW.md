@@ -2,9 +2,9 @@
 
 ### [OPM Binge](https://open.spotify.com/playlist/37i9dQZF1DX6aKMY1mSzIW)
 
-> Binge watch OPM music videos! only available for Spotify Premium Subscribers! Cover: BINI
+> Binge watch OPM music videos! only available for Spotify Premium Subscribers! Cover: Kyle Raphael
 
-70 songs - 4 hr 21 min
+71 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Langit](https://open.spotify.com/track/1hhFrtEV6mIySRYiXzbcHE) | [Ame](https://open.spotify.com/artist/5FBMWQ27y0de4TaZawQ7bN) | [Langit](https://open.spotify.com/album/7j4HxXSkpja1EYuUkIrkfc) | 5:28 | 2026-08-10 |  |
 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 | 2026-04-16 |  |
 | [LDR](https://open.spotify.com/track/3KcBIT6PnRXEE5Ghe3b2ii) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [LDR](https://open.spotify.com/album/49r5GFwFKkhicAyUWtEW2X) | 3:31 | 2026-04-16 |  |
+| [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 | 2026-08-14 |  |
 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:37 | 2026-07-13 |  |
 | [MANHID](https://open.spotify.com/track/0Omc5FhrLMPwUQe914TgMa) | [LU MARZAN](https://open.spotify.com/artist/2PFOavJcy4B4Eom96N7vDl) | [MANHID](https://open.spotify.com/album/4e1y1d6hU8avOrDH0ZTNM2) | 3:12 | 2026-08-10 |  |
 | [Marikit Sa Dilim](https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [Marikit Sa Dilim](https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l) | 3:52 | 2026-07-13 |  |
@@ -58,7 +59,7 @@
 | [Pano](https://open.spotify.com/track/5xes4vXHGTX4WFdX7A07Ka) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 4:14 | 2026-04-16 |  |
 | [Paradise](https://open.spotify.com/track/6JUaqyBQHFnWd4vrYHj7F0) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [Paradise](https://open.spotify.com/album/0q4PnCIkuRM46aiTltyqwg) | 2:38 | 2026-08-10 |  |
 | [PSG](https://open.spotify.com/track/0xaKCWpX4CBSqwh7CQa4EG) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [PSG](https://open.spotify.com/album/4MqzfMoVBWnM2ZyAJipzPZ) | 3:00 | 2026-04-16 |  |
-| [Pyramid \(feat\. Iyaz\)](https://open.spotify.com/track/7Bs3eQv2Z0ZQaAWaBK9N1X) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc), [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Charice](https://open.spotify.com/album/2GhwG1q1nyMEc3GAfnQysg) | 3:55 | 2026-04-16 |  |
+| [Pyramid \(feat\. Iyaz\)](https://open.spotify.com/track/7Bs3eQv2Z0ZQaAWaBK9N1X) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc), [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Charice](https://open.spotify.com/album/2GhwG1q1nyMEc3GAfnQysg) | 3:55 | 2026-04-16 | 2026-08-15 |
 | [Repeat](https://open.spotify.com/track/011GTFfE8rqTRMhz5g8IAW) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx), [Lexus](https://open.spotify.com/artist/4QF8kneXYqRCYtjt0Xcs5z) | [Repeat](https://open.spotify.com/album/4VvCsIUWUn9vwpPaeDIymm) | 3:50 | 2026-04-16 | 2026-07-14 |
 | [RomCom](https://open.spotify.com/track/1zmMvzZWsRDn2ilhbDGLf8) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Wander Boy](https://open.spotify.com/album/345JmmunfXeNp0l4CcUkH5) | 3:57 | 2026-04-16 |  |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2026-04-16 |  |

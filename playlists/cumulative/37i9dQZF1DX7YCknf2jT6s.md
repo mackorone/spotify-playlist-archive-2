@@ -2,9 +2,9 @@
 
 ### [State of Jazz](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s)
 
-> New jazz for open minds\. Cover: Dinner Party
+> New jazz for open minds\. Cover: Dana and Alden
 
-2,046 songs - 6 day 22 hr 34 min
+2,047 songs - 6 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [Dung Gate](https://open.spotify.com/track/2iYKFf2p2mM0YSfRXOdLF4) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Hoodna Orchestra](https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk) | [Dung Gate](https://open.spotify.com/album/3QMRQH28I1kwXe9nzFtUYd) | 4:07 | 2024-10-25 | 2025-03-01 |
 | [Duolism \- One Two](https://open.spotify.com/track/365egaSmBaJjCE2WYaTkir) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Solistensemble Kaleidoskop](https://open.spotify.com/artist/0LOSJKFSlJcJ6q1AbfKd6Z) | [Duolism \- One Two](https://open.spotify.com/album/6y5BbpHAUrc2GABbFRLGox) | 4:32 | 2022-09-02 | 2022-10-08 |
 | [Dust Ball Fantasy \(feat\. Lionel Loueke\)](https://open.spotify.com/track/1R3OT4zUhA9p8erPorBcPD) | [Marcus Strickland Twi\-Life](https://open.spotify.com/artist/3r1zgybXPtRemw0HPrDU7l), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Dust Ball Fantasy \(feat\. Lionel Loueke\)](https://open.spotify.com/album/3fAJ4IYvinGbGd9SSpmcsN) | 5:27 | 2022-11-11 | 2023-01-28 |
-| [Dusty But Digital pt.3 \- Dusty But Digital](https://open.spotify.com/track/15ccg03xENvbgTdtw2OBfs) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr), [Monica Mussungo](https://open.spotify.com/artist/1keDfNbTVduTl02p1NxfkU) | [In The Age Of Data](https://open.spotify.com/album/4M0EzsBZuTnzq7tcE9Ezty) | 2:43 | 2025-11-14 |  |
+| [Dusty But Digital pt.3 \- Dusty But Digital](https://open.spotify.com/track/15ccg03xENvbgTdtw2OBfs) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr), [Monica Mussungo](https://open.spotify.com/artist/1keDfNbTVduTl02p1NxfkU) | [In The Age Of Data](https://open.spotify.com/album/4M0EzsBZuTnzq7tcE9Ezty) | 2:43 | 2025-11-14 | 2026-08-15 |
 | [DYKWYD \[Feat\. Braxton Cook\]](https://open.spotify.com/track/6CK3P6x1g6lfJ2yowBGOWz) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [DYKWYD \[Feat\. Braxton Cook\]](https://open.spotify.com/album/3wHESbXbqvwTjgHzxbWaE4) | 4:02 | 2023-08-18 | 2023-09-23 |
 | [Dynamics](https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/2j45BDfC3FVhEbiExfU1oS) | 2:48 | 2023-12-01 | 2024-01-05 |
 | [Dédalo De Concreto \- Single Version](https://open.spotify.com/track/6PfUV08i2dfwa5FYsTkZiT) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo De Concreto \(Single Version\)](https://open.spotify.com/album/5EL379oEpD5fBdlU8xydPb) | 4:01 | 2022-02-03 | 2022-04-02 |
@@ -1149,6 +1149,7 @@
 | [Naked Truth \- Pt\. 2](https://open.spotify.com/track/5aGu2flzEq7gQynuFACI3L) | [Avishai Cohen](https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7), [Barak Mori](https://open.spotify.com/artist/2B9m3RQnberKMSfKcPZjNP), [Ziv Ravitz](https://open.spotify.com/artist/3yiH9RLazhAed3ir9K7D2o) | [Naked Truth \(Pt\. 2\)](https://open.spotify.com/album/0nZsYMqI8d2vHJKWq1HhE3) | 5:06 | 2021-12-23 | 2022-02-04 |
 | [Naked Truth \- Pt\. 8](https://open.spotify.com/track/1YulPZXMQ3FAjBfwRQmBH3) | [Avishai Cohen](https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7), [Barak Mori](https://open.spotify.com/artist/2B9m3RQnberKMSfKcPZjNP), [Ziv Ravitz](https://open.spotify.com/artist/3yiH9RLazhAed3ir9K7D2o) | [Naked Truth](https://open.spotify.com/album/1J2ioWaCeYQxhBs5kGsOG1) | 4:29 | 2022-02-25 | 2022-03-05 |
 | [Nansen](https://open.spotify.com/track/6XItqDuX2nHb3FLsvLN7Cf) | [Cecil Alexander](https://open.spotify.com/artist/42oLcqYpvwyPY5BZO6oqfa) | [Introducing](https://open.spotify.com/album/1nsPR6ftm7rlZvedfOshAh) | 6:07 | 2022-09-23 | 2022-11-19 |
+| [Napa 86](https://open.spotify.com/track/2r0TiR5Ofs2FqG1dyvEZvF) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Papa's Boat](https://open.spotify.com/album/5l41oiUXGnECXTC2vHvlPt) | 3:16 | 2026-08-14 |  |
 | [Nature Boy](https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 6:12 | 2022-03-11 | 2022-06-18 |
 | [Nature's Kiss](https://open.spotify.com/track/50VxERP6MGmAtug4JoYhFw) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jackie Bertone](https://open.spotify.com/artist/2iI13MSOIhXO6Dsfcsxfxo) | [Nature's Kiss](https://open.spotify.com/album/6PMSdB8ofYarmEyqWDWtmO) | 6:02 | 2022-02-18 | 2022-05-20 |
 | [Network of 3](https://open.spotify.com/track/6XSEJN0k4yL6z0bGJ1s4Fx) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Network of 3](https://open.spotify.com/album/7DNX7AQuLm88uS4MHsIjvB) | 4:15 | 2022-09-02 | 2022-10-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
+  "description": "As belas novidades da MPB. Foto: Hyldon",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -2553,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "At\u00e9 Outro Dia Amor",
+        "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208492,
+      "name": "At\u00e9 Outro Dia Amor",
+      "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
+    },
+    {
+      "album": {
         "name": "At\u00e9 Que Enfim",
         "url": "https://open.spotify.com/album/6PDu9xgckwsWqlnInB8LrB"
       },
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 191330,
       "name": "Avi\u00e3o",
       "url": "https://open.spotify.com/track/0nEs39xCUywoYfAHxzvCN8"
@@ -3340,7 +3358,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 190250,
       "name": "Bel\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/6hasWlKd0tNBlGoRFfV3CP"
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 227512,
       "name": "Campo Alegre Km 500 Mil",
       "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
@@ -5220,7 +5238,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 173915,
       "name": "Coisas de Viver",
       "url": "https://open.spotify.com/track/0aXfJykpgdZIZ1Rgr278Pr"
@@ -5514,7 +5532,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 176235,
       "name": "Contato",
       "url": "https://open.spotify.com/track/1OwwYDOjA2npNkIJjOEGZN"
@@ -12567,6 +12585,24 @@
     },
     {
       "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/4ANX8dBWeZsdiuOVdngjQY"
+      },
+      "artists": [
+        {
+          "name": "Phill Veras",
+          "url": "https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238250,
+      "name": "Memento",
+      "url": "https://open.spotify.com/track/62wpMObmC8YYekio1XDY2y"
+    },
+    {
+      "album": {
         "name": "Menina da Pomp\u00e9ia",
         "url": "https://open.spotify.com/album/26hFaJEcvg8iPaoJ1X2NVL"
       },
@@ -13445,6 +13481,24 @@
     },
     {
       "album": {
+        "name": "M\u00edstica (Agora)",
+        "url": "https://open.spotify.com/album/64Y7YKpoorYdOOUaHBub4g"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314357,
+      "name": "M\u00edstica (Agora)",
+      "url": "https://open.spotify.com/track/4xshn2BR775ekAjODe6EfG"
+    },
+    {
+      "album": {
         "name": "M\u00fasica",
         "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
       },
@@ -14104,7 +14158,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 256000,
       "name": "Nome Luz",
       "url": "https://open.spotify.com/track/5AvYzeedoC4hGnI7UTLF32"
@@ -15330,7 +15384,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 166437,
       "name": "O Nome Certo do Amor",
       "url": "https://open.spotify.com/track/0Ekg7Mx59RqGUDWw3V31uT"
@@ -18934,7 +18988,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 164500,
       "name": "Queria Ter Nove",
       "url": "https://open.spotify.com/track/1c0qadA7kPd7YjLAgCGqjM"
@@ -21769,6 +21823,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Quero Te Amar",
+        "url": "https://open.spotify.com/album/5Nxy7aGj0SayXmRNlEJGGf"
+      },
+      "artists": [
+        {
+          "name": "Dani Black",
+          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155302,
+      "name": "S\u00f3 Quero Te Amar",
+      "url": "https://open.spotify.com/track/5AKthff2UBBcZn5P288SBr"
+    },
+    {
+      "album": {
         "name": "S\u00f3 Se for Agora",
         "url": "https://open.spotify.com/album/4yJ6DfxUVToJxp2jsINkRM"
       },
@@ -22844,6 +22916,24 @@
       "duration_ms": 200164,
       "name": "Todo o Amor Que Houver Nessa Vida",
       "url": "https://open.spotify.com/track/57HsNsO2Up5WlLcoyugpcD"
+    },
+    {
+      "album": {
+        "name": "Todo Sempre",
+        "url": "https://open.spotify.com/album/2zXgUnG7LQUPuztDPRl8FX"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Todo Sempre",
+      "url": "https://open.spotify.com/track/5u1l5PBoTZDZbqwfgJA6dP"
     },
     {
       "album": {
@@ -24197,6 +24287,24 @@
     },
     {
       "album": {
+        "name": "veneza",
+        "url": "https://open.spotify.com/album/0KDr7i9QxsKgq9n5zd0AXg"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jr",
+          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "veneza",
+      "url": "https://open.spotify.com/track/52TmF4X55FgLoGNoclyxre"
+    },
+    {
+      "album": {
         "name": "Ventania",
         "url": "https://open.spotify.com/album/3i2LOsgLugd1YksxeKrg5Z"
       },
@@ -24442,6 +24550,24 @@
       "duration_ms": 204589,
       "name": "Vertigem",
       "url": "https://open.spotify.com/track/7n89SLMdyzUITl1JwgQ5QE"
+    },
+    {
+      "album": {
+        "name": "Festa na Aldeia",
+        "url": "https://open.spotify.com/album/0BKLsSMzFmHCoEDTfVcrtv"
+      },
+      "artists": [
+        {
+          "name": "Hyldon",
+          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219989,
+      "name": "Vida Maneira",
+      "url": "https://open.spotify.com/track/4fPgkMghOSkBOJmTyImOBW"
     },
     {
       "album": {
@@ -25062,6 +25188,28 @@
       "duration_ms": 174770,
       "name": "\u00c0s Avessas Por Voc\u00ea",
       "url": "https://open.spotify.com/track/23DXIx5eol08KDm7yAZRsj"
+    },
+    {
+      "album": {
+        "name": "\u00c1frica Em Mim",
+        "url": "https://open.spotify.com/album/6qUWp2kF7yyNpEUkI7yLW0"
+      },
+      "artists": [
+        {
+          "name": "Solange Cesarovna",
+          "url": "https://open.spotify.com/artist/00OixBxoLXqSDiA9uyYAqh"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202555,
+      "name": "\u00c1frica Em Mim",
+      "url": "https://open.spotify.com/track/7qkHJZGB3s2jAXgTBAmbiQ"
     },
     {
       "album": {

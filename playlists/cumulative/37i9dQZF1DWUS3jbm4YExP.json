@@ -3463,6 +3463,28 @@
     },
     {
       "album": {
+        "name": "Tempos Dif\u00edceis Sempre Passam",
+        "url": "https://open.spotify.com/album/41gnrqrpbRIDFKIFL0mi5d"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "Aleh",
+          "url": "https://open.spotify.com/artist/4WSkyzV3z6MNVfijWGT1Gd"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254934,
+      "name": "Da Du Dah (Aleh Remix)",
+      "url": "https://open.spotify.com/track/2DwNSfkFYCYclEpXPxgvj3"
+    },
+    {
+      "album": {
         "name": "EL DO",
         "url": "https://open.spotify.com/album/5MSAl93Fmb6UDIejjxtEM7"
       },
@@ -6173,6 +6195,24 @@
     },
     {
       "album": {
+        "name": "Pingu's Anthem b/w Gronk",
+        "url": "https://open.spotify.com/album/3fKJx0SdPeg5oxwDgiUqO8"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188390,
+      "name": "Gronk",
+      "url": "https://open.spotify.com/track/40M2uLSMbPi4BnkdO2oEUf"
+    },
+    {
+      "album": {
         "name": "GROOVINU",
         "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
       },
@@ -7522,7 +7562,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 208444,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
@@ -9510,7 +9550,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 269859,
       "name": "M'akoma Nnwom",
       "url": "https://open.spotify.com/track/1FkQaRUsKY4Ele0UcYF0bG"

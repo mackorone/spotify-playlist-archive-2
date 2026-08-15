@@ -4,7 +4,7 @@
 
 > old asl
 
-664 songs - 1 day 12 hr 35 min
+665 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [The Boy Who Could Fly](https://open.spotify.com/track/564Df8cLWxfWfDgxXoskhX) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines \(Reissue\)](https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU) | 5:10 | 2023-08-24 |  |
 | [the city\(lone\)](https://open.spotify.com/track/48Wey11eIVB0RSUeHbwZzF) | [vjac0b](https://open.spotify.com/artist/2dSAZN7PmMiI5UCTJUALer) | [the city\(lone\)](https://open.spotify.com/album/2OTTLTzMpMXc02Ly3J7rmg) | 2:00 | 2022-06-01 |  |
 | [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2022-04-17 |  |
+| [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 | 2026-08-15 |  |
 | [The First Punch](https://open.spotify.com/track/5FyYyTIwKv4JWRPfLZ2TOS) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:25 | 2024-10-21 |  |
 | [The fo Five](https://open.spotify.com/track/0p2GWx4qFzfq9UWd0SrODU) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [THA PLAYA$ MANUAL](https://open.spotify.com/album/5n08iLe0rtrvQ3wg3UhWN3) | 3:21 | 2022-01-28 |  |
 | [The Ghost of You](https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:14 | 2025-07-09 |  |

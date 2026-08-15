@@ -1,76 +1,32 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Noah Guy",
-  "num_followers": 59961,
+  "description": "R&B of the moment by the artists of the future. Cover: Honey Bxby and JID",
+  "num_followers": 59973,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOVUrXU94DaSMinxM2UEnR2+hAGd",
+  "snapshot_id": "AAAAALwG/XrImU4a8QjFZQp7daD8OXui",
   "tracks": [
     {
-      "added_at": "2026-08-07 16:49:17",
+      "added_at": "2026-08-14 04:57:25",
       "album": {
-        "name": "GOT YOU",
-        "url": "https://open.spotify.com/album/5JTDmoExrvACCEeP1me28m"
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/1Q548wgBsC8CsA27DURe1G"
       },
       "artists": [
         {
-          "name": "Noah Guy",
-          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "GOT YOU",
-      "url": "https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO"
-    },
-    {
-      "added_at": "2026-08-07 16:49:17",
-      "album": {
-        "name": "Catch n' Release",
-        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
-      },
-      "artists": [
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
         {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 167287,
-      "name": "Red Wine Holiday",
-      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
-    },
-    {
-      "added_at": "2026-07-24 04:56:43",
-      "album": {
-        "name": "DREAMS ON THE PASSENGER SEAT",
-        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "LUV MYSELF",
-      "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
-    },
-    {
-      "added_at": "2026-07-31 05:44:34",
-      "album": {
-        "name": "SWERVE",
-        "url": "https://open.spotify.com/album/5ij7M5p7MKeR13lrZwoDSr"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 171783,
-      "name": "SWERVE",
-      "url": "https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV"
+      "duration_ms": 187333,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/0547MWFbVf9ykU6T7LMbCD"
     },
     {
       "added_at": "2026-07-31 05:44:34",
@@ -91,6 +47,174 @@
       "duration_ms": 157168,
       "name": "PLAY YA CARDS",
       "url": "https://open.spotify.com/track/7wcYegXaOifWGzNQyhIHg5"
+    },
+    {
+      "added_at": "2026-08-14 04:57:25",
+      "album": {
+        "name": "LIMBO",
+        "url": "https://open.spotify.com/album/5qbQkQWRnf9indYNWMfC0E"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 149090,
+      "name": "Just Like Everybody",
+      "url": "https://open.spotify.com/track/7yhRcS28n3vvzwLHT3MR8l"
+    },
+    {
+      "added_at": "2026-08-07 16:49:17",
+      "album": {
+        "name": "Catch n' Release",
+        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Red Wine Holiday",
+      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
+    },
+    {
+      "added_at": "2026-08-14 04:57:25",
+      "album": {
+        "name": "ANGEL",
+        "url": "https://open.spotify.com/album/32GVvqbn3IO1K3e4ehpbh1"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/6EWz01NLmUigFEz98Ek5qR"
+    },
+    {
+      "added_at": "2026-08-07 16:49:17",
+      "album": {
+        "name": "GOT YOU",
+        "url": "https://open.spotify.com/album/5JTDmoExrvACCEeP1me28m"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "GOT YOU",
+      "url": "https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO"
+    },
+    {
+      "added_at": "2026-08-14 04:57:25",
+      "album": {
+        "name": "Mr. Lovebomb (Deluxe)",
+        "url": "https://open.spotify.com/album/2oQtctlGFAjFSN4qmBM4mR"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 262968,
+      "name": "fade",
+      "url": "https://open.spotify.com/track/2ryhtkGQue7aDgW6yvd3IY"
+    },
+    {
+      "added_at": "2026-07-10 05:29:33",
+      "album": {
+        "name": "what u want",
+        "url": "https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 165652,
+      "name": "what u want",
+      "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
+    },
+    {
+      "added_at": "2026-08-14 04:57:25",
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/7pHsjBlo16KVOWGS4BvhLH"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/6ISTEhpDVoCkUQxLIgVOqT"
+    },
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "DREAMS ON THE PASSENGER SEAT",
+        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "LUV MYSELF",
+      "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
+    },
+    {
+      "added_at": "2026-08-14 04:57:25",
+      "album": {
+        "name": "I'll Be Home Soon",
+        "url": "https://open.spotify.com/album/5hsc55Vmer7Kj3726DJQPM"
+      },
+      "artists": [
+        {
+          "name": "Abby Jasmine",
+          "url": "https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf"
+        },
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "duration_ms": 185965,
+      "name": "DEJAVU (feat. Swavay)",
+      "url": "https://open.spotify.com/track/2ZPbTV6fSzyIOF5cQZ7E9r"
+    },
+    {
+      "added_at": "2026-07-31 05:44:34",
+      "album": {
+        "name": "SWERVE",
+        "url": "https://open.spotify.com/album/5ij7M5p7MKeR13lrZwoDSr"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 171783,
+      "name": "SWERVE",
+      "url": "https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV"
     },
     {
       "added_at": "2026-07-31 05:44:34",
@@ -123,22 +247,6 @@
       "duration_ms": 173103,
       "name": "silly boy",
       "url": "https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P"
-    },
-    {
-      "added_at": "2026-07-10 05:29:33",
-      "album": {
-        "name": "what u want",
-        "url": "https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 165652,
-      "name": "what u want",
-      "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
     },
     {
       "added_at": "2026-07-10 05:29:33",
@@ -255,22 +363,6 @@
       "duration_ms": 224390,
       "name": "Anything Could Happen",
       "url": "https://open.spotify.com/track/6WOovMUKaVhuFhOBc1QihF"
-    },
-    {
-      "added_at": "2026-07-24 04:56:43",
-      "album": {
-        "name": "no way!",
-        "url": "https://open.spotify.com/album/6JsZCvhIvzpJdXjjtIds3k"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 225457,
-      "name": "no way!",
-      "url": "https://open.spotify.com/track/1fehc61JpeHtRDszMS8l4c"
     },
     {
       "added_at": "2026-07-17 04:38:08",
@@ -404,7 +496,7 @@
           "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
         }
       ],
-      "duration_ms": 198948,
+      "duration_ms": 201000,
       "name": "LET ME GO",
       "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
     },
@@ -2087,22 +2179,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "FatalAttraction",
-        "url": "https://open.spotify.com/album/1wQzK1Wp22pzqyKQsMqYau"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9A THE LEOX",
-          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
-        }
-      ],
-      "duration_ms": 207567,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/2UnBCuQtiwlV6oMuix8vi5"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "is anybody home!?",
         "url": "https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX"
       },
@@ -2151,22 +2227,6 @@
       "duration_ms": 176000,
       "name": "The Perfect One",
       "url": "https://open.spotify.com/track/50sdq6Bggs4uoQY97AiVah"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "SUGAR WATER",
-        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 190248,
-      "name": "SUGAR WATER",
-      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -2539,26 +2599,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/3wiopcmc4FnWIbCQN071sC"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "Paperboy Fabe",
-          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Both Of Us",
-      "url": "https://open.spotify.com/track/206tNNIw7RoyPwfaTUgJNv"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Love or a Lesson",
         "url": "https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH"
       },
@@ -2603,30 +2643,6 @@
       "duration_ms": 223448,
       "name": "GREEN VOWS",
       "url": "https://open.spotify.com/track/5yGxrxtSMNFYCOpEfdWgvV"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Shame (feat. BunnaB)",
-        "url": "https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "BunnaB",
-          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Shame (feat. BunnaB)",
-      "url": "https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3347,22 +3363,6 @@
       "duration_ms": 135014,
       "name": "to see thru closed eyes",
       "url": "https://open.spotify.com/track/5zXBf7bGyDM4TnWNTjMCfi"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z"
-      },
-      "artists": [
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
-        }
-      ],
-      "duration_ms": 123770,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6"
     }
   ],
   "unique_name": "R&B Rising",

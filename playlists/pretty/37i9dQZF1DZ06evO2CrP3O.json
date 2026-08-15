@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 142937,
+  "num_followers": 142953,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAABTFyjdoxhhgxIs+O3ZAult",
+  "snapshot_id": "an0JAAAAAAAf78Tgpdvu568ILEQi+WvO",
   "tracks": [
     {
       "added_at": null,
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Exit",
-        "url": "https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/6c3BB1ehH8VjFTj0lDXLoz"
       },
       "artists": [
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        },
-        {
-          "name": "Coolio",
-          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
         }
       ],
-      "duration_ms": 259000,
-      "name": "No Exit - feat. Coolio",
-      "url": "https://open.spotify.com/track/16tZD5aSFYCIkjyKMoatrp"
+      "duration_ms": 218760,
+      "name": "One Way Or Another - Live",
+      "url": "https://open.spotify.com/track/3l0VXECEIHBasR2gYKezNO"
     }
   ],
   "unique_name": "This Is Blondie",

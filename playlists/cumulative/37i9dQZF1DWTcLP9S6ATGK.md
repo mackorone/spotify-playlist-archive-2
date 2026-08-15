@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Aruma
 
-1,063 songs - 2 day 21 hr 0 min
+1,064 songs - 2 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,6 +697,7 @@
 | [Pergilah Kasih](https://open.spotify.com/track/0lMfcdowtnDVtg6hSi1PyI) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Pergilah Kasih](https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv) | 4:17 | 2025-10-03 | 2026-07-10 |
 | [Peringatan Hari Buruk](https://open.spotify.com/track/2tcj2ss6IqHQO4SHBCUQ8V) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Peringatan Hari Buruk](https://open.spotify.com/album/32bT2SHgTWJL5iS5RbwSji) | 3:14 | 2026-07-24 |  |
 | [Perjalanan](https://open.spotify.com/track/03LI56cQXjWeLAB7w5EBpS) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Perjalanan](https://open.spotify.com/album/3t3vSLkBQS5sc4poUgrkmU) | 4:09 | 2025-11-20 | 2026-02-13 |
+| [Permaisuri](https://open.spotify.com/track/6WHcZoCHL9F1FRCGcejq9z) | [Radja](https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5) | [Permaisuri](https://open.spotify.com/album/4zeKxGhC7GI2dgy8t0AefP) | 5:40 | 2026-08-14 |  |
 | [Pernah Di Sana](https://open.spotify.com/track/0K2gS9lawq974gyuaDRCXs) | [Rizky Irmansyah](https://open.spotify.com/artist/0vX4JybTXjd3oy4Dn3tqBI), [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Pernah Di Sana](https://open.spotify.com/album/0BKGKhyZ7KEXByVDXbOXLF) | 4:05 | 2024-10-17 | 2024-11-22 |
 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 | 2025-04-11 | 2025-07-11 |
 | [Pertanda Cinta](https://open.spotify.com/track/4kZ6NggFpCEtm1V0Vu3n1L) | [Dani Kurama](https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe), [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Pertanda Cinta](https://open.spotify.com/album/7ovNo1CUdp7I4uIprwFKdd) | 4:22 | 2024-07-18 | 2024-09-27 |

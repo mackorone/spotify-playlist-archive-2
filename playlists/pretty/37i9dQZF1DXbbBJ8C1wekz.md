@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,188 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,278 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 99 | [Turma da Duq](https://open.spotify.com/track/7EUPOI7uEQU7AxKRtoZs3g) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Turma da Duq](https://open.spotify.com/album/2ScZ4RsKsuQ0mgYObUuHMb) | 2:23 |
 | 100 | [A Comitiva](https://open.spotify.com/track/4rqdcTkE0cVq2Xilp5wqeX) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Markin Avel](https://open.spotify.com/artist/5u8ejmm6QtrNPZkCPF4DXl) | [Empate Técnico](https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8) | 3:08 |
 
-Snapshot ID: `AAAAAENp1V/ISy6GOzDLkE09wvphTnXe`
+Snapshot ID: `AAAAAGxqkvqdiSnyQIDa2vpIXJaUcDaD`

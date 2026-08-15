@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,741 likes - 150 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,757 likes - 150 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 144 | [PANIK](https://open.spotify.com/track/3cETXA1GfQYdAajbUDohJZ) | [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Paula Carregosa](https://open.spotify.com/artist/1M4peeoWw6mGPEqnsg1mKl) | [PANIK](https://open.spotify.com/album/1QQOGKzJOjLtCQGPEhQWH0) | 3:34 |
 | 145 | [Envy](https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Envy](https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN) | 4:30 |
 | 146 | [Fragile Space](https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18) | [Poh Hock](https://open.spotify.com/artist/0KBR26P2goagfV6qJWctFB), [Robert Edens](https://open.spotify.com/artist/2EmddVdQjFPPvnm1Xx5NfK) | [Gallimaufry](https://open.spotify.com/album/5TqrK0OA6CcOtei9BmUHKK) | 4:15 |
-| 147 | [Last Words](https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Last Words](https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr) | 2:58 |
-| 148 | [I Am Time](https://open.spotify.com/track/3SRTMe1bmFbs1ZEFom9AOC) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [I Am Time](https://open.spotify.com/album/42jnID8h4u6a1qCINvVCRl) | 5:39 |
-| 149 | [Borderline Syndrome](https://open.spotify.com/track/5iaJDLrxZ80mIvH4oveRZb) | [Monosphere](https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW) | [Sentience](https://open.spotify.com/album/6iRzTS4biCbb2VukIwB9nT) | 6:48 |
+| 147 | [Borderline Syndrome](https://open.spotify.com/track/5iaJDLrxZ80mIvH4oveRZb) | [Monosphere](https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW) | [Sentience](https://open.spotify.com/album/6iRzTS4biCbb2VukIwB9nT) | 6:48 |
+| 148 | [Last Words](https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Last Words](https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr) | 2:58 |
+| 149 | [I Am Time](https://open.spotify.com/track/3SRTMe1bmFbs1ZEFom9AOC) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [I Am Time](https://open.spotify.com/album/42jnID8h4u6a1qCINvVCRl) | 5:39 |
 | 150 | [Piros kocsi, fekete éj](https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Piros kocsi, fekete éj](https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z) | 4:12 |
 
 Snapshot ID: `AAAAAJ1YeG66DjeIfZ6ahkX1gyfFbl0g`

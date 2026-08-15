@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New makes old. Cover:  Presley Haile",
+  "description": "New makes old. Cover:  Kaitlin Butts",
   "name": "Vintage Vibes",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 181270,
       "name": "All The Way Back",
       "url": "https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ"
+    },
+    {
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169351,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
     },
     {
       "album": {
@@ -2103,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Be Bad",
+        "url": "https://open.spotify.com/album/6snIP2jUiHg8laMBGmd9rD"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157130,
+      "name": "I Wanna Be Bad",
+      "url": "https://open.spotify.com/track/7uxmDjx4P4KSMLI2mXwZeF"
+    },
+    {
+      "album": {
         "name": "My Gospel",
         "url": "https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK"
       },
@@ -3532,7 +3568,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
@@ -4026,7 +4062,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 296926,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/0AlzSN8wxisdzlyd8m2Q12"

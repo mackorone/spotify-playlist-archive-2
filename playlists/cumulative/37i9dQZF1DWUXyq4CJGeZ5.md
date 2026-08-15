@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-549 songs - 23 hr 52 min
+556 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [die zeit läuft ab](https://open.spotify.com/track/3SbBK3NdAK2t1DdoAz9XkH) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 3:03 | 2023-03-10 | 2024-04-04 |
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2023-03-10 | 2024-04-10 |
 | [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2023-03-10 | 2024-04-04 |
+| [Dreaming Beyond The Horizon](https://open.spotify.com/track/1mWjGFUS6psBjRkCrdfqeu) | [Leyre Hart](https://open.spotify.com/artist/2h1jzXo7ckWedFcCtZxgYv) | [Dreaming Beyond The Horizon](https://open.spotify.com/album/1xL63vR9F4o3hKGbXqjYnD) | 2:31 | 2026-08-14 |  |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2023-03-10 | 2025-08-13 |
 | [Duende](https://open.spotify.com/track/5EOANVSfg3dX4zE4Askrau) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Duende](https://open.spotify.com/album/35rtUQ6uZ8w6pOp0DBHtwQ) | 2:31 | 2023-03-10 | 2023-10-11 |
 | [durch Nacht und Nebel](https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP) | [Arndt Goudier](https://open.spotify.com/artist/0adSRv2wPNTotg3FojDkzJ) | [Valle Halle](https://open.spotify.com/album/7sTnfKi8ZaEaG9LQRz1tFT) | 3:03 | 2023-03-10 | 2025-08-13 |
@@ -130,6 +131,7 @@
 | [Et spørgsmål](https://open.spotify.com/track/6d6yZionLIexUZpzbrh4Gq) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Et spørgsmål](https://open.spotify.com/album/6bvkPH8RTKxTI75DujyeYV) | 2:05 | 2023-03-10 | 2024-03-26 |
 | [Eternity](https://open.spotify.com/track/3PfsMrAYigWOMoeUfp1aeQ) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Eternity](https://open.spotify.com/album/5MIQ9MeFlpFzaAKY8bm4I1) | 2:56 | 2023-10-10 | 2024-11-13 |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2023-03-10 | 2025-11-06 |
+| [Evangeline](https://open.spotify.com/track/008fjtDWw3Z6aHgd1HbyCu) | [Kaspar Riedenthal](https://open.spotify.com/artist/60nYiV2Ny5FO2Z8MhmYlUu) | [Evangeline](https://open.spotify.com/album/6Ac6qjg6v8d9uwPhZiurha) | 2:26 | 2026-08-14 |  |
 | [Evening Inn](https://open.spotify.com/track/04GkZnxmBFf8GXBvIGkAzj) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Chasing Grace](https://open.spotify.com/album/2MTntXzOQRcmBk44uL87ed) | 2:15 | 2023-03-10 | 2025-08-13 |
 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 | 2023-03-10 | 2025-11-06 |
 | [Excavation](https://open.spotify.com/track/3kOJMvFCOHykQws1qsVMsu) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Ruminate](https://open.spotify.com/album/4pOyBEYZRfEGsbSOinaytz) | 3:24 | 2023-03-10 |  |
@@ -283,6 +285,7 @@
 | [Lost in Trees](https://open.spotify.com/track/4OKxyAfD6CQaMM8NiJlIPm) | [Quinn Richman](https://open.spotify.com/artist/6kUZujYelwuZqTBiSagcrn) | [Lost in Trees](https://open.spotify.com/album/7yy0RGH5aj74t0EYBeLZHE) | 2:54 | 2023-03-10 | 2024-10-02 |
 | [Lost in your light](https://open.spotify.com/track/03WCxjmI3kGMf4UPMVcFHp) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Lost in your light](https://open.spotify.com/album/4OGR54PPjoNCX3HzqXfYNa) | 2:30 | 2025-08-05 |  |
 | [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-10-24 |  |
+| [Low Sun, Long Shadows](https://open.spotify.com/track/5TXB3vpD61pIUV2XmbxHdf) | [Nicolas Fenton](https://open.spotify.com/artist/3QVOKiPmEWghVY99oZ3qnm) | [Low Sun, Long Shadows](https://open.spotify.com/album/6HEXURK2GiNYLcrK14Jn7J) | 2:26 | 2026-08-14 |  |
 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 | 2023-03-10 | 2024-10-08 |
 | [Lure](https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Lure / Elegiac](https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC) | 2:43 | 2023-03-10 | 2025-08-13 |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2023-03-10 | 2025-11-06 |
@@ -356,6 +359,7 @@
 | [Phantom](https://open.spotify.com/track/1PqCQoqFZWNLylRHsmUjG8) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Phantom](https://open.spotify.com/album/721GgErPvBzAlFeFjvigOH) | 1:57 | 2023-03-10 | 2023-10-11 |
 | [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 | 2023-03-10 |  |
 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 | 2024-10-01 |  |
+| [Place to Be](https://open.spotify.com/track/7kcI1jaZFDbW0BpIaTP3Ci) | [John Othmar](https://open.spotify.com/artist/7J3MgxBFbSLYv0Q0Viy5v2) | [Place to Be](https://open.spotify.com/album/43iNzEboKsPNcd0LgHYHI8) | 2:11 | 2026-08-14 |  |
 | [Pohja](https://open.spotify.com/track/4HIXjv1WwHexsjZM5ja65K) | [Alex Lehtonen](https://open.spotify.com/artist/2Qs1BrpMAPz379lAsH39Qb) | [Pohja](https://open.spotify.com/album/3MXoyfEO5UW5rXEssK08q3) | 3:19 | 2025-08-12 |  |
 | [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 | 2023-03-10 | 2024-04-04 |
 | [Porcelain Hands](https://open.spotify.com/track/7KX4G8l2FvaTom3K21Xw5E) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Porcelain Hands](https://open.spotify.com/album/2r70QxdddM0IU6gy6zJHOC) | 2:14 | 2023-03-10 |  |
@@ -382,6 +386,7 @@
 | [Rain and Sun](https://open.spotify.com/track/0O6tk4oLJmKh7ZNKyEVLC5) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Rain and Sun](https://open.spotify.com/album/4blmJxCpQ5MrnHwbdazQDW) | 2:42 | 2024-11-19 |  |
 | [Raison d'etre](https://open.spotify.com/track/4zypTg1KZ3HNPcYqfWou6f) | [Matthew Mor](https://open.spotify.com/artist/3epJlQ4qcN08caWbdboMHw) | [Raison d'etre](https://open.spotify.com/album/267CXYk2upy1NS7lZ7pmjh) | 2:23 | 2023-03-10 | 2024-03-26 |
 | [Ravi](https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr) | [Esmiralda Rose](https://open.spotify.com/artist/6FkagsRLc16z6rwYW6Tteh) | [Teesta](https://open.spotify.com/album/0qufLQ0kHyKenooeC8KK3T) | 2:24 | 2023-03-10 | 2025-08-13 |
+| [Recovery](https://open.spotify.com/track/1kHgAppEheR33IS7xkGQMB) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Recovery](https://open.spotify.com/album/24r8O1QtZXkV1Kp11YvAfS) | 2:33 | 2026-08-14 |  |
 | [Red Cottage](https://open.spotify.com/track/325uY8QdELU04pxe1q5FaB) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Red Cottage](https://open.spotify.com/album/0P9Ix0cZ4W82aE7ZbSGbmy) | 2:24 | 2023-03-10 | 2024-03-26 |
 | [Red Roses](https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ) | [Anderson Rivers](https://open.spotify.com/artist/7986zAExINQv5pQz94fBc3) | [Red Roses](https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O) | 1:54 | 2023-03-10 | 2023-10-11 |
 | [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2023-03-10 | 2026-07-25 |
@@ -443,6 +448,7 @@
 | [Still Water](https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI) | [Dexter Osborne](https://open.spotify.com/artist/2qw3ztTjf7LHNKoTNvij4q) | [Still Water](https://open.spotify.com/album/0mgSTKjCwRcraBkXmIBteu) | 2:45 | 2023-03-10 | 2024-10-22 |
 | [stronger together](https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [stronger together](https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai) | 2:21 | 2023-03-10 | 2024-04-04 |
 | [Sunday Walk](https://open.spotify.com/track/16weBcKoT5JR4PjgFywQPO) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Sunday Walk](https://open.spotify.com/album/1BYrkKeypnXI3MzODZaSZC) | 2:22 | 2023-03-10 | 2025-08-13 |
+| [Sunset Reverie](https://open.spotify.com/track/4WGJn1hvlk6Gq8dBeiAPQx) | [Maryam Lowell](https://open.spotify.com/artist/2ALs4HgT2kgE6ktEh1XBXP) | [Sunset Reverie](https://open.spotify.com/album/4Pk1jFOvYug2gsIt27KY46) | 2:49 | 2026-08-14 |  |
 | [Swamp](https://open.spotify.com/track/1s8esXu1jTNJ49RwotQLSc) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Swamp](https://open.spotify.com/album/6JWJL7LDHzUVknPtZIxv71) | 2:01 | 2023-03-10 | 2024-10-02 |
 | [Sway](https://open.spotify.com/track/2Ju3X9pULxXmfvWre8o1E4) | [Arabelle](https://open.spotify.com/artist/1CCyqsGLyugbtE3V5X6Pwx) | [Sway](https://open.spotify.com/album/7xDCMEsitFIeae5UYDpaGR) | 2:32 | 2023-03-10 | 2024-04-04 |
 | [Sweet Redolence](https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Sweet Redolence](https://open.spotify.com/album/2BkNgqpxRpu2lMH2yi0FJC) | 1:54 | 2023-03-10 | 2023-10-11 |
@@ -534,6 +540,7 @@
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2023-03-10 | 2024-04-10 |
 | [What She Said](https://open.spotify.com/track/01DgyWLmCNuUBJJGuokRiq) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [What She Said](https://open.spotify.com/album/4b6MJlepYeFPi7MYuaRUiT) | 2:04 | 2023-03-10 | 2024-04-04 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2023-03-10 | 2025-08-13 |
+| [When Summer Fades](https://open.spotify.com/track/2m4jdcuKCvRHkFLCvFGVZZ) | [Mats Tärnfors](https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1) | [When Summer Fades](https://open.spotify.com/album/6bCNDO93v4dHyEbDrMn7EQ) | 3:27 | 2026-08-14 |  |
 | [Where Stars Are Born](https://open.spotify.com/track/5hWiDRCRKtf8TDpoX1Idk4) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Where Stars Are Born](https://open.spotify.com/album/37eYaKUwjBSJaO15PIrc7L) | 3:07 | 2023-03-10 | 2025-11-06 |
 | [Where The Clouds Go](https://open.spotify.com/track/1HNMaNRnCVbX3ZtW92QsyZ) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Where The Clouds Go](https://open.spotify.com/album/0qtsQ42NbVrziSnmt8xANe) | 2:28 | 2023-03-10 | 2024-03-26 |
 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 | 2023-03-10 | 2025-11-06 |

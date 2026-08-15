@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-204 songs - 10 hr 0 min
+205 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [ball w/o you](https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:15 | 2023-08-07 |  |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2023-08-07 |  |
 | [Best of Me](https://open.spotify.com/track/4vN0rGGkuDKqPpPLL5L8Cl) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Best of Me](https://open.spotify.com/album/52ITTBoVPIMXwIQJupH90s) | 3:04 | 2025-03-21 | 2025-06-28 |
+| [Blow My Phone Up](https://open.spotify.com/track/4iPCKLD1yt00BeHOOV7Ica) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blow My Phone Up](https://open.spotify.com/album/2k5usN7A7aCd8yfTx0ly5a) | 2:25 | 2026-08-14 |  |
 | [Bluffin' \(with The Kid LAROI\)](https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Piss In The Wind \(Deluxe\)](https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL) | 2:34 | 2026-06-05 |  |
 | [Bottle Go Down](https://open.spotify.com/track/349jUksHiirUFIUqOZ4pUX) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Bottle Go Down](https://open.spotify.com/album/1MNfcfYPbHA955TYtA6ttP) | 2:17 | 2024-12-13 |  |
 | [Call Me](https://open.spotify.com/track/5Q5Ejr1O1FPgQ29QqY5LpG) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Call Me](https://open.spotify.com/album/5lPxQ6iqaoXUpf1IZlI4Gu) | 3:11 | 2025-11-07 |  |
@@ -124,7 +125,7 @@
 | [letting me down](https://open.spotify.com/track/1FN3PxvUw7oDLgEQf6uvp6) | [chazalone](https://open.spotify.com/artist/5TxDGofR2o49uLB7ZSZB61), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH) | [letting me down](https://open.spotify.com/album/2ogOQhZcvKuYjypd6YnujL) | 2:40 | 2026-02-20 |  |
 | [Life's Just No Fun](https://open.spotify.com/track/6PWv8gheLLdddGa2PsaYUS) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [All Back to Mine](https://open.spotify.com/album/1eUDWwJSPm3g240y4VKDkx) | 3:12 | 2024-07-08 |  |
 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 | 2024-02-23 |  |
-| [lines](https://open.spotify.com/track/0jIumJVNnlT1Cft1UqLIzq) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG), [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV), [Love Matt](https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf) | [lines](https://open.spotify.com/album/2qgQUPBiSrChkNcRwR6ekZ) | 2:46 | 2026-06-05 |  |
+| [lines](https://open.spotify.com/track/0jIumJVNnlT1Cft1UqLIzq) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG), [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV), [Love Matt](https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf) | [lines](https://open.spotify.com/album/2qgQUPBiSrChkNcRwR6ekZ) | 2:46 | 2026-06-05 | 2026-08-15 |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:29 | 2024-02-23 |  |
 | [Look What You've Done](https://open.spotify.com/track/7t1lBIr3WIEtqQEOdZFMUf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:01 | 2024-02-23 |  |
 | [LOSE MYSELF \- GHOSTLY ECHOES MIX](https://open.spotify.com/track/4pQaMKDOjAxRtsszJ4Zq9M) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [ghostly echoes](https://open.spotify.com/artist/6U65hm7m0hVAVGV0SXNFMw), [Aqua Raps](https://open.spotify.com/artist/24wZhe5S2ElzaYdULrJPhV) | [BUSHRA'S DIAMOND \(GHOSTLY ECHOES MIX\)](https://open.spotify.com/album/2RofndCJOYPGBuLialhZE2) | 2:16 | 2025-08-01 | 2025-08-16 |

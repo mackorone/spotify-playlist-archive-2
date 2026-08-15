@@ -304,7 +304,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 306226,
       "name": "7 Seconds (feat. Neneh Cherry)",
       "url": "https://open.spotify.com/track/4sv1iemiMkkZVTUbV16C8L"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 142500,
       "name": "A Deux",
       "url": "https://open.spotify.com/track/0ipqI2gWX5N7xZu9bdhEYY"
@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188717,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/7iCSfoLBuenTKZoWIgqY9Q"
+    },
+    {
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
@@ -5117,6 +5135,24 @@
     },
     {
       "album": {
+        "name": "Et si j'\u00e9choue ?",
+        "url": "https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Cote \u00e0 la hausse",
+      "url": "https://open.spotify.com/track/3Kh2CbaeNyUp5PbjCh8PP5"
+    },
+    {
+      "album": {
         "name": "Couleur Nejau",
         "url": "https://open.spotify.com/album/39M2E6rDGajci1Gg3JYx4g"
       },
@@ -5514,7 +5550,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 285853,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
@@ -8313,6 +8349,24 @@
     },
     {
       "album": {
+        "name": "Seul en \u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/6W2JZJb62dUket2bSmHzs9"
+      },
+      "artists": [
+        {
+          "name": "Jody",
+          "url": "https://open.spotify.com/artist/2i7Y7lGQ020QnacSnCjOdK"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130016,
+      "name": "Go\u00fbt De Miel 2",
+      "url": "https://open.spotify.com/track/0TWwxhAMGfAJuoVsnkT07b"
+    },
+    {
+      "album": {
         "name": "Grav\u00e9 dans la roche",
         "url": "https://open.spotify.com/album/6chD9SocKyshylTuhbKV2O"
       },
@@ -9474,7 +9528,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 112615,
       "name": "J'tavais dit",
       "url": "https://open.spotify.com/track/5Cn8WdSHzl0ieLsbeXdwge"
@@ -12147,6 +12201,24 @@
     },
     {
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316240,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/1KpLYVqnB135VCNbdLymNx"
+    },
+    {
+      "album": {
         "name": "lucy & les chanteurs pour dames",
         "url": "https://open.spotify.com/album/7K8tMuEQrHoL1vG0bZfYYV"
       },
@@ -14647,6 +14719,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9lo D\u00e9cal\u00e9",
+        "url": "https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156066,
+      "name": "M\u00e9lo D\u00e9cal\u00e9",
+      "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
+    },
+    {
+      "album": {
         "name": "Diaspora, Vol.1",
         "url": "https://open.spotify.com/album/0Gko6xqDnVRaLUcrFoitRZ"
       },
@@ -15660,7 +15750,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 168618,
       "name": "Ohlala",
       "url": "https://open.spotify.com/track/7tswVd3xg1ckSyrMdzeFQo"
@@ -15762,6 +15852,28 @@
       "duration_ms": 178253,
       "name": "On ira",
       "url": "https://open.spotify.com/track/0O7j6n6xv3XtsqAqZw0nYM"
+    },
+    {
+      "album": {
+        "name": "On my mind",
+        "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163994,
+      "name": "On my mind",
+      "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
     },
     {
       "album": {
@@ -16288,6 +16400,28 @@
       "duration_ms": 193295,
       "name": "Papi Chulo",
       "url": "https://open.spotify.com/track/0xfJXGvZzouCzBXTZRhJWT"
+    },
+    {
+      "album": {
+        "name": "Papillon",
+        "url": "https://open.spotify.com/album/4gLpcoXUoPHlFP7FGscEg9"
+      },
+      "artists": [
+        {
+          "name": "Romsii",
+          "url": "https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw"
+        },
+        {
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146915,
+      "name": "Papillon",
+      "url": "https://open.spotify.com/track/65aoWADtWi6jDs2iP3vCPc"
     },
     {
       "album": {
@@ -17096,7 +17230,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 168546,
       "name": "Pocahontas",
       "url": "https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09"
@@ -17154,7 +17288,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 115200,
       "name": "POR TI",
       "url": "https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ"
@@ -18540,7 +18674,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 239595,
       "name": "Scarface 2.0",
       "url": "https://open.spotify.com/track/0gkb8nHZo7DfMgrPgQR0Ml"
@@ -19474,6 +19608,24 @@
       "duration_ms": 243426,
       "name": "Skydweller",
       "url": "https://open.spotify.com/track/7mhngio9CplSUyfntAfHjm"
+    },
+    {
+      "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106909,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
       "album": {
@@ -22166,6 +22318,24 @@
       "duration_ms": 158544,
       "name": "Virile",
       "url": "https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb"
+    },
+    {
+      "album": {
+        "name": "Vitamine G",
+        "url": "https://open.spotify.com/album/4vTPFcwBgDMIFr8Wyi83aD"
+      },
+      "artists": [
+        {
+          "name": "KENZY DONA",
+          "url": "https://open.spotify.com/artist/3tVOuuZqPW4toF0vFTERMl"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Vitamine G",
+      "url": "https://open.spotify.com/track/7GlY1cM2G0neO5ZmevG6IT"
     },
     {
       "album": {

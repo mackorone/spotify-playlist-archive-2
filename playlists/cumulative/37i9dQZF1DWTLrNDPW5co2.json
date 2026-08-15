@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 139148,
       "name": "Hanging Titties",
       "url": "https://open.spotify.com/track/4YZo3EOSLPaa8HcAuQdOPN"
@@ -3941,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "Hot Night",
+        "url": "https://open.spotify.com/album/4UcOHX9XD90KNx9hKTxm39"
+      },
+      "artists": [
+        {
+          "name": "Tama Gucci",
+          "url": "https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167300,
+      "name": "Hot Night",
+      "url": "https://open.spotify.com/track/4mhssP1J0vF8nlvjm54Z3y"
+    },
+    {
+      "album": {
         "name": "Human Sound",
         "url": "https://open.spotify.com/album/0Kh4wcY7TbLk7VIY7SDLYg"
       },
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 370909,
       "name": "I Get High",
       "url": "https://open.spotify.com/track/2caYWqOHqQlxhJzL4P2kpm"
@@ -4872,6 +4890,28 @@
       "duration_ms": 152885,
       "name": "King Size",
       "url": "https://open.spotify.com/track/4iMfrPHoCeHG2luNTZ5cKv"
+    },
+    {
+      "album": {
+        "name": "Disc 1",
+        "url": "https://open.spotify.com/album/2YNN0P8mQwmN8PkSsi2qCp"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381113,
+      "name": "Ladida - Honey Dijon Remix",
+      "url": "https://open.spotify.com/track/4cXe7WcwfwL0YKVwXI1pk4"
     },
     {
       "album": {

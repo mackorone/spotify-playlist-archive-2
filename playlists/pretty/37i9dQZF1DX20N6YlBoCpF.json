@@ -1,12 +1,12 @@
 {
   "description": "Al die nuutste Afrikaanse musiek met Die Heuwels Fantasties, Tasch\u00e9, Neil Somers, Dassie en meer!",
-  "num_followers": 44154,
+  "num_followers": 44177,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAXatQzYknbN14IyHj1/ypdl/JCz",
+  "snapshot_id": "AAAAANgASJmsLYh0X9p2S9LP+Bou7t7K",
   "tracks": [
     {
       "added_at": "2026-08-13 22:01:06",
@@ -255,6 +255,22 @@
       "duration_ms": 174152,
       "name": "Verseker Beter",
       "url": "https://open.spotify.com/track/6mr4sBTK92E4Xohl8GVeh8"
+    },
+    {
+      "added_at": "2026-08-14 05:18:15",
+      "album": {
+        "name": "Rek Strek Baba",
+        "url": "https://open.spotify.com/album/4J2ndTKgQ8egpR3ixsb6Dp"
+      },
+      "artists": [
+        {
+          "name": "Marcelle Peach",
+          "url": "https://open.spotify.com/artist/7jA4h6ao7Wbulv8jZvfoj2"
+        }
+      ],
+      "duration_ms": 197650,
+      "name": "Rek Strek Baba",
+      "url": "https://open.spotify.com/track/4YNAnlerTPTRTFvTtEE87y"
     },
     {
       "added_at": "2026-07-30 22:01:20",
@@ -1047,22 +1063,6 @@
       "duration_ms": 207397,
       "name": "Stadig",
       "url": "https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu"
-    },
-    {
-      "added_at": "2026-07-30 22:01:20",
-      "album": {
-        "name": "Sy Klink Soos Lente",
-        "url": "https://open.spotify.com/album/4Xpm0ASfLSknlCs1e9jU3L"
-      },
-      "artists": [
-        {
-          "name": "Robert Gillmer",
-          "url": "https://open.spotify.com/artist/5dsMsZ35335wPek0khH1rR"
-        }
-      ],
-      "duration_ms": 166131,
-      "name": "Sy Klink Soos Lente",
-      "url": "https://open.spotify.com/track/5UdZVAHXpkr91hrg4jYVWw"
     },
     {
       "added_at": "2026-06-18 22:02:14",

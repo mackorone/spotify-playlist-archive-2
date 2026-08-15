@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Urban Zakapa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,001 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,004 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 27 | [Is Loving You a Crime?](https://open.spotify.com/track/1yUl4saYSE6LTdEMua6pMp) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Is Loving You a Crime?](https://open.spotify.com/album/0e5p2EfbP66Uw40dywCOq7) | 2:50 |
 | 28 | [I Like You](https://open.spotify.com/track/1jOak5evUCcD9YQqzi3Hkd) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [I Like You](https://open.spotify.com/album/44HkHTwWNpy6GQNRbCMUmn) | 2:38 |
 | 29 | [HATE](https://open.spotify.com/track/1278Ufm0ord3EY1Kmwj9Gs) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [HATE](https://open.spotify.com/album/0jUfuFRVWVwptdpGlOm3I5) | 3:13 |
-| 30 | [Summer's Not Over](https://open.spotify.com/track/3GbhQ6P8bp2L5w41fH8TiB) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP) | [Summer's Not Over](https://open.spotify.com/album/2aJNRTu27bAwJVB57PVIaA) | 2:37 |
+| 30 | [Summer’s Not Over](https://open.spotify.com/track/3GbhQ6P8bp2L5w41fH8TiB) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP) | [Summer’s Not Over](https://open.spotify.com/album/2aJNRTu27bAwJVB57PVIaA) | 2:37 |
 | 31 | [Rest Stop \(feat\. Gist, JUNE\)](https://open.spotify.com/track/59zW0xXCeITloNERL3ELB4) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Rest Stop \(feat\. Gist, JUNE\)](https://open.spotify.com/album/5biZ0WAzvOhF3dCOxHmAoy) | 3:09 |
 | 32 | [summer border](https://open.spotify.com/track/4Soxu2ZhWrQR82RRYTglfB) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [summer border](https://open.spotify.com/album/3GTHzjJXhjSG2JV4nPcu3W) | 2:25 |
 | 33 | [Tiki Tiki](https://open.spotify.com/track/399Dr3vY1gjiaFoCZChSqP) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Tiki Tiki](https://open.spotify.com/album/2nUgb8UdZldKYGaWCF33I8) | 3:20 |

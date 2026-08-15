@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 767 songs - 2 day 1 hr 29 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 768 songs - 2 day 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -772,8 +772,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 762 | [O.O.B.E.](https://open.spotify.com/track/3CE1CBZAbsXRPdan2hZOWB) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 12:51 |
 | 763 | [Love Crimes](https://open.spotify.com/track/0bbyII7PP0Gg6NWgclzZxE) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 2:40 |
 | 764 | [Offline P.K.](https://open.spotify.com/track/5GXoUoXzGgFSpiE0gf3wCL) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Blue Screen Life](https://open.spotify.com/album/6AGfeMHoNKOFey4KEqwhmJ) | 3:17 |
-| 765 | [French Radio](https://open.spotify.com/track/2DFY5xoMUyUMColK7xaRi8) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [They Spent Their Wild Youthful Days In The Glittering World Of The Salons](https://open.spotify.com/album/3bEI2P01ZCL5AnpAY7GGcg) | 0:18 |
-| 766 | [89 Days](https://open.spotify.com/track/14twvCzXql2brH14KA7vzX) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Melt the Honey](https://open.spotify.com/album/1b3i2e3n3ayNsVKXANYsPz) | 2:42 |
-| 767 | [This Is Radio Etienne](https://open.spotify.com/track/6AP9itKfq3NiSGpkpXWWI5) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 0:42 |
+| 765 | [Chimacum Rain](https://open.spotify.com/track/0PSxgms5q4pEtRGXRw2oWK) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 3:24 |
+| 766 | [French Radio](https://open.spotify.com/track/2DFY5xoMUyUMColK7xaRi8) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [They Spent Their Wild Youthful Days In The Glittering World Of The Salons](https://open.spotify.com/album/3bEI2P01ZCL5AnpAY7GGcg) | 0:18 |
+| 767 | [89 Days](https://open.spotify.com/track/14twvCzXql2brH14KA7vzX) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Melt the Honey](https://open.spotify.com/album/1b3i2e3n3ayNsVKXANYsPz) | 2:42 |
+| 768 | [This Is Radio Etienne](https://open.spotify.com/track/6AP9itKfq3NiSGpkpXWWI5) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 0:42 |
 
-Snapshot ID: `AAAJZWqYfgKafKiPQiwnwjfS3MMYDjcr`
+Snapshot ID: `AAAJZ/c6G58OpTwkujv86PdgAfk7VLZt`

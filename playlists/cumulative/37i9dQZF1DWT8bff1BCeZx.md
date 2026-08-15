@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,084 songs - 2 day 23 hr 59 min
+1,084 songs - 3 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -755,6 +755,7 @@
 | [Opinions](https://open.spotify.com/track/15VxsRNr42N3IgJCLkGMQR) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Opinions](https://open.spotify.com/album/0AVpXpicxq7cl81eZtJahB) | 2:20 | 2025-03-07 | 2025-05-09 |
 | [Oribime](https://open.spotify.com/track/4KORPuzKiSVCb85o4uQRyk) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Oribime](https://open.spotify.com/album/5DN6KLne6U6vcsJ2KbhaXv) | 4:17 | 2025-12-05 | 2026-01-15 |
 | [Original God](https://open.spotify.com/track/0sC1T4ka1v6SHtzOOxcQ9H) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [Vic Matt](https://open.spotify.com/artist/4KiK5kPEe3VULgJhEezxuR) | [Original God](https://open.spotify.com/album/4dHgOYIQsZ06uJhMpzGRHp) | 2:53 | 2025-11-28 | 2026-01-15 |
+| [Oruko](https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [God Is Cooking](https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL) | 3:47 | 2026-08-14 |  |
 | [Otua](https://open.spotify.com/track/0j7SDzXYdMozTH5uB1fgln) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Otua](https://open.spotify.com/album/1P7mBPZyfXzz0S5AxXDfMq) | 6:22 | 2025-04-18 | 2025-10-03 |
 | [Our Father II](https://open.spotify.com/track/2CpHGCKH7kYix5DvIHy60F) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Our Father II](https://open.spotify.com/album/7stzCf5apgeWyEM2WQlJPo) | 2:22 | 2025-05-30 | 2025-12-12 |
 | [Out of Church \(African Praise Medley\)](https://open.spotify.com/track/2yRKmobfpkcm8qHYnzJTHU) | [Tobi Jeff Richards](https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP) | [Out of Church \(African Praise Medley\)](https://open.spotify.com/album/7uhNS5NYQlvm3hcDUYNX0d) | 5:03 | 2024-10-25 | 2025-02-28 |
@@ -961,7 +962,6 @@
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-11-14 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 | 2026-03-13 |
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-02-28 |
-| [Track 3](https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [God Is Cooking](https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL) | 0:00 | 2026-08-14 |  |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Tula](https://open.spotify.com/track/1ZMhq5I7bHDSPzpPU2BVmk) | [Tenacious Tj](https://open.spotify.com/artist/6DccTdAbcqIxBdN6VqVbS7), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Tula](https://open.spotify.com/album/12DT3SfaTFiUaaoUmcxjI0) | 3:21 | 2025-01-24 | 2025-02-28 |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2025-02-28 |

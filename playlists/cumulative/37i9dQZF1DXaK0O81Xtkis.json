@@ -3154,7 +3154,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 157509,
       "name": "blue jeans",
       "url": "https://open.spotify.com/track/5Nk82YLD9otZms5mjke3ks"
@@ -11842,6 +11842,24 @@
       "duration_ms": 286000,
       "name": "His LA Girl",
       "url": "https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs"
+    },
+    {
+      "album": {
+        "name": "hit and run",
+        "url": "https://open.spotify.com/album/7mpDkhXwbn2l7lZCu7rN7w"
+      },
+      "artists": [
+        {
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177924,
+      "name": "hit and run",
+      "url": "https://open.spotify.com/track/3xlzKZ81ldMzbVIXIrnR4H"
     },
     {
       "album": {
@@ -21539,6 +21557,24 @@
     },
     {
       "album": {
+        "name": "RODEO QUEEN",
+        "url": "https://open.spotify.com/album/7ChaWBtT0UoRv0okJFl8J1"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204030,
+      "name": "RODEO QUEEN",
+      "url": "https://open.spotify.com/track/2BBoXHM1H5ZYuZlYxJVxq9"
+    },
+    {
+      "album": {
         "name": "NOMAD - EP",
         "url": "https://open.spotify.com/album/1QFTJyV7Hqu3RzDAcnIiDF"
       },
@@ -29248,7 +29284,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 197158,
       "name": "Why Am I Here",
       "url": "https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz"

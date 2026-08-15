@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The latest releases from bluegrass and string bands alike. Cover: Billy Strings",
+  "description": "The latest releases from bluegrass and string bands alike. Cover: Bronwyn",
   "name": "New Grass",
   "tracks": [
     {
@@ -5380,10 +5380,52 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 238893,
       "name": "Light At The End of The Day",
       "url": "https://open.spotify.com/track/5VhEJtRZhIv5wQlvIdIdMo"
+    },
+    {
+      "album": {
+        "name": "Bluegrass Women",
+        "url": "https://open.spotify.com/album/2WGv7S4udUAHiWaXVJaq75"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        },
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "AJ Lee",
+          "url": "https://open.spotify.com/artist/4KPSf2GwMkfffWc3yBudZG"
+        },
+        {
+          "name": "Gena Britt",
+          "url": "https://open.spotify.com/artist/58w5My0xczC07lwAp8T0PJ"
+        },
+        {
+          "name": "Hasee Ciaccio",
+          "url": "https://open.spotify.com/artist/0AoPdpx2v9EgQHmVvDxd7m"
+        },
+        {
+          "name": "Wila Frank",
+          "url": "https://open.spotify.com/artist/5BytlUovIxRBOBPdbC3UWu"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237874,
+      "name": "Like A River",
+      "url": "https://open.spotify.com/track/3fbHdJu0V2dseGchHTjqUw"
     },
     {
       "album": {
@@ -5572,6 +5614,24 @@
       "duration_ms": 175437,
       "name": "Lonely Pine",
       "url": "https://open.spotify.com/track/0xWcydNeZM8SjGPZSGgaaC"
+    },
+    {
+      "album": {
+        "name": "Lonely USA",
+        "url": "https://open.spotify.com/album/2bgN3BMK5nkFxJfj5KdwvD"
+      },
+      "artists": [
+        {
+          "name": "Meels",
+          "url": "https://open.spotify.com/artist/5AH6zdOi1I9eHP2jlUHLnq"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187773,
+      "name": "Lonely USA",
+      "url": "https://open.spotify.com/track/2xYHykIg6PTj9KmXiY0SCN"
     },
     {
       "album": {
@@ -5854,6 +5914,24 @@
       "duration_ms": 231874,
       "name": "Magic Accident",
       "url": "https://open.spotify.com/track/5vypHtcvQNHK2TNFaednYJ"
+    },
+    {
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/7oUTFH0ov1b53sMlzEc4Yl"
+      },
+      "artists": [
+        {
+          "name": "The Arcadian Wild",
+          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234741,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/6OZGgAg3b2AbtXJkvv9QGW"
     },
     {
       "album": {
@@ -6342,7 +6420,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 174400,
       "name": "Next Big Thing",
       "url": "https://open.spotify.com/track/2nhcHRF4AQTqpI9ZrzZiwD"
@@ -6968,7 +7046,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 229730,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/3sNCGaSvUSqW4Hvggrvl65"
@@ -7584,7 +7662,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 165629,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/0lbRInkZS1B519c42u0tN2"
@@ -7726,7 +7804,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 347050,
       "name": "Reverend (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/0XxrvPXoMCePCYr0icUdJk"
@@ -8086,6 +8164,24 @@
       "duration_ms": 289071,
       "name": "Shadow of the Pines",
       "url": "https://open.spotify.com/track/4AnDUVsxj8vl7S8qPtJjGY"
+    },
+    {
+      "album": {
+        "name": "Shady Grove",
+        "url": "https://open.spotify.com/album/7gSwiWGKQCk3sgrDFvahN9"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247951,
+      "name": "Shady Grove",
+      "url": "https://open.spotify.com/track/4uWjmKEs2yRC5pNyaXiXy9"
     },
     {
       "album": {
@@ -9257,6 +9353,24 @@
     },
     {
       "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/45KAIpHAAGTyzCXRhyE11Z"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn",
+          "url": "https://open.spotify.com/artist/24S2vTDYhK9PESL4DvCWtq"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268127,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/4gx07ANNVFKJHbCQn9Jbxw"
+    },
+    {
+      "album": {
         "name": "The Shipping Tunes: Shipping Port / Shipping Polska",
         "url": "https://open.spotify.com/album/6nvN9PXOemFrpbaDl5KiBe"
       },
@@ -10203,6 +10317,24 @@
     },
     {
       "album": {
+        "name": "Weather",
+        "url": "https://open.spotify.com/album/4ffr8s2nPNXjEgZadXodGR"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294332,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/7vBBqRZaM2NCXpneVCCGhw"
+    },
+    {
+      "album": {
         "name": "Welcome to Virginia",
         "url": "https://open.spotify.com/album/7Lr3YDrOVFkJlxmOraeXDS"
       },
@@ -10486,7 +10618,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 215206,
       "name": "Wild and Clear and Blue",
       "url": "https://open.spotify.com/track/6OIvQ2YzNJ2tckkVkUqieI"

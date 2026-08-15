@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 95325,
+  "num_followers": 95328,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAAB9sNCo49+kI5bOwu3Fb9Ir",
+  "snapshot_id": "an0JAAAAAAD002CzMTTOHAwY0wqYaFaS",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live op Concert at SEA 2015",
-        "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
-      "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omarm Me",
         "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 232425,
       "name": "Omarm Me",
       "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live op Concert at SEA 2015",
+        "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
+      "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
     },
     {
       "added_at": null,

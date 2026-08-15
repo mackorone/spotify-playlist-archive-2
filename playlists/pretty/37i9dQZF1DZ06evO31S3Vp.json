@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 207398,
+  "num_followers": 207426,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAABchwxUB2wCfDyAIqanTim8",
+  "snapshot_id": "an0JAAAAAAAG/sjAqw/le1kITnN1C2y9",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 177333,
-      "name": "O Amor",
-      "url": "https://open.spotify.com/track/2BRYHmPbc5BUffYcAtRhv8"
+      "duration_ms": 211737,
+      "name": "Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/1jBmw9hizoiIpxqFy8hNS2"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 211737,
-      "name": "Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/1jBmw9hizoiIpxqFy8hNS2"
+      "duration_ms": 177333,
+      "name": "O Amor",
+      "url": "https://open.spotify.com/track/2BRYHmPbc5BUffYcAtRhv8"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 118466,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMOR PIRATA",
         "url": "https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm"
       },
@@ -447,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
       "artists": [
         {
@@ -456,9 +440,29 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 278557,
-      "name": "Locadora (Vers\u00e3o Estendida)",
-      "url": "https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX"
+      "duration_ms": 118466,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal",
+        "url": "https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 166255,
+      "name": "Mal",
+      "url": "https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z"
     },
     {
       "added_at": null,
@@ -475,6 +479,22 @@
       "duration_ms": 236921,
       "name": "VSF",
       "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 278557,
+      "name": "Locadora (Vers\u00e3o Estendida)",
+      "url": "https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX"
     },
     {
       "added_at": null,
@@ -511,42 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal",
-        "url": "https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 166255,
-      "name": "Mal",
-      "url": "https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 181234,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANTI-HER\u00d3I",
         "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 196658,
-      "name": "Me Beija Com Raiva",
-      "url": "https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ"
+      "duration_ms": 181234,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
     },
     {
       "added_at": null,
@@ -599,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louquinho",
-        "url": "https://open.spotify.com/album/3ibAprngolKW66RngB6cBs"
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
       },
       "artists": [
         {
@@ -608,9 +592,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 176556,
-      "name": "Louquinho",
-      "url": "https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K"
+      "duration_ms": 196658,
+      "name": "Me Beija Com Raiva",
+      "url": "https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ"
     },
     {
       "added_at": null,
@@ -631,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+        "name": "Louquinho",
+        "url": "https://open.spotify.com/album/3ibAprngolKW66RngB6cBs"
       },
       "artists": [
         {
@@ -640,9 +624,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 174519,
-      "name": "Vou Morrer Sozinho",
-      "url": "https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5"
+      "duration_ms": 176556,
+      "name": "Louquinho",
+      "url": "https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K"
     },
     {
       "added_at": null,
@@ -659,6 +643,38 @@
       "duration_ms": 180000,
       "name": "Ressaca",
       "url": "https://open.spotify.com/track/0Fut8bkxJc6H4Rh951Nxc4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 174519,
+      "name": "Vou Morrer Sozinho",
+      "url": "https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 184712,
+      "name": "Voc\u00ea Vai Me Destruir",
+      "url": "https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n"
     },
     {
       "added_at": null,
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+        "name": "LOBOS (Deluxe)",
+        "url": "https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 184712,
-      "name": "Voc\u00ea Vai Me Destruir",
-      "url": "https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n"
+      "duration_ms": 226519,
+      "name": "Fim Do Mundo",
+      "url": "https://open.spotify.com/track/3HN4PPMtJP0dEXqxvQgvJG"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 190062,
       "name": "Ainda Te Amo",
       "url": "https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOBOS (Deluxe)",
-        "url": "https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 226519,
-      "name": "Fim Do Mundo",
-      "url": "https://open.spotify.com/track/3HN4PPMtJP0dEXqxvQgvJG"
     },
     {
       "added_at": null,

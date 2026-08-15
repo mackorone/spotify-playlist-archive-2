@@ -2,9 +2,9 @@
 
 ### [Today's Ireland](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> The best new Irish music in one place 📍 cover: Florence Road
+> The best new Irish music in one place 📍 cover: Kingfishr
 
-531 songs - 1 day 5 hr 19 min
+534 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Follow Me](https://open.spotify.com/track/5g5lGBblSV6M0XMveLlGRn) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Follow Me](https://open.spotify.com/album/4Vn7Y2GexjvoLqp8Mwf8pH) | 3:59 | 2024-02-02 | 2024-06-21 |
 | [Following the Night](https://open.spotify.com/track/28F8s5GQZiwCFJysAVGsXy) | [Telebox](https://open.spotify.com/artist/2WUhMmMOwEArxH5zseJz2s) | [When Night Turns Into Day](https://open.spotify.com/album/0MZ205dvlIc7j8QYpikurE) | 3:10 | 2024-07-19 | 2025-02-01 |
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-05-23 | 2024-11-16 |
+| [For The Boys](https://open.spotify.com/track/0S2pDnQzdCmDxHKOIh5taS) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [For The Boys](https://open.spotify.com/album/4LLlQtvQNtrVM7sMRLrSGi) | 3:04 | 2026-08-14 |  |
 | [FourFour](https://open.spotify.com/track/6UESDM5sT8nzLNwzBSpapT) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [FourFour](https://open.spotify.com/album/4e8yfABATTvhRx35Vq6nmX) | 2:00 | 2024-02-02 | 2024-04-19 |
 | [Freak](https://open.spotify.com/track/4qsTIehQpamDhVJoubxoYQ) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Freak](https://open.spotify.com/album/6n4FHG6BIfeQCgKejwftQP) | 3:01 | 2025-01-31 | 2025-11-14 |
 | [Funeka](https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [Funeka](https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5) | 4:03 | 2024-02-02 | 2024-02-23 |
@@ -259,10 +260,11 @@
 | [Kit Kat Club](https://open.spotify.com/track/069KRt3LNYWB9Hc2l59xxf) | [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [Kit Kat Club](https://open.spotify.com/album/5UfYCZB3Pz6SsBtswTXLuS) | 2:58 | 2026-08-06 |  |
 | [Landlord's Demise](https://open.spotify.com/track/1hKaKw4jY8HHNhNW47xhcR) | [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [Landlord's Demise](https://open.spotify.com/album/3Re8BXxsOQO2a8JeXA9FIZ) | 1:51 | 2026-07-22 |  |
 | [Landmine!](https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [WHAT WAS THE QUESTION](https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN) | 3:16 | 2024-05-02 | 2024-11-16 |
+| [Last Rites](https://open.spotify.com/track/0rSYptT2EttbthDyfKShr3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Last Rites](https://open.spotify.com/album/0OfSt9oA1KHSCDQFn9GN9Y) | 3:42 | 2026-08-14 |  |
 | [Lawmaker](https://open.spotify.com/track/5gsZOtOrj7IKyCtjacSvXu) | [YARD](https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS) | [Lawmaker](https://open.spotify.com/album/1qAcXwnEag4BOCl4zhCHNY) | 3:41 | 2025-10-10 | 2026-03-18 |
 | [Let's Do It](https://open.spotify.com/track/4DS9xL0l8seJuilxgoxdGm) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Let's Do It](https://open.spotify.com/album/2UWXMQJvCyQzLv7huGCL1a) | 3:33 | 2024-05-09 | 2024-07-27 |
 | [Life I Chose](https://open.spotify.com/track/2VL873YktGaHovvP1xCuc0) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Life I Chose](https://open.spotify.com/album/530cEtWkb3pn6NTwMiD6Nu) | 3:33 | 2026-04-09 |  |
-| [Light Years](https://open.spotify.com/track/7e174J1dOQB0Hy2ncyNcHO) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Light Years](https://open.spotify.com/album/5hGSFsM9DdaN84sSorw2mC) | 3:08 | 2026-05-08 |  |
+| [Light Years](https://open.spotify.com/track/7e174J1dOQB0Hy2ncyNcHO) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Light Years](https://open.spotify.com/album/5hGSFsM9DdaN84sSorw2mC) | 3:08 | 2026-05-08 | 2026-08-15 |
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-03-15 | 2024-08-17 |
 | [Like I Know You](https://open.spotify.com/track/5Ivojtwe4uoTnMOqJAW6KH) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Like I Know You](https://open.spotify.com/album/5GlI2oHXf8ptPpi6ZWrrP9) | 3:25 | 2024-03-15 | 2024-06-21 |
 | [limerence](https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [limerence](https://open.spotify.com/album/31Y1I245ATLa9KEPNW3gpo) | 3:07 | 2024-04-11 | 2024-09-06 |
@@ -274,6 +276,7 @@
 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-02-02 | 2024-06-07 |
 | [Lola](https://open.spotify.com/track/7xjD1xcqCBNyQq7nPPZ3vW) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [Lola](https://open.spotify.com/album/18rKM5MD8hCKyAQpAD0IJS) | 3:12 | 2026-02-27 | 2026-07-23 |
 | [London.](https://open.spotify.com/track/7xhvE7y8DDcAwruz7TyiFN) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [London.](https://open.spotify.com/album/0hmqXVRrup7VUGdK8xFq7J) | 3:37 | 2024-02-02 | 2024-04-12 |
+| [Loneliness](https://open.spotify.com/track/1mXwe5luOaakmaKK5ib1P8) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Loneliness](https://open.spotify.com/album/1bfjSRpS2OWgxFRmxiaQWO) | 3:50 | 2026-08-14 |  |
 | [Lonely Island](https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Lonely Island](https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8) | 3:58 | 2024-02-02 | 2024-02-16 |
 | [Look Into My Eyes](https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Look Into My Eyes](https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9) | 2:56 | 2026-07-22 |  |
 | [Lost and Found](https://open.spotify.com/track/5NwOMleiL1o2QFxoDx8Vib) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [Lost and Found](https://open.spotify.com/album/4wr0lfbZEZunDHgP99Ev82) | 3:19 | 2024-02-23 | 2024-05-17 |
@@ -457,7 +460,7 @@
 | [The Fall](https://open.spotify.com/track/5HAAsGtJS52SxqTp2upWqM) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [The Fall](https://open.spotify.com/album/0GF6ZG9kFWdgwuionwrPEM) | 3:05 | 2025-01-31 | 2025-10-11 |
 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 | 2026-04-16 |  |
 | [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-02-16 | 2024-07-19 |
-| [The Groove](https://open.spotify.com/track/6YQ7yb5FpLtiWxRJ0VNtLh) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Mighty Dub Katz](https://open.spotify.com/artist/0tOB8FBc9x40nYR1k3e8pZ) | [The Groove](https://open.spotify.com/album/3fGCJv28SnYVbYRzFADRgC) | 3:08 | 2026-03-17 |  |
+| [The Groove](https://open.spotify.com/track/6YQ7yb5FpLtiWxRJ0VNtLh) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Mighty Dub Katz](https://open.spotify.com/artist/0tOB8FBc9x40nYR1k3e8pZ) | [The Groove](https://open.spotify.com/album/3fGCJv28SnYVbYRzFADRgC) | 3:08 | 2026-03-17 | 2026-08-15 |
 | [The Hardest Part](https://open.spotify.com/track/7woeIiSFfd9WoCMLCTYcCe) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [The Hardest Part](https://open.spotify.com/album/2mdmEHhOio4r20xJzhGocS) | 3:11 | 2026-07-22 |  |
 | [the how\_17](https://open.spotify.com/track/4eXamMFPh4RIt0GMUt32nj) | [hikii](https://open.spotify.com/artist/7ptF6sBmG9wPc0qEVP6awE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [17.73](https://open.spotify.com/album/3yCZo4WyNT9JL76U5K8UWa) | 2:04 | 2025-07-30 | 2026-02-27 |
 | [The Man Who Seeks Pleasure \- Live from Ailfionn Studios](https://open.spotify.com/track/32msSh7ipShC5euqD5Yc9O) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [It's a Hell of an Age](https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S) | 6:10 | 2026-01-23 |  |
@@ -500,7 +503,7 @@
 | [Waiting Room](https://open.spotify.com/track/32ZKLt3sWi1E6UsFhjoqDH) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [Waiting Room](https://open.spotify.com/album/25R3RUlOhwyroov3MpT5Eo) | 3:17 | 2025-02-28 | 2025-11-14 |
 | [Want You Back](https://open.spotify.com/track/1pcJTIl87SVVRPlO30dBDS) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Want You Back](https://open.spotify.com/album/53v4RgVbisJc0UlLgXq2uV) | 3:34 | 2024-02-02 | 2024-04-12 |
 | [WashItAllAway](https://open.spotify.com/track/1aQNQk07N0frC2Dbt9jt3B) | [LARAbEL](https://open.spotify.com/artist/4NYyRftIFDSk9ZM975OoBM) | [Squiggle](https://open.spotify.com/album/4nsQfoysktJVeL7Tflrnhz) | 4:40 | 2025-08-07 | 2026-02-27 |
-| [wasted time](https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI), [melodybloom](https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk) | [wasted time](https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ) | 2:13 | 2026-04-02 |  |
+| [wasted time](https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI), [melodybloom](https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk) | [wasted time](https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ) | 2:13 | 2026-04-02 | 2026-08-15 |
 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 | 2024-02-02 | 2024-04-12 |
 | [Waterfall](https://open.spotify.com/track/3vpAWGsnUk6YESo071ahXA) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Waterfall](https://open.spotify.com/album/57P6518jygT3Hj9Il7x4o0) | 3:24 | 2025-06-19 | 2025-11-14 |
 | [Waves](https://open.spotify.com/track/6l8jDnOuzV0se6Xqg04pk3) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Come As You Are](https://open.spotify.com/album/3abhzkoogxncYsKSBwxhqT) | 4:25 | 2024-05-30 | 2024-11-16 |

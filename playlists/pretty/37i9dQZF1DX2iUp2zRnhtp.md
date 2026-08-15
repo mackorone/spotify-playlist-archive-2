@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > vi leker ikke hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,888 likes - 333 songs - 16 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,861 likes - 333 songs - 16 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Spis din syvende sans](https://open.spotify.com/track/1MJy59Y0nppwYBji4i2J6J) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Spis din syvende sans](https://open.spotify.com/album/7B1OAVrW3sgf9gazdH0CNw) | 3:04 |
+| 1 | [Spis din syvende sans \- cover](https://open.spotify.com/track/1MJy59Y0nppwYBji4i2J6J) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Spis din syvende sans \(cover\)](https://open.spotify.com/album/7B1OAVrW3sgf9gazdH0CNw) | 3:04 |
 | 2 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
 | 3 | [VAKRESTE PÅ BYN](https://open.spotify.com/track/0kWH8g9YGjtWv86xQa6ZOc) | [Malik](https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL) | [VAKRESTE PÅ BYN](https://open.spotify.com/album/4GA9ODi2YN3FIdNSQQjrjg) | 3:12 |
 | 4 | [SOS](https://open.spotify.com/track/0IpCt1Z62jF1LCPTADQTUB) | [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Spill For Galleriet](https://open.spotify.com/album/2f7lZnPRZhHfUcYzFMaKXb) | 3:14 |

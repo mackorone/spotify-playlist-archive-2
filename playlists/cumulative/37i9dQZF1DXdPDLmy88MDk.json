@@ -3389,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "Sofa Songs",
+        "url": "https://open.spotify.com/album/3SSfmFMLhdM5CwSQhlB4x0"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 del Mundo",
+          "url": "https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296595,
+      "name": "Schafe k\u00f6nnen sicher weiden (Ninth Movement from Was mir behagt, ist nur die muntre Jagd, BWV 208)",
+      "url": "https://open.spotify.com/track/0m2BtqmqLNMvCZS9Z9OReu"
+    },
+    {
+      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/03uwKDQx2mMQu43KxFK2y6"
       },

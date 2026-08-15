@@ -22869,6 +22869,24 @@
     },
     {
       "album": {
+        "name": "Ray of Calm",
+        "url": "https://open.spotify.com/album/4ReRj6hxdBWZsHTnKOhFWP"
+      },
+      "artists": [
+        {
+          "name": "Santi Soriano",
+          "url": "https://open.spotify.com/artist/4KIocXDbQlMFqKPa0i1QZd"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146760,
+      "name": "Ray of Calm",
+      "url": "https://open.spotify.com/track/1KnLysDiSikBy3O6HPle75"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/20yjn2yCBg4NWgHaAegF0m"
       },

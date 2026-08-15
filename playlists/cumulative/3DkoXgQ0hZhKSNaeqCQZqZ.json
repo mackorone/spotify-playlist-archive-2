@@ -4023,6 +4023,24 @@
     },
     {
       "album": {
+        "name": "HEADLESS LOUNGE",
+        "url": "https://open.spotify.com/album/3CgEtw9IHv01AdyZae6SVN"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167812,
+      "name": "HEADLESS LOUNGE",
+      "url": "https://open.spotify.com/track/22mZmxadaPv3MmCT2xRGNq"
+    },
+    {
+      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/6stY2PRGbRXTyShn6wvz5v"
       },

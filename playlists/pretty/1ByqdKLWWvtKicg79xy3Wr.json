@@ -6,8 +6,192 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGmk0peU0Qf8XXMz1JCY3vwlCW8Vhr",
+  "snapshot_id": "AAAGojnJiSAA6xJdGTt1yWcxZpRjGgE4",
   "tracks": [
+    {
+      "added_at": "2026-08-14 06:10:55",
+      "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/2AIh1rqOeJxQ1a5qRX2qWK"
+      },
+      "artists": [
+        {
+          "name": "RDGO",
+          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/2ydX6KvJoXQMnPOt8ThKOi"
+    },
+    {
+      "added_at": "2026-08-14 06:10:55",
+      "album": {
+        "name": "soul reply",
+        "url": "https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        }
+      ],
+      "duration_ms": 179311,
+      "name": "soul reply",
+      "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
+    },
+    {
+      "added_at": "2026-08-14 06:10:55",
+      "album": {
+        "name": "Holding You Back",
+        "url": "https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT"
+      },
+      "artists": [
+        {
+          "name": "Vivace",
+          "url": "https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt"
+        },
+        {
+          "name": "Gusta",
+          "url": "https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS"
+        },
+        {
+          "name": "K.ONE",
+          "url": "https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Holding You Back",
+      "url": "https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH"
+    },
+    {
+      "added_at": "2026-08-14 06:10:55",
+      "album": {
+        "name": "Til Death",
+        "url": "https://open.spotify.com/album/5vY7zRwYoEAFrounXi7HaQ"
+      },
+      "artists": [
+        {
+          "name": "Club Angel",
+          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "Til Death",
+      "url": "https://open.spotify.com/track/209B6ePlgrgUhErO5mnTcl"
+    },
+    {
+      "added_at": "2026-08-14 06:10:55",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/4Ca3BtmO41F1EvydCfcoOw"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 291971,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/45Q7gfiscW28MWPY9VvebZ"
+    },
+    {
+      "added_at": "2026-08-14 06:10:55",
+      "album": {
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/1Aw2hgbCHW9w6Bu4JT9bJx"
+      },
+      "artists": [
+        {
+          "name": "Reece Ros\u00e9",
+          "url": "https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5"
+        },
+        {
+          "name": "STREETSINEZ",
+          "url": "https://open.spotify.com/artist/3tVkKqNwApYmnxf6xDmYqN"
+        }
+      ],
+      "duration_ms": 232835,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/5NMBo5BHUqt6zi0553GQ1p"
+    },
+    {
+      "added_at": "2026-08-14 06:10:55",
+      "album": {
+        "name": "The Montana Girl",
+        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "The Montana Girl",
+      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
+    },
+    {
+      "added_at": "2026-08-14 06:10:55",
+      "album": {
+        "name": "Taking You",
+        "url": "https://open.spotify.com/album/515ztjeVfFFK9QhHNLuA8X"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/5HlCl9bk3XegCGmoTp1noF"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Taking You",
+      "url": "https://open.spotify.com/track/43tqKrEpLptBWZ0i1EXreb"
+    },
+    {
+      "added_at": "2026-08-14 06:10:55",
+      "album": {
+        "name": "TIPSY",
+        "url": "https://open.spotify.com/album/4z2I3wKsYaGMC9Z7ynLprf"
+      },
+      "artists": [
+        {
+          "name": "Hans Glader",
+          "url": "https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG"
+        },
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "duration_ms": 250929,
+      "name": "TIPSY",
+      "url": "https://open.spotify.com/track/3gUv3Iq0hus8eeua8WqaA8"
+    },
+    {
+      "added_at": "2026-08-14 06:10:55",
+      "album": {
+        "name": "Cura\u00e7ao Blue",
+        "url": "https://open.spotify.com/album/5col3FZw0PX9Kcjrkp7UzR"
+      },
+      "artists": [
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Cura\u00e7ao Blue",
+      "url": "https://open.spotify.com/track/5e45o43SZT4j9JGCWmzY8j"
+    },
     {
       "added_at": "2026-06-19 14:41:26",
       "album": {

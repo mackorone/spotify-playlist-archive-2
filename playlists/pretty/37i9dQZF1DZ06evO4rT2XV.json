@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAAAVk+aVGOWOXnfijx87Tp4q",
+  "snapshot_id": "an0JAAAAAADxiFq3K+nXZ6zVpgPUQ3IV",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 307226,
-      "name": "Concerto for 2 Pianos and Orchestra in D Minor, FP 61: II. Larghetto",
-      "url": "https://open.spotify.com/track/2EnlrIJbq1igbjX3smlFSw"
+      "duration_ms": 383546,
+      "name": "Concerto for 2 Pianos and Orchestra in D Minor, FP 61: III. Finale. Allegro molto",
+      "url": "https://open.spotify.com/track/2gwAXZAtmHE9uriDBtaVk9"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
         }
       ],
-      "duration_ms": 271746,
-      "name": "Nazareno: III. Guaracha y Mambo (Arr. Gonzalo Grau)",
-      "url": "https://open.spotify.com/track/5W5g4uGrNuWV9wYHByEw9h"
+      "duration_ms": 235840,
+      "name": "Nazareno: II. Tambor en blanco y negro (Arr. Gonzalo Grau)",
+      "url": "https://open.spotify.com/track/6uxlO2T1TFulpNhi9r8dQ1"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 383546,
-      "name": "Concerto for 2 Pianos and Orchestra in D Minor, FP 61: III. Finale. Allegro molto",
-      "url": "https://open.spotify.com/track/2gwAXZAtmHE9uriDBtaVk9"
+      "duration_ms": 307226,
+      "name": "Concerto for 2 Pianos and Orchestra in D Minor, FP 61: II. Larghetto",
+      "url": "https://open.spotify.com/track/2EnlrIJbq1igbjX3smlFSw"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
         }
       ],
-      "duration_ms": 235840,
-      "name": "Nazareno: II. Tambor en blanco y negro (Arr. Gonzalo Grau)",
-      "url": "https://open.spotify.com/track/6uxlO2T1TFulpNhi9r8dQ1"
+      "duration_ms": 271746,
+      "name": "Nazareno: III. Guaracha y Mambo (Arr. Gonzalo Grau)",
+      "url": "https://open.spotify.com/track/5W5g4uGrNuWV9wYHByEw9h"
     },
     {
       "added_at": null,
@@ -540,8 +540,8 @@
       },
       "artists": [
         {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+          "name": "Osvaldo Golijov",
+          "url": "https://open.spotify.com/artist/4MFSQmb7Y47xW7JJmJboCv"
         },
         {
           "name": "Sir Simon Rattle",
@@ -556,13 +556,17 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         },
         {
-          "name": "Chris Richards",
-          "url": "https://open.spotify.com/artist/3xnPsbGlTHqHM3hfz3O4mt"
+          "name": "Gonzalo Grau",
+          "url": "https://open.spotify.com/artist/0kHkqT79Moy6COGdjZdiLI"
+        },
+        {
+          "name": "Rapha\u00ebl S\u00e9guinier",
+          "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
         }
       ],
-      "duration_ms": 263320,
-      "name": "Prelude, Fugue and Riffs: III. Riffs for Everyone",
-      "url": "https://open.spotify.com/track/2SQs3ciOpLomWNwWLb9SHt"
+      "duration_ms": 352066,
+      "name": "Nazareno: VI. Procesi\u00f3n (Arr. Gonzalo Grau)",
+      "url": "https://open.spotify.com/track/2hReCGfkv9vw0zlUlOQ9jd"
     },
     {
       "added_at": null,

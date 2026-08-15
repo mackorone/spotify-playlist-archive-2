@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: The Black Keys",
-  "num_followers": 268700,
+  "num_followers": 268743,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMofNXUmudK4Iet5Q1Xp6lw9s9Ki",
+  "snapshot_id": "AAAAAHroed4HdVBEl84vptWxwYBNpUGj",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:00:44",
+      "album": {
+        "name": "Mr. In The Middle",
+        "url": "https://open.spotify.com/album/0hVe9m8NfZV6ny35fAIGMZ"
+      },
+      "artists": [
+        {
+          "name": "Sari Schorr",
+          "url": "https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl"
+        }
+      ],
+      "duration_ms": 201746,
+      "name": "Mr. In The Middle",
+      "url": "https://open.spotify.com/track/0GlpRy2hIwLpgKebrlxhAp"
+    },
     {
       "added_at": "2026-07-31 04:00:19",
       "album": {
@@ -2023,22 +2039,6 @@
       "duration_ms": 289607,
       "name": "I Need To Be",
       "url": "https://open.spotify.com/track/0Q4vxfviEyCBL27mzZUu1X"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
-        "name": "How High",
-        "url": "https://open.spotify.com/album/5AImRUVECSvsxYnEeGVGMf"
-      },
-      "artists": [
-        {
-          "name": "Steve Marriner",
-          "url": "https://open.spotify.com/artist/3gGtZLqY9EV0wTN8TjygoT"
-        }
-      ],
-      "duration_ms": 132299,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/4BYD2s44Gzhnpw9XsyhfKk"
     },
     {
       "added_at": "2026-03-20 15:56:34",

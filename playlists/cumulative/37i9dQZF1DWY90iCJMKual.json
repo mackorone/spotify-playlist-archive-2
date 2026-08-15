@@ -583,6 +583,28 @@
     },
     {
       "album": {
+        "name": "Ang Sarap Magmahal",
+        "url": "https://open.spotify.com/album/7Dxr620Uffs1D5FowRMsAk"
+      },
+      "artists": [
+        {
+          "name": "Saint Bino",
+          "url": "https://open.spotify.com/artist/2SxlcU4oJ9sl2uh7n5FEIY"
+        },
+        {
+          "name": "Clien",
+          "url": "https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229677,
+      "name": "Ang Sarap Magmahal",
+      "url": "https://open.spotify.com/track/362waa1fbzIgxz3cvPnUHP"
+    },
+    {
+      "album": {
         "name": "Araw2x Gabi2x",
         "url": "https://open.spotify.com/album/5tCSAhDhtQZlvFXywZu7PZ"
       },
@@ -964,7 +986,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 249580,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/4yxVa1iFihcmDlWahxjAwK"
@@ -7043,6 +7065,28 @@
     },
     {
       "album": {
+        "name": "Escape!",
+        "url": "https://open.spotify.com/album/5eKxKnDrCOuaVyr0Vp3ld0"
+      },
+      "artists": [
+        {
+          "name": "Jason Dhakal",
+          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
+        },
+        {
+          "name": "Sitti",
+          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3SBDwo6VmwTr4oHedWgrFY"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/1aFlqLnophxrohV3vbNAXe"
       },
@@ -9504,7 +9548,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 208000,
       "name": "Tunay",
       "url": "https://open.spotify.com/track/2R1mehVFt3PYQn3E3qW2hj"

@@ -835,6 +835,28 @@
     },
     {
       "album": {
+        "name": "PROLIFIC",
+        "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228874,
+      "name": "500 Horses",
+      "url": "https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ"
+    },
+    {
+      "album": {
         "name": "60 Days",
         "url": "https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS"
       },
@@ -18248,7 +18270,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 155188,
       "name": "LUCKY I",
       "url": "https://open.spotify.com/track/6mC7okhfQZPG9o1NT61nNf"
@@ -18496,6 +18518,28 @@
       "duration_ms": 275294,
       "name": "Major",
       "url": "https://open.spotify.com/track/7Dzs4qqiiExHLgLnm8XxD8"
+    },
+    {
+      "album": {
+        "name": "PROLIFIC",
+        "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175868,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/4TYH6ZzU6klZPNHH8pI0tg"
     },
     {
       "album": {
@@ -21554,7 +21598,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 176187,
       "name": "One Time",
       "url": "https://open.spotify.com/track/0Y3yw8c3jIpaUQUg4GfpaL"
@@ -23812,10 +23856,28 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 220800,
       "name": "Que Sera",
       "url": "https://open.spotify.com/track/5ITL4jQQFHcnlkClBcVLJa"
+    },
+    {
+      "album": {
+        "name": "Que Sera",
+        "url": "https://open.spotify.com/album/3A3WJ5Q2jVMEcIbafplub8"
+      },
+      "artists": [
+        {
+          "name": "Stoney Jackson",
+          "url": "https://open.spotify.com/artist/4pJSL3Q8yWIS78DpblIaOZ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221322,
+      "name": "Que Sera",
+      "url": "https://open.spotify.com/track/40sdqna7xeWrXMTPPdcG0E"
     },
     {
       "album": {
@@ -24654,7 +24716,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 161082,
       "name": "Ringin",
       "url": "https://open.spotify.com/track/6YvKDYJg5NwaK7K35qOD7D"

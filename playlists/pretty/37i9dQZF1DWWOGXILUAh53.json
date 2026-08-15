@@ -1,13 +1,213 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Empress Of & Cecile Believe",
-  "num_followers": 439872,
+  "description": "The hottest new pop with all the drops. Cover: Icona Pop",
+  "num_followers": 440663,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGCXo7LeQ2NFDCooZxk28GiJVzYw",
+  "snapshot_id": "AAAAAARK68JuaS4Ht0aWRrNVk2gmcM3d",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:02:27",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/48kNSC9VNag007n2cdI374"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 204483,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o"
+    },
+    {
+      "added_at": "2026-08-14 04:02:27",
+      "album": {
+        "name": "Faded Eyes",
+        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 177713,
+      "name": "Faded Eyes",
+      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
+    },
+    {
+      "added_at": "2026-07-31 04:02:32",
+      "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 232835,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+    },
+    {
+      "added_at": "2026-08-14 04:02:27",
+      "album": {
+        "name": "Take It Slow (Bullit)",
+        "url": "https://open.spotify.com/album/3Pd6Q22lKUjKnJ3Tysz26h"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        }
+      ],
+      "duration_ms": 176941,
+      "name": "Take It Slow (Bullit)",
+      "url": "https://open.spotify.com/track/3d4xP3sUrLslwXjGsGdgSv"
+    },
+    {
+      "added_at": "2026-08-14 04:02:27",
+      "album": {
+        "name": "Feeling Of You (feat. Lilly Ahlberg)",
+        "url": "https://open.spotify.com/album/0lVRdFQm7FL4n05eyvbhJq"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Feeling Of You (feat. Lilly Ahlberg)",
+      "url": "https://open.spotify.com/track/1uOAD1Q0AgmE1jcosLY4HY"
+    },
+    {
+      "added_at": "2026-08-03 19:40:09",
+      "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "added_at": "2026-08-14 04:02:27",
+      "album": {
+        "name": "Melatonin",
+        "url": "https://open.spotify.com/album/228ian0XYKvFtY1UchZy5d"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 222178,
+      "name": "Melatonin",
+      "url": "https://open.spotify.com/track/0Fscl5Gt6r9UfJR6OWG1wI"
+    },
+    {
+      "added_at": "2026-08-14 04:02:27",
+      "album": {
+        "name": "COUNTRY CLUB",
+        "url": "https://open.spotify.com/album/3qCAtKsgLM2yfSjXe0FFtd"
+      },
+      "artists": [
+        {
+          "name": "Leah Cleaver",
+          "url": "https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM"
+        }
+      ],
+      "duration_ms": 194744,
+      "name": "COUNTRY CLUB",
+      "url": "https://open.spotify.com/track/0kxVzs9nqmLJoVxic6QlMs"
+    },
+    {
+      "added_at": "2026-08-14 04:02:27",
+      "album": {
+        "name": "Paradiso Nights",
+        "url": "https://open.spotify.com/album/4l7gMCLBudiBhun0IGnPWu"
+      },
+      "artists": [
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Paradiso Nights",
+      "url": "https://open.spotify.com/track/18UFEQ1MviWquW8oWqwMmx"
+    },
+    {
+      "added_at": "2026-08-07 05:24:32",
+      "album": {
+        "name": "Fade Into Nothing",
+        "url": "https://open.spotify.com/album/7HAyJCI8bHpvY9MxcXViRk"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 209576,
+      "name": "Fade Into Nothing",
+      "url": "https://open.spotify.com/track/3PmAydfzjWQoLFpSQDYehP"
+    },
+    {
+      "added_at": "2026-08-07 05:24:32",
+      "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
+    },
     {
       "added_at": "2026-08-07 04:08:06",
       "album": {
@@ -27,22 +227,6 @@
       "duration_ms": 166840,
       "name": "SYW (feat. Cecile Believe)",
       "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
-    },
-    {
-      "added_at": "2026-08-03 19:40:09",
-      "album": {
-        "name": "brand new chanel$",
-        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 238505,
-      "name": "brand new chanel$",
-      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
     },
     {
       "added_at": "2026-08-07 05:24:32",
@@ -65,40 +249,36 @@
       "url": "https://open.spotify.com/track/3YCPMgglyGmlBAgIHE8KJw"
     },
     {
-      "added_at": "2026-08-07 05:24:32",
+      "added_at": "2026-08-14 04:02:27",
       "album": {
-        "name": "Don\u2019t Leave Me on the Dance Floor",
-        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+        "name": "Push it (cardiac)",
+        "url": "https://open.spotify.com/album/47JSXSvhUnVxjbkQxnpeba"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Reysha Rami",
+          "url": "https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j"
         }
       ],
-      "duration_ms": 192520,
-      "name": "Don\u2019t Leave Me on the Dance Floor",
-      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
+      "duration_ms": 170046,
+      "name": "Push it (cardiac)",
+      "url": "https://open.spotify.com/track/7rvmTYVaJYbj2RNXnAeJRh"
     },
     {
-      "added_at": "2026-07-31 04:02:32",
+      "added_at": "2026-08-07 05:24:32",
       "album": {
-        "name": "Happiness Is So Sad",
-        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/63FJCARS25Km4QVmsmD6P4"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
         }
       ],
-      "duration_ms": 232835,
-      "name": "Happiness Is So Sad",
-      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+      "duration_ms": 192580,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/0l36pn7VQtGkqdarml0F9o"
     },
     {
       "added_at": "2026-08-07 05:24:32",
@@ -143,22 +323,6 @@
     {
       "added_at": "2026-08-07 05:24:32",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/63FJCARS25Km4QVmsmD6P4"
-      },
-      "artists": [
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 192580,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/0l36pn7VQtGkqdarml0F9o"
-    },
-    {
-      "added_at": "2026-08-07 05:24:32",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2VXuMY40qncXU9Bhwsx5aY"
       },
@@ -191,30 +355,6 @@
       "duration_ms": 201557,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
-    },
-    {
-      "added_at": "2026-08-07 05:24:32",
-      "album": {
-        "name": "Fade Into Nothing",
-        "url": "https://open.spotify.com/album/7HAyJCI8bHpvY9MxcXViRk"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        },
-        {
-          "name": "Arlo",
-          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 209576,
-      "name": "Fade Into Nothing",
-      "url": "https://open.spotify.com/track/3PmAydfzjWQoLFpSQDYehP"
     },
     {
       "added_at": "2026-08-07 05:24:32",
@@ -1369,22 +1509,6 @@
       "url": "https://open.spotify.com/track/0dHNJPhlBpk1f65kRmwoWj"
     },
     {
-      "added_at": "2026-06-26 04:00:28",
-      "album": {
-        "name": "ROUND & ROUND",
-        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 224841,
-      "name": "ROUND & ROUND",
-      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
-    },
-    {
       "added_at": "2026-06-19 04:01:21",
       "album": {
         "name": "Electrify",
@@ -1513,26 +1637,6 @@
       "url": "https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R"
     },
     {
-      "added_at": "2026-06-19 04:01:21",
-      "album": {
-        "name": "siren",
-        "url": "https://open.spotify.com/album/5Ra6GPqaqVgsRExfv24TBG"
-      },
-      "artists": [
-        {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 165003,
-      "name": "siren",
-      "url": "https://open.spotify.com/track/2Abgq1EmE3gDZhhaLBmbAn"
-    },
-    {
       "added_at": "2026-06-12 04:02:14",
       "album": {
         "name": "Calling Out For U / Somebody",
@@ -1547,26 +1651,6 @@
       "duration_ms": 183374,
       "name": "Calling Out For U",
       "url": "https://open.spotify.com/track/7y1sTPYZETnTPkbYPNGOyp"
-    },
-    {
-      "added_at": "2026-06-12 04:02:14",
-      "album": {
-        "name": "thumbs",
-        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "thumbs",
-      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
     },
     {
       "added_at": "2026-06-12 04:02:14",
@@ -1607,58 +1691,6 @@
     {
       "added_at": "2026-06-12 04:02:14",
       "album": {
-        "name": "Speakerphone",
-        "url": "https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
-        }
-      ],
-      "duration_ms": 161660,
-      "name": "Speakerphone",
-      "url": "https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT"
-    },
-    {
-      "added_at": "2026-06-12 04:02:14",
-      "album": {
-        "name": "Earthworm",
-        "url": "https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v"
-      },
-      "artists": [
-        {
-          "name": "Laizer",
-          "url": "https://open.spotify.com/artist/1xuLVQC0qd8GzPcnJ4gs22"
-        }
-      ],
-      "duration_ms": 176277,
-      "name": "Earthworm",
-      "url": "https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL"
-    },
-    {
-      "added_at": "2026-06-12 04:02:14",
-      "album": {
-        "name": "Sweetest Release",
-        "url": "https://open.spotify.com/album/5caFZTvQGRa9ocXjtmZjS0"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        },
-        {
-          "name": "Bryn Christopher",
-          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
-        }
-      ],
-      "duration_ms": 156169,
-      "name": "Sweetest Release",
-      "url": "https://open.spotify.com/track/5GUN3hCVKgls5iQeBMP6HU"
-    },
-    {
-      "added_at": "2026-06-12 04:02:14",
-      "album": {
         "name": "Let's Not Talk About Our Feelings",
         "url": "https://open.spotify.com/album/7wwY6HT5hKIB5vu15HSX4h"
       },
@@ -1671,22 +1703,6 @@
       "duration_ms": 157588,
       "name": "Let's Not Talk About Our Feelings",
       "url": "https://open.spotify.com/track/2NZYUWhXQ2GI4g4OBzPw1z"
-    },
-    {
-      "added_at": "2026-06-12 04:02:14",
-      "album": {
-        "name": "Prototype",
-        "url": "https://open.spotify.com/album/7MvhqeZz7MOz9WRqh8EmTr"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        }
-      ],
-      "duration_ms": 185977,
-      "name": "Jus Wanna",
-      "url": "https://open.spotify.com/track/1JEp5ZG4iJGLV8umSDIY0i"
     },
     {
       "added_at": "2026-06-05 04:01:36",
@@ -1739,22 +1755,6 @@
       "duration_ms": 177707,
       "name": "Mr. Saxobeat - Spotify Singles",
       "url": "https://open.spotify.com/track/78PyhOfbHt3mA4Jhz8M9tW"
-    },
-    {
-      "added_at": "2026-06-05 04:01:36",
-      "album": {
-        "name": "Too Easy",
-        "url": "https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 114867,
-      "name": "Too Easy",
-      "url": "https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS"
     },
     {
       "added_at": "2026-05-29 04:02:55",

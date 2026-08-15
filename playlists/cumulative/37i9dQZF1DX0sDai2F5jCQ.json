@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Lil Baby",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Quavo",
   "name": "A1",
   "tracks": [
     {
@@ -231,6 +231,32 @@
     },
     {
       "album": {
+        "name": "All Eyes",
+        "url": "https://open.spotify.com/album/2K4HdHvotZBsEP5mXV9OGe"
+      },
+      "artists": [
+        {
+          "name": "Baakio",
+          "url": "https://open.spotify.com/artist/36ws0N21AlYMI8YMyiz2Il"
+        },
+        {
+          "name": "Eco$ystem",
+          "url": "https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113376,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/3UvjjcxvC6hOJON7OzRMDS"
+    },
+    {
+      "album": {
         "name": "2EAZY",
         "url": "https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx"
       },
@@ -347,6 +373,24 @@
     },
     {
       "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1Z0nnNdSO57sk7ENh7EHY7"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155860,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI"
+    },
+    {
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
       },
@@ -406,6 +450,28 @@
       "duration_ms": 180000,
       "name": "5 STAR GENERAL",
       "url": "https://open.spotify.com/track/4EJpPG6PoPdttDNpJznUs3"
+    },
+    {
+      "album": {
+        "name": "PROLIFIC",
+        "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228874,
+      "name": "500 Horses",
+      "url": "https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ"
     },
     {
       "album": {
@@ -2020,7 +2086,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 160346,
       "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
       "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
@@ -2340,6 +2406,28 @@
       "duration_ms": 210285,
       "name": "Blow for Blow (feat. J. Cole)",
       "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3hUrvTpfo0EuaMW2XWtUAM"
+      },
+      "artists": [
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        },
+        {
+          "name": "CAM3OOG",
+          "url": "https://open.spotify.com/artist/02sdxpzTCT9cD6tRfbjzBX"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144911,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0NowSHIyFaQLeFWhE2Aiij"
     },
     {
       "album": {
@@ -4502,7 +4590,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 124281,
       "name": "don't bite the bait!",
       "url": "https://open.spotify.com/track/0DVbx9dEWWFp3tPYxZwtJ0"
@@ -5214,6 +5302,24 @@
       "duration_ms": 116666,
       "name": "EXPRESS",
       "url": "https://open.spotify.com/track/4STH7a2LDMTRIJbc2nMCEW"
+    },
+    {
+      "album": {
+        "name": "F*CK YOURSELF FREESTYLE",
+        "url": "https://open.spotify.com/album/3S2Estfuhrn3wOiX5MOaN3"
+      },
+      "artists": [
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232087,
+      "name": "F*CK YOURSELF FREESTYLE",
+      "url": "https://open.spotify.com/track/7qn8jPsr9LLXEdZjSZPKDP"
     },
     {
       "album": {
@@ -9950,7 +10056,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 202236,
       "name": "LTW (LUV THE WORLD)",
       "url": "https://open.spotify.com/track/11acdWz5vdgj640OlIYB2Y"
@@ -10266,7 +10372,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 197260,
       "name": "MANE",
       "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
@@ -12046,6 +12152,24 @@
       "duration_ms": 234846,
       "name": "OUR PEOPLE (feat. The Presets)",
       "url": "https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG"
+    },
+    {
+      "album": {
+        "name": "Out The Blue",
+        "url": "https://open.spotify.com/album/2xJTHtzH8amjbriR8O2zJg"
+      },
+      "artists": [
+        {
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119670,
+      "name": "Out The Blue",
+      "url": "https://open.spotify.com/track/3dQ8MRBpgHLm2fKBkxLykd"
     },
     {
       "album": {
@@ -16849,6 +16973,24 @@
     },
     {
       "album": {
+        "name": "Trance (Walk It Down)",
+        "url": "https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161609,
+      "name": "Trance (Walk It Down)",
+      "url": "https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw"
+    },
+    {
+      "album": {
         "name": "Tranquility",
         "url": "https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6"
       },
@@ -18234,6 +18376,28 @@
       "duration_ms": 166753,
       "name": "WHITE TEETH",
       "url": "https://open.spotify.com/track/6ow0YfalWa4voVee9u9AVu"
+    },
+    {
+      "album": {
+        "name": "GHOST EP",
+        "url": "https://open.spotify.com/album/03g9bw3MW7LZlocBe3j3C3"
+      },
+      "artists": [
+        {
+          "name": "Fraksha",
+          "url": "https://open.spotify.com/artist/1LNA0Z5On9miY8WjoEcstl"
+        },
+        {
+          "name": "Posseshot",
+          "url": "https://open.spotify.com/artist/1iMp6xzgbWnO15izaVC7QU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219021,
+      "name": "Who is this",
+      "url": "https://open.spotify.com/track/6bMhRR5YlzitohR5xPOFHw"
     },
     {
       "album": {

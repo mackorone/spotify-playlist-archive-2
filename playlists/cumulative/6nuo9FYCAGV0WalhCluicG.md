@@ -4,7 +4,7 @@
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. British rap, drill rap and freestyle rap, with british grime, british bangers and bangers only from Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-195 songs - 8 hr 46 min
+197 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [100 Miles \(feat\. Aitch\)](https://open.spotify.com/track/3AdRx21O0Uw3xLnaLIbJ3f) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Crossroads](https://open.spotify.com/album/6OLfB7EDNgVTNM8eNlEeRC) | 2:18 | 2026-05-29 |  |
 | [2 Summers](https://open.spotify.com/track/36k6X9eENFg2iWeDhY0EVh) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [2 Summers](https://open.spotify.com/album/0fKazuV2iZIDDEaF5nX4vd) | 4:00 | 2025-10-03 |  |
 | [305](https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:33 | 2025-10-03 | 2026-05-30 |
+| [4AM](https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [4AM](https://open.spotify.com/album/1Z0nnNdSO57sk7ENh7EHY7) | 2:35 | 2026-08-14 |  |
 | [90th Minute](https://open.spotify.com/track/1rm0UlEuApyZsytAfT2zR7) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO) | [90th Minute](https://open.spotify.com/album/6lm5ts4QB0uavfNz0UXiA6) | 1:53 | 2026-06-26 |  |
 | [9:17 In North](https://open.spotify.com/track/6Q8CSm9fvNLkCQAx2GY3eN) | [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n) | [9:17 In North](https://open.spotify.com/album/3uOFXU7xP0Wl7kwFoRJDUx) | 3:01 | 2026-06-26 |  |
 | [A Bit More](https://open.spotify.com/track/2oMitBUJyPBUMNhtvZ154J) | [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK) | [A Bit More](https://open.spotify.com/album/6JcJBdytrbOCeTGzievyov) | 3:28 | 2025-10-03 | 2026-03-14 |
@@ -153,11 +154,12 @@
 | [PLACES AND FACES](https://open.spotify.com/track/7kvq9zMWTSiyc1Up5ZtMIo) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [PLACES AND FACES](https://open.spotify.com/album/2G2EWUrW8niRYRKrGLfrvZ) | 2:31 | 2026-05-29 | 2026-07-25 |
 | [Point To Prove](https://open.spotify.com/track/33aOtS134ourFh9cLtx0rs) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Point To Prove](https://open.spotify.com/album/0Ol9zAyCJMU86fDjdodJpK) | 2:18 | 2026-05-08 | 2026-05-23 |
 | [PRESSURE](https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [PRESSURE](https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4) | 2:16 | 2026-08-07 |  |
-| [PRINCE OF THE SCENE](https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PRINCE OF THE SCENE](https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e) | 1:56 | 2026-08-07 |  |
+| [PRINCE OF THE SCENE](https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PRINCE OF THE SCENE](https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e) | 1:56 | 2026-08-07 | 2026-08-15 |
+| [Prosper](https://open.spotify.com/track/7uvRk44UPN12K5YLYfRRei) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Prosper](https://open.spotify.com/album/11pgWIDTBmslcQEZvfOzQN) | 3:58 | 2026-08-14 |  |
 | [PTSD](https://open.spotify.com/track/50NJA7Ds65risvAXLspiWK) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PTSD](https://open.spotify.com/album/6VUAEJ53jti8LKTEKGydaS) | 2:09 | 2025-10-03 | 2026-03-14 |
 | [Pull Up \(feat\. Backroad Gee\)](https://open.spotify.com/track/0t9kZenG9DPNMyo2eBKwFY) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Pull Up \(feat\. Backroad Gee\)](https://open.spotify.com/album/1GOXfshL9Q6Qk2eKkTFYeS) | 2:48 | 2025-10-03 | 2026-03-14 |
 | [Quaresma](https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Quaresma](https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9) | 1:14 | 2026-05-01 |  |
-| [RACKS.](https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [We Live.](https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x) | 2:28 | 2026-03-13 |  |
+| [RACKS.](https://open.spotify.com/track/0W8dVG4CnNRu2pd0XQO8k0) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [We Live.](https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x) | 2:28 | 2026-03-13 | 2026-08-15 |
 | [REAL 1](https://open.spotify.com/track/5sqQJpw8b5FRtQiMboCFoe) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [THE WIZARD \(DELUXE\)](https://open.spotify.com/album/6epN6qmgx0NQwfXvKTnJbN) | 2:10 | 2026-07-10 |  |
 | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/track/1krd3VtSxqLMRToL2sfXoY) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Distro Kid](https://open.spotify.com/album/2iJTbYfBiOhhatNhoPKuST) | 2:35 | 2025-10-03 |  |
 | [Remontada \(feat\. Blanco\)](https://open.spotify.com/track/362tD7hUEZ06izuWdVlRnP) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Remontada \(feat\. Blanco\)](https://open.spotify.com/album/1OTdy9AJVXEerYPUTDCmRd) | 2:41 | 2025-10-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 85801,
+  "num_followers": 85813,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-08-07 05:48:45",
       "album": {
-        "name": "Tere Bin Jiya",
-        "url": "https://open.spotify.com/album/4itsjS5C9u50gUufh8Jfre"
-      },
-      "artists": [
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        },
-        {
-          "name": "Dr. Deepali Patil",
-          "url": "https://open.spotify.com/artist/5ZCkgKMHxQpCwchRoOhjyO"
-        }
-      ],
-      "duration_ms": 328334,
-      "name": "Tere Bin Jiya",
-      "url": "https://open.spotify.com/track/0LPYAOj31l7iV8gz5tfeQZ"
-    },
-    {
-      "added_at": "2026-08-07 05:48:45",
-      "album": {
         "name": "Jhoomelo (feat. Hansa Devi) [Maati S1]",
         "url": "https://open.spotify.com/album/0GJ7GMjQjOG8Ar0rv1Qvkn"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 259200,
       "name": "Jhoomelo (feat. Hansa Devi) - Maati S1",
       "url": "https://open.spotify.com/track/18obntWwlvtzNEOrVyyJTE"
+    },
+    {
+      "added_at": "2026-08-07 05:48:45",
+      "album": {
+        "name": "Tere Bin Jiya",
+        "url": "https://open.spotify.com/album/4itsjS5C9u50gUufh8Jfre"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Dr. Deepali Patil",
+          "url": "https://open.spotify.com/artist/5ZCkgKMHxQpCwchRoOhjyO"
+        }
+      ],
+      "duration_ms": 328334,
+      "name": "Tere Bin Jiya",
+      "url": "https://open.spotify.com/track/0LPYAOj31l7iV8gz5tfeQZ"
     },
     {
       "added_at": "2026-08-07 05:48:45",

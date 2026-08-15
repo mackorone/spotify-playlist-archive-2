@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 
 > It’s a call from the ancestors\. Listen to all of your favorite music from the world of Moana\. Disney's Live\-Action Moana, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,144 likes - 106 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,202 likes - 106 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

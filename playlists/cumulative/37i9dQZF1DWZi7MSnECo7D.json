@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Codinome Winchester",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Os Amantes, Jaloo, Strobo",
   "name": "alt BR",
   "tracks": [
     {
@@ -630,6 +630,32 @@
       "duration_ms": 241781,
       "name": "adesivos",
       "url": "https://open.spotify.com/track/2DC3j9vVu1Y9yC35gwuj89"
+    },
+    {
+      "album": {
+        "name": "Amar, AMOR!",
+        "url": "https://open.spotify.com/album/2XBkVZMKULzi3B0KhNjHPw"
+      },
+      "artists": [
+        {
+          "name": "Os Amantes",
+          "url": "https://open.spotify.com/artist/0CjUWR4PjqnTuxe0fPRoUs"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        },
+        {
+          "name": "Strobo",
+          "url": "https://open.spotify.com/artist/12ppUSYrd4ZPPhp9Uqa18g"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159262,
+      "name": "Adeus",
+      "url": "https://open.spotify.com/track/7fPUKraHfQcGLCfrVKgwjp"
     },
     {
       "album": {
@@ -1305,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Anjo de Papel",
+        "url": "https://open.spotify.com/album/0gbWq0EYkoBXZZL1bvGGL3"
+      },
+      "artists": [
+        {
+          "name": "Varanda",
+          "url": "https://open.spotify.com/artist/3bqBbsUzLiW1KwwPAMY2uk"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197285,
+      "name": "Anjo de Papel",
+      "url": "https://open.spotify.com/track/4IWq7dAMdbLAjWPAAPrW5X"
+    },
+    {
+      "album": {
         "name": "Antes de Me Deixar",
         "url": "https://open.spotify.com/album/2OlR1ABips2OgUWauHAwd5"
       },
@@ -1676,6 +1720,24 @@
       "duration_ms": 234318,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/17nOJvu5U8WHReykHKY18r"
+    },
+    {
+      "album": {
+        "name": "ator global",
+        "url": "https://open.spotify.com/album/3aggj7nQzF07RqLh6H11R8"
+      },
+      "artists": [
+        {
+          "name": "Breno Branches",
+          "url": "https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131077,
+      "name": "ator global",
+      "url": "https://open.spotify.com/track/7w8zhp6OSeDNl6MwNHDWzJ"
     },
     {
       "album": {
@@ -2774,7 +2836,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 188460,
       "name": "Camisa do Flamengo (Ao Vivo)",
       "url": "https://open.spotify.com/track/2qmh5D1CE0WEqFQ8SB1SzW"
@@ -3462,7 +3524,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 251500,
       "name": "Code\u00edna",
       "url": "https://open.spotify.com/track/2edZucoKG26rfWBX96cpWy"
@@ -4066,7 +4128,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 217566,
       "name": "Cuidado",
       "url": "https://open.spotify.com/track/0fSkB57cN8TsZBIbhvUeNA"
@@ -4214,7 +4276,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 233986,
       "name": "da janela",
       "url": "https://open.spotify.com/track/1HRnDYfGjQhW4f9TH6EVk5"
@@ -4940,7 +5002,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 181920,
       "name": "Dil\u00favio de Dinheiro Algum",
       "url": "https://open.spotify.com/track/4kGAcLyuxF38RA7dmGEjYG"
@@ -5846,7 +5908,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 145408,
       "name": "Espirros Infinitos",
       "url": "https://open.spotify.com/track/7rS7bDTTMFsOL3W53LwFa1"
@@ -6602,6 +6664,24 @@
       "duration_ms": 340224,
       "name": "Farol",
       "url": "https://open.spotify.com/track/4hPpmLtIijiczJj25c3eLK"
+    },
+    {
+      "album": {
+        "name": "Fluxo Natural",
+        "url": "https://open.spotify.com/album/1zRauBTmrTgG4jY5dJaJql"
+      },
+      "artists": [
+        {
+          "name": "Maglore",
+          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228478,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/4xyyxpwegsww8tccaPiFrN"
     },
     {
       "album": {
@@ -8606,7 +8686,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 156000,
       "name": "Luzes Que V\u00e3o Passando - Frio",
       "url": "https://open.spotify.com/track/7x3VTgrjDdkDhDA2kUog9v"
@@ -10024,7 +10104,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 198000,
       "name": "Monocrom\u00e1tica",
       "url": "https://open.spotify.com/track/5cOgEcwXJ8b0KlQS8ijvOT"
@@ -11947,6 +12027,24 @@
     },
     {
       "album": {
+        "name": "OCC (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3eqcYhnoiDFnoxu26Z5p9r"
+      },
+      "artists": [
+        {
+          "name": "Pedro Bienemann",
+          "url": "https://open.spotify.com/artist/7sLYOTl34bly1Y5FKwnNhY"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Ondas de choque e calor - Ao Vivo",
+      "url": "https://open.spotify.com/track/37ERnN0mgHNHWLyHOzzlYu"
+    },
+    {
+      "album": {
         "name": "Ontem",
         "url": "https://open.spotify.com/album/2V6HAHc2D0ltLAgFXBtP6A"
       },
@@ -13500,7 +13598,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 199225,
       "name": "QUASE SUPERFICIAL",
       "url": "https://open.spotify.com/track/12fr1LzY5hOi6crkKud3F1"
@@ -14442,7 +14540,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 190000,
       "name": "Se tocar",
       "url": "https://open.spotify.com/track/30V5cpClEQtLBzmgQUIDH4"
@@ -17779,10 +17877,6 @@
         "url": "https://open.spotify.com/album/6JXjV8CKdndWGknRTAZsR9"
       },
       "artists": [
-        {
-          "name": "Nyron Higor",
-          "url": "https://open.spotify.com/artist/2WYlmnoa3sQwZVX6CYwlsQ"
-        },
         {
           "name": "Bruno Berle",
           "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"

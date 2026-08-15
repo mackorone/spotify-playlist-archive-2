@@ -2369,6 +2369,28 @@
     },
     {
       "album": {
+        "name": "Cherry Moon",
+        "url": "https://open.spotify.com/album/2pv3Rwi9LBzQ4gyRe1mXlh"
+      },
+      "artists": [
+        {
+          "name": "MONK3YS",
+          "url": "https://open.spotify.com/artist/1sKkwxS8TNFRsKYgoPBMh4"
+        },
+        {
+          "name": "Tom Novy",
+          "url": "https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133125,
+      "name": "Cherry Moon",
+      "url": "https://open.spotify.com/track/4TxGmOmvrvCiajatN9g6qN"
+    },
+    {
+      "album": {
         "name": "Chicago",
         "url": "https://open.spotify.com/album/2B6XynX7Yeijpi4C73pJKs"
       },
@@ -4740,7 +4762,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 148520,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/04aBupoiZsm9duHKR5Qr93"
@@ -15044,7 +15066,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 207804,
       "name": "The Choice - Radio Mix",
       "url": "https://open.spotify.com/track/5ysYq6dOMOrKbHRlu7fFKN"
@@ -15142,6 +15164,24 @@
       "duration_ms": 173120,
       "name": "The Mirror",
       "url": "https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N"
+    },
+    {
+      "album": {
+        "name": "The Montana Girl",
+        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "The Montana Girl",
+      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
     },
     {
       "album": {
@@ -15620,6 +15660,28 @@
       "duration_ms": 204230,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/442bwi2jfJTT739AT4Hfde"
+    },
+    {
+      "album": {
+        "name": "Turn Me On",
+        "url": "https://open.spotify.com/album/7AObGFYtZ1cN9LZFSISXZI"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Steffanie Christi'an",
+          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/5kCOmZ3BZwsdNEmDK05WMj"
     },
     {
       "album": {
@@ -16468,7 +16530,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 215625,
       "name": "Without The Music",
       "url": "https://open.spotify.com/track/2G0zi7hIC0OduDgEC6zLEW"

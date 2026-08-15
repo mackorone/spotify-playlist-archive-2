@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: !Sooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,008 likes - 62 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,048 likes - 62 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture. Cover: Original Koffee",
+  "description": "A melting pot of Caribbean culture. Cover: Masicka\n",
   "name": "Fever",
   "tracks": [
+    {
+      "album": {
+        "name": "Forever Reign",
+        "url": "https://open.spotify.com/album/7sml8FbT4paFbIelC2WdGr"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190221,
+      "name": "1 Psalm (feat. Damian \"Jr. Gong\" Marley)",
+      "url": "https://open.spotify.com/track/3qnRhjylqgWO7fIYpz8Gy0"
+    },
     {
       "album": {
         "name": "1 TING",
@@ -16,7 +38,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 148224,
       "name": "1 TING",
       "url": "https://open.spotify.com/track/1dfwZCgDDCk39ld29imgi8"
@@ -488,7 +510,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
@@ -1515,6 +1537,32 @@
     },
     {
       "album": {
+        "name": "JUNCTION",
+        "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "CUTLASS",
+      "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
+    },
+    {
+      "album": {
         "name": "Cyah Behave",
         "url": "https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G"
       },
@@ -2382,7 +2430,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 277693,
       "name": "Fuck and Party (feat. Vybz Kartel)",
       "url": "https://open.spotify.com/track/36mxQSO07EQkGEshyiWPsL"
@@ -2883,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/3SeCuTVaJdb0hv5JL56otb"
+      },
+      "artists": [
+        {
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166836,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4l1wRHDnzsOd3rrqxMafp4"
+    },
+    {
+      "album": {
         "name": "Black Keys Riddim",
         "url": "https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g"
       },
@@ -2998,7 +3064,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 157107,
       "name": "House Call",
       "url": "https://open.spotify.com/track/1P2YMHIhDi0Oszip9SpdtS"
@@ -4663,6 +4729,28 @@
     },
     {
       "album": {
+        "name": "Forever Reign",
+        "url": "https://open.spotify.com/album/7sml8FbT4paFbIelC2WdGr"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204748,
+      "name": "Parables (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/3tdKotMq0QI0P1ZaJ7uOER"
+    },
+    {
+      "album": {
         "name": "One Degree Hotter",
         "url": "https://open.spotify.com/album/79pkMBFXLF3RGt2I1Z6Y54"
       },
@@ -5353,6 +5441,32 @@
     },
     {
       "album": {
+        "name": "JUNCTION",
+        "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "ROCK",
+      "url": "https://open.spotify.com/track/1Ll7UszpQf1H3NnucmLSsA"
+    },
+    {
+      "album": {
         "name": "Romantic (with Masicka)",
         "url": "https://open.spotify.com/album/6YjD4IDZsKPxWx7iFlV8L7"
       },
@@ -5952,7 +6066,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 152500,
       "name": "Stay For The Night",
       "url": "https://open.spotify.com/track/0HnPRaFlJqio55qp8fdX0g"
@@ -6112,7 +6226,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 156631,
       "name": "Sun Up",
       "url": "https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1"
@@ -6244,7 +6358,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 138548,
       "name": "Take Ova",
       "url": "https://open.spotify.com/track/5H6v49Wz8GubdDSW4wmWII"
@@ -6542,6 +6656,24 @@
       "duration_ms": 151698,
       "name": "TIME",
       "url": "https://open.spotify.com/track/12U7ykhK1TZTzTGmDHWDGq"
+    },
+    {
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "Time & Place",
+      "url": "https://open.spotify.com/track/02Dt8MN0EAyUeqWnOJdppv"
     },
     {
       "album": {
@@ -7248,7 +7380,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 189873,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/2v1amskPjMOOAZZc1VGPoT"

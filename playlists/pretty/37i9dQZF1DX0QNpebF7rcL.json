@@ -1,13 +1,65 @@
 {
   "description": "The best in blues right now. Cover: Ruthie Foster",
-  "num_followers": 157973,
+  "num_followers": 157997,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2Ht8FDg6FFo5skYvPsz5lvtsJW",
+  "snapshot_id": "AAAAAP3x/IaB7HyGv5XyvhXxOP0PhO43",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:00:37",
+      "album": {
+        "name": "Morgan Freeman's Symphonic Blues Experience",
+        "url": "https://open.spotify.com/album/2pCUARTi6tBF0hMZtTz5ox"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        },
+        {
+          "name": "Mark Yacovone",
+          "url": "https://open.spotify.com/artist/7CJGPqQhhAbOVVmhiJMPh4"
+        },
+        {
+          "name": "Ground Zero Blues Club Band",
+          "url": "https://open.spotify.com/artist/03hSW2Ru3hyb1bADhUZYgT"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "name": "Martin Gellner",
+          "url": "https://open.spotify.com/artist/4htujiPBxC6ynIY9V6sKOR"
+        }
+      ],
+      "duration_ms": 221546,
+      "name": "Traveling Riverside Blues",
+      "url": "https://open.spotify.com/track/1q6a5AZllhZb7jIM7ToThW"
+    },
+    {
+      "added_at": "2026-08-14 04:00:37",
+      "album": {
+        "name": "Whole Lot Coming For You",
+        "url": "https://open.spotify.com/album/3eI8CzsSKxTbW2NC1mUu5m"
+      },
+      "artists": [
+        {
+          "name": "Eddie 9V",
+          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
+        }
+      ],
+      "duration_ms": 173290,
+      "name": "Whole Lot Coming For You",
+      "url": "https://open.spotify.com/track/7C56tIFtfPQbkaFPcYVweF"
+    },
     {
       "added_at": "2026-08-07 04:00:21",
       "album": {
@@ -1477,26 +1529,6 @@
       "url": "https://open.spotify.com/track/2ng4xggwChST3ExNOEln7Y"
     },
     {
-      "added_at": "2025-03-28 04:00:29",
-      "album": {
-        "name": "I Love Freddie King",
-        "url": "https://open.spotify.com/album/7tDSE4yiORN85TrcOMJcPC"
-      },
-      "artists": [
-        {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
-        },
-        {
-          "name": "Albert Castiglia",
-          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
-        }
-      ],
-      "duration_ms": 327209,
-      "name": "Love Her with a Feeling",
-      "url": "https://open.spotify.com/track/30Gu5mcMflfTdIa0OG8XkS"
-    },
-    {
       "added_at": "2025-02-28 05:00:32",
       "album": {
         "name": "Devil's In The Delta",
@@ -1843,22 +1875,6 @@
       "duration_ms": 194236,
       "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
       "url": "https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/3a9xrY1A9DkKauXZW17KQ8"
-      },
-      "artists": [
-        {
-          "name": "Los Lonely Boys",
-          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
-        }
-      ],
-      "duration_ms": 210900,
-      "name": "I Let You Think That You Do",
-      "url": "https://open.spotify.com/track/5rhIUOc7EmYB5jbnXfCIhc"
     }
   ],
   "unique_name": "Got Blues",

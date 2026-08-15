@@ -4,7 +4,7 @@
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-127 songs - 9 hr 6 min
+128 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Bole Tou Meetho Laage](https://open.spotify.com/track/3BbqMKh3G1FbmGwJSraM8e) | [Liquid Lake](https://open.spotify.com/artist/59tEU0jAjUkuKWhzElmD8r), [ACHINX](https://open.spotify.com/artist/3SEsONpgPHbW9KXBWWabgm), [Gulbis Khan](https://open.spotify.com/artist/1BfNgRnl08Cf0SXoqAXKx3) | [Bole Tou Meetho Laage](https://open.spotify.com/album/3TE9Fd0B6ZL2EpL7410RPg) | 1:26 | 2025-12-18 | 2026-02-07 |
 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 | 2023-03-10 |  |
 | [Bulaava Aaya](https://open.spotify.com/track/6HnkVw9GKU1ZqzJzpFOfvS) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Bulaava Aaya](https://open.spotify.com/album/05UdHSttBA2pc0JcTUrsXP) | 5:34 | 2023-10-10 | 2024-09-11 |
-| [Chaand Sakha Re](https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Rishith Desikan](https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:25 | 2025-07-16 |  |
+| [Chaand Sakha Re](https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Rishith Desikan](https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:25 | 2025-07-16 | 2026-08-15 |
 | [Chamba Kitni Door](https://open.spotify.com/track/10LDYm3eBpPLN5qIAyi4xr) | [Priyankaa Bhattacharya](https://open.spotify.com/artist/1AerBLLesWL9aNrvn0hJt5) | [Chamba Kitni Door](https://open.spotify.com/album/1RUnFlxB2lgpkNBvVFg1I5) | 3:37 | 2024-07-12 | 2024-10-10 |
+| [Champawa Ki Kaliyan](https://open.spotify.com/track/3XgeGTP5TkrG9fx6ZHvqzx) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Jeewan Ram](https://open.spotify.com/artist/5XGkMDglkTz91R4hhoskbH), [Sayo Komada](https://open.spotify.com/artist/7uTHyccBpjdKgB7LJUpKhh) | [Champawa Ki Kaliyan](https://open.spotify.com/album/5f7PmACBwkDwxkh2pxEDZw) | 3:36 | 2026-08-14 |  |
 | [Chanda Jhaanke](https://open.spotify.com/track/6dimVWFSWOrJ7MjwJL2Z26) | [Baba Hansraj Raghuwanshi](https://open.spotify.com/artist/58dEyoXedmI4PZAWWnnQSJ), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Chanda Jhaanke](https://open.spotify.com/album/78XzPufvH4XnpzstGoutVt) | 3:38 | 2023-05-30 | 2023-08-10 |
 | [Chanda Jhaanke](https://open.spotify.com/track/5X3oePi6rfWKfwwcAbjXQL) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Hansraj Raghuwanshi](https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF) | [Chanda Jhaanke](https://open.spotify.com/album/61r6m0nwOsuAJdt1NNwvXG) | 3:38 | 2023-03-10 | 2024-06-05 |
 | [Cheenta](https://open.spotify.com/track/39w5DHxZY8PDnfwxc55YWd) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Rafael Rocha](https://open.spotify.com/artist/1XnG6lnCrjRNhphTYQ9Jws), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:25 | 2024-07-11 | 2024-07-24 |

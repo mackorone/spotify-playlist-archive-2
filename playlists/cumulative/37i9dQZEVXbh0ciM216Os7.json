@@ -3121,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia EP",
+        "url": "https://open.spotify.com/album/3pTZy5S0FrRBIB9FqcXzwY"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212166,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/04djrIRsjKnHhTgQhOk2Nr"
+    },
+    {
+      "album": {
         "name": "All The Way (feat. Bailey Zimmerman)",
         "url": "https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh"
       },
@@ -5635,6 +5653,28 @@
     },
     {
       "album": {
+        "name": "BAD HiPPiE (with MiHALi)",
+        "url": "https://open.spotify.com/album/3pklCYiNOCfWAiffU3kOSK"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183911,
+      "name": "BAD HiPPiE (with MiHALi)",
+      "url": "https://open.spotify.com/track/4zp8NK2qMlIw84Aof4GyCc"
+    },
+    {
+      "album": {
         "name": "Gaze of the Cobra",
         "url": "https://open.spotify.com/album/09frnOoknuqbCe8FDlrBNX"
       },
@@ -5862,6 +5902,36 @@
       "duration_ms": 154418,
       "name": "BANG BANG! (My Neurodivergent Anthem) - Galantis & Misha K VIP Mix",
       "url": "https://open.spotify.com/track/1vz6ErQBR3A0nsA2NSDVYu"
+    },
+    {
+      "album": {
+        "name": "BANG!",
+        "url": "https://open.spotify.com/album/0vAyLT72VKsbSo6xYxSXWR"
+      },
+      "artists": [
+        {
+          "name": "I In Team",
+          "url": "https://open.spotify.com/artist/6BzXklrlzEsHNlwKMG396B"
+        },
+        {
+          "name": "Nick Sanville",
+          "url": "https://open.spotify.com/artist/0jYduQw2qYqB04KHDCmtEB"
+        },
+        {
+          "name": "Phonosapien",
+          "url": "https://open.spotify.com/artist/5drd0EiQElXnTNtodgUkRa"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/1HejpjNLuM5reFjeTnYfj9"
     },
     {
       "album": {
@@ -7350,7 +7420,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 131306,
       "name": "Birds",
       "url": "https://open.spotify.com/track/5XTsHbRzj5fqu0Ol7xqXAR"
@@ -9658,7 +9728,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 468140,
       "name": "breathe/burn: an elegy",
       "url": "https://open.spotify.com/track/2cQ81LaDILZ1pnBJzpABKc"
@@ -9688,7 +9758,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 178666,
       "name": "Brick City",
       "url": "https://open.spotify.com/track/3uhFbT9wAaiRcdViMpqR5i"
@@ -11044,7 +11114,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 179945,
       "name": "Can't Fit In",
       "url": "https://open.spotify.com/track/2AYqs8XQ5fGMJZlAlunvRX"
@@ -14978,7 +15048,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 174000,
       "name": "Czariana Grande",
       "url": "https://open.spotify.com/track/6O1ktnjyhyTelvublN5wHy"
@@ -24582,7 +24652,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 209480,
       "name": "Four In One - Alternate Take",
       "url": "https://open.spotify.com/track/0bHx49sOlTCZTtDCsFYuXr"
@@ -25846,6 +25916,28 @@
       "duration_ms": 151857,
       "name": "Futsal Shuffle 2020 - Lil Uzi Vert Sped Up Version",
       "url": "https://open.spotify.com/track/1ONh4PLY63wOVZLZSNyHBm"
+    },
+    {
+      "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "FXCKIN HATER (feat. Killer Mike)",
+      "url": "https://open.spotify.com/track/1ffYjtf97k2iKoSNGWxkTH"
     },
     {
       "album": {
@@ -33240,7 +33332,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 182520,
       "name": "I Should Care - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6sYnAVOEFBajsC1kawg9yd"
@@ -39440,7 +39532,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 201551,
       "name": "Leave (Get Out)",
       "url": "https://open.spotify.com/track/6Lue9MrOY1bv852jhqjwF7"
@@ -39866,7 +39958,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 222847,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
@@ -44463,6 +44555,24 @@
     },
     {
       "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/3ySRESI8LQ6OoQfKjpxJTH"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159810,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/5H8s6OVuZ5hJZ0RT4rpPsf"
+    },
+    {
+      "album": {
         "name": "Hackney Diamonds",
         "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
       },
@@ -47179,6 +47289,32 @@
     },
     {
       "album": {
+        "name": "MYSTERY OF RAW",
+        "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "MYSTERY OF RAW",
+      "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
+    },
+    {
+      "album": {
         "name": "Mystic Journey",
         "url": "https://open.spotify.com/album/2Zi2sYvKPiUVa56eRK7grT"
       },
@@ -47468,6 +47604,36 @@
       "duration_ms": 155476,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/0YMP9iIN0kPO3kp7pnxZpB"
+    },
+    {
+      "album": {
+        "name": "Natural Blues (TECIE)",
+        "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252857,
+      "name": "Natural Blues (TECIE)",
+      "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
     },
     {
       "album": {
@@ -67265,6 +67431,40 @@
     },
     {
       "album": {
+        "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\"/III. Scherzo. Allegro vivace",
+        "url": "https://open.spotify.com/album/0Z3NEbszFJ6dMTCIloKdQP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        },
+        {
+          "name": "Antoine Tamestit",
+          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343786,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
+      "url": "https://open.spotify.com/track/6boOjP1lz9HUKZBe8xlOh2"
+    },
+    {
+      "album": {
         "name": "Beethoven for Three: Symphony No. 4 and Op. 97 \"Archduke\"",
         "url": "https://open.spotify.com/album/66A95B2hOyckzsR5sZ4FrK"
       },
@@ -73709,6 +73909,36 @@
     },
     {
       "album": {
+        "name": "GARDEN OF LIFE",
+        "url": "https://open.spotify.com/album/0b0YXpWK8FpSxyIy0HSK0s"
+      },
+      "artists": [
+        {
+          "name": "MUNI",
+          "url": "https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "Riff Raff",
+          "url": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "Troops",
+      "url": "https://open.spotify.com/track/0FgNxa93rGYLHU9awN14LG"
+    },
+    {
+      "album": {
         "name": "trouble",
         "url": "https://open.spotify.com/album/3l54dy6FmhlacUqizE6aYE"
       },
@@ -76144,7 +76374,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 186862,
       "name": "Waiting For The Drugs To Kick In",
       "url": "https://open.spotify.com/track/1Dt45xDgl7qd5TgE9qSHkm"
@@ -79137,6 +79367,24 @@
     },
     {
       "album": {
+        "name": "Why Aren't You Suckin' My Dick?",
+        "url": "https://open.spotify.com/album/2lvRtCSWqxoVnqO2aO7RQl"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201934,
+      "name": "Why Aren't You Suckin' My Dick?",
+      "url": "https://open.spotify.com/track/0DCSchgvashJmjW9JeGoJM"
+    },
+    {
+      "album": {
         "name": "Why Does My Heart Feel So Bad? (feat. Moby)",
         "url": "https://open.spotify.com/album/2Ys0R5iCqnva2gZegSJdtw"
       },
@@ -79611,6 +79859,28 @@
     },
     {
       "album": {
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386020,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"
+    },
+    {
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
       },
@@ -79946,6 +80216,28 @@
       "duration_ms": 136874,
       "name": "Words2LiveBy (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk"
+    },
+    {
+      "album": {
+        "name": "Work Song (Antdot Remix)",
+        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218499,
+      "name": "Work Song - Antdot Remix",
+      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
     },
     {
       "album": {

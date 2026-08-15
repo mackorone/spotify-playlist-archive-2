@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-1,869 songs - 4 day 2 hr 35 min
+1,870 songs - 4 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1312,6 +1312,7 @@
 | [Opinions](https://open.spotify.com/track/15VxsRNr42N3IgJCLkGMQR) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Opinions](https://open.spotify.com/album/0AVpXpicxq7cl81eZtJahB) | 2:20 | 2025-03-07 | 2025-04-04 |
 | [ORIGINAL](https://open.spotify.com/track/2QPQn6u51X7C65wMhRxdTo) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [ORIGINAL](https://open.spotify.com/album/2bW58YVutEuU94SdVRPICO) | 4:55 | 2026-05-08 | 2026-05-22 |
 | [Original God](https://open.spotify.com/track/0sC1T4ka1v6SHtzOOxcQ9H) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [Vic Matt](https://open.spotify.com/artist/4KiK5kPEe3VULgJhEezxuR) | [Original God](https://open.spotify.com/album/4dHgOYIQsZ06uJhMpzGRHp) | 2:53 | 2025-11-28 | 2026-01-15 |
+| [Oruko](https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [God Is Cooking](https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL) | 3:47 | 2026-08-14 |  |
 | [Oshe](https://open.spotify.com/track/5ON74nqAjZj9Arbp29GZdd) | [Treasure Music](https://open.spotify.com/artist/3IB4G9sjyGDgP7CCoCvbRF) | [Oshe](https://open.spotify.com/album/7r5Pyu1cLDlTXyzlMlLP0S) | 2:35 | 2026-05-01 | 2026-06-12 |
 | [Oshey II](https://open.spotify.com/track/4ecO0Ighxw8PCQIzlkIuhO) | [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu) | [Oshey II](https://open.spotify.com/album/2b3KRX9Xmjhh8PlbNtEzEr) | 2:19 | 2026-02-13 | 2026-04-10 |
 | [Other Side](https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Other Side](https://open.spotify.com/album/1JYuc5a6gwcEKBxed4NXaE) | 3:16 | 2023-02-02 | 2023-04-28 |
@@ -1505,6 +1506,7 @@
 | [Sinner](https://open.spotify.com/track/6ZmYqbCv5h7OeV2DD5LYQB) | [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [Sinner](https://open.spotify.com/album/3no1CBQvHtBz4UfW1w4qNg) | 2:45 | 2025-09-12 | 2026-02-06 |
 | [Sinner](https://open.spotify.com/track/3Fv7epIzZCxkToL9x6bFCv) | [SUCCIDO](https://open.spotify.com/artist/4X2aDvqh9z5RcE1ZK0UQoH) | [Sinner](https://open.spotify.com/album/77IS7hYsNwquaiFEjzwnl8) | 2:31 | 2025-05-02 | 2025-06-06 |
 | [Sinner 2 Winner](https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y) | [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j) | [Sinner 2 Winner](https://open.spotify.com/album/1ElsAvq1I2kv4JKdxmqSob) | 2:42 | 2026-08-07 |  |
+| [Sinner Man](https://open.spotify.com/track/3qcr2LsmvsNT0d2825tWdd) | [Emino Music](https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a), [Emino](https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy), [Ama Agbo](https://open.spotify.com/artist/1pTtCVB1Iaq6JYauGxefL5) | [Sinner Man](https://open.spotify.com/album/364fSOkOW2q8Xf4lBCpXdo) | 2:53 | 2026-08-14 |  |
 | [Sinner to saint](https://open.spotify.com/track/26xVCjnvRXyflAqdbP1I6j) | [J Amos](https://open.spotify.com/artist/2LTIZSCIQM0VFGvh9nIOR5), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Sinner to saint](https://open.spotify.com/album/324DHnzpOayepeBKcyF3U1) | 2:51 | 2026-08-07 |  |
 | [Sixolele](https://open.spotify.com/track/77DtZoPVPzsetJnfN7Gzn6) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [Izililo](https://open.spotify.com/album/6thyPQyQMTgLI3TzkRh4GP) | 5:00 | 2023-06-23 | 2023-08-18 |
 | [Smile](https://open.spotify.com/track/2hZBZ90qn3mlCvi0lqDhUQ) | [Favrish](https://open.spotify.com/artist/3s1ZKnwkYA76TmSxqHs22E) | [Smile](https://open.spotify.com/album/78rJYDE9rmkIWfpmapfmsz) | 1:44 | 2025-06-13 | 2025-09-26 |
@@ -1674,7 +1676,6 @@
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
 | [Too Special](https://open.spotify.com/track/2Djud9ytT2Vopulu9UmKk7) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Too Special](https://open.spotify.com/album/737Yr1qi4z6hwtr93ULzl2) | 3:24 | 2023-07-14 | 2023-09-08 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 | 2026-04-10 |
-| [Track 3](https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [God Is Cooking](https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL) | 0:00 | 2026-08-14 |  |
 | [Treasure](https://open.spotify.com/track/2tiJXvCCdGY2UbJOdrYe7M) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Treasure](https://open.spotify.com/album/1eTsRbUS7CUVHWMWHWYRBj) | 2:44 | 2023-02-02 | 2023-03-11 |
 | [Trinity](https://open.spotify.com/track/3j9mH5VzRe2mgaHWuvoccj) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Trinity](https://open.spotify.com/album/6RKJqNo6yI0e2vGXciN7oq) | 2:06 | 2025-04-04 | 2025-06-20 |
 | [Triumphant Entry](https://open.spotify.com/track/1Y0QKC3D9d4b7MvPhIlxls) | [GCAi](https://open.spotify.com/artist/7hXNvWwPypGDier2cVAKFw), [Dee Minor](https://open.spotify.com/artist/41wCdeBWGmu789VYulzdsV) | [Triumphant Entry](https://open.spotify.com/album/7rTPcD1q9nO5Vt5cAzueJg) | 3:00 | 2023-07-21 | 2023-07-28 |

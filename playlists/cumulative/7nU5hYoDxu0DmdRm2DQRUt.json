@@ -8409,6 +8409,28 @@
     },
     {
       "album": {
+        "name": "Sucker DJ",
+        "url": "https://open.spotify.com/album/5ORYiBNutBZm3WRXV9qE4m"
+      },
+      "artists": [
+        {
+          "name": "Kotai",
+          "url": "https://open.spotify.com/artist/0wcsSWrZGdSL6Da4g2NgA2"
+        },
+        {
+          "name": "Marcin Kozlowski",
+          "url": "https://open.spotify.com/artist/7hxxdAHXh5IkJ5ItDVEAMF"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280155,
+      "name": "Sucker DJ - Marcin \"Highfish\" Kozlowski Remix",
+      "url": "https://open.spotify.com/track/6rAqicmRJuDBaPAAye5Xgs"
+    },
+    {
+      "album": {
         "name": "Alien Tropical",
         "url": "https://open.spotify.com/album/29r43W90liJp6anNdBQoq3"
       },
@@ -9088,6 +9110,24 @@
       "duration_ms": 312106,
       "name": "Three 'O Three - Remastered 2021",
       "url": "https://open.spotify.com/track/3LYJw5E4lY8wNpS8Ozbv3T"
+    },
+    {
+      "album": {
+        "name": "Ever Changing EP",
+        "url": "https://open.spotify.com/album/6AtHrdIngrULzxxePoq88C"
+      },
+      "artists": [
+        {
+          "name": "Martinou",
+          "url": "https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450074,
+      "name": "Through You",
+      "url": "https://open.spotify.com/track/5m177lckVUY1AfMXFS9Lb5"
     },
     {
       "album": {

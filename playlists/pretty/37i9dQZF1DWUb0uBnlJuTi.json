@@ -1,13 +1,33 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 420647,
+  "num_followers": 420672,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHSJZUe2z0JxGPuhaFJD37QmIRIv",
+  "snapshot_id": "AAAAAGYs7+RKs1OETAFa7wNWOx56TuyJ",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:00:33",
+      "album": {
+        "name": "Ain't No Dying",
+        "url": "https://open.spotify.com/album/4cgiDXMaGDYPAesCtE4RpJ"
+      },
+      "artists": [
+        {
+          "name": "The Rumble",
+          "url": "https://open.spotify.com/artist/3jHXl1AU6QfHvvySUYfRZB"
+        },
+        {
+          "name": "Big Chief Joseph Boudreaux Jr.",
+          "url": "https://open.spotify.com/artist/58HMcz13KoVMczX5Y4aUSw"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Ain't Your Year",
+      "url": "https://open.spotify.com/track/3TfuOwXKqHht3qzG2z887f"
+    },
     {
       "added_at": "2026-06-26 04:00:12",
       "album": {
@@ -2435,22 +2455,6 @@
       "duration_ms": 270053,
       "name": "Cissy Strut",
       "url": "https://open.spotify.com/track/4eqo4WYx13P7DcyAy0umUN"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "Andromeda Style Fuunk",
-        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
-      },
-      "artists": [
-        {
-          "name": "Wonky Logic",
-          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Andromeda Style Fuunk",
-      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
       "added_at": "2021-04-09 04:01:00",

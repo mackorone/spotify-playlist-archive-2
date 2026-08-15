@@ -233,6 +233,28 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/0A20N0FMFi9YonSQrpJw5p"
+      },
+      "artists": [
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        },
+        {
+          "name": "NiLO.R",
+          "url": "https://open.spotify.com/artist/13E2GSB3yfEeSXbexyoGn2"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/7MTh3jJYMwJoegvWZKV3rF"
+    },
+    {
+      "album": {
         "name": "Algorithm",
         "url": "https://open.spotify.com/album/365zphzquUancMmfLCH0ud"
       },

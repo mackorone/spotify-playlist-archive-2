@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Gunna
 
-891 songs - 1 day 20 hr 44 min
+893 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [JAGGED EDGE](https://open.spotify.com/track/7vPwL4WkrqMCC3XbummsMo) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [SHITUMSS](https://open.spotify.com/album/2ZGsgclVau99YKe4WdtR67) | 2:15 | 2023-05-05 | 2023-09-09 |
 | [Jus' Know](https://open.spotify.com/track/3PbutKhWZwCvV36TMJiNl3) | [BlackMayo](https://open.spotify.com/artist/4lqgnM7106Fmg20NEu4OAH) | [Jus' Know](https://open.spotify.com/album/74DZ6KxieVwYUS0zYVReco) | 2:00 | 2024-08-09 | 2024-11-30 |
 | [JUST FRIENDS ?](https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [JUST FRIENDS ?](https://open.spotify.com/album/7Mr6MY1YddBuV6C8ULWFax) | 2:43 | 2022-12-16 | 2023-04-29 |
+| [Just Like Me \(feat\. Buddy\)](https://open.spotify.com/track/4rUbSgoj5DJLzDRmV1BRP1) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:06 | 2026-08-14 |  |
 | [Just My Type](https://open.spotify.com/track/2gNlXEKVALGg73k51Ord3x) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Just My Type](https://open.spotify.com/album/21yuAJjTiB2TWc1hoH1iKa) | 2:40 | 2026-05-22 | 2026-06-13 |
 | [Just Need Luv](https://open.spotify.com/track/2V8PbxVTwrkik4L20lh1ad) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Built Different](https://open.spotify.com/album/6LtV4LhvhiGwGzVVuXehaB) | 3:35 | 2025-03-14 | 2025-09-27 |
 | [Just Wanna Talk](https://open.spotify.com/track/7dnDXXvHxVrtVPo0HPWZuv) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her 2 \(Deluxe\)](https://open.spotify.com/album/2fRG5C3SgmOjtFJHMbvF9E) | 2:00 | 2025-12-12 | 2026-02-14 |
@@ -805,8 +806,9 @@
 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 | 2022-02-11 | 2022-05-20 |
 | [Up 2 U](https://open.spotify.com/track/3qNSaMXqJxfcvHDw4aSZ0Y) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Notorious](https://open.spotify.com/album/2jFfZQtfv4KzEhIfb2sewo) | 2:45 | 2023-03-31 | 2023-05-06 |
 | [Up And Down](https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 3:04 | 2024-01-12 | 2024-01-27 |
-| [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used 2 Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 | 2025-12-12 |  |
+| [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used 2 Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 | 2025-12-12 | 2026-08-15 |
 | [Uuugly](https://open.spotify.com/track/0T0S3Ue6h1ozJRSu4A4uKs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 1:55 | 2024-06-29 | 2024-10-12 |
+| [Vibe With Me \(feat\. Leon Thomas\)](https://open.spotify.com/track/0zqtucceflE4DfNRFUkASn) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:51 | 2026-08-14 |  |
 | [Voodoo](https://open.spotify.com/track/18zuaZyL4S2MFXJrpZj16q) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [The Big Bang](https://open.spotify.com/album/20pOEJXUCejxsAp14Uuc2e) | 2:42 | 2025-05-23 | 2025-09-06 |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-29 | 2023-04-29 |
 | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 | 2024-06-28 | 2026-02-21 |

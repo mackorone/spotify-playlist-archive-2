@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,689 songs - 10 day 12 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,695 songs - 10 day 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3444,7 +3444,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3434 | [Riot](https://open.spotify.com/track/1XzWPpA77prjKCk1uiAb9Y) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Overdrive](https://open.spotify.com/album/2enRTMrOe25fNz0EtZ3rBp) | 3:15 |
 | 3435 | [Fallen](https://open.spotify.com/track/7rL3uju1dGb33Un6IqK3mO) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Fallen](https://open.spotify.com/album/7JsR93BfyOTZZWplglV6Qk) | 3:53 |
 | 3436 | [Inaffondabile](https://open.spotify.com/track/0xFqxzQpAqfR8aptswwEbg) | [Kronberg](https://open.spotify.com/artist/5E8bDmNrytK8smJiycYFxC), [Ian](https://open.spotify.com/artist/67jmOUMmXY6qY19JcTpBoO), [Antonio Scarola](https://open.spotify.com/artist/5rJ3KiQdDHdC9zY665qvvt) | [Inaffondabile](https://open.spotify.com/album/6QLf25RnPCKBMGwv4wT5wi) | 4:05 |
-| 3437 | [The Fluidifying Time of Life](https://open.spotify.com/track/4KCy07Lg01Xn7s9ieW9gVQ) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:56 |
+| 3437 | [The Fluidifying Time of Life](https://open.spotify.com/track/4KCy07Lg01Xn7s9ieW9gVQ) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE \(Deleted\)](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:56 |
 | 3438 | [Autofagia, Pt\. 2](https://open.spotify.com/track/0wknjNMTOBMRd1he53im4Q) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Midnight Star](https://open.spotify.com/album/1ikJ7Zzbj0fdGd6375nlKX) | 1:54 |
 | 3439 | [dack](https://open.spotify.com/track/4qlWjCMKFWZzxLMzKGv32s) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 5:29 |
 | 3440 | [Face Your Fears](https://open.spotify.com/track/3DOzXmIe505xcIsM6NgQPE) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Face Your Fears](https://open.spotify.com/album/0gha59Ce5NjojEk5VT3Qu8) | 3:33 |
@@ -3935,8 +3935,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3925 | [Рыжая девочка\-осень](https://open.spotify.com/track/4H7o6gTT8S1PoK5xsHAWCR) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень](https://open.spotify.com/album/4K91LPYMgFjWnGBalCGnRO) | 2:23 |
 | 3926 | [The Manner \- Radio Edit](https://open.spotify.com/track/5mQ5DH4DNGIZVewsYWx1m0) | [Andrew Kyo](https://open.spotify.com/artist/5MvGQrQKlFh9s2yj4EQpy6) | [The Manner \(Radio Edit\)](https://open.spotify.com/album/1tWiNiFBR4hniuK2GO39bv) | 2:36 |
 | 3927 | [Disco Light](https://open.spotify.com/track/6jg76RE52fs2f0ICliMz9G) | [Theodore Starlight](https://open.spotify.com/artist/6f5Bel1SJLeS13S0fGW88l) | [Disco Light](https://open.spotify.com/album/2eULjBBnGKaOYkTMybrpk0) | 2:29 |
-| 3928 | [from dolmen to stonehange](https://open.spotify.com/track/0poo3sN4FFTp8ESe8Rnphw) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 |
-| 3929 | [Sweet Street of Life](https://open.spotify.com/track/3YLQhaDt3OgH4nZ6Yw0R0c) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:40 |
+| 3928 | [from dolmen to stonehange](https://open.spotify.com/track/0poo3sN4FFTp8ESe8Rnphw) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE \(Deleted\)](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 |
+| 3929 | [Sweet Street of Life](https://open.spotify.com/track/3YLQhaDt3OgH4nZ6Yw0R0c) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE \(Deleted\)](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:40 |
 | 3930 | [Kēr](https://open.spotify.com/track/5g29iKtdGonCnt4we4wkLJ) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 5:26 |
 | 3931 | [LOADSTONE \- SINGOLO](https://open.spotify.com/track/2yLJnJl5fZWU1r5AUkNiBl) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [LOADSTONE \(SINGOLO\)](https://open.spotify.com/album/1Cx5pyhdifjYwPVZESXdJT) | 3:23 |
 | 3932 | [Japanese](https://open.spotify.com/track/6yS6RxFQO2ZifnjxxUPKC1) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 2:16 |
@@ -4011,12 +4011,12 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4001 | [ROULETTE DELL'ANIMA](https://open.spotify.com/track/0okook1MZEpjzb0aLbgV4p) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [UNA DANZA SENZA FINE](https://open.spotify.com/album/240vYhl7VOgdme2OPuIRmq) | 2:00 |
 | 4002 | [BLUES TIL'S DIE AGAIN](https://open.spotify.com/track/6uqW0WkBBMYZ5Kzwe94i6t) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:18 |
 | 4003 | [RE\-EVOLUTION](https://open.spotify.com/track/4mvjLwWfW504MRhiKN4gVg) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:59 |
-| 4004 | [Moon Landing](https://open.spotify.com/track/4CasBxOqXSxc8Xnh11xMwk) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:28 |
+| 4004 | [Moon Landing](https://open.spotify.com/track/4CasBxOqXSxc8Xnh11xMwk) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE \(Deleted\)](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:28 |
 | 4005 | [ROAD](https://open.spotify.com/track/2tpqKkcrUaJRzSlXAjpitm) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:59 |
 | 4006 | [ROAD](https://open.spotify.com/track/2tpqKkcrUaJRzSlXAjpitm) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:59 |
-| 4007 | [Return to Yogi](https://open.spotify.com/track/28oTOe1doPv1CHsTrsHK5e) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 |
-| 4008 | [Dancing in the Moonlight](https://open.spotify.com/track/19leo414npKaQzlEwDizRm) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 |
-| 4009 | [camel](https://open.spotify.com/track/0ZJ0v5iMNNnrW0OjTft0Ne) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:14 |
+| 4007 | [Return to Yogi](https://open.spotify.com/track/28oTOe1doPv1CHsTrsHK5e) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE \(Deleted\)](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 |
+| 4008 | [Dancing in the Moonlight](https://open.spotify.com/track/19leo414npKaQzlEwDizRm) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE \(Deleted\)](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 |
+| 4009 | [camel](https://open.spotify.com/track/0ZJ0v5iMNNnrW0OjTft0Ne) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE \(Deleted\)](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:14 |
 | 4010 | [Cavaliere mascherato](https://open.spotify.com/track/4zfwZXjlzjbLOZMfzk3SUy) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Affetti d'aerofagismo](https://open.spotify.com/album/5WquDWAAfgcnVTRM5m1CUG) | 2:28 |
 | 4011 | [Jamaicanrootz](https://open.spotify.com/track/0X8yvZymeAMDIopIwPbs2H) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Affetti d'aerofagismo](https://open.spotify.com/album/5WquDWAAfgcnVTRM5m1CUG) | 2:46 |
 | 4012 | [Il ritorno dei morti di sonno](https://open.spotify.com/track/4Cmawu5wdiKC5zfQ35NXHl) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Affetti d'aerofagismo](https://open.spotify.com/album/5WquDWAAfgcnVTRM5m1CUG) | 2:50 |
@@ -4697,5 +4697,11 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4687 | [Circle](https://open.spotify.com/track/1ZAaAQIEdyjVsLksHQ4OsF) | [I](https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR) | [volume 1](https://open.spotify.com/album/32rJQIOwi05ntcM63HrBMv) | 3:54 |
 | 4688 | [Desde Que Te Vi](https://open.spotify.com/track/7fxlAkBJCSOt7DbzQmcNgU) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Desde Que Te Vi](https://open.spotify.com/album/3EkwZkINxtxuouw9GX8yJ3) | 4:16 |
 | 4689 | [Riempimi la vita](https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Riempimi la vita](https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH) | 4:20 |
+| 4690 | [Fooled Everyone](https://open.spotify.com/track/5JV7UAUrpHy6SHKq8D9o88) | [Bryan Lewis](https://open.spotify.com/artist/0KKg3KrymETIdwBBYBNuIK) | [Fooled Everyone](https://open.spotify.com/album/7qr5gQ3VmqZDD4mndyvHgJ) | 3:00 |
+| 4691 | [Against Yourself](https://open.spotify.com/track/0H8MRU1CdI9TOdlXSNn2r6) | [Richard Green](https://open.spotify.com/artist/5ZMNSlmvEo9xyBSCK7yK1w) | [Against Yourself](https://open.spotify.com/album/1ZMOGdQvMBLzsl6HzKeoIN) | 5:43 |
+| 4692 | [that's where](https://open.spotify.com/track/78pngEJ748zINfLQrGLpGR) | [The Nervous System](https://open.spotify.com/artist/2ZQbmG7v2kk8U0QK93lCyw) | [The Third One](https://open.spotify.com/album/1spAeWlBkcDz1kpC3jkLAg) | 1:13 |
+| 4693 | [Days Kiss](https://open.spotify.com/track/0XQmqofQk9jTnHwygHlJNi) | [Me El\-Ma](https://open.spotify.com/artist/4nkizWkZC2gL1bVWrvdZqg) | [Days Kiss](https://open.spotify.com/album/5elC9eaZmE9Bhh04RzHXC0) | 5:08 |
+| 4694 | [One More For The Road](https://open.spotify.com/track/0kPJMGW3CYsEcT2C5Admnt) | [The Ruins](https://open.spotify.com/artist/6UGANrLJliRxIcRpn4JGFj), [Rob Lundgren](https://open.spotify.com/artist/3CXPg5iixXzuMX1RUhd7Ni), [Brad Henderson](https://open.spotify.com/artist/1GdjlceK7vw8n7e0KNvBB8) | [One More For The Road](https://open.spotify.com/album/62pkpoMOXZuvJpcO57kzwf) | 3:55 |
+| 4695 | [La Danza Tra Le Stelle](https://open.spotify.com/track/04eDPEZfftV5YjD8z8s74q) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [di sirene](https://open.spotify.com/album/6Tlfu8XHQgn058q8vBYPig) | 1:57 |
 
-Snapshot ID: `AAAJqKdxV8ZBxD6joUjPHst4hnJXPH2A`
+Snapshot ID: `AAAJrm42Eo9eUc9Wbwv8/Sxw5FZAx9zL`

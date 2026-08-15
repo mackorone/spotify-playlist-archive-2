@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Eileen Noise, Mia Morris and more",
+  "description": "With Die Mannequin, Jinx & The Royals, Eileen Noise and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 215573,
       "name": "Alien",
       "url": "https://open.spotify.com/track/7EPaIKwdpufGE5dtGsVOhh"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 181613,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 203440,
       "name": "Blame Myself",
       "url": "https://open.spotify.com/track/011cR0KrGQqu7xyLDGNBav"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 227693,
       "name": "Breakdown Love",
       "url": "https://open.spotify.com/track/0iPggvigBtlcgfD7q26tWR"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 174093,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7iT3p4EKVOjUohTul7aDf4"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 176229,
       "name": "DON'T TELL BOMBSHELL",
       "url": "https://open.spotify.com/track/758jBrA6BmGdCv0jFlTRZw"
@@ -3024,6 +3024,24 @@
       "duration_ms": 197320,
       "name": "Don't You Wanna Feel",
       "url": "https://open.spotify.com/track/2MxvlboakUTeqVPamhUNcM"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Stop the Music (Guitar TikTok Version)",
+        "url": "https://open.spotify.com/album/3ZJHoT1FRJTqv0qR80g2cs"
+      },
+      "artists": [
+        {
+          "name": "Ritemax",
+          "url": "https://open.spotify.com/artist/1vu0z3O5L0iCRW35DPQZCU"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136642,
+      "name": "Don\u2019t Stop the Music - Guitar TikTok Version",
+      "url": "https://open.spotify.com/track/3blj1thvlo9s2CfnBAXgDM"
     },
     {
       "album": {
@@ -3110,7 +3128,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 211140,
       "name": "Drown",
       "url": "https://open.spotify.com/track/6XEmxbPWZN7JbZ230dPLkX"
@@ -3416,7 +3434,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 270535,
       "name": "Find what you would die for",
       "url": "https://open.spotify.com/track/6gkbpDvy20VvSSafVCN5Ws"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 232621,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 259826,
       "name": "Fresh Kicks",
       "url": "https://open.spotify.com/track/7l7pCBvqoCbtA6kzi55QUQ"
@@ -3914,7 +3932,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 195146,
       "name": "Fuck You 2",
       "url": "https://open.spotify.com/track/3lOMHsQnZ5E6XXqz8fEMPD"
@@ -4148,7 +4166,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 145454,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/2sKjgZiOUGoiflC6eo1UPg"
@@ -4400,7 +4418,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -4508,7 +4526,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 244371,
       "name": "Heartbreakin' woman",
       "url": "https://open.spotify.com/track/6z7teyNlfVhzaGwr5zSaHx"
@@ -5200,7 +5218,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 166588,
       "name": "I DONT WANT YOU",
       "url": "https://open.spotify.com/track/17VL4zOgpjUG8vL5zGpNoE"
@@ -5586,7 +5604,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -5889,6 +5907,24 @@
     },
     {
       "album": {
+        "name": "Keep Diggin",
+        "url": "https://open.spotify.com/album/7zmCmS7cWrQWWDRQ7dz8VY"
+      },
+      "artists": [
+        {
+          "name": "Mia Morris",
+          "url": "https://open.spotify.com/artist/2H62q6PF7z71FxZxACxg7H"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159944,
+      "name": "Keep Diggin",
+      "url": "https://open.spotify.com/track/2e1L8kmgviwZ1mcgqWsoxC"
+    },
+    {
+      "album": {
         "name": "Diamonds & Studs",
         "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
       },
@@ -5900,7 +5936,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -5972,7 +6008,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -6134,7 +6170,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -7158,7 +7194,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -7176,7 +7212,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -7342,7 +7378,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 208375,
       "name": "My Size",
       "url": "https://open.spotify.com/track/5JA4gqlKDV5BeVdI6g3eEs"
@@ -7504,7 +7540,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 213387,
       "name": "New Horizon",
       "url": "https://open.spotify.com/track/3uFjJRJWU09gRAlrlfHoQq"
@@ -7522,7 +7558,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 202499,
       "name": "New Shirt",
       "url": "https://open.spotify.com/track/7Kf3bAUkl2zZpQGqaSptGz"
@@ -7810,7 +7846,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 209806,
       "name": "NOVA KANE",
       "url": "https://open.spotify.com/track/1Phkau8vCW6HUUfRWrqOy7"
@@ -8156,7 +8192,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 180204,
       "name": "Only When She\u2019s Gone",
       "url": "https://open.spotify.com/track/0ONgDTF3scHkuLiB5Ohmtv"
@@ -8905,6 +8941,24 @@
     },
     {
       "album": {
+        "name": "Red Eye",
+        "url": "https://open.spotify.com/album/38g0dwQuJnaTkHoFwf7osA"
+      },
+      "artists": [
+        {
+          "name": "Jay Rin",
+          "url": "https://open.spotify.com/artist/0AVk53slaI6dtaj9qMYB8p"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Red Eye",
+      "url": "https://open.spotify.com/track/4RbCGFgJCYOHGE3EczxpAa"
+    },
+    {
+      "album": {
         "name": "Reves en pixels",
         "url": "https://open.spotify.com/album/6b7ZRIbgGlPqIbej2eorAk"
       },
@@ -9024,7 +9078,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 263746,
       "name": "Rock'n' Roll tonight",
       "url": "https://open.spotify.com/track/6THswMu9UxQRarm4MW2iKK"
@@ -9168,7 +9222,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 258251,
       "name": "Satisfy Your Queen",
       "url": "https://open.spotify.com/track/5QtOWorbdAvulCkjmy7ZTk"
@@ -9222,7 +9276,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 181124,
       "name": "SCHIZOPHRENIA",
       "url": "https://open.spotify.com/track/2dZIg1wj1BIxdzfwVoeg8K"
@@ -9886,7 +9940,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -10070,7 +10124,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -10398,7 +10452,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 164500,
       "name": "The Longest Time",
       "url": "https://open.spotify.com/track/5wemf1fpNRhbo18p6t8fL2"
@@ -10946,7 +11000,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 160732,
       "name": "Twenty Seven",
       "url": "https://open.spotify.com/track/6Y9nBNxMRXwL0JYvjsKbTN"
@@ -11234,7 +11288,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 115480,
       "name": "Watch Me Move",
       "url": "https://open.spotify.com/track/0E70YerfAQ1gbc6f7P2qdC"
@@ -11886,7 +11940,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 224811,
       "name": "Your Ex-Girlfriend",
       "url": "https://open.spotify.com/track/3RPjiDsKLrzcNRAYUCnKPa"

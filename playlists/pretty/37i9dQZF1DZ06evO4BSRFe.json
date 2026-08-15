@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 70589,
+  "num_followers": 70599,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAACfHqq/77jRypDYA4pAvoCQ",
+  "snapshot_id": "an0JAAAAAACxszvb40Sm7W/h7dytosL5",
   "tracks": [
     {
       "added_at": null,
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Est\u00e1s Seleccionada",
-        "url": "https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7"
+        "name": "A Capa y Espada",
+        "url": "https://open.spotify.com/album/7LA0pBjRzz4A623ZAaZbAT"
       },
       "artists": [
         {
           "name": "Banda Machos",
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        },
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "duration_ms": 176093,
-      "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
-      "url": "https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH"
+      "duration_ms": 271250,
+      "name": "A Capa y Espada",
+      "url": "https://open.spotify.com/track/4g8IpeTFKxoDYIIPBu4Dv8"
     }
   ],
   "unique_name": "This Is Banda Machos",

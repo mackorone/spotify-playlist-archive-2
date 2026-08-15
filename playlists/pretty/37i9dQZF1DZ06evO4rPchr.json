@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAABt0cdA5k15Y8AUAiHaaUat",
+  "snapshot_id": "an0JAAAAAACl+XEWnwro6uaYsQaQNFWS",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friend Remixes",
-        "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS"
-      },
-      "artists": [
-        {
-          "name": "james K",
-          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
-        },
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 313129,
-      "name": "Collapse (falling forward blissfully all the time) - Arushi Jain Remix",
-      "url": "https://open.spotify.com/track/2MO4UiXSVt3Ds2w3yRWG2J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rodeo (Arushi Jain Remix)",
         "url": "https://open.spotify.com/album/0QaWQ33MZ5BuP6GonYL6pp"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 269979,
       "name": "Rodeo - Arushi Jain Remix",
       "url": "https://open.spotify.com/track/4O8D6ssQOK96agfwg9kBR7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friend Remixes",
+        "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS"
+      },
+      "artists": [
+        {
+          "name": "james K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        },
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 313129,
+      "name": "Collapse (falling forward blissfully all the time) - Arushi Jain Remix",
+      "url": "https://open.spotify.com/track/2MO4UiXSVt3Ds2w3yRWG2J"
     },
     {
       "added_at": null,
@@ -144,78 +144,6 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 371917,
-      "name": "Infinite Delight",
-      "url": "https://open.spotify.com/track/6wdWROeCaDYr9nJTglF2P3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Under the Lilac Sky",
-        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 548276,
-      "name": "Look How Far We Have Come",
-      "url": "https://open.spotify.com/track/5ojTfqCXRgGYCEgldgxAIb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sense of Self (Spontaneous Affinity Compilation) [When the Rave Is Not Enough]",
-        "url": "https://open.spotify.com/album/4BOKWN099uCyyWwEVt71qN"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
-        }
-      ],
-      "duration_ms": 456409,
-      "name": "Sense of Self (Spontaneous Affinity Compilation) [When the Rave Is Not Enough]",
-      "url": "https://open.spotify.com/track/2ftmqwDWQff7j0vSba3B0a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With & Without",
-        "url": "https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
-        }
-      ],
-      "duration_ms": 698479,
-      "name": "I Feel Incomplete Without Sound",
-      "url": "https://open.spotify.com/track/6NfGbV2WnS5yv2y5Um4u6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
       "duration_ms": 207042,
       "name": "Imagine An Orchestra",
       "url": "https://open.spotify.com/track/4msagC3KOrVzslYGCCiGeq"
@@ -232,9 +160,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 594500,
-      "name": "The Sun Swirls Within You",
-      "url": "https://open.spotify.com/track/6F51yoqVfFpHfLKBlsYd6b"
+      "duration_ms": 548276,
+      "name": "Look How Far We Have Come",
+      "url": "https://open.spotify.com/track/5ojTfqCXRgGYCEgldgxAIb"
     },
     {
       "added_at": null,
@@ -259,6 +187,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sense of Self (Spontaneous Affinity Compilation) [When the Rave Is Not Enough]",
+        "url": "https://open.spotify.com/album/4BOKWN099uCyyWwEVt71qN"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
+        }
+      ],
+      "duration_ms": 456409,
+      "name": "Sense of Self (Spontaneous Affinity Compilation) [When the Rave Is Not Enough]",
+      "url": "https://open.spotify.com/track/2ftmqwDWQff7j0vSba3B0a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 371917,
+      "name": "Infinite Delight",
+      "url": "https://open.spotify.com/track/6wdWROeCaDYr9nJTglF2P3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under the Lilac Sky",
+        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 594500,
+      "name": "The Sun Swirls Within You",
+      "url": "https://open.spotify.com/track/6F51yoqVfFpHfLKBlsYd6b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "With & Without",
         "url": "https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo"
       },
@@ -275,6 +255,22 @@
       "duration_ms": 546526,
       "name": "Is It Love?",
       "url": "https://open.spotify.com/track/1IbaY2RFLJvbWuSr14IEoe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "connected #1",
+        "url": "https://open.spotify.com/album/0q9qcP8x7bZO8W2gwGbYJm"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 412636,
+      "name": "Moksha",
+      "url": "https://open.spotify.com/track/4hWiRXQbDM5hRvxZnqWWDY"
     },
     {
       "added_at": null,
@@ -311,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "connected #1",
-        "url": "https://open.spotify.com/album/0q9qcP8x7bZO8W2gwGbYJm"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 412636,
-      "name": "Moksha",
-      "url": "https://open.spotify.com/track/4hWiRXQbDM5hRvxZnqWWDY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "With & Without",
         "url": "https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo"
       },
@@ -340,9 +320,29 @@
           "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 645346,
-      "name": "Drown Out the Noise With Your Silence",
-      "url": "https://open.spotify.com/track/2hbHQ6sI7bn90uEkTmY3Yt"
+      "duration_ms": 698479,
+      "name": "I Feel Incomplete Without Sound",
+      "url": "https://open.spotify.com/track/6NfGbV2WnS5yv2y5Um4u6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just a Feeling",
+        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
+        }
+      ],
+      "duration_ms": 329363,
+      "name": "Shanti",
+      "url": "https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just a Feeling",
-        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
-        }
-      ],
-      "duration_ms": 329363,
-      "name": "Shanti",
-      "url": "https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "With & Without",
         "url": "https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo"
       },
@@ -419,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just a Feeling",
+        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
+        }
+      ],
+      "duration_ms": 416266,
+      "name": "Cio",
+      "url": "https://open.spotify.com/track/1aoTgLHC5Rj16TGwZA8N5s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Delight",
         "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
       },
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 294654,
-      "name": "A Portal To Silver Linings",
-      "url": "https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ"
+      "duration_ms": 308876,
+      "name": "Our Touching Tongues",
+      "url": "https://open.spotify.com/track/6kxfTvXxAavxxRQnV2uoPP"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just a Feeling",
-        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
+        "name": "With & Without",
+        "url": "https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 416266,
-      "name": "Cio",
-      "url": "https://open.spotify.com/track/1aoTgLHC5Rj16TGwZA8N5s"
+      "duration_ms": 645346,
+      "name": "Drown Out the Noise With Your Silence",
+      "url": "https://open.spotify.com/track/2hbHQ6sI7bn90uEkTmY3Yt"
     },
     {
       "added_at": null,

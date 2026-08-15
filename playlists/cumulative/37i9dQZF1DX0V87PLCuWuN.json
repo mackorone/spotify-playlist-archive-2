@@ -597,6 +597,28 @@
     },
     {
       "album": {
+        "name": "My Brilliant Career (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1yuvQaM7IxDZsYafcieR3v"
+      },
+      "artists": [
+        {
+          "name": "Francois Tetaz",
+          "url": "https://open.spotify.com/artist/7fQE2pNpv3iu4h7vBE2Ujy"
+        },
+        {
+          "name": "Molly Lewis",
+          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112086,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/14CzKQSidrITeGBVWe2DIv"
+    },
+    {
+      "album": {
         "name": "Brahms: Symphony No. 2 - Hungarian Dances",
         "url": "https://open.spotify.com/album/1pXqJav1LMqYQISqumOazA"
       },
@@ -794,6 +816,40 @@
       "duration_ms": 170980,
       "name": "Joshua Tree",
       "url": "https://open.spotify.com/track/79vwMneIe2s2Fu2bcnytv2"
+    },
+    {
+      "album": {
+        "name": "Verdi: La forza del destino: Son giunta! \u2013 Madre pietosa vergine",
+        "url": "https://open.spotify.com/album/3RaixL1q7EX9oTSzVw71fs"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Lise Davidsen",
+          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
+        },
+        {
+          "name": "Apollo Voices",
+          "url": "https://open.spotify.com/artist/2qzv3PmWtIAcLFAWVsrw0N"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Edward Gardner",
+          "url": "https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368946,
+      "name": "La forza del destino, Act II: Son giunta! \u2013 Madre pietosa vergine",
+      "url": "https://open.spotify.com/track/6Or4kMgx0LBzLXWzIZTzLh"
     },
     {
       "album": {

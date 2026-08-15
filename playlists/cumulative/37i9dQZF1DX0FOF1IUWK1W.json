@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Julliany Souza o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": " Murilo Huff, Matheus Fernandes o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -7929,6 +7929,24 @@
     },
     {
       "album": {
+        "name": "Louca de Saudade",
+        "url": "https://open.spotify.com/album/3F9jUoykqtz4OelTXFd2N5"
+      },
+      "artists": [
+        {
+          "name": "Pedro e Benicio",
+          "url": "https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Lembran\u00e7a Boa",
+      "url": "https://open.spotify.com/track/34Kc1t0lNHHH0OYIvFCWFh"
+    },
+    {
+      "album": {
         "name": "Lembrei de Tu",
         "url": "https://open.spotify.com/album/088pxvJGLblIFVW4PL95Zq"
       },
@@ -11972,12 +11990,12 @@
           "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
           "name": "Mc IG",
           "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
         }
       ],
       "date_added": "2026-07-03",
@@ -12724,6 +12742,28 @@
       "duration_ms": 163674,
       "name": "Ponto G",
       "url": "https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj"
+    },
+    {
+      "album": {
+        "name": "POR A\u00cd",
+        "url": "https://open.spotify.com/album/7oxea6o25CZCKVfAKsAo1N"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "POR A\u00cd",
+      "url": "https://open.spotify.com/track/1ocTWahzsZ73RWU0fSyAYs"
     },
     {
       "album": {
@@ -14226,7 +14266,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 160634,
       "name": "Saudade Proibida - Ao Vivo",
       "url": "https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7"
@@ -16504,7 +16544,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/6tUdNbB9aYbX0sUDXOzX1u"

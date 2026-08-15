@@ -1,13 +1,33 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 137994,
+  "num_followers": 138026,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADtQ3yitEgVPfa4gJeA2bKBAlx7U",
+  "snapshot_id": "AAAAANOeGb8xUUxEfQx56adcy47lHCZ9",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:01:18",
+      "album": {
+        "name": "Blow My Phone Up",
+        "url": "https://open.spotify.com/album/2k5usN7A7aCd8yfTx0ly5a"
+      },
+      "artists": [
+        {
+          "name": "SadBoyProlific",
+          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
+        },
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "duration_ms": 145945,
+      "name": "Blow My Phone Up",
+      "url": "https://open.spotify.com/track/4iPCKLD1yt00BeHOOV7Ica"
+    },
     {
       "added_at": "2026-07-31 04:00:56",
       "album": {
@@ -79,34 +99,6 @@
       "duration_ms": 154413,
       "name": "Bluffin' (with The Kid LAROI)",
       "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
-    },
-    {
-      "added_at": "2026-06-05 04:00:44",
-      "album": {
-        "name": "lines",
-        "url": "https://open.spotify.com/album/2qgQUPBiSrChkNcRwR6ekZ"
-      },
-      "artists": [
-        {
-          "name": "SadBoyProlific",
-          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
-        },
-        {
-          "name": "4ever Falling",
-          "url": "https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG"
-        },
-        {
-          "name": "juli",
-          "url": "https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV"
-        },
-        {
-          "name": "Love Matt",
-          "url": "https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "lines",
-      "url": "https://open.spotify.com/track/0jIumJVNnlT1Cft1UqLIzq"
     },
     {
       "added_at": "2025-11-14 05:00:27",

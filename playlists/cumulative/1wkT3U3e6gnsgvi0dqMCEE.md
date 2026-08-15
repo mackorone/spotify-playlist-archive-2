@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-471 songs - 1 day 7 hr 17 min
+474 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Crypto](https://open.spotify.com/track/5Qv7Gt0VTcd5dEDdrQNv1d) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Crypto](https://open.spotify.com/album/5UWKGZ565Ym8XMgnWALXFZ) | 2:40 | 2026-07-17 |  |
 | [Crystals](https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:03 | 2023-10-16 | 2024-05-24 |
 | [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:00 | 2023-10-16 | 2024-05-24 |
+| [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2026-08-14 |  |
 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 | 2024-05-23 |  |
 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 | 2023-10-16 | 2024-05-24 |
 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-03-27 |  |
@@ -151,6 +152,7 @@
 | [Garden Road \- Live At Agora Ballroom, Cleveland, Ohio \- 8/26/1974](https://open.spotify.com/track/0h4YOaLxD0nrfcuj8JrfNh) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Garden Road \(Live At Agora Ballroom, Cleveland, Ohio \- 8/26/1974\)](https://open.spotify.com/album/7lgXlFQPnTVVj0H6olLKZF) | 3:03 | 2025-01-31 |  |
 | [Get Back \- 2021 Mix](https://open.spotify.com/track/47qD4mGcc6cS4PbkvoIcy9) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Super Deluxe\)](https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V) | 3:08 | 2024-05-23 |  |
 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 | 2024-06-21 |  |
+| [Get Happy / Happy Days Are Here Again](https://open.spotify.com/track/6m1pWOTAnh0awBNK16JPsc) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Get Happy / Happy Days Are Here Again](https://open.spotify.com/album/24uIJgDrRluQ7Y2LOTc2EW) | 2:15 | 2026-08-14 |  |
 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 | 2023-10-16 | 2024-05-24 |
 | [Give It To Me 2025](https://open.spotify.com/track/4NnFdCD1ZyZVe6yvwPcyGe) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Give It To Me 2025](https://open.spotify.com/album/3NdkhaYtmYhEIRkTw6r7lS) | 2:41 | 2025-07-18 |  |
 | [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 | 2026-03-06 |  |
@@ -178,6 +180,7 @@
 | [Hot Stuff \- 2025 Mix](https://open.spotify.com/track/7ipboYEvozVLj6REga45t0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Stuff \(2025 Mix\)](https://open.spotify.com/album/5s3t03DbEfL9vKRxcw8MPK) | 5:22 | 2025-10-17 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-05-31 |  |
 | [How Do You Keep The Music Playing? \- Bob Florence Arrangement \- 5/17/84](https://open.spotify.com/track/5vXfb0UVQxUou3HKzlpLnR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [How Do You Keep The Music Playing? \(Bob Florence Arrangement \- 5/17/84\)](https://open.spotify.com/album/5ycDfRCnEIM1cHh6IU69PN) | 3:54 | 2024-09-06 |  |
+| [Human \(feat\. Jon Hopkins\) \- Sad Gay Version](https://open.spotify.com/track/3bVFS7hCCgwqmkCeVpxVZc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Human \(feat\. Jon Hopkins\) \[Sad Gay Version\]](https://open.spotify.com/album/4mv0k5VhGDcbq3FCwVZoS5) | 3:55 | 2026-08-14 |  |
 | [Hungry Freaks, Daddy](https://open.spotify.com/track/3Zwcr6lymZaeTXtEMxlfXA) | [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [Freak Out!](https://open.spotify.com/album/6qfS5de8GAy1G5tk7tyiof) | 3:30 | 2026-08-01 |  |
 | [Hungry Freaks, Daddy \- 1966 Mono Mix](https://open.spotify.com/track/6Rgktxr6PvjqnAsotRGGN3) | [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL), [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hungry Freaks, Daddy \(1966 Mono Mix\)](https://open.spotify.com/album/05WtfV8JrQfObyPJL0DPCQ) | 3:30 | 2026-08-07 |  |
 | [Hurt \(with Jelly Roll\)](https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hurt \(with Jelly Roll\)](https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3) | 2:36 | 2024-11-22 |  |

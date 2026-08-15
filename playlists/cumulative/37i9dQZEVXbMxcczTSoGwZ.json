@@ -12372,7 +12372,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 173851,
       "name": "Espanja Blessaa",
       "url": "https://open.spotify.com/track/2S4ZDdDcYkkl0h7a7hBSMW"
@@ -23412,7 +23412,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 261706,
       "name": "Kaikki H\u00e4ipyy, On Vain Nyt - Remastered",
       "url": "https://open.spotify.com/track/1YMaWuMeVj0vEuPGYJKwi6"
@@ -39868,7 +39868,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 284853,
       "name": "N\u00e4in Kulutan Aikaa - Remastered",
       "url": "https://open.spotify.com/track/0C6xsBf7j9PTkOnKt9X3Y2"
@@ -55043,6 +55043,24 @@
     },
     {
       "album": {
+        "name": "WEB",
+        "url": "https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Tahdon",
+      "url": "https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae"
+    },
+    {
+      "album": {
         "name": "Tahdon rakastella sinua (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/2JPj6V2mtr2DNOYIrJ2HQE"
       },
@@ -57496,7 +57514,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 163777,
       "name": "Toivottavasti",
       "url": "https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX"
@@ -63884,6 +63902,24 @@
       "duration_ms": 185064,
       "name": "V\u00e4\u00e4rinymm\u00e4rretty",
       "url": "https://open.spotify.com/track/7tAKbuJfJItZFm0QADXqCR"
+    },
+    {
+      "album": {
+        "name": "V\u00e4\u00e4r\u00e4 nainen",
+        "url": "https://open.spotify.com/album/2Xkg1wjQyp1x92rb9wLz8T"
+      },
+      "artists": [
+        {
+          "name": "Ida",
+          "url": "https://open.spotify.com/artist/2Jfsm2UQsgIpyfnksNNIzj"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195775,
+      "name": "V\u00e4\u00e4r\u00e4 nainen",
+      "url": "https://open.spotify.com/track/3FeIpGFzEsR2rmPR0ZjPrJ"
     },
     {
       "album": {

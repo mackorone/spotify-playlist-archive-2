@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Roy Woods from Brampton, ON.",
+  "description": "Your guide to R&B in Canada, with THEHONESTGUY from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 134394,
       "name": "Always Knew",
       "url": "https://open.spotify.com/track/5uhVaXrNbsQ09kSasfy6mI"
@@ -5233,6 +5233,28 @@
     },
     {
       "album": {
+        "name": "Close To you",
+        "url": "https://open.spotify.com/album/3Kt3M0xhdeGcdlzLJj6lmB"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        },
+        {
+          "name": "C The Reason",
+          "url": "https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189769,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/06oM7R6y5fziLxhjPyvclN"
+    },
+    {
+      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/2apQfqyFh5uEvAL8afyPEK"
       },
@@ -5944,7 +5966,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 190465,
       "name": "Craving",
       "url": "https://open.spotify.com/track/3W20jmVQZaiCnmVN9qsxDn"
@@ -13241,6 +13263,28 @@
     },
     {
       "album": {
+        "name": "HABIBTI",
+        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144901,
+      "name": "I'm Spent (feat. Loe Shimmy)",
+      "url": "https://open.spotify.com/track/0SeTP12t4EwBJ6zsjHn9Wa"
+    },
+    {
+      "album": {
         "name": "I'm Still Thinking",
         "url": "https://open.spotify.com/album/0eKxu5NJRkKWRw04qxxjL3"
       },
@@ -15693,7 +15737,7 @@
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 198948,
+      "duration_ms": 201000,
       "name": "LET ME GO",
       "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
     },
@@ -23474,7 +23518,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 195693,
       "name": "Remember us",
       "url": "https://open.spotify.com/track/68cWBpjuYI3QGzVbD1PCP5"
@@ -26514,6 +26558,28 @@
       "duration_ms": 161584,
       "name": "Something",
       "url": "https://open.spotify.com/track/7meoGGpPJ24LwtIxvzTpfI"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218682,
+      "name": "SOMETHING ABOUT YOU",
+      "url": "https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt"
     },
     {
       "album": {
@@ -30116,7 +30182,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 120000,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/2xhEFKl1Zfn3rtFpVrfSkY"

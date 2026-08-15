@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Applause",
+        "url": "https://open.spotify.com/album/7mYlLHYVsgjlrAlozK7cwu"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/4r6XgerXxg41GLq2cvGD6N"
+    },
+    {
+      "album": {
         "name": "The Space Between",
         "url": "https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs"
       },

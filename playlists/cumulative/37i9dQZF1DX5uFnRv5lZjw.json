@@ -527,6 +527,28 @@
     },
     {
       "album": {
+        "name": "Eira (Viola Version)",
+        "url": "https://open.spotify.com/album/6FHMmyWQcM2w6RfNTDKHbR"
+      },
+      "artists": [
+        {
+          "name": "Noel Toms",
+          "url": "https://open.spotify.com/artist/3k4ieeq8zZ9g68p2Uj7qwD"
+        },
+        {
+          "name": "Pavel Matckevich",
+          "url": "https://open.spotify.com/artist/09szr8X85M2KR6TM1zXjZN"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189454,
+      "name": "Eira - Viola Version",
+      "url": "https://open.spotify.com/track/3O88gxc24hPN0TSsUKV0Oo"
+    },
+    {
+      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/4Veqj4ATJBFYcrGMig7O38"
       },
@@ -1266,6 +1288,24 @@
       "duration_ms": 130000,
       "name": "Moment In Time",
       "url": "https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM"
+    },
+    {
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/2KIkmpPEHrafDglpK2o27q"
+      },
+      "artists": [
+        {
+          "name": "Flian",
+          "url": "https://open.spotify.com/artist/2zRtU0pBKJEvw0xx0dIyvq"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153158,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/2QLrMoBvIWvrRyVZNnUuGM"
     },
     {
       "album": {
@@ -2094,6 +2134,24 @@
       "duration_ms": 174028,
       "name": "The Traveler",
       "url": "https://open.spotify.com/track/5ZXNWcTvp4L7iMKxzp0Ozj"
+    },
+    {
+      "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/18BVo7DZFVmBhneLqymwCm"
+      },
+      "artists": [
+        {
+          "name": "Joshua Cipolla",
+          "url": "https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151475,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/0BjDdOkPVTF2zpDGby3GoL"
     },
     {
       "album": {

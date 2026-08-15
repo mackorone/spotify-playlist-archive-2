@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: Sesame Street",
+  "description": "New releases for the kids. Cover: Ms. Rachel & Mr. Aron",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -3221,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "Celebrate Opposites",
+        "url": "https://open.spotify.com/album/2iyiMq7xUQLIt2nHwsX4cY"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55454,
+      "name": "Celebrate Opposites",
+      "url": "https://open.spotify.com/track/1QwuRw5xebiJIssEIApEHN"
+    },
+    {
+      "album": {
         "name": "Centipede Counting Song",
         "url": "https://open.spotify.com/album/0nWTNjgjiquj5Cj4dAEBW2"
       },
@@ -4472,7 +4490,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 39866,
       "name": "Detective Hogi Song",
       "url": "https://open.spotify.com/track/6p8bbjRW5yQu7NmH6OHQKr"
@@ -9473,6 +9491,24 @@
     },
     {
       "album": {
+        "name": "KIDZ BOP 54",
+        "url": "https://open.spotify.com/album/5RwCNophFbxHCdH6igEalw"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177420,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/1ne9bWXrCx4Smc1WZQXH0C"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/50TXQU2HIBdII7vExsqUpA"
       },
@@ -9524,6 +9560,28 @@
       "duration_ms": 191000,
       "name": "I Like You Too",
       "url": "https://open.spotify.com/track/7oHpXvccGFIJs6tbCKZR70"
+    },
+    {
+      "album": {
+        "name": "I Love a Rainbow",
+        "url": "https://open.spotify.com/album/4ndX4Oc55aMO7u6EWRH6zJ"
+      },
+      "artists": [
+        {
+          "name": "Ms. Rachel",
+          "url": "https://open.spotify.com/artist/2VHUurTrOGljxENj3zk5Ep"
+        },
+        {
+          "name": "Mr. Aron",
+          "url": "https://open.spotify.com/artist/2vwgMqrI18rBthEJADjf5z"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129045,
+      "name": "I Love a Rainbow",
+      "url": "https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y"
     },
     {
       "album": {
@@ -10860,6 +10918,24 @@
       "duration_ms": 228106,
       "name": "Jazz ABCs",
       "url": "https://open.spotify.com/track/5XRdYBaAE8Q3vmMqOTCIki"
+    },
+    {
+      "album": {
+        "name": "Jelly On A Plate",
+        "url": "https://open.spotify.com/album/4rZS12vxBAD9mOvuVwnUJD"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149076,
+      "name": "Jelly On A Plate",
+      "url": "https://open.spotify.com/track/7wYKvA7HIFzMZowFv6qRYs"
     },
     {
       "album": {
@@ -12543,6 +12619,24 @@
     },
     {
       "album": {
+        "name": "Lunchbox Flex",
+        "url": "https://open.spotify.com/album/30re85hygrERrG94CEKNeX"
+      },
+      "artists": [
+        {
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164137,
+      "name": "Lunchbox Flex",
+      "url": "https://open.spotify.com/track/1n52fXJFdvETClZpIBdk8A"
+    },
+    {
+      "album": {
         "name": "Circle Time Songs",
         "url": "https://open.spotify.com/album/6xfQODNKbQ1Z7JLFJ9ubMs"
       },
@@ -13796,7 +13890,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 183687,
       "name": "My Castle Home",
       "url": "https://open.spotify.com/track/0ZzMaHGNLvOI6vJdeEwU7L"
@@ -15956,6 +16050,24 @@
       "duration_ms": 129520,
       "name": "Put It In The Bag",
       "url": "https://open.spotify.com/track/1bnJ3pCMIGvrhTQzj32iG2"
+    },
+    {
+      "album": {
+        "name": "Put On Your Shoes - Puppets",
+        "url": "https://open.spotify.com/album/40Ew8Y90S2rdahszjOHUAa"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Put On Your Shoes - Puppets",
+      "url": "https://open.spotify.com/track/47GzoqqfmMizWxgULTvM5w"
     },
     {
       "album": {
@@ -20934,7 +21046,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 118732,
       "name": "Thomas & Percy Learn About Emotions",
       "url": "https://open.spotify.com/track/5KwGz4qcxpHSVJ0Y1tZW2H"
@@ -20956,7 +21068,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 123374,
       "name": "Thomas & Percy Learn About Shapes",
       "url": "https://open.spotify.com/track/4HX9DaMCRITuXrRuHuCfTz"
@@ -21556,7 +21668,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 93320,
       "name": "Two Friends of Two - Spanish-English Version",
       "url": "https://open.spotify.com/track/56o4N7pyuDzKOiXCv1kP0d"
@@ -23146,7 +23258,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 131957,
       "name": "Wiggerly Woo - Humpty Hard Boiled Remix",
       "url": "https://open.spotify.com/track/5s2PKiNHLQ9SMmBgiFRtuf"

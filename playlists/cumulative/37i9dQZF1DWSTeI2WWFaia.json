@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 168276,
       "name": "Boss Thing",
       "url": "https://open.spotify.com/track/1GxWQ0kLR8AOyw4raoqHKs"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 224449,
       "name": "BRICK AFTER",
       "url": "https://open.spotify.com/track/2ziDFyG3wWjyyTyy2SbLfJ"
@@ -4906,7 +4906,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 224639,
       "name": "Die Together",
       "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
@@ -9154,7 +9154,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 190592,
       "name": "Immigrants",
       "url": "https://open.spotify.com/track/0wkWMbqr3SgM9TdgdzMsXv"
@@ -10426,7 +10426,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 166720,
       "name": "Lemon Pepper Steppers",
       "url": "https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C"
@@ -14711,6 +14711,24 @@
     },
     {
       "album": {
+        "name": "Que Sera",
+        "url": "https://open.spotify.com/album/3A3WJ5Q2jVMEcIbafplub8"
+      },
+      "artists": [
+        {
+          "name": "Stoney Jackson",
+          "url": "https://open.spotify.com/artist/4pJSL3Q8yWIS78DpblIaOZ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221322,
+      "name": "Que Sera",
+      "url": "https://open.spotify.com/track/40sdqna7xeWrXMTPPdcG0E"
+    },
+    {
+      "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
       },
@@ -18139,6 +18157,32 @@
     },
     {
       "album": {
+        "name": "Talk Ya Shit",
+        "url": "https://open.spotify.com/album/6HZxZK3PQu9AkCL8HOWFa4"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145483,
+      "name": "Talk Ya Shit",
+      "url": "https://open.spotify.com/track/4cD4hLdmLands2EQaBlvz8"
+    },
+    {
+      "album": {
         "name": "TALK2ME",
         "url": "https://open.spotify.com/album/735tpKlbuovM2E1vrFYErt"
       },
@@ -19974,6 +20018,28 @@
       "duration_ms": 108281,
       "name": "UPSNDOWNS",
       "url": "https://open.spotify.com/track/1JbhPEYyFSGDtvGVWPnFVC"
+    },
+    {
+      "album": {
+        "name": "8 Shots (Elite Edition)",
+        "url": "https://open.spotify.com/album/2Sr0kgBbMkVNediNukPs1e"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184489,
+      "name": "Used 2 - Extended Version",
+      "url": "https://open.spotify.com/track/71sdZ1BBWkAPTAuh6UDdBL"
     },
     {
       "album": {

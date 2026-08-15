@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 338865,
+  "num_followers": 338961,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/3w3EoQYm9UT2sYwnu2Fbag"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/6RkUeQHTyqeqnqIygrqnt7"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "Concierto De Aranjuez (Slidepack)",
         "url": "https://open.spotify.com/album/4I0UtJya3m3usd91RB3EJU"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 692373,
       "name": "Concierto De Aranjuez: 2. Adagio - Instrumental",
       "url": "https://open.spotify.com/track/5VlfofwGTSDVOHqLSQHlEx"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "La Paloma",
-        "url": "https://open.spotify.com/album/3w3EoQYm9UT2sYwnu2Fbag"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "La Paloma",
-      "url": "https://open.spotify.com/track/6RkUeQHTyqeqnqIygrqnt7"
     },
     {
       "added_at": "2025-02-14 17:45:29",

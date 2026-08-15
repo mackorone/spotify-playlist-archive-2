@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 138979,
+  "num_followers": 138990,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAADEPSNqDpwnaU0WlUjtsXu2",
+  "snapshot_id": "an0JAAAAAAAE4b+xeLCqSJFOkJq2Swso",
   "tracks": [
     {
       "added_at": null,
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 133060,
-      "name": "How Sway (with SAILORR)",
-      "url": "https://open.spotify.com/track/7Jx99doIpK62aedrblVeMB"
+      "duration_ms": 167156,
+      "name": "Number One (with Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/45Dbuxv3884YEuIaZ4F6iN"
     },
     {
       "added_at": null,
@@ -884,13 +884,13 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
         }
       ],
-      "duration_ms": 167156,
-      "name": "Number One (with Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/45Dbuxv3884YEuIaZ4F6iN"
+      "duration_ms": 133060,
+      "name": "How Sway (with SAILORR)",
+      "url": "https://open.spotify.com/track/7Jx99doIpK62aedrblVeMB"
     },
     {
       "added_at": null,

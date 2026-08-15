@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > old asl
 
-[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 651 songs - 1 day 11 hr 54 min
+[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 652 songs - 1 day 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -659,5 +659,6 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 649 | [I've Changed \(feat\. Keyshia Cole\)](https://open.spotify.com/track/49cSN8JC12jp5F5A7yauTf) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Makings of a Man](https://open.spotify.com/album/6NTc18I9AXpW6NecT9vXS1) | 3:33 |
 | 650 | [under the knife](https://open.spotify.com/track/1fyHEYD5nCPYILDtsuOre9) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 3:58 |
 | 651 | [Blue Velvet](https://open.spotify.com/track/23tr9MvcF8rrcxEOBtRBQe) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Heroine](https://open.spotify.com/album/5v8sXBKPvCrUryqtmZ2r2U) | 4:50 |
+| 652 | [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 |
 
-Snapshot ID: `AAAEaBNxOsnubqPA3pWPKbJQn+kOlk5P`
+Snapshot ID: `AAAEaVN4rfWNRrE7McIZnIFBxKNzcYOJ`

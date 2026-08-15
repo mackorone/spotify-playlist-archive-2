@@ -1,13 +1,33 @@
 {
-  "description": "The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Alejandro Sanz, Eden Mu\u00f1oz",
-  "num_followers": 51380,
+  "description": "The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Trueno &amp; Maria Becerra",
+  "num_followers": 51371,
   "original_name": "LATIN POP HITS 2026 - \u00c9xitos del Pop Latino",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAVThPY8ip/THYMr0cpoqGntnMKSr3T",
+  "snapshot_id": "AAAVUVjfPaFS98giGX2JNDLLQHFMGADG",
   "tracks": [
+    {
+      "added_at": "2026-08-14 14:35:21",
+      "album": {
+        "name": "90s",
+        "url": "https://open.spotify.com/album/0KKmbKWJCN2swWpRmagn3C"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 169597,
+      "name": "90s",
+      "url": "https://open.spotify.com/track/0722nt9nR0eOuSEll5WtgK"
+    },
     {
       "added_at": "2026-08-07 01:23:55",
       "album": {

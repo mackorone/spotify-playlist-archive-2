@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-521 songs - 2 day 2 hr 22 min
+523 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Strike \- Hardspace Mix](https://open.spotify.com/track/5v6eGFwqZ3dyGQJ9jP8iZ8) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz) | [H007](https://open.spotify.com/album/6eUayvULBNtEDIZ1Gug0ip) | 5:42 | 2025-07-18 | 2026-06-19 |
 | [Strobe Light Network](https://open.spotify.com/track/0IpYV1uK57V0x5ETupMXOm) | [Cold](https://open.spotify.com/artist/3bxfOfSCLwqgMM5ThWJ5vu) | [Strobe Light Network Remixes](https://open.spotify.com/album/2j6hRDRp767sliYqaofE3l) | 15:11 | 2025-01-29 | 2026-01-15 |
 | [Strung Out](https://open.spotify.com/track/3UwkuZhkLph1Rx7BrWwzEt) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn) | [Everybody Knows](https://open.spotify.com/album/4DaJlKGJsHn5IMWjw8Pzs5) | 3:08 | 2024-10-07 | 2025-09-06 |
+| [Sucker DJ \- Marcin "Highfish" Kozlowski Remix](https://open.spotify.com/track/6rAqicmRJuDBaPAAye5Xgs) | [Kotai](https://open.spotify.com/artist/0wcsSWrZGdSL6Da4g2NgA2), [Marcin Kozlowski](https://open.spotify.com/artist/7hxxdAHXh5IkJ5ItDVEAMF) | [Sucker DJ](https://open.spotify.com/album/5ORYiBNutBZm3WRXV9qE4m) | 4:40 | 2026-08-14 |  |
 | [Suelta Por La Pampa](https://open.spotify.com/track/2wJCPrEo9zTVQIYayLpDo3) | [Servicio al Cliente](https://open.spotify.com/artist/5fMcxtOIUwGtADbO85M57U) | [Alien Tropical](https://open.spotify.com/album/29r43W90liJp6anNdBQoq3) | 3:06 | 2026-02-18 |  |
 | [Suffice To Predict \- L.B\. Dub Corp Remix](https://open.spotify.com/track/40kIuUv6W5nQYSYAWyJlHc) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP), [L.B\. Dub Corp](https://open.spotify.com/artist/7FEUkVfaBCIk5HQ6176Pnw) | [Fear Of Programming Remixes](https://open.spotify.com/album/5uR1Mn4tKDHWbA1X8Uftwk) | 7:55 | 2025-02-27 | 2026-01-15 |
 | [Summerbreeze](https://open.spotify.com/track/1Yt2QGApZozOZf2hCX1qJH) | [Sluts'n'Strings & 909](https://open.spotify.com/artist/6owZRoKjqnFr7YRilPsg3X) | [Sender Flashbacks Vol \#4](https://open.spotify.com/album/05D5baCBrUbsMgiLLU6NJR) | 6:34 | 2025-06-03 | 2026-03-17 |
@@ -471,6 +472,7 @@
 | [Third Guitar](https://open.spotify.com/track/4Dh4ZxbNoq0Id0Tx8KYtW5) | [Samo DJ](https://open.spotify.com/artist/05442HVVO9EfYoNa8F835e) | [Learns to Chill](https://open.spotify.com/album/0lGqRKT1vu6Ogh5PxBRpGS) | 4:25 | 2026-04-17 |  |
 | [This Is Not a Mind Trip \- Live at Love Parade 1994](https://open.spotify.com/track/198H335WASOsUYYAsLQB2G) | [Air Liquide](https://open.spotify.com/artist/5MhxFD2oBgZmX4lbhjSc3N) | [The Increased Difficulty Of Concentration, Part 1.2](https://open.spotify.com/album/5W4nJZv03LlaQPR9RCKVbI) | 6:08 | 2025-10-15 |  |
 | [Three 'O Three \- Remastered 2021](https://open.spotify.com/track/3LYJw5E4lY8wNpS8Ozbv3T) | [Public Energy](https://open.spotify.com/artist/4QJutd2DcjF4VzfNXKbgkY) | [Three 'O Three \(Remastered 2021\)](https://open.spotify.com/album/7mzFQ76d8mSQC1JtjhOei0) | 5:12 | 2025-04-25 | 2026-03-17 |
+| [Through You](https://open.spotify.com/track/5m177lckVUY1AfMXFS9Lb5) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Ever Changing EP](https://open.spotify.com/album/6AtHrdIngrULzxxePoq88C) | 7:30 | 2026-08-14 |  |
 | [Time To Wake Up](https://open.spotify.com/track/7aZumITSUGOnLOFsbPyefP) | [Paul St\. Hilaire](https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM), [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [w/ The Producers](https://open.spotify.com/album/0h2gv1PpURjTh5szxIC0wZ) | 4:23 | 2025-09-29 |  |
 | [To the Disco ‘77](https://open.spotify.com/track/0OvwOCehqyC5xe6VOir4V5) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97) | [To the Disco ‘77 & Hybrid Minds Remixes](https://open.spotify.com/album/3H2mfAIeVYFzq8nw2PiRif) | 6:59 | 2026-06-18 |  |
 | [Tokyo Love Affair](https://open.spotify.com/track/2vaJvmFZEvRyEKQEtoSSgH) | [Barbara Boeing](https://open.spotify.com/artist/7uf1b4UI1VVKwwcQO0laWZ), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Tokyo Love Affair](https://open.spotify.com/album/32Zu6hIPbZJZyR8ToTNpUN) | 5:07 | 2024-11-06 | 2025-09-17 |

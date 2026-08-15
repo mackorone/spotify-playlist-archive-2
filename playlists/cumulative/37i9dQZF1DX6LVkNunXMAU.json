@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Aislamiento",
+        "url": "https://open.spotify.com/album/2aGJll85sNO6EA28KJsfW8"
+      },
+      "artists": [
+        {
+          "name": "Asa\u00ed",
+          "url": "https://open.spotify.com/artist/1RmiLz29SAYbN87He1xs5k"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228059,
+      "name": "Aislamiento",
+      "url": "https://open.spotify.com/track/2ytAPy2tUu5CGZ31uyAoiR"
+    },
+    {
+      "album": {
         "name": "Alguien Como T\u00fa",
         "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
       },
@@ -1094,6 +1112,24 @@
       "duration_ms": 261808,
       "name": "Canci\u00f3n de oto\u00f1o",
       "url": "https://open.spotify.com/track/5mxCXwFixheHBlsW8nEmVF"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Irrelevante Para Un Mundo En Llamas",
+        "url": "https://open.spotify.com/album/3GJWivyWfYR2NXZg9Z1Lui"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Bevacqua",
+          "url": "https://open.spotify.com/artist/3LCscdSjTj9tG5lhm40caW"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220363,
+      "name": "Canci\u00f3n Diamante",
+      "url": "https://open.spotify.com/track/0UA7OzIDjprLJremalYw7P"
     },
     {
       "album": {
@@ -2814,7 +2850,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 214706,
       "name": "Final Feliz",
       "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
@@ -5505,6 +5541,24 @@
     },
     {
       "album": {
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/6Qj7pEuyrZEdaRkJsNwcKO"
+      },
+      "artists": [
+        {
+          "name": "Elena Ciavaglia",
+          "url": "https://open.spotify.com/artist/3jwccoT6Bg03r0ARLH1bCw"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180054,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/6ZntgmVmTblPzdp4Sc20YQ"
+    },
+    {
+      "album": {
         "name": "Los Abrazos son Instantes Decisivos Vol. II",
         "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
       },
@@ -7144,6 +7198,28 @@
       "duration_ms": 212177,
       "name": "Vamos a Lograrlo",
       "url": "https://open.spotify.com/track/40ZVfn7C1AKYtPDK6Cm1H2"
+    },
+    {
+      "album": {
+        "name": "Vamos al Mar",
+        "url": "https://open.spotify.com/album/3vOvzUwLFps8Fl8UjyQS3Z"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Vamos al Mar",
+      "url": "https://open.spotify.com/track/2MIPhkB4NaOSW0BZLW7kcv"
     },
     {
       "album": {

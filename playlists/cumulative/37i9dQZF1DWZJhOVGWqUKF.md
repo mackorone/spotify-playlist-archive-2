@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Rise Against
 
-1,038 songs - 2 day 10 hr 59 min
+1,039 songs - 2 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [Jolene](https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 3:12 | 2024-06-27 | 2025-12-05 |
 | [Karma Is A Beach](https://open.spotify.com/track/6FRF8P0wfk6H334dNpAvFS) | [April Art](https://open.spotify.com/artist/5SIU6vqESwt2muetzRSX7f) | [Karma Is A Beach](https://open.spotify.com/album/4cS2BDB9KgA5EmuxTcQTs4) | 3:01 | 2025-05-22 | 2025-05-30 |
 | [Karmageddon](https://open.spotify.com/track/2ucKr6wYbk1TZ8pZXE01Me) | [Alexodus](https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8) | [Karmageddon](https://open.spotify.com/album/4gvSouBfSAxN4wWqsCJAWK) | 3:18 | 2025-08-07 | 2025-08-15 |
+| [Katy Bar the Door](https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Katy Bar the Door / Living Undercover](https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs) | 3:25 | 2026-08-13 |  |
 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 | 2026-03-05 |  |
 | [Key Entity Extraction IX \- Shiloh The Selfish](https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe \(New Entities Edition\)](https://open.spotify.com/album/7vHWOemZcXHOgBud2vsOEc) | 3:56 | 2025-10-02 | 2025-10-16 |
 | [Kid In A Candy Store](https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Kid In A Candy Store](https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq) | 4:08 | 2026-06-25 | 2026-08-08 |

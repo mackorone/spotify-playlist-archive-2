@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,253,584 likes - 141 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253,600 likes - 142 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,5 +149,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 139 | [Safe In Your Love](https://open.spotify.com/track/7n9Kvdjl3Mjvz6tQWXsNiz) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [25, spring](https://open.spotify.com/album/2sVbAuD8grp9PsAp9ak1Ks) | 2:33 |
 | 140 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 |
 | 141 | [Where You Are](https://open.spotify.com/track/0inGMCDxu6EX9Ga6xzBlu6) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Closer](https://open.spotify.com/album/27C4TnvDfltBYqM4AxWRM7) | 3:14 |
+| 142 | [Treat You Better](https://open.spotify.com/track/5chZVGGP9F9ad1FI3u3wZW) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Treat You Better](https://open.spotify.com/album/0uI0yrlIC9fYJvaY14ZGaZ) | 2:37 |
 
-Snapshot ID: `AAAAACQMxG9tLCgdzmuVjQQ121VxbpDp`
+Snapshot ID: `AAAAAKHasrDW+Th8ry0v1kDRmANUZ9UH`

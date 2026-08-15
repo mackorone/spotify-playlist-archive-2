@@ -4,7 +4,7 @@
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Pagode do Adame
 
-354 songs - 1 day 6 hr 21 min
+355 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Amanhã / Loucura do Seu Coração \- Ao Vivo](https://open.spotify.com/track/6ONv978PnRhrb1qIeOi9iW) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Sorriso Eu Gosto No Pagode \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/2xcArGM32SN0HS6owAdKqg) | 6:13 | 2023-12-29 | 2026-02-07 |
 | [Amizade é tudo / Sincera Comigo / O Amor Venceu / Jogo Duro](https://open.spotify.com/track/3z4DdI5O00vCQ36aNdsJEd) | [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Amizade é tudo / Sincera Comigo / O Amor Venceu / Jogo Duro](https://open.spotify.com/album/0ca6Y0DLFK5msnAsXO9qtk) | 7:14 | 2025-11-21 | 2025-12-16 |
 | [Amor a Três / Amar Você \- Ao Vivo](https://open.spotify.com/track/0aHt7IW1U0V7OD9fH2CklV) | [Van](https://open.spotify.com/artist/5zgoZqA3JUFgOzLzpHMmKX), [Caio no pagode](https://open.spotify.com/artist/6D0aN9cHQKUHzmqrjKuKdj) | [Vanbora pro Pagode, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/0ykVnd81naV5E2ANcEDmg5) | 4:34 | 2026-02-13 | 2026-05-08 |
+| [Amor a três / Pele na pele / Rapidinha](https://open.spotify.com/track/59FSeYi1GGaAhCLmQn3yEN) | [Príncipe](https://open.spotify.com/artist/2OCUMvnRrx5qIbjSwl8Tph), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Amor a três / Pele na pele / Rapidinha](https://open.spotify.com/album/0DV2dwrUFMueIquSBhTxXQ) | 7:28 | 2026-08-14 |  |
 | [Amor De Fim De Noite / Mina De Fé \- Ao Vivo](https://open.spotify.com/track/2WedJjvJK63JuWHcsWd8q4) | [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [Pagode DaPaz \(Ao Vivo\)](https://open.spotify.com/album/7hfhY7lryzSuA60O0M3ZUP) | 4:05 | 2024-07-12 | 2024-11-22 |
 | [Amor no elevador \- Demorou \- Golpe do baú](https://open.spotify.com/track/6IR7dHiM805BaTdZefOp04) | [Charlles Andre](https://open.spotify.com/artist/0Ix6zRLUpdMRnkN8Sjqjyf) | [Amor no elevador \- Demorou \- Golpe do baú](https://open.spotify.com/album/6G9hVW7D4VRtuBkdXvJLEW) | 4:46 | 2026-08-03 |  |
 | [Amor Oriental / Pra São Jorge / Não Sou Mais Disso \- Ao Vivo](https://open.spotify.com/track/5ob5veupRz4zuW6NIHsSOn) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Paulinho](https://open.spotify.com/artist/4AmuBp9BLbG72YJ15rFpoD) | [Rolê Aleatório, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7ysW5z1I8tujvBrNdWn01Z) | 4:58 | 2026-05-08 | 2026-07-03 |

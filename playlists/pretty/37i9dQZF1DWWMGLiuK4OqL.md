@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,827 likes - 200 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,911 likes - 200 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,8 +196,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 186 | [I'll Tell You Something](https://open.spotify.com/track/5aHWPIWwqo4cjAJj40C4hc) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [I'll Tell You Something](https://open.spotify.com/album/7icT4J8ofNlqAujrQvmUTv) | 4:11 |
 | 187 | [City Garden](https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/6ziyb5Tcw8wGU9hISjQZEr) | 6:34 |
 | 188 | [Tenderly](https://open.spotify.com/track/0Yz5dTTup2vLhklobv3Qac) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:44 |
-| 189 | [I Remember You](https://open.spotify.com/track/2VHSj38QBpDCqCrAYv5ErA) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 4:05 |
-| 190 | [Comment Allez Vous](https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki By Starlight](https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz) | 2:18 |
+| 189 | [Comment Allez Vous](https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki By Starlight](https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz) | 2:18 |
+| 190 | [I Remember You](https://open.spotify.com/track/2VHSj38QBpDCqCrAYv5ErA) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 4:05 |
 | 191 | [Something In The Air Between Us](https://open.spotify.com/track/6GBqHQAW0Z16wsQQzN65i4) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/2oGYlZ7vte6lJ1MuwKKCeW) | 4:12 |
 | 192 | [And If You Please](https://open.spotify.com/track/7065TeNvF2nMoBv6yD3CIz) | [Mario Romano](https://open.spotify.com/artist/2jFXgkiRAvxNTZQ4rQVg9b), [Jackie Richardson](https://open.spotify.com/artist/1pla8afeXCjPKlzJe6wyQA) | [Fenyrose Non Dimenticar](https://open.spotify.com/album/6Rhkna0aH4rERryCt4gSaa) | 4:31 |
 | 193 | [All I Do Is Dream of You](https://open.spotify.com/track/7hDBWYQAsf932DH1yXhKA3) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Hushabye Mountain](https://open.spotify.com/album/1P8FJOJUZf979YeyrzRAsZ) | 3:28 |

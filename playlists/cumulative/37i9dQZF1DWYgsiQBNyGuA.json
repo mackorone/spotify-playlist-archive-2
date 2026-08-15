@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-08",
-  "description": "Soul to brighten up your day. Cover: Leon Bridges",
+  "description": "Soul to brighten up your day. Cover: The Womack Sisters",
   "name": "Soulful Day",
   "tracks": [
     {
@@ -2215,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "The Womack Sisters",
+        "url": "https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "If I Let You",
+      "url": "https://open.spotify.com/track/2VR0LfCTo1wydVWvhseMSM"
+    },
+    {
+      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -3122,7 +3140,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 172933,
       "name": "Move (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG"
@@ -3581,6 +3599,24 @@
     },
     {
       "album": {
+        "name": "Love Me For Me",
+        "url": "https://open.spotify.com/album/6WIBVagljKy0v4vDvmXd6Y"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201236,
+      "name": "Pencil Me In",
+      "url": "https://open.spotify.com/track/10MihkYSp6Ewx6s5lsAynC"
+    },
+    {
+      "album": {
         "name": "InsydeOut",
         "url": "https://open.spotify.com/album/0RvLRv0pkd9SA08q31J4jH"
       },
@@ -3986,7 +4022,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 180734,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/7rUDWciGzEJ5kQw3yH8Klr"

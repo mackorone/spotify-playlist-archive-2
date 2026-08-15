@@ -2,9 +2,9 @@
 
 ### [ALT\_QC](https://open.spotify.com/playlist/37i9dQZF1DX03FBMYrWi0n)
 
-> L’alternatif québécois à plein volume\. Photo: Nicholas Cangiano
+> L’alternatif québécois à plein volume\. Photo: Dear Youth
 
-613 songs - 1 day 10 hr 40 min
+621 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Back to You](https://open.spotify.com/track/09ldOu23gZPJYwH0QMw6pp) | [Psychic Armour](https://open.spotify.com/artist/0hSyMcuH2m0tgn3xi8LqN6) | [Pressure](https://open.spotify.com/album/0sIR9dt3gebNw8qwLxScxv) | 2:33 | 2026-02-14 | 2026-02-28 |
 | [Bal des contraires](https://open.spotify.com/track/6YWrNxcVitdkQWFBQDfNE8) | [Carences](https://open.spotify.com/artist/7I02FqOdSUVUkRU6l9IDlC) | [Bal des contraires](https://open.spotify.com/album/7mAEj6YE3FGY6rcvzzFocY) | 2:46 | 2025-10-10 | 2026-01-15 |
 | [Balance](https://open.spotify.com/track/1xAJOrNV8ets4b64VROl8K) | [Berlam](https://open.spotify.com/artist/6VX0JdAybG05A8AtuPYLwN) | [Balance](https://open.spotify.com/album/1yhfveh0dF2aPBrm7KZRZR) | 2:46 | 2026-07-24 |  |
+| [Bang Bang](https://open.spotify.com/track/30rmOWu5OHa9uP6nw8wRhJ) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG) | [Bang Bang](https://open.spotify.com/album/5j2drAMExkO13GFO7yC7SY) | 2:44 | 2026-08-14 |  |
 | [Banksiana](https://open.spotify.com/track/7gjAykShD6TS8XnCFDr3Lx) | [Duu](https://open.spotify.com/artist/1SsXg212vipwIjhJp0Ut9q) | [Banksiana](https://open.spotify.com/album/2ycvX3YzxvbmKK88J2xROQ) | 4:07 | 2026-05-29 | 2026-06-27 |
 | [Barking at the Sun](https://open.spotify.com/track/2LZZFoUonV4oO9vKCxVBAP) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Barking at the Sun](https://open.spotify.com/album/2QdxdM7ixA51zndGOco3gW) | 5:09 | 2026-07-17 |  |
 | [Barracuda](https://open.spotify.com/track/5E5lbNZgB2HAIEuitVJSGw) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Barracuda](https://open.spotify.com/album/0QFxXWyypV88bXEaJnyEF0) | 2:12 | 2023-10-06 | 2023-10-21 |
@@ -254,6 +255,7 @@
 | [I'm A Swiftie Too](https://open.spotify.com/track/1jqEfpvvWUtnBxOBlDUPHu) | [Victories](https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA) | [I'm A Swiftie Too](https://open.spotify.com/album/5OPZu7s36MiircnkkrOweN) | 3:10 | 2026-07-03 |  |
 | [i+i \- Audiotree Live Version](https://open.spotify.com/track/6ARvNqFaxXEKvzyEMQ1NZc) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Population II on Audiotree Live](https://open.spotify.com/album/0FQIFMocjC2dSJbkWHkg7M) | 2:53 | 2026-01-30 | 2026-03-28 |
 | [i\-95](https://open.spotify.com/track/0rd7F2NC4Zfw07MgD9dIRW) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [notes](https://open.spotify.com/album/0DxK77b8vDwVIpkU3JgLPC) | 4:46 | 2025-10-31 | 2025-12-06 |
+| [Ici Par Là/The Rest of Me](https://open.spotify.com/track/6OD1InSFMlMCtM3N2SP4oC) | [Eau the Music](https://open.spotify.com/artist/6iHpnELBo8BkiyoO6xODhr) | [Ici Par Là/The Rest of Me](https://open.spotify.com/album/7JLVv08RZHBAhNIhqts7j4) | 2:51 | 2026-08-14 |  |
 | [Incendie au paradis](https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Incendie au paradis](https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa) | 3:39 | 2024-09-20 | 2025-11-15 |
 | [INDIGESTE](https://open.spotify.com/track/3ZDi3WHqcMnKmzkURhullh) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [INDIGESTE](https://open.spotify.com/album/2M6g0osfsD5esMvkZUX5JX) | 4:19 | 2024-03-04 | 2024-09-07 |
 | [Intentions](https://open.spotify.com/track/3OEQakVwazPEzEMz6UvPYP) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Intentions](https://open.spotify.com/album/6cdUcv8WVnmOPY3L9LBeFo) | 2:51 | 2026-07-24 |  |
@@ -274,6 +276,7 @@
 | [Je sais pas c'que j'fais icitte](https://open.spotify.com/track/5XSGWaTq7dBb5mJjyOnShv) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Je sais pas c'que j'fais icitte](https://open.spotify.com/album/4xW82Kdpz7CXdeuI6WPUJ7) | 4:29 | 2026-05-01 |  |
 | [Je suis une coquerelle](https://open.spotify.com/track/12DDbBVEmkRjLk1QOwrZ9w) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [En mille morceaux](https://open.spotify.com/album/4pzDKoWzW32t71N8hINVaw) | 2:52 | 2026-01-09 | 2026-04-18 |
 | [Jean Leloup](https://open.spotify.com/track/3aRWjiMW0DciMKc2BJJWpM) | [Bandit Voyage](https://open.spotify.com/artist/5U7JwReTzAJ9gVXkhlNBsW) | [Québec Core](https://open.spotify.com/album/1aAa3iAeAIOaR9gBggufJc) | 2:59 | 2025-10-17 | 2025-12-19 |
+| [JENNY](https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc) | [Fyore](https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk) | [JENNY](https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf) | 3:05 | 2026-08-14 |  |
 | [Jeune chien](https://open.spotify.com/track/6BZ8Eq0dl6jQmmkfWHlAzu) | [Louis\-Charles](https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU) | [LOUIS\-CHARLES II](https://open.spotify.com/album/5wN8YooaUGu6Y7uhEuSz8i) | 3:00 | 2026-01-16 | 2026-07-04 |
 | [Jeûner](https://open.spotify.com/track/2H7jW4UN2PKU0iEwpsrorO) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Jeûner](https://open.spotify.com/album/0mESF8wP5W64W6r4sMtlvT) | 3:26 | 2026-04-24 | 2026-05-23 |
 | [Journal d'un loup\-garou](https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 3:39 | 2024-11-29 | 2025-11-15 |
@@ -344,6 +347,7 @@
 | [Lovers by Chance](https://open.spotify.com/track/4S2aSsWfdCnZBtZ61u2RBM) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [Lovers by Chance](https://open.spotify.com/album/6Tvfj2BF4azAR89JBT2YzZ) | 2:06 | 2026-05-15 | 2026-06-20 |
 | [LUCKY8](https://open.spotify.com/track/2iV2aeAY52wxUdkZHk3DNC) | [Ribbon Skirt](https://open.spotify.com/artist/4Ymrgi3r6TZQwmBSp3jBca) | [LUCKY8](https://open.spotify.com/album/6f0pLMVbyBpdDpxQmE9DA4) | 2:46 | 2025-09-11 | 2026-01-03 |
 | [Lundi normal](https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Lundi normal](https://open.spotify.com/album/7jjPYqJd43EwfEnXHxy4kx) | 3:03 | 2023-02-10 | 2023-03-04 |
+| [LUNGS! LUNGS! LUNGS!](https://open.spotify.com/track/3N9LF2YaRFiCzOuXO8I6DA) | [kaiiser](https://open.spotify.com/artist/5rmDs0edkn7z69Jv7oIuD3) | [LUNGS! LUNGS! LUNGS!](https://open.spotify.com/album/4758fSvElutPcrpl3FIGVp) | 2:26 | 2026-08-14 |  |
 | [Lying in Wait](https://open.spotify.com/track/3r1RYiEStgIqNCHwkSfk7N) | [Prism Shores](https://open.spotify.com/artist/6GAOVXekIJiv2MWeCBQoEk) | [Softest Attack](https://open.spotify.com/album/51uYxZpz3l8pJpE3fPGYb5) | 2:48 | 2026-04-10 | 2026-05-02 |
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 | 2025-09-22 |
 | [Ma maison](https://open.spotify.com/track/2OuvHFcMCxr4Y3allMuic3) | [Pasteur Papillon](https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB) | [Urubu, gospel d’un charognard](https://open.spotify.com/album/1xfBlC6rPqHUiB5ezMkOEz) | 3:37 | 2025-11-14 | 2026-01-31 |
@@ -481,6 +485,7 @@
 | [Rotten](https://open.spotify.com/track/0typVO5PXN4GAgmTx5mHip) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [Rotten](https://open.spotify.com/album/35dIBCuPTe5tHzE03MVPTn) | 3:40 | 2026-06-19 |  |
 | [Rouge Blanc](https://open.spotify.com/track/3lgz1irr7pyERou6uA1g4i) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Rouge Blanc](https://open.spotify.com/album/6bfCe5L8ncyo5vbGat4o3Z) | 3:19 | 2025-03-21 | 2025-11-08 |
 | [Rouge à lèvres](https://open.spotify.com/track/0HgHk6fXRi0CuYnhahRtxH) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Rouge à lèvres](https://open.spotify.com/album/1kZoT8CcY3Yrva4uAwGN1R) | 3:26 | 2024-03-22 | 2024-06-01 |
+| [Sad But Rad](https://open.spotify.com/track/2GIKdThTNB0oTiv0ZZCZqm) | [Victories](https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA) | [Sad But Rad](https://open.spotify.com/album/4VMGbauc5Ofog02Te3qyR3) | 3:36 | 2026-08-14 |  |
 | [Sad Songs](https://open.spotify.com/track/3ZTZmgdt9KYjsClKor706F) | [The Same Sky](https://open.spotify.com/artist/6SmBVQ2iCQr31JQ61Fs1qk) | [Sad Songs](https://open.spotify.com/album/6VvS5rvL8PGgKM1fLmkenj) | 3:07 | 2026-04-03 | 2026-05-02 |
 | [sadguitar\_V777.wav](https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq) | 3:57 | 2023-02-10 | 2024-04-01 |
 | [Saint Loreto](https://open.spotify.com/track/0v5558IQMhOWIInaVeb9wI) | [Christian Sean](https://open.spotify.com/artist/7LSwuqoG4CYPARULTLNEXt) | [Saint Loreto](https://open.spotify.com/album/5hXcv9dclv6JAUmTmcha0W) | 3:03 | 2026-05-22 |  |
@@ -507,6 +512,7 @@
 | [Si Vous Redo](https://open.spotify.com/track/5l94jgdvC6JoC6sqZxYn4b) | [SAMWOY](https://open.spotify.com/artist/4khtCx57NpDeXO1miYSmvO) | [Si Vous Redo](https://open.spotify.com/album/5zt6oAvv4J5He5JpZhergm) | 3:45 | 2026-05-29 |  |
 | [Sides Of Me I've Never Met](https://open.spotify.com/track/36OMqGe1gqqPxXcAEeB3LA) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [Sides Of Me I've Never Met](https://open.spotify.com/album/7Es51YBrLmuu1cWrY9g6bP) | 3:58 | 2025-10-31 | 2026-02-21 |
 | [SIMULATION FREESTYLE](https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [SIMULATION FREESTYLE](https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl) | 2:30 | 2024-06-28 | 2025-10-11 |
+| [skin 2 skin](https://open.spotify.com/track/4Q93NskCmmgXpkvANqNEQR) | [House Mouse](https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx) | [skin 2 skin](https://open.spotify.com/album/1FROX6DElvBR2vLjZE8IJ2) | 3:19 | 2026-08-14 |  |
 | [Snack City](https://open.spotify.com/track/27MkDUroI7F6gJdpy4U4gp) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Snack City](https://open.spotify.com/album/3QRN1gHK5WI23AUTwcOz5b) | 2:55 | 2026-04-03 | 2026-05-23 |
 | [Snowfall](https://open.spotify.com/track/4zw5xPwZiH3dlpFn0EzYMS) | [Serial Milk](https://open.spotify.com/artist/3KNmqpZPnc14FBQIaLgGla) | [Animal Disguise](https://open.spotify.com/album/3xV5VakGXMomm8BlpNcF3L) | 4:35 | 2026-05-01 | 2026-06-27 |
 | [So It Goes](https://open.spotify.com/track/12ryI6Y0cm3Icrj1Uyk56J) | [Family Man](https://open.spotify.com/artist/4CpA5E2uTlbIgUSrDQH9mB) | [So It Goes](https://open.spotify.com/album/7mjRiN5GruLWDkpZIwc5tC) | 2:52 | 2025-10-17 | 2025-11-22 |
@@ -528,10 +534,12 @@
 | [SUBSTRATUM](https://open.spotify.com/track/34eUeC0plRGfQddzrav04N) | [Madior](https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b) | [SUBSTRATUM](https://open.spotify.com/album/55EPVp8bKNNa5pjKJWqqw2) | 2:12 | 2026-04-24 |  |
 | [Sucker Born Every Minute](https://open.spotify.com/track/4h3b2PmjjHeLBsjZtpGR3A) | [The Fake Friends](https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz) | [Let's Not Overthink This](https://open.spotify.com/album/4np6szGjqUgeak75Opf2qV) | 3:20 | 2026-02-14 | 2026-05-16 |
 | [Sudation](https://open.spotify.com/track/7hWG3WtGtKtkiWf0ZwRyc6) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Sudation](https://open.spotify.com/album/1IwxMJRiYNAxmppVqSuVhq) | 3:54 | 2025-11-21 | 2026-03-07 |
+| [suffering](https://open.spotify.com/track/6eVQyex4HewJ6YQbLIDG41) | [distantiate](https://open.spotify.com/artist/5b6MSXdOA8tITIBpGwlmej), [Grimsies](https://open.spotify.com/artist/5SkFIMCaEhQzw2Sd4dukfh) | [you left me alone](https://open.spotify.com/album/1PvBVr8Z7zaeZHzQq3EXBo) | 1:56 | 2026-08-14 |  |
 | [Sunrise](https://open.spotify.com/track/1zhqhqDeOeSaok012e9g9c) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Souvenir](https://open.spotify.com/album/0fBKd44aWIWmuZYRozc0Sy) | 2:55 | 2026-06-26 | 2026-07-18 |
 | [Super Impose](https://open.spotify.com/track/28hxJxxV9MexXi4XV3kS4N) | [Last Waltzon](https://open.spotify.com/artist/79T273iKWd4Tfji4eQlst2) | [Super Impose / Live Leak](https://open.spotify.com/album/25TN1b8Dfcs4ZirgsiF3wT) | 2:57 | 2026-02-14 | 2026-03-28 |
 | [Superstar](https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Superstar](https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu) | 5:37 | 2026-06-12 |  |
 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 | 2025-10-11 |
+| [Surf Jesus Surf](https://open.spotify.com/track/3cpBoQaaw3TBoVwesCtfgg) | [Les Fleurs du Tapis](https://open.spotify.com/artist/1VfCqO58maY8khcq1Ul404) | [Surf Jesus Surf](https://open.spotify.com/album/6zZDvqLw0pKBpHxoBCJwgl) | 3:25 | 2026-08-14 |  |
 | [Sweet montérégie](https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3) | 3:49 | 2023-10-27 | 2024-04-19 |
 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 | 2023-02-10 | 2023-08-03 |
 | [Súper Normal](https://open.spotify.com/track/1mIA0Ch3k9xp3PoGiwhZ9p) | [We Are Wolves](https://open.spotify.com/artist/1Mt6gJbSKbLoSXWbgb44LW) | [Súper Normal](https://open.spotify.com/album/2UQwcCIqEvHfokOVazqo1v) | 4:05 | 2024-07-19 | 2024-09-21 |

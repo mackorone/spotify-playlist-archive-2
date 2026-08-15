@@ -2423,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "So Easy",
+        "url": "https://open.spotify.com/album/6rIegtr1X3iIVbZS5kQqo7"
+      },
+      "artists": [
+        {
+          "name": "Altair Sa\u00efd",
+          "url": "https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/4y7kdlDWPMxbegjUrW6SPX"
+    },
+    {
+      "album": {
         "name": "Love Letters III",
         "url": "https://open.spotify.com/album/6u35zLK6Y8h4KDRYZMDaDi"
       },

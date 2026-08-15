@@ -6,7 +6,7 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAD+PHo+CBjYrTRDomo3U0xyj4k6k5B",
+  "snapshot_id": "AAAD/bmNr4+f8RnA86lK7FJ2eTBipC55",
   "tracks": [
     {
       "added_at": "2026-08-07 15:56:33",
@@ -71,6 +71,26 @@
       "duration_ms": 299042,
       "name": "Garden",
       "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
+    },
+    {
+      "added_at": "2026-08-14 15:37:13",
+      "album": {
+        "name": "Human (feat. Jon Hopkins) [Sad Gay Version]",
+        "url": "https://open.spotify.com/album/4mv0k5VhGDcbq3FCwVZoS5"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Human (feat. Jon Hopkins) - Sad Gay Version",
+      "url": "https://open.spotify.com/track/3bVFS7hCCgwqmkCeVpxVZc"
     },
     {
       "added_at": "2026-08-07 15:58:22",
@@ -155,6 +175,38 @@
       "duration_ms": 237520,
       "name": "The Sea Has No Mercy",
       "url": "https://open.spotify.com/track/5t9MsvTL46g8dKKQ3rwmJA"
+    },
+    {
+      "added_at": "2026-08-14 15:37:04",
+      "album": {
+        "name": "Get Happy / Happy Days Are Here Again",
+        "url": "https://open.spotify.com/album/24uIJgDrRluQ7Y2LOTc2EW"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 135267,
+      "name": "Get Happy / Happy Days Are Here Again",
+      "url": "https://open.spotify.com/track/6m1pWOTAnh0awBNK16JPsc"
+    },
+    {
+      "added_at": "2026-08-14 15:37:37",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
     },
     {
       "added_at": "2026-08-01 17:05:28",

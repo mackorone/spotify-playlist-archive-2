@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: ECCOS",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: MISSION MUSICA, Generaci\u00f3n 12 & Daniel Calveti",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 216000,
       "name": "contigo todo lo encontr\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/6vkFVzjjVdNMQdSa35iUbx"
@@ -18020,7 +18020,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 347213,
       "name": "Tu Buscas Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6XonBqS0a0tjLgqeC4fcHi"
@@ -19829,6 +19829,32 @@
     },
     {
       "album": {
+        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564281,
+      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
+    },
+    {
+      "album": {
         "name": "Yo No Temer\u00e9",
         "url": "https://open.spotify.com/album/3lDkAp4lilGaYAuCsmBi9k"
       },
@@ -20294,6 +20320,24 @@
       "duration_ms": 339482,
       "name": "\u00c9pico",
       "url": "https://open.spotify.com/track/5eLuGSkS4xXY1l1Be5yGb6"
+    },
+    {
+      "album": {
+        "name": "morning sessions Ep.1",
+        "url": "https://open.spotify.com/album/3WXPuoQ4iwKmABTqqusXaF"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463500,
+      "name": "\u00cdMPETU/mejor que ayer/c\u00f3mo pasar\u00e1??",
+      "url": "https://open.spotify.com/track/3koEt4My06Vtggx6rwN1Px"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K"

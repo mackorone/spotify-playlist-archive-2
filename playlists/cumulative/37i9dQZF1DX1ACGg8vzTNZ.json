@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Dream 4",
+        "url": "https://open.spotify.com/album/5NW0pAveJZq6Pge8UWCa10"
+      },
+      "artists": [
+        {
+          "name": "Aleksander D\u0119bicz",
+          "url": "https://open.spotify.com/artist/0HZYW7kTNPn8JRCmHv6fad"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150660,
+      "name": "Dream 4",
+      "url": "https://open.spotify.com/track/4qy48U0P1YQHMj03KpbAhz"
+    },
+    {
+      "album": {
         "name": "Dreamy",
         "url": "https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze"
       },

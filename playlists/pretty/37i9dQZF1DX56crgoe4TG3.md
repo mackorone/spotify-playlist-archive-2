@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,865 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,886 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 82 | [Both Sides Now](https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Those Were the Days](https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1) | 3:34 |
 | 83 | [Wildflowers](https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [Wildflowers](https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ) | 4:23 |
 | 84 | [Can't Let Go](https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Can't Let Go](https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr) | 3:05 |
-| 85 | [Elderly Woman Behind the Counter in a Small Town \- Radio Edit](https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli) | [Drunken Hearts](https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH), [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Silas Herman](https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt) | [Elderly Woman Behind the Counter in a Small Town](https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg) | 3:41 |
-| 86 | [Fire and Rain](https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Fire and Rain](https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob) | 3:33 |
+| 85 | [Fire and Rain](https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Fire and Rain](https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob) | 3:33 |
+| 86 | [Elderly Woman Behind the Counter in a Small Town \- Radio Edit](https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli) | [Drunken Hearts](https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH), [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Silas Herman](https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt) | [Elderly Woman Behind the Counter in a Small Town](https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg) | 3:41 |
 | 87 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Break on Through \(To the Other Side\)](https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT) | 3:35 |
 | 88 | [Drivin' Nails In My Coffin \- Live](https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA) | [Country's Family Reunion](https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Simply Bluegrass \(Live / Vol\. 1\)](https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B) | 3:10 |
 | 89 | [Ohio](https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Ohio](https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl) | 2:53 |

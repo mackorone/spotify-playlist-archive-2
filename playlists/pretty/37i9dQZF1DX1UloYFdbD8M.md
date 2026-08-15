@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,612 likes - 83 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,618 likes - 83 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 7 | [Kaamini](https://open.spotify.com/track/6u4SABidaI5kVFVka9R2SX) | [Ajmal NS](https://open.spotify.com/artist/1DQSb4emLM9WhYlBlEPXLi), [Syan Zues](https://open.spotify.com/artist/0SIXk5dgJD5a6pYkjuEmsz), [M F](https://open.spotify.com/artist/6946Yt7YD5iXlCWtu2e3B1), [Dhuthan](https://open.spotify.com/artist/4DBQQ7z2juqN8K5NabGOAr) | [Kaamini](https://open.spotify.com/album/5n45iMn3bXQtsa7X5HvRnQ) | 3:40 |
 | 8 | [Pratheekshakal](https://open.spotify.com/track/23P2vTIEwxRZAbqLKkLLNW) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Pratheekshakal](https://open.spotify.com/album/6ousBdz2ouSwrWZGuuOGAQ) | 3:09 |
 | 9 | [Panjara Girl](https://open.spotify.com/track/0Zxo9KxazsQwAihu6w32iq) | [Sidhik Nazar Niza](https://open.spotify.com/artist/67J1LonhbXjQZmcWSE4XnE), [Bity Kairali Mohan](https://open.spotify.com/artist/30DfmBNgBwWhzPqfLOZHJ4), [Sibu Sukumaran](https://open.spotify.com/artist/3keNxNmATzwZrIbAl2eyei), [Nikhil Anil Kumar](https://open.spotify.com/artist/1cLx5oaXhvIcSNfJCkGtwv) | [Panjara Girl](https://open.spotify.com/album/17JUtWGItQWcUw4ZUgVyCJ) | 2:35 |
-| 10 | [Kannadi Poove](https://open.spotify.com/track/3KNdwwJjWosvuZViGorVBh) | [Sidharth Sankar](https://open.spotify.com/artist/3lwPnk12WPkyqiYRS5iOQW), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Anandhu Rajeev](https://open.spotify.com/artist/2fPCZfd4Av7PKrD6InRX2p) | [Kannadi Poove](https://open.spotify.com/album/0fqK86D2Fst9bKtJvf6XGh) | 3:15 |
+| 10 | [Kannadi Poove](https://open.spotify.com/track/3KNdwwJjWosvuZViGorVBh) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Anandhu Rajeev](https://open.spotify.com/artist/2fPCZfd4Av7PKrD6InRX2p), [Sidharth Sankar S](https://open.spotify.com/artist/1LBO9D830eKNzK10FadDIM) | [Kannadi Poove](https://open.spotify.com/album/0fqK86D2Fst9bKtJvf6XGh) | 3:15 |
 | 11 | [Minnal](https://open.spotify.com/track/4H0OZy4tS8NozQbyXttkBl) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [copiedthecat](https://open.spotify.com/artist/1t3dzWfQqSMa3uIziPcWBO) | [Minnal](https://open.spotify.com/album/7fCcCldrSjMcWLKdHYaYaz) | 2:51 |
 | 12 | [Aaro Aaro](https://open.spotify.com/track/0C53p6FoBDGm0CooRH08Z3) | [Afzal Yusuff](https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm), [Sayanora Philip](https://open.spotify.com/artist/7D7Y6jWgmCYV9UuXGjFWrx) | [Aaro Aaro](https://open.spotify.com/album/0qcGoideMC6uIzLtpKH4y6) | 6:12 |
 | 13 | [Ee Chandranum](https://open.spotify.com/track/2W9hWuajVBTGauBx3lJVkx) | [Malavika Anilkumar](https://open.spotify.com/artist/1nroyCS1DFBkTcVvjHBgAh) | [Ee Chandranum](https://open.spotify.com/album/1XDwYmNWRUm0avH6OntfeW) | 3:10 |

@@ -568,7 +568,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -4538,7 +4538,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 216973,
       "name": "Smith & Wesson",
       "url": "https://open.spotify.com/track/5zb7hZVZyhLhKEq3coGmPx"
@@ -5163,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "HYPNOSIS",
+        "url": "https://open.spotify.com/album/5tH9bzf3AslI52jFaPmdFG"
+      },
+      "artists": [
+        {
+          "name": "K!no",
+          "url": "https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110780,
+      "name": "THE RACE",
+      "url": "https://open.spotify.com/track/05kd8dGFYvFgEdUiQgxFp5"
+    },
+    {
+      "album": {
         "name": "Super Joint",
         "url": "https://open.spotify.com/album/31h0Caz0U8NQX6No7cstTz"
       },
@@ -5652,7 +5670,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 143112,
       "name": "Which 1 / Klueless",
       "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"

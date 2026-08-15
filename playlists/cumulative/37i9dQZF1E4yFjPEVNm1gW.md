@@ -4,7 +4,7 @@
 
 > With Yeat, Cuo Zay, Autumn! and more
 
-302 songs - 11 hr 49 min
+303 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Barricade Tape](https://open.spotify.com/track/3JAv0p8M0kPoyOIZnMt9Ou) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [Barricade Tape](https://open.spotify.com/album/5mzcsXGpcKTzuoHc6VHYC4) | 1:48 | 2026-05-02 | 2026-05-10 |
 | [beaver](https://open.spotify.com/track/35JBdERw52rF5vNn2Zujbl) | [Hariroc](https://open.spotify.com/artist/3P0Ts5pJZKOyfWjuORxn5U), [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [THE SQUIDFATHER 2](https://open.spotify.com/album/3CIqtma4xiI9roddle2h58) | 1:34 | 2026-08-03 | 2026-08-10 |
 | [Been Off \(feat\. Yeat\)](https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L) | [SeptembersRich](https://open.spotify.com/artist/2AXsnwUyL9eMUy3y0ly2si), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2high](https://open.spotify.com/album/2ILSr2xQkOORnjsZgUjcJ6) | 3:12 | 2025-11-29 | 2026-07-22 |
-| [BIG 3](https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Slimeto](https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4) | [BIG 3](https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu) | 2:02 | 2025-11-29 | 2026-07-31 |
+| [BIG 3](https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Slimeto](https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4) | [BIG 3](https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu) | 2:02 | 2025-11-29 |  |
 | [Blacked Out](https://open.spotify.com/track/0c7uMUPFCvPZGSHNEjv7z1) | [Yfg Reaper](https://open.spotify.com/artist/0feNk1Rpu53tZOXaaWfVzl) | [Reaper Files](https://open.spotify.com/album/1LkpG33vQtsDO7J16w9eE5) | 2:34 | 2026-06-15 | 2026-07-11 |
 | [BLEACHERS](https://open.spotify.com/track/3rInIavPYEfe9ljP732aFk) | [Laylo!!](https://open.spotify.com/artist/0YBxMclvsTziVtgFLvyQMc) | [COPACETIC](https://open.spotify.com/album/6rqoKKlLhomSjkEXL1NGhD) | 2:17 | 2026-01-04 | 2026-02-17 |
 | [blood](https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [blood](https://open.spotify.com/album/405osWHgLWlqSiOz7XL0cM) | 2:18 | 2025-11-29 | 2026-04-27 |
@@ -237,7 +237,7 @@
 | [Simple!](https://open.spotify.com/track/1LBl0ojqqA2hfLCrs3Vcn1) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Ils Verront](https://open.spotify.com/album/2VLmqA6liyiWLQ7pu8d0na) | 3:03 | 2025-11-29 | 2026-04-22 |
 | [Sizzurp](https://open.spotify.com/track/1aED4pzjTZQRwEWGVIqFk2) | [luhdelf](https://open.spotify.com/artist/4igaC79J5tLhSZ8Qqo8zII) | [Hiatus](https://open.spotify.com/album/1B5dNX0AKfkPAcesNTBMjr) | 2:17 | 2026-05-17 | 2026-05-29 |
 | [Slay3d](https://open.spotify.com/track/54Sa4mrJAHcdFLUO1dlC6G) | [gothamrok](https://open.spotify.com/artist/63PuOaP4fCF2PSA7caynRo) | [Slay3d](https://open.spotify.com/album/3RKcBezvMX6wXWRaUgEJ1q) | 1:53 | 2026-05-25 | 2026-06-18 |
-| [Smith & Wesson](https://open.spotify.com/track/5zb7hZVZyhLhKEq3coGmPx) | [Lohily](https://open.spotify.com/artist/6vO2KGZh1rvFhv8qa3DDdx) | [Grails](https://open.spotify.com/album/1f6GQhQ22QLR08bdAFBGto) | 3:36 | 2026-08-09 |  |
+| [Smith & Wesson](https://open.spotify.com/track/5zb7hZVZyhLhKEq3coGmPx) | [Lohily](https://open.spotify.com/artist/6vO2KGZh1rvFhv8qa3DDdx) | [Grails](https://open.spotify.com/album/1f6GQhQ22QLR08bdAFBGto) | 3:36 | 2026-08-09 | 2026-08-15 |
 | [snakes](https://open.spotify.com/track/6EjpOnPFV3tsGMb4CA1VUv) | [vamp](https://open.spotify.com/artist/7uTccMq0K79JPxvJy5Vpu8) | [snakes](https://open.spotify.com/album/3mOmWWY41mroTCYiDbanPp) | 2:14 | 2026-01-23 | 2026-01-31 |
 | [sorry not sorry](https://open.spotify.com/track/0YZYErTb3ZfNUBrKlWuLIu) | [Pure557](https://open.spotify.com/artist/0nhb1ZnJ9gedmTrLZgASKE) | [sorry not sorry](https://open.spotify.com/album/2COBCCxMt7pj0KYr5cFJyS) | 1:32 | 2026-01-27 | 2026-02-03 |
 | [Spanglish](https://open.spotify.com/track/5uTlnTxi8kQv6EuMvR725n) | [novanitys](https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP), [wonder](https://open.spotify.com/artist/4egc04cPnCS54Cp5Hz3IuE), [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy) | [Spanglish](https://open.spotify.com/album/0rOykZHoTWuBpRhdh3Bb8h) | 3:42 | 2026-01-15 | 2026-06-23 |
@@ -269,6 +269,7 @@
 | [Th\-Th\-Thumpin](https://open.spotify.com/track/0xcgqLbkY6N634T9cbl08W) | [ronehl](https://open.spotify.com/artist/6IAzgtmHLQwtzjWe9W8WNY) | [Th\-Th\-Thumpin](https://open.spotify.com/album/3c4U53wy960fEBhU1pKzqI) | 2:21 | 2026-07-10 | 2026-08-05 |
 | [The Final Agenda](https://open.spotify.com/track/3M05L3jC4YpphpahJ9C3ps) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [The Final Agenda](https://open.spotify.com/album/3w5ew1faB4qurVIKGiBiW8) | 2:00 | 2025-11-30 | 2026-07-18 |
 | [The Holy Plug](https://open.spotify.com/track/0XyCdtfL9A98Mu4w59zGtg) | [OJA](https://open.spotify.com/artist/6lTINIF6FaSVNDpsJgux3m) | [The Holy Plug](https://open.spotify.com/album/42QA3nwN5o0C9pjND3rq78) | 3:01 | 2026-05-29 | 2026-05-31 |
+| [THE RACE](https://open.spotify.com/track/05kd8dGFYvFgEdUiQgxFp5) | [K!no](https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81) | [HYPNOSIS](https://open.spotify.com/album/5tH9bzf3AslI52jFaPmdFG) | 1:50 | 2026-08-15 |  |
 | [THE SAME](https://open.spotify.com/track/4OQsPgm4pSgYUypIixYGV0) | [GoodFinesse](https://open.spotify.com/artist/0EAHtZWQM2YT88U4mZFKr8) | [Super Joint](https://open.spotify.com/album/31h0Caz0U8NQX6No7cstTz) | 3:04 | 2025-12-15 | 2025-12-26 |
 | [Thrax Playboi](https://open.spotify.com/track/1SRfrIUmHYaUcnTQMnfPB6) | [Pooch Papi](https://open.spotify.com/artist/19tkoOu748I4jGsKm6ma5I) | [Caterpillar Syndrome](https://open.spotify.com/album/2pVFvT67fCqqKJNKOWJbUU) | 3:54 | 2026-05-19 | 2026-06-30 |
 | [TIKIMAN](https://open.spotify.com/track/6K3rWD8XFBKEZRiUuVd4Mi) | [Oodaredevil](https://open.spotify.com/artist/1yj1u1EEoD0kmQuthHP6nf) | [TIKIMAN](https://open.spotify.com/album/0UvMICYwIXALgKzcLCFEKa) | 2:42 | 2026-07-02 | 2026-07-06 |
@@ -294,7 +295,7 @@
 | [WAR 1](https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My) | 2:33 | 2025-11-29 |  |
 | [We Don't Care](https://open.spotify.com/track/4KKo6OKDUak3by5jgC2crB) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [Graduation Tape](https://open.spotify.com/album/2mzb44bBSeedDR4y0ewbgG) | 1:42 | 2026-06-15 | 2026-06-22 |
 | [Where Ya At Max](https://open.spotify.com/track/771ihvk0W4LWBBIlLfiXEB) | [Ayerp Archive](https://open.spotify.com/artist/2V3RmEtxQ9xhMkfTmnLvpa) | [Where Ya At Max](https://open.spotify.com/album/4g8ebMA7ezNCWbemBuQqMi) | 2:31 | 2026-06-18 | 2026-07-03 |
-| [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 |  |
+| [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 | 2026-08-15 |
 | [WHITE T](https://open.spotify.com/track/1L3dcYffJhpNn07abhGCgF) | [Bigpay J](https://open.spotify.com/artist/3zZ2kpokg60U0F6aMcZCl5), [FlyLife](https://open.spotify.com/artist/6Wz3hFrNfQSjzQgMTRzazS) | [WHITE T](https://open.spotify.com/album/3LCbyCxBIFJfGvgZo7ecaN) | 2:54 | 2026-06-16 | 2026-07-19 |
 | [Why??](https://open.spotify.com/track/0dBMRQ78EYbUMjjxOH38yw) | [cb](https://open.spotify.com/artist/5EAMEZrRLkhyG5pYaqedpC) | [Why??](https://open.spotify.com/album/6fqdCF4J8w8plMLjPMT3hh) | 2:08 | 2026-02-04 | 2026-02-26 |
 | [Wiseman Freestlye](https://open.spotify.com/track/0sMqm4VQAnPkcs1wSSXpKU) | [$t3PPA](https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU) | [Wiseman Freestlye](https://open.spotify.com/album/0phJFb8bWbZv9Z88hKEFkZ) | 2:08 | 2026-05-06 | 2026-06-15 |

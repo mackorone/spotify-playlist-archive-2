@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 257741,
       "name": "Cabo de Guerra - Ao Vivo",
       "url": "https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr"
@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 189436,
       "name": "Cora\u00e7\u00e3o e Cadeado",
       "url": "https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T"
@@ -4316,7 +4316,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 233003,
       "name": "DEMORO A DORMIR",
       "url": "https://open.spotify.com/track/2jT4BeLP0YxXXleJijuPsq"
@@ -5326,7 +5326,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 170562,
       "name": "Em Qualquer Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
@@ -5514,7 +5514,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 150886,
       "name": "Esconde Sua Namorada",
       "url": "https://open.spotify.com/track/56ActsrgGySMIkRtpDTtQs"
@@ -7928,7 +7928,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 204187,
       "name": "Instinto - Ao Vivo",
       "url": "https://open.spotify.com/track/4uf9fHNjKdSlL7Q5xuR3v5"
@@ -9144,7 +9144,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 189178,
       "name": "Louco por voc\u00ea",
       "url": "https://open.spotify.com/track/7Dz7HqscJ0SnPV06jyVF52"
@@ -9504,7 +9504,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 177830,
       "name": "Maldito Papel",
       "url": "https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR"
@@ -10814,7 +10814,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 135600,
       "name": "Mulher Adulta Faz Assim",
       "url": "https://open.spotify.com/track/0LlMMbD5ma9XJMyJcUZnZo"
@@ -11184,7 +11184,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 284379,
       "name": "Nike e Shortinho / Desencana - Ao Vivo",
       "url": "https://open.spotify.com/track/2l1fgtVMhwKdmkbhOc9ySl"
@@ -14194,7 +14194,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 200314,
       "name": "Private Chef (feat. MC Morena)",
       "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
@@ -14540,6 +14540,24 @@
       "duration_ms": 361411,
       "name": "Quebradas 2",
       "url": "https://open.spotify.com/track/68zUWvUbGAQxlc8cAVGkCO"
+    },
+    {
+      "album": {
+        "name": "Quem Ama Cuida",
+        "url": "https://open.spotify.com/album/2J2H91zaQyASh8pn7wHITL"
+      },
+      "artists": [
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106017,
+      "name": "Quem Ama Cuida",
+      "url": "https://open.spotify.com/track/2sA4gKbzxAnwDYiBu4JjwN"
     },
     {
       "album": {
@@ -15764,7 +15782,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 176400,
       "name": "Sem Foto",
       "url": "https://open.spotify.com/track/2xYyitQHifMU31LPWGRVSZ"
@@ -17360,7 +17378,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 352951,
       "name": "THE BOX MEDLEY 12",
       "url": "https://open.spotify.com/track/6TmtNB90rBnhIiJeJuEyWu"

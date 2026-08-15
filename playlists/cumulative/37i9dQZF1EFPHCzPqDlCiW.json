@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "DARK",
+        "url": "https://open.spotify.com/album/7kpzdqlPXqyEFWVIONkhN4"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7zTnmcYglZxfA734WGRRXk"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/5P1po53bsy5NJxQdHB59le"
       },

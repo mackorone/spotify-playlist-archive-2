@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Troye Sivan
 
-989 songs - 2 day 8 hr 53 min
+991 songs - 2 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Amber](https://open.spotify.com/track/0gzGERYI7A4ORxxMIYM8ol) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Amber](https://open.spotify.com/album/5pheavpnjvGXl4yAWGIRhl) | 2:27 | 2026-08-07 |  |
 | [And the Hound](https://open.spotify.com/track/6Y685hzoT53MCP0siYsMKQ) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY), [Keath Ósk](https://open.spotify.com/artist/5nS4Ohh7IG844fp1Eu1GMI) | [And the Hound](https://open.spotify.com/album/0vBMdv93mFxqw3zIbKcVNr) | 3:43 | 2026-08-03 | 2026-08-07 |
 | [androgynous](https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [engine heartbreak](https://open.spotify.com/album/1Z2k9Ol6vCUkcGpoy4vcBC) | 2:05 | 2026-08-07 | 2026-08-14 |
+| [ANGEL](https://open.spotify.com/track/6EWz01NLmUigFEz98Ek5qR) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [ANGEL](https://open.spotify.com/album/32GVvqbn3IO1K3e4ehpbh1) | 3:59 | 2026-08-13 |  |
 | [Angel Blonde \(that's life!\)](https://open.spotify.com/track/6bjt5POsImUxhxLgt13Oxu) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Angel Blonde \(that's life!\)](https://open.spotify.com/album/4FEZfwljIUtEk4MVPWk7bO) | 3:10 | 2025-03-07 | 2025-06-06 |
 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 | 2025-05-01 | 2025-06-27 |
 | [Angels](https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Angels](https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA) | 3:49 | 2024-10-17 | 2025-02-21 |
@@ -765,6 +766,7 @@
 | [Shark Brain \(feat\. Shygirl\)](https://open.spotify.com/track/4cP4OcoWnDO3AXYCeO83jP) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shark Brain / Dolphin](https://open.spotify.com/album/3xRHlsN1ny2OS4XFXdCrer) | 4:01 | 2025-03-28 | 2025-05-09 |
 | [She Matters to Me](https://open.spotify.com/track/6BbjYSlNCG1204CcIHLwJ4) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [She Matters to Me](https://open.spotify.com/album/2gEcQbrsk45ebHFV0dKsyx) | 3:06 | 2026-08-07 |  |
 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SHELL \( OF A MAN \)](https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3) | 3:39 | 2024-10-10 | 2025-02-14 |
+| [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 | 2026-08-13 |  |
 | [Shiver](https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Shiver](https://open.spotify.com/album/7qTUcbVpWzLQdX2OrlwEda) | 3:25 | 2024-09-27 | 2024-11-22 |
 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 | 2025-05-01 | 2025-07-25 |
 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:04 | 2026-04-16 | 2026-08-07 |

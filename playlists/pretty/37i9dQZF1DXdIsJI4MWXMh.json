@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 82240,
+  "num_followers": 82271,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -1623,6 +1623,38 @@
     {
       "added_at": "2026-07-30 18:13:17",
       "album": {
+        "name": "Anillo Grabado",
+        "url": "https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC"
+      },
+      "artists": [
+        {
+          "name": "Furia Ranchera",
+          "url": "https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz"
+        }
+      ],
+      "duration_ms": 252544,
+      "name": "Anillo Grabado",
+      "url": "https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX"
+    },
+    {
+      "added_at": "2026-07-30 18:13:17",
+      "album": {
+        "name": "En las Cantinas",
+        "url": "https://open.spotify.com/album/6qPi1a0ULXJSvbRlMEmkvL"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
+        }
+      ],
+      "duration_ms": 169012,
+      "name": "En las Cantinas",
+      "url": "https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF"
+    },
+    {
+      "added_at": "2026-07-30 18:13:17",
+      "album": {
         "name": "Que Milagro Chaparrita",
         "url": "https://open.spotify.com/album/2RqDzWaYPzUhV8E7EwImN8"
       },
@@ -1659,22 +1691,6 @@
     {
       "added_at": "2026-07-30 18:13:17",
       "album": {
-        "name": "En las Cantinas",
-        "url": "https://open.spotify.com/album/6qPi1a0ULXJSvbRlMEmkvL"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
-        }
-      ],
-      "duration_ms": 169012,
-      "name": "En las Cantinas",
-      "url": "https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF"
-    },
-    {
-      "added_at": "2026-07-30 18:13:17",
-      "album": {
         "name": "Vivo en Tinieblas",
         "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 226727,
       "name": "Vivo en Tinieblas",
       "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
-    },
-    {
-      "added_at": "2026-07-30 18:13:17",
-      "album": {
-        "name": "Anillo Grabado",
-        "url": "https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC"
-      },
-      "artists": [
-        {
-          "name": "Furia Ranchera",
-          "url": "https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz"
-        }
-      ],
-      "duration_ms": 252544,
-      "name": "Anillo Grabado",
-      "url": "https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX"
     },
     {
       "added_at": "2026-07-30 18:13:17",

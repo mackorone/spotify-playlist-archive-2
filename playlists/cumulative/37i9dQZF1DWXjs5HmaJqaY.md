@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-412 songs - 1 day 13 hr 9 min
+413 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Adventures of Dama \- Gorge Rework](https://open.spotify.com/track/2IhAnVqvBv2JWvMsh3zPES) | [Cybordelics](https://open.spotify.com/artist/6oA7ZIJ36hYM0DnXndMlII), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Adventures of Dama 2022](https://open.spotify.com/album/4nZ4TdGq90n6M6CW0a7oG8) | 8:09 | 2022-09-16 | 2024-06-29 |
 | [Afrasia](https://open.spotify.com/track/3XlR81zJ5Xe7ymqOmCe8Kp) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Afrasia](https://open.spotify.com/album/4VmmvpZZisupRwK4Wyl9zV) | 4:00 | 2025-06-27 |  |
 | [After The Storm](https://open.spotify.com/track/2kWzROeeYfk3DuK0XpqO0U) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [After The Storm](https://open.spotify.com/album/5xXzENKfWiK7ISPyMXqMlh) | 6:35 | 2024-12-17 | 2025-05-30 |
+| [Afterglow](https://open.spotify.com/track/7MTh3jJYMwJoegvWZKV3rF) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [NiLO.R](https://open.spotify.com/artist/13E2GSB3yfEeSXbexyoGn2) | [Afterglow](https://open.spotify.com/album/0A20N0FMFi9YonSQrpJw5p) | 2:58 | 2026-08-14 |  |
 | [Algorithm](https://open.spotify.com/track/3Na1OqTOAg8rlxzhDx3x3q) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Algorithm](https://open.spotify.com/album/365zphzquUancMmfLCH0ud) | 2:58 | 2026-02-06 |  |
 | [Alicante](https://open.spotify.com/track/5IEOhfUcuMHfhEeiReQOcH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Alicante](https://open.spotify.com/album/7uZGkI9g5kylbcmc0ksZx2) | 2:39 | 2026-06-05 |  |
 | [All Smiles](https://open.spotify.com/track/1VZGcjxTvnGIEcX46BH3aw) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [All Smiles](https://open.spotify.com/album/03vjP0kuneZzx4dblhQGIX) | 3:44 | 2026-04-17 |  |

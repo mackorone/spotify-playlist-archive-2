@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: William McDowell",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: DOE",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 463469,
       "name": "Always Be Good",
       "url": "https://open.spotify.com/track/7zXaNtnQEAHJ5S1zjZUNZP"
@@ -3201,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "The Address",
+        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223966,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
+    },
+    {
+      "album": {
         "name": "ENOUGH FOR ME",
         "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
       },
@@ -4054,6 +4072,24 @@
       "duration_ms": 375389,
       "name": "Glory To God (feat. Ronald Poindexter)",
       "url": "https://open.spotify.com/track/4mrWobkoCqzX0Brqh7N4h6"
+    },
+    {
+      "album": {
+        "name": "The Life Recording",
+        "url": "https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 814591,
+      "name": "Glory to God in the Highest",
+      "url": "https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI"
     },
     {
       "album": {
@@ -5976,7 +6012,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 333208,
       "name": "High Praise",
       "url": "https://open.spotify.com/track/5Jqia9cVK8OOhefBWcCgWi"
@@ -7962,7 +7998,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 320250,
       "name": "It's Gonna Happen",
       "url": "https://open.spotify.com/track/2MXZ46dCwvEkjuZIdnsf77"
@@ -12410,7 +12446,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 189687,
       "name": "Rome",
       "url": "https://open.spotify.com/track/1FJnHjvl8AOZyHpXWzMCfA"
@@ -14971,6 +15007,24 @@
     },
     {
       "album": {
+        "name": "Up To Something",
+        "url": "https://open.spotify.com/album/5308Yrfw5fy1nbmRIoCEcL"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356032,
+      "name": "Up To Something",
+      "url": "https://open.spotify.com/track/7qkXoYoh91593haiXn0vhN"
+    },
+    {
+      "album": {
         "name": "Up Up Up",
         "url": "https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF"
       },
@@ -16900,6 +16954,24 @@
       "duration_ms": 253527,
       "name": "You Were There",
       "url": "https://open.spotify.com/track/7pA42zUyLZx6G2Pp0buki2"
+    },
+    {
+      "album": {
+        "name": "You Will Have It All",
+        "url": "https://open.spotify.com/album/0xKyxbiOjwq4sVIABMqrmJ"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322583,
+      "name": "You Will Have It All",
+      "url": "https://open.spotify.com/track/5znzle0Lx9BzqgGpoz5xEJ"
     },
     {
       "album": {

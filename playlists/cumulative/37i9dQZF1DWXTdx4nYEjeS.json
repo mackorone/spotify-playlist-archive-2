@@ -4618,7 +4618,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 177066,
       "name": "C\u00f3mo Eran las Cosas - En Vivo",
       "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
@@ -14968,6 +14968,24 @@
       "duration_ms": 177181,
       "name": "Profundo",
       "url": "https://open.spotify.com/track/6TK99qUs7Cep7TQ4VXDjqv"
+    },
+    {
+      "album": {
+        "name": "Nahuel Pennisi Canta a Mercedes Sosa",
+        "url": "https://open.spotify.com/album/5vq34J0MKEhlPTYUM6rXZ5"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180430,
+      "name": "Promesas Sobre el Bidet",
+      "url": "https://open.spotify.com/track/0LFeCF7zaC5PQIAorieJBN"
     },
     {
       "album": {

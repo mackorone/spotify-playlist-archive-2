@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 590093,
+  "num_followers": 590156,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "Sorry, Mom",
+        "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "I Threw Glass at My Friend's Eyes and Now I'm on Probation",
+      "url": "https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 228133,
       "name": "LOSER!!",
       "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Sorry, Mom",
-        "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "I Threw Glass at My Friend's Eyes and Now I'm on Probation",
-      "url": "https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE"
     },
     {
       "added_at": "2026-04-07 21:11:18",

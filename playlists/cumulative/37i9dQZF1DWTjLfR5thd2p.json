@@ -7283,6 +7283,24 @@
     },
     {
       "album": {
+        "name": "The last star",
+        "url": "https://open.spotify.com/album/6h24Uo7tEkK0NjR3EUvbQa"
+      },
+      "artists": [
+        {
+          "name": "Kiara Leonard",
+          "url": "https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "The last star",
+      "url": "https://open.spotify.com/track/46T3kuaXvCUV3ayML4zdIj"
+    },
+    {
+      "album": {
         "name": "The light is there",
         "url": "https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2"
       },

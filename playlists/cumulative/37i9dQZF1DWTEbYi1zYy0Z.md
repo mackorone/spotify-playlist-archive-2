@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-557 songs - 1 day 15 hr 26 min
+558 songs - 1 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Groove Factor](https://open.spotify.com/track/57NamF1itcWdE3WotFyPqM) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/1zRcI2NdbzP1Io1weNvMvF) | 5:14 | 2023-04-28 | 2025-05-24 |
 | [Groove Factor](https://open.spotify.com/track/7yhNFPUSYSygjoKIt2epLT) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/2Hluf4SuDadLbjEcPH9u9N) | 5:14 | 2023-04-28 | 2023-07-31 |
 | [Groovin' at the Symphony Hall](https://open.spotify.com/track/3qVuajH5vjMaypGAuw4hTr) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Groovin' at the Symphony Hall](https://open.spotify.com/album/4VSFMb03AlbMAuELJFwS0X) | 4:13 | 2024-03-15 |  |
+| [Grounded](https://open.spotify.com/track/5UmEYm4kmCdoevPAMwiNEg) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Grounded](https://open.spotify.com/album/6KgUC5fs5tQgczwuHPo11k) | 4:15 | 2026-08-14 |  |
 | [H.A.D\. \(featuring Chieli Minucci\)](https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0), [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [H.A.D.](https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ) | 4:13 | 2022-09-30 | 2024-03-16 |
 | [Happy](https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Happy](https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv) | 4:19 | 2023-03-10 | 2023-05-13 |
 | [Happy Hour](https://open.spotify.com/track/3iZDt8tUUKq5KblXWZGXiL) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Happy Hour](https://open.spotify.com/album/0OVp7l61NtLRuQauGUSoLJ) | 4:03 | 2024-08-23 |  |
@@ -269,7 +270,7 @@
 | [Kings & Queens](https://open.spotify.com/track/4pt7tAam7H8ysQgxWXCNta) | [Dean James](https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu) | [Kings & Queens](https://open.spotify.com/album/1yUsYV2ytolZCl8Lc46WjD) | 4:18 | 2025-07-04 |  |
 | [Knock Out](https://open.spotify.com/track/4lvSXlzf2fmTlhOLZFsOg4) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Knock Out](https://open.spotify.com/album/6byxMiZfKh37vdUBMPfGuB) | 5:06 | 2026-05-01 | 2026-06-06 |
 | [Labyrinth](https://open.spotify.com/track/0aQoZUFmZmOb29LMqsRoz5) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Mind Over Matter](https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ) | 5:08 | 2023-07-28 | 2024-04-19 |
-| [Labyrinth](https://open.spotify.com/track/5bMem6seFRTk6amdhRA2Z4) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Mind Over Matter](https://open.spotify.com/album/0Nyi7tRAwpdr0viwQwx0Fq) | 5:08 | 2023-07-28 |  |
+| [Labyrinth](https://open.spotify.com/track/5bMem6seFRTk6amdhRA2Z4) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Mind Over Matter](https://open.spotify.com/album/0Nyi7tRAwpdr0viwQwx0Fq) | 5:08 | 2023-07-28 | 2026-08-15 |
 | [Last Dance](https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg), [Peter White](https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo) | [Touch](https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb) | 4:13 | 2020-10-30 | 2022-03-17 |
 | [Late Night Drive](https://open.spotify.com/track/7hweKo7KkE5q0HUKCqddqp) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Songs From The Deep](https://open.spotify.com/album/1jM7nkn52EDmGHZGFZpmRU) | 4:22 | 2021-01-22 | 2022-03-18 |
 | [Later Together](https://open.spotify.com/track/0EEmz4rs2yKfEIE9ODHVUg) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Later Together](https://open.spotify.com/album/0cQOJUaBWc8h7iCBTHEUd9) | 4:05 | 2024-06-14 |  |

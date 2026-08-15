@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,395 likes - 105 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,401 likes - 105 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 4 | [Nobody](https://open.spotify.com/track/21DQSV4ggmET2fI4dxFLxa) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [Yield](https://open.spotify.com/album/6aCjywAMr9mCKITGSKWHHl) | 2:18 |
 | 5 | [This Joy](https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K), [Seun Makay](https://open.spotify.com/artist/6iTWmqUhTN5ig1UuD6lSQY) | [This Joy](https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij) | 4:03 |
 | 6 | [Heaven Is My Home](https://open.spotify.com/track/2AJ9OCRvG9j0TvwmM2Mjgi) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [iThemba Youth Choir](https://open.spotify.com/artist/4EOOO9yCe3UNF8cRFgkaCZ) | [Heaven Is My Home](https://open.spotify.com/album/6owyc4D1WSLvQj4hTwnX1n) | 3:07 |
-| 7 | [Track 3](https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [God Is Cooking](https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL) | 0:00 |
+| 7 | [Oruko](https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [God Is Cooking](https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL) | 3:47 |
 | 8 | [I Pray You Know The Love Of Jesus](https://open.spotify.com/track/6CugPKmjJNGAw18CJnvoRK) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Mireya Harris](https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5) | [I Pray You Know The Love Of Jesus](https://open.spotify.com/album/5Vbxsn75W3LYBTTyooUjeu) | 2:11 |
 | 9 | [sng bck t m](https://open.spotify.com/track/2B8mScqVW6qoMBO4IhnBqG) | [SizzlePRO](https://open.spotify.com/artist/5XW6aqpVAAC7GJGvNeytdf), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [bbystps](https://open.spotify.com/artist/68fREiCxsehECNOgx2dTym) | [sng bck t m](https://open.spotify.com/album/2RJlVRT6eIRbSwZcbCV4Ix) | 3:04 |
 | 10 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 |

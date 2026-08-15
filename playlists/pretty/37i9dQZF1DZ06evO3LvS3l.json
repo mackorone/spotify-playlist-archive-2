@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28879,
+  "num_followers": 28890,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAABd2cXB8FyK5jRz+sC2PwD8",
+  "snapshot_id": "an0JAAAAAACjtYAqZNnlcIDOQKMmkr05",
   "tracks": [
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Daddy",
-        "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 160680,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
+      "duration_ms": 219306,
+      "name": "Mona Lisa Lost Her Smile",
+      "url": "https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+        "name": "Crazy Daddy",
+        "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 219306,
-      "name": "Mona Lisa Lost Her Smile",
-      "url": "https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN"
+      "duration_ms": 160680,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
     },
     {
       "added_at": null,

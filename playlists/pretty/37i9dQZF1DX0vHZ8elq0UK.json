@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 1142517,
+  "num_followers": 1142693,
   "original_name": "Energy Booster: Pop",
   "owner": {
     "name": "Spotify",
@@ -2475,26 +2475,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Dance Again",
-        "url": "https://open.spotify.com/album/5qXFiIVtukKnpD8C5N7kEb"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/1vqT6w3wtW3UoF2JQOFqws"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/0g8bYxIjEojf4hyQlVVn99"
       },
@@ -2511,6 +2491,26 @@
       "duration_ms": 219413,
       "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
       "url": "https://open.spotify.com/track/4BfRDZLIiznSnwU7DdDL9N"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/5qXFiIVtukKnpD8C5N7kEb"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/1vqT6w3wtW3UoF2JQOFqws"
     },
     {
       "added_at": "2025-05-27 13:50:42",

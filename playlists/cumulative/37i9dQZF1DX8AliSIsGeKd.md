@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Anyma
 
-7,430 songs - 25 day 2 hr 7 min
+7,430 songs - 25 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3738,6 +3738,7 @@
 | [Like It Is](https://open.spotify.com/track/7nBByqASQkp1tYcoTpd2eL) | [Marco Resmann](https://open.spotify.com/artist/2fC8GMMVIAVPBX2O50Lijm), [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U) | [Like It Is](https://open.spotify.com/album/36uKFnP1370DodMvtWDhZB) | 5:09 | 2023-10-20 | 2023-11-03 |
 | [Like That](https://open.spotify.com/track/0dKKix01lVjjDIV13rplHZ) | [DSF](https://open.spotify.com/artist/3K2gZWyRAOJH7Wlek8VOBC) | [Like That](https://open.spotify.com/album/2TXduzU5oujZR5DCJ0LaSD) | 3:11 | 2026-06-11 | 2026-06-26 |
 | [Like That](https://open.spotify.com/track/1BK0GeyfIuzfRY0SPSPvkZ) | [VEENMOL](https://open.spotify.com/artist/6GRjb9Ki4EMI6WxeWbvBCa), [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Like That](https://open.spotify.com/album/4krUEWQKUnpKCMhjldADtN) | 3:43 | 2025-09-11 | 2025-10-03 |
+| [Like That](https://open.spotify.com/track/65C6n0hHXphRfKq0LIonih) | [YOZÉ](https://open.spotify.com/artist/5XBh3fpITlhkBrId3sCiN6) | [Like That EP](https://open.spotify.com/album/5CPX8zQoPsklbIK3A3uqO4) | 2:38 | 2026-08-13 |  |
 | [Like This](https://open.spotify.com/track/3nGbeVSKQU9ctUnBsdxDuS) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Like This](https://open.spotify.com/album/1C5fCALinQbstDa0EFa14N) | 3:36 | 2025-03-06 | 2025-03-28 |
 | [Like You](https://open.spotify.com/track/1ccKsFfl7UL87GNB3B0kgd) | [Fifty Five](https://open.spotify.com/artist/2sWTgm6qQXV3Ebyg3T9FD2) | [Like You](https://open.spotify.com/album/7wjuJBVQiluKaTrYLCICij) | 7:50 | 2026-08-06 |  |
 | [Lil Freaky](https://open.spotify.com/track/25Rk41lvT9FK9VEdqeUlC0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Lil Freaky](https://open.spotify.com/album/3zY5XU6jr6EIrUR7O7Uacg) | 3:30 | 2025-05-29 | 2025-06-21 |
@@ -6691,8 +6692,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 1](https://open.spotify.com/track/4qdbviIxAVzPr9nxJbVucM) | [sin:port](https://open.spotify.com/artist/2qexUhp1F9BhpDgE8G54tv) | [Watch Your Pulse](https://open.spotify.com/album/7FBm8m4nHYc1dsgzAmhKGL) | 0:00 | 2026-08-13 |  |
-| [Track 1](https://open.spotify.com/track/65C6n0hHXphRfKq0LIonih) | [YOZÉ](https://open.spotify.com/artist/5XBh3fpITlhkBrId3sCiN6) | [Like That EP](https://open.spotify.com/album/5CPX8zQoPsklbIK3A3uqO4) | 0:00 | 2026-08-13 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 | 2026-02-20 |
@@ -7063,6 +7062,7 @@
 | [Wasting My Time With You](https://open.spotify.com/track/0UpWfzdXPbtWaqybMnsRkK) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Wasting My Time With You](https://open.spotify.com/album/2ZrDp6Qa0a6GbqMVeFIkcB) | 3:40 | 2024-03-14 | 2024-04-05 |
 | [Watch Me Choose You](https://open.spotify.com/track/45DWEUKSrHBbQLbrDtKDnV) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [I Will Be A Devil Until I Am An Angel EP](https://open.spotify.com/album/6zjVuZC8ISTcijr3okOKJN) | 7:53 | 2023-11-24 | 2023-12-08 |
 | [Watch This World Fall Down](https://open.spotify.com/track/0pM1OEIlf5705iP1V94JMN) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Watch This World Fall Down](https://open.spotify.com/album/0VLPy7CsP3DPZ8b6U4X6MO) | 4:44 | 2024-10-24 | 2024-11-15 |
+| [Watch Your Pulse](https://open.spotify.com/track/4qdbviIxAVzPr9nxJbVucM) | [sin:port](https://open.spotify.com/artist/2qexUhp1F9BhpDgE8G54tv), [Maurice Mino](https://open.spotify.com/artist/3jQ3A0KKg25CZZNBFr5fKB) | [Watch Your Pulse](https://open.spotify.com/album/7FBm8m4nHYc1dsgzAmhKGL) | 5:09 | 2026-08-13 |  |
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2022-10-06 | 2022-10-28 |
 | [Water](https://open.spotify.com/track/3qUoeSO7fHMU9ZMnT9iVuT) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Water](https://open.spotify.com/album/63QRVApN9ugLFMqqufqqdS) | 5:06 | 2026-05-28 | 2026-06-12 |
 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 | 2022-07-28 | 2022-08-12 |

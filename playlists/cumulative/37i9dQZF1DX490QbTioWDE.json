@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4Lokura, Lauta & Amigo de Artistas",
+  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & DesaKTa2",
   "name": "100% Cuarteto",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 229690,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/3z7sIkv95YbR4MQZ6wQt5d"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 190045,
       "name": "Conv\u00e9nceme",
       "url": "https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy"
@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 136944,
       "name": "EL ULTIMO BAILE",
       "url": "https://open.spotify.com/track/0rZRnl6CJORjaP4rnRiKBr"
@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 208979,
       "name": "Fama de Diabla",
       "url": "https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd"
@@ -5250,7 +5250,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 166493,
       "name": "La \u00daltima Granada - En Vivo",
       "url": "https://open.spotify.com/track/6TnZSXypAbIozg8BlodtWe"
@@ -9914,7 +9914,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 340908,
       "name": "Si Se Acaba El Mundo / Khe",
       "url": "https://open.spotify.com/track/77EbVd2hqkv0pPVwfRC8II"
@@ -10506,7 +10506,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 180713,
       "name": "Tanto Amor - En Vivo Tecn\u00f3polis",
       "url": "https://open.spotify.com/track/0lHosLrbFlYU6eAmMmOtWA"
@@ -12306,6 +12306,28 @@
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
+    },
+    {
+      "album": {
+        "name": "YA SUFRI POR AMOR",
+        "url": "https://open.spotify.com/album/4fn3CkE2J49pyYxW4wCnhC"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143172,
+      "name": "YA SUFRI POR AMOR",
+      "url": "https://open.spotify.com/track/1QGwQaCkWA88Rcw8xuq4Py"
     },
     {
       "album": {

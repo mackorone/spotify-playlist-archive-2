@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Trigga500k
 
-2,410 songs - 4 day 6 hr 21 min
+2,411 songs - 4 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,6 +748,7 @@
 | [Floretta](https://open.spotify.com/track/7di3TPcdRDhPensEoR7tvm) | [saveaj](https://open.spotify.com/artist/3D0dxmpnWREvNCxjsY1Bjv) | [SISU](https://open.spotify.com/album/1rW7ZGUdqq17naJHWHucg2) | 1:56 | 2025-11-05 | 2025-12-04 |
 | [FLOWERS](https://open.spotify.com/track/2LRyHmhUWF9fBcvX07d0SY) | [LANO](https://open.spotify.com/artist/5WJNhEfooEIDF4XZHUTLJ3), [ANDA](https://open.spotify.com/artist/2OVDGyCAvAI1IABk83Hpcm), [DAE the VIDEO](https://open.spotify.com/artist/3TCoDJq011eE6A7PnKBsus), [jale](https://open.spotify.com/artist/07ui0wa7tEX8hnt1wKyDhd), [Bobbon](https://open.spotify.com/artist/1IL0tUcT6MjfT6r8twAcUf) | [FLOWERS](https://open.spotify.com/album/7qwlKXw58FZK4SuVvGeHWm) | 3:34 | 2022-06-30 | 2022-08-25 |
 | [FLU GAME](https://open.spotify.com/track/3M9RsAQWcVAR8UN6FYFDD1) | [Rome HSB](https://open.spotify.com/artist/5cJixE9JvtFOwilPT0Soro) | [FLU GAME](https://open.spotify.com/album/5YZyhuui2Cd6fQRKlZ1feY) | 2:10 | 2024-01-31 | 2025-02-20 |
+| [FLY](https://open.spotify.com/track/5V4lacLcecyaGT76nCpuCm) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [FOREIGN STANDARD](https://open.spotify.com/album/3BxRMEjgQ4tvKCqEE2059k) | 2:19 | 2026-08-14 |  |
 | [FOOD 4 THOUGHT](https://open.spotify.com/track/4S5rUj24T7gJsddQIKd4gy) | [GR3G](https://open.spotify.com/artist/074OZlAWHVEVUIpLmRjyjq) | [FOOD 4 THOUGHT](https://open.spotify.com/album/7llXoe7JqxAQhkG8DAOOV5) | 4:15 | 2024-07-10 | 2024-08-01 |
 | [Footprints](https://open.spotify.com/track/6VwiIlkMlY83oITeZbOOCF) | [Mazen](https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM) | [Footprints + Jungle](https://open.spotify.com/album/176jw5UiicZw8mkCk1tyEv) | 2:39 | 2024-06-05 | 2024-06-27 |
 | [For Love \(feat\. Thelonious\)](https://open.spotify.com/track/0YGZyCSLMjjSg4f3jHi6qe) | [Tara Lord](https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [For Love](https://open.spotify.com/album/2pNmDJKnLJNm0lPWnSIbuc) | 3:00 | 2024-03-13 | 2024-04-19 |
@@ -1829,7 +1830,7 @@
 | [Run Shit](https://open.spotify.com/track/4KUZw84SWdhDDtPWtCaPF6) | [Monae Marleau](https://open.spotify.com/artist/6kWRBaiNSNWkvtJfejRQV7) | [Run Shit](https://open.spotify.com/album/75rmEfpuBs8zJz7GIxaGOB) | 2:50 | 2024-06-19 | 2024-06-27 |
 | [RUN!](https://open.spotify.com/track/05lftM1vvY40FPDRlpunac) | [Lil Temptacion](https://open.spotify.com/artist/6E7buQWJiIXG1LaQyK65SL), [PK Nx$h](https://open.spotify.com/artist/1qvzxDoKG7TDST46USZzq9) | [RUN!](https://open.spotify.com/album/78K8SanmZDJ2IohhRBzIHs) | 2:05 | 2022-10-05 | 2022-12-01 |
 | [Rush](https://open.spotify.com/track/6Y1nNd6fuIFcbOvTYWhQ2K) | [Jay Pareil](https://open.spotify.com/artist/7bROBB1DkMVz52NoCTaIfc) | [Rush](https://open.spotify.com/album/0QnmkXaajsb3XkF3UtW7To) | 2:14 | 2023-07-19 | 2024-01-25 |
-| [RUSH](https://open.spotify.com/track/3uLSz6Mk0kmUXCAWlQ2inQ) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [RUSH](https://open.spotify.com/album/3epFZcX8cNZs0HT5UP8X8i) | 2:36 | 2026-07-29 |  |
+| [RUSH](https://open.spotify.com/track/3uLSz6Mk0kmUXCAWlQ2inQ) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [RUSH](https://open.spotify.com/album/3epFZcX8cNZs0HT5UP8X8i) | 2:36 | 2026-07-29 | 2026-08-15 |
 | [Ruth Chris](https://open.spotify.com/track/0X6OUAObe3Sz3NqCy2DbXe) | [Naffy G](https://open.spotify.com/artist/49sGSFwM6uEeNqUkDN4r9f) | [Ruth Chris](https://open.spotify.com/album/04li8D5HfLYG0Xygj1q76h) | 3:16 | 2026-03-19 | 2026-04-02 |
 | [RökKOut](https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [RökKOut](https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY) | 3:52 | 2024-10-23 | 2025-02-20 |
 | [S T A R](https://open.spotify.com/track/667WXZTbxfMio6VJBoNupr) | [Tara Lord](https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ) | [S T A R](https://open.spotify.com/album/6ZleLQFnC4bdAo6tvu2JqW) | 2:12 | 2024-04-03 | 2024-05-16 |

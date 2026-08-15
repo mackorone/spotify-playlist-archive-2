@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-105 songs - 5 hr 51 min
+106 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [AdラLib](https://open.spotify.com/track/4AwCgFvlH58SmKbNWFKsWY) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [キルラキル コンプリートサウンドトラック](https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6) | 3:23 | 2022-03-25 |  |
 | [Again](https://open.spotify.com/track/7aCic4CXOZ3jbk4aLEtv8v) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 3\)](https://open.spotify.com/album/7o8sLz2KsnZ0ykcQS6OxYM) | 3:41 | 2022-03-25 |  |
 | [Alone Theme \(From "Naruto"\)](https://open.spotify.com/track/40BZkx12MfB7QKtjryXKGN) | [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko) | [Cinéma](https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT) | 1:38 | 2026-06-19 |  |
+| [Ask me why \(II\)](https://open.spotify.com/track/6AUhHAA53ONVL8SlgNPKgA) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Ask me why \(II\)](https://open.spotify.com/album/69Ikb0v1pjo7gTVCS7ZNcL) | 3:27 | 2026-08-14 |  |
 | [Ask Me Why \(Mother's Message\)](https://open.spotify.com/track/104EutLydSehDHiEjmtdBo) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [The Boy and the Heron \- Original Soundtrack](https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW) | 1:48 | 2023-12-01 | 2024-04-19 |
 | [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 | 2023-08-15 |  |
 | [Battle! \(Gym Leader Drayden\)](https://open.spotify.com/track/1c1MxMmlEx79C2q2hx5II0) | [Kunning Fox](https://open.spotify.com/artist/3RghLagVWsyJ69agzOVeDn) | [Back To Unova 2, Vol\. IV \(Music From "Pokémon Black 2 & White 2"\)](https://open.spotify.com/album/7d4AsqdnFBHShIwfMuMNUR) | 2:55 | 2024-10-18 |  |

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,712 songs - 3 day 16 hr 58 min
+1,715 songs - 3 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [Forever Lover \(永远的爱人\)](https://open.spotify.com/track/1osioxQykglfD6mNLzfwB1) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Forever Lover \(永远的爱人\)](https://open.spotify.com/album/60OJuNsI6hb9t9jkNrl6fN) | 3:33 | 2026-02-13 | 2026-05-16 |
 | [forever&more](https://open.spotify.com/track/0UMFm4ndFr3PH5VsVYnCNG) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [forever&more](https://open.spotify.com/album/2ox1YSN2qTOg170HnzqqI3) | 2:55 | 2021-07-31 | 2022-01-15 |
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-05-08 | 2021-09-04 |
-| [forget him](https://open.spotify.com/track/5C2i3yvlxw6qy1AQD8R08N) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [forget him](https://open.spotify.com/album/7c1tTnLalgefGACri3F4dB) | 3:23 | 2026-05-01 |  |
+| [forget him](https://open.spotify.com/track/5C2i3yvlxw6qy1AQD8R08N) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [forget him](https://open.spotify.com/album/7c1tTnLalgefGACri3F4dB) | 3:23 | 2026-05-01 | 2026-08-15 |
 | [Forget You](https://open.spotify.com/track/54xA4D0ZXwHUNwqxNUa5MW) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Forget You](https://open.spotify.com/album/0zWaiBUml8QNLZrblzmscs) | 2:55 | 2022-02-25 | 2022-04-16 |
 | [Forgive & Forget](https://open.spotify.com/track/0Rxwr5KJUwAq5SMPtMTq0g) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Forgive & Forget](https://open.spotify.com/album/7t37CKgF9GtNTdkFExxegB) | 2:48 | 2024-10-18 | 2025-10-03 |
 | [forgot to forgive](https://open.spotify.com/track/65L1NnsTeR1K8iVudv84J1) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [bad at breakups](https://open.spotify.com/album/11Dp555Nxhuawzz8efXgk4) | 2:44 | 2020-10-29\* | 2021-02-13 |
@@ -569,7 +569,7 @@
 | [gimme all ur luv](https://open.spotify.com/track/2G7Jmx6mrz2doZ8YaEmVAv) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/2rDmBDlIwIFtcV6TM8lD5l) | 2:54 | 2023-05-17 | 2023-10-02 |
 | [GIN N JUICE](https://open.spotify.com/track/7IeF3GYiOqsKQ97cchFod3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GIN N JUICE](https://open.spotify.com/album/31tl4xCfME9LBkMdCg0p0U) | 1:41 | 2020-11-03 | 2020-11-04 |
 | [Ginger Lemonade](https://open.spotify.com/track/60XG382z7UHlLMXs0bOwRb) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Can We Hang Out Sometime?](https://open.spotify.com/album/2ude1QTWRjfCQYgpr5mc11) | 2:59 | 2026-04-03 | 2026-07-04 |
-| [Girl of My Dreams](https://open.spotify.com/track/63S5dMn8E9AzHCtxg6UIfB) | [Charlie Cello](https://open.spotify.com/artist/1dXr00ZTDAbZXIyfrD82SH) | [Girl of My Dreams](https://open.spotify.com/album/5lwkUh2FMpw0liVYGQFBon) | 4:07 | 2026-05-29 |  |
+| [Girl of My Dreams](https://open.spotify.com/track/63S5dMn8E9AzHCtxg6UIfB) | [Charlie Cello](https://open.spotify.com/artist/1dXr00ZTDAbZXIyfrD82SH) | [Girl of My Dreams](https://open.spotify.com/album/5lwkUh2FMpw0liVYGQFBon) | 4:07 | 2026-05-29 | 2026-08-15 |
 | [GIRL ON TV](https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [GIRL ON TV](https://open.spotify.com/album/1ysjIPMr2enaVZYn7HxMdA) | 3:12 | 2020-11-14 | 2021-01-30 |
 | [girlfriend](https://open.spotify.com/track/1VvHMWM4x5KNNIkeDfepKg) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [girlfriend](https://open.spotify.com/album/20QM71c1VvCaBb8uO2IWUo) | 2:14 | 2021-02-27 | 2021-05-08 |
 | [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 | 2026-05-08 | 2026-08-08 |
@@ -757,6 +757,7 @@
 | [i still replay](https://open.spotify.com/track/17wz1MjhLeOYDU1V4o2YRw) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [i still replay](https://open.spotify.com/album/3Ba89mIB9cJB4JDEGFAsM2) | 2:25 | 2026-05-15 |  |
 | [i think i like your girlfriend](https://open.spotify.com/track/4vfqtTA2gCEgorXHfay7XV) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [i think i like your girlfriend](https://open.spotify.com/album/4V9hYFIzK5hLLmxNEjyu2t) | 2:46 | 2023-08-04 | 2024-06-22 |
 | [i think i saw a ghost](https://open.spotify.com/track/29XWWxrDuVcKVPfCaGDGXT) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [i think i saw a ghost](https://open.spotify.com/album/1qIZPiM3lKihjfq4V6tOMc) | 2:55 | 2021-11-20 | 2022-04-23 |
+| [i think of you the most](https://open.spotify.com/track/2pr7yL0mr8Dnm2nlnqPMin) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [i think of you the most](https://open.spotify.com/album/6qpHLyez8QjIfaQOU8NghJ) | 3:17 | 2026-08-14 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-06 | 2021-06-05 |
 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2023-02-24 | 2024-06-01 |
 | [i wish i could rip off this old face](https://open.spotify.com/track/5t3MKtYPpzPz4LfsqeTgpq) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i wish i could rip off this old face](https://open.spotify.com/album/1zxq5E8fjnSO1jC16diuXY) | 2:15 | 2025-10-31 | 2026-01-31 |
@@ -906,6 +907,7 @@
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-05-05 | 2023-07-01 |
 | [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 | 2024-01-05 | 2025-09-12 |
 | [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-06-05 | 2022-02-05 |
+| [LLL](https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [LLL](https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj) | 3:33 | 2026-08-14 |  |
 | [Loin](https://open.spotify.com/track/2IWh6YQd16fIt6GKFjftA7) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Loin](https://open.spotify.com/album/0GUZfYzll9LYYDsxJYxdVy) | 2:14 | 2026-02-13 | 2026-05-30 |
 | [lonely](https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [lonely](https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3) | 3:48 | 2022-11-11 | 2024-04-13 |
 | [Lonely Bitch](https://open.spotify.com/track/0sAwbGaFnlxrxFgQfNzGJS) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Lonely Bitch](https://open.spotify.com/album/3WANp0KcO1P5kKWdTcYEM8) | 1:50 | 2021-02-13 | 2021-04-10 |
@@ -1595,6 +1597,7 @@
 | [valley of my prime](https://open.spotify.com/track/1HUNvrzlx3bqFul0Lo6iQ4) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/303IUrDFZdlqc5NVUFazCL) | 3:29 | 2026-01-02 | 2026-02-14 |
 | [Vampires](https://open.spotify.com/track/0btyrnJOCj7mzl3YZxRIbM) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Vampires](https://open.spotify.com/album/3L2H74ifH8nL4AlHWb1c4b) | 3:15 | 2021-10-30 | 2022-03-12 |
 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 | 2022-03-18 | 2022-04-09 |
+| [Vaseline](https://open.spotify.com/track/00z4NVXuIgiwVRfAm5zgCe) | [Lily like the flower](https://open.spotify.com/artist/2atgOXTEkUmZZ2AfXICaQc) | [Vaseline](https://open.spotify.com/album/7i75X5H352jZ7NPmJcFLfq) | 2:59 | 2026-08-14 |  |
 | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA) | 3:12 | 2021-12-04 | 2022-04-29 |
 | [Venus Fly Trap](https://open.spotify.com/track/26iz8aybaiDJiJzltYKv9p) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Venus Fly Trap](https://open.spotify.com/album/1bxcKEDobj7qHOXCEPRH5y) | 2:38 | 2021-06-12 | 2021-07-17 |
 | [Verónica](https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Tristán, Ahora Con Reloj](https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe) | 2:53 | 2025-10-09 | 2025-12-20 |

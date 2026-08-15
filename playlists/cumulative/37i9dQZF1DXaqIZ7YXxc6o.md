@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Club Angel
 
-4,169 songs - 9 day 11 hr 48 min
+4,169 songs - 9 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [Contact](https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Contact](https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS) | 3:07 | 2026-01-15 | 2026-03-13 |
 | [CONTROL](https://open.spotify.com/track/5R1p5pX20rbo67fmyWZViD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [CONTROL / REAL MOVE TOUCH](https://open.spotify.com/album/27uTH714qvBzWTHAKIWPGq) | 3:44 | 2024-10-03 | 2024-11-08 |
 | [Control](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Control](https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3) | 4:18 | 2024-12-12 | 2025-02-07 |
+| [Control Me](https://open.spotify.com/track/0adMO7pIBsUeOSx2SJEbwq) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Heaven In The Dark](https://open.spotify.com/album/0py0wdchSkP1cArZUdyCOb) | 3:16 | 2026-08-13 |  |
 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-02-02 | 2023-03-03 |
 | [Cool 'N Calm](https://open.spotify.com/track/7puBhOuLu7ftK0X19t0gRr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Cool 'N Calm](https://open.spotify.com/album/38V1SjBIRIN2ZJtM4LowSp) | 3:35 | 2025-04-03 | 2025-05-16 |
 | [Cool for You](https://open.spotify.com/track/69BC6jWLIWcjerCiZOD5tZ) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye) | [Cool for You](https://open.spotify.com/album/1eVebCQ2oILRMl0Xd4V3qs) | 3:18 | 2023-11-09 | 2023-12-02 |
@@ -3766,7 +3767,6 @@
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-27 | 2025-05-02 |
 | [Toxic](https://open.spotify.com/track/0ZEI0seiT4dTdaeAG0Elpm) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [Kormak](https://open.spotify.com/artist/2bPjd3e5EW7GfP6shz0Py5) | [Toxic](https://open.spotify.com/album/2IQ0X4YEGvqn9WPddpOxQp) | 2:48 | 2023-12-01 | 2024-01-12 |
 | [Toys](https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Toys](https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN) | 4:20 | 2024-04-11 | 2024-05-10 |
-| [Track 1](https://open.spotify.com/track/0adMO7pIBsUeOSx2SJEbwq) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Heaven In The Dark](https://open.spotify.com/album/0py0wdchSkP1cArZUdyCOb) | 0:00 | 2026-08-13 |  |
 | [Traga ft\. STO Cultr](https://open.spotify.com/track/6RZ4uwBqEF0o9R0htuTCZ7) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [Traga ft\. STO Cultr](https://open.spotify.com/album/5nthDQNJm6U72odQxQLH5v) | 3:59 | 2023-02-09 | 2023-03-10 |
 | [Transport God](https://open.spotify.com/track/7mMZlq2vNjjpBVYkMoaNjp) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [Transport God](https://open.spotify.com/album/5IGurSLvJs2ZOPBqdZtuUF) | 2:12 | 2023-01-12 | 2023-02-17 |
 | [Trapped](https://open.spotify.com/track/28byfmQCZ3hJggUIFuaPiK) | [Tina Says](https://open.spotify.com/artist/4NStEEdNYCLBx2jwKGQhju) | [Trapped / Unreal](https://open.spotify.com/album/7uJvuYmxYopKjIDbO3TFKZ) | 3:29 | 2024-03-07 | 2024-04-05 |

@@ -4644,7 +4644,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 210900,
       "name": "I Let You Think That You Do",
       "url": "https://open.spotify.com/track/5rhIUOc7EmYB5jbnXfCIhc"
@@ -6110,7 +6110,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 327209,
       "name": "Love Her with a Feeling",
       "url": "https://open.spotify.com/track/30Gu5mcMflfTdIa0OG8XkS"
@@ -9893,6 +9893,44 @@
     },
     {
       "album": {
+        "name": "Morgan Freeman's Symphonic Blues Experience",
+        "url": "https://open.spotify.com/album/2pCUARTi6tBF0hMZtTz5ox"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        },
+        {
+          "name": "Mark Yacovone",
+          "url": "https://open.spotify.com/artist/7CJGPqQhhAbOVVmhiJMPh4"
+        },
+        {
+          "name": "Ground Zero Blues Club Band",
+          "url": "https://open.spotify.com/artist/03hSW2Ru3hyb1bADhUZYgT"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "name": "Martin Gellner",
+          "url": "https://open.spotify.com/artist/4htujiPBxC6ynIY9V6sKOR"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221546,
+      "name": "Traveling Riverside Blues",
+      "url": "https://open.spotify.com/track/1q6a5AZllhZb7jIM7ToThW"
+    },
+    {
+      "album": {
         "name": "Trouble Of That Girl",
         "url": "https://open.spotify.com/album/002PpWEcvLyEwuSEgsqYq3"
       },
@@ -10872,6 +10910,24 @@
       "duration_ms": 268426,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/4KbkajONKr97VZBv5Zi3Ux"
+    },
+    {
+      "album": {
+        "name": "Whole Lot Coming For You",
+        "url": "https://open.spotify.com/album/3eI8CzsSKxTbW2NC1mUu5m"
+      },
+      "artists": [
+        {
+          "name": "Eddie 9V",
+          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173290,
+      "name": "Whole Lot Coming For You",
+      "url": "https://open.spotify.com/track/7C56tIFtfPQbkaFPcYVweF"
     },
     {
       "album": {

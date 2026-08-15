@@ -4,7 +4,7 @@
 
 > 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes!
 
-412 songs - 22 hr 39 min
+415 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Next To You](https://open.spotify.com/track/69NxIgtkxX3gk9YO5N1p9e) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:25 | 2023-08-28 | 2023-10-28 |
 | [Night Out](https://open.spotify.com/track/7rygtF1E2ztCZ9ESoWHh64) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Night Out](https://open.spotify.com/album/7JRop3GXWnHT9rakkGrUgW) | 3:11 | 2023-08-28 | 2024-12-14 |
 | [No California](https://open.spotify.com/track/2qWI9KeeGFSyshLALQ61MG) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:35 | 2024-01-10 | 2024-12-14 |
+| [No One Loves Like You](https://open.spotify.com/track/7oKIpGKw2LjoCyjWYuNn6b) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Easier](https://open.spotify.com/album/6VeShTaXGbuywKAVsOGEWc) | 3:56 | 2026-08-14 |  |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-08-16 |  |
 | [Nobody Does It Like You](https://open.spotify.com/track/0TkKfx51dQk1ca2TE17Z3R) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Nobody Does It Like You](https://open.spotify.com/album/1BtCxE61J2CFSvDc27ETVZ) | 3:04 | 2024-10-11 | 2026-07-11 |
 | [Noches IntimaXx](https://open.spotify.com/track/5ECbVbqSsshnGw6wPPNAQS) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Noches IntimaXx](https://open.spotify.com/album/7eXs9Nt1zd979rPgQCBY8n) | 2:47 | 2021-12-06 | 2023-08-16 |
@@ -359,6 +360,7 @@
 | [Teardrop](https://open.spotify.com/track/0rl0q52F3QUQG8BiYrR0TC) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Teardrop](https://open.spotify.com/album/3YhypjPZYK76WZFV7iA0h4) | 4:22 | 2025-09-26 |  |
 | [Technical Difficulties](https://open.spotify.com/track/6H74zmY905gEiWHNJ7Y60A) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Technical Difficulties](https://open.spotify.com/album/4bfyeIoMY1v5c7UCnRmeXG) | 2:50 | 2021-12-06 | 2023-08-16 |
 | [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2023-08-15 | 2023-08-29 |
+| [That Ain’t You](https://open.spotify.com/track/4gPnKC5eNWa3pjMocIPeL7) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [That Ain't You](https://open.spotify.com/album/5FZhFZbwHtgh1VdseQPD3Q) | 2:36 | 2026-08-14 |  |
 | [that girl](https://open.spotify.com/track/1b9bQlkgVGPvAEdILmRIN2) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [push up bra](https://open.spotify.com/album/56l2wVNW9dqsumrKaajQZY) | 2:49 | 2024-03-08 | 2025-01-12 |
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-11 |  |
 | [the 1](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:30 | 2023-08-15 | 2023-08-29 |
@@ -406,6 +408,7 @@
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2021-12-06 | 2023-08-16 |
 | [White Noise](https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [April's Nectar](https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv) | 3:15 | 2023-12-04 | 2025-02-18 |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-02-17 |  |
+| [Why It’s Me](https://open.spotify.com/track/5lAbeVyXLLvTJ2emBdYZkF) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Why It’s Me](https://open.spotify.com/album/6fFQvbElISzfZLDXQzZFg9) | 2:45 | 2026-08-14 |  |
 | [Will You Always Love Her?](https://open.spotify.com/track/3AaT6DOf5An98ZstWmKBbb) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Will You Always Love Her?](https://open.spotify.com/album/0jlavK1I1ZewnfYWXbJPNs) | 3:05 | 2025-03-21 |  |
 | [wish you well](https://open.spotify.com/track/4IjQfvDhOA5AkEC4kEGVJQ) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/19Nw7Jat25JYGPSWwMA7Ce) | 3:02 | 2021-12-06 | 2023-08-16 |
 | [Won't Be Long](https://open.spotify.com/track/7FUhfnNPBB7xZUAougxPUJ) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Won't Be Long](https://open.spotify.com/album/5DcTe15NEkFhVrX171TYuU) | 2:41 | 2025-01-24 | 2026-08-01 |

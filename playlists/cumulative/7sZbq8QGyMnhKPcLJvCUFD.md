@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-883 songs - 1 day 19 hr 49 min
+884 songs - 1 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [EVERYTIME I SEE YOUR FACE](https://open.spotify.com/track/3e3sh4nCgOPuQOulCWZpIY) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [BLINDSIDE](https://open.spotify.com/album/5kAH2guuQEtM5kb6lrrNXi) | 4:17 | 2023-12-26 | 2024-07-19 |
 | [EX](https://open.spotify.com/track/2jPZeSOSA0rFr9YIfpdNtD) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [EX](https://open.spotify.com/album/3oPmjApdBC7DFJYekgWEVp) | 2:15 | 2023-06-16 | 2023-08-10 |
 | [EXECUTIONER](https://open.spotify.com/track/0gYS6XPKlUbOFPYibwW58o) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [EXECUTIONER](https://open.spotify.com/album/47zIUPtRpiGINO2YAbRFi9) | 1:30 | 2024-08-15 |  |
+| [Exoskeleton](https://open.spotify.com/track/4pcsHd6NsASKyZHQsbGVQY) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Exoskeleton](https://open.spotify.com/album/6fTGqKIQmC3dOCmEZ9wvBc) | 4:37 | 2026-08-14 |  |
 | [EYES ON US](https://open.spotify.com/track/0DzHeufALfs51yaLHdNroi) | [2frers](https://open.spotify.com/artist/2P1tiZhfy8OaqDo0TWAC3B) | [EYES ON US](https://open.spotify.com/album/7COqnvZea0eqCWqP45gevA) | 2:10 | 2026-06-05 |  |
 | [fade](https://open.spotify.com/track/4QIunJj1Sw6BgYYB2iEIeU) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [fade](https://open.spotify.com/album/2cqvuYk4Haj2e44X4zfONh) | 2:26 | 2024-05-10 | 2025-01-08 |
 | [Fading Light](https://open.spotify.com/track/392hrwAnmlDhxjN9lfTMr3) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I) | [Fading Light](https://open.spotify.com/album/5BLFqthGSGFJILKTJtPqU9) | 3:01 | 2025-04-04 |  |

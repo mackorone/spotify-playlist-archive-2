@@ -4,7 +4,7 @@
 
 > just trying our best 📸 ADÉLA
 
-2,865 songs - 6 day 0 hr 18 min
+2,867 songs - 6 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [fckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 | 2023-08-11 | 2023-08-26 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-03-17 | 2024-10-19 |
 | [feel again](https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv) | [Storm Henshaw](https://open.spotify.com/artist/3vn8pE5glXLXdNnTwRdjTs) | [feel again](https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4) | 3:25 | 2025-07-11 | 2025-09-20 |
+| [Feel Good](https://open.spotify.com/track/2suh7sTjHZ9gjmso1ZTjF5) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Feel Good](https://open.spotify.com/album/1ERFU3Ua92C81vTtYicsLn) | 2:43 | 2026-08-14 |  |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-04-04 | 2025-08-01 |
 | [Feel Like](https://open.spotify.com/track/6Ri9UCon5eF07GqlNDk98L) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [Chloe Gendrow](https://open.spotify.com/artist/7oYVCSnh6vWs6ZMzx76hNP) | [Feel Like](https://open.spotify.com/album/2siGxyuvPHBPnZ960ocuWc) | 2:54 | 2019-05-26\* | 2019-08-13 |
 | [FEEL LIKE](https://open.spotify.com/track/0jJGplHmOPpams1xAV2vhg) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/5d1GEm62XJWF5Kgo2ewl9z) | 3:08 | 2021-03-06 | 2021-11-20 |
@@ -1246,6 +1247,7 @@
 | [I Should've Told You](https://open.spotify.com/track/7FNfzTdPSOA7jzlQQ7gZK2) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Should've Told You](https://open.spotify.com/album/1N4ACWnpLSrpXokSWcsh9j) | 3:17 | 2020-07-12 | 2021-11-10 |
 | [I Take It Back](https://open.spotify.com/track/6DcI73tbK4PoyI3GGV4zZS) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:59 | 2023-04-14 | 2023-05-30 |
 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-08-29 | 2026-02-21 |
+| [I think the drugs are working now](https://open.spotify.com/track/0ABV97GajbIcTHRXzrZFTn) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [I think the drugs are working now](https://open.spotify.com/album/4wx8cjO4KTlaAqPkgJmyzJ) | 3:36 | 2026-08-14 |  |
 | [i think too much](https://open.spotify.com/track/6wFqLYmiXyGvprbWa4ogm8) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [i think too much](https://open.spotify.com/album/57KCk6H2jdmgHeh0JNW95b) | 3:22 | 2020-04-21 | 2021-11-10 |
 | [I thought that i'd know by now](https://open.spotify.com/track/7yd3WBefexIk6jtlXJr0HN) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [i thought that i'd know by now](https://open.spotify.com/album/6T7nzcZGGzuhuhLfSKffyE) | 2:54 | 2024-08-02 | 2024-08-10 |
 | [I Try](https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I Try](https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI) | 2:27 | 2021-08-27 | 2022-03-17 |

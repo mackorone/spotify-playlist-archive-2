@@ -21797,24 +21797,6 @@
     },
     {
       "album": {
-        "name": "JUNCTION",
-        "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "date_added": "2026-08-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/5QFN7CeUL5B3a8gioAELdV"
-    },
-    {
-      "album": {
         "name": "Trappin'",
         "url": "https://open.spotify.com/album/5hryGF4CvfTG6IIeK5SLVq"
       },
@@ -22930,6 +22912,32 @@
       "duration_ms": 148557,
       "name": "We're Made For Each Other",
       "url": "https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1"
+    },
+    {
+      "album": {
+        "name": "JUNCTION",
+        "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "WEEKEND",
+      "url": "https://open.spotify.com/track/5QFN7CeUL5B3a8gioAELdV"
     },
     {
       "album": {

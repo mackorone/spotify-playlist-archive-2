@@ -1,12 +1,12 @@
 {
   "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
-  "num_followers": 214093,
+  "num_followers": 214115,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAAB/C9QuzMV98zM9V7A5IIhT",
+  "snapshot_id": "an0JAAAAAACKisOnLbVLlGvl2c0lWUz+",
   "tracks": [
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enter Sandman EP",
-        "url": "https://open.spotify.com/album/6TSfhXrlydR29cJUEh1PyL"
+        "name": "Kiss of Death (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1pU3yOqCRZbSyNFlCj5reN"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 312066,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/1qCzMC5pDBqNp0IhpM63PL"
+      "duration_ms": 229506,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/7rBSxKyrMzVKgzg8Ki0FJC"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss of Death (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1pU3yOqCRZbSyNFlCj5reN"
+        "name": "Enter Sandman EP",
+        "url": "https://open.spotify.com/album/6TSfhXrlydR29cJUEh1PyL"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 229506,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/7rBSxKyrMzVKgzg8Ki0FJC"
+      "duration_ms": 312066,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/1qCzMC5pDBqNp0IhpM63PL"
     },
     {
       "added_at": null,
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of Girlschool",
-        "url": "https://open.spotify.com/album/2CjpvOVU8ThxJM9ghDngID"
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e"
       },
       "artists": [
-        {
-          "name": "Girlschool",
-          "url": "https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8"
-        },
         {
           "name": "Mot\u00f6rhead",
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 167226,
-      "name": "Please Don't Touch (feat. Mot\u00f6rhead)",
-      "url": "https://open.spotify.com/track/6Ud2ag3Rxz2ak0KhLG3KXP"
+      "duration_ms": 232506,
+      "name": "Cat Scratch Fever",
+      "url": "https://open.spotify.com/track/2Z4dGhSV230biXT6ejyKIo"
     }
   ],
   "unique_name": "This Is Mot\u00f6rhead",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Azul de Viena en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Cherry Chola en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 202913,
       "name": "Cristal",
       "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 198750,
       "name": "Es para siempre",
       "url": "https://open.spotify.com/track/2YRn2M7jQ9IcrAhkkQXNOV"
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 158155,
       "name": "M\u00e9xico",
       "url": "https://open.spotify.com/track/1aByOuYpAC4LQtdn1Az3ky"
@@ -4340,7 +4340,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 243173,
       "name": "Otra Vez - Versi\u00f3n Noel",
       "url": "https://open.spotify.com/track/0QdukVzXodUD5ESNAaIVQ0"
@@ -4514,6 +4514,28 @@
       "duration_ms": 206633,
       "name": "Perfecto Final",
       "url": "https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj"
+    },
+    {
+      "album": {
+        "name": "Perla",
+        "url": "https://open.spotify.com/album/7nLDUciyhxmS4Mk7QVcSCj"
+      },
+      "artists": [
+        {
+          "name": "Cherry Chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "Perla",
+      "url": "https://open.spotify.com/track/3AS7Y4Oh1tgy8x7w3C35Dm"
     },
     {
       "album": {
@@ -5576,7 +5598,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 143996,
       "name": "Sigo Buscando",
       "url": "https://open.spotify.com/track/0fbj2shzxswLJ4hPnpxoFy"
@@ -5678,6 +5700,24 @@
       "duration_ms": 157440,
       "name": "sobrenatural",
       "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
+    },
+    {
+      "album": {
+        "name": "Solo Tu",
+        "url": "https://open.spotify.com/album/5eAXfWjYo16DhmdutRNStd"
+      },
+      "artists": [
+        {
+          "name": "Salvador y el Unicornio",
+          "url": "https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212314,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/3QfP9r0ackN283bGeA2z9A"
     },
     {
       "album": {
@@ -6048,7 +6088,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 184338,
       "name": "Todos piensan que ya te olvid\u00e9",
       "url": "https://open.spotify.com/track/3Yep9HySEW2mDnfUbEclDo"
@@ -6128,6 +6168,24 @@
       "duration_ms": 185250,
       "name": "tranqui, todos vuelven",
       "url": "https://open.spotify.com/track/6mdgVWWld1KeR0odv5zkIf"
+    },
+    {
+      "album": {
+        "name": "Trapecistas",
+        "url": "https://open.spotify.com/album/4o5WVOati910rqmKINAdAZ"
+      },
+      "artists": [
+        {
+          "name": "Rafa Arregu\u00edn",
+          "url": "https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276438,
+      "name": "Trapecistas",
+      "url": "https://open.spotify.com/track/4mMjydyhotP1oaSXPPGsBb"
     },
     {
       "album": {
@@ -6602,6 +6660,24 @@
       "duration_ms": 182060,
       "name": "\u00bfPor qu\u00e9 me tengo yo que enamorar?",
       "url": "https://open.spotify.com/track/6wUCQr6hrpOfwWJ0PVP5hG"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Gan\u00f3?",
+        "url": "https://open.spotify.com/album/3c88JcbntIqCVkgxtguh8R"
+      },
+      "artists": [
+        {
+          "name": "Los Vaguens",
+          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195616,
+      "name": "\u00bfQui\u00e9n Gan\u00f3?",
+      "url": "https://open.spotify.com/track/0oVjMzqIPzgPkGnis5Aikt"
     },
     {
       "album": {

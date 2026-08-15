@@ -4787,6 +4787,32 @@
     },
     {
       "album": {
+        "name": "The Baptism of Jesse Taylor",
+        "url": "https://open.spotify.com/album/3dhw3hStafRCEl3iQlhaeH"
+      },
+      "artists": [
+        {
+          "name": "Mark Wills",
+          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
+        },
+        {
+          "name": "Charlie McCoy",
+          "url": "https://open.spotify.com/artist/4LwB86Ve6LpHYtsbnu6bvC"
+        },
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238960,
+      "name": "The Baptism of Jesse Taylor",
+      "url": "https://open.spotify.com/track/3I1g3df1iiVB9MvBQkRwlK"
+    },
+    {
+      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/6GMwNEyEG5qDOS0Oe5uVlQ"
       },

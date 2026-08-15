@@ -1,13 +1,29 @@
 {
   "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Abdullah Siddiqui",
-  "num_followers": 37642,
+  "num_followers": 37646,
   "original_name": "Pakistani Indie 101",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF8u2H6d/iflPetf44YnFu2/zB01",
+  "snapshot_id": "AAAAAE7whWiE21ZO2NHkknK4I5ImYCeU",
   "tracks": [
+    {
+      "added_at": "2026-08-07 18:34:45",
+      "album": {
+        "name": "Raani",
+        "url": "https://open.spotify.com/album/5ijoCNj3sUgVOnW49XEMUf"
+      },
+      "artists": [
+        {
+          "name": "The Tamaashbeens",
+          "url": "https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Raani",
+      "url": "https://open.spotify.com/track/0wOsfHvrFcc40EOowXbO68"
+    },
     {
       "added_at": "2026-08-07 18:34:45",
       "album": {
@@ -25,6 +41,46 @@
       "url": "https://open.spotify.com/track/2KHFyZhmtFh1nnYZ9pZ3Cu"
     },
     {
+      "added_at": "2026-08-14 04:02:25",
+      "album": {
+        "name": "AJNABI",
+        "url": "https://open.spotify.com/album/6nY200XJKhaJzT8RoLtWKs"
+      },
+      "artists": [
+        {
+          "name": "Haider Afzal",
+          "url": "https://open.spotify.com/artist/6QnDe2fRcWtXuEqp6wEjyM"
+        },
+        {
+          "name": "Shameer",
+          "url": "https://open.spotify.com/artist/2YOWil5rDregv3GVz4BFwi"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "AJNABI",
+      "url": "https://open.spotify.com/track/5ePj9XyvMQrBZUeWWszo1e"
+    },
+    {
+      "added_at": "2026-08-14 04:02:25",
+      "album": {
+        "name": "Dil Ki Kahani",
+        "url": "https://open.spotify.com/album/2xXiFYrqq4MQC472yy7oE5"
+      },
+      "artists": [
+        {
+          "name": "Asad Naeem",
+          "url": "https://open.spotify.com/artist/0x0qbiFCy5b2U0jHWX0FeA"
+        },
+        {
+          "name": "The Hashtags",
+          "url": "https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV"
+        }
+      ],
+      "duration_ms": 256271,
+      "name": "Dil Ki Kahani",
+      "url": "https://open.spotify.com/track/143l3qpqhvfO7tqW4cEZQW"
+    },
+    {
       "added_at": "2026-08-07 18:34:45",
       "album": {
         "name": "Pagal",
@@ -39,22 +95,6 @@
       "duration_ms": 154161,
       "name": "Pagal",
       "url": "https://open.spotify.com/track/06bKiKolboGvwoXgv5m5vO"
-    },
-    {
-      "added_at": "2026-08-07 18:34:45",
-      "album": {
-        "name": "Raani",
-        "url": "https://open.spotify.com/album/5ijoCNj3sUgVOnW49XEMUf"
-      },
-      "artists": [
-        {
-          "name": "The Tamaashbeens",
-          "url": "https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Raani",
-      "url": "https://open.spotify.com/track/0wOsfHvrFcc40EOowXbO68"
     },
     {
       "added_at": "2026-08-07 18:34:45",
@@ -231,22 +271,6 @@
     {
       "added_at": "2026-08-07 18:34:45",
       "album": {
-        "name": "Phantom Weight",
-        "url": "https://open.spotify.com/album/2o5b5CDKWKcX35sQP3IyaO"
-      },
-      "artists": [
-        {
-          "name": "Slowspin",
-          "url": "https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54"
-        }
-      ],
-      "duration_ms": 138883,
-      "name": "Phantom Weight",
-      "url": "https://open.spotify.com/track/6cAPQw7Pw5u46GOzmsWLnB"
-    },
-    {
-      "added_at": "2026-08-07 18:34:45",
-      "album": {
         "name": "Amn Ki Asha",
         "url": "https://open.spotify.com/album/3kbX7FVc7slqcwpZ4W7lvX"
       },
@@ -279,26 +303,6 @@
       "duration_ms": 220372,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/74cLw7gllsFrTVLdYloU4F"
-    },
-    {
-      "added_at": "2026-08-07 18:34:45",
-      "album": {
-        "name": "Room Jhoom",
-        "url": "https://open.spotify.com/album/2myOdI6BKnry6XkqLObC57"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        },
-        {
-          "name": "Gregory Rogove",
-          "url": "https://open.spotify.com/artist/0ofyN5WkkugXvllYparXbP"
-        }
-      ],
-      "duration_ms": 343533,
-      "name": "Room Jhoom",
-      "url": "https://open.spotify.com/track/4aLfmpfrf9RWnOSNj1dO5U"
     },
     {
       "added_at": "2026-08-07 18:34:45",

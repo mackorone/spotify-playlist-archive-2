@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6FCbldJ7f8lRuM13IgIYcv.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 69 songs - 6 hr 2 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 73 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,9 @@ pretty - [cumulative](/playlists/cumulative/6FCbldJ7f8lRuM13IgIYcv.md) - [plain]
 | 67 | [Kein Gott, Kein Schlaf](https://open.spotify.com/track/5qObrNABoOe2EEC0wAfGek) | [Ben Techy](https://open.spotify.com/artist/2ZxU6WNgBLwqif2Bkf6bbT) | [Kein Vorbei](https://open.spotify.com/album/1SsdgkBgBWFdxQEAwFq8oi) | 4:07 |
 | 68 | [Schattenklinge](https://open.spotify.com/track/2lAzUbKLpCrMVxsuXtkhRG) | [Ben Techy](https://open.spotify.com/artist/2ZxU6WNgBLwqif2Bkf6bbT) | [Kein Vorbei](https://open.spotify.com/album/1SsdgkBgBWFdxQEAwFq8oi) | 4:20 |
 | 69 | [Alles Zerfällt](https://open.spotify.com/track/3Z2DU1Dy4u9HxCwcXnJ0j0) | [Ben Techy](https://open.spotify.com/artist/2ZxU6WNgBLwqif2Bkf6bbT) | [Kein Vorbei](https://open.spotify.com/album/1SsdgkBgBWFdxQEAwFq8oi) | 4:07 |
+| 70 | [Zukunft](https://open.spotify.com/track/3LLsaIPGLZpL0EpxraldZ3) | [Arah](https://open.spotify.com/artist/74lR1Q1vDmI38sziY1hvHc) | [Zukunft](https://open.spotify.com/album/0htnaUNiMwIspPCQ4q3N8C) | 5:26 |
+| 71 | [Gegenwart Der Sonne](https://open.spotify.com/track/2bPDoSWwliW08PvuvcbGGh) | [Arah](https://open.spotify.com/artist/74lR1Q1vDmI38sziY1hvHc) | [Gegenwart Der Sonne](https://open.spotify.com/album/0u2dwISqON7XxhYnbS06au) | 5:52 |
+| 72 | [Fall Into Pieces](https://open.spotify.com/track/1Vzg6E51Zm2CuWaTTJwIiM) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [SEKTION 4](https://open.spotify.com/album/4l2Jz96DR1AldgAYtJVnra) | 5:15 |
+| 73 | [Nothing To Lose \(Schranz Mix\)](https://open.spotify.com/track/2yM7qIZHia1spqwO4lxQE4) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [REELUV](https://open.spotify.com/album/3s75wNsLmNG5YT2JpgvJJC) | 4:50 |
 
-Snapshot ID: `AAAAVif2lWZ6LBakDXigFFQpW7d5U1/z`
+Snapshot ID: `AAAAWucIpMIcPpR+mEJ8b+ZIVFP06hA9`

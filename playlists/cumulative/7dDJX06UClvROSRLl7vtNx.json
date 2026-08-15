@@ -16865,6 +16865,32 @@
     },
     {
       "album": {
+        "name": "Loop Me In",
+        "url": "https://open.spotify.com/album/2pMltAwkWZ3KXyeNDcjmlk"
+      },
+      "artists": [
+        {
+          "name": "Fex",
+          "url": "https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        },
+        {
+          "name": "Mallou",
+          "url": "https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171724,
+      "name": "Loop Me In",
+      "url": "https://open.spotify.com/track/5ruMC3RDay74xMXhW1bELf"
+    },
+    {
+      "album": {
         "name": "Lose It All",
         "url": "https://open.spotify.com/album/1WKzTXtMqtDmpD7k6CaEXa"
       },
@@ -24206,6 +24232,24 @@
       "duration_ms": 164181,
       "name": "Science",
       "url": "https://open.spotify.com/track/7jn69lqYJ1hRzt38b593Sn"
+    },
+    {
+      "album": {
+        "name": "Seaside",
+        "url": "https://open.spotify.com/album/1cnQYSATe8jNVYFKbRUylS"
+      },
+      "artists": [
+        {
+          "name": "Le Jardin Secret",
+          "url": "https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "Seaside",
+      "url": "https://open.spotify.com/track/30Mu8SC4B5EESlzlYSvASI"
     },
     {
       "album": {

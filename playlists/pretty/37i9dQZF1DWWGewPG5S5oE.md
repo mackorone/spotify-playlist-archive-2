@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 石川紅奈
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,567 likes - 154 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,572 likes - 154 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,16 +105,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 95 | [PRIME](https://open.spotify.com/track/3JsN2Kmll3HJolxA1gaPSF) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [JK Kim](https://open.spotify.com/artist/61AHu1G4iaVDRgbhvBuC4t) | [PRIME](https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00) | 3:47 |
 | 96 | [Buchi \- feat.別所和洋](https://open.spotify.com/track/2ZyDtFxe3qAnyQzu14dGFa) | [大山渉](https://open.spotify.com/artist/6kXkLYLppYzk6ufjUWTao9), [別所和洋](https://open.spotify.com/artist/6e3Tonxpt5Foe3b3PhQvjo) | [Buchi \(feat.別所和洋\)](https://open.spotify.com/album/5L3fJdGwv2XVXsz31QndKG) | 7:18 |
 | 97 | [Remind Me](https://open.spotify.com/track/6AozAppauV6fPK3b88NRpl) | [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [Remind Me c/w Miles To Cross](https://open.spotify.com/album/03d8zfNiyOFfkKAnMcHw3h) | 4:04 |
-| 98 | [Soy Califa](https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D) | [Shunosuke Ishikawa](https://open.spotify.com/artist/4NHbJ9owmGLA39C8yzjvu0) | [Soy Califa](https://open.spotify.com/album/4R0gpdP9V7vyK1N18KtnHF) | 5:12 |
-| 99 | [Your techno \(feat\. Reiya Terakubo\)](https://open.spotify.com/track/4n8vBaC4uU13izmOyTKN3Y) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Gnarly](https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn) | 2:42 |
+| 98 | [Your techno \(feat\. Reiya Terakubo\)](https://open.spotify.com/track/4n8vBaC4uU13izmOyTKN3Y) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Gnarly](https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn) | 2:42 |
+| 99 | [Soy Califa](https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D) | [Shunosuke Ishikawa](https://open.spotify.com/artist/4NHbJ9owmGLA39C8yzjvu0) | [Soy Califa](https://open.spotify.com/album/4R0gpdP9V7vyK1N18KtnHF) | 5:12 |
 | 100 | [天使乃恥部](https://open.spotify.com/track/3LsvaeGXncWNyOICOPphrK) | [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv), [ペペ・トルメント・アスカラール](https://open.spotify.com/artist/6oBZiNmjO9gjqGcS5Hk2VU) | [天使乃恥部](https://open.spotify.com/album/1EoAkbRqP8HtjYog5DwX9C) | 5:46 |
 | 101 | [Kobune](https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO) | [Taka Nawashiro](https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c) | [Lifescape](https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL) | 5:07 |
 | 102 | [Unstoppable journey](https://open.spotify.com/track/6xsIxv84qSgqehvLu7HPhK) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [Wind Loop Case](https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh) | [Unstoppable journey](https://open.spotify.com/album/0sVwGWNZIzQm6kyWtwWHEN) | 4:01 |
-| 103 | [シャマリモゲ \- feat.別所和洋](https://open.spotify.com/track/42911JXZa7A8c3tl7yoqfz) | [大山渉](https://open.spotify.com/artist/6kXkLYLppYzk6ufjUWTao9), [別所和洋](https://open.spotify.com/artist/6e3Tonxpt5Foe3b3PhQvjo) | [シャマリモゲ \(feat.別所和洋\)](https://open.spotify.com/album/4ph6doua3CAx66BEGma7yA) | 5:13 |
-| 104 | [Missing My Bird \- 2024 Ver.](https://open.spotify.com/track/1QHKFt9PK3EgZB8PYaeYhk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [Missing My Bird \(2024 Ver.\)](https://open.spotify.com/album/0dmyPsnPN5tXrg5iZwoNc8) | 4:23 |
+| 103 | [Missing My Bird \- 2024 Ver.](https://open.spotify.com/track/1QHKFt9PK3EgZB8PYaeYhk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [Missing My Bird \(2024 Ver.\)](https://open.spotify.com/album/0dmyPsnPN5tXrg5iZwoNc8) | 4:23 |
+| 104 | [シャマリモゲ \- feat.別所和洋](https://open.spotify.com/track/42911JXZa7A8c3tl7yoqfz) | [大山渉](https://open.spotify.com/artist/6kXkLYLppYzk6ufjUWTao9), [別所和洋](https://open.spotify.com/artist/6e3Tonxpt5Foe3b3PhQvjo) | [シャマリモゲ \(feat.別所和洋\)](https://open.spotify.com/album/4ph6doua3CAx66BEGma7yA) | 5:13 |
 | 105 | [Life Is Beautiful](https://open.spotify.com/track/243O6DF6CLbvpDaTLel2Bk) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [Life Is Beautiful](https://open.spotify.com/album/6NuhtNddVOorha4bfhfmjv) | 5:06 |
-| 106 | [A Little Spice](https://open.spotify.com/track/3rgPvwRlxeqPYFcEvXhk0K) | [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [Mysterious Vibes / A Little Spice](https://open.spotify.com/album/5684kLpfJBsGmptAyuDe7h) | 4:27 |
-| 107 | [なにもない](https://open.spotify.com/track/6ZXt2LnoyvwrpuJKd92cy4) | [Ryo Takaiwa](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [なにもない](https://open.spotify.com/album/7AEnNBzCHRHUNFvnqz6ifr) | 5:32 |
+| 106 | [なにもない](https://open.spotify.com/track/6ZXt2LnoyvwrpuJKd92cy4) | [Ryo Takaiwa](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [なにもない](https://open.spotify.com/album/7AEnNBzCHRHUNFvnqz6ifr) | 5:32 |
+| 107 | [A Little Spice](https://open.spotify.com/track/3rgPvwRlxeqPYFcEvXhk0K) | [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [Mysterious Vibes / A Little Spice](https://open.spotify.com/album/5684kLpfJBsGmptAyuDe7h) | 4:27 |
 | 108 | [Relativity](https://open.spotify.com/track/0aXrbIWN1d1HeTpUeGypAT) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Relativity](https://open.spotify.com/album/1QpQgtUdTzW2ythTOV0AWG) | 4:28 |
 | 109 | [√Advent](https://open.spotify.com/track/00XQhflJMwWY45mW6jTyfD) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [Echoes](https://open.spotify.com/album/4XB6hEAmybQedlWt8IxloQ) | 3:52 |
 | 110 | [曇り空](https://open.spotify.com/track/1CpklF118GMJNBM8HFtq0v) | [魚返明未](https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP) | [照らす](https://open.spotify.com/album/4pWSCXLQMUlFHlKzxQ17BE) | 6:39 |

@@ -1,12 +1,12 @@
 {
   "description": "New music from New music from Ayra Starr,  Tinashe, M00tion & Ez Maestro and more.",
-  "num_followers": 187477,
+  "num_followers": 187832,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKp3fOXxJpvIRwTXDPN66/51QrbY",
+  "snapshot_id": "AAAAAIXx7ZyBYsPm761hymeCeTvstP7H",
   "tracks": [
     {
       "added_at": "2026-08-13 23:35:47",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/0bDxiYRjox3caOYTlYKgDF"
     },
     {
+      "added_at": "2026-08-14 11:05:28",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129391,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+    },
+    {
       "added_at": "2026-08-13 23:35:47",
       "album": {
         "name": "Melatonin",
@@ -143,22 +159,6 @@
       "duration_ms": 222178,
       "name": "Melatonin",
       "url": "https://open.spotify.com/track/0Fscl5Gt6r9UfJR6OWG1wI"
-    },
-    {
-      "added_at": "2026-08-13 23:35:47",
-      "album": {
-        "name": "FRE$H",
-        "url": "https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "FRE$H",
-      "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
     },
     {
       "added_at": "2026-08-13 23:35:47",
@@ -338,10 +338,18 @@
         {
           "name": "Juls",
           "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 169411,
+      "name": "CUTLASS",
       "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
     },
     {
@@ -403,6 +411,22 @@
       "duration_ms": 234560,
       "name": "Can You Stay",
       "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
+    },
+    {
+      "added_at": "2026-08-13 23:35:47",
+      "album": {
+        "name": "Trance (Walk It Down)",
+        "url": "https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 161609,
+      "name": "Trance (Walk It Down)",
+      "url": "https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw"
     },
     {
       "added_at": "2026-08-13 23:35:47",
@@ -486,10 +510,14 @@
         {
           "name": "Kali Claire",
           "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 213951,
+      "name": "Wave by Wave",
       "url": "https://open.spotify.com/track/71BeR3LhbaFbR0tw9PjqJB"
     },
     {
@@ -555,6 +583,22 @@
       "duration_ms": 155860,
       "name": "4AM",
       "url": "https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI"
+    },
+    {
+      "added_at": "2026-08-13 23:35:47",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
     },
     {
       "added_at": "2026-08-13 23:35:47",
@@ -1184,9 +1228,25 @@
           "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 184000,
+      "name": "22",
       "url": "https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU"
+    },
+    {
+      "added_at": "2026-08-13 23:35:47",
+      "album": {
+        "name": "So Easy",
+        "url": "https://open.spotify.com/album/6rIegtr1X3iIVbZS5kQqo7"
+      },
+      "artists": [
+        {
+          "name": "Altair Sa\u00efd",
+          "url": "https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/4y7kdlDWPMxbegjUrW6SPX"
     },
     {
       "added_at": "2026-08-13 23:35:47",

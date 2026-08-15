@@ -9702,7 +9702,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 203000,
       "name": "forget him",
       "url": "https://open.spotify.com/track/5C2i3yvlxw6qy1AQD8R08N"
@@ -10450,7 +10450,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 247165,
       "name": "Girl of My Dreams",
       "url": "https://open.spotify.com/track/63S5dMn8E9AzHCtxg6UIfB"
@@ -13919,6 +13919,24 @@
     },
     {
       "album": {
+        "name": "i think of you the most",
+        "url": "https://open.spotify.com/album/6qpHLyez8QjIfaQOU8NghJ"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197407,
+      "name": "i think of you the most",
+      "url": "https://open.spotify.com/track/2pr7yL0mr8Dnm2nlnqPMin"
+    },
+    {
+      "album": {
         "name": "i walk this earth all by myself",
         "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
@@ -16714,6 +16732,24 @@
       "duration_ms": 175866,
       "name": "Liz",
       "url": "https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa"
+    },
+    {
+      "album": {
+        "name": "LLL",
+        "url": "https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj"
+      },
+      "artists": [
+        {
+          "name": "Julyan",
+          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213503,
+      "name": "LLL",
+      "url": "https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH"
     },
     {
       "album": {
@@ -29604,6 +29640,24 @@
       "duration_ms": 206114,
       "name": "van gogh",
       "url": "https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6"
+    },
+    {
+      "album": {
+        "name": "Vaseline",
+        "url": "https://open.spotify.com/album/7i75X5H352jZ7NPmJcFLfq"
+      },
+      "artists": [
+        {
+          "name": "Lily like the flower",
+          "url": "https://open.spotify.com/artist/2atgOXTEkUmZZ2AfXICaQc"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "Vaseline",
+      "url": "https://open.spotify.com/track/00z4NVXuIgiwVRfAm5zgCe"
     },
     {
       "album": {

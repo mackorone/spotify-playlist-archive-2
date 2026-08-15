@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,173 songs - 3 day 23 hr 9 min
+1,174 songs - 3 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,7 +668,7 @@
 | [Million Years from Now](https://open.spotify.com/track/2kewLcYuDDeuvYDh0hwbbB) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Million Years from Now / Just Rain](https://open.spotify.com/album/0zKBXAmPsgXq5vBRLLCu4C) | 7:19 | 2024-11-08 | 2024-11-13 |
 | [Mind Dimension \- Giaggi Remix](https://open.spotify.com/track/66347Wbr1LTtJ0dnM7j2mh) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Giaggi](https://open.spotify.com/artist/3C77yJtMArEU2XUsl4HiLy) | [Mind Dimension \(Giaggi Remix\)](https://open.spotify.com/album/29lg2XUiDsl1hOQhQC4a2W) | 3:28 | 2026-03-13 | 2026-07-19 |
 | [Mind Off](https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4) | [Mind Off](https://open.spotify.com/album/247Ew1nob3sG5wYK7cdzsp) | 3:32 | 2025-09-26 | 2026-07-11 |
-| [Mindgames](https://open.spotify.com/track/29nPx72E4v4mGiTgv5PzxZ) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Clemente](https://open.spotify.com/artist/6Fd984bTk8JnpVROSaUbhn), [Groove Shack](https://open.spotify.com/artist/5WfPCSJtIqsG7VSGkthVJb), [Pieces Of Life](https://open.spotify.com/artist/0iZFcLvPZQPPZH3Z5sTHfY) | [Mindgames](https://open.spotify.com/album/7eP5vqZaSSnB2VtiqfM2Vf) | 6:29 | 2026-03-13 |  |
+| [Mindgames](https://open.spotify.com/track/29nPx72E4v4mGiTgv5PzxZ) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Clemente](https://open.spotify.com/artist/6Fd984bTk8JnpVROSaUbhn), [Groove Shack](https://open.spotify.com/artist/5WfPCSJtIqsG7VSGkthVJb), [Pieces Of Life](https://open.spotify.com/artist/0iZFcLvPZQPPZH3Z5sTHfY) | [Mindgames](https://open.spotify.com/album/7eP5vqZaSSnB2VtiqfM2Vf) | 6:29 | 2026-03-13 | 2026-08-15 |
 | [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 | 2021-12-13 | 2023-04-29 |
 | [Miombo \- Original](https://open.spotify.com/track/2Jyu4yhzCv25s2xtwLpq8P) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9) | [Miombo](https://open.spotify.com/album/5GtgbyB6ATyCEAryQrTiFE) | 7:01 | 2021-04-21 | 2022-06-29 |
 | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW) | 8:23 | 2023-10-13 | 2024-11-09 |
@@ -808,6 +808,7 @@
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-08 | 2023-09-30 |
 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 | 2021-05-07 | 2023-03-11 |
 | [Phunky](https://open.spotify.com/track/7DwbQsslfL3nus2FinQAnn) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Phunky](https://open.spotify.com/album/3sg8EZJ5Hyd0nsttBuTAnK) | 3:22 | 2026-07-24 |  |
+| [Piece Of Me](https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Piece Of Me](https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO) | 3:09 | 2026-08-14 |  |
 | [Pilgrim](https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pilgrim](https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ) | 3:39 | 2023-09-08 | 2023-10-07 |
 | [Pinie \- Sébastien Léger Remix](https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Pinie \(Sébastien Léger Remix\)](https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv) | 8:24 | 2024-08-02 | 2024-12-07 |
 | [Pink Elephant](https://open.spotify.com/track/5PYE614MlfD0iWdug1SjcX) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 5:45 | 2021-09-03 | 2022-07-28 |

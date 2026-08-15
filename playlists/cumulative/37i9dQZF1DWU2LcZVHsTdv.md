@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-307 songs - 18 hr 43 min
+308 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [That's What I Love About Sunday](https://open.spotify.com/track/7vxRD4BOqSU2Lh7QAoE5ru) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [The Journey \(Livin' Hits\)](https://open.spotify.com/album/3q3vQKnkRSqCjjTAc6I5ai) | 3:17 | 2021-12-10 | 2025-06-30 |
 | [That’s God](https://open.spotify.com/track/32RsPGjvELIqW3TjPKVF3a) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Unmistakable Inspiration](https://open.spotify.com/album/4TyigJCY5sR7QXp7xo1MJ1) | 4:42 | 2022-03-04 |  |
 | [The Author](https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [The Author](https://open.spotify.com/album/0dZEIWwlJsgywXmbYl8cd5) | 4:36 | 2026-05-01 |  |
+| [The Baptism of Jesse Taylor](https://open.spotify.com/track/3I1g3df1iiVB9MvBQkRwlK) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF), [Charlie McCoy](https://open.spotify.com/artist/4LwB86Ve6LpHYtsbnu6bvC), [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [The Baptism of Jesse Taylor](https://open.spotify.com/album/3dhw3hStafRCEl3iQlhaeH) | 3:58 | 2026-08-14 |  |
 | [The Distance](https://open.spotify.com/track/0i9dhJF6YyvsREsnlLIxtt) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [God Only Knows](https://open.spotify.com/album/6GMwNEyEG5qDOS0Oe5uVlQ) | 3:24 | 2022-11-04 | 2022-11-13 |
 | [The Distance](https://open.spotify.com/track/2y4pN2wraqU3JOJbv68EiR) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [The Distance](https://open.spotify.com/album/4LCkyZl9VAaO2TBjpnvtxO) | 3:24 | 2021-12-10 | 2025-06-30 |
 | [The Distance](https://open.spotify.com/track/6j5M0J8g1pfRnJ9wWwrvFP) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:24 | 2022-07-15 | 2024-04-19 |

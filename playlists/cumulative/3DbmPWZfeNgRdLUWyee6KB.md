@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,388 songs - 3 day 8 hr 44 min
+1,390 songs - 3 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,6 +686,7 @@
 | [Love You](https://open.spotify.com/track/1MDeUp8t9xf0OhccBDXY2d) | [Jane Marie](https://open.spotify.com/artist/4RjRKI0bYrhNIiUX0qzKf3), [Jessica Mia](https://open.spotify.com/artist/1EEnRNZ0QEgzpSGRj957B5) | [Love You](https://open.spotify.com/album/3xFo7WpJPBsFKI9JxAhAF0) | 3:38 | 2026-06-09 | 2026-07-19 |
 | [LoveFool](https://open.spotify.com/track/7bUmp4xom3geI8bSPuK0tX) | [Delilah Earnshaw](https://open.spotify.com/artist/4GgoJ6xVN57Qb2STzpdgj2) | [LoveFool](https://open.spotify.com/album/0vxN32E176x1p4ayKQcCqI) | 4:29 | 2025-12-18 | 2026-01-15 |
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-12-15 | 2026-01-15 |
+| [Lover](https://open.spotify.com/track/5OascNxBcGQPokRrdVy5zB) | [TsarKastic](https://open.spotify.com/artist/5mOXCKrpfgjhlo0esvsniS) | [You're the Flower](https://open.spotify.com/album/5DtsPiD9Jf9HqnFWmM3VRr) | 4:30 | 2026-08-14 |  |
 | [Loverboy](https://open.spotify.com/track/0tWLQ2YmQ3MoCaZkckzXkY) | [The Falls](https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA) | [Loverboy](https://open.spotify.com/album/5mmkHXR5YMkbdNbJ6EXRQF) | 2:53 | 2026-07-11 | 2026-08-10 |
 | [Loyalty \- Official Instrumental](https://open.spotify.com/track/4uSEpNSqv2GxEChNDydMxD) | [Young Bleed](https://open.spotify.com/artist/5GQgxUq4MOuXXV99WrRuev), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Loyalty \(Official Instrumental\)](https://open.spotify.com/album/0M5TSATqPAncC0iVtvSsi6) | 2:54 | 2025-09-11 | 2025-11-29 |
 | [Luce dietro uno sbaglio](https://open.spotify.com/track/190q5mlywVt3iNlcRE1zVh) | [Diego Marangiolo](https://open.spotify.com/artist/54wSnyEqvXdVX8wvfsZccA) | [Luce dietro uno sbaglio](https://open.spotify.com/album/0fGXuQkb7Y2WfmF7dU1Atk) | 4:28 | 2026-08-02 |  |
@@ -881,6 +882,7 @@
 | [para la niña que un día fui](https://open.spotify.com/track/02kulGMAiGlCqFvoPq2FqY) | [SISSIE](https://open.spotify.com/artist/1eJKvBgKswZlJd4N0j3Nar) | [para el lugar que me vio crecer](https://open.spotify.com/album/0VSwRX6zQRkhIECkP0huhH) | 2:19 | 2026-01-24 | 2026-02-20 |
 | [Paradise](https://open.spotify.com/track/5MxbHfOqvSdP1c33DBdma6) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Detached](https://open.spotify.com/album/4VpODvxBTAEv2PVNXSTjYC) | 3:10 | 2026-02-12 | 2026-03-15 |
 | [Paranoid](https://open.spotify.com/track/7mEI3CpUWf7LdEah1QWYyW) | [RunAway](https://open.spotify.com/artist/5t9rt3N6KSShHHbvKewYSp) | [Paranoid](https://open.spotify.com/album/355kpn62Z3In51dBINK14M) | 3:29 | 2026-06-23 | 2026-07-19 |
+| [Parched as Hell](https://open.spotify.com/track/6NjHTQtSOHZ5z9xlCyb6qZ) | [Consorcio Humano](https://open.spotify.com/artist/6pzNibk8eE0etGvSTW8rjI) | [Parched as Hell](https://open.spotify.com/album/5VvaqTNUsEVu3mVeRZllJx) | 2:52 | 2026-08-14 |  |
 | [Pardon My French](https://open.spotify.com/track/2DCQbWFEmKvCe4Bt02Bz7o) | [Ndukwe](https://open.spotify.com/artist/5bTGf4KBDXwVohbzdfapB0) | [Pardon My French](https://open.spotify.com/album/3cBPOh4GAVucPEVj30BPcu) | 2:57 | 2026-05-24 | 2026-07-03 |
 | [Particolare](https://open.spotify.com/track/0AdDre9FCxVt7U8jOVdT3g) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Particolare](https://open.spotify.com/album/1b9nxh9JegqaNR0OTsS6vC) | 2:45 | 2026-05-28 | 2026-07-03 |
 | [Partido Alto](https://open.spotify.com/track/5GyuwWevZ2KdHF6XBvAnCz) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ) | [Partido Alto](https://open.spotify.com/album/6WUZTgzABSTItMZ4sBXA0X) | 2:57 | 2023-04-20 | 2025-11-29 |

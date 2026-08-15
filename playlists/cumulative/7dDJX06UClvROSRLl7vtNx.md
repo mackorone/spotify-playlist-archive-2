@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,452 songs - 2 day 14 hr 30 min
+1,454 songs - 2 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,6 +756,7 @@
 | [Looking Back](https://open.spotify.com/track/3nM8bteGCXUt1Rcd04lPyE) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Looking Back](https://open.spotify.com/album/3gRdfqk8zLYTRNGFRvdpZb) | 2:50 | 2023-09-22 | 2024-01-28 |
 | [Looking for You](https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv) | [Novino](https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X) | [Looking for You](https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN) | 1:55 | 2024-05-14 | 2024-07-31 |
 | [Looking For You](https://open.spotify.com/track/4VUKHbTPXX49zHKDvZ3M89) | [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Looking For You](https://open.spotify.com/album/1MCLmNKbid1gymJErJMhof) | 2:33 | 2025-04-21 | 2025-11-03 |
+| [Loop Me In](https://open.spotify.com/track/5ruMC3RDay74xMXhW1bELf) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Mallou](https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP) | [Loop Me In](https://open.spotify.com/album/2pMltAwkWZ3KXyeNDcjmlk) | 2:51 | 2026-08-14 |  |
 | [Lose It All](https://open.spotify.com/track/0teftCyGSGxdnpX5ryL5ro) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Lose It All](https://open.spotify.com/album/1WKzTXtMqtDmpD7k6CaEXa) | 2:12 | 2024-05-20 | 2024-06-10 |
 | [Lose You](https://open.spotify.com/track/3HoUOGfodbbRQsnfavrViW) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Edward Snellen](https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G) | [Lose You](https://open.spotify.com/album/5fH93TUJvc5fEbptP0rSp4) | 2:17 | 2023-10-28 | 2024-01-28 |
 | [Losing My Religion](https://open.spotify.com/track/4YM1Jcr8dPy1Ql0khFMt4L) | [Ian Storm](https://open.spotify.com/artist/6fllSzvyC7OruOFZisOELq), [John Laurant](https://open.spotify.com/artist/1YvKPTZCWaEen5NdFvR2p1), [Carl Clarks](https://open.spotify.com/artist/3OE3dz6RhP1rdri5pcQY0c), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Losing My Religion](https://open.spotify.com/album/7wz2NDsuKkYPo2fYLFZFdz) | 3:45 | 2023-10-23 | 2024-06-01 |
@@ -1076,6 +1077,7 @@
 | [Say Less](https://open.spotify.com/track/16SGOV8XZFzZI9BDz8JtFQ) | [Goldaine](https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg) | [Say Less](https://open.spotify.com/album/4JRjYysVeeHt1urwSxCYP5) | 2:46 | 2026-07-12 | 2026-08-10 |
 | [Scared To Be Lonely](https://open.spotify.com/track/34AdL3giq9x6F6X6zn2zo6) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [SECMOS](https://open.spotify.com/artist/0zZ0bI60hTmGInF2acMFgk) | [Scared To Be Lonely](https://open.spotify.com/album/5mf7FDpJYKD49SNrXCM9rK) | 2:26 | 2024-11-04 | 2025-09-14 |
 | [Science](https://open.spotify.com/track/7jn69lqYJ1hRzt38b593Sn) | [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Science](https://open.spotify.com/album/0CK3negyZKxnRJUXEjSXxV) | 2:44 | 2025-10-17 | 2025-11-17 |
+| [Seaside](https://open.spotify.com/track/30Mu8SC4B5EESlzlYSvASI) | [Le Jardin Secret](https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5) | [Seaside](https://open.spotify.com/album/1cnQYSATe8jNVYFKbRUylS) | 2:13 | 2026-08-14 |  |
 | [Seasons](https://open.spotify.com/track/1KoksleL5Bv4FqLP3pJLnI) | [ENVOL](https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4) | [Seasons](https://open.spotify.com/album/6febUrpRVTIdcosvKpnsHO) | 2:31 | 2025-03-21 | 2025-05-14 |
 | [Secrets](https://open.spotify.com/track/5cRuVdygzAlK3CAbSPHSEr) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Secrets](https://open.spotify.com/album/5oHmYA3rCfckjF4nSouZwQ) | 1:48 | 2025-09-12 | 2026-04-27 |
 | [Sensational](https://open.spotify.com/track/7514QEveSyBn3arcByWhc0) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Sensational](https://open.spotify.com/album/4Ea0v15yE3jh6a9l0pO6B4) | 2:50 | 2026-01-02 |  |

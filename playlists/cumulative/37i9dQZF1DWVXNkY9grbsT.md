@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-656 songs - 2 day 5 hr 37 min
+657 songs - 2 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Ghosts \- Cv313 Re\-Imagined Dub](https://open.spotify.com/track/4jRmU7kU5pmyDqN3YIiIsi) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B), [Cv313](https://open.spotify.com/artist/4uFSKwuGRG3kzMqXy1lZ03) | [Ghosts \(Cv313 Re\-Imagined Dub\)](https://open.spotify.com/album/4ZjcUNtguZ4vlINu42nCLr) | 11:12 | 2022-03-04 | 2023-08-12 |
 | [Ghosts and All](https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG) | 8:32 | 2021-12-26 | 2023-02-03 |
 | [Ghosts and All](https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib) | 8:32 | 2023-01-20 | 2023-08-12 |
-| [Gió](https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Tết 41](https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n) | 5:19 | 2025-04-25 |  |
+| [Gió](https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Tết 41](https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n) | 5:19 | 2025-04-25 | 2026-08-15 |
 | [Glimmer](https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj) | [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Burst / Glimmer](https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb) | 5:16 | 2022-03-18 | 2025-05-11 |
 | [God Won't Speak](https://open.spotify.com/track/7qWgh1aq5S79TCXAly1ypm) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Water Still Flows](https://open.spotify.com/album/5uPmJJBPxrrSbIjvUjEbXB) | 6:33 | 2025-05-12 | 2025-09-27 |
 | [God's Country](https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw) | [Feral](https://open.spotify.com/artist/5DsrGhHrqGPbRsU93R9H5A) | [God's Country](https://open.spotify.com/album/4doG8lWaRW1488oZwTA6Z9) | 3:27 | 2021-12-26 | 2023-08-12 |
@@ -664,5 +664,6 @@
 | [Your Heart Will Never Know](https://open.spotify.com/track/2sxjgzPHTzKJkXzrMZ2DH2) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC), [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX) | [Your Heart Will Never Know](https://open.spotify.com/album/0EFmJcNuMlhyTAByGIX60l) | 3:27 | 2025-04-18 |  |
 | [Zero Law](https://open.spotify.com/track/1T86cvA0iw7ygJDHVulEWe) | [Zomnis](https://open.spotify.com/artist/5hfJICKoX0X34piKb8siZB) | [Music for Robots](https://open.spotify.com/album/50utrathEVv4UTEMjUtwbE) | 2:50 | 2022-12-20 | 2024-02-22 |
 | [ɵੂ≢࿃ूੂ೧ູఠీੂ؞ؙؖ⁽⁾ا҉҈҉҈҉҈҉҈҉҈҉҈҉҈҉҈҉҈҉҈҉҈҉҈҉](https://open.spotify.com/track/7t6K8r0liPKbGYTEB7xru2) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [ooo ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ oʅ͡͡͡͡͡͡͡͡͡͡͡\( ؞ৢ؞ؙؖ⁽⁾˜ัิีึื์๎้็๋๊⦁0 ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ ఠీੂ೧ູ࿃ूੂ](https://open.spotify.com/album/7tZo2dx2IQc8FSKuGYhfJQ) | 1:42 | 2024-09-06 |  |
+| [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/track/4S0TvmAnhdoEXmCTmiFNp6) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/album/6V2s6MGb8X7C9eZfDhF7Jy) | 7:10 | 2026-08-14 |  |
 
 \*This playlist was first scraped on 2022-01-05. Prior content cannot be recovered.

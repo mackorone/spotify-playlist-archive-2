@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/2bHFRuvkoD9vLKyY6EAmK5"
+      },
+      "artists": [
+        {
+          "name": "Finn Laurent",
+          "url": "https://open.spotify.com/artist/2ZQAy39rSn6VA6WzsQviwR"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152624,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/7HD8cNpLatprAMni5hNmo8"
+    },
+    {
+      "album": {
         "name": "Akeleie",
         "url": "https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP"
       },

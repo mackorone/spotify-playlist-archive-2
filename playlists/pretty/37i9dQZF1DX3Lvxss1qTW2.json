@@ -1,6 +1,6 @@
 {
   "description": "The future hits of today. Up Next: Swayvee",
-  "num_followers": 118785,
+  "num_followers": 118870,
   "original_name": "NXT",
   "owner": {
     "name": "Spotify",
@@ -34,10 +34,14 @@
         {
           "name": "Swayvee",
           "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 135861,
+      "name": "You're Mine",
       "url": "https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb"
     },
     {
@@ -312,8 +316,8 @@
           "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 184000,
+      "name": "22",
       "url": "https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU"
     },
     {

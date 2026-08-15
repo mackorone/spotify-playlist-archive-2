@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-175 songs - 13 hr 20 min
+176 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Biko \(feat\. Alex Brown, Peter Gabriel, Ladysmith Black Mambazo & Geoffrey Oryema\)](https://open.spotify.com/track/5PlwfYLmedp2BPxf0oGy8x) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Alex Brown](https://open.spotify.com/artist/1BG2BiAu02wXrhuMkEMxDM), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:08 | 2022-01-01 |  |
 | [Black Beauty](https://open.spotify.com/track/0wewAlzrKWNGgEmX7M5cf3) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:50 | 2024-03-08 | 2024-03-24 |
 | [Blowin' Western Mind](https://open.spotify.com/track/4j1831MwptWXPlCVYvXNRw) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 6:13 | 2022-01-01 | 2022-03-21 |
-| [Bokilo Boogie, Part\. 1](https://open.spotify.com/track/5IWfkahlmotIntNQ6fziTZ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Bokilo Boogie, Part\. 1](https://open.spotify.com/album/0UphJKtaA8Oes6lT7aJEwJ) | 4:06 | 2026-05-24 |  |
+| [Bokilo Boogie, Part\. 1](https://open.spotify.com/track/5IWfkahlmotIntNQ6fziTZ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Bokilo Boogie, Part\. 1](https://open.spotify.com/album/0UphJKtaA8Oes6lT7aJEwJ) | 4:06 | 2026-05-24 | 2026-08-15 |
+| [Bokilo Boogie, Part\. 1](https://open.spotify.com/track/5ZhXjgNSqz3eimKtKDO2w5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [King Makossa](https://open.spotify.com/album/5SFwedm4sBkGcZGiql9VnB) | 4:06 | 2026-08-15 |  |
 | [Bokilo Boogie, Part\. 2](https://open.spotify.com/track/4b1BFtwkIpPqzQJzuK3yOU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [King Makossa](https://open.spotify.com/album/5SFwedm4sBkGcZGiql9VnB) | 3:20 | 2026-07-29 |  |
 | [Bokilo's Boogie](https://open.spotify.com/track/2CRUuWwLhnmSkoV69DNNep) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 6:20 | 2021-12-29 | 2022-04-25 |
 | [Bongo](https://open.spotify.com/track/3tiexRYLSDr6WsxsdGAWqb) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wortels Musiek Uit Afrika](https://open.spotify.com/album/38IPpEnPP51pG66pU1dFok) | 3:24 | 2025-11-27 | 2025-11-30 |
@@ -106,7 +107,7 @@
 | [Marabout](https://open.spotify.com/track/4oQPy612SNhvUOABRL1eoA) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Marabout](https://open.spotify.com/album/1iSYAl8J4OCu4ca3LrPjG3) | 6:22 | 2026-06-14 |  |
 | [Matumba](https://open.spotify.com/track/6M2b0wI176DMm7Gcld7sKE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Matumba](https://open.spotify.com/album/7we1iGn3aoWir5NvaxA1eo) | 4:36 | 2026-07-19 |  |
 | [Mboa](https://open.spotify.com/track/2RCNYsMZoiX14c3TNCGw46) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:53 | 2022-01-04 | 2022-10-14 |
-| [Mboa Su](https://open.spotify.com/track/0QuidPUEQSwbek3BHVojrr) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M Boa Su](https://open.spotify.com/album/1lo2A0uheGNXIf0WXGRTMP) | 4:27 | 2026-04-05 | 2026-06-17 |
+| [Mboa Su](https://open.spotify.com/track/0QuidPUEQSwbek3BHVojrr) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M Boa Su](https://open.spotify.com/album/1lo2A0uheGNXIf0WXGRTMP) | 4:27 | 2026-04-05 |  |
 | [Mboa'Su](https://open.spotify.com/track/7eTdBZfn6na3YwbG2Hjdnx) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Mboa'Su \(kamer feelin\)](https://open.spotify.com/album/3qFfN7MgFmCKzEbCKuuYEb) | 4:27 | 2023-04-29 | 2023-07-12 |
 | [Migilbawe](https://open.spotify.com/track/18z5k889lbe1LhXake5VTZ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Dibango 82 – In Marseille Dec 82](https://open.spotify.com/album/3sFpm1dzLfedjW4oOkqyXG) | 1:14 | 2025-04-23 | 2025-06-11 |
 | [Milady's song](https://open.spotify.com/track/5JYdctS2OcZLRDRl1MpM8t) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Balade en Saxo](https://open.spotify.com/album/4DJqtm93qTlJk2jEynoocr) | 3:31 | 2025-10-21 | 2026-07-10 |
@@ -177,7 +178,7 @@
 | [Wakafrika](https://open.spotify.com/track/6Dr4Tat4uPaYBRIJ71WgQe) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:47 | 2021-12-28 |  |
 | [Walking to Waza](https://open.spotify.com/track/3VpzSUaFT1vywhVgJNsqxU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 4:02 | 2022-08-23 |  |
 | [What a wonderful world](https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 2:44 | 2021-12-28 | 2024-12-19 |
-| [Wilderness](https://open.spotify.com/track/3h5mkWhcVV9jVv7XxFfTlE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 3:08 | 2022-08-18 |  |
+| [Wilderness](https://open.spotify.com/track/3h5mkWhcVV9jVv7XxFfTlE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 3:08 | 2022-08-18 | 2026-08-15 |
 | [Wimoweh \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/2ZHwMnAiXZ6YvnLtPMQE4e) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:19 | 2021-12-28 | 2022-10-13 |
 | [Wouri](https://open.spotify.com/track/69WLiFnG9CHtdh2ngmzNpE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 3:16 | 2022-04-07 | 2026-06-25 |
 | [Yekey Tenge](https://open.spotify.com/track/24CQ685jK8vYwLe5RQVAD9) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Polysonik](https://open.spotify.com/album/1Ttr5YNOHqsnX6xVdtLtsP) | 5:55 | 2021-12-28 | 2024-10-09 |

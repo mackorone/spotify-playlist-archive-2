@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/11wizp7coeLp55KLgbdTLm"
+      },
+      "artists": [
+        {
+          "name": "JERRY",
+          "url": "https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr"
+        },
+        {
+          "name": "SoundsbyJeremy",
+          "url": "https://open.spotify.com/artist/2lUHRrqFWCiW9Fv3GJsrwQ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167351,
+      "name": "666",
+      "url": "https://open.spotify.com/track/1gZSbOKG32gpjVjy29TQGR"
+    },
+    {
+      "album": {
         "name": "9:45",
         "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
       },
@@ -384,6 +406,28 @@
       "duration_ms": 202886,
       "name": "Born to Live",
       "url": "https://open.spotify.com/track/4mLHPnWawpC0p41vFAj7hV"
+    },
+    {
+      "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/2AsN6Es7Bzc2W4YNLsFAji"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "CHEETAH",
+          "url": "https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196534,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/7Cq2xfqPXhxA6Ik5TIqUYk"
     },
     {
       "album": {
@@ -796,7 +840,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163636,
-      "name": "Gustakhiyan (From\"Madhaniyan\") (Original Motion Picture Soundtrack)",
+      "name": "Gustakhiyan (From\"Madhaniyan\") - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/1Ogj157TMEJugMZchWKscQ"
     },
     {
@@ -1408,7 +1452,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 187200,
       "name": "Mulaqat",
       "url": "https://open.spotify.com/track/7ogbvt6UowaP39b1p1HaYg"
@@ -1560,7 +1604,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 163548,
       "name": "Rhyme - The Game",
       "url": "https://open.spotify.com/track/1Hrb0nLIa0Hb8q6KtPf9Q6"

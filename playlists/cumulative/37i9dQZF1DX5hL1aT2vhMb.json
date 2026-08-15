@@ -4291,6 +4291,28 @@
     },
     {
       "album": {
+        "name": "Clara Schumann: Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto",
+        "url": "https://open.spotify.com/album/4dwWhzWt7VFxgk0wRL1UYG"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Susan Tomes",
+          "url": "https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267666,
+      "name": "Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto",
+      "url": "https://open.spotify.com/track/22VPLWkRWyUCFAcaRnwSc7"
+    },
+    {
+      "album": {
         "name": "Clara Schumann: Soir\u00e9es musicales, Op. 6: No. 2, Notturno",
         "url": "https://open.spotify.com/album/3fJs28Vx72RVXMzTqrSHU8"
       },

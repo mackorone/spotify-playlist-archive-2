@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 18 | [Abandonado](https://open.spotify.com/track/4CylgVA9Bc2IBguAB86S8Z) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:28 |
 | 19 | [Mi Partido Lo Hará \(Los Políticos\)](https://open.spotify.com/track/3zdQwqFZsh6QMONfCjxAoC) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 4:09 |
 | 20 | [Pierdo la Razón](https://open.spotify.com/track/46jGMyvOhutyYjxGCmdDD1) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:15 |
-| 21 | [Historias](https://open.spotify.com/track/2SdR8B83ld7jUZg2F3BQ7i) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 4:16 |
+| 21 | [SOLO](https://open.spotify.com/track/3zC5KP49SB7OMZPXMArUiR) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [SOLO](https://open.spotify.com/album/6SQoSCiVveVIGqeL9pa7JS) | 3:34 |
 | 22 | [Lejos de Ti](https://open.spotify.com/track/1bdFcIjah87msquSrk7nvl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:29 |
-| 23 | [SOLO](https://open.spotify.com/track/3zC5KP49SB7OMZPXMArUiR) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [SOLO](https://open.spotify.com/album/6SQoSCiVveVIGqeL9pa7JS) | 3:34 |
+| 23 | [Historias](https://open.spotify.com/track/2SdR8B83ld7jUZg2F3BQ7i) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 4:16 |
 | 24 | [Agüita Pa'l Calor](https://open.spotify.com/track/7L8P2Ml0FFKLdW9mSv6Bx8) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 2:49 |
 | 25 | [Un Amor Sin Corazón](https://open.spotify.com/track/36m1UijoKIocg5EXMvRp5I) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:54 |
 | 26 | [Profesora de Inglés](https://open.spotify.com/track/2p9DFRU8fiaevI5XMExkh7) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 49 | [¡Vamos a Volver!](https://open.spotify.com/track/3OIZe9MX0T7pt2Y16fqzVU) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/6EmqFtLENZxu7agXxrNw7e) | 2:59 |
 | 50 | [Andrea](https://open.spotify.com/track/10c5yYBgTBWcqIBh27T9T2) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq) | 3:17 |
 
-Snapshot ID: `anu3gAAAAADC8U4VBCJLITha3kSCguNu`
+Snapshot ID: `an0JAAAAAADC5UK892LrFSBnfO7teRFD`

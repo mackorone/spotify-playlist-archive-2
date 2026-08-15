@@ -609,6 +609,32 @@
     },
     {
       "album": {
+        "name": "22.09",
+        "url": "https://open.spotify.com/album/3XlSj029AnS5bsHbuCtCTY"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "BeatsByNyce",
+          "url": "https://open.spotify.com/artist/6DjLTzUh4zScjJANSw7PuH"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179104,
+      "name": "22.09",
+      "url": "https://open.spotify.com/track/0jjjFAks2BW3UO0UD1NU4P"
+    },
+    {
+      "album": {
         "name": "23 tropa do mano",
         "url": "https://open.spotify.com/album/11Nqy7tN74K2MReZ6vAmri"
       },
@@ -3822,7 +3848,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 84076,
       "name": "AURA",
       "url": "https://open.spotify.com/track/0yTTYV1VgJ4tKXTVPrPvHP"
@@ -4258,7 +4284,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 103846,
       "name": "BADDIE",
       "url": "https://open.spotify.com/track/1q34pld0jIGj35losN5Ezi"
@@ -5656,7 +5682,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 167467,
       "name": "Bem mais do que mostrei",
       "url": "https://open.spotify.com/track/7q1DvK0CLtoN4BOF9e9Y38"
@@ -7627,6 +7653,28 @@
     },
     {
       "album": {
+        "name": "Carbura",
+        "url": "https://open.spotify.com/album/6RtZp8OkGoNU5nfHaKGspz"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        },
+        {
+          "name": "CN",
+          "url": "https://open.spotify.com/artist/0F75R1a1XBvkXvJIUlu6C4"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Carbura",
+      "url": "https://open.spotify.com/track/5Uh6YKOcSv1qY8h4O7Pb72"
+    },
+    {
+      "album": {
         "name": "Carburando",
         "url": "https://open.spotify.com/album/6aDyZoBhHwmtsGYP123yda"
       },
@@ -8840,7 +8888,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 201000,
       "name": "CHEERLEADER",
       "url": "https://open.spotify.com/track/6YAR0GQsRdrEXCVFpw7ePG"
@@ -13526,7 +13574,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 132173,
       "name": "Doflamingo",
       "url": "https://open.spotify.com/track/10UbMJCIyXvcBCWaYxwSUS"
@@ -16553,6 +16601,28 @@
     },
     {
       "album": {
+        "name": "FARTURA",
+        "url": "https://open.spotify.com/album/3ystrcJcLcjFpdhE0yq5kJ"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        },
+        {
+          "name": "paniagonobeat",
+          "url": "https://open.spotify.com/artist/3Z3KpO4RqycQD8f4hfnT3g"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "FARTURA",
+      "url": "https://open.spotify.com/track/3DS8RM0uC1w5CP86vh32kM"
+    },
+    {
+      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/0djnKqaexOX74V3TRRmXUW"
       },
@@ -19258,7 +19328,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 139281,
       "name": "GET RICH",
       "url": "https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v"
@@ -19816,6 +19886,32 @@
       "duration_ms": 163290,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/1ndBEHhMLA66IdUJD2firy"
+    },
+    {
+      "album": {
+        "name": "Hematomas no Corpo",
+        "url": "https://open.spotify.com/album/79c2Ogrz2DxnnNDAPTMag9"
+      },
+      "artists": [
+        {
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+        },
+        {
+          "name": "Real Bege",
+          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
+        },
+        {
+          "name": "Pedrix",
+          "url": "https://open.spotify.com/artist/6Kvajdlb4SCfkEuajloA3q"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143236,
+      "name": "Hematomas no Corpo",
+      "url": "https://open.spotify.com/track/0rTEstFg3aGZVaO19F1d7g"
     },
     {
       "album": {
@@ -25944,7 +26040,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 183076,
       "name": "Mesma Cidade",
       "url": "https://open.spotify.com/track/1OrBzVcywWa5zqteiNqeTv"
@@ -26056,7 +26152,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 200453,
       "name": "Metamorfose",
       "url": "https://open.spotify.com/track/7iAgKyiU9SkpeCj81gxyTV"
@@ -27470,6 +27566,24 @@
       "duration_ms": 122760,
       "name": "Mrkivah Elisa Sanches FUMANDO INIMIGOS +1x",
       "url": "https://open.spotify.com/track/0AMm6pSnWbYSMFTM0qG0QT"
+    },
+    {
+      "album": {
+        "name": "WE LUV RIV",
+        "url": "https://open.spotify.com/album/2BuElGfm6EOrKfHBlsMGQ8"
+      },
+      "artists": [
+        {
+          "name": "Rivatto",
+          "url": "https://open.spotify.com/artist/07tJEw4jMp5ejTDwMG9MAp"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123255,
+      "name": "MT MAIS DO Q EU POSSO",
+      "url": "https://open.spotify.com/track/4g2ZrSg6EQF7hH8fGzL17h"
     },
     {
       "album": {
@@ -29514,7 +29628,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 128129,
       "name": "N\u00c3O POSSO DORMIR",
       "url": "https://open.spotify.com/track/7clXVWaOUE5JQ4kGVgLVsm"
@@ -30592,6 +30706,36 @@
       "duration_ms": 141639,
       "name": "OQCSENTE",
       "url": "https://open.spotify.com/track/46J5muHM6imLvOUuncOj8q"
+    },
+    {
+      "album": {
+        "name": "Original Gangsta",
+        "url": "https://open.spotify.com/album/02wvQdjSpTed9N8mVqguEm"
+      },
+      "artists": [
+        {
+          "name": "Matoco",
+          "url": "https://open.spotify.com/artist/0P24tsiuTUInzOwbEM6LXG"
+        },
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Gordao O Don",
+          "url": "https://open.spotify.com/artist/4ieJCeK04X2h09LAiC3ONt"
+        },
+        {
+          "name": "Filbeats",
+          "url": "https://open.spotify.com/artist/0C1TQdWE8gSdIdZkyQhcdP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166582,
+      "name": "Original Gangsta",
+      "url": "https://open.spotify.com/track/2F5tSXD99lfWNANU5ignbu"
     },
     {
       "album": {
@@ -32756,6 +32900,28 @@
       "duration_ms": 136393,
       "name": "Pirataria Eterna",
       "url": "https://open.spotify.com/track/6Q0wbRXMjD8D9FGW1lC6kP"
+    },
+    {
+      "album": {
+        "name": "CASABOMBAMI6",
+        "url": "https://open.spotify.com/album/1dGkZVQgldno9XCQFsz0Bi"
+      },
+      "artists": [
+        {
+          "name": "OGMECBABY",
+          "url": "https://open.spotify.com/artist/1OKegS9uz9X9755V9ajflv"
+        },
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124703,
+      "name": "PIRATAS DO CARIBE 2",
+      "url": "https://open.spotify.com/track/7gVcCQUEoiyFHEUeLpPfwc"
     },
     {
       "album": {
@@ -43131,6 +43297,28 @@
     },
     {
       "album": {
+        "name": "T\u00f4 em Salvador",
+        "url": "https://open.spotify.com/album/0hXkozDOlwG8PqEXxkfD57"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Sevven",
+          "url": "https://open.spotify.com/artist/7h9wPkgXWcwJUGQEjrsqOn"
+        },
+        {
+          "name": "Dexter",
+          "url": "https://open.spotify.com/artist/48lXqQpHuWvJWm6JkNjVRR"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165429,
+      "name": "T\u00f4 em Salvador",
+      "url": "https://open.spotify.com/track/6em5DH8xg8KHiNAoA9HHf1"
+    },
+    {
+      "album": {
         "name": "T\u00f4 Mec",
         "url": "https://open.spotify.com/album/1oxnjSiAfbcg3KYEOKFM2v"
       },
@@ -44510,6 +44698,32 @@
       "duration_ms": 151644,
       "name": "Viv\u00eancia de Trap",
       "url": "https://open.spotify.com/track/6IsZRKYkBP2cSFUWrAevHJ"
+    },
+    {
+      "album": {
+        "name": "VIV\u00caNCIA DE TRAP",
+        "url": "https://open.spotify.com/album/04jIo3MqtNICnQoTvxfr26"
+      },
+      "artists": [
+        {
+          "name": "Victor Thug",
+          "url": "https://open.spotify.com/artist/5WLPymEZt8rupS3Aak9hAb"
+        },
+        {
+          "name": "Prasemprerico",
+          "url": "https://open.spotify.com/artist/4vzvupfSQwDMRDzMhJjtHs"
+        },
+        {
+          "name": "Jxvem Plug",
+          "url": "https://open.spotify.com/artist/2ORM2nhgDtB3Q5rzLKjXql"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "VIV\u00caNCIA DE TRAP",
+      "url": "https://open.spotify.com/track/5dtD8miylP8s1z5LecAmQa"
     },
     {
       "album": {

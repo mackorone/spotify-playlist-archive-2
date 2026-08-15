@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "eMotion Sick",
+        "url": "https://open.spotify.com/album/2egqfVCmY9hC2zOMJipEXr"
+      },
+      "artists": [
+        {
+          "name": "Indi Star",
+          "url": "https://open.spotify.com/artist/4SVyJmNEqIM2LEOpQeI1N8"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150461,
+      "name": "How to Break A Heart",
+      "url": "https://open.spotify.com/track/76NQyXHQ8nOgWZfIE27yeH"
+    },
+    {
+      "album": {
         "name": "H\u00e5ll k\u00e4ften",
         "url": "https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD"
       },

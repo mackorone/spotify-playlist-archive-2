@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover: Mary Bragg\n",
+  "description": "Rising voices, enduring roots. Cover: Meels",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -730,7 +730,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 159587,
       "name": "Black Bird",
       "url": "https://open.spotify.com/track/12K1fspXetlrNt5nGdLcmb"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 226000,
       "name": "Break the Levee",
       "url": "https://open.spotify.com/track/0UIBeV7RaQeqZ1lPWZ3bWQ"
@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 244358,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/3kYXNH6QFe8bdNKL5XftO2"
@@ -2997,6 +2997,24 @@
     },
     {
       "album": {
+        "name": "How To Make A Cowboy",
+        "url": "https://open.spotify.com/album/4x6KlybMIeAVflLNpDSbOB"
+      },
+      "artists": [
+        {
+          "name": "Fleeland",
+          "url": "https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227230,
+      "name": "How To Make A Cowboy",
+      "url": "https://open.spotify.com/track/5LQb0bP59Mnn79Pg5kUFbm"
+    },
+    {
+      "album": {
         "name": "Headwaters",
         "url": "https://open.spotify.com/album/6u5YquFfQ1mmq2e4G9utZo"
       },
@@ -3340,7 +3358,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 209500,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/6jn45BolQ3jyAESOsH1qTo"
@@ -3757,6 +3775,28 @@
     },
     {
       "album": {
+        "name": "Lay Down Your Cards",
+        "url": "https://open.spotify.com/album/7EtNGsZoiEXxXUMZtdhpiA"
+      },
+      "artists": [
+        {
+          "name": "Lennon VanderDoes",
+          "url": "https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30"
+        },
+        {
+          "name": "Alycia Lang",
+          "url": "https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182561,
+      "name": "Lay Down Your Cards",
+      "url": "https://open.spotify.com/track/2lX9duK6llhtN7pRTuZjTa"
+    },
+    {
+      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/19rM7gtdbGmYvAU6bFVcEg"
       },
@@ -3974,6 +4014,24 @@
       "duration_ms": 209983,
       "name": "Little White Cross",
       "url": "https://open.spotify.com/track/1uCws3lKIeD6lip2CbFY2h"
+    },
+    {
+      "album": {
+        "name": "Lonely USA",
+        "url": "https://open.spotify.com/album/2bgN3BMK5nkFxJfj5KdwvD"
+      },
+      "artists": [
+        {
+          "name": "Meels",
+          "url": "https://open.spotify.com/artist/5AH6zdOi1I9eHP2jlUHLnq"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187773,
+      "name": "Lonely USA",
+      "url": "https://open.spotify.com/track/2xYHykIg6PTj9KmXiY0SCN"
     },
     {
       "album": {
@@ -6093,6 +6151,24 @@
     },
     {
       "album": {
+        "name": "Music For Best Friends",
+        "url": "https://open.spotify.com/album/0VsbisroWrnWkteopzOyrz"
+      },
+      "artists": [
+        {
+          "name": "Z Pocket",
+          "url": "https://open.spotify.com/artist/1A0h9VcEvbimvAucnSZ4rV"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Sometimes I Think About You",
+      "url": "https://open.spotify.com/track/0Sqlzv37E6nqOm6WVkv3Zn"
+    },
+    {
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH"
       },
@@ -7683,6 +7759,24 @@
     },
     {
       "album": {
+        "name": "Witch Well",
+        "url": "https://open.spotify.com/album/1WvU2q9CEDViv0Tbuh6H7X"
+      },
+      "artists": [
+        {
+          "name": "Two Runner",
+          "url": "https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196524,
+      "name": "Witch Well",
+      "url": "https://open.spotify.com/track/7Jls05PqUl1D259GdGNv2x"
+    },
+    {
+      "album": {
         "name": "With The Middle",
         "url": "https://open.spotify.com/album/7eleyfxkS29PSKx0AEpMPe"
       },
@@ -7838,7 +7932,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 287363,
       "name": "You Can't Look At Me Like That - Alternate Version",
       "url": "https://open.spotify.com/track/6CqRukzmd5kXblACwQBNHW"

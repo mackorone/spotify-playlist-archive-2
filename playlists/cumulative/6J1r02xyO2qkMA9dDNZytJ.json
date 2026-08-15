@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Be Hot",
+        "url": "https://open.spotify.com/album/46mcZ7kSQ8DfatjHltD3pS"
+      },
+      "artists": [
+        {
+          "name": "Illyus Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Be Hot",
+      "url": "https://open.spotify.com/track/3bUbKfLvr2QtWAIyqxzLyS"
+    },
+    {
+      "album": {
         "name": "Best Be Believing",
         "url": "https://open.spotify.com/album/0j00bWGcetHSeCa3ZkFPxB"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 179554,
       "name": "Funky Operator",
       "url": "https://open.spotify.com/track/2mDOU2R6tTzgJ2bTUDer1W"
@@ -2006,6 +2024,32 @@
       "duration_ms": 220750,
       "name": "Gimme The Love",
       "url": "https://open.spotify.com/track/0tqHAhtLofrAgCm550RYTp"
+    },
+    {
+      "album": {
+        "name": "Gimmi",
+        "url": "https://open.spotify.com/album/2GzP1qs16RH6idZRNwWNZR"
+      },
+      "artists": [
+        {
+          "name": "Tony Cortez",
+          "url": "https://open.spotify.com/artist/0vJ1pIGHRduH7om9qJG73s"
+        },
+        {
+          "name": "Allan Nunez",
+          "url": "https://open.spotify.com/artist/2SmVeNcio0ldBHqu7tXEeI"
+        },
+        {
+          "name": "El Guacala",
+          "url": "https://open.spotify.com/artist/64nHp16f03mSKSX29uEjJR"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178264,
+      "name": "Gimmi",
+      "url": "https://open.spotify.com/track/5qwHS6bKyOkntssELEc0SW"
     },
     {
       "album": {
@@ -2715,6 +2759,28 @@
     },
     {
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/4hHtLz3u4c5Udy4G3N2453"
+      },
+      "artists": [
+        {
+          "name": "Mike Vale",
+          "url": "https://open.spotify.com/artist/7lBH4OmyQmpmrbp0Tl95pk"
+        },
+        {
+          "name": "Danny Rhys",
+          "url": "https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191638,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/5hx1QI7ju8RkNDJeFxzVQo"
+    },
+    {
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/2bV4vPWJdQavEyAvUCcA1C"
       },
@@ -3056,7 +3122,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 146880,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/0vpLLEPKbf9PFtdx25u8k8"
@@ -3502,7 +3568,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 205312,
       "name": "Love Dancing",
       "url": "https://open.spotify.com/track/0tan5hoOP782l2RqMUmCy3"
@@ -5396,6 +5462,24 @@
       "duration_ms": 205161,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/729gvORm05JlcZ9b2S7hti"
+    },
+    {
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/2tENxRVzu8QejEn6bmcmsc"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149516,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/2EA3soO6codXlcY4CmtJMt"
     },
     {
       "album": {

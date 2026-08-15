@@ -5020,7 +5020,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 319554,
       "name": "Gi\u00f3",
       "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
@@ -12790,6 +12790,24 @@
       "duration_ms": 102681,
       "name": "\u0275\u0a42\u2262\u0fc3\u0942\u0a42\u0ce7\u0eb9\u0c20\u0c40\u0a42\u061e\u0619\u0616\u207d\u207e\u0627\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489",
       "url": "https://open.spotify.com/track/7t6K8r0liPKbGYTEB7xru2"
+    },
+    {
+      "album": {
+        "name": "\uff0d\uff65\uff65 \uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d \uff65\uff0d\uff65 \uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65 \uff65",
+        "url": "https://open.spotify.com/album/6V2s6MGb8X7C9eZfDhF7Jy"
+      },
+      "artists": [
+        {
+          "name": "\uff65 \uff65\uff0d\uff65 \uff65\uff0d \uff65\uff65\uff65 \uff65 \uff0d\uff65\uff65",
+          "url": "https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430729,
+      "name": "\uff0d\uff65\uff65 \uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d \uff65\uff0d\uff65 \uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65 \uff65",
+      "url": "https://open.spotify.com/track/4S0TvmAnhdoEXmCTmiFNp6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVXNkY9grbsT"

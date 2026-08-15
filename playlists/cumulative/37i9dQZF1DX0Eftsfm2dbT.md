@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: CHICO CARLITO \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,808 songs - 5 day 20 hr 44 min
+2,810 songs - 5 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [221 \(feat\. ZORN\)](https://open.spotify.com/track/3IcDdDTTLmCOtgbgWHVg5f) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [221 \(feat\. ZORN\)](https://open.spotify.com/album/3KJ5QvU7qZBKix94O4ncQC) | 3:15 | 2024-10-02 | 2025-02-26 |
 | [222](https://open.spotify.com/track/6yyqh84E8MgWa5zOgtvELc) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Logic 2](https://open.spotify.com/album/5gq6hLXuSFahqLyqCsuJ0r) | 2:21 | 2024-07-30 | 2024-08-07 |
 | [2222](https://open.spotify.com/track/64oBHNRJ5vISotvhCWUGiC) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [SURECHIGAI / 2222 \(SURECHIGAI REMIX\_2222\)](https://open.spotify.com/album/1OhM9P0tkDkEYg7AKHtX2c) | 2:37 | 2026-01-15 | 2026-02-18 |
+| [24 years old](https://open.spotify.com/track/1Vich6ExRM11asPRH77Zev) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [24 years old](https://open.spotify.com/album/1eJmdpkNFKrGVES61YyPmM) | 3:27 | 2026-08-13 |  |
 | [24/7](https://open.spotify.com/track/2gZWVY6eSCALHiDSIb7Kex) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [24/7](https://open.spotify.com/album/5jb4TUEPKohbSuP8mgopYy) | 1:34 | 2023-09-21 | 2023-10-25 |
 | [24/7 \(feat\. Sad Kid Yaz\)](https://open.spotify.com/track/3cd0lO59V3E2uI10f5lkLS) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu), [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [24/7 \(feat\. Sad Kid Yaz\)](https://open.spotify.com/album/6QPdf7ttV9CBaggIztvhi7) | 3:12 | 2026-06-09 | 2026-07-08 |
 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 | 2024-02-14 | 2024-04-24 |
@@ -2258,6 +2259,7 @@
 | [Too Much \- Remix](https://open.spotify.com/track/3oupwjWQ9lKoYiEmmNSVG1) | [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [Leofeel](https://open.spotify.com/artist/7tPUWaEzeUNFKt1oN9vWKj) | [Too Much \(Remix\)](https://open.spotify.com/album/0ti8PwX6qH3D1ViR7CY4py) | 2:20 | 2024-03-12 | 2024-04-19 |
 | [Too Much \- Remix](https://open.spotify.com/track/5fKgL0EuAky4dBUEMcL6na) | [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [Leofeel](https://open.spotify.com/artist/7tPUWaEzeUNFKt1oN9vWKj) | [Too Much \(Remix\)](https://open.spotify.com/album/4dNi062Ek4PyfyfQZEaVZs) | 2:20 | 2024-03-12 | 2024-04-24 |
 | [TooNight](https://open.spotify.com/track/7ophUFkEdvlPTyxTiMGMJd) | [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [TooNight / R.I.P](https://open.spotify.com/album/7lC5SOKDirGhsMWt4TixGI) | 2:56 | 2023-12-20 | 2024-01-24 |
+| [Top Pt.3](https://open.spotify.com/track/0hIpuY8TWAmFb8ovTKXBna) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Top Pt.3](https://open.spotify.com/album/6ZLHH7hokRmtcY77QSiRpZ) | 3:09 | 2026-08-13 |  |
 | [ToriCo \(feat\. Candee & MonyHorse\)](https://open.spotify.com/track/4U3NZIxZOlUB0WQ7FkpEKS) | [Y'S](https://open.spotify.com/artist/72VNOMpqYNbvBt5JHOt2C0), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [CONTINUE](https://open.spotify.com/album/7zDAsIZHSymn0E6NIP484Y) | 3:12 | 2024-11-06 | 2025-01-08 |
 | [Totteoki](https://open.spotify.com/track/1mBJ2swb66tqsF6ghIxx3z) | [Ludio](https://open.spotify.com/artist/41vIKiqDMTHk8ZFm442Vls), [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl), [Yvnlazy](https://open.spotify.com/artist/4wUL3pWLsoJRFQghAcnWlM) | [Totteoki](https://open.spotify.com/album/2r5WEvztQAaK5MfdHV4B2E) | 2:49 | 2026-01-15 | 2026-01-21 |
 | [Touch](https://open.spotify.com/track/3ryDbC3kOcEsuSG4uRqhSJ) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [Touch](https://open.spotify.com/album/6pQ7DktgOWUl0U4xHZ9PEj) | 3:31 | 2025-06-17 | 2025-07-09 |

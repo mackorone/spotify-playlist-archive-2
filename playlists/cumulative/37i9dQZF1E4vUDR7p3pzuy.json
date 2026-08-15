@@ -3542,7 +3542,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -4560,7 +4560,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 291201,
       "name": "Deerslayer",
       "url": "https://open.spotify.com/track/33hRehaG2yHnh7AYokJHNN"
@@ -5456,7 +5456,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 313928,
       "name": "Ember",
       "url": "https://open.spotify.com/track/6f3VIa4jtkRjZtacDdmzsY"
@@ -5564,7 +5564,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 351437,
       "name": "Enterprise",
       "url": "https://open.spotify.com/track/0Do9DaZQDjQ6icf6VG8Kc4"
@@ -8246,7 +8246,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 263040,
       "name": "I Kinda Love You",
       "url": "https://open.spotify.com/track/7bYHUdDa5QticNg7Kbyxak"
@@ -8942,7 +8942,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 236843,
       "name": "Interval",
       "url": "https://open.spotify.com/track/42DhpGWoPU1cPjoK0usfTK"
@@ -10284,7 +10284,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -10374,7 +10374,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 321731,
       "name": "Line Up And Wait 3",
       "url": "https://open.spotify.com/track/1AlKjLJnakpFRW3hz7qfts"
@@ -11468,7 +11468,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -11612,7 +11612,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 190161,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/1boh977IxzWaqmJ11wzCtW"
@@ -12324,7 +12324,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -12974,7 +12974,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -13830,7 +13830,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 276108,
       "name": "Ruin You - Ghost Cop Remix",
       "url": "https://open.spotify.com/track/2k1U936X1ZmCN9mUsCse9s"
@@ -14764,7 +14764,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 286315,
       "name": "Shoreless",
       "url": "https://open.spotify.com/track/2XS2cOcl0oKcYz8SBZEtWA"
@@ -15374,7 +15374,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 264456,
       "name": "Solitude And I",
       "url": "https://open.spotify.com/track/57FXZ1jw6tha17ZYQb0MWc"
@@ -15677,6 +15677,24 @@
     },
     {
       "album": {
+        "name": "Stale",
+        "url": "https://open.spotify.com/album/2YiT87zmFgPv2aG8vWnMlw"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327951,
+      "name": "Stale",
+      "url": "https://open.spotify.com/track/7i4c2nXS9JyKmajo0VMcNI"
+    },
+    {
+      "album": {
         "name": "THE END",
         "url": "https://open.spotify.com/album/0czA6whq2hKRqWnUo2LtPJ"
       },
@@ -15746,7 +15764,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 223059,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6vpPb7fDNpMLabHyFfaPI3"
@@ -16302,7 +16320,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 240744,
       "name": "Sweet Nightmare",
       "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
@@ -16668,7 +16686,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 312103,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/206Dr7KVhHPsiZv34Tv3Oc"
@@ -16708,7 +16726,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 192000,
       "name": "The Answers",
       "url": "https://open.spotify.com/track/25Cd0bLNJTVkIlbwP57EgS"
@@ -16907,6 +16925,24 @@
     },
     {
       "album": {
+        "name": "The Desert Inside",
+        "url": "https://open.spotify.com/album/0axuw8Ws45UIyQhlHJpNSP"
+      },
+      "artists": [
+        {
+          "name": "Kirlian Camera",
+          "url": "https://open.spotify.com/artist/6b5KqGQYLUb3NuD2G6W2Op"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273933,
+      "name": "The Desert Inside",
+      "url": "https://open.spotify.com/track/4YJXajzFrDy7NO9TNYU1Rl"
+    },
+    {
+      "album": {
         "name": "Bridge To Resolution",
         "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
       },
@@ -17080,7 +17116,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -18307,6 +18343,24 @@
     },
     {
       "album": {
+        "name": "Too Good To Stay (Too Good To Stay Moongoose Remix)",
+        "url": "https://open.spotify.com/album/2MItSzaR3aZN6zOqsFjb2Q"
+      },
+      "artists": [
+        {
+          "name": "The Woodentops",
+          "url": "https://open.spotify.com/artist/6An62UauVVUH7OCxt5bnZu"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430015,
+      "name": "Too Good To Stay - Too Good To Stay Moongoose Remix",
+      "url": "https://open.spotify.com/track/0psJuZSCJUhet6l0iGLNDv"
+    },
+    {
+      "album": {
         "name": "torture",
         "url": "https://open.spotify.com/album/2OnZt30GnQtaajC91LtVP1"
       },
@@ -18408,7 +18462,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 162911,
       "name": "TRITAGONIST 1",
       "url": "https://open.spotify.com/track/2vmmih4JawzVaMCvfVhcZx"
@@ -19076,7 +19130,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -19636,6 +19690,28 @@
       "duration_ms": 227648,
       "name": "Wendy Houses",
       "url": "https://open.spotify.com/track/40cOZb9cnK3BgwdItl9f3I"
+    },
+    {
+      "album": {
+        "name": "What Hope",
+        "url": "https://open.spotify.com/album/6VLwda215aUWJPS8AW6Gqx"
+      },
+      "artists": [
+        {
+          "name": "Scott Baker Graham",
+          "url": "https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA"
+        },
+        {
+          "name": "Halfmachine",
+          "url": "https://open.spotify.com/artist/01vsH2MDFYATyAVw39xHQy"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220024,
+      "name": "What Hope",
+      "url": "https://open.spotify.com/track/6OW1MgjMNI7mzW0JD1vSQS"
     },
     {
       "album": {

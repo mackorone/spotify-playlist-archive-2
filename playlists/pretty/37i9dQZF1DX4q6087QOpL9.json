@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 131962,
+  "num_followers": 132000,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -3043,6 +3043,22 @@
     {
       "added_at": "2026-05-04 11:38:19",
       "album": {
+        "name": "The Child In My Heart",
+        "url": "https://open.spotify.com/album/6hvgqSknLDzyrTv2aXJOp8"
+      },
+      "artists": [
+        {
+          "name": "Dean Baker",
+          "url": "https://open.spotify.com/artist/1jK0e0MgGuKLhyQSz8zXBH"
+        }
+      ],
+      "duration_ms": 377419,
+      "name": "Child In My Heart - Original Mix",
+      "url": "https://open.spotify.com/track/2fHmuo8dYRpFZvpjM5bjSc"
+    },
+    {
+      "added_at": "2026-05-04 11:38:19",
+      "album": {
         "name": "Back Together Again (Vinyl Mixes)",
         "url": "https://open.spotify.com/album/5Y0by61mrO6JFVvm31PG5Z"
       },
@@ -3063,22 +3079,6 @@
       "duration_ms": 223448,
       "name": "Back Together Again - Jazz-N-Groove 12\" Dub",
       "url": "https://open.spotify.com/track/5t19Avl6FbooyoNMnSMhpG"
-    },
-    {
-      "added_at": "2026-05-04 11:38:19",
-      "album": {
-        "name": "The Child In My Heart",
-        "url": "https://open.spotify.com/album/6hvgqSknLDzyrTv2aXJOp8"
-      },
-      "artists": [
-        {
-          "name": "Dean Baker",
-          "url": "https://open.spotify.com/artist/1jK0e0MgGuKLhyQSz8zXBH"
-        }
-      ],
-      "duration_ms": 377419,
-      "name": "Child In My Heart - Original Mix",
-      "url": "https://open.spotify.com/track/2fHmuo8dYRpFZvpjM5bjSc"
     },
     {
       "added_at": "2026-05-04 11:38:19",

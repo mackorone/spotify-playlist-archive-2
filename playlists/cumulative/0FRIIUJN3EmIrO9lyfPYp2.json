@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "and then everything was okay",
+        "url": "https://open.spotify.com/album/27ZyKQ1uwK2eQgRhgL9bTT"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107756,
+      "name": "and then everything was okay",
+      "url": "https://open.spotify.com/track/7glSN4KubMkgkFla4i39lc"
+    },
+    {
+      "album": {
         "name": "anemoia",
         "url": "https://open.spotify.com/album/1az12FJtTXoYhV9X7rb2im"
       },
@@ -4846,6 +4864,24 @@
       "duration_ms": 108000,
       "name": "Elysia",
       "url": "https://open.spotify.com/track/6IfkZNnt68eiM2HfIeYR4v"
+    },
+    {
+      "album": {
+        "name": "emberlight",
+        "url": "https://open.spotify.com/album/2J6U6uYMbSXh5b1beu044V"
+      },
+      "artists": [
+        {
+          "name": "rareeast",
+          "url": "https://open.spotify.com/artist/1j1EqfiN0jt8Ky6HKeriMd"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121308,
+      "name": "emberlight",
+      "url": "https://open.spotify.com/track/245wKN7hI9Nn2VDiEQywyo"
     },
     {
       "album": {
@@ -12211,6 +12247,24 @@
     },
     {
       "album": {
+        "name": "nothing stays",
+        "url": "https://open.spotify.com/album/17mShzpXbkX3mRbF16U7MG"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147413,
+      "name": "nothing stays",
+      "url": "https://open.spotify.com/track/2mguTOJw8OwIbMRA1OsS8G"
+    },
+    {
+      "album": {
         "name": "nothing's forever",
         "url": "https://open.spotify.com/album/2Gy6pdVcQ2hP7wnlhBD9aS"
       },
@@ -14727,6 +14781,114 @@
     },
     {
       "album": {
+        "name": "sky",
+        "url": "https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO"
+      },
+      "artists": [
+        {
+          "name": "Fujiwara",
+          "url": "https://open.spotify.com/artist/2Cr0utmWeACahVtcJwnwVX"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169428,
+      "name": "sky126",
+      "url": "https://open.spotify.com/track/5g98frWlXJno0NUwkjoEjZ"
+    },
+    {
+      "album": {
+        "name": "sky",
+        "url": "https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO"
+      },
+      "artists": [
+        {
+          "name": "nuvola.",
+          "url": "https://open.spotify.com/artist/4hpAGnQM74EeZIgcv081DG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103383,
+      "name": "sky187",
+      "url": "https://open.spotify.com/track/36C2GVEXyrZYWaQ8MP0PPE"
+    },
+    {
+      "album": {
+        "name": "sky",
+        "url": "https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO"
+      },
+      "artists": [
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80192,
+      "name": "sky685",
+      "url": "https://open.spotify.com/track/45V3GVbR6Ix0zM4rqO92yh"
+    },
+    {
+      "album": {
+        "name": "sky",
+        "url": "https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO"
+      },
+      "artists": [
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365687,
+      "name": "sky837",
+      "url": "https://open.spotify.com/track/4Y6ac4Hv345pzXmdBzAfge"
+    },
+    {
+      "album": {
+        "name": "sky",
+        "url": "https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO"
+      },
+      "artists": [
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114352,
+      "name": "sky934",
+      "url": "https://open.spotify.com/track/5VW4hEvzKW51vUJYBhpCMC"
+    },
+    {
+      "album": {
+        "name": "sky",
+        "url": "https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO"
+      },
+      "artists": [
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142090,
+      "name": "sky966",
+      "url": "https://open.spotify.com/track/2t1VnsYAMK0lQY9wbE2y1L"
+    },
+    {
+      "album": {
         "name": "skywork",
         "url": "https://open.spotify.com/album/2rERMjcUpZCDZY4cLL8LrR"
       },
@@ -15588,6 +15750,24 @@
       "duration_ms": 96168,
       "name": "suente",
       "url": "https://open.spotify.com/track/0QWBuPDmeZIKvBjjEmEV8g"
+    },
+    {
+      "album": {
+        "name": "suite new day (Ambient Rework)",
+        "url": "https://open.spotify.com/album/24WTSnWaVIiDI2JGYEoMQV"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "suite new day (Ambient Rework)",
+      "url": "https://open.spotify.com/track/4oxs7FkSEuQYlkWXR2rTwP"
     },
     {
       "album": {
@@ -16914,6 +17094,24 @@
       "duration_ms": 132000,
       "name": "under the rising sun",
       "url": "https://open.spotify.com/track/0PTKv7osuG3wjl5Nuw1ZLC"
+    },
+    {
+      "album": {
+        "name": "under the shade",
+        "url": "https://open.spotify.com/album/4Ou1d45QzgLeEgRe4xm6uu"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "under the shade",
+      "url": "https://open.spotify.com/track/6KKMKa8YqCvUVNlpBq7ssK"
     },
     {
       "album": {

@@ -30797,6 +30797,24 @@
     },
     {
       "album": {
+        "name": "Treat You Better",
+        "url": "https://open.spotify.com/album/0uI0yrlIC9fYJvaY14ZGaZ"
+      },
+      "artists": [
+        {
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/5chZVGGP9F9ad1FI3u3wZW"
+    },
+    {
+      "album": {
         "name": "SOLACE REMIXES VOL. 5",
         "url": "https://open.spotify.com/album/7zyRD8UilxWxScbRVrWIzP"
       },

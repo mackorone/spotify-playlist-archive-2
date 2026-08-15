@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123048,
+  "num_followers": 123037,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVqIQnjuONoA8mVZ8e4ENm5KlYLNLA",
+  "snapshot_id": "AAAVqqOEIw79mMfEvAuMUMfpdkkg8USy",
   "tracks": [
+    {
+      "added_at": "2026-08-14 15:41:56",
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/7wJscuzKKtImTUoIaRD1AR"
+      },
+      "artists": [
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/6HfaMOTZoYtCy9Jz0lmft0"
+    },
     {
       "added_at": "2026-08-13 16:24:29",
       "album": {
@@ -1191,78 +1211,6 @@
       "duration_ms": 180000,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
-    },
-    {
-      "added_at": "2026-05-07 12:15:23",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Bo Bruce",
-          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
-        }
-      ],
-      "duration_ms": 214764,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
-    },
-    {
-      "added_at": "2026-05-06 17:19:31",
-      "album": {
-        "name": "Tightrope",
-        "url": "https://open.spotify.com/album/2y7MbqBjmsAqoemC0cturf"
-      },
-      "artists": [
-        {
-          "name": "Murdock",
-          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
-        },
-        {
-          "name": "Ruth Royall",
-          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
-        }
-      ],
-      "duration_ms": 202628,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/771QbU9fDqOa91vIuj0Vvu"
-    },
-    {
-      "added_at": "2026-05-04 15:03:29",
-      "album": {
-        "name": "Monstercat Instinct Selections 02",
-        "url": "https://open.spotify.com/album/6DCXQ7sTyFktwFGwsPBzNQ"
-      },
-      "artists": [
-        {
-          "name": "Nohost",
-          "url": "https://open.spotify.com/artist/0LJ2EQmZqB05sPEtr1nTuI"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Theory",
-      "url": "https://open.spotify.com/track/1qCEAyfBpdPhs7hLcZO9Dn"
-    },
-    {
-      "added_at": "2026-05-01 16:07:21",
-      "album": {
-        "name": "Booyah",
-        "url": "https://open.spotify.com/album/7MuBc6xFMZFEEAV3MpYv0g"
-      },
-      "artists": [
-        {
-          "name": "Primate",
-          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
-        }
-      ],
-      "duration_ms": 175172,
-      "name": "Booyah",
-      "url": "https://open.spotify.com/track/5uXm1c71ygZ9aJtALZKMbS"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

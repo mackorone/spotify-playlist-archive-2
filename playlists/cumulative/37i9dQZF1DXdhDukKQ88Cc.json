@@ -9829,6 +9829,24 @@
     },
     {
       "album": {
+        "name": "Stadig Herude",
+        "url": "https://open.spotify.com/album/4zOZRN1FGgJgCyIFiTLwD0"
+      },
+      "artists": [
+        {
+          "name": "Izzy18",
+          "url": "https://open.spotify.com/artist/0MaOERaUJ2WX8YxMNHZDIc"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110204,
+      "name": "Stadig Herude",
+      "url": "https://open.spotify.com/track/5sYhKtqWT8waojFexjTBH7"
+    },
+    {
+      "album": {
         "name": "STADION",
         "url": "https://open.spotify.com/album/4LhHEEE9u5q0vRkv5rOkyn"
       },

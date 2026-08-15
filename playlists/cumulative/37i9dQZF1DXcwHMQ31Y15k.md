@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Damara De
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk, Arlida Putri
 
-595 songs - 2 day 1 hr 59 min
+599 songs - 2 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bahagiamu Loroku](https://open.spotify.com/track/2klu3MQzMY8SLw2s680TCP) | [Twentynine](https://open.spotify.com/artist/2qcBwl4HXW2OWYkanzzkuL) | [Bahagiamu Loroku](https://open.spotify.com/album/18RWsY2cVFby8RVDfXF9pw) | 4:07 | 2024-10-18 | 2025-02-21 |
 | [Baik Baik Saja](https://open.spotify.com/track/7mbUZGtg6TvjTRzd1G3cDm) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Baik Baik Saja](https://open.spotify.com/album/5v7pFwFKldF7xm3Jj5PI72) | 4:07 | 2025-03-20 | 2025-05-23 |
 | [Bajirut](https://open.spotify.com/track/2d7MsxaYJC0NSNw0u0WrWv) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Bajirut](https://open.spotify.com/album/63aUmI5XPt0Bt2BhM1bx6i) | 5:05 | 2024-11-14 | 2025-03-21 |
+| [Bakul Sayur](https://open.spotify.com/track/6qm8IpJokXQQwzKduztkKl) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Arlida Putri](https://open.spotify.com/artist/3WxTOWoVbKrAWx9VAuxxSe) | [Bakul Sayur](https://open.spotify.com/album/5fqafB4k6hOhbBVCHHTcEY) | 4:12 | 2026-08-14 |  |
 | [BALENI](https://open.spotify.com/track/6ApxnvWcGnt45Du1AQyhLd) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu) | [BALENI](https://open.spotify.com/album/66m0SRdVzSxrNDhVUw0R0Q) | 5:33 | 2026-06-11 |  |
 | [Balik Kanan Wae](https://open.spotify.com/track/3r55XFoo88uz9e084F2RFU) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Balik Kanan Wae](https://open.spotify.com/album/73xxVGK2GFvA8yxTBvDjGz) | 4:06 | 2022-05-26 | 2023-05-20 |
 | [Balungan Kere](https://open.spotify.com/track/0R4RcBSBFabmdB0V3Sp943) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Akip Pahala](https://open.spotify.com/artist/5AMpYr1erWdR2D2ktVsrIm), [Mabes Balker](https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI) | [Balungan Kere](https://open.spotify.com/album/66O2k5C140A04kZHlEiaSN) | 4:56 | 2026-07-24 |  |
@@ -172,6 +173,7 @@
 | [KABAGYAN \- Acoustic](https://open.spotify.com/track/1LCIeF83tnkviTmnyJ3mgY) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [KABAGYAN \(Acoustic\)](https://open.spotify.com/album/3yAreNxTUGoSglnGNHZC4q) | 4:44 | 2025-08-14 | 2025-11-14 |
 | [Kabeh Nggo Koe](https://open.spotify.com/track/209P8tFH0UxWDP3MZ3Sbfg) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Kabeh Nggo Koe](https://open.spotify.com/album/3f42ksw5ZefYGVfMjuF41D) | 5:12 | 2024-03-29 | 2024-07-27 |
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 | 2022-08-26 |
+| [Kadaluarso](https://open.spotify.com/track/3EiYoDYTHkbd4m04yd2BNf) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Kadaluarso](https://open.spotify.com/album/2Bp0DjplRvBRBE7k1jQhld) | 4:52 | 2026-08-14 |  |
 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 | 2023-11-09 |  |
 | [Kalah](https://open.spotify.com/track/2Uy05WmObvsta92QuWREA5) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Kalah](https://open.spotify.com/album/6camQfWZCytbKSQkFJG8S5) | 6:43 | 2025-04-11 |  |
 | [Kalah](https://open.spotify.com/track/0kzmveXWWN9DaMTZr3NkgT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Munif Kurnia](https://open.spotify.com/artist/5SgP9nLQpFsx6yT4TiYznC) | [Kalah](https://open.spotify.com/album/7hJjL5PmkhPZoMZxoVa0pp) | 6:46 | 2024-04-18 | 2024-07-27 |
@@ -232,6 +234,7 @@
 | [Koyo Koyo \- From "Cidro Asmoro"](https://open.spotify.com/track/7pp3cqcPEetjynnprldgSd) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Koyo Koyo \(From "Cidro Asmoro"\)](https://open.spotify.com/album/6Ywz06YBkMn0f0JA0zxVzA) | 3:52 | 2023-03-16 | 2023-07-14 |
 | [Koyo Mendung](https://open.spotify.com/track/1wG2izJzmNGkacoFtvVYP4) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Koyo Mendung](https://open.spotify.com/album/1wk1Kxt8R6xqrkDIUHgCUL) | 4:55 | 2025-06-13 | 2025-08-29 |
 | [Kuatno Atimu](https://open.spotify.com/track/5SsjDIA3DhUQXM9cDjQ5sI) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Damara De](https://open.spotify.com/artist/6NhM3owQiKUDl34pFoia2K) | [Kuatno Atimu](https://open.spotify.com/album/1QAOqCiyn6FoOrVyKrpUou) | 5:16 | 2022-05-26 | 2023-08-11 |
+| [Kuatno Atimu](https://open.spotify.com/track/2JF2PEz0UA91G0rp3uMGhX) | [Fauzana](https://open.spotify.com/artist/2hvYOXDHHNaRlOUphokUgS) | [Kuatno Atimu](https://open.spotify.com/album/2eGuDLS12OhbPCvsN90Yz6) | 5:22 | 2026-08-14 |  |
 | [Kudu Nangis](https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Kudu Nangis](https://open.spotify.com/album/4aFca7kL4Hp1y0hzYFZpBv) | 5:04 | 2022-08-25 | 2023-08-11 |
 | [Kukuh](https://open.spotify.com/track/6xys78WshU3lJfgxcUjhPf) | [Fahri Khusnara](https://open.spotify.com/artist/4gjln35Zi7gzL8ppaSC3CQ) | [Kukuh](https://open.spotify.com/album/0k8K1HwnMzksAzKq86LSNO) | 3:25 | 2024-02-09 | 2024-05-24 |
 | [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 | 2023-08-11 | 2023-12-09 |
@@ -511,6 +514,7 @@
 | [Sikep \(Siap Kelangan Pengarep Arep\)](https://open.spotify.com/track/72avAygkMmzT1UXks8D1gx) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sikep \(Siap Kelangan Pengarep Arep\)](https://open.spotify.com/album/2rmM5EfmOH7gVTZEE9Ok3M) | 5:05 | 2025-10-23 |  |
 | [Sinarengan](https://open.spotify.com/track/05JCo2qLuSp6Tm4yzqh95Z) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Bella Bonita](https://open.spotify.com/artist/3K6JJtWNTBwQudEUuKYLQI) | [Sinarengan](https://open.spotify.com/album/0pjz8ygNmSBbsZaGGyUYKw) | 5:33 | 2025-03-13 |  |
 | [Sinarengan](https://open.spotify.com/track/1YOczwofxo6MxtkjPBYdNV) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa), [Vayz Luluk](https://open.spotify.com/artist/06tdPZ6UdL8otCWSe7YRpU), [Mama Lela Team](https://open.spotify.com/artist/5Ef1Uls0WU05zjMeZrGGgA) | [Sinarengan](https://open.spotify.com/album/3bReLQYWR9ODah0x2QeY76) | 5:21 | 2025-04-17 | 2026-01-15 |
+| [Sinau Nrimo](https://open.spotify.com/track/0xnUxhsbccYpkX1myS74M8) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Sinau Nrimo](https://open.spotify.com/album/3KyCq71Fh3zgBqMdDmKEc7) | 4:27 | 2026-08-14 |  |
 | [SING BISO](https://open.spotify.com/track/1MrU4LSCrw5D3W1fCh1McQ) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [SING BISO](https://open.spotify.com/album/5TBQZJeEyA99kMpzXvlcCW) | 3:50 | 2024-07-11 | 2024-11-22 |
 | [Sing Tego](https://open.spotify.com/track/3xI4biFLAk4FjQDfeQ85jL) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Sing Tego](https://open.spotify.com/album/5oouN5giEltNiD8YqHuJZk) | 4:27 | 2025-02-13 | 2025-04-25 |
 | [Sinyal Tresna \- From Collabonation](https://open.spotify.com/track/5vVV76tC3KjigYnT4dzMba) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sinyal Tresna \(From Collabonation\)](https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ) | 4:41 | 2022-07-21 | 2023-08-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Nieuw: Phoebe Bridgers, Ronnie Flex & Lil Kleine, Ayra Starr, jet van der steen, Mart Hoogkamer en meer..",
-  "num_followers": 299336,
+  "num_followers": 299643,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-08-13 22:01:15",
       "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+    },
+    {
+      "added_at": "2026-08-13 22:01:15",
+      "album": {
         "name": "Teveel Is Niet Genoeg",
         "url": "https://open.spotify.com/album/3IcpCBmUs6zX19sMv9Xdgj"
       },
@@ -395,6 +411,22 @@
     {
       "added_at": "2026-08-13 22:01:15",
       "album": {
+        "name": "Trance (Walk It Down)",
+        "url": "https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 161609,
+      "name": "Trance (Walk It Down)",
+      "url": "https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw"
+    },
+    {
+      "added_at": "2026-08-13 22:01:15",
+      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/1Z0nnNdSO57sk7ENh7EHY7"
       },
@@ -506,10 +538,18 @@
         {
           "name": "Juls",
           "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 169411,
+      "name": "CUTLASS",
       "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
     },
     {
@@ -1266,10 +1306,14 @@
         {
           "name": "De Sluwe Vos",
           "url": "https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS"
+        },
+        {
+          "name": "Narco Polo",
+          "url": "https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 208775,
+      "name": "Baddies",
       "url": "https://open.spotify.com/track/5czrqo2F2GrBrwaUcGdMLV"
     },
     {
@@ -1375,6 +1419,22 @@
       "duration_ms": 222397,
       "name": "Last Rites",
       "url": "https://open.spotify.com/track/0rSYptT2EttbthDyfKShr3"
+    },
+    {
+      "added_at": "2026-08-13 22:01:15",
+      "album": {
+        "name": "Temperature",
+        "url": "https://open.spotify.com/album/0N79lQCuwpiQ6u7jfRq39X"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 185112,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/1AhrxDRcd70EC3f39PHQPR"
     },
     {
       "added_at": "2026-08-13 22:01:15",
@@ -1594,10 +1654,14 @@
         {
           "name": "Tangarine",
           "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        },
+        {
+          "name": "VENICE",
+          "url": "https://open.spotify.com/artist/26JaNQ7qRfxF49Paqhjg5l"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 205013,
+      "name": "By Your Side (feat. Venice)",
       "url": "https://open.spotify.com/track/32sYwQIoBBPsAIbOwsu1wC"
     },
     {

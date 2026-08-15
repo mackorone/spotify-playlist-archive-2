@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 147000,
       "name": "2v2 (with EBK Jaaybo)",
       "url": "https://open.spotify.com/track/7rGDpPYmXZ9JcWtizej9JE"
@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 150857,
       "name": "Ain't Got Shit",
       "url": "https://open.spotify.com/track/6WUGTb0S1rsNJv8azBpGay"
@@ -9319,6 +9319,24 @@
     },
     {
       "album": {
+        "name": "D-Boy Knots",
+        "url": "https://open.spotify.com/album/4sJn9OESRy98r3A233GxVh"
+      },
+      "artists": [
+        {
+          "name": "Bally Baby",
+          "url": "https://open.spotify.com/artist/7I0vkHapi0O00Yd6BZcl2Z"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "D-Boy Knots",
+      "url": "https://open.spotify.com/track/50PINq04j4Uk3kySkBO0QI"
+    },
+    {
+      "album": {
         "name": "Da Backseat",
         "url": "https://open.spotify.com/album/21bOnDN2ndvT4TFD6xLCat"
       },
@@ -14215,6 +14233,24 @@
     },
     {
       "album": {
+        "name": "Fuck ICE",
+        "url": "https://open.spotify.com/album/6a1ARlrYl9D1OYMyj79suo"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Fuck ICE",
+      "url": "https://open.spotify.com/track/17gruJALXacfb0xDOXqZNK"
+    },
+    {
+      "album": {
         "name": "Nightmares In the Trenches",
         "url": "https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU"
       },
@@ -17741,6 +17777,36 @@
     },
     {
       "album": {
+        "name": "High Rank",
+        "url": "https://open.spotify.com/album/7lN0DwNYpdiZliFa2DEMq9"
+      },
+      "artists": [
+        {
+          "name": "Camo!",
+          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "Fox BD",
+          "url": "https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "High Rank",
+      "url": "https://open.spotify.com/track/2NK4T2AcaYmPrCqmRbzFmQ"
+    },
+    {
+      "album": {
         "name": "High Tolerance",
         "url": "https://open.spotify.com/album/0y2zbatXy9YPZnMDD9vRxN"
       },
@@ -18242,7 +18308,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 185149,
       "name": "Hood Rich (feat. FattMack, ThereGoMarcus)",
       "url": "https://open.spotify.com/track/55LVh21vGPlQ9sSKYEEYp4"
@@ -20534,6 +20600,24 @@
       "duration_ms": 132923,
       "name": "Interview (with YTB Fatt)",
       "url": "https://open.spotify.com/track/3p5GrjmjZTgEZNcbwJjRvg"
+    },
+    {
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/7g0k6dfZwhTIexJU4E92AQ"
+      },
+      "artists": [
+        {
+          "name": "Boohavinn",
+          "url": "https://open.spotify.com/artist/4jBs7FxsV98Kz0Qgk1H6Au"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130030,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1PzcLrRXKewxlcnnmeo42F"
     },
     {
       "album": {
@@ -23022,7 +23106,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 179382,
       "name": "LETTER 2 THE TRENCHES",
       "url": "https://open.spotify.com/track/1Vb9aHRqEjMOfvadEzSELT"
@@ -24686,7 +24770,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 197260,
       "name": "MANE",
       "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
@@ -28854,7 +28938,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 135170,
       "name": "Nun But Drums (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/1xTjT0GUTo6GcN8ZSXtt8U"
@@ -31277,6 +31361,24 @@
     },
     {
       "album": {
+        "name": "Champion Story",
+        "url": "https://open.spotify.com/album/6sMZUIUjZSqKC9DzJxrqXb"
+      },
+      "artists": [
+        {
+          "name": "Noodah05",
+          "url": "https://open.spotify.com/artist/16uhNmbZpVmy71NUwOk1DJ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123306,
+      "name": "Pick a Side",
+      "url": "https://open.spotify.com/track/2qc6LxS1wBYVCliDQGjBoz"
+    },
+    {
+      "album": {
         "name": "Pickin\u2019 Sides (feat. Icewear Vezzo)",
         "url": "https://open.spotify.com/album/3QMuWl11zBhxwLwLM7KpRM"
       },
@@ -31438,6 +31540,28 @@
       "duration_ms": 166756,
       "name": "Pink Candy",
       "url": "https://open.spotify.com/track/5xEHlUFmaDQNE72EYQZLCw"
+    },
+    {
+      "album": {
+        "name": "VERA VOLPE",
+        "url": "https://open.spotify.com/album/7q6SBGDAuu85s0Uy2YYd5w"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104917,
+      "name": "PINK DIAMONDS \u2014 LUFTHANSA HEIST",
+      "url": "https://open.spotify.com/track/6eUUNwRnIP1inKd1z9o6EM"
     },
     {
       "album": {
@@ -32648,7 +32772,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 130771,
       "name": "PUNCHIN' DA CLOCK",
       "url": "https://open.spotify.com/track/3w5ONjfHQioRM2iS8tqHxA"
@@ -36131,6 +36255,28 @@
     },
     {
       "album": {
+        "name": "VERA VOLPE",
+        "url": "https://open.spotify.com/album/7q6SBGDAuu85s0Uy2YYd5w"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162312,
+      "name": "SERIOUS \u2014 THE COMMISSION",
+      "url": "https://open.spotify.com/track/7D3rQrVTUX9d941osePHDA"
+    },
+    {
+      "album": {
         "name": "SET BALL",
         "url": "https://open.spotify.com/album/3TkcLz0rtDxpHcANJmRNe8"
       },
@@ -36164,7 +36310,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 163676,
       "name": "Set Ball",
       "url": "https://open.spotify.com/track/4nuHpP4ar4jTWf5hMFgfYq"
@@ -42188,6 +42334,28 @@
       "duration_ms": 226362,
       "name": "Thump Shit",
       "url": "https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW"
+    },
+    {
+      "album": {
+        "name": "Til The World End (feat. Lil Yee)",
+        "url": "https://open.spotify.com/album/78aJts5x7a292FDMpoSRZb"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        },
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166987,
+      "name": "Til The World End (feat. Lil Yee)",
+      "url": "https://open.spotify.com/track/6W3neM9mrS7rrMRBGDiGw5"
     },
     {
       "album": {

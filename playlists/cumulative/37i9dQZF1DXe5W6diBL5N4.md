@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: wave to earth\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,723 songs - 39 day 15 hr 39 min
+16,726 songs - 39 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1906,6 +1906,7 @@
 | [Breath](https://open.spotify.com/track/6SqGNmUeygb47KtcA3MsPY) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 3 \- Breath](https://open.spotify.com/album/0U4KHBtfmuJSz7SrLFIXim) | 4:22 | 2024-05-20 | 2024-06-20 |
 | [Breath \- Guitar Version](https://open.spotify.com/track/3Gp64tAtvLg9ShcGzEk71d) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Breath](https://open.spotify.com/album/5kbvCRZ8pGxHQ0jS5jTqQ4) | 4:15 | 2025-10-30 | 2025-11-05 |
 | [Breathe](https://open.spotify.com/track/0KaN3qT6D58wAezCAEyIU2) | [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Begins youth \(Original Xclusive Soundtrack\), Pt\. 1](https://open.spotify.com/album/4nK3NKTn5dDmuRMKW33QFL) | 4:08 | 2024-05-07 | 2024-06-20 |
+| [Breathe](https://open.spotify.com/track/0SEkwkcOzVkttfU4MCwnpe) | [DONGHYEON](https://open.spotify.com/artist/2cD1P3bmG4UKnTisya8XP4), [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Breathe](https://open.spotify.com/album/2cAcy9vfQkRYgYE91Cf6sS) | 3:14 | 2026-08-14 |  |
 | [Breathe](https://open.spotify.com/track/1tKm3YjwlZBljC24a2k6Uo) | [KANA](https://open.spotify.com/artist/5QnNFXjZiZUwb94BTHNnME) | [Breathe](https://open.spotify.com/album/5x67xaXllpGzeAgXdSIs8Y) | 3:34 | 2022-06-13 | 2022-06-19 |
 | [BREATHE](https://open.spotify.com/track/32xDPFMeAHC6kKLcVebFo4) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [BREATHE](https://open.spotify.com/album/119h0mxguRunS06HPCClZc) | 4:39 | 2025-06-26 | 2025-07-08 |
 | [BREATHE](https://open.spotify.com/track/2P5bbp7BeVtrECPJaN8AFO) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : SPUR](https://open.spotify.com/album/34AWJLKuS7vDo9WvPSd6rE) | 3:03 | 2025-04-04 | 2025-04-15 |
@@ -10827,6 +10828,7 @@
 | [PULL](https://open.spotify.com/track/1JxHncpPAqf5XrqgO0OGMn) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1), [PULLIK](https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z) | [PULL](https://open.spotify.com/album/1XKTAm1P4FLgC37zA0bMp8) | 2:25 | 2024-08-29 | 2024-09-20 |
 | [Pull Me Inside Of Me](https://open.spotify.com/track/4b0g5N5SJQSsmAV9fcezIW) | [Suitz](https://open.spotify.com/artist/0dah2wL4ufvB3kYRTJZi7F) | [Pull Me Inside Of Me](https://open.spotify.com/album/7bUZGt8Hf9ny93j7EJ4RRE) | 3:28 | 2022-11-06 | 2022-12-22 |
 | [Pull Over There](https://open.spotify.com/track/32AiZhqrBfIhwsVrXdg98o) | [Kang San\-Eh](https://open.spotify.com/artist/7pzL12Pd5NdHCjHzp5bh5h) | [Pull Over There](https://open.spotify.com/album/5EQP4KKGsql3WBbNU6kNUi) | 4:44 | 2025-01-16 | 2025-02-21 |
+| [PULL UP](https://open.spotify.com/track/5HVThrpHFfjp0bPqyCdKku) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [ICY BABY](https://open.spotify.com/album/31kYq6DtW2hNGHKwzQ9WC4) | 3:28 | 2026-08-14 |  |
 | [PULL UP](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) | 2:55 | 2023-01-31 | 2023-02-28 |
 | [Pull You In](https://open.spotify.com/track/7sUXSjHHavQr3HfDJ05TNO) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [Haunted Blade : Hunters \(Original Soundtrack\)](https://open.spotify.com/album/3LkEgTiuou6km548RlMO3c) | 3:40 | 2026-02-09 | 2026-02-20 |
 | [Pump !t Up \(Korean Ver.\)](https://open.spotify.com/track/09abi1b55qJLxSxGklZ9ay) | [BOY STORY](https://open.spotify.com/artist/3oh2ZIGpgdEyhfggcVjrWE) | [Pump !t Up \(Korean Ver.\)](https://open.spotify.com/album/4nqq0HbuIOxlCOo4yvbFik) | 2:52 | 2024-08-12 | 2024-09-20 |
@@ -11946,6 +11948,7 @@
 | [Sigh \(feat\. DUT2\)](https://open.spotify.com/track/2GZs5rVZz3Ufuj6iUBHPiw) | [Thunder](https://open.spotify.com/artist/21pZ2vLoPfOxnwv5ihs7av), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Sigh](https://open.spotify.com/album/0vq2erEpcHQftzkIpTQcYh) | 3:00 | 2025-11-24 | 2025-11-27 |
 | [Sign](https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [FEELM](https://open.spotify.com/album/0U8OEGNR5aYwlY3TLXGVYS) | 2:49 | 2026-04-28 | 2026-05-27 |
 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 | 2025-03-31 | 2025-04-17 |
+| [SIGN](https://open.spotify.com/track/11KILXYKpU1uBlVZwCzbFj) | [KIM JI WOONG](https://open.spotify.com/artist/5e51asJO6l5s7jEKKZfbxi) | [SIGN](https://open.spotify.com/album/5nIJnbwvEWPrQaF29V3vMA) | 2:56 | 2026-08-14 |  |
 | [Sign](https://open.spotify.com/track/19pAH8wYtKCSUkWIsU38Y2) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq) | [Sign](https://open.spotify.com/album/4PrO5QODqDffVNZVLWdUhe) | 2:24 | 2026-05-21 | 2026-06-09 |
 | [Sign of Zodiac](https://open.spotify.com/track/04SClG4e6ebrEzgBIdffUY) | [Kim Sol](https://open.spotify.com/artist/2ZXy5pIbcsRpQSdJ7ORUdb) | [Sign of Zodiac](https://open.spotify.com/album/3ZP55SqPGcnHfvdyAf9GdW) | 3:00 | 2023-03-13 | 2023-03-28 |
 | [Signs](https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Signs](https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6) | 2:25 | 2022-07-06 | 2022-07-09 |

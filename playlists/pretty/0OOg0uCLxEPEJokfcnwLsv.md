@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,226 likes - 72 songs - 4 hr 18 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,231 likes - 73 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 70 | [Sympathy](https://open.spotify.com/track/3wmDN6x8mWFEY3lBVm4zhp) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Sympathy](https://open.spotify.com/album/4FT3xTzZjzJ6c3PdkFyPrM) | 3:53 |
 | 71 | [ANHA](https://open.spotify.com/track/2NW8zDzKdyYM05YfgsNGOI) | [McNum](https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3) | [ANHA](https://open.spotify.com/album/6icKjxljuUNwWVTYPGtIAY) | 3:18 |
 | 72 | [Broken Mirrors](https://open.spotify.com/track/2Q937SaVxiS2frvTSFyhoz) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Soul Out](https://open.spotify.com/album/1TzuQv0ac32UOqa8HNUvmb) | 4:25 |
+| 73 | [Hit On Me](https://open.spotify.com/track/0gBFxAmc8lHJGVxN5Mafap) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Hit On Me](https://open.spotify.com/album/7qIb2jsBx3hY7faFbZXwas) | 3:27 |
 
-Snapshot ID: `AAAGxwKnPgXkDq4JhyEN+VAcTaSCK9zw`
+Snapshot ID: `AAAGyG5nNGaQGEM7ZU1NEkR5W6Se0Lac`

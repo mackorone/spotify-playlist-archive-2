@@ -6129,6 +6129,24 @@
     },
     {
       "album": {
+        "name": "G. Cat\u00e1n",
+        "url": "https://open.spotify.com/album/2yOHR3vwMZxt7MuQklWt7p"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172688,
+      "name": "G. Cat\u00e1n",
+      "url": "https://open.spotify.com/track/1cnc9DZ57KLgAKa8jX4xMd"
+    },
+    {
+      "album": {
         "name": "Gamechangers",
         "url": "https://open.spotify.com/album/4HsaDu5WgAQ3XCPjxDiXkc"
       },
@@ -9647,6 +9665,24 @@
     },
     {
       "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Mi Barrio",
+      "url": "https://open.spotify.com/track/2rgmXUwVvGaW5cbodwyWBx"
+    },
+    {
+      "album": {
         "name": "Mi Ciudad",
         "url": "https://open.spotify.com/album/2Jw770YCxFSPF5r7ac0Li0"
       },
@@ -10320,6 +10356,36 @@
       "duration_ms": 189045,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv"
+    },
+    {
+      "album": {
+        "name": "Mycelium",
+        "url": "https://open.spotify.com/album/01jrqHIN1YGjs01gOV6rcd"
+      },
+      "artists": [
+        {
+          "name": "Putolargo",
+          "url": "https://open.spotify.com/artist/3lP2GgJaO5TZJt8dE1WsSQ"
+        },
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Yabul\u00e9",
+          "url": "https://open.spotify.com/artist/5s0UiGPVJ2Ghj3ushukRNG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223038,
+      "name": "Mycelium",
+      "url": "https://open.spotify.com/track/7nlHRhd2tKaBEg0fZiR48j"
     },
     {
       "album": {

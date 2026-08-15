@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-793 songs - 3 day 4 hr 1 min
+795 songs - 3 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Before The Breakthrough](https://open.spotify.com/track/7o8zy970EfByTCYnG4zkR5) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Before The Breakthrough](https://open.spotify.com/album/3Tg4oCrveWBzTLwrj9Bbxv) | 4:34 | 2023-04-03 | 2023-04-15 |
 | [Before The Breakthrough \- Instrumental](https://open.spotify.com/track/60W5WYskuz6NKyu3rromYN) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC) | [Before The Breakthrough \(Instrumental\)](https://open.spotify.com/album/0sMKziIZ1qV1anQ8sMUTuw) | 4:34 | 2022-10-14 | 2023-04-04 |
 | [Behold \(This Is Jesus\) \- Live](https://open.spotify.com/track/7qawMw0pAKIsTcrAHZT8h2) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [Behold \(This Is Jesus\) \[Live\]](https://open.spotify.com/album/1YrITZtQb7bAqSsWDmInBs) | 17:57 | 2025-02-21 | 2025-03-21 |
+| [Best Days](https://open.spotify.com/track/3L9POMCQ3fFTStxzHchZrV) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Matt Janney](https://open.spotify.com/artist/1t1YmoXy1AheMm0jxpNriI) | [Best Days](https://open.spotify.com/album/3oSat95vsq91VBgBcIsD3m) | 4:40 | 2026-08-14 |  |
 | [Better / I Surrender All / What A Friend We Have In Jesus \- Live](https://open.spotify.com/track/7xVIBBhNFZVKiKHoRegTfj) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [Better](https://open.spotify.com/album/6U4dQQOToc1b47LBjm5wtX) | 9:41 | 2024-03-08 | 2025-03-21 |
 | [Better Hands](https://open.spotify.com/track/6WTCHMI81JncjPw5w9DYD2) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:00 | 2023-12-01 | 2025-03-21 |
 | [Better Than The Rest](https://open.spotify.com/track/2i65UHLV4bF1jTcoHWk0lI) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Better Than The Rest](https://open.spotify.com/album/7721nCKPvfI7yZ4Ytfu9tT) | 7:51 | 2023-04-21 | 2023-07-09 |
@@ -173,6 +174,7 @@
 | [Do It Again](https://open.spotify.com/track/3IVoTSr3MHv8gClp6wGmQi) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:33 | 2022-02-17 | 2022-03-16 |
 | [Do What Only You Can Do \- Live](https://open.spotify.com/track/1o1qv2DZbINBcp06exDGqo) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK) | [Shout! \(Live\)](https://open.spotify.com/album/7jumyFfTD3fQChNSk2DzaL) | 7:10 | 2022-09-23 | 2023-12-14 |
 | [Doesn't He](https://open.spotify.com/track/1re3ARSEiDfRxUTKKlbI8k) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Doesn't He](https://open.spotify.com/album/2bGNVHr3YSVvj3rUGowO3b) | 4:15 | 2025-08-08 | 2026-02-14 |
+| [Doesn't He \(Deserve It All\)](https://open.spotify.com/track/037Q5ln2i35q79Ugfz9R5v) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Doesn't He \(Deserve It All\)](https://open.spotify.com/album/0lH7WX51nhQ7zf6c6vFt6y) | 3:32 | 2026-08-14 |  |
 | [Dream \- Live](https://open.spotify.com/track/2aY1HUnXPir4OESAaw2Pae) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Dream \(Live\)](https://open.spotify.com/album/0FV8Zn9lpGqumPzh1ycO4q) | 9:41 | 2025-03-20 |  |
 | [Dry Ground](https://open.spotify.com/track/2rN3VHilUMtGh7CVmCVUqs) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw) | [Dry Ground](https://open.spotify.com/album/5jyQwvIZSQozXT1GHEMhZo) | 5:05 | 2024-11-08 | 2025-03-21 |
 | [Easter Song](https://open.spotify.com/track/5MUsiIncUIN6VY5vusxz87) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [For Him Who Has Ears](https://open.spotify.com/album/7yNwVrfU8PuZcfnCy0cft9) | 3:56 | 2022-04-05 | 2022-06-10 |

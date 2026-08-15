@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- Dhanda Nyoliwala
+> India's Rap Scene\. Cover \- Jordan Sandhu
 
-416 songs - 22 hr 16 min
+417 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Kaali Kaali Aankhein](https://open.spotify.com/track/7an5mcIKj1seDb137qc1RU) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Kaali Kaali Aankhein](https://open.spotify.com/album/4kMaciIPljFvOCRGpTdjFw) | 3:26 | 2025-07-04 | 2025-08-02 |
 | [Kaanch Ke Ghar](https://open.spotify.com/track/4zIKxXLpYV6vCHgS1BTSkX) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Kaanch Ke Ghar](https://open.spotify.com/album/2ptD5mY38viW5m8w9KSaKK) | 5:32 | 2024-07-03 | 2024-09-06 |
 | [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \(From "Think Indie"\)](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 | 2024-09-30 | 2025-05-17 |
-| [Kadaya Saathu](https://open.spotify.com/track/75Evj1BuXZ1wFrvqyYjzap) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Vaasi](https://open.spotify.com/artist/5vlliAPuYaEl9AC4AzO8eJ) | [Kadaya Saathu](https://open.spotify.com/album/0IHCidk3LUuQEFzClZpxvs) | 2:39 | 2026-07-03 |  |
+| [Kadaya Saathu](https://open.spotify.com/track/75Evj1BuXZ1wFrvqyYjzap) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Vaasi](https://open.spotify.com/artist/5vlliAPuYaEl9AC4AzO8eJ) | [Kadaya Saathu](https://open.spotify.com/album/0IHCidk3LUuQEFzClZpxvs) | 2:39 | 2026-07-03 | 2026-08-15 |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2023-04-19 | 2024-08-27 |
 | [Kahan Par Hai](https://open.spotify.com/track/6YtlaPxgVWZHO7OB1atIEf) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Kahan Par Hai](https://open.spotify.com/album/6OSxozR5eG53NUvHBy2PsZ) | 3:39 | 2023-03-27 | 2023-04-20 |
 | [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 | 2023-03-27 | 2024-09-14 |
@@ -385,6 +385,7 @@
 | [Top Class / Overseas](https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 4:48 | 2024-02-15 | 2025-03-29 |
 | [Top Fella](https://open.spotify.com/track/4x8JsInrhf0yWYFRpF4vRz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Top Fella](https://open.spotify.com/album/2cMd5j7BCLo7xnZwVpzq3D) | 3:21 | 2026-05-15 |  |
 | [Total](https://open.spotify.com/track/2UnJTK5NiGTD9L9wsYz1Az) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Nishael](https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Total](https://open.spotify.com/album/71P9Ez49rEozCuXodmSQrb) | 3:49 | 2026-01-23 |  |
+| [Tough](https://open.spotify.com/track/0F4P3fPrGsG46DLIapzBhx) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl) | [Tough](https://open.spotify.com/album/2EkigRqcC8GYeT4M9QNQC2) | 2:38 | 2026-08-14 |  |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-04-19 | 2024-09-19 |
 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 | 2024-12-13 | 2026-02-28 |
 | [TT](https://open.spotify.com/track/0RWx7EB3id2kMmIS9FmxlP) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [TT](https://open.spotify.com/album/1pxuDycn6c53mE8cBFrS8j) | 3:57 | 2024-07-03 | 2025-01-25 |

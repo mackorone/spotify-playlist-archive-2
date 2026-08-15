@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de la música en México en compañía de iza tkm
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,437 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,444 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 70 | [Ring Ring ft\. Malo & Japanix](https://open.spotify.com/track/2agAnbaCqiwuEA0CF1xSfI) | [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64), [Japanix](https://open.spotify.com/artist/0EexJOTm3efMnsUpWXRvRi), [Malo](https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB) | [Ring Ring ft\. Malo & Japanix](https://open.spotify.com/album/1nWZ8gWJVKfko5OdDVXpvq) | 2:04 |
 | 71 | [KORA KORA](https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [KORA KORA](https://open.spotify.com/album/2GeUPUMOXzVd9DrnoENWx2) | 2:11 |
 | 72 | [MBAPPE](https://open.spotify.com/track/13PnQ2i53c540Ai5o0vY77) | [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Jrkv](https://open.spotify.com/artist/6gtPHrlXI20tdloiCVrsMn), [Aivan Beatz](https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb) | [MBAPPE](https://open.spotify.com/album/6Lm5fhix3PtnS9dseMeYbM) | 2:24 |
-| 73 | [HIPERSENTIMENTAL](https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [HIPERSENTIMENTAL](https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f) | 2:45 |
-| 74 | [habitación backwo0d](https://open.spotify.com/track/3Wa7Qee0YpucLgD6ehUClD) | [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c), [GoldenVato](https://open.spotify.com/artist/2XmvJnNQlbfLL0NIsryD6b), [GlobalBoy Da Glowop](https://open.spotify.com/artist/6axE366zCZhhvFJ304IMvq) | [HISTORIAS DEL CERRO](https://open.spotify.com/album/1yRX0S6IXARwJ0e9cw6auj) | 2:38 |
+| 73 | [habitación backwo0d](https://open.spotify.com/track/3Wa7Qee0YpucLgD6ehUClD) | [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c), [GoldenVato](https://open.spotify.com/artist/2XmvJnNQlbfLL0NIsryD6b), [GlobalBoy Da Glowop](https://open.spotify.com/artist/6axE366zCZhhvFJ304IMvq) | [HISTORIAS DEL CERRO](https://open.spotify.com/album/1yRX0S6IXARwJ0e9cw6auj) | 2:38 |
+| 74 | [HIPERSENTIMENTAL](https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [HIPERSENTIMENTAL](https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f) | 2:45 |
 | 75 | [YoPiensoEnTi](https://open.spotify.com/track/6lAP7P3vWHS84ktoyX2ZLQ) | [flxbabu](https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [YoPiensoEnTi](https://open.spotify.com/album/3HvYLKvg7TQ3ieqLsxK2lZ) | 2:36 |
 
 Snapshot ID: `AAAAAIp1p+NQJCQHgU9F52vQevNTZk9F`

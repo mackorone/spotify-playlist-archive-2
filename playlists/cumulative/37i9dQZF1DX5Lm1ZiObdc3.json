@@ -2175,6 +2175,32 @@
     },
     {
       "album": {
+        "name": "Vivaldi: Sonata for 2 Violins in F Major, RV 68: III. Allegro",
+        "url": "https://open.spotify.com/album/5oURLFXnodLNG8D5rUGUzs"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "La Serenissima",
+          "url": "https://open.spotify.com/artist/15PIcAgtP1zCipRK3sniUN"
+        },
+        {
+          "name": "Adrian Chandler",
+          "url": "https://open.spotify.com/artist/7qJsLLT3iv2Uc0XbpnmEKz"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Sonata for 2 Violins in F Major, RV 68: III. Allegro",
+      "url": "https://open.spotify.com/track/5UinqbXYCi6Gbo9gpMXcKD"
+    },
+    {
+      "album": {
         "name": "Vivaldi: Sonata for Violin, Cello & Continuo in G Major, RV 820: VII. Allegro",
         "url": "https://open.spotify.com/album/0z3mUO19ncu54wM7T4yzZ4"
       },
@@ -2308,6 +2334,40 @@
       "duration_ms": 154493,
       "name": "Summer Fantasy - From \u201cJustice Online\u201d",
       "url": "https://open.spotify.com/track/2pKV2fkNDcCyy7u0oHumAI"
+    },
+    {
+      "album": {
+        "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\"/III. Scherzo. Allegro vivace",
+        "url": "https://open.spotify.com/album/0Z3NEbszFJ6dMTCIloKdQP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        },
+        {
+          "name": "Antoine Tamestit",
+          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343786,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
+      "url": "https://open.spotify.com/track/6boOjP1lz9HUKZBe8xlOh2"
     },
     {
       "album": {

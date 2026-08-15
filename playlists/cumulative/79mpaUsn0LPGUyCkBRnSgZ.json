@@ -3511,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Parallelograms",
+        "url": "https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo"
+      },
+      "artists": [
+        {
+          "name": "Linda Perhacs",
+          "url": "https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204773,
+      "name": "Chimacum Rain",
+      "url": "https://open.spotify.com/track/0PSxgms5q4pEtRGXRw2oWK"
+    },
+    {
+      "album": {
         "name": "Kaputt",
         "url": "https://open.spotify.com/album/4sVWj2lb9F8nRg57VFTaf1"
       },

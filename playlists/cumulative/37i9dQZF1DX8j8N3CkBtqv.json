@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Raghav & Arjun, Taba Chake, Hansika Pareek, Khushi Pareek and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Raghav & Arjun, Taba Chake, Easy Wanderlings, Mali and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 224114,
       "name": "Aahistaa",
       "url": "https://open.spotify.com/track/7zVshxffrsMhTcSfJV1LDm"
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 231285,
       "name": "Bata Zara",
       "url": "https://open.spotify.com/track/2wUvjrkR4YooAvZrXqjNKY"
@@ -5945,6 +5945,32 @@
     },
     {
       "album": {
+        "name": "Cold Showers",
+        "url": "https://open.spotify.com/album/2vcu1JmTKHFZKL1CoHzaSH"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Prashant Pandey",
+          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+        },
+        {
+          "name": "Sunny M.R.",
+          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257454,
+      "name": "Cold Showers",
+      "url": "https://open.spotify.com/track/6qDLLBWTYcsluamV9L3HO1"
+    },
+    {
+      "album": {
         "name": "Anticlockwise (Live Sessions)",
         "url": "https://open.spotify.com/album/0ZRGgQ57H76aTMVmei9peg"
       },
@@ -6830,7 +6856,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 200512,
       "name": "Dhoop",
       "url": "https://open.spotify.com/track/62XHNQFlRz62edjBpdoYt5"
@@ -8194,6 +8220,32 @@
       "duration_ms": 167154,
       "name": "Duhaai",
       "url": "https://open.spotify.com/track/3KoxL3EkonVdQyKVc3T0h4"
+    },
+    {
+      "album": {
+        "name": "Duniya",
+        "url": "https://open.spotify.com/album/6fpewz4TFtWNjoQAnwphaK"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/5xtJsbtEJXs2VpRBShJa1E"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Duniya",
+      "url": "https://open.spotify.com/track/5jfMD1lYbJimVNFk5fdDXH"
     },
     {
       "album": {
@@ -9815,6 +9867,32 @@
     },
     {
       "album": {
+        "name": "Gulon se",
+        "url": "https://open.spotify.com/album/7pOhfiwWesGiZ0GQyez7tR"
+      },
+      "artists": [
+        {
+          "name": "Sabar",
+          "url": "https://open.spotify.com/artist/32SYu3il2aqKjNyIN195lw"
+        },
+        {
+          "name": "Azadd",
+          "url": "https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA"
+        },
+        {
+          "name": "THOUGHT",
+          "url": "https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219718,
+      "name": "Gulon se",
+      "url": "https://open.spotify.com/track/2ytNIFFfzSM5Ok2rhAbGe8"
+    },
+    {
+      "album": {
         "name": "Gumshuda",
         "url": "https://open.spotify.com/album/6J4Cv47ly1iUAheQy6yrEW"
       },
@@ -10722,7 +10800,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 169090,
       "name": "homecoming",
       "url": "https://open.spotify.com/track/2SD38EjXODH6nhJ4SmeeD8"
@@ -12092,6 +12170,32 @@
       "duration_ms": 161586,
       "name": "Jaane Anjaane",
       "url": "https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr"
+    },
+    {
+      "album": {
+        "name": "Jaane Bhi Do",
+        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170890,
+      "name": "Jaane Bhi Do",
+      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
     },
     {
       "album": {
@@ -18945,6 +19049,28 @@
     },
     {
       "album": {
+        "name": "Mellow",
+        "url": "https://open.spotify.com/album/3lOUKyggkYxAYmlMAkXRGX"
+      },
+      "artists": [
+        {
+          "name": "Easy Wanderlings",
+          "url": "https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT"
+        },
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258111,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/4IEamyPcyegTyqQlCLeNiO"
+    },
+    {
+      "album": {
         "name": "Melt",
         "url": "https://open.spotify.com/album/3Bkkh7N0ia6j5PhpDTQlkt"
       },
@@ -21676,7 +21802,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 219596,
       "name": "O Ri Sakhi",
       "url": "https://open.spotify.com/track/18yjs7DmApG0CwkrWnO72q"
@@ -28183,6 +28309,28 @@
     },
     {
       "album": {
+        "name": "Tere Ishq Mein",
+        "url": "https://open.spotify.com/album/4cjDjP6LM78yyOWulsV6mS"
+      },
+      "artists": [
+        {
+          "name": "Sobit Tamang",
+          "url": "https://open.spotify.com/artist/5NuIxtRrRTJMaTn3oCZgyn"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tere Ishq Mein",
+      "url": "https://open.spotify.com/track/17hVMVwsCp8FQOTS8K3wkt"
+    },
+    {
+      "album": {
         "name": "Tere Janey Ke Baad (Revisit)",
         "url": "https://open.spotify.com/album/1s0hXS5PnrGzuCgkS3hv9I"
       },
@@ -32170,7 +32318,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 238882,
       "name": "Yun",
       "url": "https://open.spotify.com/track/3xbvpP9fQiu3YQdTn1JMe7"

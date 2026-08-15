@@ -2,9 +2,9 @@
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Nunca Jamás en portada.
+> Sangre fresca en las escenas del indie y el rock\. Zyanya en portada.
 
-861 songs - 2 day 2 hr 31 min
+864 songs - 2 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Agua Bendita](https://open.spotify.com/track/1ypw0w1I3jJNlQfcg6CP0y) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Agua Bendita](https://open.spotify.com/album/1uoSSfoTMTOr3TrsrPQXZV) | 4:23 | 2022-04-23 | 2022-07-05 |
 | [Agua Santa](https://open.spotify.com/track/0arH8qrtmayVDnxuySM798) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Agua Santa](https://open.spotify.com/album/0ZPPC5qJzigZ6X7k3dyZ4d) | 4:07 | 2022-04-20 | 2022-08-20 |
 | [Ah! Ah! Ah!](https://open.spotify.com/track/0mwnRupwX7ep5ODNbi7feR) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [El Acabose/Ah! Ah! Ah!](https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB) | 1:49 | 2026-05-01 | 2026-07-04 |
+| [Ahora Te Odio](https://open.spotify.com/track/2eSAY5BszZjAKNEncsgrbc) | [Todo Arde En Silencio](https://open.spotify.com/artist/1D7PyEtL78gKjto4erdkd8) | [Ahora Te Odio](https://open.spotify.com/album/7v45ddJmNekJq04wocRPUo) | 1:31 | 2026-08-14 |  |
 | [Al Borde del Infinito](https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Al Borde del Infinito](https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC) | 4:09 | 2024-07-12 | 2024-10-05 |
 | [Al Mal Paso Darle Prisa](https://open.spotify.com/track/7LKjqTzl7odiaRUJC5eIwn) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Al Mal Paso Darle Prisa](https://open.spotify.com/album/7olyrrnzqmK9DPN7sMmb9D) | 2:32 | 2025-07-11 | 2026-01-17 |
 | [Aleluya](https://open.spotify.com/track/6V69uIkyQJXptQ2MKmBajz) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Aleluya](https://open.spotify.com/album/1YUyVKfP4DG2mj4KaShZCB) | 3:18 | 2024-07-26 | 2025-03-01 |
@@ -57,7 +58,7 @@
 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 | 2022-08-13 | 2023-03-04 |
 | [América](https://open.spotify.com/track/2nqez4c6Yo1GrOSMR6PMBo) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [América](https://open.spotify.com/album/2fWjoLzejtJ8nm3iA56Rub) | 3:20 | 2025-07-11 | 2025-09-20 |
 | [Anarquía en Buenos Aires](https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Anarquía en Buenos Aires](https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5) | 3:58 | 2024-12-06 | 2025-01-25 |
-| [Anestesia](https://open.spotify.com/track/6sq9dpQPWpConDT9nYEvLW) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [Quiero Habitarme](https://open.spotify.com/album/2LhfFRIeIQByxX28IxUkfI) | 3:09 | 2026-05-01 |  |
+| [Anestesia](https://open.spotify.com/track/6sq9dpQPWpConDT9nYEvLW) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [Quiero Habitarme](https://open.spotify.com/album/2LhfFRIeIQByxX28IxUkfI) | 3:09 | 2026-05-01 | 2026-08-15 |
 | [Angelito](https://open.spotify.com/track/4tUd2NeGnRx8ioUevRV4WL) | [O Tortuga](https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK), [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Angelito](https://open.spotify.com/album/3MIbqRQKggXjBre3aLzMNV) | 4:42 | 2025-02-28 | 2025-06-21 |
 | [Angustias](https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Angustias](https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh) | 3:02 | 2025-06-27 |  |
 | [Ani Oni](https://open.spotify.com/track/6X805fVzhajIpPDApla2AM) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Ani Oni / Fantasma](https://open.spotify.com/album/5MMClJXjiSN0UlHyjPxKVz) | 3:00 | 2024-04-19 | 2024-08-31 |
@@ -366,7 +367,7 @@
 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 | 2024-10-04 | 2025-03-15 |
 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 | 2023-05-12 | 2023-06-24 |
 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 | 2022-03-04 |  |
-| [Infinito Mar](https://open.spotify.com/track/6DfCculWFs8nCDNPe4aNmU) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Infinito Mar](https://open.spotify.com/album/2IhvA4fr0UsxXbgu2UM7Vh) | 3:32 | 2026-04-10 |  |
+| [Infinito Mar](https://open.spotify.com/track/6DfCculWFs8nCDNPe4aNmU) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Infinito Mar](https://open.spotify.com/album/2IhvA4fr0UsxXbgu2UM7Vh) | 3:32 | 2026-04-10 | 2026-08-15 |
 | [Inside My Brain](https://open.spotify.com/track/4DiZ4vLi89ZxLinQwqtfTC) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Inside My Brain](https://open.spotify.com/album/3Rn9VRkLbOxpDGTXOMT7n9) | 2:56 | 2025-12-05 | 2026-04-25 |
 | [Instrucciones](https://open.spotify.com/track/4eAz4bfY3RjxmOoVXKzIBR) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Instrucciones](https://open.spotify.com/album/7ePSlsRUOUcIUyEP8qla04) | 3:26 | 2026-05-08 |  |
 | [INVESTIDO](https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [INVESTIDO](https://open.spotify.com/album/1YfLcIRbHLHVqz3cTxm7cB) | 3:23 | 2023-09-22 | 2023-09-30 |
@@ -539,7 +540,7 @@
 | [Mujer Divina](https://open.spotify.com/track/4LXv2G6XU4wbLY4c9AShpe) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [Raixes](https://open.spotify.com/album/5pCpZSuUVXwijlKQEhKIIb) | 3:08 | 2023-04-21 | 2023-04-29 |
 | [Mundo Extraño](https://open.spotify.com/track/0hy08kvUwjuF40ai53TANQ) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mundo Extraño](https://open.spotify.com/album/11emlvXuZrS8319yl6IW5r) | 3:03 | 2023-07-21 | 2023-09-02 |
 | [Muñeca](https://open.spotify.com/track/0oiz4s31QXy6Mremkst4Ux) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Corazón de Muñeca](https://open.spotify.com/album/0U53bWMxR0v2DpWpfEzTEP) | 3:25 | 2023-05-19 | 2023-05-27 |
-| [Máquina del Tiempo](https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Máquina del Tiempo](https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD) | 4:07 | 2026-04-17 |  |
+| [Máquina del Tiempo](https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Máquina del Tiempo](https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD) | 4:07 | 2026-04-17 | 2026-08-15 |
 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 | 2023-03-24 | 2023-04-22 |
 | [Máscaras](https://open.spotify.com/track/1m2mPStUPdyQSDnoHVYNwd) | [Rey Rata](https://open.spotify.com/artist/0DiBgHVIgP7uCL4ivSIFsA) | [Máscaras](https://open.spotify.com/album/2NtQlfrOXJLWiQL3EpvX7v) | 2:39 | 2022-09-03 | 2022-09-07 |
 | [México Libre](https://open.spotify.com/track/4Da0sxKYH394GEov6ZdjZX) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [México Libre](https://open.spotify.com/album/3XAyTBYE7vIdK8mvYsMe9Z) | 2:14 | 2025-09-12 | 2026-01-17 |
@@ -671,6 +672,7 @@
 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 | 2021-12-17 |  |
 | [Respuesta Sensorial](https://open.spotify.com/track/2A7JX4Cu4UtwCMazGBS2YN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Respuesta Sensorial](https://open.spotify.com/album/4pT7vS03zzAfG9gNQ4chNR) | 3:40 | 2023-10-27 | 2024-05-04 |
 | [Rexsexex](https://open.spotify.com/track/4hof8Zyvn8QvkkCWt5HAY0) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rexsexex](https://open.spotify.com/album/0N75pJ0usO4zBt08Z5wSWj) | 4:12 | 2025-09-05 |  |
+| [Rico McPato](https://open.spotify.com/track/3wlRoMiTgckvvXlo79Z2F2) | [PERRA BRAVA](https://open.spotify.com/artist/4ODjjfjx4SqJixJYVqeUrE), [Tito Fuentes](https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo), [AJ Davila](https://open.spotify.com/artist/4Kyd8cFh3zkTvVCyClVoHX) | [Rico McPato](https://open.spotify.com/album/1CComlCmBZnSc7cAVz0TkJ) | 3:16 | 2026-08-14 |  |
 | [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-08-09 | 2022-11-17 |
 | [RIDÍCULO](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [RIDÍCULO](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 | 2025-02-14 | 2025-05-03 |
 | [Ritual](https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ritual](https://open.spotify.com/album/5ALmIZchDuwnbsOAbmhADv) | 3:23 | 2026-06-12 |  |
@@ -842,6 +844,7 @@
 | [Vueltas](https://open.spotify.com/track/37vTJSP632xmRC7zPU0mRl) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Vueltas](https://open.spotify.com/album/3e7oS9NTqrll9HPjLxlsXu) | 3:25 | 2026-02-20 | 2026-05-09 |
 | [Vuelve A Empezar Sin Mí](https://open.spotify.com/track/7DWdZdw7Rshp7b8LqRB9x4) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Vuelve A Empezar Sin Mí](https://open.spotify.com/album/2IFmsvDIWtDE9e7lCUT7bi) | 4:01 | 2023-03-10 | 2023-05-19 |
 | [Vulnerables](https://open.spotify.com/track/2gac1fUGyTRa95XWnAgiow) | [Missa Sinfonia](https://open.spotify.com/artist/7Ip8SqItaKjJtgtKUNCShb) | [Vulnerables](https://open.spotify.com/album/3FH14EFJqflhM5TWrL6aqk) | 3:28 | 2025-07-18 | 2026-05-16 |
+| [Vértigo](https://open.spotify.com/track/1xVwKICsEZVdLGMISrPMv7) | [Zyanya](https://open.spotify.com/artist/10Q8hJxeiEUVGm5MoFTqeB) | [Vértigo](https://open.spotify.com/album/0dRY53OsauSXu0ISxXXzlS) | 2:51 | 2026-08-14 |  |
 | [Víctimas](https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Víctimas](https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON) | 3:58 | 2023-10-06 | 2023-10-28 |
 | [Wake Up](https://open.spotify.com/track/4ySgR9BaxtNEiDCFtsfXhS) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk), [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Wake Up](https://open.spotify.com/album/5k8YFWvpGR6gd3NhrTJKEF) | 2:26 | 2025-03-14 | 2025-06-07 |
 | [We Rise to the Light](https://open.spotify.com/track/4KaxlziGqIm7BmAz3RIZ3S) | [Emossana](https://open.spotify.com/artist/4zqwjIcqzUM70vWufe5ePJ) | [We Rise to the Light](https://open.spotify.com/album/2VdWN2FtCSuY8oIOZ4ytEc) | 2:53 | 2025-04-11 | 2025-05-17 |

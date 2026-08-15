@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 135483,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/4NeLtk26pOoCGO0W3S16cM"
@@ -3437,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Break Your Heart",
+        "url": "https://open.spotify.com/album/0cG2Al1asV9lPwLMVJeyyS"
+      },
+      "artists": [
+        {
+          "name": "Jack O'Kings",
+          "url": "https://open.spotify.com/artist/58glecwjJXEzskc9aKXzKl"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170138,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/2oJIIv36DLVHw5vBzZpAnW"
+    },
+    {
+      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/69HKdAFZWEphSo2IOxgK5z"
       },
@@ -4044,6 +4062,24 @@
       "duration_ms": 130765,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0BB0MvJmX63nWWFS9kFvn1"
+    },
+    {
+      "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/3FUug3nEDpGQC3qjcpL8dF"
+      },
+      "artists": [
+        {
+          "name": "SRNDE",
+          "url": "https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140714,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/7kuyRvXtjeac6BqyDxA15b"
     },
     {
       "album": {
@@ -5702,6 +5738,32 @@
       "duration_ms": 146617,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/3BIwy46uY7GPXRKhyWc3ux"
+    },
+    {
+      "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/5QI2Qd0N66uPA0kgcKOkvA"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        },
+        {
+          "name": "Luna Serenade",
+          "url": "https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/4FoFi2hgbJiC5wSHcRdyQB"
     },
     {
       "album": {
@@ -8386,7 +8448,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 143606,
       "name": "Early Days",
       "url": "https://open.spotify.com/track/6rTQqeYn4MYZYtIXP6zsIl"
@@ -12086,7 +12148,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 133500,
       "name": "Got Your Back",
       "url": "https://open.spotify.com/track/0XhW7zZ6vKJlUoZwZFpCKb"
@@ -18337,6 +18399,32 @@
     },
     {
       "album": {
+        "name": "Loop Me In",
+        "url": "https://open.spotify.com/album/2pMltAwkWZ3KXyeNDcjmlk"
+      },
+      "artists": [
+        {
+          "name": "Fex",
+          "url": "https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        },
+        {
+          "name": "Mallou",
+          "url": "https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171724,
+      "name": "Loop Me In",
+      "url": "https://open.spotify.com/track/5ruMC3RDay74xMXhW1bELf"
+    },
+    {
+      "album": {
         "name": "Lose You",
         "url": "https://open.spotify.com/album/4inY3Cim2lUd4ad6pvBYK4"
       },
@@ -19844,6 +19932,24 @@
       "duration_ms": 151111,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/6BZwKBfBHQ5kmsyobhJh8l"
+    },
+    {
+      "album": {
+        "name": "Microdose",
+        "url": "https://open.spotify.com/album/6UOweCjSXIk37GHN7Wml9t"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125222,
+      "name": "Microdose",
+      "url": "https://open.spotify.com/track/6xhEf3TRBA7r2bDkvO2GYc"
     },
     {
       "album": {
@@ -21850,6 +21956,24 @@
       "duration_ms": 159310,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6P145UblEPK6eXBtQYcbLG"
+    },
+    {
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/1mC8xyrOuYyyDaG0xD4wCE"
+      },
+      "artists": [
+        {
+          "name": "P.A.V",
+          "url": "https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/5uO4vtc93TFpfsUVB4VKVx"
     },
     {
       "album": {
@@ -24216,6 +24340,24 @@
       "duration_ms": 161000,
       "name": "Pull Me In",
       "url": "https://open.spotify.com/track/3t7qmA6TlgFvHCnM07ZkxO"
+    },
+    {
+      "album": {
+        "name": "Pull Me Through",
+        "url": "https://open.spotify.com/album/3uzwud9O39DbeNSK4VW3ol"
+      },
+      "artists": [
+        {
+          "name": "Zyrius",
+          "url": "https://open.spotify.com/artist/7Iecolizo2sW1RpCrITIZ8"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145081,
+      "name": "Pull Me Through",
+      "url": "https://open.spotify.com/track/2ih23QkQ3PNKMkto1nUSRF"
     },
     {
       "album": {

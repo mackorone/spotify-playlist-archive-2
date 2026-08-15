@@ -2453,6 +2453,28 @@
     },
     {
       "album": {
+        "name": "Follower",
+        "url": "https://open.spotify.com/album/5pqKQdkbhAzNH1VJvzO5t1"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        },
+        {
+          "name": "Buogo",
+          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Follower",
+      "url": "https://open.spotify.com/track/6a0ZPLfCfFMf62JVrlnBW2"
+    },
+    {
+      "album": {
         "name": "For",
         "url": "https://open.spotify.com/album/5hQPiyYmBNgH4hoosbqezG"
       },
@@ -5096,7 +5118,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 364724,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/2QT4b2LhsnKTQwlBsI12wI"
@@ -5813,6 +5835,28 @@
     },
     {
       "album": {
+        "name": "Rhythm in My Veins",
+        "url": "https://open.spotify.com/album/7ywLCVzRUj4Y42VsavfXza"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Aline Rocha",
+          "url": "https://open.spotify.com/artist/23hlYNjktCHEfyavJaK3Ug"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137812,
+      "name": "Rhythm in My Veins",
+      "url": "https://open.spotify.com/track/6da9V1BxCuEqD0ZDfax2cR"
+    },
+    {
+      "album": {
         "name": "Road To Nowhere",
         "url": "https://open.spotify.com/album/5ac8bG69seB2u4qEeCwtkl"
       },
@@ -6278,7 +6322,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 365689,
       "name": "Silence",
       "url": "https://open.spotify.com/track/340fN3ZYdRrcc7ybSYNglo"
@@ -7379,6 +7423,24 @@
     },
     {
       "album": {
+        "name": "Where You Go",
+        "url": "https://open.spotify.com/album/0TWc8hSijo43EAkWUHehuu"
+      },
+      "artists": [
+        {
+          "name": "FEZZO",
+          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Where You Go",
+      "url": "https://open.spotify.com/track/6d1mptMgBAHBRH1MrcGauu"
+    },
+    {
+      "album": {
         "name": "Airy EP",
         "url": "https://open.spotify.com/album/3KOQ2yxqN7OKVy4VbH1mzH"
       },
@@ -7602,7 +7664,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 302362,
       "name": "Ypsilon",
       "url": "https://open.spotify.com/track/0uwUEWkwJTIgWLKD1VHZMr"

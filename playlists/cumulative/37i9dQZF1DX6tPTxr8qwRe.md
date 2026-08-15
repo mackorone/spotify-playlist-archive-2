@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- Audrey Nuna on the cover
+> sweet\. sharp\. unbothered \- James the Seventh on the cover
 
-1,132 songs - 2 day 4 hr 24 min
+1,134 songs - 2 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [BLUR](https://open.spotify.com/track/4r7SDPszEcnEPnyc5FURj8) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [to fly a rocketship, you have to be an optimist](https://open.spotify.com/album/7vfvUr7L1PzQs4oOpUPHQq) | 2:58 | 2026-03-27 | 2026-06-27 |
 | [BLURRY](https://open.spotify.com/track/1bMUGYJ8N8ftjoaLL9FOBM) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BLURRY](https://open.spotify.com/album/7lZdWg70vTWn6sbohZGzQF) | 2:34 | 2023-07-07 | 2023-12-09 |
 | [BODY BAG](https://open.spotify.com/track/63f24av3B364sOS3oXoGL0) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BODY BAG](https://open.spotify.com/album/48NNeH33UfKEnvCJWmi7vt) | 3:06 | 2024-01-12 | 2024-03-23 |
-| [BODY HORROR](https://open.spotify.com/track/4X7VQgoyjOMTONyGI6rkEV) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [BODY HORROR](https://open.spotify.com/album/6KEW2xl30m37AfWixq60Jl) | 2:48 | 2026-04-17 |  |
+| [BODY HORROR](https://open.spotify.com/track/4X7VQgoyjOMTONyGI6rkEV) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [BODY HORROR](https://open.spotify.com/album/6KEW2xl30m37AfWixq60Jl) | 2:48 | 2026-04-17 | 2026-08-15 |
 | [Body On Me](https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:33 | 2025-06-13 | 2025-10-05 |
 | [Bon Voyage](https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Bon Voyage](https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9) | 3:24 | 2024-10-04 | 2025-02-22 |
 | [BOO HOO](https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [BOO HOO](https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl) | 2:50 | 2022-02-25 | 2022-07-02 |
@@ -760,7 +760,7 @@
 | [Pink Noise](https://open.spotify.com/track/79SnA3wt0c7znm70kwRxEm) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Baby Teeth](https://open.spotify.com/album/71irsFKcf0lvzG4DO2jDUL) | 2:19 | 2023-11-10 | 2024-02-09 |
 | [Pink Noise](https://open.spotify.com/track/7d5NtzOMqntN9keGOZiipO) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Baby Teeth](https://open.spotify.com/album/5ICVD6930PEKXa6iwb1JAt) | 2:19 | 2024-02-02 | 2024-03-23 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-10-08 |
-| [Pity Fuck](https://open.spotify.com/track/0u67C8HvoitIvVAqOT7cSU) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Pity Fuck](https://open.spotify.com/album/7zvjE3yPzOjTKAiZ0u17FR) | 2:04 | 2026-04-10 |  |
+| [Pity Fuck](https://open.spotify.com/track/0u67C8HvoitIvVAqOT7cSU) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Pity Fuck](https://open.spotify.com/album/7zvjE3yPzOjTKAiZ0u17FR) | 2:04 | 2026-04-10 | 2026-08-15 |
 | [pity party](https://open.spotify.com/track/0kqjckF0hPdPdFEnz9Maci) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [pity party](https://open.spotify.com/album/6c3OaBVwUQ8YkXH3ZOvV7Y) | 3:15 | 2024-07-26 | 2024-08-31 |
 | [PITY PARTY](https://open.spotify.com/track/4UQVHnvC9UD4jYYSjwTbp7) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [PITY PARTY](https://open.spotify.com/album/5qCV7EtFCsNheI3dl5Z1oV) | 2:19 | 2023-09-15 | 2023-12-09 |
 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 | 2025-10-03 | 2025-12-13 |
@@ -786,6 +786,7 @@
 | [Pretty Little Addict](https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8) | 2:47 | 2023-06-02 | 2023-12-15 |
 | [Pretty Little Addict](https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS) | 2:47 | 2023-10-06 | 2024-03-23 |
 | [pretty little thing](https://open.spotify.com/track/3X4JzWg9iUK5hYMysb53cu) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [pretty little thing](https://open.spotify.com/album/2KR8YSHpIenuVjxiP8BlUL) | 2:08 | 2025-05-02 | 2025-10-18 |
+| [pretty little wreck](https://open.spotify.com/track/5E20wifIo9SPgYSFiboExO) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [pretty little wreck](https://open.spotify.com/album/7y25EesHbjD552Aquq2Vtf) | 1:58 | 2026-08-14 |  |
 | [pretty poison](https://open.spotify.com/track/1a6SSxTLJK6AT9eTd8K6ao) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:17 | 2021-09-10 | 2022-02-19 |
 | [PRICE TAG](https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PRICE TAG](https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui) | 3:10 | 2026-05-01 |  |
 | [Problems](https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Problems](https://open.spotify.com/album/7ARGpnH0DV4qXGSzC08Rf2) | 2:50 | 2022-08-12 | 2023-02-04 |
@@ -806,6 +807,7 @@
 | [r.i.p.](https://open.spotify.com/track/09evlWu6OJKMJSJA0txcwx) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [r.i.p.](https://open.spotify.com/album/65ln1ZIQCDkgzaYESQxIdL) | 2:50 | 2024-06-07 | 2024-08-31 |
 | [Rabbit Hole](https://open.spotify.com/track/0BnGkx3tOWDLcdinr7RtkU) | [FLEUR ROUGE](https://open.spotify.com/artist/0ffRuel3oov8h1yxqyZLVY) | [Wish You The Worst](https://open.spotify.com/album/1SbbDPa5Z8O7xWDHQIXdgy) | 2:57 | 2025-04-18 | 2025-08-10 |
 | [RABBITHOLE](https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/3zxAXVIsNoLPv727sWSqKg) | 2:21 | 2024-08-23 | 2024-09-21 |
+| [Race Car Driver](https://open.spotify.com/track/7j9wdLhis4MYplephHszTI) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Science](https://open.spotify.com/album/4uZ9ILuVr2w2vVx4HtgW5n) | 2:33 | 2026-08-14 |  |
 | [RAPPERS & ROCKSTARS](https://open.spotify.com/track/7Lk3zksE4xfEHXglZir4lt) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [RAPPERS & ROCKSTARS](https://open.spotify.com/album/4CvelI6ME7TYDUm2eOak5i) | 2:25 | 2026-03-27 | 2026-05-09 |
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-07 | 2022-04-29 |
 | [Read The Room](https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Read The Room](https://open.spotify.com/album/66hA0bftjpanygAoCYZhou) | 2:46 | 2022-02-18 | 2022-05-20 |

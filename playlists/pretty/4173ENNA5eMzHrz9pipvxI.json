@@ -1,13 +1,53 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Luvstruck, Leena Punks",
-  "num_followers": 117861,
+  "num_followers": 117857,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAh0k7N0zdThTHkNrFsk2peynXHwWem",
+  "snapshot_id": "AAAh1EKlnxhXSlmnNamWmiN85iI2kpgz",
   "tracks": [
+    {
+      "added_at": "2026-08-14 08:07:29",
+      "album": {
+        "name": "Take It Slow (Bullit)",
+        "url": "https://open.spotify.com/album/5xIwMpVCiIrvWPBHmPVmOk"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        }
+      ],
+      "duration_ms": 176941,
+      "name": "Take It Slow (Bullit)",
+      "url": "https://open.spotify.com/track/3WrDF5bzGviLKHizs6yj8j"
+    },
+    {
+      "added_at": "2026-08-14 08:07:31",
+      "album": {
+        "name": "What Are We Gonna Do",
+        "url": "https://open.spotify.com/album/1au1sl4CUMncu2cep78zLO"
+      },
+      "artists": [
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        }
+      ],
+      "duration_ms": 148888,
+      "name": "What Are We Gonna Do",
+      "url": "https://open.spotify.com/track/3iC3tT5cWUIcjwqxqiOTKU"
+    },
     {
       "added_at": "2026-08-07 11:40:42",
       "album": {

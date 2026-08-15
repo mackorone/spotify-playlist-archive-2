@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-170 songs - 9 hr 21 min
+171 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,13 +12,14 @@
 | [30 Cartas \- En Vivo](https://open.spotify.com/track/0GVN5krhhtWiyBmZaUZpD5) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 4:07 | 2025-12-22 |  |
 | [A Mi Me Perteneces \(Live\)](https://open.spotify.com/track/5pMTvK0B21I1xIJuyAwKks) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:42 | 2025-07-20 | 2026-05-13 |
 | [A Quién No Le Gusta Eso \- En Vivo](https://open.spotify.com/track/6UMAQA7SccxUbw4oA0AIkf) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [A Quién No Le Gusta Eso \(En Vivo\)](https://open.spotify.com/album/5j2VUYmnBUtDCQJrMID12X) | 5:59 | 2024-06-13 | 2024-08-08 |
+| [Abejas](https://open.spotify.com/track/6xGIrolmea1LCNXOdk6jW6) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Abejas](https://open.spotify.com/album/7woFQTRaFEb1AYYXizdZb5) | 2:25 | 2026-08-15 |  |
 | [AMG \- En Vivo](https://open.spotify.com/track/0YlNa1FpjxrmtqnorgBVLY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 2:45 | 2025-01-22 | 2025-07-28 |
 | [Amigos](https://open.spotify.com/track/3Aztz5WADJSB6G94A1Zi96) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:43 | 2024-01-29 |  |
 | [AMIGOS CON DERECHO](https://open.spotify.com/track/7pQtPgMjkFfOyY1TWTBIGp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [AMIGOS CON DERECHO](https://open.spotify.com/album/3MVfbjBmTmSAMVgFj436Lk) | 3:36 | 2024-03-09 | 2025-09-19 |
 | [AMIGOS CON DERECHO](https://open.spotify.com/track/51OhxQDS4jRP49ByDnXJ6p) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:37 | 2024-11-02 | 2025-05-27 |
 | [AMORCITO CONSENTIDO](https://open.spotify.com/track/0n9VnyL7aAl8YPhIxVRIVP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 2:54 | 2024-08-18 | 2024-12-13 |
 | [amorlove](https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ) | 2:29 | 2024-01-29 | 2025-01-03 |
-| [Anillo Grabado \(Live\)](https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:46 | 2024-01-29 |  |
+| [Anillo Grabado \(Live\)](https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:46 | 2024-01-29 | 2026-08-15 |
 | [Asi Toco Mi Vida \- Live](https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Finix Style](https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC) | 4:18 | 2024-02-14 | 2024-12-21 |
 | [Ay Que Tristesa](https://open.spotify.com/track/2aF5CPsfybvK61FZxddIos) | [El Domador](https://open.spotify.com/artist/57sLlKPLTZrxL5vXMNh46v), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Para Adoloridos](https://open.spotify.com/album/5eGnXRiE9XXI8zTVuXSI8g) | 3:57 | 2024-11-27 | 2024-12-26 |
 | [BANDIDOS](https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:50 | 2024-01-29 | 2025-10-08 |

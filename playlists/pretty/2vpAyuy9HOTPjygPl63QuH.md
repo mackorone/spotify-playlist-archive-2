@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain](/playlists/plain/2vpAyuy9HOTPjygPl63QuH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2vpAyuy9HOTPjygPl63QuH)
 
-### [tuff house music 😤](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
+### [house music.](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
 
-> the final boss of house playlists\. \| Trades: tuffhouse@proton.me \| FISHER, Mau P, Dom Dolla, Max Styler, John Summit, Matroda, Joshwa \| minimal tech \- tech house 2026 \- car music \- club mix \- dj music \- workout music \- bass house \- housewerk
+> 
 
-[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,234 likes - 60 songs - 3 hr 16 min
+[CLUB SUPPLY](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,236 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 59 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
 | 60 | [Talking To Myself](https://open.spotify.com/track/2IoYR7dZzXRwnYkULlTRae) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Talking To Myself](https://open.spotify.com/album/1pYdfqXGZQlgXz2jnUwrpi) | 7:52 |
 
-Snapshot ID: `AAAod3UBLz+F7E82tG36c2VUQ/XP3o8D`
+Snapshot ID: `AAAoesN2UZwM2tBiCzZE0bq4CntoqCX9`

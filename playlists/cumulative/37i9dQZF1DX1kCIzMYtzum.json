@@ -512,6 +512,24 @@
     {
       "album": {
         "name": "Alive",
+        "url": "https://open.spotify.com/album/2VXuMY40qncXU9Bhwsx5aY"
+      },
+      "artists": [
+        {
+          "name": "Aspyer",
+          "url": "https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222089,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/75Mvnxpsa42JsQp5xeo00C"
+    },
+    {
+      "album": {
+        "name": "Alive",
         "url": "https://open.spotify.com/album/0jtYzOuoLYiGukF4qVQ256"
       },
       "artists": [
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 258461,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
@@ -15132,7 +15150,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 187164,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/7mRF6HWHu8IHnDQ2LRi5ru"
@@ -21660,6 +21678,28 @@
       "duration_ms": 217846,
       "name": "Who Created Love (feat. Midian)",
       "url": "https://open.spotify.com/track/2P5V5qzuNaYAvphvbDmZLk"
+    },
+    {
+      "album": {
+        "name": "Whole Again",
+        "url": "https://open.spotify.com/album/4RNq4wSDKKn7iwlyNNxZs1"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "SIX40TWO",
+          "url": "https://open.spotify.com/artist/2H6DuasUdjR2blRAcYkDwr"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177790,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/0yZB1yPbdmzMFjZElCD4Lb"
     },
     {
       "album": {

@@ -13027,6 +13027,24 @@
     },
     {
       "album": {
+        "name": "Permaisuri",
+        "url": "https://open.spotify.com/album/4zeKxGhC7GI2dgy8t0AefP"
+      },
+      "artists": [
+        {
+          "name": "Radja",
+          "url": "https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340844,
+      "name": "Permaisuri",
+      "url": "https://open.spotify.com/track/6WHcZoCHL9F1FRCGcejq9z"
+    },
+    {
+      "album": {
         "name": "Pernah Di Sana",
         "url": "https://open.spotify.com/album/0BKGKhyZ7KEXByVDXbOXLF"
       },

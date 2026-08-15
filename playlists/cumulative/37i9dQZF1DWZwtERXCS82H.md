@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-904 songs - 1 day 15 hr 0 min
+909 songs - 1 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [C'est fini](https://open.spotify.com/track/3nuA3ybZ8pJrqhHqzVRgiI) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [C'est fini](https://open.spotify.com/album/7jeUqhe5JbbyQzLw8t7Xtn) | 2:31 | 2023-03-14 | 2024-10-23 |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-04-15 | 2024-02-03 |
 | [Calm Skies](https://open.spotify.com/track/2IpHdNslMW4mijoiTKF3j3) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Calm Skies](https://open.spotify.com/album/3Z6ejTSGeCcThfOjvv5sP4) | 2:07 | 2022-04-15 | 2022-06-08 |
+| [Can you hear the wind?](https://open.spotify.com/track/7tMlLsEx5kNSkDNdOrq998) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Can you hear the wind?](https://open.spotify.com/album/3fuNfRktSc0myIVephVWB7) | 3:27 | 2026-08-14 |  |
 | [Candice](https://open.spotify.com/track/29jQKqToqxKPsDy2IeKjan) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Candice](https://open.spotify.com/album/4dAIB4LbNy3LCupWfH8oxD) | 3:34 | 2022-04-15 | 2022-05-14 |
 | [Candlelight](https://open.spotify.com/track/5iaXnCbptZhRWsfMlM68lN) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Candlelight](https://open.spotify.com/album/07zpR4ny0kTMNe7RJG8GY3) | 2:34 | 2023-10-09 |  |
 | [Casa luminosa](https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Casa luminosa](https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf) | 1:49 | 2022-12-22 | 2023-07-25 |
@@ -216,6 +217,7 @@
 | [Elune](https://open.spotify.com/track/1ZQGJy7CYjvvpcaoMJK01r) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Elune](https://open.spotify.com/album/5TGOokVxqJ6JqwI9HRz31D) | 2:37 | 2026-03-20 |  |
 | [Elysian](https://open.spotify.com/track/1vCF7vHUELmB38Zxn5T79S) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Oversoul](https://open.spotify.com/album/5GPrxmIXNWxWUirGs5GxSq) | 3:19 | 2022-04-15 | 2023-01-21 |
 | [Embers of Sorrow](https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB), [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [Embers of Sorrow](https://open.spotify.com/album/3mqoMlMFpLFJr1j7AX1cnP) | 2:01 | 2023-03-14 | 2024-03-19 |
+| [Empty Space](https://open.spotify.com/track/1QhOaZ52Z4hp79xiigAaX3) | [Rosenkalla](https://open.spotify.com/artist/0MbWSSyQVHyA2HNPHcc1Kz) | [Empty Space](https://open.spotify.com/album/6qOvNvKQlJ2cBvWC0WtNsg) | 2:36 | 2026-08-14 |  |
 | [En Croix](https://open.spotify.com/track/654q2B3IISzqGLze0GR9oC) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [En Croix](https://open.spotify.com/album/4B3HBQx4nsZnUWJ822TwR0) | 2:32 | 2022-04-15 | 2024-02-03 |
 | [Endearing](https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [Endearing](https://open.spotify.com/album/4igF9besSJ9l4MzQQfT9SK) | 2:17 | 2022-04-15 | 2022-04-23 |
 | [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-04-15 | 2024-04-04 |
@@ -664,6 +666,7 @@
 | [Shades of Wounded Light](https://open.spotify.com/track/37UIiW5Bncp2INQ7rT6szi) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [Shades of Wounded Light](https://open.spotify.com/album/23mhihANYnLrPtF8RmT6JG) | 2:50 | 2024-10-08 | 2025-09-17 |
 | [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-12 | 2025-06-11 |
 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 | 2022-04-15 | 2024-01-05 |
+| [Shallow Echo Field](https://open.spotify.com/track/12cwBhs4NJ8wKwvSGIwBDH) | [Evren Calder](https://open.spotify.com/artist/3UQfhTZxIT81OntthwCHTe) | [Shallow Echo Field](https://open.spotify.com/album/3pJVjKxaO6yNZ0z7kmK9q3) | 2:16 | 2026-08-14 |  |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-04-15 | 2023-08-08 |
 | [Shimmering](https://open.spotify.com/track/1TmKoVyIA8IGqLLoUqqVGt) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Shimmering](https://open.spotify.com/album/1M2Ou91mXcijsruHansfTp) | 2:27 | 2026-07-17 |  |
 | [Shinsetsu](https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH) | [Ida Aoi](https://open.spotify.com/artist/02jiWzihJtpS94vvCnlDUK) | [Shinsetsu](https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A) | 2:59 | 2022-04-15 | 2024-02-14 |
@@ -771,6 +774,7 @@
 | [The Light Of That Morning](https://open.spotify.com/track/3hA4o2GOVotNTAzZEY7kBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Light Of That Morning](https://open.spotify.com/album/6uAyUcY2newV2vsoPiBLdV) | 2:34 | 2023-05-03 | 2024-03-19 |
 | [The Lighthouse keeper](https://open.spotify.com/track/0pW7fhQB5zr1hTrEpPsuJc) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [The Lighthouse keeper](https://open.spotify.com/album/3kb1qnpFKZ09wOtBBOX5fP) | 3:03 | 2022-04-27 | 2024-12-18 |
 | [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-05 | 2025-06-05 |
+| [The Lightshow](https://open.spotify.com/track/46JAVRlAaq5xex5e2XJ2cl) | [R\. Coxwell](https://open.spotify.com/artist/7jNyI8cwWANZyQKpBp4ua9) | [The Lightshow](https://open.spotify.com/album/5su4jLmW14qcCtEiwsoqNv) | 2:23 | 2026-08-14 |  |
 | [The Melting Sun](https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [The Melting Sun](https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO) | 2:07 | 2024-11-05 | 2025-09-17 |
 | [The Muse](https://open.spotify.com/track/7xXpADcOn56aC1Jls0ZmDx) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [The Muse](https://open.spotify.com/album/0tqEsnJ7kf9rneH6NmvFus) | 2:25 | 2025-08-19 |  |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-04-15 | 2022-05-14 |
@@ -879,6 +883,7 @@
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2022-04-15 | 2023-05-04 |
 | [When You Go](https://open.spotify.com/track/4GisKzPibWBZumwEoe6yV3) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [When You Go](https://open.spotify.com/album/2RraZIbc5VB8AhtRGBpMSs) | 2:28 | 2026-05-15 |  |
 | [Where I Let Go](https://open.spotify.com/track/1TI6PSd5CaHNHf5ZCiqK9I) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Where I Let Go](https://open.spotify.com/album/5ZaEFFcjbyob4xGMOIYrGS) | 2:23 | 2026-05-08 |  |
+| [Where the Petals Fell](https://open.spotify.com/track/6ZcvdHewp3awv9GUHZKa27) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Where the Petals Fell](https://open.spotify.com/album/7ctBA3Bbaa3dGunAdq0tmw) | 2:18 | 2026-08-14 |  |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-04-15 | 2024-09-04 |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-04-15 | 2024-08-21 |
 | [White Road](https://open.spotify.com/track/5im9REzRM7HXHBgedv0lod) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [White Road](https://open.spotify.com/album/4CqT4Z5flLY2Kiy1a2oiMf) | 2:23 | 2023-08-07 | 2025-06-11 |

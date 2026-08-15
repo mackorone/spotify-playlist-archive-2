@@ -4,7 +4,7 @@
 
 > Gentle, relaxing classical music.
 
-105 songs - 8 hr 52 min
+106 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Eyes Shut \- Nocturne in C Minor](https://open.spotify.com/track/0oPwxGW0udJf7s8ZBWaFvp) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [The Chopin Project](https://open.spotify.com/album/3e9ZZe5qexHd61X9ucUNxh) | 6:41 | 2020-10-19 |  |
 | [Eyes Shut \- Nocturne in C Minor](https://open.spotify.com/track/4trFGwjCPmZxCgoJgxaFZX) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [The Chopin Project](https://open.spotify.com/album/4HA4XXhCzftKn9O59YnUwH) | 6:41 | 2020-10-19 | 2024-04-19 |
 | [Eyes Shut \- Nocturne in C Minor](https://open.spotify.com/track/5QRGoqZXPbULoxZKeJgX6u) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Classical Piano](https://open.spotify.com/album/15KvLIE8qiICWIDU9fBr6l) | 6:41 | 2020-10-19 | 2022-11-13 |
+| [Fantasia in Echo style in D dorian](https://open.spotify.com/track/51a8o6Sv9xJa0avpTEw2SO) | [Jan Pieterszoon Sweelinck](https://open.spotify.com/artist/1py3vNdZzIlMyUlW4TNfwG), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Fantasia in Echo style in D dorian](https://open.spotify.com/album/1TGgKs89VLyjYZJwz3BmgK) | 3:25 | 2026-08-14 |  |
 | [Five Variants of ‘Dives and Lazarus’](https://open.spotify.com/track/7L5zrjSg42n4hPdbXIkHUG) | [Ralph Vaughan Williams](https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe), [Hallé](https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam), [Sir Mark Elder](https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG) | [Vaughan Williams: Pastoral Symphony](https://open.spotify.com/album/6oh3zPBUxUYXxuKC2IfDKk) | 11:34 | 2020-10-19 |  |
 | [French Overture in B Minor, BWV 831: V\. Sarabande](https://open.spotify.com/track/2fteBRbyEj2Lo7Lr17xXgu) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Piotr Anderszewski](https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9) | [Bach: French Suite No\. 5; Overture in the French Style](https://open.spotify.com/album/1H3jcrrQmIbc8QNJBZwr2A) | 4:03 | 2020-10-19 |  |
 | [Gnossienne No\. 1 \(Arr\. Dyens for Guitar\)](https://open.spotify.com/track/0DKHLVXCeX7vI4HoelvrFD) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Satie: Gnossienne No\. 1 \(Arr\. Dyens for Guitar\)](https://open.spotify.com/album/6A31DVhBwEM8e7W7q2aNL4) | 3:15 | 2025-08-15 |  |

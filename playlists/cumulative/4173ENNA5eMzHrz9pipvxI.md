@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Luvstruck, Leena Punks
 
-2,055 songs - 4 day 3 hr 1 min
+2,057 songs - 4 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1721,6 +1721,7 @@
 | [Tainted Love](https://open.spotify.com/track/3Mfx6W0pmOBw7UQO0mrD47) | [Declain](https://open.spotify.com/artist/5TGKxlRZwHSZKWPGiZAR43) | [Tainted Love](https://open.spotify.com/album/6VP3q7oc8ZtBNr7ZA5qZBk) | 3:15 | 2022-08-19 | 2022-09-03 |
 | [Takata](https://open.spotify.com/track/4yHWFJAaXTvk7LibzjyEv6) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Takata](https://open.spotify.com/album/557rBxVHIxdUYxfi508M4w) | 3:34 | 2023-02-02 | 2023-02-18 |
 | [Take Control](https://open.spotify.com/track/70z6wZYx5VAM7cw1PrhgxT) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Take Control](https://open.spotify.com/album/4fOXUCgiZkpH22kvDXXgzE) | 3:03 | 2024-05-17 | 2024-05-24 |
+| [Take It Slow \(Bullit\)](https://open.spotify.com/track/3WrDF5bzGviLKHizs6yj8j) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Take It Slow \(Bullit\)](https://open.spotify.com/album/5xIwMpVCiIrvWPBHmPVmOk) | 2:56 | 2026-08-14 |  |
 | [Take Me Away](https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Take Me Away](https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw) | 2:26 | 2024-08-01 | 2024-08-09 |
 | [Take Me Away \(feat\. 4 Strings\)](https://open.spotify.com/track/6uwZTxW1wBkWNSAqd1noW8) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away \(feat\. 4 Strings\)](https://open.spotify.com/album/3vOYtOP8y4n972n5YFZL0O) | 3:02 | 2024-05-23 | 2024-06-01 |
 | [Take Me Away \(Into The Night\)](https://open.spotify.com/track/5luQZ72hkZ7Y3tpDzbeZ7E) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [Melody Mane](https://open.spotify.com/artist/48gbf4ARAxb4gb6dsQrSF7) | [Take Me Away \(Into The Night\)](https://open.spotify.com/album/4KRBdJXmN50QXMq76FC5fc) | 2:33 | 2022-06-03 | 2022-06-11 |
@@ -1977,6 +1978,7 @@
 | [Welcome To The Rave](https://open.spotify.com/track/37Vd8OozOdhuYoFXyaC0SW) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Welcome To The Rave](https://open.spotify.com/album/5EG8GtuRiCWbQSP3IZmSLc) | 2:48 | 2022-11-10 | 2022-11-25 |
 | [What A Girl \(feat\. Belico\)](https://open.spotify.com/track/3X2dIlT0DRB84Nxe65jvNx) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V), [Belico](https://open.spotify.com/artist/6f04rVzdeSu2uJv6ZB323r) | [What A Girl \(feat\. Belico\)](https://open.spotify.com/album/1jjQzFSo67KSgvTZQodqha) | 2:41 | 2022-06-17 | 2022-07-02 |
 | [What About Now](https://open.spotify.com/track/5X9wmreOpsUOsZQXZGiwW3) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [What About Now](https://open.spotify.com/album/0h51JwWXuukghEJzgdL8bY) | 2:33 | 2026-02-27 |  |
+| [What Are We Gonna Do](https://open.spotify.com/track/3iC3tT5cWUIcjwqxqiOTKU) | [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [What Are We Gonna Do](https://open.spotify.com/album/1au1sl4CUMncu2cep78zLO) | 2:28 | 2026-08-14 |  |
 | [What Can I Say](https://open.spotify.com/track/1isYUV8dk5bEhJuVmhKtgq) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [What Can I Say](https://open.spotify.com/album/2fBBZuDrcQsBBGpmzhRx6d) | 3:17 | 2026-03-06 |  |
 | [What Happens Here](https://open.spotify.com/track/5Phj9hxscqPRvHRlty5EOS) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [DAMANTE](https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ) | [What Happens Here](https://open.spotify.com/album/3y1kQEj8ApSJxWJlvSiJkv) | 2:18 | 2022-10-21 | 2022-11-04 |
 | [What The DJ Said](https://open.spotify.com/track/3Vc7WFMfwUh6i5qbS0Eh5d) | [DOCTUM](https://open.spotify.com/artist/3MZCjzlSneUMjzcmwhX0ah) | [What The DJ Said](https://open.spotify.com/album/6sCfZ6lyot7MLhVjt9LMQG) | 3:17 | 2023-07-07 | 2023-07-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
+  "description": "Today's Bluegrass and old time favorites. Cover: Tatiana Hargreaves, Laurie Lewis, and Lindsay Lou",
   "name": "Grass Roots",
   "tracks": [
     {
@@ -368,6 +368,44 @@
       "duration_ms": 425360,
       "name": "All Ashore",
       "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
+    },
+    {
+      "album": {
+        "name": "All I Ever Loved Was You",
+        "url": "https://open.spotify.com/album/3dcaEyEoPy4p7e4NxOjgGk"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Tatiana Hargreaves",
+          "url": "https://open.spotify.com/artist/63Xd2NZV9SzwjChcdH5QsK"
+        },
+        {
+          "name": "Laurie Lewis",
+          "url": "https://open.spotify.com/artist/4TFUM3dwVVxsJ6vCnMDVCb"
+        },
+        {
+          "name": "Maddie Witler",
+          "url": "https://open.spotify.com/artist/28Ij5YncsxWu3MPZuvcicG"
+        },
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Hasee Ciaccio",
+          "url": "https://open.spotify.com/artist/0AoPdpx2v9EgQHmVvDxd7m"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204618,
+      "name": "All I Ever Loved Was You",
+      "url": "https://open.spotify.com/track/6aJULEtPWMkETIS9l4SeZZ"
     },
     {
       "album": {
@@ -2064,7 +2102,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 198375,
       "name": "Circling the Drain",
       "url": "https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw"
@@ -3526,6 +3564,24 @@
       "duration_ms": 144608,
       "name": "Father Time",
       "url": "https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb"
+    },
+    {
+      "album": {
+        "name": "Fifty Years of Clown School",
+        "url": "https://open.spotify.com/album/7JogtGNYfSJOJtuJmOpfk5"
+      },
+      "artists": [
+        {
+          "name": "Matt Combs",
+          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180084,
+      "name": "Fifty Years of Clown School",
+      "url": "https://open.spotify.com/track/4aukzvlumumfmV8EX1sKus"
     },
     {
       "album": {
@@ -5817,6 +5873,28 @@
     },
     {
       "album": {
+        "name": "In Control (feat. Lindsay Lou)",
+        "url": "https://open.spotify.com/album/4haxylHYKTWOlgfV4sb3q8"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        },
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337129,
+      "name": "In Control (feat. Lindsay Lou)",
+      "url": "https://open.spotify.com/track/46Bl0IGPmuzmIAzCuWcQwg"
+    },
+    {
+      "album": {
         "name": "In Dreams I Go Back",
         "url": "https://open.spotify.com/album/19fZiSuSzooQAYE714nE5A"
       },
@@ -6314,7 +6392,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 219493,
       "name": "Kentucky Highway",
       "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
@@ -6630,7 +6708,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 239440,
       "name": "Let\u2019s Sing Our Song",
       "url": "https://open.spotify.com/track/4Kq8ljJO7tLWtzgiI0ZrFW"
@@ -9095,6 +9173,24 @@
     },
     {
       "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/7Kz7JJNVOA013cnZiwWFhO"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165629,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/0lbRInkZS1B519c42u0tN2"
+    },
+    {
+      "album": {
         "name": "Reason To Believe",
         "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
       },
@@ -10514,7 +10610,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 191813,
       "name": "Sunny Days (Are Comin' Once Again)",
       "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"

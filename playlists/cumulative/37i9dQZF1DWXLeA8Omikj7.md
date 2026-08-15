@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,222 songs - 3 day 17 hr 52 min
+1,224 songs - 3 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Drift](https://open.spotify.com/track/3FuL1ZXWR36lwtXgYsJcCb) | [Gerastic](https://open.spotify.com/artist/1uGlDC3k0x6zUAYP0LtaAy) | [Drift](https://open.spotify.com/album/27su1jEpiOqNV3tLmgoKTG) | 2:22 | 2019-06-19\* | 2020-08-26 |
 | [Drip! Drip! Drip!](https://open.spotify.com/track/3NWMuq1k1DJNXaHU0m7GDj) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 2:00 | 2021-08-27 | 2022-07-29 |
 | [Droplets](https://open.spotify.com/track/6OVFpcu95Z7VqU2CfrscLn) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH), [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl) | [Bolivian Hotel Bistro](https://open.spotify.com/album/4yIKmfgbxHQOFYaiXLjYP1) | 4:17 | 2022-02-25 | 2022-04-16 |
+| [Drummyfeb](https://open.spotify.com/track/49UV8nd45XHJxHjCL2aDfJ) | [bambinodj](https://open.spotify.com/artist/1XZlMHqN41hHE8KTwrCDf7) | [Hall Of Life](https://open.spotify.com/album/20dJyKB6na7IytIH3Hi7JV) | 3:00 | 2026-08-14 |  |
 | [Drunken Clouds](https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Drunken Clouds](https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR) | 4:13 | 2022-07-01 | 2022-07-29 |
 | [Dry Faces \- Original Mix](https://open.spotify.com/track/2MAZX1hM4EiBeSUwzt3ctu) | [Egomorph](https://open.spotify.com/artist/2Gbn2Rc0bAU77kK16wcTon) | [Dry Faces / Wet Feelings](https://open.spotify.com/album/0oEV4mu1DXSBFatu2B4mru) | 7:22 | 2019-06-19\* | 2020-08-26 |
 | [Dub 004](https://open.spotify.com/track/7496CPkQHjCsimdFAGEBC4) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Cosmonection](https://open.spotify.com/artist/752ZwPUx0lcLZyxgSQTL3D) | [Dub 004](https://open.spotify.com/album/3UzwI0WmHgiVjvVpTIpKkG) | 4:12 | 2022-02-11 | 2022-07-29 |
@@ -291,7 +292,7 @@
 | [Dust](https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Star Crossed / Dust](https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc) | 3:32 | 2022-09-09 | 2024-04-19 |
 | [Dust](https://open.spotify.com/track/79srzZz9HB7l9MJjWlHPvD) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Dust](https://open.spotify.com/album/6RurZxObPerofRLmbWeb1o) | 3:32 | 2020-11-23 | 2022-07-29 |
 | [Eagle 12'](https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj) | [Jeune Oji](https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ) | [Eagle 12'](https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i) | 2:20 | 2025-02-12 | 2025-05-17 |
-| [Earth Moves \- Hidden Spheres Remix](https://open.spotify.com/track/3srHdKr4OnHfpjOC5jsz1O) | [Francis Harris](https://open.spotify.com/artist/3pTGFfv4bHpC2MO7LS9S6W), [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Thresholds \(Remixes\)](https://open.spotify.com/album/6lh2WYmXhiXbur8oH7Bsmg) | 6:34 | 2026-02-13 |  |
+| [Earth Moves \- Hidden Spheres Remix](https://open.spotify.com/track/3srHdKr4OnHfpjOC5jsz1O) | [Francis Harris](https://open.spotify.com/artist/3pTGFfv4bHpC2MO7LS9S6W), [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Thresholds \(Remixes\)](https://open.spotify.com/album/6lh2WYmXhiXbur8oH7Bsmg) | 6:34 | 2026-02-13 | 2026-08-15 |
 | [Ease Up](https://open.spotify.com/track/0yl3LjwqrGAlkmFMUdBGHa) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Hunger / Ease Up](https://open.spotify.com/album/4mSE14gwpR49d3z1yYLThW) | 2:00 | 2020-10-19 | 2020-10-22 |
 | [EASY PREY \- yeule & Kin Leonn Remix](https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:31 | 2023-03-18 | 2023-06-17 |
 | [Ebb and Flow](https://open.spotify.com/track/74xxZoxsTlQv3wG6woxh4h) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 4:46 | 2019-07-25 | 2020-10-21 |
@@ -705,6 +706,7 @@
 | [Never Lost](https://open.spotify.com/track/5gFYPS2iyiiQMMvzBlF4a5) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/1mWQKczLANctDIiOKYc4IM) | 6:46 | 2019-06-19\* | 2020-08-26 |
 | [New Beginnings](https://open.spotify.com/track/2dIbIbzsIhjxYGyUELbNjM) | [Daydreamer](https://open.spotify.com/artist/7pcwfhcdyYJqkCV098EgYl) | [Senses](https://open.spotify.com/album/0ALxr1bwap4ptl8rjpLNop) | 2:54 | 2019-05-26\* | 2020-10-22 |
 | [New Lands](https://open.spotify.com/track/5Ti70Fpvrhm4VLo6yE4BlX) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 3:35 | 2019-06-19\* | 2022-04-14 |
+| [new romance](https://open.spotify.com/track/0tu3eVPEokOCXR70x0IYUI) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [new romance](https://open.spotify.com/album/6uC7ku55WzqGId2MbKZFWa) | 3:54 | 2026-08-14 |  |
 | [Nico](https://open.spotify.com/track/7tQDkqd7UhBIjhV0EYJ8Ae) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Culture](https://open.spotify.com/album/3y0ulDKE7OQQ6hJs7XkXN9) | 7:23 | 2019-06-19\* | 2020-10-22 |
 | [Night Light](https://open.spotify.com/track/00mZmQ1kdWxmRtEA3A9olx) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:03 | 2019-07-25 | 2020-10-21 |
 | [Night Owl](https://open.spotify.com/track/26K1uubDB1A4RHvadCD5U9) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/4Enz8DFB6Ue4rUCenfucpw) | 6:16 | 2021-02-13 | 2022-07-27 |
@@ -1085,7 +1087,7 @@
 | [The Visitor](https://open.spotify.com/track/6cpOIIgk3nZ30imud87dGK) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve) | [The Visitor](https://open.spotify.com/album/6DRui3Vpj3UrFYAdwwxpma) | 5:21 | 2019-06-19\* | 2022-04-17 |
 | [The Warehouse](https://open.spotify.com/track/6cofOcVh37qyVEuBBVd6Wi) | [The M Machine](https://open.spotify.com/artist/62rW7FjQy7clhBDHuumg22) | [Glare](https://open.spotify.com/album/7sQt3KcCaK8Xky9F1oatJn) | 2:26 | 2019-05-26\* |  |
 | [The Wave \- Radio Edit](https://open.spotify.com/track/26psGKOS3wq1K4D1aqGLd3) | [Good Lee](https://open.spotify.com/artist/5yOhJjcBmxlZxXI4clQqPM) | [The Wave](https://open.spotify.com/album/0t8Eyq5An1RO8s2sveygQy) | 4:05 | 2021-05-09 | 2022-07-28 |
-| [there is beauty when you allow yourself to see](https://open.spotify.com/track/73BtAeBHPCA1IMGoVPXEHN) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [when the quiet comes](https://open.spotify.com/album/4Dx6ghUqKDjLa6xJHpHQor) | 5:27 | 2024-03-01 |  |
+| [there is beauty when you allow yourself to see](https://open.spotify.com/track/73BtAeBHPCA1IMGoVPXEHN) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [when the quiet comes](https://open.spotify.com/album/4Dx6ghUqKDjLa6xJHpHQor) | 5:27 | 2024-03-01 | 2026-08-15 |
 | [There is Nowhere](https://open.spotify.com/track/5RfgXcobIzarx0SXf0GGrZ) | [Spaces Between](https://open.spotify.com/artist/1TSp1wQomRLNzQd8bju17n) | [Black Blood](https://open.spotify.com/album/3t6EKSoRByx4yvbavuYBsB) | 4:30 | 2019-06-21 | 2020-10-22 |
 | [There’s Something Here for Us Both](https://open.spotify.com/track/310bPg4gYgXqHKolfGS3Sr) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [There’s Something Here for Us Both](https://open.spotify.com/album/2fly09UtlyJaGY4Tt1UaOM) | 2:35 | 2026-05-19 |  |
 | [Thin Floors And Tall Ceilings](https://open.spotify.com/track/1zyMwU1NtRDkuQWthUbGsL) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 2:58 | 2019-06-19\* | 2020-10-22 |

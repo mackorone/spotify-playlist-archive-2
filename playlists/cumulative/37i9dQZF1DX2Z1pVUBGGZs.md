@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 💐 cover: Sam Tompkins
 
-1,115 songs - 2 day 8 hr 54 min
+1,116 songs - 2 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [All these places, all these hands](https://open.spotify.com/track/3rdaCbZ9dfAux2nQhYRKDk) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [Flowers](https://open.spotify.com/album/6KqayUL2sguyEFph75YUK0) | 2:53 | 2026-05-21 | 2026-06-26 |
 | [Allegedly](https://open.spotify.com/track/7FuKEJqJTH3G86vZyqcwM4) | [Lauren Wallace](https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu) | [Allegedly](https://open.spotify.com/album/5yFMiV3EyqQtoCzRduZowR) | 2:48 | 2025-06-05 | 2025-06-20 |
 | [Alright, Alright](https://open.spotify.com/track/3coi1T3U5MsiisKkQX9Oza) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Alright, Alright](https://open.spotify.com/album/5LD82ktd0nOVBwwCbFOSJo) | 3:55 | 2025-11-07 | 2026-02-27 |
+| [always](https://open.spotify.com/track/2lTmsSA87P0VgUhFEwvBTQ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [g00se](https://open.spotify.com/album/2sjAetVEPuQSfO3HqbT3gi) | 2:54 | 2026-08-13 |  |
 | [Always](https://open.spotify.com/track/76k46Di6EH58L7nkgDvmIq) | [Maïcee](https://open.spotify.com/artist/7pyfZGDbwdsRidi4yjomoA), [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [Always](https://open.spotify.com/album/67NzJoWQV4GNCVB9k3frKd) | 2:47 | 2025-03-28 | 2025-04-11 |
 | [Always Almost Losing You](https://open.spotify.com/track/0MyZNBpfBQ6tMIT5o8DviW) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Always Almost Losing You](https://open.spotify.com/album/3QK8NXU2hlevgUC5Qyv76n) | 2:55 | 2025-09-11 | 2025-10-17 |
 | [Always Like This](https://open.spotify.com/track/0H6ABSnWE53gUJIdiadL6e) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Always Like This](https://open.spotify.com/album/5G8PoOaWgopOQRhJlk66tq) | 2:55 | 2024-10-03 | 2024-11-22 |
@@ -320,6 +321,7 @@
 | [eyes](https://open.spotify.com/track/7qt2MchLcEJ6WdgsDgjEfa) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj), [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [eyes](https://open.spotify.com/album/6KlKXZ6PaYDkaflM3DG4Jq) | 2:17 | 2025-07-10 | 2025-09-26 |
 | [face to face](https://open.spotify.com/track/1faZdE6q27lJH2GnhFuhBP) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [face to face](https://open.spotify.com/album/76lVUNdjwPIhsQTMJrzmMn) | 3:01 | 2024-08-23 | 2024-11-01 |
 | [Fairy Blue](https://open.spotify.com/track/1EwpGD2N709qjisxkaws7p) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [Fairy Blue](https://open.spotify.com/album/0gXU2w6968QtLCQfRP1khx) | 2:24 | 2024-10-10 | 2025-01-17 |
+| [Fake Friends](https://open.spotify.com/track/413pM0wBJH35B542tx3Q8l) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Fake Friends](https://open.spotify.com/album/2eZbf51oMa3TKOcx2n3bMu) | 1:43 | 2026-08-13 |  |
 | [Fall Out](https://open.spotify.com/track/4mUUW9VRax0XjJAOL5WFsa) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Fall Out](https://open.spotify.com/album/2pTiYUFcMce0j86I6n6gSE) | 2:56 | 2024-08-15 | 2025-01-03 |
 | [FALLING FOR U](https://open.spotify.com/track/47Go3rINNtS8DtW3hPy21s) | [Lij](https://open.spotify.com/artist/5wuXqx3OV19LNRURs08L64) | [FALLING FOR U](https://open.spotify.com/album/6dAijDiaxUZJ55mBjsInK6) | 3:49 | 2026-05-07 | 2026-06-19 |
 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:45 | 2025-02-28 | 2025-05-23 |
@@ -1013,7 +1015,6 @@
 | [Touch Me](https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Touch Me](https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR) | 3:18 | 2026-01-30 | 2026-04-03 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-25 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-07-03 | 2025-09-19 |
-| [Track 5](https://open.spotify.com/track/2lTmsSA87P0VgUhFEwvBTQ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [g00se](https://open.spotify.com/album/2sjAetVEPuQSfO3HqbT3gi) | 0:00 | 2026-08-13 |  |
 | [trans](https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [trans](https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2) | 2:19 | 2026-01-30 | 2026-04-17 |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-23 | 2026-06-12 |

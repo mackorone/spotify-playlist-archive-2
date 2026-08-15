@@ -1,44 +1,32 @@
 {
-  "description": "50% techno, 50% house \u2708\ufe0f Tech house operators, featuring WELKER",
-  "num_followers": 713199,
+  "description": "50% techno, 50% house \ud83d\udc8e Tech house operators, featuring Walker & Royce + FENIK",
+  "num_followers": 713293,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJNuy2DTrTc5DhT0tfcCMhnb7ci",
+  "snapshot_id": "AAAAAFK2wurC0DXdx4YtwoafNTegWt/S",
   "tracks": [
     {
-      "added_at": "2026-08-07 18:42:36",
+      "added_at": "2026-08-14 04:01:17",
       "album": {
-        "name": "I Don't Think I Can Stop",
-        "url": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2"
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/7LWb2mvVz8R0k0IwEBw6wi"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 227076,
-      "name": "Feel The XTC",
-      "url": "https://open.spotify.com/track/2Lnn85xm6wBgxGtYRMEkrC"
-    },
-    {
-      "added_at": "2026-07-31 04:37:32",
-      "album": {
-        "name": "LA TO IBIZA",
-        "url": "https://open.spotify.com/album/1BixBJebSVzMxeiC4JyBMT"
-      },
-      "artists": [
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
         {
-          "name": "WELKER",
-          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+          "name": "FENIK",
+          "url": "https://open.spotify.com/artist/3xA33zcSOXlZUcK6n8MxiM"
         }
       ],
-      "duration_ms": 226976,
-      "name": "LA TO IBIZA",
-      "url": "https://open.spotify.com/track/2nPFKy5gMQS7Faj3q8mqw2"
+      "duration_ms": 217611,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/2weibCrIRBDPColZHhL88Y"
     },
     {
       "added_at": "2026-07-24 04:02:18",
@@ -61,6 +49,34 @@
       "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
     },
     {
+      "added_at": "2026-08-14 04:01:17",
+      "album": {
+        "name": "Party Time (feat. Aatig) [AYYBO Remix]",
+        "url": "https://open.spotify.com/album/6tnwDlHHjj5Y6ogU9DDn0K"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 200964,
+      "name": "Party Time (feat. Aatig) - AYYBO Remix",
+      "url": "https://open.spotify.com/track/6BIQafyCt58ODsf9yBS2Cy"
+    },
+    {
       "added_at": "2026-08-07 04:01:14",
       "album": {
         "name": "Work",
@@ -79,26 +95,54 @@
     {
       "added_at": "2026-07-31 04:37:32",
       "album": {
-        "name": "Think Too Much EP",
-        "url": "https://open.spotify.com/album/1IlDb8yklrYyFlwO8t83wE"
+        "name": "LA TO IBIZA",
+        "url": "https://open.spotify.com/album/1BixBJebSVzMxeiC4JyBMT"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Nariman",
-          "url": "https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va"
-        },
-        {
-          "name": "rhys from the sticks",
-          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
         }
       ],
-      "duration_ms": 186825,
-      "name": "Think Too Much",
-      "url": "https://open.spotify.com/track/21gMbdNtW8Za7QOdTmWa5G"
+      "duration_ms": 226976,
+      "name": "LA TO IBIZA",
+      "url": "https://open.spotify.com/track/2nPFKy5gMQS7Faj3q8mqw2"
+    },
+    {
+      "added_at": "2026-08-07 18:42:36",
+      "album": {
+        "name": "I Don't Think I Can Stop",
+        "url": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Feel The XTC",
+      "url": "https://open.spotify.com/track/2Lnn85xm6wBgxGtYRMEkrC"
+    },
+    {
+      "added_at": "2026-08-14 04:01:17",
+      "album": {
+        "name": "Percolate",
+        "url": "https://open.spotify.com/album/0AvMPWqojhPSyjbd9bAnrI"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Percolate",
+      "url": "https://open.spotify.com/track/1gWJZZoUzScXlKgXEKuxFr"
     },
     {
       "added_at": "2026-07-31 04:37:32",
@@ -119,6 +163,42 @@
       "duration_ms": 213750,
       "name": "Disco Biscuit",
       "url": "https://open.spotify.com/track/3oRxAZstpoc5xrT9HYFIJv"
+    },
+    {
+      "added_at": "2026-07-31 04:37:32",
+      "album": {
+        "name": "MEDIA DOME",
+        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6NTELLA",
+          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
+        }
+      ],
+      "duration_ms": 218436,
+      "name": "MEDIA DOME",
+      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
+    },
+    {
+      "added_at": "2026-08-14 13:29:54",
+      "album": {
+        "name": "Get Messy",
+        "url": "https://open.spotify.com/album/5HhR64fJwvcCZQgq6P5tpY"
+      },
+      "artists": [
+        {
+          "name": "Mishell",
+          "url": "https://open.spotify.com/artist/3kCsXVpVs1ZhLnIVkNzdHJ"
+        },
+        {
+          "name": "Toni B",
+          "url": "https://open.spotify.com/artist/3qWTx02uCfYKSvb2JToFZt"
+        }
+      ],
+      "duration_ms": 197007,
+      "name": "Get Messy",
+      "url": "https://open.spotify.com/track/6MtO1ovgogUUTK5C8EN3KZ"
     },
     {
       "added_at": "2026-08-07 18:43:33",
@@ -147,6 +227,46 @@
     {
       "added_at": "2026-07-24 04:02:18",
       "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/4EdMwpLJIKhipUrX5tdaGk"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
+    },
+    {
+      "added_at": "2026-08-14 04:01:17",
+      "album": {
+        "name": "TEQUILA EP",
+        "url": "https://open.spotify.com/album/07z2QFK79PojWamkt0aSIm"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 229862,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/1tEAqzXNcrYD3fQUWtXcSS"
+    },
+    {
+      "added_at": "2026-07-24 04:02:18",
+      "album": {
         "name": "AF:MN",
         "url": "https://open.spotify.com/album/5LhwJj7FxedylLoYocAoY9"
       },
@@ -167,6 +287,86 @@
       "duration_ms": 189090,
       "name": "Slinging Dope",
       "url": "https://open.spotify.com/track/05AjPD1RN8llBnQCEOlD92"
+    },
+    {
+      "added_at": "2026-07-31 04:37:32",
+      "album": {
+        "name": "Satisfy / Submission",
+        "url": "https://open.spotify.com/album/3K55tFj2ZSTTePzdAmLiRr"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "duration_ms": 169015,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/5nE7FEnDOPQwgCssKIIyMm"
+    },
+    {
+      "added_at": "2026-07-24 04:02:18",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1oZpfzAjlXKMEwjpkPB9Xw"
+      },
+      "artists": [
+        {
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
+        },
+        {
+          "name": "Mishell",
+          "url": "https://open.spotify.com/artist/3kCsXVpVs1ZhLnIVkNzdHJ"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/3hRaHBTh550CIdgOa3YAeP"
+    },
+    {
+      "added_at": "2026-08-14 04:01:17",
+      "album": {
+        "name": "Bottles",
+        "url": "https://open.spotify.com/album/3Qoou2U3OToa0k58xQqZUF"
+      },
+      "artists": [
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        },
+        {
+          "name": "Balanka",
+          "url": "https://open.spotify.com/artist/4F47V8rO8pOERTLQNXCo3v"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Bottles",
+      "url": "https://open.spotify.com/track/5iX0VDC8l5Vl0Ae4XN6Tiz"
+    },
+    {
+      "added_at": "2026-07-31 04:37:32",
+      "album": {
+        "name": "Think Too Much EP",
+        "url": "https://open.spotify.com/album/1IlDb8yklrYyFlwO8t83wE"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Nariman",
+          "url": "https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 186825,
+      "name": "Think Too Much",
+      "url": "https://open.spotify.com/track/21gMbdNtW8Za7QOdTmWa5G"
     },
     {
       "added_at": "2026-07-17 04:00:51",
@@ -193,172 +393,20 @@
       "url": "https://open.spotify.com/track/4zD8KzcZ3JhPp2vYgxqqHP"
     },
     {
-      "added_at": "2026-08-07 04:01:14",
+      "added_at": "2026-08-14 04:01:17",
       "album": {
-        "name": "Losing My Mind / Low",
-        "url": "https://open.spotify.com/album/72zY9sJ7y7NgTapTuXPJAI"
+        "name": "Keep Control",
+        "url": "https://open.spotify.com/album/5TQ88IYim8ADpDkDWnZWUA"
       },
       "artists": [
         {
-          "name": "Avilo",
-          "url": "https://open.spotify.com/artist/0vBN46VECxgdkVfeRDJc6E"
-        },
-        {
-          "name": "AK RENNY",
-          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
         }
       ],
-      "duration_ms": 149423,
-      "name": "Low - Radio Edit",
-      "url": "https://open.spotify.com/track/6U2YAv4N5xe9riGezJmmqM"
-    },
-    {
-      "added_at": "2026-07-31 04:37:32",
-      "album": {
-        "name": "MEDIA DOME",
-        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
-      },
-      "artists": [
-        {
-          "name": "D\u00d6NTELLA",
-          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
-        }
-      ],
-      "duration_ms": 218436,
-      "name": "MEDIA DOME",
-      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
-    },
-    {
-      "added_at": "2026-08-07 18:42:36",
-      "album": {
-        "name": "I Don't Think I Can Stop",
-        "url": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        }
-      ],
-      "duration_ms": 223124,
-      "name": "Uh Oh! (feat. Benni Ola)",
-      "url": "https://open.spotify.com/track/1EPJvABmhKAXlMn9FpPuGs"
-    },
-    {
-      "added_at": "2026-07-24 04:02:18",
-      "album": {
-        "name": "Take You There",
-        "url": "https://open.spotify.com/album/4EdMwpLJIKhipUrX5tdaGk"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "HYPERBEAM",
-          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
-    },
-    {
-      "added_at": "2026-08-07 04:01:14",
-      "album": {
-        "name": "Follower",
-        "url": "https://open.spotify.com/album/5pqKQdkbhAzNH1VJvzO5t1"
-      },
-      "artists": [
-        {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
-        },
-        {
-          "name": "Buogo",
-          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "Follower",
-      "url": "https://open.spotify.com/track/6a0ZPLfCfFMf62JVrlnBW2"
-    },
-    {
-      "added_at": "2026-07-31 04:37:32",
-      "album": {
-        "name": "Satisfy / Submission",
-        "url": "https://open.spotify.com/album/3K55tFj2ZSTTePzdAmLiRr"
-      },
-      "artists": [
-        {
-          "name": "Braydon Terzo",
-          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
-        }
-      ],
-      "duration_ms": 169015,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/5nE7FEnDOPQwgCssKIIyMm"
-    },
-    {
-      "added_at": "2026-08-07 18:42:36",
-      "album": {
-        "name": "Floor To The Ceiling",
-        "url": "https://open.spotify.com/album/0wRo8HhukD0kMQaRlnouPn"
-      },
-      "artists": [
-        {
-          "name": "BOg",
-          "url": "https://open.spotify.com/artist/7FldCwBXVtA0TFbqxvaKZY"
-        }
-      ],
-      "duration_ms": 163669,
-      "name": "Floor To The Ceiling",
-      "url": "https://open.spotify.com/track/1uhvWZlxF2ikFSUfG0YnyX"
-    },
-    {
-      "added_at": "2026-08-07 04:01:14",
-      "album": {
-        "name": "Big Drip",
-        "url": "https://open.spotify.com/album/375OdafU1Fy1LAoidfJUyX"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Big Drip",
-      "url": "https://open.spotify.com/track/4U6jMew9hqeATIwK0Qmktm"
-    },
-    {
-      "added_at": "2026-07-24 04:02:18",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1oZpfzAjlXKMEwjpkPB9Xw"
-      },
-      "artists": [
-        {
-          "name": "Vinter",
-          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
-        },
-        {
-          "name": "Mishell",
-          "url": "https://open.spotify.com/artist/3kCsXVpVs1ZhLnIVkNzdHJ"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/3hRaHBTh550CIdgOa3YAeP"
+      "duration_ms": 186666,
+      "name": "Keep Control",
+      "url": "https://open.spotify.com/track/2ldf5EYPaRXPqPlX50Sgbx"
     },
     {
       "added_at": "2026-07-10 04:01:31",
@@ -403,6 +451,170 @@
     {
       "added_at": "2026-08-07 04:01:14",
       "album": {
+        "name": "Losing My Mind / Low",
+        "url": "https://open.spotify.com/album/72zY9sJ7y7NgTapTuXPJAI"
+      },
+      "artists": [
+        {
+          "name": "Avilo",
+          "url": "https://open.spotify.com/artist/0vBN46VECxgdkVfeRDJc6E"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "duration_ms": 149423,
+      "name": "Low - Radio Edit",
+      "url": "https://open.spotify.com/track/6U2YAv4N5xe9riGezJmmqM"
+    },
+    {
+      "added_at": "2026-08-14 04:01:17",
+      "album": {
+        "name": "LADIES & GENTLEMEN",
+        "url": "https://open.spotify.com/album/12DLCjBefRZzS2qJz8xWhV"
+      },
+      "artists": [
+        {
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+        },
+        {
+          "name": "WIFE MATERIAL",
+          "url": "https://open.spotify.com/artist/0ww3OQM6EtL1ZeqWpYMVZa"
+        }
+      ],
+      "duration_ms": 326769,
+      "name": "LADIES & GENTLEMEN",
+      "url": "https://open.spotify.com/track/248s42qe2Njb9yU99LSU88"
+    },
+    {
+      "added_at": "2026-08-07 18:42:36",
+      "album": {
+        "name": "I Don't Think I Can Stop",
+        "url": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "Uh Oh! (feat. Benni Ola)",
+      "url": "https://open.spotify.com/track/1EPJvABmhKAXlMn9FpPuGs"
+    },
+    {
+      "added_at": "2026-08-14 04:01:17",
+      "album": {
+        "name": "Sing It Back",
+        "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
+      },
+      "artists": [
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "duration_ms": 220312,
+      "name": "Sing It Back",
+      "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
+    },
+    {
+      "added_at": "2026-07-24 04:02:18",
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/7vB2rUKQk56dRHIQ8i5CT0"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/4UJPTK0oVnnLP7psav3x5R"
+    },
+    {
+      "added_at": "2026-08-07 04:01:14",
+      "album": {
+        "name": "Follower",
+        "url": "https://open.spotify.com/album/5pqKQdkbhAzNH1VJvzO5t1"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        },
+        {
+          "name": "Buogo",
+          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "Follower",
+      "url": "https://open.spotify.com/track/6a0ZPLfCfFMf62JVrlnBW2"
+    },
+    {
+      "added_at": "2026-08-07 18:42:36",
+      "album": {
+        "name": "Floor To The Ceiling",
+        "url": "https://open.spotify.com/album/0wRo8HhukD0kMQaRlnouPn"
+      },
+      "artists": [
+        {
+          "name": "BOg",
+          "url": "https://open.spotify.com/artist/7FldCwBXVtA0TFbqxvaKZY"
+        }
+      ],
+      "duration_ms": 163669,
+      "name": "Floor To The Ceiling",
+      "url": "https://open.spotify.com/track/1uhvWZlxF2ikFSUfG0YnyX"
+    },
+    {
+      "added_at": "2026-08-14 04:01:17",
+      "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/6tc2jE8PsoEc9cOCNBLJp6"
+      },
+      "artists": [
+        {
+          "name": "Clay Goldin",
+          "url": "https://open.spotify.com/artist/2ock2rsY4ukBk6nhWZZEuV"
+        },
+        {
+          "name": "DEDRO",
+          "url": "https://open.spotify.com/artist/22z7myWEqruGZpYuQKg4cQ"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Feel Me",
+      "url": "https://open.spotify.com/track/7csQ8W6r0muCVZCV20RYBk"
+    },
+    {
+      "added_at": "2026-08-07 04:01:14",
+      "album": {
+        "name": "Big Drip",
+        "url": "https://open.spotify.com/album/375OdafU1Fy1LAoidfJUyX"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Big Drip",
+      "url": "https://open.spotify.com/track/4U6jMew9hqeATIwK0Qmktm"
+    },
+    {
+      "added_at": "2026-08-07 04:01:14",
+      "album": {
         "name": "Own Me",
         "url": "https://open.spotify.com/album/26SkH7Qd0whyMD4rjaSptB"
       },
@@ -441,20 +653,24 @@
       "url": "https://open.spotify.com/track/5dqxpUOTOEE2hzi5dDgjyW"
     },
     {
-      "added_at": "2026-07-24 04:02:18",
+      "added_at": "2026-08-14 04:01:17",
       "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/7vB2rUKQk56dRHIQ8i5CT0"
+        "name": "Want It More",
+        "url": "https://open.spotify.com/album/1VzKiBrfUujnXynza2EcyR"
       },
       "artists": [
         {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+          "name": "Pitros",
+          "url": "https://open.spotify.com/artist/1qoyJsbPjo0dpWnfSlRGLv"
+        },
+        {
+          "name": "belami",
+          "url": "https://open.spotify.com/artist/6pODLWpvI4DHxrlRdcd0BM"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/4UJPTK0oVnnLP7psav3x5R"
+      "duration_ms": 170560,
+      "name": "Want It More",
+      "url": "https://open.spotify.com/track/4JarwJEUAiB4PyhVZoqFDl"
     },
     {
       "added_at": "2026-07-24 04:02:18",
@@ -845,38 +1061,6 @@
       "url": "https://open.spotify.com/track/1XJ8aKhIHPwJdsV3PB1wMh"
     },
     {
-      "added_at": "2026-07-10 17:33:13",
-      "album": {
-        "name": "Shaking That Ass",
-        "url": "https://open.spotify.com/album/5NvKTmZjQ7AKjAIMSPQiOY"
-      },
-      "artists": [
-        {
-          "name": "DOX",
-          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Shaking That Ass",
-      "url": "https://open.spotify.com/track/3C4ybKAZlkciqP9vc6Yt6h"
-    },
-    {
-      "added_at": "2026-07-31 04:37:32",
-      "album": {
-        "name": "Where They At",
-        "url": "https://open.spotify.com/album/115BhAk4qLmCYpeghPKgS3"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Where They At",
-      "url": "https://open.spotify.com/track/1w84qtYJoKTlqLx5re2EuA"
-    },
-    {
       "added_at": "2026-07-24 04:02:18",
       "album": {
         "name": "Bipolar EP",
@@ -1037,26 +1221,6 @@
       "url": "https://open.spotify.com/track/2lXxVjSaIXGM80pvc1gzEr"
     },
     {
-      "added_at": "2026-07-17 04:00:51",
-      "album": {
-        "name": "ALL OVER AGAIN",
-        "url": "https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S"
-      },
-      "artists": [
-        {
-          "name": "Roddy Lima",
-          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
-        },
-        {
-          "name": "LUMI",
-          "url": "https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5"
-        }
-      ],
-      "duration_ms": 181035,
-      "name": "ALL OVER AGAIN",
-      "url": "https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC"
-    },
-    {
       "added_at": "2026-07-03 04:01:51",
       "album": {
         "name": "Lost At The End",
@@ -1111,30 +1275,6 @@
       "duration_ms": 177751,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/3NSbxWRUg8bQRhI9mwRT3q"
-    },
-    {
-      "added_at": "2026-07-10 04:01:31",
-      "album": {
-        "name": "Party Time (feat. Aatig)",
-        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 199072,
-      "name": "Party Time (feat. Aatig)",
-      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
     },
     {
       "added_at": "2026-07-10 04:01:31",
@@ -1305,22 +1445,6 @@
       "url": "https://open.spotify.com/track/3S2XST3xyKknQZPGF7rsIv"
     },
     {
-      "added_at": "2026-07-10 04:01:31",
-      "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/3aUMWIeaMBi42uYkexJVO0"
-      },
-      "artists": [
-        {
-          "name": "AJK",
-          "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
-        }
-      ],
-      "duration_ms": 182812,
-      "name": "High Voltage",
-      "url": "https://open.spotify.com/track/10U3j6UP6joB9xAX4JRY1C"
-    },
-    {
       "added_at": "2026-07-01 03:18:19",
       "album": {
         "name": "F To This Beat",
@@ -1455,26 +1579,6 @@
       "duration_ms": 206511,
       "name": "Talk Different",
       "url": "https://open.spotify.com/track/5T0TTNKmX17mlNkSc6F6T4"
-    },
-    {
-      "added_at": "2026-06-05 04:01:31",
-      "album": {
-        "name": "Watch Where You Walk (Sidewalk Talk)",
-        "url": "https://open.spotify.com/album/4mIsFxcSTgfwWZtsygXJas"
-      },
-      "artists": [
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "Sven Lochenhoer",
-          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Watch Where You Walk (Sidewalk Talk)",
-      "url": "https://open.spotify.com/track/1ycJm1sa3w203quK3tHx25"
     },
     {
       "added_at": "2026-06-12 04:01:19",
@@ -1809,22 +1913,6 @@
       "url": "https://open.spotify.com/track/4jrYOfwuFajEk7RUgz3sqW"
     },
     {
-      "added_at": "2026-06-05 04:01:31",
-      "album": {
-        "name": "Anatomy",
-        "url": "https://open.spotify.com/album/6KNfw3zhmorWlxrxSYxW3E"
-      },
-      "artists": [
-        {
-          "name": "GUI2IN",
-          "url": "https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/0rCftZOyrCvVuf5o33xnJH"
-    },
-    {
       "added_at": "2026-03-13 04:00:46",
       "album": {
         "name": "In This Bih'",
@@ -1899,22 +1987,6 @@
       "duration_ms": 187309,
       "name": "Pipe Down",
       "url": "https://open.spotify.com/track/2t3nlL9xffoBaPBOzl4jYr"
-    },
-    {
-      "added_at": "2026-05-22 07:00:11",
-      "album": {
-        "name": "Move Fast",
-        "url": "https://open.spotify.com/album/1gj4TQsskHJ1J4AJGijJR0"
-      },
-      "artists": [
-        {
-          "name": "Mad.Again",
-          "url": "https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V"
-        }
-      ],
-      "duration_ms": 169964,
-      "name": "Move Fast",
-      "url": "https://open.spotify.com/track/1tqWpGRSQBFoG3z7e9mzAz"
     },
     {
       "added_at": "2026-05-15 04:02:19",
@@ -2081,22 +2153,6 @@
       "url": "https://open.spotify.com/track/6507rh4LJxpJUGtsOZoYGR"
     },
     {
-      "added_at": "2026-05-01 04:01:01",
-      "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/2o4HpfJgXEMKg6lwE6hY2h"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/48vSb2Wjw3wD3OFBiqikJb"
-    },
-    {
       "added_at": "2026-04-10 04:02:10",
       "album": {
         "name": "Sans Stress",
@@ -2149,22 +2205,6 @@
       "url": "https://open.spotify.com/track/7AZpp4D0ml8j2BMMFXqMut"
     },
     {
-      "added_at": "2026-04-10 17:59:10",
-      "album": {
-        "name": "Dream Steppin'",
-        "url": "https://open.spotify.com/album/6AESJSlQwr64s9nt7DGeYs"
-      },
-      "artists": [
-        {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
-        }
-      ],
-      "duration_ms": 245905,
-      "name": "Dream Steppin'",
-      "url": "https://open.spotify.com/track/0YJyd5h7XNlz7iMa4oAB9z"
-    },
-    {
       "added_at": "2026-02-06 05:00:30",
       "album": {
         "name": "neck",
@@ -2195,26 +2235,6 @@
       "duration_ms": 162461,
       "name": "Rake It Up",
       "url": "https://open.spotify.com/track/6YNRSnDi92sAhYO8XzonVT"
-    },
-    {
-      "added_at": "2026-03-27 17:44:58",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/23nHUma2gUUSQyfY4NRUhd"
-      },
-      "artists": [
-        {
-          "name": "HILLS",
-          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
-        },
-        {
-          "name": "Shilla",
-          "url": "https://open.spotify.com/artist/46RRZQejikNAQDn87KvrmE"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/4ME9AYOzN7H0owfNDPPeR4"
     },
     {
       "added_at": "2026-04-10 04:02:10",

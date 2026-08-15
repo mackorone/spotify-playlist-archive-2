@@ -400,7 +400,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 222627,
       "name": "Alma M\u00eda",
       "url": "https://open.spotify.com/track/0H4ccUlBFSvo4aTl2EE1OR"
@@ -3564,7 +3564,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 192923,
       "name": "Delirious",
       "url": "https://open.spotify.com/track/46875iJliwEgqWQvKT4cJX"
@@ -4466,7 +4466,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 223635,
       "name": "Estrella - Radio Edit",
       "url": "https://open.spotify.com/track/7BISBRc9zxxE829VHZ4twd"
@@ -5639,6 +5639,28 @@
     },
     {
       "album": {
+        "name": "La Criminal",
+        "url": "https://open.spotify.com/album/3G5njAVObNjpaQH0HCf5jX"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180465,
+      "name": "La Criminal",
+      "url": "https://open.spotify.com/track/63ssrGUv1fr6e55Bsr8m9e"
+    },
+    {
+      "album": {
         "name": "La Cumbia EP",
         "url": "https://open.spotify.com/album/26c1NAnQWJtGMzREcD5PsE"
       },
@@ -6296,7 +6318,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 163125,
       "name": "LALA",
       "url": "https://open.spotify.com/track/2JoiiucqJcptMpF8E2UkzZ"
@@ -7711,6 +7733,36 @@
     },
     {
       "album": {
+        "name": "Navegar",
+        "url": "https://open.spotify.com/album/30aasYo1G8Se5TEdJjJWMd"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "UNIB\u0100L",
+          "url": "https://open.spotify.com/artist/2j0DA44CKMjtJ2KACS74uA"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "MORENITA",
+          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "Navegar",
+      "url": "https://open.spotify.com/track/6CVlZ6qKeWZPvkTXe9LUmg"
+    },
+    {
+      "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/0FSpQ2Hp3wEzsnDWboLrI1"
       },
@@ -7752,6 +7804,28 @@
       "duration_ms": 188819,
       "name": "Nicotina",
       "url": "https://open.spotify.com/track/6oWPpW3OWrypVoCHB2Cpw0"
+    },
+    {
+      "album": {
+        "name": "No Me Digas",
+        "url": "https://open.spotify.com/album/5cpCEqpq73TVdwPOyLVMLu"
+      },
+      "artists": [
+        {
+          "name": "Kill Them With Colour",
+          "url": "https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU"
+        },
+        {
+          "name": "Daniel Matheus",
+          "url": "https://open.spotify.com/artist/1ixkcp1yCF8kWwat8HGz4I"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98240,
+      "name": "No Me Digas",
+      "url": "https://open.spotify.com/track/4LrJtfQKfWFkpmtwjbUChP"
     },
     {
       "album": {
@@ -8648,6 +8722,32 @@
       "duration_ms": 247619,
       "name": "Piano de la Selva",
       "url": "https://open.spotify.com/track/0FJnDA2xiJ5jqYZgA6bhdE"
+    },
+    {
+      "album": {
+        "name": "Ping Pong",
+        "url": "https://open.spotify.com/album/0m9LrgbBQUdX7JSlsyMyjJ"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "ACID HARRY",
+          "url": "https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW"
+        },
+        {
+          "name": "mafiii",
+          "url": "https://open.spotify.com/artist/7uw3CaiYVZaxdE7O33kneg"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178182,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/3U9X8CoHutLTOM4ppkCSdH"
     },
     {
       "album": {

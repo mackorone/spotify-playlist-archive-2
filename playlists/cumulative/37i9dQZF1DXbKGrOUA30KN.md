@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Erda, Sampagne
 
-683 songs - 1 day 6 hr 37 min
+684 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Am Ende dieses Lieds](https://open.spotify.com/track/0EhfipW0dxhg0bESywNyAp) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Am Ende dieses Lieds](https://open.spotify.com/album/0uI04hH5PgQPyj5xWXOlFq) | 2:48 | 2026-03-19 | 2026-04-17 |
 | [An dir kaputt](https://open.spotify.com/track/1r6hywW4RWViBdF9PWXPj7) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [An dir kaputt](https://open.spotify.com/album/34bqmL9XrC7g3qMHTXTdKW) | 2:25 | 2026-01-29 | 2026-02-27 |
 | [An mich](https://open.spotify.com/track/376voLuWRnKlzohb1bfz7L) | [BELA](https://open.spotify.com/artist/70Wk8uVX5q6U2xRwOXtWfU) | [An mich](https://open.spotify.com/album/4HUzF6D9gOtyzdDQYFvgTG) | 2:25 | 2026-03-19 | 2026-05-01 |
+| [anders](https://open.spotify.com/track/0xbfPV9lRfC5n1X7ZAZTZK) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR), [Hägi](https://open.spotify.com/artist/4AF7IT6IiC3YkqDqDlR05z) | [LAUT SEIN \(IMMER\)](https://open.spotify.com/album/09RJu1PXBEIhLj7Rcr3fjk) | 2:24 | 2026-08-13 |  |
 | [anders angefangen](https://open.spotify.com/track/3ytn91gGCPIH1jVpPkTemN) | [LUANA](https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob) | [anders angefangen](https://open.spotify.com/album/42pgGiWHKyRl3LdTup7Ye0) | 2:44 | 2026-07-09 |  |
 | [Angekommen](https://open.spotify.com/track/33Z8lvC0M3g0EyAqlrAGcz) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [Angekommen](https://open.spotify.com/album/5iBfzHMC4tsMpJ92HoCRQg) | 2:59 | 2026-01-08 | 2026-01-23 |
 | [Ankommen](https://open.spotify.com/track/4mmOZbQqYxWdaKGuZa05M3) | [TOCHTER](https://open.spotify.com/artist/3ygi0RTsXTi7zPVp5Be9fR) | [Ankommen](https://open.spotify.com/album/07UqjmQ6xt3prwyC6FXth8) | 2:15 | 2025-11-06 | 2026-01-23 |
@@ -427,7 +428,7 @@
 | [Mutausbruch](https://open.spotify.com/track/5aLQFGe0ohBoGBaRaHv8mD) | [TOCHTER](https://open.spotify.com/artist/3ygi0RTsXTi7zPVp5Be9fR) | [Mutausbruch](https://open.spotify.com/album/31eLkAOs4GAdSlCios1qKb) | 2:40 | 2026-07-09 | 2026-07-31 |
 | [mädchen von nebenan](https://open.spotify.com/track/5pUAUBe4uvCCbStDSAo69l) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [mädchen von nebenan](https://open.spotify.com/album/3yx1JBsuKOCLA8bTqpLk7n) | 1:57 | 2026-03-26 | 2026-04-10 |
 | [Männlichkeit](https://open.spotify.com/track/0kv8gkS5xsleRmeq8kGDxX) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Männlichkeit](https://open.spotify.com/album/1E4AUVojoMBgXbiZyr5CCq) | 3:49 | 2026-04-16 | 2026-05-29 |
-| [Märchen](https://open.spotify.com/track/7Eho5ONf9Hp4LKDxFDbQl8) | [Alice Stark](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Märchen](https://open.spotify.com/album/3BtLqiwsakxi6VCWYfttzN) | 2:36 | 2026-07-09 |  |
+| [Märchen](https://open.spotify.com/track/7Eho5ONf9Hp4LKDxFDbQl8) | [Alice Stark](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Märchen](https://open.spotify.com/album/3BtLqiwsakxi6VCWYfttzN) | 2:36 | 2026-07-09 | 2026-08-15 |
 | [Märchen aus Hollywood](https://open.spotify.com/track/2V7MwHRxzmImYP3HeGOY1a) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K), [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Märchen aus Hollywood](https://open.spotify.com/album/4uioPKee37JpLak8Dyhy6Z) | 4:39 | 2026-02-12 | 2026-02-27 |
 | [Müde](https://open.spotify.com/track/6XfDVm6QczCYrLBuGfBpIp) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Müde](https://open.spotify.com/album/05vrUtHhnNEqy2WNGPY8T9) | 2:33 | 2026-07-02 |  |
 | [müde träume](https://open.spotify.com/track/4l87fKjREeMI9xGrPo8YjI) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [müde träume](https://open.spotify.com/album/5J58mtPQwfHEVnwCnBzhFs) | 2:32 | 2026-05-28 | 2026-07-24 |
@@ -570,11 +571,11 @@
 | [tanz aus der reihe.](https://open.spotify.com/track/01p61G93AOoD9Msb9pdBfP) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tanz aus der reihe.](https://open.spotify.com/album/2dwI089I2sUSZt8T1qUuK2) | 2:03 | 2026-05-07 | 2026-07-03 |
 | [tanz vor dir](https://open.spotify.com/track/5TYXJjM3zoFaATkpGTTAgI) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [tanz vor dir](https://open.spotify.com/album/5S79DC0vOk4drHwWjRUnbM) | 2:25 | 2025-10-24 | 2025-11-07 |
 | [tempo](https://open.spotify.com/track/7w2QhLdDSUK4T140YEIGEw) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [tempo](https://open.spotify.com/album/4qBF8JWfH4beWAun8VKdcl) | 2:24 | 2026-01-15 | 2026-02-27 |
+| [Theorie](https://open.spotify.com/track/72DA0ZpDcEzb339Hzd5HoO) | [Alice Stark](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Theorie](https://open.spotify.com/album/61EZBEkwvbI4Af3zZUc2Yz) | 2:37 | 2026-08-14 |  |
 | [Ti amo, Italiano!](https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Ti amo, Italiano!](https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn) | 3:21 | 2026-01-08 | 2026-01-30 |
 | [Tick Tack](https://open.spotify.com/track/5bcp0jqfueM7MrOzJr7wRh) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [Tick Tack](https://open.spotify.com/album/6mZrCJQILMpTjWJnLE1JsG) | 2:22 | 2026-07-30 | 2026-08-14 |
 | [tief](https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [tief](https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg) | 3:01 | 2026-05-07 | 2026-07-31 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 5](https://open.spotify.com/track/0xbfPV9lRfC5n1X7ZAZTZK) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR) | [LAUT SEIN \(IMMER\)](https://open.spotify.com/album/09RJu1PXBEIhLj7Rcr3fjk) | 0:00 | 2026-08-13 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 | 2026-05-15 |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |

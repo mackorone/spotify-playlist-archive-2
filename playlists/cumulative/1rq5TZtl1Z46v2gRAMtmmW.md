@@ -4,7 +4,7 @@
 
 > 
 
-563 songs - 1 day 12 hr 16 min
+564 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 | 2022-09-06 | 2023-06-08 |
 | [Atlantis \- Model Man Remix](https://open.spotify.com/track/3Sgh2x5lun9pRrQAXa4mZT) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN), [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [The Learning of Urgency Remixes](https://open.spotify.com/album/4L8TNvxjxdOdwb79oBWupO) | 4:31 | 2024-08-30 | 2024-11-30 |
 | [Ayewah!](https://open.spotify.com/track/699jhhlEw8rI4t35r7kTTt) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9), [Tony Quattro](https://open.spotify.com/artist/2UsUlCr8yNT7vpjw076zyt) | [Ayewah!](https://open.spotify.com/album/7sWITAYpmzV4zQntcDAwnG) | 5:04 | 2026-06-05 |  |
+| [Azadi](https://open.spotify.com/track/1ilS3EJjhVRNOJ0vPAlrJ0) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9) | [Canal View](https://open.spotify.com/album/15DN2DZn9TqWYHfP18qIT4) | 3:04 | 2026-08-14 |  |
 | [AZD SURF](https://open.spotify.com/track/15RXHgm7esKYvPcHGTelUI) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [AZD SURF](https://open.spotify.com/album/4vorYlWcWYeKPGIf1OIFUR) | 4:11 | 2022-08-03 | 2023-03-02 |
 | [Backwards](https://open.spotify.com/track/3AalwwmizoPXoLJOoAqnJe) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [JWords](https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV) | [Backwards](https://open.spotify.com/album/2jPweadDjOnzChjjcuselh) | 2:08 | 2023-09-05 | 2023-09-27 |
 | [Backwards Remix](https://open.spotify.com/track/31WzhknzUzUGWyHgDI3lFb) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx), [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Fatboi Sharif](https://open.spotify.com/artist/5HJ4w3pMArwtZi7xywAEWj), [Desde](https://open.spotify.com/artist/7y51W2VzenSdG12s8AetIN) | [Backwards Remix](https://open.spotify.com/album/3fYMgfLeNJ1VDi9iKlJa0d) | 3:59 | 2024-12-12 | 2025-03-05 |

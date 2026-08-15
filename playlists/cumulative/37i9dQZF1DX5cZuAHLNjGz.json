@@ -2161,6 +2161,32 @@
     },
     {
       "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/15lQCBUQm0PeQdFnRDVDZn"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Kiran Bajwa",
+          "url": "https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206355,
+      "name": "Brabus",
+      "url": "https://open.spotify.com/track/0eSr8KrAHwDUv1aus78oif"
+    },
+    {
+      "album": {
         "name": "Patandar",
         "url": "https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh"
       },
@@ -2984,6 +3010,28 @@
       "duration_ms": 168125,
       "name": "Courtside",
       "url": "https://open.spotify.com/track/5wqMM6wOwXmX4rc1C3lUkd"
+    },
+    {
+      "album": {
+        "name": "Crazy4U",
+        "url": "https://open.spotify.com/album/7xkNinsFBJgny5p4XZZfBS"
+      },
+      "artists": [
+        {
+          "name": "Kunwarr",
+          "url": "https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV"
+        },
+        {
+          "name": "Dishant",
+          "url": "https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120136,
+      "name": "Crazy4U",
+      "url": "https://open.spotify.com/track/2bvTF18ny11LZOz0uRuOEq"
     },
     {
       "album": {
@@ -5230,7 +5278,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Hood Ambience",
       "url": "https://open.spotify.com/track/2EyifgxOMcfb0MqFsdlekD"
@@ -7430,7 +7478,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 133043,
       "name": "MEDAL",
       "url": "https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC"
@@ -11704,7 +11752,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 238043,
       "name": "Teri Ni Kararan",
       "url": "https://open.spotify.com/track/58Y6MtOFn040fJj367NYsr"
@@ -13132,7 +13180,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 198461,
       "name": "Well Known",
       "url": "https://open.spotify.com/track/5CVIiMNqlEdQJE4yQqWvQ5"

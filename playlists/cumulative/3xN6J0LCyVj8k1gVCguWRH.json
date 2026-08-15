@@ -3510,7 +3510,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 153488,
       "name": "Agua en el desierto",
       "url": "https://open.spotify.com/track/4osYKjHKC891vesbZppKRU"
@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 479446,
       "name": "All For You",
       "url": "https://open.spotify.com/track/06SZeQ0w0PvXbEjLtK5rlu"
@@ -23622,7 +23622,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 361640,
       "name": "Cuts Like A Knife (ST Cut)",
       "url": "https://open.spotify.com/track/7aU1CEU6GfOL0OOJeFyDpm"
@@ -32502,7 +32502,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 222840,
       "name": "Every Little Thing You Are",
       "url": "https://open.spotify.com/track/1WzIdeFyCxlizL9HwGBphK"
@@ -35425,6 +35425,24 @@
     },
     {
       "album": {
+        "name": "Fell in Love",
+        "url": "https://open.spotify.com/album/2wj6QxMYRA7qiScY0OITPS"
+      },
+      "artists": [
+        {
+          "name": "JayT",
+          "url": "https://open.spotify.com/artist/1y5omgbiYq0sA9XnClydPv"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217375,
+      "name": "Fell in Love",
+      "url": "https://open.spotify.com/track/0259MX8nM2VuibE6YLRnab"
+    },
+    {
+      "album": {
         "name": "Felt like an hour",
         "url": "https://open.spotify.com/album/6Hx1bkd0qufTzNF29wtm6o"
       },
@@ -35664,7 +35682,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 146400,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/4hAXc8P6Vr8hZmQzr4TbCk"
@@ -36080,7 +36098,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 185566,
       "name": "Firefly - Remix",
       "url": "https://open.spotify.com/track/1AL1vS0p0Q1LJZrU1PGs2Z"
@@ -40772,7 +40790,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 199119,
       "name": "Girl Of My Dream",
       "url": "https://open.spotify.com/track/5hC2GKbSv6nYv8HfDTcChf"
@@ -45612,7 +45630,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 157000,
       "name": "Here Before",
       "url": "https://open.spotify.com/track/57hGAPOECLZemqdkR9EX3Q"
@@ -51066,7 +51084,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 159806,
       "name": "I'm Still - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT"
@@ -52286,7 +52304,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 148577,
       "name": "Imposible",
       "url": "https://open.spotify.com/track/2DcC8TGLxD9IAU0zfoEgcF"
@@ -57378,7 +57396,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 146723,
       "name": "La Isla Otra Vez",
       "url": "https://open.spotify.com/track/3TmFaTe5kVUhA3QwcSn4Lt"
@@ -61512,7 +61530,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 170781,
       "name": "Living in a Memory",
       "url": "https://open.spotify.com/track/6pniimRZarwMNg9yqMzG8N"
@@ -62768,7 +62786,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 197142,
       "name": "Lost in Time",
       "url": "https://open.spotify.com/track/2wEMXLMgqHW3QMXUfWTmow"
@@ -63872,7 +63890,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 216009,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/30uFI1KICQnH4N7wv0UQIh"
@@ -71684,7 +71702,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 211574,
       "name": "Naive Cold Tears",
       "url": "https://open.spotify.com/track/6VsuxIJfwP228whi1HbcS0"
@@ -74374,6 +74392,24 @@
       "duration_ms": 190985,
       "name": "Not A Problem",
       "url": "https://open.spotify.com/track/4PulwkFGTFU7NA7CBQ4MbP"
+    },
+    {
+      "album": {
+        "name": "Not A Worry",
+        "url": "https://open.spotify.com/album/4L9bI5gpDmQ2jG7fXXczv4"
+      },
+      "artists": [
+        {
+          "name": "Stella Mabry",
+          "url": "https://open.spotify.com/artist/2vHnGNtZtnkXmrTJ6RY0YH"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174509,
+      "name": "Not A Worry",
+      "url": "https://open.spotify.com/track/4bVw5NWMowQEF8mH2dgjc5"
     },
     {
       "album": {
@@ -79820,7 +79856,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 204473,
       "name": "passing glance",
       "url": "https://open.spotify.com/track/1w96aYJ1Y700WuZsMDJLEF"
@@ -80110,6 +80146,24 @@
       "duration_ms": 236091,
       "name": "Peace",
       "url": "https://open.spotify.com/track/7dlitAKn0uMwwHdCxO63DC"
+    },
+    {
+      "album": {
+        "name": "Nothing Fits For Long EP",
+        "url": "https://open.spotify.com/album/251kR8eUtYfk387d4UMQFy"
+      },
+      "artists": [
+        {
+          "name": "Selah Stone",
+          "url": "https://open.spotify.com/artist/4KvdzrzAv4feGFhFMulhuX"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197803,
+      "name": "Peace Looks Strange On Me",
+      "url": "https://open.spotify.com/track/1ABliwvrxFcTkB2Gs1hjl6"
     },
     {
       "album": {
@@ -81944,7 +81998,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 135000,
       "name": "poco a poco (martes)",
       "url": "https://open.spotify.com/track/0gwwUAP8ZtDGUC2KD6Cap1"
@@ -89210,7 +89264,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 421116,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/4LJ0VSPp4I1vgbLsraaN9L"
@@ -96327,6 +96381,24 @@
     },
     {
       "album": {
+        "name": "Speak Up",
+        "url": "https://open.spotify.com/album/5OhQPBvcs1WYI3PRQN2pfO"
+      },
+      "artists": [
+        {
+          "name": "FAKE SUEDE",
+          "url": "https://open.spotify.com/artist/3TPkxwAXlQDOcD91eFZWUW"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208047,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/4GiqxQ7s3O0pNDMobSnS5L"
+    },
+    {
+      "album": {
         "name": "Speak Your Mind (from the Netflix Series \"We The People\")",
         "url": "https://open.spotify.com/album/0Xkq8tR6m6ofrw7Tq6cPZ8"
       },
@@ -96446,7 +96518,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 286000,
       "name": "Spells Me Under",
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
@@ -98896,7 +98968,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 197034,
       "name": "Summer Before the Fall",
       "url": "https://open.spotify.com/track/359cOk5Pd91eWSr7JkVtdd"
@@ -103071,6 +103143,24 @@
     },
     {
       "album": {
+        "name": "Temperature",
+        "url": "https://open.spotify.com/album/0N79lQCuwpiQ6u7jfRq39X"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185112,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/1AhrxDRcd70EC3f39PHQPR"
+    },
+    {
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/7FSMuh6m8RmWbCdGlxO0Ir"
       },
@@ -103560,7 +103650,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 284199,
       "name": "That girl\u00b4s got it! - Radio Edit",
       "url": "https://open.spotify.com/track/14nnlGXh0XXnxAeEX712rE"
@@ -103578,7 +103668,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 201194,
       "name": "that guy",
       "url": "https://open.spotify.com/track/72nOAaBbRO0baTwJIMxZ2K"
@@ -116490,7 +116580,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 181722,
       "name": "When Life Calls",
       "url": "https://open.spotify.com/track/6Tud6dqGiFqvBWXRP9NbQi"

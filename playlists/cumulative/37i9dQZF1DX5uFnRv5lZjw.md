@@ -4,7 +4,7 @@
 
 > doom scrolling is out, off\-grid is in.
 
-127 songs - 5 hr 21 min
+130 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Descanso](https://open.spotify.com/track/09GOfbYAJRl2EtDAWCzaYh) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Descanso](https://open.spotify.com/album/3P2cjSVUew8ztsFyndU0mo) | 2:52 | 2025-06-10 | 2025-09-18 |
 | [Dianthus](https://open.spotify.com/track/1AFS4HPrOmxvVgKGVuylWI) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Dianthus](https://open.spotify.com/album/2NVyXMffU56Xmv5Dqs8Aix) | 2:33 | 2025-03-21 |  |
 | [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 | 2025-03-07 |  |
+| [Eira \- Viola Version](https://open.spotify.com/track/3O88gxc24hPN0TSsUKV0Oo) | [Noel Toms](https://open.spotify.com/artist/3k4ieeq8zZ9g68p2Uj7qwD), [Pavel Matckevich](https://open.spotify.com/artist/09szr8X85M2KR6TM1zXjZN) | [Eira \(Viola Version\)](https://open.spotify.com/album/6FHMmyWQcM2w6RfNTDKHbR) | 3:09 | 2026-08-14 |  |
 | [Ember](https://open.spotify.com/track/7yZcjQGSDcKdxAmxJ7rvqd) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Ember](https://open.spotify.com/album/4Veqj4ATJBFYcrGMig7O38) | 2:44 | 2025-05-20 |  |
 | [Ephemere](https://open.spotify.com/track/1Pssjy6ANBqZ4H26A9T3AY) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Ephemere](https://open.spotify.com/album/65qy730xZa0z8mPRR9DZk1) | 2:04 | 2025-08-18 |  |
 | [Everflow](https://open.spotify.com/track/5zUGn3dq7JncD3RyBe09bH) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Everflow](https://open.spotify.com/album/1hqwYk5MdiP5eVWUYhBzWt) | 2:37 | 2025-09-17 |  |
@@ -78,6 +79,7 @@
 | [Meadows](https://open.spotify.com/track/3lbUG1o2SurxnJkijry5dI) | [Adrian Solen](https://open.spotify.com/artist/0YXmGTBUBq6Pikq8MvNngn) | [Meadows](https://open.spotify.com/album/5ny5NcwkfOoChD522hi6j0) | 2:19 | 2025-07-18 | 2026-07-25 |
 | [Meet Me At Noon](https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Meet Me At Noon](https://open.spotify.com/album/1afrHdIQvjlrC8GfRrHg4B) | 2:36 | 2025-03-26 | 2026-05-30 |
 | [Moment In Time](https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Moment In Time](https://open.spotify.com/album/2THxRrRB28hjygxAf7y7JW) | 2:10 | 2025-03-07 | 2025-06-11 |
+| [Morning Light](https://open.spotify.com/track/2QLrMoBvIWvrRyVZNnUuGM) | [Flian](https://open.spotify.com/artist/2zRtU0pBKJEvw0xx0dIyvq) | [Morning Light](https://open.spotify.com/album/2KIkmpPEHrafDglpK2o27q) | 2:33 | 2026-08-14 |  |
 | [Mountains Remember](https://open.spotify.com/track/2WqinVHDaNDPJJhalg8xxN) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Mountains Remember](https://open.spotify.com/album/3JUpK9eGNktbn0fzygcNpI) | 2:32 | 2025-12-01 |  |
 | [Murmurations](https://open.spotify.com/track/2lm2W9WGR2w4kdpTjoKuq3) | [letter from lenor](https://open.spotify.com/artist/4nNvXevjgdNqjoJuB188Lr) | [Murmurations](https://open.spotify.com/album/5HOPgWkP9VSkJAeTyAiaLB) | 2:58 | 2025-08-05 |  |
 | [My Piano](https://open.spotify.com/track/5yCQdWgfRvc1qzOYf06ohr) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [My Piano](https://open.spotify.com/album/5ZiCyRtdNkx0OfQyEep4vk) | 3:12 | 2025-11-05 |  |
@@ -124,6 +126,7 @@
 | [The Only One](https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [The Only One](https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m) | 2:56 | 2025-03-07 |  |
 | [The Relaxing Gem](https://open.spotify.com/track/5REKUW4QDSYOIeL68o5bUH) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [The Relaxing Gem](https://open.spotify.com/album/6LM72L5zfSMbFq0LtG3HRs) | 1:58 | 2025-06-10 |  |
 | [The Traveler](https://open.spotify.com/track/5ZXNWcTvp4L7iMKxzp0Ozj) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [The Traveler](https://open.spotify.com/album/03jl7ZeJClPn2L947LE6L8) | 2:54 | 2025-06-10 | 2025-07-17 |
+| [Thoughts](https://open.spotify.com/track/0BjDdOkPVTF2zpDGby3GoL) | [Joshua Cipolla](https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1) | [Thoughts](https://open.spotify.com/album/18BVo7DZFVmBhneLqymwCm) | 2:31 | 2026-08-14 |  |
 | [Threads Of Yesterday](https://open.spotify.com/track/7pSLHykmfiNHGVO23UbAUQ) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Threads Of Yesterday](https://open.spotify.com/album/59y5n56VVbwCxeH9JUq18I) | 2:24 | 2025-07-16 |  |
 | [Time Flies](https://open.spotify.com/track/2mzjMrdrxlOpUatw2HT7Me) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Time Flies](https://open.spotify.com/album/6li4NlfLqtrRB8ietKYaTL) | 2:06 | 2025-05-13 | 2025-05-31 |
 | [Together](https://open.spotify.com/track/5QyK26ErYWA6zIzqsSPnYW) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Together](https://open.spotify.com/album/3M1oq7TsLVIYBgUaxgUOzf) | 2:19 | 2025-07-16 |  |

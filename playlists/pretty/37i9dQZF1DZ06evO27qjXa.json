@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Go!. The essential tracks, all in one playlist.",
-  "num_followers": 35449,
+  "num_followers": 35503,
   "original_name": "This Is Danny Go!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAABIrWB0FE2HD/8j13lEjlc6",
+  "snapshot_id": "an0JAAAAAACJO4MTYcahqpBOUBrEpajE",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brand New Day (Good Morning Dance)",
+        "url": "https://open.spotify.com/album/2ZqxJ0m0mJVw6KyA0hJYQb"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 176609,
+      "name": "Brand New Day - Good Morning Dance",
+      "url": "https://open.spotify.com/track/5W5nJROpttNmn8Ols7HoSr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Glow-in-the-Dark Shapes Dance",
         "url": "https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI"
       },
@@ -507,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Day (Good Morning Dance)",
-        "url": "https://open.spotify.com/album/2ZqxJ0m0mJVw6KyA0hJYQb"
+        "name": "The Monkey Dance",
+        "url": "https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9"
       },
       "artists": [
         {
@@ -516,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 176609,
-      "name": "Brand New Day - Good Morning Dance",
-      "url": "https://open.spotify.com/track/5W5nJROpttNmn8Ols7HoSr"
+      "duration_ms": 142168,
+      "name": "The Monkey Dance",
+      "url": "https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI"
     },
     {
       "added_at": null,
@@ -539,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monkey Dance",
-        "url": "https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9"
+        "name": "The Floor is Quicksand (Pyramid Adventure)",
+        "url": "https://open.spotify.com/album/4I8uTjGJhiMRPgyEMGGu1n"
       },
       "artists": [
         {
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 142168,
-      "name": "The Monkey Dance",
-      "url": "https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI"
+      "duration_ms": 237704,
+      "name": "The Floor is Quicksand - Pyramid Adventure",
+      "url": "https://open.spotify.com/track/21PquaRGrYlY7MI2b9YNdr"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 245411,
       "name": "Don't Stop Digging",
       "url": "https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Floor is Quicksand (Pyramid Adventure)",
-        "url": "https://open.spotify.com/album/4I8uTjGJhiMRPgyEMGGu1n"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 237704,
-      "name": "The Floor is Quicksand - Pyramid Adventure",
-      "url": "https://open.spotify.com/track/21PquaRGrYlY7MI2b9YNdr"
     },
     {
       "added_at": null,

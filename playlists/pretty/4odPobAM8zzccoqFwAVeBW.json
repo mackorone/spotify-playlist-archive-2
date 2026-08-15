@@ -6,8 +6,356 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABNf44t8c1xOpYi7V8WlB42YdLg1UoW",
+  "snapshot_id": "AABNnmBaAfndCsHXpLmZJn3uVDh+ax6Q",
   "tracks": [
+    {
+      "added_at": "2026-08-14 10:48:40",
+      "album": {
+        "name": "Survive If I Let Ye",
+        "url": "https://open.spotify.com/album/025DuqGZMnBhDYLEO4r4X4"
+      },
+      "artists": [
+        {
+          "name": "Aerial Salad",
+          "url": "https://open.spotify.com/artist/7eq7Gy7wawqSKSYMiN4m3e"
+        }
+      ],
+      "duration_ms": 129773,
+      "name": "Survive If I Let Ye",
+      "url": "https://open.spotify.com/track/1nVONyhLEWyJJeCwBOaFDw"
+    },
+    {
+      "added_at": "2026-08-14 10:48:01",
+      "album": {
+        "name": "BATTALIA",
+        "url": "https://open.spotify.com/album/4NNDqLaCByaspCb6pYq2Vb"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "duration_ms": 181728,
+      "name": "Destruction Never Pays",
+      "url": "https://open.spotify.com/track/63TGe2MZpHqq6hYob8PaIL"
+    },
+    {
+      "added_at": "2026-08-14 10:48:17",
+      "album": {
+        "name": "Indica Fields",
+        "url": "https://open.spotify.com/album/2UeKCnB34UVMSkdzdShc1x"
+      },
+      "artists": [
+        {
+          "name": "Dean McPhee",
+          "url": "https://open.spotify.com/artist/03e5fOAlIihf7ZwVG3OkQE"
+        }
+      ],
+      "duration_ms": 321812,
+      "name": "Indica Fields",
+      "url": "https://open.spotify.com/track/4GgIDDiriydZl4eKL0cHh7"
+    },
+    {
+      "added_at": "2026-08-14 10:49:13",
+      "album": {
+        "name": "EXPECTATIONS",
+        "url": "https://open.spotify.com/album/2jqKbELDxzUGyDYCaXKBmi"
+      },
+      "artists": [
+        {
+          "name": "Cinema Stereo",
+          "url": "https://open.spotify.com/artist/4eh4TLqrgxmHXVl0cflLU3"
+        }
+      ],
+      "duration_ms": 255642,
+      "name": "EXPECTATIONS",
+      "url": "https://open.spotify.com/track/4GSbFNWKAZ3DryDK3DvHLr"
+    },
+    {
+      "added_at": "2026-08-14 10:49:52",
+      "album": {
+        "name": "N\u00e5ja",
+        "url": "https://open.spotify.com/album/3wUqpW29AML299vHxkdTan"
+      },
+      "artists": [
+        {
+          "name": "Flowers Must Die",
+          "url": "https://open.spotify.com/artist/27P1oHX79UqesBdT17z28I"
+        }
+      ],
+      "duration_ms": 298973,
+      "name": "N\u00e5ja",
+      "url": "https://open.spotify.com/track/1JErzDFktyxyw0FklYRhiB"
+    },
+    {
+      "added_at": "2026-08-14 10:48:54",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/3kwmCvioPz0yHOYOKNBkTG"
+      },
+      "artists": [
+        {
+          "name": "DRIFT.",
+          "url": "https://open.spotify.com/artist/70cGeOjh1oxWfJZlMckLIz"
+        }
+      ],
+      "duration_ms": 233801,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/29BVDrHPNJskMrz9otiVUD"
+    },
+    {
+      "added_at": "2026-08-14 10:47:24",
+      "album": {
+        "name": "Lynboril Lisinopril (Live)",
+        "url": "https://open.spotify.com/album/4ew8NfAw6W8gxGTRWrXEsX"
+      },
+      "artists": [
+        {
+          "name": "Adam Bohman",
+          "url": "https://open.spotify.com/artist/7KI0EOVjcQn9emQzKNEJRx"
+        },
+        {
+          "name": "Sue Lynch",
+          "url": "https://open.spotify.com/artist/7CBfX4tILuj50xlsJUSAya"
+        },
+        {
+          "name": "Crystabel Efemena Riley",
+          "url": "https://open.spotify.com/artist/4CuJ98wjP636PpQ8H7tlxx"
+        }
+      ],
+      "duration_ms": 1731360,
+      "name": "Lynboril - Live",
+      "url": "https://open.spotify.com/track/7FVEzudnNvlWm9NTd9ooPb"
+    },
+    {
+      "added_at": "2026-08-14 10:50:16",
+      "album": {
+        "name": "The Days Are Longer When You're Around",
+        "url": "https://open.spotify.com/album/69LkaWu1dstGcHiDVb7FsU"
+      },
+      "artists": [
+        {
+          "name": "Dez Dare",
+          "url": "https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF"
+        }
+      ],
+      "duration_ms": 275481,
+      "name": "The Days Are Longer When You're Around",
+      "url": "https://open.spotify.com/track/5avVWPTxS5RG858lDnR0T5"
+    },
+    {
+      "added_at": "2026-08-14 10:50:33",
+      "album": {
+        "name": "Melody Boy",
+        "url": "https://open.spotify.com/album/3Vkoxbn1y0EWVEAj57eKaa"
+      },
+      "artists": [
+        {
+          "name": "Andy Crofts",
+          "url": "https://open.spotify.com/artist/0brr7xS2pcQZ5HFacNWw1N"
+        }
+      ],
+      "duration_ms": 182020,
+      "name": "Melody Boy",
+      "url": "https://open.spotify.com/track/2HE4xqU09VP1PDDZRBe8fn"
+    },
+    {
+      "added_at": "2026-08-14 10:50:53",
+      "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/6gpLb3AyeKkApduv3EBS4n"
+      },
+      "artists": [
+        {
+          "name": "Crumbling Ghost",
+          "url": "https://open.spotify.com/artist/1TCgPT3JAewdKKmU3ArCrl"
+        }
+      ],
+      "duration_ms": 151415,
+      "name": "Lovely Joan",
+      "url": "https://open.spotify.com/track/0TbbWkb3Yqk7EbGTYLysnm"
+    },
+    {
+      "added_at": "2026-08-14 10:51:07",
+      "album": {
+        "name": "Nullius",
+        "url": "https://open.spotify.com/album/25xmhwGS2nmhNFXAQMolDW"
+      },
+      "artists": [
+        {
+          "name": "Fupper",
+          "url": "https://open.spotify.com/artist/6zVKUj1dH2xdKH9TpQZtav"
+        }
+      ],
+      "duration_ms": 147814,
+      "name": "Fridge In The Woods",
+      "url": "https://open.spotify.com/track/5JWOK7IMUQsZP304aoNAv8"
+    },
+    {
+      "added_at": "2026-08-14 10:51:20",
+      "album": {
+        "name": "Where the Dregs Dwell",
+        "url": "https://open.spotify.com/album/2pRBf7PXlzcUFmJPGUY7Pq"
+      },
+      "artists": [
+        {
+          "name": "Crazy Clue",
+          "url": "https://open.spotify.com/artist/3E1x5YTXImUHE6DHbAyYLx"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Fighting",
+      "url": "https://open.spotify.com/track/2pbDLBr51tjWLBK22cwnsa"
+    },
+    {
+      "added_at": "2026-08-14 10:51:39",
+      "album": {
+        "name": "when i enter a room, i look to u (Joshua Chuquimia Crampton EDIT)",
+        "url": "https://open.spotify.com/album/0kDtIXZPrcWMl1zqQHCkh5"
+      },
+      "artists": [
+        {
+          "name": "Yaz Lancaster",
+          "url": "https://open.spotify.com/artist/4ygD2bMiqgAhvhpgiPwXQM"
+        },
+        {
+          "name": "Joshua Chuquimia Crampton",
+          "url": "https://open.spotify.com/artist/4vV7A3OS088S8Ps2NtTcRO"
+        }
+      ],
+      "duration_ms": 203589,
+      "name": "when i enter a room, i look to u - Joshua Chuquimia Crampton EDIT",
+      "url": "https://open.spotify.com/track/4MbaPPA5d1nRmw7JKHyEKC"
+    },
+    {
+      "added_at": "2026-08-14 10:51:52",
+      "album": {
+        "name": "Kris Is Riding Horses In Ojai",
+        "url": "https://open.spotify.com/album/2Z7MVKHSi0ukQAsXaAUeyH"
+      },
+      "artists": [
+        {
+          "name": "The Van Pelt",
+          "url": "https://open.spotify.com/artist/3EhFI2URDazN3fp9PqHLrt"
+        }
+      ],
+      "duration_ms": 234656,
+      "name": "Kris Is Riding Horses In Ojai",
+      "url": "https://open.spotify.com/track/0wVOPKgRBWlmcKR8FxrzIU"
+    },
+    {
+      "added_at": "2026-08-14 10:52:06",
+      "album": {
+        "name": "19.15.19",
+        "url": "https://open.spotify.com/album/3YsM6Z4FRV5iuo9A1Qfe9s"
+      },
+      "artists": [
+        {
+          "name": "The Easy Eight",
+          "url": "https://open.spotify.com/artist/0qfwGxm32YVXv8LxJeh3Yo"
+        }
+      ],
+      "duration_ms": 133026,
+      "name": "19.15.19",
+      "url": "https://open.spotify.com/track/6NsM3fj9p3AcFLmODInrfy"
+    },
+    {
+      "added_at": "2026-08-14 10:52:28",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/0YLbVw8FQUfXb1f4t5Fjqg"
+      },
+      "artists": [
+        {
+          "name": "M. Woodroe",
+          "url": "https://open.spotify.com/artist/3XcaCcJ4MSkEPSQNd54qN7"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/3rMYLmFZVyHvjAJsy953wC"
+    },
+    {
+      "added_at": "2026-08-14 10:52:50",
+      "album": {
+        "name": "Unstable Neighbour",
+        "url": "https://open.spotify.com/album/4OLtY5Fh8pYdDuXCk0Ynfm"
+      },
+      "artists": [
+        {
+          "name": "Railcard",
+          "url": "https://open.spotify.com/artist/1h7YejqHI5OfMCS6fcRbEr"
+        }
+      ],
+      "duration_ms": 246578,
+      "name": "Unstable Neighbour",
+      "url": "https://open.spotify.com/track/0PunlJXvb9r1eos0SjgAVJ"
+    },
+    {
+      "added_at": "2026-08-14 10:53:02",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/0a3OzX28Ro3UEE4n6Tqxqk"
+      },
+      "artists": [
+        {
+          "name": "Castles in Space",
+          "url": "https://open.spotify.com/artist/6KgP3Vu8ArSbbt33znD3ij"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/1TdnlJ62Wz3Z1QPXN9E02P"
+    },
+    {
+      "added_at": "2026-08-14 10:53:15",
+      "album": {
+        "name": "The Witness",
+        "url": "https://open.spotify.com/album/6MEuWdn0OFUVBdulNgbVWZ"
+      },
+      "artists": [
+        {
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        }
+      ],
+      "duration_ms": 538426,
+      "name": "The Witness",
+      "url": "https://open.spotify.com/track/0CXXi7f2o2pQ9iXSrtexQR"
+    },
+    {
+      "added_at": "2026-08-14 10:53:31",
+      "album": {
+        "name": "Baby With The Sail",
+        "url": "https://open.spotify.com/album/3wQxvn0kupevkBdq0neInA"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sand",
+          "url": "https://open.spotify.com/artist/4kUfLf1xqvZEBtbWY1C0Mf"
+        }
+      ],
+      "duration_ms": 403760,
+      "name": "Baby With The Sail",
+      "url": "https://open.spotify.com/track/36Ij7CZyLOkI65y5UOF91y"
+    },
+    {
+      "added_at": "2026-08-14 10:54:14",
+      "album": {
+        "name": "A Straunge And Terrible Wunder",
+        "url": "https://open.spotify.com/album/6j6EECBItZJL5VKExQQzAc"
+      },
+      "artists": [
+        {
+          "name": "The Breedling",
+          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
+        }
+      ],
+      "duration_ms": 394607,
+      "name": "Scorched and Shrivelled",
+      "url": "https://open.spotify.com/track/2E8Lon4ACR8KOTa5PtT27s"
+    },
     {
       "added_at": "2026-08-04 13:17:41",
       "album": {

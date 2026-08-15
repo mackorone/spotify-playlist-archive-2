@@ -4257,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "El Ceviche",
+        "url": "https://open.spotify.com/album/4vZeSqIMoFzwXCne8uyGcL"
+      },
+      "artists": [
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166850,
+      "name": "El Ceviche",
+      "url": "https://open.spotify.com/track/1Iqaw43wwpxLqZCb06YK18"
+    },
+    {
+      "album": {
         "name": "El CH de Reynosa",
         "url": "https://open.spotify.com/album/2NrOnnzQkzdwp4XAiMnSbq"
       },
@@ -5658,7 +5680,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 152760,
       "name": "El Mochomo",
       "url": "https://open.spotify.com/track/4I7UKv1Cg5Feote1cQHSEM"
@@ -8689,6 +8711,28 @@
     },
     {
       "album": {
+        "name": "La Cherokee",
+        "url": "https://open.spotify.com/album/1KoUyx6tosCXD7qidBRXae"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175980,
+      "name": "La Cherokee",
+      "url": "https://open.spotify.com/track/286FxdzLxQJPzLDH6QQd5K"
+    },
+    {
+      "album": {
         "name": "LA CUMBIA DEL CASTOR",
         "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
       },
@@ -9558,7 +9602,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 162661,
       "name": "Le Quitaron la Vida a mi Padre",
       "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
@@ -10576,6 +10620,36 @@
       "duration_ms": 215121,
       "name": "Me Dicen Nini",
       "url": "https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV"
+    },
+    {
+      "album": {
+        "name": "ME DICEN SARGENTO",
+        "url": "https://open.spotify.com/album/1a9Mg3YIJNLUtzfXohYRhA"
+      },
+      "artists": [
+        {
+          "name": "Jesus Paez",
+          "url": "https://open.spotify.com/artist/3WZl3iuisqkeyDTJVOxid2"
+        },
+        {
+          "name": "Jes\u00fas Chairez",
+          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
+        },
+        {
+          "name": "Los De La Nueva Era",
+          "url": "https://open.spotify.com/artist/044xvh3zPu82tsolDMc9wy"
+        },
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196176,
+      "name": "ME DICEN SARGENTO",
+      "url": "https://open.spotify.com/track/60BLafFis43R6DlGWo2MWR"
     },
     {
       "album": {
@@ -11814,7 +11888,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 159937,
       "name": "Pa la Ma\u00f1a",
       "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
@@ -12946,6 +13020,24 @@
       "duration_ms": 196108,
       "name": "Recuerdos Del 1",
       "url": "https://open.spotify.com/track/6eSTG6L6FIGIuzO02eWLll"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166581,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/3xu6gF8R4fa0ghzvj67aI6"
     },
     {
       "album": {
@@ -14184,7 +14276,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 174773,
       "name": "Suena La Banda",
       "url": "https://open.spotify.com/track/1C0kA4UNIUJSVXPiYp0qEf"

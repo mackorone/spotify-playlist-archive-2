@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Matheus Fernandes
+> O melhor do sertanejo em uma só playlist! Foto: Pedro e Benício
 
 414 songs - 19 hr 26 min
 

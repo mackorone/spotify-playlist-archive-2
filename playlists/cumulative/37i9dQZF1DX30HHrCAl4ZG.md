@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Florence Road
+> Explore all things indie rock right now\. Featuring music from Hudson Freeman
 
-2,203 songs - 5 day 4 hr 55 min
+2,209 songs - 5 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [10 Steps](https://open.spotify.com/track/4U2GQlVHIerwX78jHpkOYN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [10 Steps](https://open.spotify.com/album/2garISLyF8l9yII625vI6R) | 3:29 | 2021-09-03 | 2022-06-11 |
 | [100 Horses](https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [100 Horses](https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG) | 3:46 | 2025-08-29 | 2025-09-27 |
 | [100 Summers](https://open.spotify.com/track/3nGdMRCCVS8TZiJOVKQD2P) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [100 Summers](https://open.spotify.com/album/2wq4WfPC7ic596WQnY1L2Z) | 3:58 | 2025-08-22 | 2026-03-14 |
-| [105](https://open.spotify.com/track/2i5R1iPGTfmycvWURBj4Vo) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [105](https://open.spotify.com/album/7j6jhAp9F1TnyskG9lMs2v) | 2:24 | 2026-02-20 |  |
+| [105](https://open.spotify.com/track/2i5R1iPGTfmycvWURBj4Vo) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [105](https://open.spotify.com/album/7j6jhAp9F1TnyskG9lMs2v) | 2:24 | 2026-02-20 | 2026-08-15 |
 | [10:36](https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [10:36](https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz) | 3:15 | 2022-06-17 | 2022-07-16 |
 | [19](https://open.spotify.com/track/4eXjrOYY9hxmJkS0hkhZxQ) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [19](https://open.spotify.com/album/6IQUj5eSse9rXx2WHUHg8p) | 2:34 | 2021-10-22 | 2022-06-08 |
 | [19](https://open.spotify.com/track/4dd4aXsxKoFIabi7tYlpQz) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [19](https://open.spotify.com/album/6BDIWeTB0A905y20y8xoJT) | 2:43 | 2025-07-18 | 2026-02-21 |
@@ -276,6 +276,7 @@
 | [Blurt](https://open.spotify.com/track/0hvSJQdd2eGR3VBMfKbZSs) | [Mega Mango](https://open.spotify.com/artist/4O2iP6l7paJ9tThXxFVZXJ) | [Blurt](https://open.spotify.com/album/47gfLPyw1oBCUn8joa93bA) | 2:14 | 2022-07-15 | 2022-08-17 |
 | [Boat Garage](https://open.spotify.com/track/4iMztkHIUoyrc5budQ1fOk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Boat Garage](https://open.spotify.com/album/0SUMGjHajl25ox0yApi0DK) | 2:59 | 2026-05-08 |  |
 | [Bob](https://open.spotify.com/track/3OMMX5sC4SaHFtZXH1MDmJ) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Bob](https://open.spotify.com/album/5kwpmZCEI3vLYQ1lxg4sXs) | 3:21 | 2021-06-18 | 2022-04-21 |
+| [Bobby](https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:59 | 2026-08-14 |  |
 | [Bodies Laughing](https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bodies Laughing](https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH) | 4:57 | 2024-10-04 | 2025-03-15 |
 | [Body](https://open.spotify.com/track/2D3Kia865pJnopFMJtSwRV) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:20 | 2023-09-08 | 2023-10-04 |
 | [Body](https://open.spotify.com/track/4nGgHg7tCUYVZtPDDVgm92) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 3:20 | 2023-09-29 | 2024-02-17 |
@@ -791,7 +792,7 @@
 | [Get A Good Look](https://open.spotify.com/track/0n74qdRV4WcfN2q0Z6HQrq) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Get A Good Look](https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD) | 4:12 | 2022-02-11 | 2022-04-10 |
 | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 | 2026-06-19 |  |
 | [Get back to me](https://open.spotify.com/track/3YxMOcoa7ogJlG4e6zyJwm) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Get back to me](https://open.spotify.com/album/6U8hWwjGntHu3thhtm0jGB) | 3:10 | 2025-04-18 | 2025-06-07 |
-| [Get By](https://open.spotify.com/track/0OGEM4oCMi280gucrdiNlH) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Werewolf](https://open.spotify.com/album/4LeD15SToHkoWTYGiVgFRQ) | 3:38 | 2026-03-06 |  |
+| [Get By](https://open.spotify.com/track/0OGEM4oCMi280gucrdiNlH) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Werewolf](https://open.spotify.com/album/4LeD15SToHkoWTYGiVgFRQ) | 3:38 | 2026-03-06 | 2026-08-15 |
 | [Get Down](https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Get Down](https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL) | 2:51 | 2021-07-19 | 2022-06-10 |
 | [Get It Right](https://open.spotify.com/track/2CO04OO1MMV1z8zY5N1pyD) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:28 | 2024-04-05 | 2024-05-18 |
 | [Get Numb To It!](https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 4:52 | 2024-02-16 | 2024-03-16 |
@@ -1007,6 +1008,7 @@
 | [I'm So Bored](https://open.spotify.com/track/61DyXUvXmfuS3N0y7BdmyK) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [I'm So Bored](https://open.spotify.com/album/6T3X7W9ph2RLTOFYKqkBQv) | 3:28 | 2022-07-01 | 2022-11-13 |
 | [I'm Your Kamikaze](https://open.spotify.com/track/5aeKCKpYuXC14oxq3drNgt) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [I'm Your Kamikaze](https://open.spotify.com/album/4SASRjs0FWkon7MZNgWcri) | 2:38 | 2022-06-14 | 2022-06-25 |
 | [I've Been Taking Walks \(La La Song\)](https://open.spotify.com/track/299EVwi7vNWOGxKOTxUaly) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [I've Been Taking Walks \(La La Song\)](https://open.spotify.com/album/3r66sVvKnnKkQsTfDWPD6u) | 2:43 | 2023-05-05 | 2023-06-03 |
+| [I\-40](https://open.spotify.com/track/7LmMHENSDglEpVEySzwz1y) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [I\-40](https://open.spotify.com/album/5Cbhorm19BqHu78wRuLjVD) | 3:54 | 2026-08-14 |  |
 | [Ian \(Goodbye\)](https://open.spotify.com/track/6GMjp7U70cORX885mWHZt4) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Death Jokes II](https://open.spotify.com/album/4DCCED6M2qEev1v4lGy7MH) | 2:50 | 2024-12-13 | 2025-04-05 |
 | [Idaho](https://open.spotify.com/track/4Vz0Wt4ySnCJi7WJycnoNj) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 4:05 | 2021-06-07 | 2022-06-09 |
 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 | 2025-02-07 | 2025-08-29 |
@@ -1052,6 +1054,7 @@
 | [is suicide too much?](https://open.spotify.com/track/6hLwWVV4b7cXlqxU76PcTs) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [grey europe](https://open.spotify.com/album/1ZiOUqonBvUlocuaXMgYS5) | 3:09 | 2024-05-31 | 2024-08-10 |
 | [Islands of Men](https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 5:54 | 2025-09-26 | 2026-05-02 |
 | [Isolette \- Edit](https://open.spotify.com/track/4s8bmFAHXhmPHrBasuGx62) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Isolette \(Edit\)](https://open.spotify.com/album/3uFBPwfmLFoDPIVZxA35b1) | 2:37 | 2023-08-18 | 2023-09-09 |
+| [It Can't Be](https://open.spotify.com/track/5lFO8ci3E8uc8Y0FccHPle) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [It Can't Be](https://open.spotify.com/album/6jy4kAsbsMoa56XbdVpgiz) | 2:55 | 2026-08-14 |  |
 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 | 2022-12-02 | 2023-04-01 |
 | [it only gets worse, i promise](https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [it only gets worse, i promise](https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj) | 2:34 | 2021-10-02 | 2022-04-14 |
 | [It Was Not A Beautiful Night](https://open.spotify.com/track/3vIgkoS6GYppSgmKH2btkn) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS) | [It Was Not A Beautiful Night](https://open.spotify.com/album/32kSabsb9xQNIv2tI1kXPL) | 2:57 | 2023-10-20 | 2024-03-30 |
@@ -1176,6 +1179,7 @@
 | [Live Today](https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Live Today](https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt) | 2:52 | 2024-03-29 | 2024-04-01 |
 | [Live Today](https://open.spotify.com/track/3wAUDos7BPWlHBetCruaD1) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Notebook Fantasy](https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX) | 2:52 | 2024-03-29 | 2024-04-19 |
 | [Live Today](https://open.spotify.com/track/5sh8ivyfsTYbdFVknX0wjI) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Live Today](https://open.spotify.com/album/7vJ92u1qIlzzrI1qaFbNhp) | 2:52 | 2024-03-29 | 2024-06-29 |
+| [Live Without Her Love](https://open.spotify.com/track/5A2SzM69oijfu5scaUmzWi) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Live Without Her Love](https://open.spotify.com/album/46hmma6B2khDw8CxVnxPDN) | 4:08 | 2026-08-14 |  |
 | [Liz \(New York\)](https://open.spotify.com/track/1QrUVQTmRV2gOmg8tby37B) | [Geskle](https://open.spotify.com/artist/6vs7hYqS7v8KjGlZOv2DLN) | [Liz \(New York\)](https://open.spotify.com/album/1fv5jGrYUx7N8MWMLUGkNG) | 3:14 | 2022-07-15 | 2022-08-27 |
 | [locket](https://open.spotify.com/track/3DXAC5bKciAE2hhGXX4GMc) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [swallowtail](https://open.spotify.com/album/2WAneOUp6cuyzxoQemgq7C) | 2:46 | 2026-07-10 |  |
 | [lonely](https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [lonely](https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3) | 3:48 | 2022-11-11 | 2022-11-19 |
@@ -1597,6 +1601,7 @@
 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 | 2024-12-13 | 2025-02-01 |
 | [Roadkill](https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Roadkill](https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv) | 2:04 | 2022-11-04 | 2022-12-07 |
 | [Rock Bottom](https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Rock Bottom / Octopus](https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d) | 4:10 | 2026-02-06 |  |
+| [Rock N Roll Ruined My Life](https://open.spotify.com/track/0MQLLKlwIYl7WVkC2Uo6p2) | [Ok Cowgirl](https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8) | [Rock N Roll Ruined My Life](https://open.spotify.com/album/0Vy6le45pDIbpialnx3Lr8) | 4:15 | 2026-08-14 |  |
 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 | 2023-01-20 | 2023-04-01 |
 | [Rocket Chair](https://open.spotify.com/track/4VM9YbaB5OOp2tFryJ4Mw6) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Rocket Chair](https://open.spotify.com/album/2gobaSL3mx2Y80jRHiKugs) | 4:10 | 2025-04-04 | 2025-04-19 |
 | [Rocket Ship](https://open.spotify.com/track/3PMX4mU6uGEVtdEufrChcQ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Rocket Ship](https://open.spotify.com/album/7xytf2QWXPKWqI0FhAAUSW) | 1:43 | 2023-04-14 | 2023-07-01 |
@@ -1778,6 +1783,7 @@
 | [Speed of the Sound \(of you\)](https://open.spotify.com/track/625gH2KUG4kE0G1FR3N7ZW) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Speed of the Sound \(of you\)](https://open.spotify.com/album/2FPUFdvALP5VPyXjlUXVdU) | 3:09 | 2024-04-12 | 2024-07-27 |
 | [Speeding 72](https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn) | 3:58 | 2022-07-01 | 2022-11-19 |
 | [Speeding 72](https://open.spotify.com/track/7cUtZJswFDe6W9wRXMseZQ) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/4cQ5UlLIkOL635iBx7S5Dx) | 3:58 | 2022-06-10 | 2022-06-15 |
+| [Spill](https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Spill](https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa) | 3:15 | 2026-08-14 |  |
 | [Spinning Around](https://open.spotify.com/track/6hPXdgRVXu1X04HenogfCN) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Spinning Around](https://open.spotify.com/album/7BYtZl0G55gqnZwFWVrzzh) | 3:22 | 2025-06-27 | 2026-02-21 |
 | [Spit](https://open.spotify.com/track/1r6E88xX2qVfyD8I1rNsix) | [Pretty Jane](https://open.spotify.com/artist/6epJ25SOjrUlNIH80KKluq) | [Spit](https://open.spotify.com/album/4Gyhp0b6LoWP89ZqYJApAi) | 3:42 | 2025-02-28 | 2025-05-17 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-14 | 2023-04-01 |

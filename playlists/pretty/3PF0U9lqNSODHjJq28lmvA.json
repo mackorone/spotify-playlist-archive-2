@@ -6,61 +6,201 @@
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAF80uz8HTEubCpwbDjLdPy14v4jktq",
+  "snapshot_id": "AAAF9fEigGOnUIXuj4vrRbldG/4ZAgGS",
   "tracks": [
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "Gin Tonic",
-        "url": "https://open.spotify.com/album/4RWoM4X03rlE2NRmkGsbNo"
+        "name": "F\u00e5 dem opp!",
+        "url": "https://open.spotify.com/album/4rKr5LKEHQ7l86xtNYzEWA"
       },
       "artists": [
         {
-          "name": "Luca Battistini",
-          "url": "https://open.spotify.com/artist/7fJGskEgb9ZZsxHKYK0q8j"
+          "name": "Fremmed Rase",
+          "url": "https://open.spotify.com/artist/2HVkpSj2pyklj7VLGr5N2U"
+        },
+        {
+          "name": "DJ Konkret",
+          "url": "https://open.spotify.com/artist/5UvO2cDVVg7D0CjWDB67qD"
         }
       ],
-      "duration_ms": 182337,
-      "name": "Gin Tonic",
-      "url": "https://open.spotify.com/track/1KUpU7UdeBDXhfWKzl56wM"
+      "duration_ms": 214636,
+      "name": "F\u00e5 dem opp!",
+      "url": "https://open.spotify.com/track/35049LaTj0K16Rasq4dAOC"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "Richer than ever",
-        "url": "https://open.spotify.com/album/5kWguxkyNHICXylhJhc8Yb"
+        "name": "Lingering Feeling",
+        "url": "https://open.spotify.com/album/6LNmnEgOsRgyEHNddYY034"
       },
       "artists": [
         {
-          "name": "Valeria Frattini",
-          "url": "https://open.spotify.com/artist/5RkNVwHWnEpdI5vnIcC1P9"
+          "name": "TARO",
+          "url": "https://open.spotify.com/artist/57VTCtQsXViSJK68PNH2El"
+        },
+        {
+          "name": "DeepSoundz",
+          "url": "https://open.spotify.com/artist/7BLRrxRAZb5PyxBOfab3Rm"
         }
       ],
-      "duration_ms": 208760,
-      "name": "Richer than ever",
-      "url": "https://open.spotify.com/track/6y7tZR9pG9Dn7Q0k99mHSM"
+      "duration_ms": 232192,
+      "name": "Lingering Feeling",
+      "url": "https://open.spotify.com/track/5AS5uNgRIkV5U3pBYYe5qr"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "After Loving",
-        "url": "https://open.spotify.com/album/3UG3H1lrpY9IJEzfH4LYMe"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/0NeTTrSXRsgF9rHQfEWPIQ"
       },
       "artists": [
         {
-          "name": "Phil Carlyle",
-          "url": "https://open.spotify.com/artist/2IRQDpBUaX7oFwjiAsCroj"
+          "name": "Awaken The Fire",
+          "url": "https://open.spotify.com/artist/4k9YxZViR98Bqsi2QbXaAc"
         }
       ],
-      "duration_ms": 339936,
-      "name": "After Loving",
-      "url": "https://open.spotify.com/track/3QeqV12dLIr16q5hHwANnt"
+      "duration_ms": 202378,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/69jZju6MhQzi7MYgI45TfF"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "HELAL",
-        "url": "https://open.spotify.com/album/5DX4UNhGHafBSIxj2V7VHW"
+        "name": "Upwind",
+        "url": "https://open.spotify.com/album/5GUoef4w42BTYB8epRkfNy"
+      },
+      "artists": [
+        {
+          "name": "Liar Thief Bandit",
+          "url": "https://open.spotify.com/artist/6C9FgQz7w2yRvAiv1jkbbi"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Upwind",
+      "url": "https://open.spotify.com/track/4VqjBA2gDuGHWSHeCGOFtZ"
+    },
+    {
+      "added_at": "2026-08-14 15:02:21",
+      "album": {
+        "name": "RATZ and CATZ",
+        "url": "https://open.spotify.com/album/72iJiABLPb2e4NgyjnDU6d"
+      },
+      "artists": [
+        {
+          "name": "SMIKES",
+          "url": "https://open.spotify.com/artist/2Pt85OlrI4tfiPTL6j7tza"
+        }
+      ],
+      "duration_ms": 196310,
+      "name": "There\u00b4s something rotten in the state of Sweden",
+      "url": "https://open.spotify.com/track/13CHNxJsUCs09Zpw72q5wd"
+    },
+    {
+      "added_at": "2026-08-14 15:02:21",
+      "album": {
+        "name": "BUNGA!",
+        "url": "https://open.spotify.com/album/073K1lsCvPHo4vZPK7CA8w"
+      },
+      "artists": [
+        {
+          "name": "Marcos Cabanas",
+          "url": "https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402"
+        },
+        {
+          "name": "MATEO ERA\u00d1A",
+          "url": "https://open.spotify.com/artist/1sDUoF8qwvVEcTYv2MYwLk"
+        }
+      ],
+      "duration_ms": 196821,
+      "name": "BUNGA!",
+      "url": "https://open.spotify.com/track/6L9wJ2uXInXC7j7CEHzHwu"
+    },
+    {
+      "added_at": "2026-08-14 15:02:21",
+      "album": {
+        "name": "Flight Simulation",
+        "url": "https://open.spotify.com/album/7vxqrdBVifGs4GqQt5TFzc"
+      },
+      "artists": [
+        {
+          "name": "Absolutely Yours",
+          "url": "https://open.spotify.com/artist/7Cm6Z98cAhI70GCdPTEoJu"
+        }
+      ],
+      "duration_ms": 188715,
+      "name": "Flight Simulation",
+      "url": "https://open.spotify.com/track/2LroqgCgTYys3zW6Im0GAy"
+    },
+    {
+      "added_at": "2026-08-14 15:02:21",
+      "album": {
+        "name": "Black Enigma \u00a726\u00a7",
+        "url": "https://open.spotify.com/album/5FeKaq4YIMlHzc78lIArFv"
+      },
+      "artists": [
+        {
+          "name": "Zero Call",
+          "url": "https://open.spotify.com/artist/1D5uJgX5s0qwYX5kOOIe0j"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Black Enigma \u00a726\u00a7",
+      "url": "https://open.spotify.com/track/1KHEDJrCL89d2zOQIoEQOy"
+    },
+    {
+      "added_at": "2026-08-14 15:02:21",
+      "album": {
+        "name": "Stare Sprawy",
+        "url": "https://open.spotify.com/album/4KVXZUEW3LbjRvOIAjTSFS"
+      },
+      "artists": [
+        {
+          "name": "\u015arubka",
+          "url": "https://open.spotify.com/artist/30F6YU0NVlK0hV6rFM7KHN"
+        }
+      ],
+      "duration_ms": 207136,
+      "name": "Stare Sprawy",
+      "url": "https://open.spotify.com/track/61syFsUfHMb4LKELSeVImA"
+    },
+    {
+      "added_at": "2026-08-14 15:02:21",
+      "album": {
+        "name": "The Great Disconnect",
+        "url": "https://open.spotify.com/album/2xgFxYFQLiQRERkkDRrOQS"
+      },
+      "artists": [
+        {
+          "name": "Joshua Wilkins",
+          "url": "https://open.spotify.com/artist/7nbuQXbYH336ANOM1Bh6xZ"
+        }
+      ],
+      "duration_ms": 157461,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/5MK3x06Twqz3x5T94Qna44"
+    },
+    {
+      "added_at": "2026-08-14 15:02:21",
+      "album": {
+        "name": "Strongboy",
+        "url": "https://open.spotify.com/album/0biDBTNChnx1EmAkIyZW6q"
+      },
+      "artists": [
+        {
+          "name": "H3llBLAU",
+          "url": "https://open.spotify.com/artist/2jeosJ3N8njOK8329m9rlt"
+        }
+      ],
+      "duration_ms": 195314,
+      "name": "Strongboy",
+      "url": "https://open.spotify.com/track/1nv3il0vDIy84GvYjwGnrC"
+    },
+    {
+      "added_at": "2026-08-14 15:02:21",
+      "album": {
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/53IU9Umu5HUA9WozjB0FmG"
       },
       "artists": [
         {
@@ -68,185 +208,189 @@
           "url": "https://open.spotify.com/artist/16EQuNU6K3sGYYgd4OnEJM"
         }
       ],
-      "duration_ms": 142212,
-      "name": "HELAL",
-      "url": "https://open.spotify.com/track/0VmAKttHIqYXFKpSfpwbPY"
+      "duration_ms": 137873,
+      "name": "Spookt door m\u2019n hoofd",
+      "url": "https://open.spotify.com/track/4fjDWshTJzNpYjMh5WHiGv"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "Ett f\u00f6rslag",
-        "url": "https://open.spotify.com/album/4YEszNSTa4QUMPbdje7y8X"
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/4ktCjcvrpAaB9oPP4Gy79l"
       },
       "artists": [
         {
-          "name": "Page",
-          "url": "https://open.spotify.com/artist/1Fte7PuO7hpVbBFrX075fC"
+          "name": "HTS",
+          "url": "https://open.spotify.com/artist/2hzInUFhUdMbzkJTDyNv27"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Mia & Tom",
-      "url": "https://open.spotify.com/track/7gnETXScDpKt9vd7LHwOVx"
+      "duration_ms": 131558,
+      "name": "No More Chances",
+      "url": "https://open.spotify.com/track/3pP5VCI0lTh3CO65bFECmo"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/1iCluEMVbFWlkjlhBS5Ein"
+        "name": "Min bror och jag",
+        "url": "https://open.spotify.com/album/6u5LvvxJWs30J832436QgN"
       },
       "artists": [
         {
-          "name": "DAMON 22",
-          "url": "https://open.spotify.com/artist/2YnP4iKLkqCLfZXf1iPZjg"
+          "name": "Jonas Tilly",
+          "url": "https://open.spotify.com/artist/4Xb58LELv57OvVpO0b04Pm"
         }
       ],
-      "duration_ms": 282000,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/5OgnlME2EBeQf21REjeW18"
+      "duration_ms": 184615,
+      "name": "Min bror och jag",
+      "url": "https://open.spotify.com/track/1wDYQD2CsilIvZopAeKdmy"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/55IcqP3jrtt6Plcl0oXwEJ"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/3AluzZJYtEwe2mfOPWuInX"
       },
       "artists": [
         {
-          "name": "Lisa Wermelin",
-          "url": "https://open.spotify.com/artist/1keYqYoPgJUaYP2QwkB9jq"
+          "name": "Oots",
+          "url": "https://open.spotify.com/artist/3JO3KocIZryOFTLKFmRV8X"
         }
       ],
-      "duration_ms": 227500,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/6fzqeDjlLfynYV0ud30UpI"
+      "duration_ms": 324285,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6HDVbYpvoOO7XFB9lv6qQC"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "Nukahdan aurinkoon",
-        "url": "https://open.spotify.com/album/38WRoWYUa15DheC1k25JLK"
+        "name": "Iapetus",
+        "url": "https://open.spotify.com/album/5P19RHTiC5YHtfpAypbGcQ"
       },
       "artists": [
         {
-          "name": "Teukka",
-          "url": "https://open.spotify.com/artist/39sku8JiOeGoCZaNlsBing"
+          "name": "RottenPerish",
+          "url": "https://open.spotify.com/artist/3URTlIJSy1V9HI9WcSp1bR"
         }
       ],
-      "duration_ms": 172517,
-      "name": "Nukahdan aurinkoon",
-      "url": "https://open.spotify.com/track/3T1zhgdIeXmTxV3AJYbR5U"
+      "duration_ms": 181942,
+      "name": "Iapetus",
+      "url": "https://open.spotify.com/track/4iimYGLhM4Tx3Mv9qSTC3E"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "Come Il Sole",
-        "url": "https://open.spotify.com/album/010RdYYoqbYCEBIhnOqd9B"
+        "name": "Limiti",
+        "url": "https://open.spotify.com/album/0SzUjrSk6sLhqDMbWVeEme"
       },
       "artists": [
         {
-          "name": "SATURI",
-          "url": "https://open.spotify.com/artist/0CJ6TamJ7gq0RX0316S4mt"
+          "name": "KYMA",
+          "url": "https://open.spotify.com/artist/34WwUS1xwAUOaud53F2zQr"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Come Il Sole",
-      "url": "https://open.spotify.com/track/0b0wzHa15NNccUBocKFuLX"
+      "duration_ms": 207272,
+      "name": "Limiti",
+      "url": "https://open.spotify.com/track/3gDI3wNlMzz1qItOcQIRzY"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "So Life (Radio Edit)",
-        "url": "https://open.spotify.com/album/3nfsKYov05DtNs189lVrRy"
+        "name": "HAPPIEST GIRL IN THE WORLD :(",
+        "url": "https://open.spotify.com/album/5Dc6nBkphmzhBlq5UT7RYJ"
       },
       "artists": [
         {
-          "name": "Truth Teller RIE",
-          "url": "https://open.spotify.com/artist/58hJvM3TtrM5VxLELKdmWO"
+          "name": "ailias",
+          "url": "https://open.spotify.com/artist/6x5wrokIsPXFHJN45EiAsp"
         }
       ],
-      "duration_ms": 168176,
-      "name": "So Life - Radio Edit",
-      "url": "https://open.spotify.com/track/6fZaUOyZigWFHO6a68d89a"
+      "duration_ms": 147096,
+      "name": "Powderinthleather",
+      "url": "https://open.spotify.com/track/5Y7ZAdW2zc8d59xGZnHo70"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "Neon Heart",
-        "url": "https://open.spotify.com/album/4B7Q0im7pD9tOynNFvvcaY"
+        "name": "Still The Man",
+        "url": "https://open.spotify.com/album/2N4mO4Xw566qXJZyrLUdYD"
       },
       "artists": [
         {
-          "name": "Valkyrja N\u00f3tt",
-          "url": "https://open.spotify.com/artist/6baAVA0dAgXfPbGPLtCm3c"
+          "name": "High Road Pilots",
+          "url": "https://open.spotify.com/artist/2szqLFKaYUuCIAJ96Hmzir"
         }
       ],
-      "duration_ms": 234720,
-      "name": "Neon Heart",
-      "url": "https://open.spotify.com/track/1zgUDeZwjYt6Lq60wJh64f"
+      "duration_ms": 183146,
+      "name": "Still The Man",
+      "url": "https://open.spotify.com/track/41KcvUppaCDQGZh8toPVX6"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "PSYCHEDELIC DAYS",
-        "url": "https://open.spotify.com/album/0NN7bEJPMwjO9BYBJnESHS"
+        "name": "\u0924\u0942 \u0939\u0940 \u092e\u0947\u0930\u093e \u0906\u0938\u092e\u093e\u0901",
+        "url": "https://open.spotify.com/album/0A2EsNMXuaHnBZfriP6ba7"
       },
       "artists": [
         {
-          "name": "GOLD",
-          "url": "https://open.spotify.com/artist/6Q0SEOD1IyCOg2Dk3IxkZr"
+          "name": "Nandini Manthale",
+          "url": "https://open.spotify.com/artist/36g2QkREZVR5y6XyAsRzih"
         }
       ],
-      "duration_ms": 235546,
-      "name": "HARD TO BEAT",
-      "url": "https://open.spotify.com/track/4PlGB0uqcBewScIl3nIERf"
+      "duration_ms": 240079,
+      "name": "\u0924\u0942 \u0939\u0940 \u092e\u0947\u0930\u093e \u0906\u0938\u092e\u093e\u0901",
+      "url": "https://open.spotify.com/track/0g0WmurqR69iBudlBB2wfN"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "I'll See You There",
-        "url": "https://open.spotify.com/album/7CMBa236I4IR2wP1yReSef"
+        "name": "History in Dust",
+        "url": "https://open.spotify.com/album/2HQRyVkapbZVLbMivfLYGy"
       },
       "artists": [
         {
-          "name": "Signo Rojo",
-          "url": "https://open.spotify.com/artist/5NDCT0LD3UWaTNEBoGC4er"
+          "name": "Geoff Diego Litherland",
+          "url": "https://open.spotify.com/artist/38vT7b6k1nEkAplbaxTf5F"
+        },
+        {
+          "name": "Christopher John Thornhill",
+          "url": "https://open.spotify.com/artist/50Jjnm5tmn27gH5hR7flAi"
         }
       ],
-      "duration_ms": 273000,
-      "name": "I'll See You There",
-      "url": "https://open.spotify.com/track/360Q3QSJjQffgNH0Yb8qwe"
+      "duration_ms": 344000,
+      "name": "Aether Drifts",
+      "url": "https://open.spotify.com/track/7fgWNuQB70NyAmJ26lQqFw"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "Living The Dream",
-        "url": "https://open.spotify.com/album/1mygt4gBc3vndVcm7xqUFC"
+        "name": "ZuruSzn 2",
+        "url": "https://open.spotify.com/album/4LyKGh7xTNWzAcpWMw8wYz"
       },
       "artists": [
         {
-          "name": "DJ Ahumada",
-          "url": "https://open.spotify.com/artist/1BISCXVjzoOWgQZekIFDYd"
+          "name": "Yung Hannes",
+          "url": "https://open.spotify.com/artist/7cmAAtPfL2HFbm2x95fsyP"
         }
       ],
-      "duration_ms": 248331,
-      "name": "Living The Dream",
-      "url": "https://open.spotify.com/track/0mFSCK6J9wjQ2gr3T1SVoY"
+      "duration_ms": 133259,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/3LMNRLgfbpUCPMaaddTyPi"
     },
     {
-      "added_at": "2026-07-31 13:42:53",
+      "added_at": "2026-08-14 15:02:21",
       "album": {
-        "name": "Dopamine Wire",
-        "url": "https://open.spotify.com/album/7crQ0e6Jk9Mw3m3InZ4hhh"
+        "name": "ZuruSzn",
+        "url": "https://open.spotify.com/album/5d1we7E7qPvLuWozPxVenO"
       },
       "artists": [
         {
-          "name": "God Mother",
-          "url": "https://open.spotify.com/artist/4m4mM8KMQd8gtIFC4SOGHL"
+          "name": "Yung Hannes",
+          "url": "https://open.spotify.com/artist/7cmAAtPfL2HFbm2x95fsyP"
         }
       ],
-      "duration_ms": 98186,
-      "name": "Dopamine Wire",
-      "url": "https://open.spotify.com/track/0pGEclCZRtsYuEy9EoUVf3"
+      "duration_ms": 156038,
+      "name": "Evil Spiral",
+      "url": "https://open.spotify.com/track/6C1pfP4QXjJvhoyTCHPHwv"
     }
   ],
   "unique_name": "Independent Music Friday",

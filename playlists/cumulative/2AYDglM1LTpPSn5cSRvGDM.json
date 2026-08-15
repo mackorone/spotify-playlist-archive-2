@@ -5097,6 +5097,32 @@
     },
     {
       "album": {
+        "name": "Thinking Of U",
+        "url": "https://open.spotify.com/album/4D8gtB8fb4enZgXNJ0M1u3"
+      },
+      "artists": [
+        {
+          "name": "Morgin Madison",
+          "url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej"
+        },
+        {
+          "name": "HILYTE",
+          "url": "https://open.spotify.com/artist/4sElZwvStUkR2gFNypRwee"
+        },
+        {
+          "name": "Division One (KR)",
+          "url": "https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236190,
+      "name": "Thinking Of U",
+      "url": "https://open.spotify.com/track/15YEaBIDjdkxxJ4PuVJKeK"
+    },
+    {
+      "album": {
         "name": "This Feeling (Sean Tyas Remix)",
         "url": "https://open.spotify.com/album/5wtLckbpcdxiYhaC1ZYpvA"
       },

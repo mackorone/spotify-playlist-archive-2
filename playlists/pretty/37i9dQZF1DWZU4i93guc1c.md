@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > новинки українського андерґраунду\. обкладинка: LOVERA BREAUX
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,161 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,174 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 79 | [соу хард](https://open.spotify.com/track/32Oyx638kXMoRNBKSdZiQO) | [headachee](https://open.spotify.com/artist/7FLnr6jif4euepPlgGtaJZ) | [соу хард](https://open.spotify.com/album/5688l4cRpxYTiwighTs0gR) | 3:13 |
 | 80 | [з love мені](https://open.spotify.com/track/3JUsJw3Nk0vtvKmF1ihw0j) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2), [provulok](https://open.spotify.com/artist/3i448OV2OVpKy6EQtenzzZ) | [з love мені](https://open.spotify.com/album/6nTSvMwpva7qAdTQDlU8nh) | 3:34 |
 
-Snapshot ID: `AAAAANRdQNmNfSYMctc+LTjV/8gvt9Jx`
+Snapshot ID: `AAAAAIFnxtoBBVk2AHe7I0xcSzWUdHxF`

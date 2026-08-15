@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "copacabana",
+        "url": "https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE"
+      },
+      "artists": [
+        {
+          "name": "ZEHD",
+          "url": "https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117624,
+      "name": "copacabana",
+      "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
+    },
+    {
+      "album": {
         "name": "Corail",
         "url": "https://open.spotify.com/album/55NhEOcVmjVT6gWcI18GFJ"
       },
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 210258,
       "name": "Je t'oublie quand m\u00eame pas",
       "url": "https://open.spotify.com/track/671zz3HwewTjJkZefzJSV0"
@@ -5871,6 +5889,24 @@
     },
     {
       "album": {
+        "name": "LLL",
+        "url": "https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj"
+      },
+      "artists": [
+        {
+          "name": "Julyan",
+          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213503,
+      "name": "LLL",
+      "url": "https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH"
+    },
+    {
+      "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/4SmotZ4pS0lVLpwn8cXF0K"
       },
@@ -6836,7 +6872,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 231861,
       "name": "Not on the Run",
       "url": "https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6"
@@ -7706,6 +7742,24 @@
       "duration_ms": 144888,
       "name": "propri\u00e9terre",
       "url": "https://open.spotify.com/track/40jF4QZrA6OHgxZNVejrFw"
+    },
+    {
+      "album": {
+        "name": "Pr\u00e9vu d'avance",
+        "url": "https://open.spotify.com/album/1R7cwBzbwhKUykeowqdmDI"
+      },
+      "artists": [
+        {
+          "name": "Tristan Guay",
+          "url": "https://open.spotify.com/artist/0Bi9l2FyMlGmNQ4xKUcJYU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160689,
+      "name": "Pr\u00e9vu d'avance",
+      "url": "https://open.spotify.com/track/6BixC63gpHY7JA6iDpAHOl"
     },
     {
       "album": {
@@ -9452,7 +9506,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 164376,
       "name": "Timid",
       "url": "https://open.spotify.com/track/7KIk6TtenbaYf0OUJQqIui"

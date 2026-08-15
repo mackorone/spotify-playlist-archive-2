@@ -4,7 +4,7 @@
 
 > Luis Fonsi, Anuel AA, benny blanco x Mora x Ovy On The Drums, Al Safir x Omar Montes y más novedades de la semana.
 
-6,364 songs - 13 day 13 hr 30 min
+6,367 songs - 13 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1577,6 +1577,7 @@
 | [Donde están](https://open.spotify.com/track/266EjlOF6PUTLsppyZxpmj) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Donde están](https://open.spotify.com/album/2ukMCJoeaNF4NiTZypjj39) | 3:12 | 2025-05-01 | 2025-05-09 |
 | [Donde Estás](https://open.spotify.com/track/0bpci6zoOkJg9Tcys0fEUM) | [Pacio](https://open.spotify.com/artist/7FhR4npEu24Kv92f8bWZr9), [Rotea](https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN) | [Donde Estás](https://open.spotify.com/album/5gdnlxQUp7JMGDQvaLxQ78) | 2:21 | 2026-01-29 | 2026-02-06 |
 | [DONDE FUE FELIZ](https://open.spotify.com/track/4E0v4fnHojKxinvglaufJy) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [DONDE FUE FELIZ](https://open.spotify.com/album/5jdkmNEk1SQgBJlebymokk) | 2:56 | 2026-05-01 | 2026-05-08 |
+| [Donde Hubo Fuego Cenizas Quedan](https://open.spotify.com/track/2ffXkUDtPJ29jZulZjPqqJ) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Donde Hubo Fuego Cenizas Quedan](https://open.spotify.com/album/6hyjCpbJz8IQAvIU13xbiL) | 3:28 | 2026-08-14 |  |
 | [DONDE NACE EL AMOR](https://open.spotify.com/track/6aF6g4616U0rBG9EbgNtlp) | [DaniMflow](https://open.spotify.com/artist/3ZB5y8rqT7Cm0uHmkR4ovu) | [DONDE NACE EL AMOR](https://open.spotify.com/album/6yCNZKiFcUvhuhf3tAgLHo) | 2:54 | 2026-06-04 | 2026-06-12 |
 | [Donde Nadie Nos Ve](https://open.spotify.com/track/3XcTpIbZ18uooVSVo1uMU8) | [Zetazen](https://open.spotify.com/artist/66BpLv7bc0OLbr50D1cnGS), [RADE](https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h) | [Donde Nadie Nos Ve](https://open.spotify.com/album/5oaEi5L6rZXItKC8XDdQUq) | 3:36 | 2026-01-29 | 2026-02-06 |
 | [Donde no te atrevías](https://open.spotify.com/track/4bisqb9Rl6rFh6TNu4GZ2S) | [Pol 3.14](https://open.spotify.com/artist/4P9xDIEyrtAeXRI6xOl2TS) | [Donde no te atrevías](https://open.spotify.com/album/0b3zCwV1aL4yUATySlSWVj) | 3:50 | 2025-04-24 | 2025-05-02 |
@@ -4340,6 +4341,7 @@
 | [Pendiente De Mí](https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pendiente De Mí](https://open.spotify.com/album/7FtFzQYSse2kL2b5cZ4hJK) | 4:02 | 2026-05-14 | 2026-05-22 |
 | [PENITA](https://open.spotify.com/track/1RQQr02f5pxkC4q6sODZZH) | [Kinky Bwoy](https://open.spotify.com/artist/0MdmBtTM7CiggP607Mh1Fs), [Pirris Sosa](https://open.spotify.com/artist/2UHtbajy8bYx2yOiPZ4ghU), [Bb de la mafia](https://open.spotify.com/artist/1Q8Mnxo358qJAi9N7fZqWM), [Joxel Music](https://open.spotify.com/artist/4iFT5Gek2kJWqBTs1rJCj3) | [PENITA](https://open.spotify.com/album/0BjweL7JRsYxobWslC0zaE) | 3:26 | 2026-06-18 | 2026-07-24 |
 | [Pensando](https://open.spotify.com/track/4PnOICpLaxr77aYHNZAn7Z) | [Bluu](https://open.spotify.com/artist/7MaetI56T44uHIHh0px5zv), [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N), [17Beats](https://open.spotify.com/artist/3KVLe0uzCtCqJktfpCvLNZ) | [Pensando](https://open.spotify.com/album/4FAO5VIGnwRw2QoqBETOEz) | 2:22 | 2025-07-10 | 2025-07-18 |
+| [PENSANDO](https://open.spotify.com/track/4jNumlK0wSGDrGShH625sD) | [Taylor James](https://open.spotify.com/artist/4XjBRdgMJoHdEgnGyAViNj), [El3bor](https://open.spotify.com/artist/7Ai27HqPevRED1jYDBO7tU) | [PENSANDO](https://open.spotify.com/album/1HbXReHKcEXP4tjxtpdryM) | 2:34 | 2026-08-14 |  |
 | [Pensando en ti](https://open.spotify.com/track/2u9PuocHGoekwh0lQE6ez4) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Pensando en ti](https://open.spotify.com/album/0eLoO935VNMY86isjkZfEe) | 3:15 | 2026-01-23 | 2026-01-30 |
 | [Pensando En Ti](https://open.spotify.com/track/5Fj4dhnN88FPL5EgmRdj6i) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Pensando en Ti](https://open.spotify.com/album/3VaGNRr5Pqr5Y23wfYIuGM) | 3:11 | 2025-09-18 | 2025-09-27 |
 | [Penélope](https://open.spotify.com/track/6HRPRRhymjDS4TBUDwnBcS) | [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h) | [Penélope](https://open.spotify.com/album/5mZ9JJodsAGkL3VGoBZiyx) | 2:51 | 2025-12-18 | 2026-01-02 |
@@ -5073,6 +5075,7 @@
 | [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 | 2026-08-06 | 2026-08-14 |
 | [SHEITE](https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [SHEITE](https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP) | 2:11 | 2024-11-21 | 2024-11-29 |
 | [shewasn'tlookingforme](https://open.spotify.com/track/6Wepp2A6eBcP8XugoKe2o4) | [FOX GUNN](https://open.spotify.com/artist/4KSfI4UH3ZAxhyUTKRYigx) | [shewasn'tlookingforme](https://open.spotify.com/album/5VzCjaMwU7jolf37zxIcKf) | 2:47 | 2025-08-28 | 2025-09-05 |
+| [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 | 2026-08-14 |  |
 | [Shhh..](https://open.spotify.com/track/0DmbeIQfGjTeLrirc0rEsY) | [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Shhh..](https://open.spotify.com/album/6L2Q2xodtCIHNWPylQ4RC4) | 3:58 | 2026-01-15 | 2026-01-23 |
 | [SHiBARiii 縛り](https://open.spotify.com/track/69X0xxWbq1y8YT4b41u89r) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [d.dramático](https://open.spotify.com/artist/16r4uM9iMu5Td76JkbzpK3), [curtice](https://open.spotify.com/artist/5Gn6E1VcXkKRGLA5f9yoHq) | [HABLANDO EN PLATA](https://open.spotify.com/album/1GGvGYeFDNuixMdXPqOhCO) | 2:28 | 2025-05-29 | 2025-06-06 |
 | [Shine](https://open.spotify.com/track/4HMi638FQTI7Y5GY0X0jbu) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Shine](https://open.spotify.com/album/1l5sOt4PbRBxZjAB8vqZBg) | 3:33 | 2026-05-07 | 2026-05-15 |

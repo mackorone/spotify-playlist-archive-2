@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > La playlist del jazz italiano, passato e presente\. Cover: Carolina Bubbico
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,969 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,970 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 93 | [Tuareg](https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU) | [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0) | [La Strada Invisibile](https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD) | 4:48 |
 | 94 | [Samo](https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H) | [Emanuele Triglia](https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp), [Davide Savarese](https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf), [QWALE](https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh), [Francesco Fratini](https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB), [Vincenzo Lato](https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV) | [Moon Kin](https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm) | 2:36 |
 | 95 | [Cratere](https://open.spotify.com/track/3v04PkwVyrgZrnSTbwfDaq) | [Amalafede](https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0) | [Cratere](https://open.spotify.com/album/1ZohHIxPBGgFYNqWhRK4UD) | 3:43 |
-| 96 | [Rosa](https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah) | [Sade Mangiaracina](https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb) | [Le mie donne](https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY) | 3:56 |
-| 97 | [Vitamin C](https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Vitamin C](https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX) | 3:29 |
+| 96 | [Vitamin C](https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Vitamin C](https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX) | 3:29 |
+| 97 | [Rosa](https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah) | [Sade Mangiaracina](https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb) | [Le mie donne](https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY) | 3:56 |
 | 98 | [Hangover](https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Alchimia](https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po) | 3:45 |
 | 99 | [How Far Can You Fly? \(Ladder\) \- Original Version](https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t) | [Luca Flores](https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O) | [For Those I Never Knew](https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2) | 4:29 |
 | 100 | [Contigo Mi Vida](https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Contigo Mi Vida](https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1) | 4:09 |

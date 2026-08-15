@@ -2,9 +2,9 @@
 
 ### [Puro Suco do Brasil](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Som de Faculdade, Mari Fernandez
+> aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Grelo
 
-615 songs - 1 day 5 hr 30 min
+616 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Eu Gosto Assim \(Ao Vivo\)](https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO) | 2:28 | 2023-05-15 | 2024-03-23 |
 | [Eu Juro \- Ao Vivo](https://open.spotify.com/track/2AsWHNjFffTmBqdAS3lwyl) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:46 | 2024-04-19 | 2024-06-01 |
 | [Eu Me Apaixonei](https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Eu Me Apaixonei](https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA) | 3:25 | 2025-05-02 |  |
+| [Eu Me Apaixonei \(Bregadeira\)](https://open.spotify.com/track/1lynMVa4JcCtCQVC9bi8ib) | [DJ WF](https://open.spotify.com/artist/7axKJQe4DFW00ooZsahBAn), [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU), [Falcão dos Bailes](https://open.spotify.com/artist/6zwNQ2LWzOm8x0umuK056a) | [Eu Me Apaixonei \(Bregadeira\)](https://open.spotify.com/album/2P0lK4oH2O55OGahlJnvek) | 2:51 | 2026-08-14 |  |
 | [Eu Me Rendo \(feat\. Iguinho e Lulinha\)](https://open.spotify.com/track/37U1pieDm2xSUe8jbb3p6Z) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C) | [Eu Me Rendo](https://open.spotify.com/album/4Vtxu380WeNHfIZ2ryBQvb) | 2:57 | 2023-05-15 | 2023-08-26 |
 | [Eu sou Cantor Não Sou Bandido](https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT) | [Eu sou Cantor Não Sou Bandido](https://open.spotify.com/album/2hP5V6Xu71tHrg7bmlSS89) | 4:26 | 2024-10-22 | 2024-12-14 |
 | [Eu Só Quero Tu](https://open.spotify.com/track/07gyedLla60LsxCljcKCiv) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Ao After e Além](https://open.spotify.com/album/4Wev4HdGi9EVDWCg4GtdwI) | 2:34 | 2024-04-19 | 2024-06-14 |

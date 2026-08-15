@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unearthing music that makes life feel interesting, featuring saint clair",
+  "description": "unearthing music that makes life feel interesting, featuring ugly (uk)",
   "name": "melomania",
   "tracks": [
     {
@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Shock Corridor",
+        "url": "https://open.spotify.com/album/17gMcCILR3WdtxduhoSn98"
+      },
+      "artists": [
+        {
+          "name": "Shock Corridor",
+          "url": "https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262545,
+      "name": "Buster",
+      "url": "https://open.spotify.com/track/3aDbVibedUfG25q1PWD0Ay"
+    },
+    {
+      "album": {
         "name": "Call It Easy",
         "url": "https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1"
       },
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 198666,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/6oHLiMAN1cp8nlTNTKx1aG"
@@ -1774,6 +1792,28 @@
       "duration_ms": 247849,
       "name": "Cartography",
       "url": "https://open.spotify.com/track/0DcaDx6b5ycTUjIlWrfQmJ"
+    },
+    {
+      "album": {
+        "name": "Cat Piss Junkie (The Healing Power of Horses Both Have Flu Remix)",
+        "url": "https://open.spotify.com/album/3woR4VBx0EYaBudWMN9wOR"
+      },
+      "artists": [
+        {
+          "name": "TTSSFU",
+          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+        },
+        {
+          "name": "The Healing Power of Horses",
+          "url": "https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Cat Piss Junkie (The Healing Power of Horses Both Have Flu Remix)",
+      "url": "https://open.spotify.com/track/0uj9ZPU7ugZQizFWQZOwoS"
     },
     {
       "album": {
@@ -3738,7 +3778,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 262546,
       "name": "Frankie",
       "url": "https://open.spotify.com/track/47fMuVSN5yQozooX2Vd0J7"
@@ -4228,7 +4268,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 148600,
       "name": "Greeting",
       "url": "https://open.spotify.com/track/4CqCQwlWYqysAsuLtSQ716"
@@ -5010,7 +5050,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 249012,
       "name": "In The Mud",
       "url": "https://open.spotify.com/track/0QgXUHiGqSIuOerI1pCPpu"
@@ -5262,7 +5302,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 190066,
       "name": "Jakobo",
       "url": "https://open.spotify.com/track/4kzaF6qLuT76BDvXBbxcx9"
@@ -5388,7 +5428,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 173637,
       "name": "Joy",
       "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
@@ -5665,6 +5705,24 @@
     },
     {
       "album": {
+        "name": "Lay on Plastic Moment",
+        "url": "https://open.spotify.com/album/0jf6CKIbM42txOwkFOT9VB"
+      },
+      "artists": [
+        {
+          "name": "Starcleaner Reunion",
+          "url": "https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213186,
+      "name": "Lay on Plastic Moment",
+      "url": "https://open.spotify.com/track/6mOHiBCtC0EzimRRniKilA"
+    },
+    {
+      "album": {
         "name": "Lazy Dreams",
         "url": "https://open.spotify.com/album/1AfMfdbzcWXW4FW5zUkmwq"
       },
@@ -5810,6 +5868,24 @@
       "duration_ms": 246501,
       "name": "Light Over There",
       "url": "https://open.spotify.com/track/3WToaJeNig1j8gOFJMbjch"
+    },
+    {
+      "album": {
+        "name": "Lightspeed",
+        "url": "https://open.spotify.com/album/3jDNwiMlG1ANnNPCGispVz"
+      },
+      "artists": [
+        {
+          "name": "Spacestation",
+          "url": "https://open.spotify.com/artist/0tC0VODFMyQLqetgajNbbh"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/2niwAAhZV6Syj97ZHqSf3o"
     },
     {
       "album": {
@@ -6191,6 +6267,24 @@
     },
     {
       "album": {
+        "name": "Marina",
+        "url": "https://open.spotify.com/album/5fKoEJLEQGcSXrPxW3ST53"
+      },
+      "artists": [
+        {
+          "name": "Ugly (UK)",
+          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205307,
+      "name": "Marina",
+      "url": "https://open.spotify.com/track/2FVcKnDZFvkqiTmHgbp20p"
+    },
+    {
+      "album": {
         "name": "Massive Twenty One Pilots Tattoo",
         "url": "https://open.spotify.com/album/2P5drzZjD0ZJku6XHtqSe5"
       },
@@ -6238,7 +6332,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 177720,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1JyTISB7tyTTDBZIYL23ty"
@@ -6350,6 +6444,24 @@
       "duration_ms": 237997,
       "name": "Miss Together",
       "url": "https://open.spotify.com/track/3zE59ue2d81Hu4RshNXs5w"
+    },
+    {
+      "album": {
+        "name": "Mobius",
+        "url": "https://open.spotify.com/album/3RQ7m18RPPuKug2HMddNQf"
+      },
+      "artists": [
+        {
+          "name": "Cyn Cwsg",
+          "url": "https://open.spotify.com/artist/4PSt1bxIda2X0DPmPRSRNr"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Mobius",
+      "url": "https://open.spotify.com/track/4XmksppWPTP0mECUyuZlqn"
     },
     {
       "album": {
@@ -6634,7 +6746,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 189583,
       "name": "My House Divides",
       "url": "https://open.spotify.com/track/3aFrduOAwamwGOiyRkIP0T"
@@ -6724,7 +6836,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 92883,
       "name": "Name the Band",
       "url": "https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN"
@@ -6796,7 +6908,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 259591,
       "name": "Never Gonna Give",
       "url": "https://open.spotify.com/track/2FmKeSugXWcZMlhynAgONf"
@@ -6814,7 +6926,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 279408,
       "name": "Never Odd or Even",
       "url": "https://open.spotify.com/track/7foQVhKpHjuzZhT3CW42xw"
@@ -7164,6 +7276,24 @@
       "duration_ms": 173994,
       "name": "Oar",
       "url": "https://open.spotify.com/track/5siVDeXRKTbNH2x64jmAjD"
+    },
+    {
+      "album": {
+        "name": "OBL",
+        "url": "https://open.spotify.com/album/6aIKYDxZ3LColObdsIySuu"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244483,
+      "name": "OBL",
+      "url": "https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd"
     },
     {
       "album": {
@@ -8010,6 +8140,24 @@
       "duration_ms": 199493,
       "name": "Rivers Run Red",
       "url": "https://open.spotify.com/track/62UhV1TTMWqAKvoQHt8ClT"
+    },
+    {
+      "album": {
+        "name": "Rolling Face",
+        "url": "https://open.spotify.com/album/52q3EH4AOgwgDwxsuldg1H"
+      },
+      "artists": [
+        {
+          "name": "Adult DVD",
+          "url": "https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309005,
+      "name": "Rolling Face",
+      "url": "https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp"
     },
     {
       "album": {
@@ -9529,6 +9677,24 @@
     },
     {
       "album": {
+        "name": "teeth",
+        "url": "https://open.spotify.com/album/5elEt3QFQIfSZUEhIgd5aj"
+      },
+      "artists": [
+        {
+          "name": "green star",
+          "url": "https://open.spotify.com/artist/35CQyx6pBd8bt19LYBmVOe"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253990,
+      "name": "teeth",
+      "url": "https://open.spotify.com/track/3M0znkPqbu7s2h4V89FzD7"
+    },
+    {
+      "album": {
         "name": "Teething",
         "url": "https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl"
       },
@@ -9965,6 +10131,24 @@
     },
     {
       "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223219,
+      "name": "The Thing",
+      "url": "https://open.spotify.com/track/4SGm4VetizYYLjD3g1g4kI"
+    },
+    {
+      "album": {
         "name": "The View From Your Room",
         "url": "https://open.spotify.com/album/75z3cXY8WYibWTxiyhLV0d"
       },
@@ -10347,6 +10531,24 @@
     },
     {
       "album": {
+        "name": "Topaz",
+        "url": "https://open.spotify.com/album/1EuYfjBh8oYoTAKUevYuAg"
+      },
+      "artists": [
+        {
+          "name": "Dying 4",
+          "url": "https://open.spotify.com/artist/5BsY72eb3azYvmYzxFIcWU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239031,
+      "name": "Topaz",
+      "url": "https://open.spotify.com/track/3R9DihE7a7adJoHZBj1zCG"
+    },
+    {
+      "album": {
         "name": "TORMENTOR",
         "url": "https://open.spotify.com/album/2RqLDB8NYtRMd0MoALQzEc"
       },
@@ -10646,7 +10848,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 219180,
       "name": "Upstairs",
       "url": "https://open.spotify.com/track/6MqxX7EHryy2GT80oFmcc8"
@@ -11154,6 +11356,24 @@
       "duration_ms": 452329,
       "name": "Your New Place",
       "url": "https://open.spotify.com/track/27G7xkS9uc18t1FgTr89Pl"
+    },
+    {
+      "album": {
+        "name": "Yr Big Day",
+        "url": "https://open.spotify.com/album/0qYavbkx4FEo5hLnBaoJtV"
+      },
+      "artists": [
+        {
+          "name": "Why Horses?",
+          "url": "https://open.spotify.com/artist/1R0IeELEhgNJjMfuXPHYjy"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147770,
+      "name": "Yr Big Day",
+      "url": "https://open.spotify.com/track/2IDFkS8nFkqQOhULvsX1Qi"
     },
     {
       "album": {

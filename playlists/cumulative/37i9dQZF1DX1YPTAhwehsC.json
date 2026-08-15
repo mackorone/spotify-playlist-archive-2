@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 183040,
       "name": "A Different Kind",
       "url": "https://open.spotify.com/track/51ShulG74xn444wXEUT4tP"
@@ -1340,6 +1340,24 @@
       "duration_ms": 129032,
       "name": "A Man Free",
       "url": "https://open.spotify.com/track/0FuXPVjTdLeRZva6JIcYX4"
+    },
+    {
+      "album": {
+        "name": "A$$ Like That",
+        "url": "https://open.spotify.com/album/0jnHnKEIjQuuGhiGMfgGn1"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "A$$ Like That",
+      "url": "https://open.spotify.com/track/78QAuyJvdL8d47XHd9YJC9"
     },
     {
       "album": {
@@ -6320,7 +6338,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 191865,
       "name": "Bout My Money (feat. Bossman Dlow)",
       "url": "https://open.spotify.com/track/4HzMo8F6xAYOZGYy72CUjX"
@@ -9454,7 +9472,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 174000,
       "name": "Czariana Grande",
       "url": "https://open.spotify.com/track/6O1ktnjyhyTelvublN5wHy"
@@ -13593,6 +13611,28 @@
     },
     {
       "album": {
+        "name": "Fine (feat. Kyle Richh)",
+        "url": "https://open.spotify.com/album/2MuKZbf0TkWILo01rP2asf"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117111,
+      "name": "Fine (feat. Kyle Richh)",
+      "url": "https://open.spotify.com/track/78tYvq3qUChpt8GSsd1AcU"
+    },
+    {
+      "album": {
         "name": "Fine Art",
         "url": "https://open.spotify.com/album/4UsE00tIfhLuGrSYtBJSxf"
       },
@@ -14066,7 +14106,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 170126,
       "name": "Follow My Lead",
       "url": "https://open.spotify.com/track/4uE1MoBiCUYVnuv5ojCWJn"
@@ -16170,6 +16210,36 @@
       "duration_ms": 141221,
       "name": "Goer",
       "url": "https://open.spotify.com/track/1TDspUEbSqz5GgTlQjRItI"
+    },
+    {
+      "album": {
+        "name": "Goin Down",
+        "url": "https://open.spotify.com/album/08AyM8Pu79laPrFDci3T7Y"
+      },
+      "artists": [
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+        },
+        {
+          "name": "Kokane",
+          "url": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213034,
+      "name": "Goin Down",
+      "url": "https://open.spotify.com/track/72WJHJ1ktgtrOdDZZUSSGa"
     },
     {
       "album": {
@@ -33041,6 +33111,36 @@
     },
     {
       "album": {
+        "name": "BIANCA (Deluxe)",
+        "url": "https://open.spotify.com/album/0kle10LGeUeFCCEVyRZrrm"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Stunna Sandy",
+          "url": "https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177709,
+      "name": "ROLLIN - Remix",
+      "url": "https://open.spotify.com/track/67wx36cWIXy1dC9oWDEzxF"
+    },
+    {
+      "album": {
         "name": "Rollin in the Dope (feat. Zack)",
         "url": "https://open.spotify.com/album/2e9v7OITguQCCSz4DJu5JI"
       },
@@ -35921,6 +36021,24 @@
     },
     {
       "album": {
+        "name": "8 Shots",
+        "url": "https://open.spotify.com/album/0mbgu8AMvevYtB4eP6SNmY"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99869,
+      "name": "Speshal (Interlude)",
+      "url": "https://open.spotify.com/track/4064ZOM3nFvAxCdIq50NlM"
+    },
+    {
+      "album": {
         "name": "Spin Da Block",
         "url": "https://open.spotify.com/album/3Iw1M3dRUUN8VavLXNM3ra"
       },
@@ -37633,6 +37751,32 @@
     },
     {
       "album": {
+        "name": "Talk Ya Shit",
+        "url": "https://open.spotify.com/album/6HZxZK3PQu9AkCL8HOWFa4"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145483,
+      "name": "Talk Ya Shit",
+      "url": "https://open.spotify.com/track/4cD4hLdmLands2EQaBlvz8"
+    },
+    {
+      "album": {
         "name": "Tap Tap",
         "url": "https://open.spotify.com/album/52swSqelMVkCGr1YUwLb0b"
       },
@@ -38266,7 +38410,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 178648,
       "name": "The Main Line",
       "url": "https://open.spotify.com/track/7BrBJUSNar65p4N6TxFynI"

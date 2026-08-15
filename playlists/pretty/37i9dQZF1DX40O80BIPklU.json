@@ -1,12 +1,12 @@
 {
   "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Bardero$ en portada. ",
-  "num_followers": 338873,
+  "num_followers": 338875,
   "original_name": "Rap Champa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALHwtzE7V0tQG688xSsFCK/7JK54",
+  "snapshot_id": "AAAAAOe054hJZ+fKk8D8GF/DtCdmaKus",
   "tracks": [
     {
       "added_at": "2026-08-07 06:00:53",
@@ -31,6 +31,66 @@
       "duration_ms": 113818,
       "name": "Los Due\u00f1os Del Juego",
       "url": "https://open.spotify.com/track/36u7WoFgbenOCmCP4Tztun"
+    },
+    {
+      "added_at": "2026-08-14 23:40:30",
+      "album": {
+        "name": "G. Cat\u00e1n",
+        "url": "https://open.spotify.com/album/2yOHR3vwMZxt7MuQklWt7p"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 172688,
+      "name": "G. Cat\u00e1n",
+      "url": "https://open.spotify.com/track/1cnc9DZ57KLgAKa8jX4xMd"
+    },
+    {
+      "added_at": "2026-08-14 23:40:30",
+      "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Mi Barrio",
+      "url": "https://open.spotify.com/track/2rgmXUwVvGaW5cbodwyWBx"
+    },
+    {
+      "added_at": "2026-08-14 23:40:30",
+      "album": {
+        "name": "Mycelium",
+        "url": "https://open.spotify.com/album/01jrqHIN1YGjs01gOV6rcd"
+      },
+      "artists": [
+        {
+          "name": "Putolargo",
+          "url": "https://open.spotify.com/artist/3lP2GgJaO5TZJt8dE1WsSQ"
+        },
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Yabul\u00e9",
+          "url": "https://open.spotify.com/artist/5s0UiGPVJ2Ghj3ushukRNG"
+        }
+      ],
+      "duration_ms": 223038,
+      "name": "Mycelium",
+      "url": "https://open.spotify.com/track/7nlHRhd2tKaBEg0fZiR48j"
     },
     {
       "added_at": "2026-08-07 06:00:53",

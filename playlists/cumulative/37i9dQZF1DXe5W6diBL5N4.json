@@ -36826,6 +36826,28 @@
     {
       "album": {
         "name": "Breathe",
+        "url": "https://open.spotify.com/album/2cAcy9vfQkRYgYE91Cf6sS"
+      },
+      "artists": [
+        {
+          "name": "DONGHYEON",
+          "url": "https://open.spotify.com/artist/2cD1P3bmG4UKnTisya8XP4"
+        },
+        {
+          "name": "Etham",
+          "url": "https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0SEkwkcOzVkttfU4MCwnpe"
+    },
+    {
+      "album": {
+        "name": "Breathe",
         "url": "https://open.spotify.com/album/5x67xaXllpGzeAgXdSIs8Y"
       },
       "artists": [
@@ -208151,6 +208173,24 @@
     },
     {
       "album": {
+        "name": "ICY BABY",
+        "url": "https://open.spotify.com/album/31kYq6DtW2hNGHKwzQ9WC4"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208999,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/5HVThrpHFfjp0bPqyCdKku"
+    },
+    {
+      "album": {
         "name": "The 3rd Mini Album 'VarioUS'",
         "url": "https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt"
       },
@@ -229786,6 +229826,24 @@
       "duration_ms": 166612,
       "name": "SIGN",
       "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
+    },
+    {
+      "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/5nIJnbwvEWPrQaF29V3vMA"
+      },
+      "artists": [
+        {
+          "name": "KIM JI WOONG",
+          "url": "https://open.spotify.com/artist/5e51asJO6l5s7jEKKZfbxi"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/11KILXYKpU1uBlVZwCzbFj"
     },
     {
       "album": {

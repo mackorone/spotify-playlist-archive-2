@@ -3935,6 +3935,24 @@
     },
     {
       "album": {
+        "name": "Grounded",
+        "url": "https://open.spotify.com/album/6KgUC5fs5tQgczwuHPo11k"
+      },
+      "artists": [
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5UmEYm4kmCdoevPAMwiNEg"
+    },
+    {
+      "album": {
         "name": "H.A.D.",
         "url": "https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ"
       },
@@ -5134,7 +5152,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 308466,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/5bMem6seFRTk6amdhRA2Z4"

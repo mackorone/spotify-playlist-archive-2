@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Club Angel
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,990 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,988 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 9 | [Can't Fit In](https://open.spotify.com/track/2AYqs8XQ5fGMJZlAlunvRX) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Kingstarlight](https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx) | [Can't Fit In](https://open.spotify.com/album/5NPEOUKNNug2BHNTrqIlds) | 2:59 |
 | 10 | [After The Rain](https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Pure Devotion](https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2) | 3:15 |
 | 11 | [PUNCH](https://open.spotify.com/track/7gZss68Fd1NkvrQ1EfuJED) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa), [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET) | [PUNCH](https://open.spotify.com/album/2UlJwVj0Bn7l72zUyG41MG) | 4:17 |
-| 12 | [Track 1](https://open.spotify.com/track/0adMO7pIBsUeOSx2SJEbwq) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Heaven In The Dark](https://open.spotify.com/album/0py0wdchSkP1cArZUdyCOb) | 0:00 |
+| 12 | [Control Me](https://open.spotify.com/track/0adMO7pIBsUeOSx2SJEbwq) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Heaven In The Dark](https://open.spotify.com/album/0py0wdchSkP1cArZUdyCOb) | 3:16 |
 | 13 | [Isla Luna](https://open.spotify.com/track/5PO6hGMbKi3xN6yhC1cfY7) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Isla Luna](https://open.spotify.com/album/0J1XkjzDxM5SfgwpbktZmY) | 3:45 |
 | 14 | [The Dealer](https://open.spotify.com/track/1A6itbfxTgoGw4lAHoM5Aa) | [Jesse Bloch](https://open.spotify.com/artist/5wDknXKPbdkrxxmDKi7alc), [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [The Dealer](https://open.spotify.com/album/5PiDwJPM6NOnMGJbLgSvPT) | 3:17 |
 | 15 | [I Like It \- Spicy VIP](https://open.spotify.com/track/5vMsgLGHHbXqg7VSWjKkmU) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF) | [I Like It \(Spicy VIP\)](https://open.spotify.com/album/49jfPbXllpefl6HieCyqFR) | 2:24 |

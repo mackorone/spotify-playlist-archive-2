@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Trigga500k
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,376 likes - 80 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,406 likes - 80 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 5 | [2 SEATER \(ft\. ANYCIA\)](https://open.spotify.com/track/5BY0pykWVfDWGGdzgMFHRz) | [SMJ](https://open.spotify.com/artist/4pDtAjA47T0lTKu97HfNfq), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [PLEASURE TO MEET YOU](https://open.spotify.com/album/0HMvfaIszCVFyIYgivDFCE) | 2:24 |
 | 6 | [Macarena Bop](https://open.spotify.com/track/2SyehiQN3GQkKWh7Tkdg0b) | [mikeynyc](https://open.spotify.com/artist/6Fi5yIZ0Xe4kyyrd7PJyLc), [Jahballa](https://open.spotify.com/artist/2l8bwhHpm1KrfAa07Zh13s), [Ibu DaDon](https://open.spotify.com/artist/0cf817s85QhXDCSYUfcq2G) | [Macarena Bop](https://open.spotify.com/album/7plWYxBlxUqLngt23Lijdy) | 2:04 |
 | 7 | [AIT](https://open.spotify.com/track/6E9LKEHvz6u35qTRyF4sxt) | [Hood Tali](https://open.spotify.com/artist/3zE7bOr2rPmW2ZYzG9VZRN), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [AIT](https://open.spotify.com/album/4zIswRlOletijXUHo12pde) | 2:34 |
-| 8 | [RUSH](https://open.spotify.com/track/3uLSz6Mk0kmUXCAWlQ2inQ) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [RUSH](https://open.spotify.com/album/3epFZcX8cNZs0HT5UP8X8i) | 2:36 |
+| 8 | [FLY](https://open.spotify.com/track/5V4lacLcecyaGT76nCpuCm) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [FOREIGN STANDARD](https://open.spotify.com/album/3BxRMEjgQ4tvKCqEE2059k) | 2:19 |
 | 9 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
 | 10 | [No Bad Grades](https://open.spotify.com/track/2YXsOWn9HfF7VbahUPDLUA) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [No Bad Grades](https://open.spotify.com/album/5BPNYbrxnsSBnXZl9Zt9ey) | 1:51 |
 | 11 | [Lynn "On The Radar" Freestyle](https://open.spotify.com/track/0FyeR2X2M0WGRgvDAe0PS2) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Lynn](https://open.spotify.com/artist/3YGjCVq7bfP2wT3jzbaxab) | [Lynn "On The Radar" Freestyle](https://open.spotify.com/album/3jzR0CxTFML6r4Yv2gqQnr) | 1:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 79 | [Already Won](https://open.spotify.com/track/3Y4rc9iQUNsleOZUrgU3Oz) | [earthsignchels](https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu) | [Already Won](https://open.spotify.com/album/0yDOsdJdUml7Wlx2VVgTU8) | 1:36 |
 | 80 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 
-Snapshot ID: `AAAAAPQB0b2q9pcgHnS+b4eT20+YsbIo`
+Snapshot ID: `AAAAAI8HR+UywIw3zbnRa5rUtxHrAAuF`

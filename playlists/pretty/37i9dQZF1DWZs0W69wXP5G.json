@@ -1,12 +1,12 @@
 {
   "description": "Everything Broadway-adjacent. Cover:  Hamilton at the 2025 Tony Awards",
-  "num_followers": 19122,
+  "num_followers": 19128,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANg35hTONU5IYZvZLOapovytElPv",
+  "snapshot_id": "AAAAAAW1FEAGvGKO1nPuDO6ZXSgOw71C",
   "tracks": [
     {
       "added_at": "2026-08-05 04:29:56",
@@ -59,6 +59,22 @@
       "duration_ms": 276261,
       "name": "The HamilTEN Megamix - Live at the 2025 Tony Awards, Radio City Music Hall, New York City",
       "url": "https://open.spotify.com/track/5YQvytDCeMcWRgPxp1WCMU"
+    },
+    {
+      "added_at": "2026-08-14 04:00:08",
+      "album": {
+        "name": "Bein\u2019 Green",
+        "url": "https://open.spotify.com/album/13SwXrM9xSsndzWQWX21Rb"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 250515,
+      "name": "Bein\u2019 Green",
+      "url": "https://open.spotify.com/track/0bFDv9RwLd1KNfrkVhUy4g"
     },
     {
       "added_at": "2026-08-05 04:29:56",
@@ -205,7 +221,7 @@
       "artists": [
         {
           "name": "Richard Brown",
-          "url": "https://open.spotify.com/artist/4D57ApL3ZxruHW4hpWz7dT"
+          "url": "https://open.spotify.com/artist/0nluJgzF1Y21lkYHASXelo"
         },
         {
           "name": "Royal Philharmonic Orchestra",
@@ -1735,38 +1751,6 @@
       "duration_ms": 151191,
       "name": "No One Is Alone - From \"Good Trouble\"",
       "url": "https://open.spotify.com/track/5kxNp4IRdENMSh9HfzgZZl"
-    },
-    {
-      "added_at": "2026-08-05 04:29:56",
-      "album": {
-        "name": "DRAG: The Musical (The Studio Recording)",
-        "url": "https://open.spotify.com/album/6ozegwO34a67mkDh0gjZ6m"
-      },
-      "artists": [
-        {
-          "name": "Nick Adams",
-          "url": "https://open.spotify.com/artist/0HY3GE5ZIVvA76aObgPviV"
-        },
-        {
-          "name": "Max Von Essen",
-          "url": "https://open.spotify.com/artist/74YVw9S41bO4eb7Zd2Nsjv"
-        },
-        {
-          "name": "Mon\u00e9t X Change",
-          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
-        },
-        {
-          "name": "Divina De Campo",
-          "url": "https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9"
-        },
-        {
-          "name": "Lagoona Bloo",
-          "url": "https://open.spotify.com/artist/3XoIXXjhnjGVs1SqBsMrjp"
-        }
-      ],
-      "duration_ms": 236996,
-      "name": "Drag Is Expensive",
-      "url": "https://open.spotify.com/track/6dG6aRB6ldz3XgdCayRBx3"
     },
     {
       "added_at": "2026-08-05 04:29:56",

@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Overmono
+> The home for alternative electronic music\. Cover: DJ Jackum
 
 1,567 songs - 4 day 9 hr 41 min
 

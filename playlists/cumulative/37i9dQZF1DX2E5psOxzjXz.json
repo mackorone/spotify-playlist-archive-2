@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "AJNABI",
+        "url": "https://open.spotify.com/album/6nY200XJKhaJzT8RoLtWKs"
+      },
+      "artists": [
+        {
+          "name": "Haider Afzal",
+          "url": "https://open.spotify.com/artist/6QnDe2fRcWtXuEqp6wEjyM"
+        },
+        {
+          "name": "Shameer",
+          "url": "https://open.spotify.com/artist/2YOWil5rDregv3GVz4BFwi"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "AJNABI",
+      "url": "https://open.spotify.com/track/5ePj9XyvMQrBZUeWWszo1e"
+    },
+    {
+      "album": {
         "name": "SIXER",
         "url": "https://open.spotify.com/album/2a3XGSWu6eSquIaKlz3FRb"
       },
@@ -2000,6 +2022,28 @@
       "duration_ms": 188421,
       "name": "Dil Kay Isharay",
       "url": "https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU"
+    },
+    {
+      "album": {
+        "name": "Dil Ki Kahani",
+        "url": "https://open.spotify.com/album/2xXiFYrqq4MQC472yy7oE5"
+      },
+      "artists": [
+        {
+          "name": "Asad Naeem",
+          "url": "https://open.spotify.com/artist/0x0qbiFCy5b2U0jHWX0FeA"
+        },
+        {
+          "name": "The Hashtags",
+          "url": "https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256271,
+      "name": "Dil Ki Kahani",
+      "url": "https://open.spotify.com/track/143l3qpqhvfO7tqW4cEZQW"
     },
     {
       "album": {
@@ -6568,7 +6612,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 138883,
       "name": "Phantom Weight",
       "url": "https://open.spotify.com/track/6cAPQw7Pw5u46GOzmsWLnB"
@@ -7198,7 +7242,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 343533,
       "name": "Room Jhoom",
       "url": "https://open.spotify.com/track/4aLfmpfrf9RWnOSNj1dO5U"

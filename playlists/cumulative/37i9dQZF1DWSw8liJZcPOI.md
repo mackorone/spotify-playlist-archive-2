@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-679 songs - 1 day 22 hr 5 min
+680 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Pomegranate](https://open.spotify.com/track/2xDPJSFMb53Ym5HHGXuaJQ) | [Quarterly](https://open.spotify.com/artist/07FlzrUOQrnOrGf9aAp9km) | [Pomegranate](https://open.spotify.com/album/5dfUD4mVuuZbcSWBpqJLgz) | 2:37 | 2020-10-20\* | 2025-03-20 |
 | [Post String Theory \- Foam and Sand Rework](https://open.spotify.com/track/4UQCB1YLBTl8n1WeshtUq1) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Post String Theory \(Foam and Sand Rework\)](https://open.spotify.com/album/4LeYPputcKJqRtKx89XCdI) | 4:50 | 2022-07-15 | 2025-03-20 |
 | [Prelude to a Soul](https://open.spotify.com/track/32BlfIiOChEnxe7JoiIkYy) | [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr) | [Save Me Not](https://open.spotify.com/album/2SO9W0vx2L123tksH0rlrB) | 2:46 | 2026-02-06 | 2026-06-27 |
+| [Premonition](https://open.spotify.com/track/3u5bpam0KHaYTv8PVRQ4QL) | [Third Coast Percussion](https://open.spotify.com/artist/7aQZO27ByZmD9uWUgA1lJA), [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Premonition](https://open.spotify.com/album/2mt1X75CIR8teCKlHAIueX) | 4:47 | 2026-08-14 |  |
 | [Promise Of Sun](https://open.spotify.com/track/3d4uGAoWs2lm9LzLhq2K9n) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Echoes In The Valley](https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS) | 3:00 | 2021-10-31 |  |
 | [Puccini: Vissi d'Arte \- Olivia Belli Rework](https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Puccini: Vissi d'Arte \(Olivia Belli Rework\)](https://open.spotify.com/album/0u78EJFU0XwHHC3YN8aL3x) | 3:09 | 2024-11-29 | 2025-03-20 |
 | [Páthē](https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Páthē](https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9) | 5:41 | 2024-11-20 |  |
@@ -512,7 +513,7 @@
 | [Solina](https://open.spotify.com/track/2OoaNGKh2Z3vuINAJfMRzM) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Solina](https://open.spotify.com/album/2amQLghFA6rOkysx8B187Z) | 4:50 | 2025-11-20 |  |
 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-07-22 | 2023-02-18 |
 | [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 | 2023-02-17 | 2024-04-19 |
-| [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2020-10-23 |  |
+| [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2020-10-23 | 2026-08-15 |
 | [Solo? Repeat!](https://open.spotify.com/track/4rpuwusdTpMytfW6lbeqHe) | [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [Heliopause](https://open.spotify.com/album/3SZT7TfzSJaIdoHI8ttOBD) | 6:20 | 2021-02-06 | 2021-02-12 |
 | [Solomeo](https://open.spotify.com/track/1FWA5vw5kvSjnOPS1fPZTD) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Intercosmia Vol\. 1](https://open.spotify.com/album/3y5tT5o4of6SEyndkccXMI) | 3:34 | 2024-11-08 |  |
 | [Solun](https://open.spotify.com/track/08PNlrjeBSn4gpse2bHvMa) | [Neuhaus](https://open.spotify.com/artist/4jqFsKvoRVy323hdBsyO5d) | [Solun](https://open.spotify.com/album/72QN68cWkQCVFdSzqgdvHU) | 6:08 | 2020-11-06 | 2021-01-15 |

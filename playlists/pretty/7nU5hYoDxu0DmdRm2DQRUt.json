@@ -6,8 +6,44 @@
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAPaNS1I6D2k1ke/GqyCpsPHR1nCLc6",
+  "snapshot_id": "AAAPayPtSmWzRypLag/0wXIpTuBs9RYc",
   "tracks": [
+    {
+      "added_at": "2026-08-14 09:06:08",
+      "album": {
+        "name": "Sucker DJ",
+        "url": "https://open.spotify.com/album/5ORYiBNutBZm3WRXV9qE4m"
+      },
+      "artists": [
+        {
+          "name": "Kotai",
+          "url": "https://open.spotify.com/artist/0wcsSWrZGdSL6Da4g2NgA2"
+        },
+        {
+          "name": "Marcin Kozlowski",
+          "url": "https://open.spotify.com/artist/7hxxdAHXh5IkJ5ItDVEAMF"
+        }
+      ],
+      "duration_ms": 280155,
+      "name": "Sucker DJ - Marcin \"Highfish\" Kozlowski Remix",
+      "url": "https://open.spotify.com/track/6rAqicmRJuDBaPAAye5Xgs"
+    },
+    {
+      "added_at": "2026-08-14 09:06:30",
+      "album": {
+        "name": "Ever Changing EP",
+        "url": "https://open.spotify.com/album/6AtHrdIngrULzxxePoq88C"
+      },
+      "artists": [
+        {
+          "name": "Martinou",
+          "url": "https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp"
+        }
+      ],
+      "duration_ms": 450074,
+      "name": "Through You",
+      "url": "https://open.spotify.com/track/5m177lckVUY1AfMXFS9Lb5"
+    },
     {
       "added_at": "2026-07-28 09:00:37",
       "album": {

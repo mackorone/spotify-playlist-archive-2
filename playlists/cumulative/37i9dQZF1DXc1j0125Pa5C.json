@@ -487,6 +487,28 @@
     },
     {
       "album": {
+        "name": "Amor a tr\u00eas / Pele na pele / Rapidinha",
+        "url": "https://open.spotify.com/album/0DV2dwrUFMueIquSBhTxXQ"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00edncipe",
+          "url": "https://open.spotify.com/artist/2OCUMvnRrx5qIbjSwl8Tph"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448428,
+      "name": "Amor a tr\u00eas / Pele na pele / Rapidinha",
+      "url": "https://open.spotify.com/track/59FSeYi1GGaAhCLmQn3yEN"
+    },
+    {
+      "album": {
         "name": "Pagode DaPaz (Ao Vivo)",
         "url": "https://open.spotify.com/album/7hfhY7lryzSuA60O0M3ZUP"
       },

@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Matheus Fernandes
+> O melhor do sertanejo em uma só playlist! Foto: Pedro e Benício
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,082,032 likes - 39 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,082,071 likes - 39 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Só Com Ela \- Ao Vivo](https://open.spotify.com/track/7xWcfrgPKzAsksWYdiLpy3) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Só Com Ela \(Ao Vivo\)](https://open.spotify.com/album/10OaDrrBULIuRBRk35NAcD) | 2:48 |
-| 2 | [Eu Duvido \- Ao Vivo](https://open.spotify.com/track/0qJQD081gspDHC6xCKwMlB) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Deu Rolo No Barretão \(Verão\) \- Vol\. 02 \[Ao Vivo\]](https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW) | 2:50 |
-| 3 | [Lembrança Boa](https://open.spotify.com/track/34Kc1t0lNHHH0OYIvFCWFh) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Louca de Saudade](https://open.spotify.com/album/3F9jUoykqtz4OelTXFd2N5) | 2:13 |
+| 1 | [Lembrança Boa](https://open.spotify.com/track/34Kc1t0lNHHH0OYIvFCWFh) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Louca de Saudade](https://open.spotify.com/album/3F9jUoykqtz4OelTXFd2N5) | 2:13 |
+| 2 | [Só Com Ela \- Ao Vivo](https://open.spotify.com/track/7xWcfrgPKzAsksWYdiLpy3) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Só Com Ela \(Ao Vivo\)](https://open.spotify.com/album/10OaDrrBULIuRBRk35NAcD) | 2:48 |
+| 3 | [Eu Duvido \- Ao Vivo](https://open.spotify.com/track/0qJQD081gspDHC6xCKwMlB) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Deu Rolo No Barretão \(Verão\) \- Vol\. 02 \[Ao Vivo\]](https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW) | 2:50 |
 | 4 | [Cadeira Cativa \- Ao Vivo](https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Vocês & Deus, Vol\. 1 \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB) | 2:40 |
 | 5 | [Peão Todo Tatuado](https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ) | [Jeninho](https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os), [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Peão Todo Tatuado](https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL) | 2:13 |
 | 6 | [Eu Te Seguro \- Ao Vivo](https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Eu Te Seguro \(Ao Vivo\)](https://open.spotify.com/album/0BiJgzu0T1SJFR5ltwzsUg) | 2:28 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 38 | [Baqueado \- Ao Vivo](https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação \(Ao Vivo\)](https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC) | 2:26 |
 | 39 | [Caos De Alguém \- Ao Vivo](https://open.spotify.com/track/2zxgWjSwtiMOz5xx3m2rr4) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Caos De Alguém \(Ao Vivo\)](https://open.spotify.com/album/1YUSSTubZOirrPOnGpt7gf) | 2:34 |
 
-Snapshot ID: `AAAAAL0Z+r73XvjvUkmLqqsvMdOFL908`
+Snapshot ID: `AAAAACh79ypfrTJKaSUmoVenjc54Q+yi`

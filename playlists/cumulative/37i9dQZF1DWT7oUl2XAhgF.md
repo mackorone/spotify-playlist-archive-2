@@ -2,16 +2,16 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Jalen Ngonda
+> A new take on a classic sound\. Cover: The Womack Sisters
 
-612 songs - 1 day 12 hr 43 min
+614 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [365 Flavors](https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [365 Flavors](https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h) | 3:58 | 2026-03-27 |  |
 | [3AM in Chicago](https://open.spotify.com/track/4PqjlKTXoRBJwHCwy0OHtQ) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Little Black Flies](https://open.spotify.com/album/3IELDMdo0nbuzRSduoXYwJ) | 3:36 | 2021-07-09 | 2022-07-02 |
 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2022-01-07 | 2023-08-05 |
-| [A Brighter Shade](https://open.spotify.com/track/1Y6JoaALDAviBBdIN2qMkO) | [Carlton Jumel Smith & The Soul Seeders](https://open.spotify.com/artist/3dU0eCKPKXUmeDunWr3Ha7), [The Soul Seeders](https://open.spotify.com/artist/5Jvo8R85gGbk3XUkh883as), [Carlton Jumel Smith](https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy) | [A Brighter Shade](https://open.spotify.com/album/3ooZ8HrlEgtGLv6zW9QpUt) | 3:26 | 2024-09-06 |  |
+| [A Brighter Shade](https://open.spotify.com/track/1Y6JoaALDAviBBdIN2qMkO) | [Carlton Jumel Smith & The Soul Seeders](https://open.spotify.com/artist/3dU0eCKPKXUmeDunWr3Ha7), [The Soul Seeders](https://open.spotify.com/artist/5Jvo8R85gGbk3XUkh883as), [Carlton Jumel Smith](https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy) | [A Brighter Shade](https://open.spotify.com/album/3ooZ8HrlEgtGLv6zW9QpUt) | 3:26 | 2024-09-06 | 2026-08-15 |
 | [A Little Honey](https://open.spotify.com/track/1q5wF1wZQD41ura41yVqXb) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:10 | 2021-07-09 | 2023-07-08 |
 | [A Sure Thing](https://open.spotify.com/track/7sgGc43aVzyGEZjMjrFrOa) | [The James Hunter Six](https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp) | [A Sure Thing](https://open.spotify.com/album/3ENTuMG3st1rHTaySlXTBl) | 2:57 | 2025-09-12 |  |
 | [About Love](https://open.spotify.com/track/1MzIUuIxjrfUIlwFytoIok) | [The Soultrend Orchestra](https://open.spotify.com/artist/2ZCDrnzQpD9Xp5g2n2esnV), [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Alan Scaffardi](https://open.spotify.com/artist/77K1Ud04no7BEcBvPbeXMg) | [Live For Funk](https://open.spotify.com/album/10naG4dQ2r6SjjWPcEPFgR) | 3:56 | 2022-04-29 | 2024-03-23 |
@@ -116,6 +116,7 @@
 | [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 | 2026-03-06 | 2026-04-18 |
 | [Doing The Thing](https://open.spotify.com/track/2bWioVam86EwJCz6vdqNpt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Doing The Thing](https://open.spotify.com/album/4PVSeMBGgX6t48ec7HFvYY) | 3:30 | 2024-05-10 | 2024-06-08 |
 | [Don't Be Afraid](https://open.spotify.com/track/6BT17vBMR1gXKziGubn3Vy) | [Mike Gronsky](https://open.spotify.com/artist/2f5oy3dEmuvQzfZ85FD0TM) | [Don't Be Afraid](https://open.spotify.com/album/7sB0s1sUqsvo2vwMtx7TRW) | 4:13 | 2022-09-23 | 2022-10-08 |
+| [Don't Forget Me Love](https://open.spotify.com/track/5w6D9LGVGO28IZNgWlnzct) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Don't Forget Me Love b/w Sing Your Song](https://open.spotify.com/album/11ObGaJpyisLzOdTKkbM8M) | 2:56 | 2026-08-14 |  |
 | [Don't Knock Upon My Door](https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Don't Knock Upon My Door](https://open.spotify.com/album/3InwC9hMPRDF1MRvAKZGBy) | 3:06 | 2023-06-30 | 2023-07-22 |
 | [Don't Like You Anymore](https://open.spotify.com/track/5BzJfr2NjusEUbM9QYFsz0) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Don't Like You Anymore](https://open.spotify.com/album/0EMJkza4q3dnX8fBiBQtMt) | 3:05 | 2025-02-07 | 2025-05-17 |
 | [Don't Stop](https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Gold](https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r) | 2:42 | 2021-07-09 | 2022-10-13 |
@@ -342,6 +343,7 @@
 | [Miss Strut](https://open.spotify.com/track/2jdi8zHvx1crcnIy049p78) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Miss Strut](https://open.spotify.com/album/1RsS0tnVbAeiNuJHClpGDc) | 2:41 | 2024-09-06 | 2024-09-21 |
 | [Mom Of Mine](https://open.spotify.com/track/3mc5EOf4tjQpmVG7ZFsWyv) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Mom Of Mine](https://open.spotify.com/album/3yLcGl1XWkFgvyxos4d0iN) | 3:07 | 2024-05-10 | 2025-11-15 |
 | [Momma Earth](https://open.spotify.com/track/0uFCJosTOS3pPDImbWhdpT) | [Carly Pearl](https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn) | [Momma Earth](https://open.spotify.com/album/58Lye0z0I1uOJI0mdSkL4z) | 2:52 | 2025-03-14 |  |
+| [Monster](https://open.spotify.com/track/6tzbQbRtXWqwqkB0U8cm6v) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [Monster](https://open.spotify.com/album/1vNUWfYp45LE3wXi0zxLvi) | 3:39 | 2026-08-14 |  |
 | [More Than Any Thing](https://open.spotify.com/track/78gyP9y53GpfTEN8ES0OmV) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [ILU](https://open.spotify.com/album/1ecTN40b1IGLg5r71flFfP) | 3:28 | 2025-09-19 |  |
 | [More To Learn](https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [More To Learn](https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2) | 4:30 | 2022-03-04 | 2024-03-30 |
 | [Morning Sun](https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 3:59 | 2022-11-11 | 2023-08-19 |
@@ -541,7 +543,7 @@
 | [Together](https://open.spotify.com/track/196CykfquyUe0B4zGkG2GZ) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Together](https://open.spotify.com/album/4nd5WNhqkFX7CWuJbS2Hpq) | 3:19 | 2025-10-03 | 2026-05-02 |
 | [Together](https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Shades of Yesterday](https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU) | 2:42 | 2024-02-09 | 2025-08-31 |
 | [Togetherness](https://open.spotify.com/track/4WiET88jkeGbxkxcFvf4m2) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Togetherness](https://open.spotify.com/album/1j37VGRtRJq8ygKuhtoRkX) | 3:24 | 2024-08-16 | 2025-05-24 |
-| [Too Late](https://open.spotify.com/track/18zkFoB4z8Tlo9JpGhy12M) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Too Late](https://open.spotify.com/album/3PjN3kcgqMQQGq4nz19JVW) | 4:17 | 2024-08-30 |  |
+| [Too Late](https://open.spotify.com/track/18zkFoB4z8Tlo9JpGhy12M) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Too Late](https://open.spotify.com/album/3PjN3kcgqMQQGq4nz19JVW) | 4:17 | 2024-08-30 | 2026-08-15 |
 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:44 | 2023-08-18 | 2024-04-19 |
 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 | 2023-08-18 | 2025-04-12 |
 | [Tough Love](https://open.spotify.com/track/5bHUq1YnLxcF8LWjnvFUVp) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [Tough Love](https://open.spotify.com/album/3xbBmtxnDlNKYSFyyvlCHe) | 4:17 | 2024-05-24 | 2024-10-05 |

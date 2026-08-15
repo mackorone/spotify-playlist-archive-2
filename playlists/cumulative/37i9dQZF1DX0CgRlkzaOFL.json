@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "Ask me why (II)",
+        "url": "https://open.spotify.com/album/69Ikb0v1pjo7gTVCS7ZNcL"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Ask me why (II)",
+      "url": "https://open.spotify.com/track/6AUhHAA53ONVL8SlgNPKgA"
+    },
+    {
+      "album": {
         "name": "The Boy and the Heron - Original Soundtrack",
         "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
       },

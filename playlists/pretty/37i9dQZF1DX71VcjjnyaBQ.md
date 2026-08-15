@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,909 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,917 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 65 | [Wives and Lovers](https://open.spotify.com/track/2zMAv2fbK97p22b5XjaHe5) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Wives and Lovers](https://open.spotify.com/album/7wsAtwFtf7qM8N1WjzGRjn) | 4:45 |
 | 66 | [Santa Fe Peanut Co.](https://open.spotify.com/track/4bc7tN8lGDAxpMRSkbipPs) | [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj), [Joy Guerrilla](https://open.spotify.com/artist/1wKZCBliNvp21MffTj35TE) | [Wavelength](https://open.spotify.com/album/014eKfZ7OMIMIU4ut3gfvG) | 2:32 |
 | 67 | [Love is Here to Stay](https://open.spotify.com/track/6Qo4EBgX0OiqF0IwcYLG3u) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Love is Here to Stay](https://open.spotify.com/album/2efrZonDqIQIthIzmDzUJs) | 4:50 |
-| 68 | [Very Early](https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 5:04 |
-| 69 | [First Day](https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s) | [James Kitchman](https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW), [Bruno Heinen](https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7), [Tom McCredie](https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s), [Shane Forbes](https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB) | [First Quartet](https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ) | 4:50 |
-| 70 | [All of the Sun](https://open.spotify.com/track/1zdPIpzhWLiXI6OYok4kEx) | [Ola Åkerman](https://open.spotify.com/artist/4xSDpqru7PNSifJZNSctYd), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [All of the Sun](https://open.spotify.com/album/3GCfATaAMWtUTJww65AhlU) | 5:01 |
+| 68 | [All of the Sun](https://open.spotify.com/track/1zdPIpzhWLiXI6OYok4kEx) | [Ola Åkerman](https://open.spotify.com/artist/4xSDpqru7PNSifJZNSctYd), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [All of the Sun](https://open.spotify.com/album/3GCfATaAMWtUTJww65AhlU) | 5:01 |
+| 69 | [Very Early](https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 5:04 |
+| 70 | [First Day](https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s) | [James Kitchman](https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW), [Bruno Heinen](https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7), [Tom McCredie](https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s), [Shane Forbes](https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB) | [First Quartet](https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ) | 4:50 |
 | 71 | [Epiphany](https://open.spotify.com/track/27SJ1u5fP52xLjPYGH0Ogt) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [Epiphany](https://open.spotify.com/album/5WiF17p09CHWY9qzBa2hNT) | 3:33 |
 | 72 | [Hopeful Morning](https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Where Will the River Flow](https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf) | 5:34 |
 | 73 | [Spring of Life](https://open.spotify.com/track/3nUUfXsd26KdFoBmw8swNW) | [Daniel García](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Spring of Life](https://open.spotify.com/album/5X4sm4vwBez9dc90iX0cy3) | 3:35 |

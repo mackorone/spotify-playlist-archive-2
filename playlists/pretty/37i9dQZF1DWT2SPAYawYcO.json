@@ -1,13 +1,29 @@
 {
-  "description": "Brand new music from Peking Duk, Phoebe Bridgers, KATSEYE, Jungle, Wade Forster + more",
-  "num_followers": 457480,
+  "description": "Brand new music from Peking Duk, Troye Sivan, Phoebe Bridgers, KATSEYE, Jungle, Wade Forster + more",
+  "num_followers": 457808,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD6xH5PQObeDyyBuk3UAWlzoulQJ",
+  "snapshot_id": "AAAAALBOKcDbLTFYHnRTS3UUaZJSSuvu",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:02:12",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
+    },
     {
       "added_at": "2026-08-13 14:00:37",
       "album": {
@@ -119,6 +135,22 @@
       "duration_ms": 160249,
       "name": "Promise",
       "url": "https://open.spotify.com/track/7xia6ZCAVUJv33LvFpcLig"
+    },
+    {
+      "added_at": "2026-08-14 04:02:12",
+      "album": {
+        "name": "Trance (Walk It Down)",
+        "url": "https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 161609,
+      "name": "Trance (Walk It Down)",
+      "url": "https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw"
     },
     {
       "added_at": "2026-08-13 14:00:37",
@@ -244,8 +276,8 @@
           "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 174885,
+      "name": "always",
       "url": "https://open.spotify.com/track/2lTmsSA87P0VgUhFEwvBTQ"
     },
     {
@@ -279,6 +311,22 @@
       "duration_ms": 184127,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4uLKd6iYApWAeUHUBtpB6S"
+    },
+    {
+      "added_at": "2026-08-14 04:02:12",
+      "album": {
+        "name": "I Lied, You Lied",
+        "url": "https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 203192,
+      "name": "I Lied, You Lied",
+      "url": "https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT"
     },
     {
       "added_at": "2026-08-13 14:00:37",
@@ -367,6 +415,22 @@
       "duration_ms": 224571,
       "name": "Til Death",
       "url": "https://open.spotify.com/track/209B6ePlgrgUhErO5mnTcl"
+    },
+    {
+      "added_at": "2026-08-13 14:00:37",
+      "album": {
+        "name": "Katy Bar the Door / Living Undercover",
+        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 205202,
+      "name": "Katy Bar the Door",
+      "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
     },
     {
       "added_at": "2026-08-13 14:00:37",
@@ -569,6 +633,26 @@
       "url": "https://open.spotify.com/track/2TjPB2mMfxORhUkJYJ9rj8"
     },
     {
+      "added_at": "2026-08-14 04:02:12",
+      "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/1Q548wgBsC8CsA27DURe1G"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/0547MWFbVf9ykU6T7LMbCD"
+    },
+    {
       "added_at": "2026-08-13 14:00:37",
       "album": {
         "name": "Bloodhorse!",
@@ -583,6 +667,46 @@
       "duration_ms": 208000,
       "name": "Bloodhorse!",
       "url": "https://open.spotify.com/track/6kSy3HLSJxQSFyUFKeVK7U"
+    },
+    {
+      "added_at": "2026-08-14 04:02:12",
+      "album": {
+        "name": "PROLIFIC",
+        "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 228874,
+      "name": "500 Horses",
+      "url": "https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ"
+    },
+    {
+      "added_at": "2026-08-13 14:00:37",
+      "album": {
+        "name": "ANGEL",
+        "url": "https://open.spotify.com/album/32GVvqbn3IO1K3e4ehpbh1"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/6EWz01NLmUigFEz98Ek5qR"
     },
     {
       "added_at": "2026-08-13 14:00:37",
@@ -716,8 +840,8 @@
           "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
         },
         {
-          "name": "UNITUS",
-          "url": "https://open.spotify.com/artist/2QAxZFZWNV7vALoGvjKYuF"
+          "name": "Unitus",
+          "url": "https://open.spotify.com/artist/4i2MeDBaCWuskZDgkCVAlS"
         },
         {
           "name": "Sir Untre",
@@ -827,6 +951,22 @@
     {
       "added_at": "2026-08-13 14:00:37",
       "album": {
+        "name": "Shoes",
+        "url": "https://open.spotify.com/album/6F4P97Iak39OMIpH0kwvs1"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "duration_ms": 189183,
+      "name": "Shoes",
+      "url": "https://open.spotify.com/track/4YvEgMDAoB4in0hjFu3any"
+    },
+    {
+      "added_at": "2026-08-13 14:00:37",
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/1vNUWfYp45LE3wXi0zxLvi"
       },
@@ -872,8 +1012,8 @@
           "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 196643,
+      "name": "Control Me",
       "url": "https://open.spotify.com/track/0adMO7pIBsUeOSx2SJEbwq"
     },
     {
@@ -1011,6 +1151,22 @@
       "duration_ms": 162657,
       "name": "Boeing 4 One",
       "url": "https://open.spotify.com/track/5BsqDSii4iFaUlmnnkGvlK"
+    },
+    {
+      "added_at": "2026-08-13 14:00:37",
+      "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/2eZbf51oMa3TKOcx2n3bMu"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "duration_ms": 103306,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/413pM0wBJH35B542tx3Q8l"
     },
     {
       "added_at": "2026-08-13 14:00:37",

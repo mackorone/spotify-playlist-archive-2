@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 658354,
+  "num_followers": 659117,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAADBmDtiu+l6MwYEoqdCYISw",
+  "snapshot_id": "an0JAAAAAAB/p9PRET7KcW96mxV97fqJ",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 170434,
-      "name": "Cross My Mind",
-      "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
+      "duration_ms": 154106,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/60Chx5sZxkUrADNOKaRU7h"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 154106,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/60Chx5sZxkUrADNOKaRU7h"
+      "duration_ms": 170434,
+      "name": "Cross My Mind",
+      "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Am I Gonna Do On Sundays?",
-        "url": "https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "What Am I Gonna Do On Sundays?",
-      "url": "https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Harder They Come (From The Original BBC Series \"This Town\")",
         "url": "https://open.spotify.com/album/6hS6AEXgB9opXrL6bLnkA3"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 229480,
       "name": "The Harder They Come - From The Original BBC Series \"This Town\"",
       "url": "https://open.spotify.com/track/0MSjS42GIlJQMHB7igvIIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Am I Gonna Do On Sundays?",
+        "url": "https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "What Am I Gonna Do On Sundays?",
+      "url": "https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF"
     },
     {
       "added_at": null,

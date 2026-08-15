@@ -1,13 +1,93 @@
 {
-  "description": "Way Dynamic <3",
-  "num_followers": 147675,
+  "description": "now all I know is the ending",
+  "num_followers": 147997,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPMS5rDKsG0St7lMf8Af7O2KGC0L",
+  "snapshot_id": "AAAAAMB9eMKig59aeDohiJQ+1snWgs5n",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 281544,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 251335,
+      "name": "Honeydew",
+      "url": "https://open.spotify.com/track/1o656MCao56taI8DPKW4HD"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "I-40",
+        "url": "https://open.spotify.com/album/5Cbhorm19BqHu78wRuLjVD"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 234194,
+      "name": "I-40",
+      "url": "https://open.spotify.com/track/7LmMHENSDglEpVEySzwz1y"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "In My Gut",
+        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 172596,
+      "name": "In My Gut",
+      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
+    },
     {
       "added_at": "2026-08-12 13:17:51",
       "album": {
@@ -25,36 +105,36 @@
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
-      "added_at": "2026-08-12 13:17:51",
+      "added_at": "2026-07-24 04:01:51",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/18LbowdBwEYPyoHEBmkfp0"
+        "name": "Impossible Truth",
+        "url": "https://open.spotify.com/album/3FCSOToSQuswDNHouEGrRA"
       },
       "artists": [
         {
-          "name": "June McDoom",
-          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
         }
       ],
-      "duration_ms": 267560,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4SiojdReG8nXplUNGWSYN3"
+      "duration_ms": 240173,
+      "name": "Impossible Truth",
+      "url": "https://open.spotify.com/track/7hmnBBQ95Q59UxDDiyVQTR"
     },
     {
-      "added_at": "2026-08-07 04:00:10",
+      "added_at": "2026-08-14 04:01:50",
       "album": {
-        "name": "Officially",
-        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+        "name": "Welterweight",
+        "url": "https://open.spotify.com/album/00Kk1SZ8ML7FYVGNnHVMPw"
       },
       "artists": [
         {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+          "name": "Hank Heaven",
+          "url": "https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf"
         }
       ],
-      "duration_ms": 205144,
-      "name": "Officially",
-      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
+      "duration_ms": 148196,
+      "name": "Daddy's Gonna Buy You a Car",
+      "url": "https://open.spotify.com/track/5euyasUWQNPf0uwQshxMv5"
     },
     {
       "added_at": "2026-08-07 04:00:10",
@@ -75,22 +155,6 @@
     {
       "added_at": "2026-07-24 04:01:51",
       "album": {
-        "name": "Impossible Truth",
-        "url": "https://open.spotify.com/album/3FCSOToSQuswDNHouEGrRA"
-      },
-      "artists": [
-        {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "Impossible Truth",
-      "url": "https://open.spotify.com/track/7hmnBBQ95Q59UxDDiyVQTR"
-    },
-    {
-      "added_at": "2026-07-24 04:01:51",
-      "album": {
         "name": "The light in the painting",
         "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
       },
@@ -103,6 +167,22 @@
       "duration_ms": 224595,
       "name": "The light in the painting",
       "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 236205,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
     },
     {
       "added_at": "2026-08-07 04:00:10",
@@ -119,6 +199,70 @@
       "duration_ms": 242160,
       "name": "Prettiest Girl in the World",
       "url": "https://open.spotify.com/track/3btySdKZS9xbwMRaGQ3MlA"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "Big World",
+        "url": "https://open.spotify.com/album/7FxTrIkmdXRF14Pmp71ezy"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "What I Had",
+      "url": "https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "Three Reds",
+        "url": "https://open.spotify.com/album/1TORmjib416bF532Zsd0rL"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Three Reds",
+      "url": "https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/3wW0Ae8NwfwrKHTtrpgBh5"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 340173,
+      "name": "Hammond Song",
+      "url": "https://open.spotify.com/track/2aR3Hs6ioznnfBaI1rArDi"
+    },
+    {
+      "added_at": "2026-08-12 13:17:51",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/18LbowdBwEYPyoHEBmkfp0"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4SiojdReG8nXplUNGWSYN3"
     },
     {
       "added_at": "2026-07-10 13:42:43",
@@ -189,6 +333,22 @@
       "url": "https://open.spotify.com/track/15gbrNPteUKN5gNuoRnhY2"
     },
     {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "Brace for Impact",
+        "url": "https://open.spotify.com/album/5lFVhnQha0G8jPBMxLGrdZ"
+      },
+      "artists": [
+        {
+          "name": "yeemz",
+          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
+        }
+      ],
+      "duration_ms": 171085,
+      "name": "Brace for Impact",
+      "url": "https://open.spotify.com/track/4m5h9O9nUCg5njX8tC344q"
+    },
+    {
       "added_at": "2026-08-11 13:48:10",
       "album": {
         "name": "Sterling Point (Prime Original Series Soundtrack)",
@@ -203,6 +363,22 @@
       "duration_ms": 175752,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2BwHHutoVzEoyTmsK5n6xa"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "Homes on the Hill",
+        "url": "https://open.spotify.com/album/4hkXGVtZNE9edFCMrwuPuw"
+      },
+      "artists": [
+        {
+          "name": "vern matz",
+          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "The Best Possible World, Pt. 1",
+      "url": "https://open.spotify.com/track/5KsAEJknSjIlLoB9tASGkf"
     },
     {
       "added_at": "2026-07-24 04:01:51",
@@ -1939,182 +2115,6 @@
       "duration_ms": 133333,
       "name": "Stranger In You",
       "url": "https://open.spotify.com/track/0u1xjU4iiZYgChkqGfIp1y"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "You're Right",
-        "url": "https://open.spotify.com/album/4tNyCZlcp83pxK5ktfTx5Q"
-      },
-      "artists": [
-        {
-          "name": "Emma Harner",
-          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
-        }
-      ],
-      "duration_ms": 180128,
-      "name": "You're Right",
-      "url": "https://open.spotify.com/track/4UEjz6lD71GweiK1BXpUYC"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "My Angel",
-        "url": "https://open.spotify.com/album/6Y45MFRuiNCeHDybUsvm8F"
-      },
-      "artists": [
-        {
-          "name": "Beatrix",
-          "url": "https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh"
-        }
-      ],
-      "duration_ms": 318260,
-      "name": "My Angel",
-      "url": "https://open.spotify.com/track/3y8Qy6oBLaxl02VnOK6SPx"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "For Then",
-        "url": "https://open.spotify.com/album/2NdArO2qIfFZbgSl8Vgeiq"
-      },
-      "artists": [
-        {
-          "name": "Ullah",
-          "url": "https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP"
-        }
-      ],
-      "duration_ms": 146649,
-      "name": "How to Dance Pt.2",
-      "url": "https://open.spotify.com/track/1kHwK0eJjFkP1Ytp4EZBYb"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "nice try!",
-        "url": "https://open.spotify.com/album/5frNejcYLNOqI1DbjvEdCd"
-      },
-      "artists": [
-        {
-          "name": "mer marcum",
-          "url": "https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN"
-        }
-      ],
-      "duration_ms": 184856,
-      "name": "nice try!",
-      "url": "https://open.spotify.com/track/3lzu3gCIyIaDujmfCmJLTm"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Fade Into You",
-        "url": "https://open.spotify.com/album/3OhxqEbjIOkIWYYTH4YMnI"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/5EZhwA15HWLC7UlQ9nuo0L"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "butterflies",
-        "url": "https://open.spotify.com/album/12qM2XNUl5g1mhhNrrpIey"
-      },
-      "artists": [
-        {
-          "name": "runo plum",
-          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
-        }
-      ],
-      "duration_ms": 168078,
-      "name": "butterflies",
-      "url": "https://open.spotify.com/track/52w9vFDgebB8OxdYL1BK1t"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "A Rush To Nowhere",
-        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "Heads or Tails",
-      "url": "https://open.spotify.com/track/2rDDUExNfV2NddrtJCPdBb"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "My Maker",
-        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 259842,
-      "name": "My Maker",
-      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Time of Fallow",
-        "url": "https://open.spotify.com/album/5iAURosKLz2YhEUDdzSG0U"
-      },
-      "artists": [
-        {
-          "name": "Ellie O'Neill",
-          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
-        }
-      ],
-      "duration_ms": 234887,
-      "name": "Silent Water",
-      "url": "https://open.spotify.com/track/1K8acHNZSeht0WfkJIex9B"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "No Dogs Allowed",
-        "url": "https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg"
-      },
-      "artists": [
-        {
-          "name": "Sidney Gish",
-          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
-        }
-      ],
-      "duration_ms": 294260,
-      "name": "Impostor Syndrome",
-      "url": "https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "blackout",
-        "url": "https://open.spotify.com/album/3gRu77mh76AtUG8xH6HWL8"
-      },
-      "artists": [
-        {
-          "name": "Khatumu",
-          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
-        }
-      ],
-      "duration_ms": 173009,
-      "name": "blackout",
-      "url": "https://open.spotify.com/track/6mY1s0I7DLrZGfkNnKHPbx"
     }
   ],
   "unique_name": "juniper",

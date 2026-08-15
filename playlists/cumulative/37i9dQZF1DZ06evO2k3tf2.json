@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "More Than We Ever Imagined (Live in Mexico City)",
+        "url": "https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422080,
+      "name": "Nico/Heavydirtysoul - Live in Mexico City",
+      "url": "https://open.spotify.com/track/7EoHimXt4xsKlCbmlfe346"
+    },
+    {
+      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },

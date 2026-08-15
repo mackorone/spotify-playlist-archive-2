@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-538 songs - 1 day 7 hr 20 min
+541 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [AntiSystem's \(feat\. Ado\)](https://open.spotify.com/track/3ixFouonAtRdwg4FiVN9z9) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [AntiSystem's](https://open.spotify.com/album/5rLvwX10c9pwbRqzoqenCC) | 3:31 | 2024-04-06 |  |
 | [Aoi, Koi, Daidaiiro No Hi](https://open.spotify.com/track/5S8jc9sCle880PjbwnEzsY) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [World Is Yours](https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn) | 4:42 | 2025-09-10 |  |
 | [Après Midi あるパリの午後で](https://open.spotify.com/track/1NzZbipnZxnXkQiMvBqF1O) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Après Midi あるパリの午後で](https://open.spotify.com/album/6fz8W3GN3EelNG8EKo19Jk) | 5:21 | 2025-09-07 | 2026-02-13 |
+| [Aster](https://open.spotify.com/track/1I6TrS3GxQDnDzf479mYW0) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [NeoDreamTraveler](https://open.spotify.com/album/36VBZ7w53MCsXPfh3fyQdz) | 3:50 | 2026-08-14 |  |
 | [Au Revoir](https://open.spotify.com/track/2iFF3KireK1QxkCvUVJaQv) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Merveilles](https://open.spotify.com/album/32OKDgdDPz4zLf3FY6Fhxj) | 4:52 | 2025-09-17 | 2026-02-13 |
 | [BABEL](https://open.spotify.com/track/4VNkg0ZrOZmmaLZhwwgnRL) | [Femme Fatale](https://open.spotify.com/artist/1Xx67XOeAxqfb5CUbaugg5) | [ARCANA](https://open.spotify.com/album/4AevWRFRi6OOeck4wDOL80) | 3:51 | 2026-04-07 |  |
 | [Bad ∞ End ∞ Night](https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [After the partY](https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw) | 4:08 | 2021-01-13 |  |
@@ -327,6 +328,7 @@
 | [VORACITY](https://open.spotify.com/track/61jz3LFcAXLKU0i2JFXaSe) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [TVアニメ「オーバーロードⅢ」オープニングテーマ「VORACITY」](https://open.spotify.com/album/45VfXu64lsMhLEgzwOcNkZ) | 3:52 | 2023-03-28 |  |
 | [Wanted, Wasted](https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SINDERELLA](https://open.spotify.com/album/4rDKCCOutbqoVQhNzQYJdD) | 3:03 | 2023-08-27 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2021-08-04 |  |
+| [What A Strange Child](https://open.spotify.com/track/41qCOY36xnyCxjLI1oAckJ) | [Mushi\-P](https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0) | [The World Of Picture Book](https://open.spotify.com/album/63801ievlG9h3IzGger7u1) | 3:32 | 2026-08-14 |  |
 | [WHEELER\-DEALER](https://open.spotify.com/track/2UlgPL6t8KjTwcozqVsXuK) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [WHEELER\-DEALER](https://open.spotify.com/album/5v2fdO3vboOeuBCZU5VA68) | 4:31 | 2024-12-07 |  |
 | [White Happy](https://open.spotify.com/track/5XpvrP7gXzvIXprPar1QBO) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [White Happy](https://open.spotify.com/album/6SOFbTseMyGB6Teu7igCUd) | 3:46 | 2026-01-11 |  |
 | [Why I hate you](https://open.spotify.com/track/4AigtKmfzJzNCrKaBmTv3W) | [ゐろは苹果](https://open.spotify.com/artist/1X0DrV6PmfG5ZoVNCszNNh) | [Why I hate you](https://open.spotify.com/album/6VCQYmfIufXBhxFHMiuK9L) | 1:58 | 2026-03-28 |  |
@@ -482,6 +484,7 @@
 | [心中なら倉敷で](https://open.spotify.com/track/7suTW2CMSgQdioqvEvaALy) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR), [RIME](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.1 残響のパラノーマル\)](https://open.spotify.com/album/3n2dujCufrAXLzL8ABdRF6) | 3:12 | 2025-10-08 |  |
 | [心臓](https://open.spotify.com/track/7seqDm8KZRDOpL2z9ONTiA) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:44 | 2025-07-20 |  |
 | [忘れてやらない](https://open.spotify.com/track/47xVHFTtByhvrYFZCi0Fgh) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [忘れてやらない](https://open.spotify.com/album/2gcOhrqnwqostpe71Vkqxu) | 3:43 | 2023-05-06 |  |
+| [忘却心中](https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg) | [0\-9](https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn) | [忘却心中](https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG) | 4:13 | 2026-08-14 |  |
 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 | 2021-04-05 |  |
 | [意識](https://open.spotify.com/track/0UWSwwUTnxnbu2KxonkoyF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 2:40 | 2025-08-16 |  |
 | [愛して 愛して 愛して](https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:12 | 2023-03-14 |  |

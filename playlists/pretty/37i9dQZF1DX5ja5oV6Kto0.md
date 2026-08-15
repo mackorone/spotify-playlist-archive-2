@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zaylevelten
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,100 likes - 80 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,106 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 12 | [Uche Jumbo](https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Uche Jumbo](https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y) | 2:28 |
 | 13 | [party animal$ interlude \(with suono sai\)](https://open.spotify.com/track/2Ug1ARrqDUr3lVvoF4n8Ag) | [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf), [Suono Sai](https://open.spotify.com/artist/14sJMBcF035eGzDwdxEcSX) | [party animal$ interlude \(with suono sai\)](https://open.spotify.com/album/39dvgXUbrqtndPoc4TYwtq) | 2:08 |
 | 14 | [International Collector](https://open.spotify.com/track/3loWkeEtVnG0RoJjkzm760) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [International Collector / Oz.](https://open.spotify.com/album/3HEIDd1ULSIGXLySINdbaK) | 1:55 |
-| 15 | [Track 6](https://open.spotify.com/track/5QFN7CeUL5B3a8gioAELdV) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 0:00 |
+| 15 | [WEEKEND](https://open.spotify.com/track/5QFN7CeUL5B3a8gioAELdV) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:59 |
 | 16 | [⁠Idanski](https://open.spotify.com/track/3s1M2jWG68cbgQz7OUpJlA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [then 1t g0t crazy](https://open.spotify.com/album/3HGzfz4LdYvIZd2CxKlzvs) | 1:42 |
 | 17 | [FINE SHYT \(feat\. Tml Vibez\)](https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [No Excuses Deluxe](https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0) | 2:12 |
 | 18 | [Exopa](https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Exopa](https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9) | 3:10 |

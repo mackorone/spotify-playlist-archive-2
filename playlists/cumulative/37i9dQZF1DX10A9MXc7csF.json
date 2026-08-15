@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Legion RG \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Juanpa Salazar \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -382,7 +382,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 193243,
       "name": "24/siete",
       "url": "https://open.spotify.com/track/3gJmHU5pw1Gi0sCsxXu1aw"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 170353,
       "name": "Ahora Resulta",
       "url": "https://open.spotify.com/track/64uCj2nU2CTgiSnywmaw0F"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 142535,
       "name": "Aqu\u00ed Muere",
       "url": "https://open.spotify.com/track/3IZmoZybnbHZn2CCVm2eUX"
@@ -3860,7 +3860,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 183665,
       "name": "Bien Lucas",
       "url": "https://open.spotify.com/track/04CTFjtEBdwNbHWrwPPbWb"
@@ -4192,6 +4192,24 @@
       "duration_ms": 162649,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
+    },
+    {
+      "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/0hRdOBzhlHRkyhCgeCQktN"
+      },
+      "artists": [
+        {
+          "name": "David Ornelas",
+          "url": "https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239084,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/2P1NnqLiwh4of8UPSl3U7a"
     },
     {
       "album": {
@@ -5006,7 +5024,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 169559,
       "name": "Carnal Bajale",
       "url": "https://open.spotify.com/track/6d5ufSx3FCUkvQyFA4VJro"
@@ -5064,6 +5082,24 @@
       "duration_ms": 204001,
       "name": "CARO",
       "url": "https://open.spotify.com/track/57npVcXIJCygQKhGCrEyVD"
+    },
+    {
+      "album": {
+        "name": "Carposo",
+        "url": "https://open.spotify.com/album/1LNOYFiyc5v5APvK52EXKa"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Carposo",
+      "url": "https://open.spotify.com/track/0cJ7bKc7bqypYCLtHAD1XD"
     },
     {
       "album": {
@@ -5638,7 +5674,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 185717,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN"
@@ -6368,6 +6404,24 @@
       "duration_ms": 201898,
       "name": "Con Una Mirada",
       "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
+    },
+    {
+      "album": {
+        "name": "Condenados",
+        "url": "https://open.spotify.com/album/2LGBuLWnKMgUB6WPVZmEgr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167146,
+      "name": "Condenados",
+      "url": "https://open.spotify.com/track/4NfWpoovz1tPDLM1ehoFkz"
     },
     {
       "album": {
@@ -7112,6 +7166,24 @@
       "duration_ms": 209110,
       "name": "CUANTAS VECES",
       "url": "https://open.spotify.com/track/7yJSRJv6x0T9NiXg9XHPwb"
+    },
+    {
+      "album": {
+        "name": "Cuatro de Tr\u00e9bol",
+        "url": "https://open.spotify.com/album/4njYn6crWp6VtdjH6gtrWq"
+      },
+      "artists": [
+        {
+          "name": "Uno En Un Millon",
+          "url": "https://open.spotify.com/artist/1vggB0VqdzLMHZFcUd9E1h"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246309,
+      "name": "Cuatro de Tr\u00e9bol",
+      "url": "https://open.spotify.com/track/0WkXmuT7kKp9Dm3tDbBGXp"
     },
     {
       "album": {
@@ -8418,6 +8490,24 @@
       "duration_ms": 200650,
       "name": "Dime Ya",
       "url": "https://open.spotify.com/track/14jfifo7CTWMWiogwX5UK2"
+    },
+    {
+      "album": {
+        "name": "Dinero Chueco",
+        "url": "https://open.spotify.com/album/340jFHaQtLTGbtj4YcbAJD"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168017,
+      "name": "Dinero Chueco",
+      "url": "https://open.spotify.com/track/645Cz9dR9LKyv4htgeMXnh"
     },
     {
       "album": {
@@ -12046,7 +12136,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 148693,
       "name": "Eres Tu",
       "url": "https://open.spotify.com/track/6eHnr2EXkETDtgkDdDJVFs"
@@ -12104,7 +12194,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 368571,
       "name": "Es De Noche y Ya Llegue",
       "url": "https://open.spotify.com/track/2Yg64teOo1ihcKjjtzZ4QK"
@@ -13978,7 +14068,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 191541,
       "name": "gordo",
       "url": "https://open.spotify.com/track/26QBWySujXdsrxAPAlle0b"
@@ -14400,7 +14490,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 213749,
       "name": "Hazy x Ti",
       "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
@@ -15162,7 +15252,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 204173,
       "name": "Insomnio",
       "url": "https://open.spotify.com/track/6gaHILRIT01msFFqOgzkgY"
@@ -15724,7 +15814,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 146851,
       "name": "KOREANAS",
       "url": "https://open.spotify.com/track/1NfIx5rTGzx57BA8cRSE3W"
@@ -26716,7 +26806,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 181851,
       "name": "Pvta Ansiedad",
       "url": "https://open.spotify.com/track/4a10o1NbOZHPxGJaJCQaoh"
@@ -28072,7 +28162,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 167946,
       "name": "replica.",
       "url": "https://open.spotify.com/track/5Bae75jc8KHMTatYOqnoTR"
@@ -29020,7 +29110,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 175872,
       "name": "Se Cancela",
       "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
@@ -30939,6 +31029,24 @@
     },
     {
       "album": {
+        "name": "su\u00e9ltame",
+        "url": "https://open.spotify.com/album/6Ed3eUKovBiVFfK9iujjmr"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233987,
+      "name": "su\u00e9ltame",
+      "url": "https://open.spotify.com/track/6ZLpEYDN1alkr0wWOcmfuD"
+    },
+    {
+      "album": {
         "name": "S\u00c1LVAME",
         "url": "https://open.spotify.com/album/23P9z5m6FNvfz5eXarJxvA"
       },
@@ -31051,6 +31159,24 @@
     },
     {
       "album": {
+        "name": "Tan Enamorado",
+        "url": "https://open.spotify.com/album/0OvWE73705ugf8ymfZT79V"
+      },
+      "artists": [
+        {
+          "name": "Johan Sanabria",
+          "url": "https://open.spotify.com/artist/1K3jKSzJRcwgOMJBgMxqdn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187850,
+      "name": "Tan Enamorado",
+      "url": "https://open.spotify.com/track/2v3rDI9m1xlQi5dOASaZtB"
+    },
+    {
+      "album": {
         "name": "TAN FACIL",
         "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
       },
@@ -31134,7 +31260,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 220869,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/0vAEKi2wyNNjHAFQgJG44e"
@@ -35530,7 +35656,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 176326,
       "name": "\u2060\u2060NO MIRES ATR\u00c1S",
       "url": "https://open.spotify.com/track/00FJssZnKKOfxLdbeGLdsW"

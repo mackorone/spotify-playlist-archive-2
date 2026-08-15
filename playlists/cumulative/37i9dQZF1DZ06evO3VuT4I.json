@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Improvisation On Four Sequences (Live at Week-End Fest)",
+        "url": "https://open.spotify.com/album/4lRCOMQrNZJFQPhkIgs6bT"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1406038,
+      "name": "Improvisation On Four Sequences Pt.2",
+      "url": "https://open.spotify.com/track/6quU5tG0wXm8jSF5lGtibc"
+    },
+    {
+      "album": {
         "name": "Pianissimo",
         "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
       },
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 229466,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 342760,
       "name": "Sailing To Byzantium - (New)",
       "url": "https://open.spotify.com/track/4VujPCSGU7lUU6QOIpxAs8"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 410120,
       "name": "Time Lapse",
       "url": "https://open.spotify.com/track/2e9rLJNPeV9HzCNIhHaQES"

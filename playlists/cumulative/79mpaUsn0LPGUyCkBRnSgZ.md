@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,194 songs - 3 day 5 hr 4 min
+1,195 songs - 3 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [chapter 1\*](https://open.spotify.com/track/7aDDTr7TDL7KkshecYpDY1) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [LaKeith Stanfield](https://open.spotify.com/artist/4JRQyvuk8ZTlnJmYPn1fA2) | [All American F⭐ckBoy](https://open.spotify.com/album/66HGhKZrlYQQ92lKSGvj0r) | 1:18 | 2025-04-24 | 2025-04-29 |
 | [Cherry In Tacoma](https://open.spotify.com/track/4ePlZMnWntH6rq9xUpalnr) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [To Carry A Whale](https://open.spotify.com/album/6Yq40Q0Kvz9PXdja9i2Yxb) | 3:42 | 2022-08-02 | 2024-03-16 |
 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 | 2022-08-14 |  |
+| [Chimacum Rain](https://open.spotify.com/track/0PSxgms5q4pEtRGXRw2oWK) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 3:24 | 2026-08-15 |  |
 | [Chinatown](https://open.spotify.com/track/3i729CqF9sBCCyhYxIWUZZ) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4sVWj2lb9F8nRg57VFTaf1) | 3:49 | 2022-06-13 | 2023-07-11 |
 | [Chloë](https://open.spotify.com/track/3WH51SUl6EEuf9j7tsSQwQ) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 3:28 | 2024-06-12 | 2026-01-03 |
 | [Chokehold](https://open.spotify.com/track/1Uifdytv882RtTn6Gr4xAA) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:04 | 2024-02-02 |  |

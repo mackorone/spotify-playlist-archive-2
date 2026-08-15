@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMP3dRfO8WtcXauicZ3GWZcjN+phQb",
+  "snapshot_id": "AAAMQrFxoR0hXP2hvoJyWcBJj4eARYd/",
   "tracks": [
     {
       "added_at": "2026-02-17 12:01:17",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/39eQtcHzL3h7ZFLo2rsagt"
     },
     {
+      "added_at": "2026-08-14 06:37:59",
+      "album": {
+        "name": "Sunday Soul",
+        "url": "https://open.spotify.com/album/5QnFzZlgC3oxu7Fg25PnAN"
+      },
+      "artists": [
+        {
+          "name": "Kickoff Project",
+          "url": "https://open.spotify.com/artist/7oLMnhuAoTk8OwmDmThPNx"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Sunday Soul",
+      "url": "https://open.spotify.com/track/2rUSygsB1eGAMe3ORZ8BdN"
+    },
+    {
       "added_at": "2025-09-21 08:33:46",
       "album": {
         "name": "Mercy's Song (Psalm 6)",
@@ -973,70 +989,6 @@
       "url": "https://open.spotify.com/track/2X8QZIyTwBxrrdDJBCcK9q"
     },
     {
-      "added_at": "2026-07-25 06:33:02",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj"
-      },
-      "artists": [
-        {
-          "name": "Claudia Ferri",
-          "url": "https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5"
-    },
-    {
-      "added_at": "2026-07-26 07:46:10",
-      "album": {
-        "name": "Soulwave",
-        "url": "https://open.spotify.com/album/4CblvjKa4GZ2ZBhKShQ2Vb"
-      },
-      "artists": [
-        {
-          "name": "Hasamura",
-          "url": "https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG"
-        }
-      ],
-      "duration_ms": 292960,
-      "name": "Kneel Before the Light (Humilitas)",
-      "url": "https://open.spotify.com/track/2SUzUZ3o1wmwUmeUW8RuaE"
-    },
-    {
-      "added_at": "2026-07-27 10:42:33",
-      "album": {
-        "name": "Funkin Blues",
-        "url": "https://open.spotify.com/album/25QR5rLpR6jg4wYH9LSdeh"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Cats",
-          "url": "https://open.spotify.com/artist/2WctWN3DeyAvtYI1sKvvJi"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "Funkin Blues",
-      "url": "https://open.spotify.com/track/6wqlg869am54Wqbct45PYF"
-    },
-    {
-      "added_at": "2026-07-27 10:46:07",
-      "album": {
-        "name": "Takin it all",
-        "url": "https://open.spotify.com/album/3C1OezOI61eFvLXipftoWZ"
-      },
-      "artists": [
-        {
-          "name": "Black Hound",
-          "url": "https://open.spotify.com/artist/3snFZIyWovDIXyPo2K83qV"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Only words",
-      "url": "https://open.spotify.com/track/0WyuNAuLJgYadDsq1TSHpD"
-    },
-    {
       "added_at": "2026-08-06 12:47:07",
       "album": {
         "name": "Tell Me Why",
@@ -1053,102 +1005,6 @@
       "url": "https://open.spotify.com/track/14xVr1mTSAwFY22RgIEzkb"
     },
     {
-      "added_at": "2026-07-28 17:00:28",
-      "album": {
-        "name": "Life (You Saved Me)",
-        "url": "https://open.spotify.com/album/4FRCPWM4JildwwplokEkh8"
-      },
-      "artists": [
-        {
-          "name": "The K.I.J Experience",
-          "url": "https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB"
-        }
-      ],
-      "duration_ms": 181100,
-      "name": "Life (You Saved Me)",
-      "url": "https://open.spotify.com/track/1lZ1Sh1rz8b0lscfMkPEVD"
-    },
-    {
-      "added_at": "2026-07-30 10:50:50",
-      "album": {
-        "name": "MUJER ESPA\u00d1OLA",
-        "url": "https://open.spotify.com/album/644Cr2kvQskcuzHe9ySrm4"
-      },
-      "artists": [
-        {
-          "name": "V\u00e1stago",
-          "url": "https://open.spotify.com/artist/6G3hE13qUdyo5k3xHBktOV"
-        }
-      ],
-      "duration_ms": 226818,
-      "name": "MUJER ESPA\u00d1OLA",
-      "url": "https://open.spotify.com/track/72T2vuQ6yNiJo0eajDRje3"
-    },
-    {
-      "added_at": "2026-07-30 17:31:14",
-      "album": {
-        "name": "Et tu retiens",
-        "url": "https://open.spotify.com/album/00UTUJdi8ziTCEMTu4iQAF"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Blo",
-          "url": "https://open.spotify.com/artist/6ABf9lpBnhcd4krOQOq8Qh"
-        }
-      ],
-      "duration_ms": 202201,
-      "name": "Et tu retiens",
-      "url": "https://open.spotify.com/track/2zRJj0YSRWzjoAYc102oFX"
-    },
-    {
-      "added_at": "2026-07-30 17:45:26",
-      "album": {
-        "name": "City Life",
-        "url": "https://open.spotify.com/album/5gSYQTFL50MJ4ThTzYmJgg"
-      },
-      "artists": [
-        {
-          "name": "MOKAs",
-          "url": "https://open.spotify.com/artist/1IczCTas4lUyZa8wQRst9C"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "City Life",
-      "url": "https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs"
-    },
-    {
-      "added_at": "2026-07-30 17:46:42",
-      "album": {
-        "name": "Amandote Amandonos",
-        "url": "https://open.spotify.com/album/2fOSgaYOPP6p9VZwbuyNkF"
-      },
-      "artists": [
-        {
-          "name": "Orlando Vitale",
-          "url": "https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa"
-        }
-      ],
-      "duration_ms": 270266,
-      "name": "Amandote Amandonos",
-      "url": "https://open.spotify.com/track/6sEdBo2YhjUkQp8unWRp23"
-    },
-    {
-      "added_at": "2026-07-30 17:47:13",
-      "album": {
-        "name": "It Hurt so Bad",
-        "url": "https://open.spotify.com/album/6NixljQ0E8wrQOrPXKsS9U"
-      },
-      "artists": [
-        {
-          "name": "The Lone Pine Revival",
-          "url": "https://open.spotify.com/artist/0K2T1uTgbW7ZVEoWr99Qhh"
-        }
-      ],
-      "duration_ms": 251963,
-      "name": "It Hurt so Bad",
-      "url": "https://open.spotify.com/track/2qsT8O0iWzxEDvZ1Cmoikh"
-    },
-    {
       "added_at": "2026-08-11 05:52:49",
       "album": {
         "name": "Wild Man",
@@ -1163,54 +1019,6 @@
       "duration_ms": 287200,
       "name": "Wild Man",
       "url": "https://open.spotify.com/track/3T7iZlkZHGfqcDK7ujnfmR"
-    },
-    {
-      "added_at": "2026-08-02 19:26:56",
-      "album": {
-        "name": "End Game",
-        "url": "https://open.spotify.com/album/6I5vOYOMKs2ia10GV07zcm"
-      },
-      "artists": [
-        {
-          "name": "Tarsik",
-          "url": "https://open.spotify.com/artist/2530s2wwvLVcrdDZHMR0vE"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "They Say the Sky Is Just a Wall",
-      "url": "https://open.spotify.com/track/0ovI74HduC4HW1ucCuKpRb"
-    },
-    {
-      "added_at": "2026-08-04 17:10:02",
-      "album": {
-        "name": "Why Don't They Care?",
-        "url": "https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM"
-      },
-      "artists": [
-        {
-          "name": "David Bluefield",
-          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
-        }
-      ],
-      "duration_ms": 184575,
-      "name": "Why Don't They Care?",
-      "url": "https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy"
-    },
-    {
-      "added_at": "2026-08-04 17:12:25",
-      "album": {
-        "name": "Putzt u Gschtr\u00e4ut",
-        "url": "https://open.spotify.com/album/3xqW0lJECZbCk6Jdu4rLgw"
-      },
-      "artists": [
-        {
-          "name": "Plouderi",
-          "url": "https://open.spotify.com/artist/2cxFZYsHbjN2abjxd4ACv8"
-        }
-      ],
-      "duration_ms": 215044,
-      "name": "Z\u00e4me",
-      "url": "https://open.spotify.com/track/3138PLDl4FJywh7QfQDy4K"
     },
     {
       "added_at": "2026-08-09 16:09:09",
@@ -1339,6 +1147,22 @@
       "duration_ms": 270500,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/7ijOYsq4rgwvYU40Z5LOob"
+    },
+    {
+      "added_at": "2026-08-14 18:28:00",
+      "album": {
+        "name": "Hit On Me",
+        "url": "https://open.spotify.com/album/7qIb2jsBx3hY7faFbZXwas"
+      },
+      "artists": [
+        {
+          "name": "Eric Schenkman",
+          "url": "https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4"
+        }
+      ],
+      "duration_ms": 207424,
+      "name": "Hit On Me",
+      "url": "https://open.spotify.com/track/0gBFxAmc8lHJGVxN5Mafap"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

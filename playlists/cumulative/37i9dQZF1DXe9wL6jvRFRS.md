@@ -4,7 +4,7 @@
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Man/Woman/Chainsaw on the cover.
 
-106 songs - 7 hr 36 min
+107 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Lecture 25](https://open.spotify.com/track/5NKOEid35mXxvcPbV11pLb) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Lecture 25](https://open.spotify.com/album/1t0OR1fkgxJon5CAosQWMl) | 3:06 | 2025-11-07 | 2026-07-17 |
 | [Lord Only Knows Pt\. 1](https://open.spotify.com/track/0wXZTZICaFrB2PzXrcE8T8) | [Otala](https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE) | [Lord Only Knows Pt\. 1](https://open.spotify.com/album/0H8pxgbAj9I730rd88vyfz) | 2:09 | 2026-04-24 |  |
 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 | 2025-11-07 | 2026-07-17 |
+| [Marina](https://open.spotify.com/track/2FVcKnDZFvkqiTmHgbp20p) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Marina](https://open.spotify.com/album/5fKoEJLEQGcSXrPxW3ST53) | 3:25 | 2026-08-14 |  |
 | [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-07-10 | 2026-07-17 |
 | [Nids Niteca](https://open.spotify.com/track/5dZHzvPMx6VvQcHqYYkmp6) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Nids Niteca](https://open.spotify.com/album/49071Dn7i7TUEU2fJ5Tyqu) | 2:27 | 2025-07-10 |  |
 | [Nosedive](https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Nosedive](https://open.spotify.com/album/6qY5K6aLJkQFfd6mwTnTka) | 5:39 | 2026-04-24 | 2026-07-17 |

@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-988 songs - 1 day 10 hr 16 min
+999 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [and all its contents](https://open.spotify.com/track/1F04j98YN9Y4h4qn8NLlPc) | [analog\_mannequin](https://open.spotify.com/artist/5BnokxEB4VXeS1359upGtH) | [and all its contents](https://open.spotify.com/album/3RFPmsi4e3jsobws0Qq04I) | 4:42 | 2025-09-26 |  |
 | [and one day i was alone again](https://open.spotify.com/track/2lZzyawSbfUXqPrbKR1CPL) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn), [Bluegaze](https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM) | [reality is a lie](https://open.spotify.com/album/1II9by0TMFS5AQ1KQhkCBH) | 2:05 | 2026-02-14 |  |
 | [and suddenly, everything’s falling apart](https://open.spotify.com/track/7awwpOyD94D6IqaqitFQMQ) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX), [no.way.out](https://open.spotify.com/artist/4gIqPf7TvdoSFkmr8Fzw4D) | [and suddenly, everything’s falling apart](https://open.spotify.com/album/4VoptbhlaOc3RnBeW1J9QU) | 1:42 | 2025-03-08 |  |
+| [and then everything was okay](https://open.spotify.com/track/7glSN4KubMkgkFla4i39lc) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [and then everything was okay](https://open.spotify.com/album/27ZyKQ1uwK2eQgRhgL9bTT) | 1:47 | 2026-08-14 |  |
 | [anemoia](https://open.spotify.com/track/40J8ghaYigE0jkKW2ApIVi) | [faintshadow](https://open.spotify.com/artist/2iC7fD8njFe64bfUCnFEdk) | [anemoia](https://open.spotify.com/album/1az12FJtTXoYhV9X7rb2im) | 1:41 | 2025-10-17 | 2026-01-03 |
 | [angel](https://open.spotify.com/track/50MXMM5eB7FHUzve8180nc) | [helix fracture](https://open.spotify.com/artist/33FFHowZPPYyzmNhnhCMIM) | [angel](https://open.spotify.com/album/6B44Oc1ReDuc0ljP2Dr1yh) | 1:36 | 2025-10-17 |  |
 | [anima porta](https://open.spotify.com/track/37Y4pyCQxB8GRG3ruIIeVq) | [Dean Korso](https://open.spotify.com/artist/0X7zZBoY6ObInbi8IUVfpx), [Eleftherios](https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9) | [anima porta](https://open.spotify.com/album/0X4EFqX4DQGYyPJ8M6Agdr) | 2:12 | 2025-10-10 |  |
@@ -254,6 +255,7 @@
 | [elements](https://open.spotify.com/track/2vaq5v4BlnoBHHVEbqklvq) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [elements](https://open.spotify.com/album/66rf2LtxBNvMxV14SsFh8Z) | 1:19 | 2025-02-28 |  |
 | [elsewhere](https://open.spotify.com/track/1JEuLFqs6hSFeXZkrxA4uJ) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [elsewhere](https://open.spotify.com/album/3MgER53rv8ADAJZsCGfRhJ) | 1:50 | 2025-05-16 |  |
 | [Elysia](https://open.spotify.com/track/6IfkZNnt68eiM2HfIeYR4v) | [No One Is Listening](https://open.spotify.com/artist/5jIsbjAfJD4aHKLC4lRPT1) | [Elysia](https://open.spotify.com/album/4Gdi10YyYr4GgvR0fV6VeX) | 1:48 | 2026-05-30 |  |
+| [emberlight](https://open.spotify.com/track/245wKN7hI9Nn2VDiEQywyo) | [rareeast](https://open.spotify.com/artist/1j1EqfiN0jt8Ky6HKeriMd) | [emberlight](https://open.spotify.com/album/2J6U6uYMbSXh5b1beu044V) | 2:01 | 2026-08-14 |  |
 | [embrace](https://open.spotify.com/track/6sWZOjLTCduOkjADWDtFK2) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [dream depot](https://open.spotify.com/album/2MUflTgy5RG2lvK18P4x5f) | 2:52 | 2025-01-24 |  |
 | [emergent](https://open.spotify.com/track/6LR4pjPeAOdiMNpXd4E4Gp) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [emergent](https://open.spotify.com/album/1HWepehVRH6lxY0JwVRC9V) | 2:17 | 2026-06-27 |  |
 | [emotion engine](https://open.spotify.com/track/5VliaB7KfngfTC6ZpleHll) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [emotion engine](https://open.spotify.com/album/5EdBL6zwc5y6oxS06nc7On) | 2:02 | 2026-03-07 |  |
@@ -635,6 +637,7 @@
 | [nostalgia ‘95 \(sped up\)](https://open.spotify.com/track/5fiFprVo6B8LSLYRCutTb3) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [nostalgia ’95 \(remixes\)](https://open.spotify.com/album/6IeenX2vnFMLGZgJJfwfww) | 1:30 | 2026-01-24 |  |
 | [Nostalsick](https://open.spotify.com/track/7CQlGV7nvY5fOeDx2hxVGA) | [Nulmatic](https://open.spotify.com/artist/1fR5O5dfBq6cbwxaaydllQ) | [Nostalsick](https://open.spotify.com/album/1rJZGwByOEFqnGadox01GE) | 1:59 | 2025-10-17 | 2026-01-03 |
 | [nothing is real anymore](https://open.spotify.com/track/29Bu2vdIEeAwP52A6OfpDo) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [nothing is real anymore](https://open.spotify.com/album/5Dl7TLHR2xPvctmafvsj60) | 1:23 | 2025-04-18 |  |
+| [nothing stays](https://open.spotify.com/track/2mguTOJw8OwIbMRA1OsS8G) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [nothing stays](https://open.spotify.com/album/17mShzpXbkX3mRbF16U7MG) | 2:27 | 2026-08-14 |  |
 | [nothing's forever](https://open.spotify.com/track/0kkr2rmXLGob7ggMpbmvFW) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [nothing's forever](https://open.spotify.com/album/2Gy6pdVcQ2hP7wnlhBD9aS) | 1:34 | 2025-02-28 |  |
 | [nowhere](https://open.spotify.com/track/4DTHu3EyXMsXHloMVKJIY7) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [nowhere](https://open.spotify.com/album/187wrSVkg8pCIeYpbiqMxA) | 1:48 | 2026-03-13 |  |
 | [nowhere but here](https://open.spotify.com/track/7IP3lDuGymwHNOoFWHC5mD) | [seeparticles](https://open.spotify.com/artist/1lheefsYyfWIxsQ57sgPQE) | [nowhere but here](https://open.spotify.com/album/3HPCiYxxT2Comb4aaPOFrv) | 2:21 | 2025-10-31 | 2026-01-03 |
@@ -767,6 +770,12 @@
 | [silly song](https://open.spotify.com/track/3cd81xagEPh20EFwUBWhrE) | [d2s1](https://open.spotify.com/artist/0l6f9cXGE0K2QbcK1ZBgCY) | [silly song](https://open.spotify.com/album/0gy00hYqrqUcSYZWw9mHO7) | 1:00 | 2026-04-04 |  |
 | [sister](https://open.spotify.com/track/1J4hOAmh1TwsTWeD67zeOj) | [arancina](https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO) | [sister](https://open.spotify.com/album/1kUHrtbxCPUsDS8cGe3d19) | 1:42 | 2026-05-01 |  |
 | [skin](https://open.spotify.com/track/5sm0CByFcXJgc2g30jKwaD) | [statika](https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83) | [wallwatching](https://open.spotify.com/album/14w1OvfR3mDpmjUYLqqnUD) | 1:19 | 2026-08-01 |  |
+| [sky126](https://open.spotify.com/track/5g98frWlXJno0NUwkjoEjZ) | [Fujiwara](https://open.spotify.com/artist/2Cr0utmWeACahVtcJwnwVX) | [sky](https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO) | 2:49 | 2026-08-14 |  |
+| [sky187](https://open.spotify.com/track/36C2GVEXyrZYWaQ8MP0PPE) | [nuvola.](https://open.spotify.com/artist/4hpAGnQM74EeZIgcv081DG) | [sky](https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO) | 1:43 | 2026-08-14 |  |
+| [sky685](https://open.spotify.com/track/45V3GVbR6Ix0zM4rqO92yh) | [nœm.](https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE) | [sky](https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO) | 1:20 | 2026-08-14 |  |
+| [sky837](https://open.spotify.com/track/4Y6ac4Hv345pzXmdBzAfge) | [nœm.](https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE) | [sky](https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO) | 6:05 | 2026-08-14 |  |
+| [sky934](https://open.spotify.com/track/5VW4hEvzKW51vUJYBhpCMC) | [nœm.](https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE) | [sky](https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO) | 1:54 | 2026-08-14 |  |
+| [sky966](https://open.spotify.com/track/2t1VnsYAMK0lQY9wbE2y1L) | [nœm.](https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE) | [sky](https://open.spotify.com/album/2eJMKCIaez9OYg8GKs6XZO) | 2:22 | 2026-08-14 |  |
 | [skywork](https://open.spotify.com/track/7KOpbwDOIfMgulGvpGBuvU) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf), [.alome](https://open.spotify.com/artist/7l8WUITypiUQguHHdstdoR) | [skywork](https://open.spotify.com/album/2rERMjcUpZCDZY4cLL8LrR) | 2:13 | 2025-07-12 |  |
 | [Sleep Forever](https://open.spotify.com/track/0kkJwwEfbXvgeN8JMYoU3s) | [silent collision](https://open.spotify.com/artist/0LLN5gLVXdG4JppMASYxNP) | [Sleep Forever](https://open.spotify.com/album/12h7A7fh57Wdxw7sAj5WAi) | 2:16 | 2025-03-21 | 2026-06-09 |
 | [sleepless](https://open.spotify.com/track/07iWqVHQrKsNW0bt4u7M9Y) | [Soli2ude](https://open.spotify.com/artist/7ubxVOWczeDrGXewrxeNpu) | [broken dreams](https://open.spotify.com/album/5meV7MUTXITWkvikfkZnpN) | 2:14 | 2025-05-02 |  |
@@ -811,6 +820,7 @@
 | [sublimation](https://open.spotify.com/track/67BGuHuczCaviVsijzZaY6) | [statika](https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [sublimation](https://open.spotify.com/album/5ba2EI6lG3vCzhBSN1QKjQ) | 1:48 | 2025-06-13 |  |
 | [subsonic](https://open.spotify.com/track/5E1WNdpdqURNOg1tuhMzUm) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [subsonic](https://open.spotify.com/album/3KF19LjyIg20LznqD06Dry) | 2:10 | 2026-05-30 |  |
 | [suente](https://open.spotify.com/track/0QWBuPDmeZIKvBjjEmEV8g) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l) | [suente](https://open.spotify.com/album/6uGnSKzY9qqEmfFL3vpOcj) | 1:36 | 2025-08-08 |  |
+| [suite new day \(Ambient Rework\)](https://open.spotify.com/track/4oxs7FkSEuQYlkWXR2rTwP) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [suite new day \(Ambient Rework\)](https://open.spotify.com/album/24WTSnWaVIiDI2JGYEoMQV) | 3:01 | 2026-08-14 |  |
 | [sun goes down](https://open.spotify.com/track/5fcn61odHQ70Z9IfkYRcnC) | [Inlirium](https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib) | [sun goes down](https://open.spotify.com/album/5ajbbHfaKDjFJzikmVwD1J) | 1:38 | 2026-06-19 |  |
 | [sunflowers](https://open.spotify.com/track/041yeY2iFWXFE97qWNpCyD) | [sevenlies](https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7) | [sunflowers](https://open.spotify.com/album/7mejsSzvwW1UW1qcNfJUEw) | 2:12 | 2025-05-02 |  |
 | [sunrise](https://open.spotify.com/track/5XuZSxFLAtKcVebgXggEIS) | [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [sunrise](https://open.spotify.com/album/36vn71WkebeDtvS3Q9HGlY) | 2:10 | 2025-12-12 |  |
@@ -882,6 +892,7 @@
 | [unbound](https://open.spotify.com/track/0MH9SJXLFOPvQOIZsub3Qo) | [inertia.](https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH), [anębu](https://open.spotify.com/artist/0NwRrmuxl1zetoERsUrEDE) | [unbound](https://open.spotify.com/album/0qr63jNc7kY4QnRKagdRYK) | 1:45 | 2025-03-08 |  |
 | [unchanging](https://open.spotify.com/track/30q9saGaUHpHvlzhqbWIEB) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [unchanging](https://open.spotify.com/album/6x0RvmedlMHN2nnrHTgSIM) | 1:31 | 2025-03-08 |  |
 | [under the rising sun](https://open.spotify.com/track/0PTKv7osuG3wjl5Nuw1ZLC) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI), [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb), [Dean Korso](https://open.spotify.com/artist/0X7zZBoY6ObInbi8IUVfpx) | [Samsara Passengers](https://open.spotify.com/album/1ZO0FfO35vAA2Z6Qnp2xEC) | 2:12 | 2025-08-22 |  |
+| [under the shade](https://open.spotify.com/track/6KKMKa8YqCvUVNlpBq7ssK) | [still surface](https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs) | [under the shade](https://open.spotify.com/album/4Ou1d45QzgLeEgRe4xm6uu) | 2:05 | 2026-08-14 |  |
 | [unforseen](https://open.spotify.com/track/6hTWYVcjMxsvmp1jjCwNgl) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [unforseen](https://open.spotify.com/album/3ftN9NMBP0WB80Uou8yPCS) | 2:22 | 2026-01-24 |  |
 | [unsolemn promise](https://open.spotify.com/track/4fU7j3NeFmeuTEatABrUUm) | [Soli2ude](https://open.spotify.com/artist/7ubxVOWczeDrGXewrxeNpu) | [broken dreams](https://open.spotify.com/album/5meV7MUTXITWkvikfkZnpN) | 1:56 | 2025-05-02 |  |
 | [unspoken](https://open.spotify.com/track/6CkShYe5Qi2qPfOeV9ogPo) | [fauxe.](https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo) | [unspoken](https://open.spotify.com/album/7HurMZ7kymQNAzUQjVt0gQ) | 1:38 | 2025-11-29 | 2026-01-03 |

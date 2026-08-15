@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 
 > we got you\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,994 likes - 120 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,026 likes - 120 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MOTIONS](https://open.spotify.com/track/0ISHbIx7clT1FrlJX2q027) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [MOTIONS](https://open.spotify.com/album/6MlUTfeHBjHo4Lo9eGlgyE) | 2:27 |
-| 2 | [drunk and confused!](https://open.spotify.com/track/3qVU5IHczEr4NEcyRhOXut) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [drunk and confused!](https://open.spotify.com/album/0nN4U65omCYbuXD70ikJuy) | 2:35 |
-| 3 | [are they disappointed?](https://open.spotify.com/track/5aZ0QKnfS383m0HknaKSX3) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [I’ll Cry Tomorrow](https://open.spotify.com/album/0Tz4WhNCTBiDB0zPnrCkFe) | 1:48 |
-| 4 | [Bluffin' \(with The Kid LAROI\)](https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Piss In The Wind \(Deluxe\)](https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL) | 2:34 |
-| 5 | [lines](https://open.spotify.com/track/0jIumJVNnlT1Cft1UqLIzq) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG), [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV), [Love Matt](https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf) | [lines](https://open.spotify.com/album/2qgQUPBiSrChkNcRwR6ekZ) | 2:46 |
+| 1 | [Blow My Phone Up](https://open.spotify.com/track/4iPCKLD1yt00BeHOOV7Ica) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blow My Phone Up](https://open.spotify.com/album/2k5usN7A7aCd8yfTx0ly5a) | 2:25 |
+| 2 | [MOTIONS](https://open.spotify.com/track/0ISHbIx7clT1FrlJX2q027) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [MOTIONS](https://open.spotify.com/album/6MlUTfeHBjHo4Lo9eGlgyE) | 2:27 |
+| 3 | [drunk and confused!](https://open.spotify.com/track/3qVU5IHczEr4NEcyRhOXut) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [drunk and confused!](https://open.spotify.com/album/0nN4U65omCYbuXD70ikJuy) | 2:35 |
+| 4 | [are they disappointed?](https://open.spotify.com/track/5aZ0QKnfS383m0HknaKSX3) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [I’ll Cry Tomorrow](https://open.spotify.com/album/0Tz4WhNCTBiDB0zPnrCkFe) | 1:48 |
+| 5 | [Bluffin' \(with The Kid LAROI\)](https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Piss In The Wind \(Deluxe\)](https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL) | 2:34 |
 | 6 | [911](https://open.spotify.com/track/7AikJn0VCWhnKvuNgfJa8j) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Eon Zero](https://open.spotify.com/artist/7mkjJXcIIgW5F92qaNFV98), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH), [Jake Luke](https://open.spotify.com/artist/7bkZ9WvOveMiDLvTIGiMyw) | [911](https://open.spotify.com/album/62nSQQw0KJZhjRrwk4AbwO) | 3:26 |
 | 7 | [Hell Without You](https://open.spotify.com/track/0pXsWaDk9qwUUPnW43ca4i) | [Hi\-Rez](https://open.spotify.com/artist/7CWvyZsjuJlxfM8Le6B9nP), [Jordan Meyer](https://open.spotify.com/artist/6UMKNNn0C2p1b95NenVcMq) | [Hell Without You](https://open.spotify.com/album/6tuFDArQSC2JOF7rVpGlBA) | 4:26 |
 | 8 | [DEAD & GONE](https://open.spotify.com/track/65kpSQ8VwRcgHRH8Qyrigq) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [DEAD & GONE](https://open.spotify.com/album/0TtDwZpIy4msmkkSc8s7xx) | 2:56 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 119 | [bad vibes forever \(feat\. PnB Rock & Trippie Redd\)](https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:30 |
 | 120 | [772 Love](https://open.spotify.com/track/230wNo1dnexltKYQbsW7oD) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [772 Love](https://open.spotify.com/album/1RTMwluKhKL68BpYBdiF6x) | 3:29 |
 
-Snapshot ID: `AAAAADtQ3yitEgVPfa4gJeA2bKBAlx7U`
+Snapshot ID: `AAAAANOeGb8xUUxEfQx56adcy47lHCZ9`

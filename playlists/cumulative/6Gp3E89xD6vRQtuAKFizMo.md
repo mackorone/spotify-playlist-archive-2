@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-575 songs - 1 day 3 hr 28 min
+576 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-05-06 | 2022-10-18 |
 | [Mind On The Beat](https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV) | [SEUNG](https://open.spotify.com/artist/1CuQ0y8pGZjIKzOiEzxRbV), [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Mind On The Beat](https://open.spotify.com/album/1FcuJRN9laNZB82swrPrUR) | 2:44 | 2026-04-24 |  |
 | [Mirage](https://open.spotify.com/track/3ovm13iXtXLluAoG1sDNZ0) | [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa), [Skellytn](https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3) | [Mirage](https://open.spotify.com/album/7JnuNp4aQOwJbZWAMXEWTs) | 3:32 | 2025-01-24 | 2025-04-27 |
+| [Miss Behave \(feat\. Shmani\)](https://open.spotify.com/track/6nb9WzcvmBurfRCRnmGEmU) | [Dani Thorne](https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku), [shmani](https://open.spotify.com/artist/0uxpFK7FajEqTiqlTgsfKo) | [Miss Behave \(feat\. Shmani\)](https://open.spotify.com/album/18okV5sJ16EQtp9roUBABh) | 3:49 | 2026-08-14 |  |
 | [Money On The Line](https://open.spotify.com/track/7BYOJ9urVhhq6DVOb38Mj1) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Money On The Line](https://open.spotify.com/album/5S48I4R8aNkh2fGZw5O91m) | 3:00 | 2024-10-30 | 2025-04-27 |
 | [MOON](https://open.spotify.com/track/0wsPWksjRwQkYofsre9rMD) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [MOON](https://open.spotify.com/album/77E1Q1IxMPpC96tLpXzrvy) | 3:27 | 2024-07-26 | 2025-04-27 |
 | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [GIANNI TAYLOR](https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i) | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt) | 2:53 | 2023-01-27 | 2023-04-09 |

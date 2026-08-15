@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Nunca Jam\u00e1s en portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Zyanya en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Ahora Te Odio",
+        "url": "https://open.spotify.com/album/7v45ddJmNekJq04wocRPUo"
+      },
+      "artists": [
+        {
+          "name": "Todo Arde En Silencio",
+          "url": "https://open.spotify.com/artist/1D7PyEtL78gKjto4erdkd8"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91044,
+      "name": "Ahora Te Odio",
+      "url": "https://open.spotify.com/track/2eSAY5BszZjAKNEncsgrbc"
+    },
+    {
+      "album": {
         "name": "Al Borde del Infinito",
         "url": "https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC"
       },
@@ -938,7 +956,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 189584,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/6sq9dpQPWpConDT9nYEvLW"
@@ -6768,7 +6786,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 212123,
       "name": "Infinito Mar",
       "url": "https://open.spotify.com/track/6DfCculWFs8nCDNPe4aNmU"
@@ -10062,7 +10080,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 247412,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
@@ -12628,6 +12646,32 @@
       "duration_ms": 252142,
       "name": "Rexsexex",
       "url": "https://open.spotify.com/track/4hof8Zyvn8QvkkCWt5HAY0"
+    },
+    {
+      "album": {
+        "name": "Rico McPato",
+        "url": "https://open.spotify.com/album/1CComlCmBZnSc7cAVz0TkJ"
+      },
+      "artists": [
+        {
+          "name": "PERRA BRAVA",
+          "url": "https://open.spotify.com/artist/4ODjjfjx4SqJixJYVqeUrE"
+        },
+        {
+          "name": "Tito Fuentes",
+          "url": "https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo"
+        },
+        {
+          "name": "AJ Davila",
+          "url": "https://open.spotify.com/artist/4Kyd8cFh3zkTvVCyClVoHX"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196719,
+      "name": "Rico McPato",
+      "url": "https://open.spotify.com/track/3wlRoMiTgckvvXlo79Z2F2"
     },
     {
       "album": {
@@ -15910,6 +15954,24 @@
       "duration_ms": 208500,
       "name": "Vulnerables",
       "url": "https://open.spotify.com/track/2gac1fUGyTRa95XWnAgiow"
+    },
+    {
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/0dRY53OsauSXu0ISxXXzlS"
+      },
+      "artists": [
+        {
+          "name": "Zyanya",
+          "url": "https://open.spotify.com/artist/10Q8hJxeiEUVGm5MoFTqeB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "V\u00e9rtigo",
+      "url": "https://open.spotify.com/track/1xVwKICsEZVdLGMISrPMv7"
     },
     {
       "album": {

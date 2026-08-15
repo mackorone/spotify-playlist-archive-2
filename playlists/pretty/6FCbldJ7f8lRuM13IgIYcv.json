@@ -6,7 +6,7 @@
     "name": "Bram Bloemen",
     "url": "https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq"
   },
-  "snapshot_id": "AAAAVif2lWZ6LBakDXigFFQpW7d5U1/z",
+  "snapshot_id": "AAAAWucIpMIcPpR+mEJ8b+ZIVFP06hA9",
   "tracks": [
     {
       "added_at": "2019-08-23 10:38:09",
@@ -1227,6 +1227,70 @@
       "duration_ms": 247741,
       "name": "Alles Zerf\u00e4llt",
       "url": "https://open.spotify.com/track/3Z2DU1Dy4u9HxCwcXnJ0j0"
+    },
+    {
+      "added_at": "2026-08-14 14:16:49",
+      "album": {
+        "name": "Zukunft",
+        "url": "https://open.spotify.com/album/0htnaUNiMwIspPCQ4q3N8C"
+      },
+      "artists": [
+        {
+          "name": "Arah",
+          "url": "https://open.spotify.com/artist/74lR1Q1vDmI38sziY1hvHc"
+        }
+      ],
+      "duration_ms": 326709,
+      "name": "Zukunft",
+      "url": "https://open.spotify.com/track/3LLsaIPGLZpL0EpxraldZ3"
+    },
+    {
+      "added_at": "2026-08-14 14:17:04",
+      "album": {
+        "name": "Gegenwart Der Sonne",
+        "url": "https://open.spotify.com/album/0u2dwISqON7XxhYnbS06au"
+      },
+      "artists": [
+        {
+          "name": "Arah",
+          "url": "https://open.spotify.com/artist/74lR1Q1vDmI38sziY1hvHc"
+        }
+      ],
+      "duration_ms": 352258,
+      "name": "Gegenwart Der Sonne",
+      "url": "https://open.spotify.com/track/2bPDoSWwliW08PvuvcbGGh"
+    },
+    {
+      "added_at": "2026-08-14 15:01:08",
+      "album": {
+        "name": "SEKTION 4",
+        "url": "https://open.spotify.com/album/4l2Jz96DR1AldgAYtJVnra"
+      },
+      "artists": [
+        {
+          "name": "In Verruf",
+          "url": "https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0"
+        }
+      ],
+      "duration_ms": 315053,
+      "name": "Fall Into Pieces",
+      "url": "https://open.spotify.com/track/1Vzg6E51Zm2CuWaTTJwIiM"
+    },
+    {
+      "added_at": "2026-08-14 15:53:48",
+      "album": {
+        "name": "REELUV",
+        "url": "https://open.spotify.com/album/3s75wNsLmNG5YT2JpgvJJC"
+      },
+      "artists": [
+        {
+          "name": "Luciid",
+          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
+        }
+      ],
+      "duration_ms": 290798,
+      "name": "Nothing To Lose (Schranz Mix)",
+      "url": "https://open.spotify.com/track/2yM7qIZHia1spqwO4lxQE4"
     }
   ],
   "unique_name": "Hard gaan.",

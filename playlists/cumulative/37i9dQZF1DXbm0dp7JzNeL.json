@@ -939,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Gnossienne No. 3",
+        "url": "https://open.spotify.com/album/7L7ksF7u3QD4uoYlmRx8Rs"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198560,
+      "name": "Gnossienne No. 3",
+      "url": "https://open.spotify.com/track/1L20zuydJsn13Bwpke3R0X"
+    },
+    {
+      "album": {
         "name": "Handel Sarabande",
         "url": "https://open.spotify.com/album/657D9POYWMrDMK9MWNxPHL"
       },

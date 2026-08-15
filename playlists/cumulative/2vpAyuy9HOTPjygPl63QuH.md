@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/2vpAyuy9HOTPjygPl63QuH.md) - cumulative - [plain](/playlists/plain/2vpAyuy9HOTPjygPl63QuH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2vpAyuy9HOTPjygPl63QuH)
 
-### [tuff house music 😤](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
+### [house music.](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
 
-> the final boss of house playlists\. \| Trades: tuffhouse@proton.me \| FISHER, Mau P, Dom Dolla, Max Styler, John Summit, Matroda, Joshwa \| minimal tech \- tech house 2026 \- car music \- club mix \- dj music \- workout music \- bass house \- housewerk
+> 
 
 2,475 songs - 5 day 19 hr 14 min
 

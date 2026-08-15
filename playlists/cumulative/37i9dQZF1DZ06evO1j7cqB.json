@@ -1933,6 +1933,32 @@
     },
     {
       "album": {
+        "name": "The Singularity: Ekleipsis",
+        "url": "https://open.spotify.com/album/5ZGIZYHEABTEKAwjCb6H8O"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Claudio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/4Lod2RXS2KNH6yGa6wlfNj"
+        },
+        {
+          "name": "Tim Henson",
+          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304975,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/6cFI0t1JhgOUxGTUvL8Zk6"
+    },
+    {
+      "album": {
         "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
       },
@@ -2770,7 +2796,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 270440,
       "name": "White Roses of Scotland",
       "url": "https://open.spotify.com/track/7e2Js9jadB6eTuNesmeIxh"

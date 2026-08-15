@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 132,284 likes - 228 songs - 9 hr 48 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 132,718 likes - 230 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,5 +236,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 226 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
 | 227 | [Rhythm Of Your Soul](https://open.spotify.com/track/7Bh2Tzazp8kI7hPL7wAl5x) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Rhythm Of Your Soul](https://open.spotify.com/album/0mJh6w67LcfuW43TBdDR14) | 2:29 |
 | 228 | [Coasting](https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Coasting](https://open.spotify.com/album/0tt700HMfIwXdp1WsiSBm3) | 3:15 |
+| 229 | [Loop Me In](https://open.spotify.com/track/5ruMC3RDay74xMXhW1bELf) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Mallou](https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP) | [Loop Me In](https://open.spotify.com/album/2pMltAwkWZ3KXyeNDcjmlk) | 2:51 |
+| 230 | [Seaside](https://open.spotify.com/track/30Mu8SC4B5EESlzlYSvASI) | [Le Jardin Secret](https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5) | [Seaside](https://open.spotify.com/album/1cnQYSATe8jNVYFKbRUylS) | 2:13 |
 
-Snapshot ID: `AABVWNg6dnjlo10NAzYSs8+WpJlpMhiA`
+Snapshot ID: `AABVWphYQhggUGEZxRxXSLusqx0VoGnZ`

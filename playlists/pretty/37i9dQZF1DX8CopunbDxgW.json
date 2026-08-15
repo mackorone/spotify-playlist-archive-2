@@ -1,13 +1,61 @@
 {
-  "description": "this new Ela Minus + Nick Le\u00f3n EP \ud83d\udcc8 \ud83d\udc9a metropolis is your home for the best indie dance",
-  "num_followers": 868378,
+  "description": "summer is over when Collect 200 says summer is over \ud83c\udf1e metropolis is your home for the best indie dance",
+  "num_followers": 868371,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEp8tU5AM292HXjw2S7Tli2Jb7yB",
+  "snapshot_id": "AAAAAPAoke6ZKiUAPNOIxlAGNgNoi/Og",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
+    },
+    {
+      "added_at": "2026-07-24 04:02:32",
+      "album": {
+        "name": "Dance Dance Dance!",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance!",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+    },
+    {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
+    },
     {
       "added_at": "2026-08-07 04:01:55",
       "album": {
@@ -27,94 +75,6 @@
       "duration_ms": 378945,
       "name": "qu\u00e9 les pas\u00f3 a mis amigos?",
       "url": "https://open.spotify.com/track/5m1V6BHPqQr9yNNoMfkdot"
-    },
-    {
-      "added_at": "2026-07-24 04:02:32",
-      "album": {
-        "name": "Dance Dance Dance!",
-        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 217797,
-      "name": "Dance Dance Dance!",
-      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
-    },
-    {
-      "added_at": "2026-08-07 04:01:55",
-      "album": {
-        "name": "Memory on the Run",
-        "url": "https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Memory on the Run",
-      "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
-    },
-    {
-      "added_at": "2026-08-07 04:01:55",
-      "album": {
-        "name": "SYW (feat. Cecile Believe)",
-        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "SYW (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
-    },
-    {
-      "added_at": "2026-07-24 04:02:32",
-      "album": {
-        "name": "Shock!",
-        "url": "https://open.spotify.com/album/3hBIuH62O5Usqi3RXGVLY4"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Shock!",
-      "url": "https://open.spotify.com/track/0qKVJsL0lNtKw3I2pieuhn"
-    },
-    {
-      "added_at": "2026-06-26 04:00:59",
-      "album": {
-        "name": "Bedroom Eyes",
-        "url": "https://open.spotify.com/album/39WBNLBTWcHWdik02WZUy8"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Bedroom Eyes",
-      "url": "https://open.spotify.com/track/3qOzschVOffCPjbac03qyB"
     },
     {
       "added_at": "2026-08-07 04:01:55",
@@ -137,6 +97,202 @@
       "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
     },
     {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "PRIZEFIGHTER",
+        "url": "https://open.spotify.com/album/5XXYxjI0wguqCroUfweJkt"
+      },
+      "artists": [
+        {
+          "name": "Frankie Frank",
+          "url": "https://open.spotify.com/artist/3FRehhH7THBrbWvzJfHEEK"
+        },
+        {
+          "name": "Malachi Harris",
+          "url": "https://open.spotify.com/artist/7DViFNe5GCWYR70ysOaZfZ"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Bourgeoisie",
+      "url": "https://open.spotify.com/track/18OUOm19dsI5GU2fDPkKnH"
+    },
+    {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "When The Rain Begins To Fall",
+        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 214016,
+      "name": "When The Rain Begins To Fall",
+      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
+    },
+    {
+      "added_at": "2026-04-10 04:02:28",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-08-07 04:01:55",
+      "album": {
+        "name": "Memory on the Run",
+        "url": "https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Memory on the Run",
+      "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
+    },
+    {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "I Just",
+      "url": "https://open.spotify.com/track/4dPDvUaHJkF7WmoioHekJJ"
+    },
+    {
+      "added_at": "2026-08-07 04:01:55",
+      "album": {
+        "name": "Tu sais me faire danser",
+        "url": "https://open.spotify.com/album/0111WnMvN7AnhIZYIH6TKX"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 French",
+          "url": "https://open.spotify.com/artist/5x8WbkzuZXIKWNSDd5JcGa"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Tu sais me faire danser",
+      "url": "https://open.spotify.com/track/4AIXofGG21C0LZEQ0lY0ty"
+    },
+    {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "PERMANENTE",
+        "url": "https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d"
+      },
+      "artists": [
+        {
+          "name": "Diego Raposo",
+          "url": "https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi"
+        },
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 142275,
+      "name": "PERMANENTE",
+      "url": "https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V"
+    },
+    {
+      "added_at": "2026-07-24 04:02:32",
+      "album": {
+        "name": "Shock!",
+        "url": "https://open.spotify.com/album/3hBIuH62O5Usqi3RXGVLY4"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Shock!",
+      "url": "https://open.spotify.com/track/0qKVJsL0lNtKw3I2pieuhn"
+    },
+    {
+      "added_at": "2026-08-07 04:01:55",
+      "album": {
+        "name": "SYW (feat. Cecile Believe)",
+        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "SYW (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
+    },
+    {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "Jersey (feat. Jam City)",
+        "url": "https://open.spotify.com/album/22bOXYUzbfAiHKDCJBGR0h"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        }
+      ],
+      "duration_ms": 210028,
+      "name": "Jersey (feat. Jam City)",
+      "url": "https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk"
+    },
+    {
+      "added_at": "2026-06-26 04:00:59",
+      "album": {
+        "name": "Bedroom Eyes",
+        "url": "https://open.spotify.com/album/39WBNLBTWcHWdik02WZUy8"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Bedroom Eyes",
+      "url": "https://open.spotify.com/track/3qOzschVOffCPjbac03qyB"
+    },
+    {
       "added_at": "2026-07-17 04:01:59",
       "album": {
         "name": "Melt EP",
@@ -155,6 +311,26 @@
       "duration_ms": 188286,
       "name": "Melt",
       "url": "https://open.spotify.com/track/10SI5lACqzoAICNX3LbMft"
+    },
+    {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "Cutting You Loose",
+        "url": "https://open.spotify.com/album/6kAvRcNmOJUC74Ei7x3MKF"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Glyn",
+          "url": "https://open.spotify.com/artist/77B5NOcyDZpa6xDUkPJ5c1"
+        }
+      ],
+      "duration_ms": 326211,
+      "name": "Cutting You Loose",
+      "url": "https://open.spotify.com/track/1ytuq7neEPJ9kwytzPxPVl"
     },
     {
       "added_at": "2026-07-31 04:02:21",
@@ -195,6 +371,22 @@
       "duration_ms": 198246,
       "name": "all my feelings",
       "url": "https://open.spotify.com/track/2wimlNBThw9e01FfZcImsL"
+    },
+    {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "All Summer Long",
+        "url": "https://open.spotify.com/album/2KNQ9Cu1sfi9eUESuhOLHJ"
+      },
+      "artists": [
+        {
+          "name": "Marinus",
+          "url": "https://open.spotify.com/artist/0PuoByZ9ODmTJfp4WOCAlX"
+        }
+      ],
+      "duration_ms": 146777,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/1QlqYYU4avM7NSzJg3qq6a"
     },
     {
       "added_at": "2026-07-17 04:01:59",
@@ -253,20 +445,20 @@
       "url": "https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR"
     },
     {
-      "added_at": "2026-08-07 04:01:55",
+      "added_at": "2026-08-14 04:02:00",
       "album": {
-        "name": "Tu sais me faire danser",
-        "url": "https://open.spotify.com/album/0111WnMvN7AnhIZYIH6TKX"
+        "name": "The Whole Of The Moon",
+        "url": "https://open.spotify.com/album/0ctzKCb8R7eemt8Wo8YZkI"
       },
       "artists": [
         {
-          "name": "Chlo\u00e9 French",
-          "url": "https://open.spotify.com/artist/5x8WbkzuZXIKWNSDd5JcGa"
+          "name": "The Watergirls",
+          "url": "https://open.spotify.com/artist/0M4oTAfkCXZ9EtfIMZUVKd"
         }
       ],
-      "duration_ms": 173658,
-      "name": "Tu sais me faire danser",
-      "url": "https://open.spotify.com/track/4AIXofGG21C0LZEQ0lY0ty"
+      "duration_ms": 302986,
+      "name": "The Whole Of The Moon - Radio Edit",
+      "url": "https://open.spotify.com/track/3619m4oJNzvYLBcnfuRA9b"
     },
     {
       "added_at": "2026-07-24 04:02:32",
@@ -537,22 +729,6 @@
       "url": "https://open.spotify.com/track/3uP7jqdt4haiuL4acLhrDY"
     },
     {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
-    },
-    {
       "added_at": "2026-07-24 04:02:32",
       "album": {
         "name": "When the Magic Comes",
@@ -645,30 +821,6 @@
       "url": "https://open.spotify.com/track/12q7nog4QsQdtvjVDBWZV2"
     },
     {
-      "added_at": "2026-06-19 04:16:01",
-      "album": {
-        "name": "Your Lovin'",
-        "url": "https://open.spotify.com/album/2IBfTB4yaFwniF9lzIm1be"
-      },
-      "artists": [
-        {
-          "name": "Tonique & Man",
-          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
-        },
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        },
-        {
-          "name": "Mi Man",
-          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Your Lovin'",
-      "url": "https://open.spotify.com/track/1CzwbuxixZXvQjfvNqsK8d"
-    },
-    {
       "added_at": "2026-07-10 04:02:03",
       "album": {
         "name": "99 Dimensional",
@@ -699,22 +851,6 @@
       "duration_ms": 220608,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "Runaways",
-        "url": "https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo"
-      },
-      "artists": [
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 269880,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -819,26 +955,6 @@
       "duration_ms": 219015,
       "name": "espiral",
       "url": "https://open.spotify.com/track/1BGmn3of8EaszOvSdnASwY"
-    },
-    {
-      "added_at": "2026-07-10 04:02:03",
-      "album": {
-        "name": "Silver Lines (feat. Emily Warren)",
-        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Emily Warren",
-          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
-        }
-      ],
-      "duration_ms": 201296,
-      "name": "Silver Lines (feat. Emily Warren)",
-      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
       "added_at": "2026-07-10 04:02:03",
@@ -1117,22 +1233,6 @@
       "url": "https://open.spotify.com/track/1xIbvPoDlX5c143CNWlp1S"
     },
     {
-      "added_at": "2026-06-19 04:16:01",
-      "album": {
-        "name": "SATURN (rip my heart out gently)",
-        "url": "https://open.spotify.com/album/4y5S11iWke77AAlVkhqspe"
-      },
-      "artists": [
-        {
-          "name": "Baobei",
-          "url": "https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h"
-        }
-      ],
-      "duration_ms": 179458,
-      "name": "SATURN (rip my heart out gently)",
-      "url": "https://open.spotify.com/track/2dB60JiZmoBzem1HJopKjl"
-    },
-    {
       "added_at": "2026-05-08 04:04:16",
       "album": {
         "name": "Get A Grip (Make A Dance Remix)",
@@ -1391,22 +1491,6 @@
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/1QmYG5rDwfQFjtWFOMv6Kh"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/2yVpB7WZ5Y3EeFxFv1TnGK"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
         "name": "Stay Blessed",
         "url": "https://open.spotify.com/album/41RuCkxLwXxcDe04TFuiXC"
       },
@@ -1443,26 +1527,6 @@
       "duration_ms": 233113,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "The Cocktail Hour",
-        "url": "https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct"
-      },
-      "artists": [
-        {
-          "name": "Fabich",
-          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
-        },
-        {
-          "name": "CECI",
-          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Supercolor (feat. CECI)",
-      "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1595,26 +1659,6 @@
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
-        "name": "Our Way (Pablo Versace Remix)",
-        "url": "https://open.spotify.com/album/0zFWMo74BwEee9k1ksWN7c"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        },
-        {
-          "name": "Pablo Versace",
-          "url": "https://open.spotify.com/artist/3ibKP9iukyMBXXrpVZmDfE"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Our Way (Pablo Versace Remix)",
-      "url": "https://open.spotify.com/track/6EgHNLI5ZoS5ZBIchlR9FG"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/2MnZjVl6VPmbmJ8KhGiDvf"
       },
@@ -1695,26 +1739,6 @@
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/5PH0N5fnQYx4T503EdhdNS"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 231023,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4hTT2n6g4oq7isk4w1adY2"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
         "name": "Busy DJ (David Bay Remix)",
         "url": "https://open.spotify.com/album/7qqhI8kAoxZY4Eg0jFFpX6"
       },
@@ -1771,26 +1795,6 @@
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
-        "name": "The Moment I Dance",
-        "url": "https://open.spotify.com/album/65BwMHnttFrflzD5m2XBrP"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        },
-        {
-          "name": "Shaolin Cowboy",
-          "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD"
-        }
-      ],
-      "duration_ms": 158580,
-      "name": "The Moment I Dance",
-      "url": "https://open.spotify.com/track/4T5o16hIVjdvIy06jhsJLG"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
         "name": "MOVEMENT",
         "url": "https://open.spotify.com/album/1Ai8Fe6169Y9K0sXUHbEyQ"
       },
@@ -1803,26 +1807,6 @@
       "duration_ms": 207906,
       "name": "MOVEMENT",
       "url": "https://open.spotify.com/track/31sJ3wOwiCIZu1iMLJVv8t"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Stars Above",
-        "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        },
-        {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
-        }
-      ],
-      "duration_ms": 190078,
-      "name": "Stars Above",
-      "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
     }
   ],
   "unique_name": "metropolis",

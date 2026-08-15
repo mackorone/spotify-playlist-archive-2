@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: John Prine",
+  "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Sheryl Crow",
   "name": "Americana Icons",
   "tracks": [
     {
@@ -1611,6 +1611,28 @@
     },
     {
       "album": {
+        "name": "Freedom Bus (feat. Jesse Welles)",
+        "url": "https://open.spotify.com/album/5YkFjlztInHrn0fdfTkeQ3"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283234,
+      "name": "Freedom Bus (feat. Jesse Welles)",
+      "url": "https://open.spotify.com/track/6WIG59dsRrXkkJGoMUt1Xo"
+    },
+    {
+      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/5pHY33NfVPp6no94BYgoWS"
       },
@@ -2292,7 +2314,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 238066,
       "name": "I'll Fly Away - From \u201cO Brother, Where Art Thou\u201d Soundtrack",
       "url": "https://open.spotify.com/track/7Jo1HP2CuphXWTyOF4aIUY"

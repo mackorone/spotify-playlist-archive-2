@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Lvbel C5
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,539 likes - 49 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,586 likes - 49 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 20 | [Borç](https://open.spotify.com/track/532Na4VRMgoWzLH8Nd0hSO) | [ORRO BEATZ](https://open.spotify.com/artist/42AxVLePSLYj9u8lURI417), [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Tafoni](https://open.spotify.com/artist/3a2i6JtfwRncwW8u9HBesW) | [Borç](https://open.spotify.com/album/6mgiKDZ9OaFT1De3gRfpsK) | 3:05 |
 | 21 | [Jön](https://open.spotify.com/track/6QAWwp1zufihIZUDb6siZ6) | [Kava](https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f) | [Jön](https://open.spotify.com/album/3lHjVFUcbRdYKQWtDzgfpi) | 1:47 |
 | 22 | [BÜLBÜL](https://open.spotify.com/track/1cg9gqKweXLFRMxcIjtxBK) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [BÜLBÜL](https://open.spotify.com/album/6KWYn6R3885oUiIkn1oXpb) | 1:51 |
-| 23 | [SSS](https://open.spotify.com/track/5TfWjnUm5l3TKx6bPuwKsY) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [SSS](https://open.spotify.com/album/3PQiGlw2ReUeFkyzmT6ZGU) | 2:00 |
+| 23 | [SSS](https://open.spotify.com/track/5TfWjnUm5l3TKx6bPuwKsY) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED), [ÖTE](https://open.spotify.com/artist/49z6dTtf30rgYZ6qkvPbkD) | [SSS](https://open.spotify.com/album/3PQiGlw2ReUeFkyzmT6ZGU) | 2:00 |
 | 24 | [MAYMUN](https://open.spotify.com/track/6CsoVateFOK4JEoMZx0NxI) | [İmpala](https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF) | [MAYMUN](https://open.spotify.com/album/6miPf6cdiGtcnly3qyH6n2) | 2:36 |
 | 25 | [pVg \- Manifest Live Remix](https://open.spotify.com/track/2cUZpjUvGWtVrMMEUrx1YP) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [pVg \(Manifest Live Remix\)](https://open.spotify.com/album/1AS7ut0bE1qNWxxsCHiHpA) | 4:05 |
 | 26 | [TEXAS](https://open.spotify.com/track/51TItWP9iMMhPraDoyB8h2) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [TEXAS](https://open.spotify.com/album/0MNphtXHSRaI9N7pwfVFoh) | 1:46 |

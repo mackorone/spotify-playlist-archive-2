@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "For the new generation of trendsetters coming through, we move. Cover: Zino Vinci",
+  "description": "For the new generation of trendsetters coming through, we move. Cover: N4T, Ace",
   "name": "We Move",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 147500,
       "name": "2099",
       "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 126119,
       "name": "BAD BIT*HES",
       "url": "https://open.spotify.com/track/59PzAZnukiRBQJnbPEWzjb"
@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00e9rie",
+        "url": "https://open.spotify.com/album/4nstEL30geoz128jRW5OxL"
+      },
+      "artists": [
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/1kzEYCZOAVa2h07NEcCezO"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144089,
+      "name": "Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/38eDj6t09QQLWfyPWyNK2x"
+    },
+    {
+      "album": {
         "name": "Clean",
         "url": "https://open.spotify.com/album/7tx4cFdi9Cg2Xxzb77dWKA"
       },
@@ -892,7 +910,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 195050,
       "name": "DARLING",
       "url": "https://open.spotify.com/track/2zq3pwi2tlf96KbnZqDYvq"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 182068,
       "name": "E.V.O.L",
       "url": "https://open.spotify.com/track/3QFe7h2cN5WkkNeKxs1T10"
@@ -1318,6 +1336,24 @@
       "duration_ms": 120000,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/15PJRwSIxYCtG72eS0lP0i"
+    },
+    {
+      "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/2eZbf51oMa3TKOcx2n3bMu"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103306,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/413pM0wBJH35B542tx3Q8l"
     },
     {
       "album": {
@@ -2228,7 +2264,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/3e82RF8rwQYOpCwjLSu6gA"
@@ -2972,6 +3008,28 @@
       "duration_ms": 109714,
       "name": "Risk",
       "url": "https://open.spotify.com/track/5isXNs4Awya0ljdBIA6De7"
+    },
+    {
+      "album": {
+        "name": "SADAM",
+        "url": "https://open.spotify.com/album/6ff20s7O9nwOySdtwTP63A"
+      },
+      "artists": [
+        {
+          "name": "David Armada",
+          "url": "https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh"
+        },
+        {
+          "name": "N4T",
+          "url": "https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97642,
+      "name": "SADAM",
+      "url": "https://open.spotify.com/track/2kUnhPF2WzafNnXxKy925t"
     },
     {
       "album": {
@@ -4431,6 +4489,28 @@
     },
     {
       "album": {
+        "name": "goldenboy",
+        "url": "https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3"
+      },
+      "artists": [
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        },
+        {
+          "name": "onoola-sama",
+          "url": "https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "whine am well ft. onoola-sama",
+      "url": "https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu"
+    },
+    {
+      "album": {
         "name": "Toys Out The Pram",
         "url": "https://open.spotify.com/album/60x5A0WgKdGQlfKQYVKP9i"
       },
@@ -4580,6 +4660,28 @@
       "duration_ms": 124578,
       "name": "Yes, hello?",
       "url": "https://open.spotify.com/track/54l7XfMxrFmmPOrZOmZD0Y"
+    },
+    {
+      "album": {
+        "name": "YOU ONLY LIVE TWICE",
+        "url": "https://open.spotify.com/album/75PkzOCGTYf5vtz0AONszI"
+      },
+      "artists": [
+        {
+          "name": "N4T",
+          "url": "https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz"
+        },
+        {
+          "name": "Ace",
+          "url": "https://open.spotify.com/artist/0eOY3TiF4rCJ4n8ihAs5VQ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145772,
+      "name": "YOU ONLY LIVE TWICE",
+      "url": "https://open.spotify.com/track/56nTpzMJPbqcSBZF4AzDjz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0TrWIhtmeqJ"

@@ -4,7 +4,7 @@
 
 > 
 
-69 songs - 6 hr 2 min
+73 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,12 @@
 | [Engelsblut](https://open.spotify.com/track/6TkeafUCCwwZWiTsEIFZFf) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk) | [Exhale VA001](https://open.spotify.com/album/0po0rc9aEPhTZG6yTgmHgn) | 5:59 | 2020-11-27 |  |
 | [Everyday \- Netsky Remix](https://open.spotify.com/track/5s0dPzEGFSuXlQxTrxIWYa) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Everyday](https://open.spotify.com/album/1o8qbzCCaKMCqjbGvGj17p) | 4:11 | 2019-08-23 |  |
 | [Existencia](https://open.spotify.com/track/4lvv4prfWf6bSMg54vOtWO) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Existencia](https://open.spotify.com/album/6V7nqKnKOYCPuyVrCBrsos) | 4:38 | 2022-02-21 |  |
+| [Fall Into Pieces](https://open.spotify.com/track/1Vzg6E51Zm2CuWaTTJwIiM) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [SEKTION 4](https://open.spotify.com/album/4l2Jz96DR1AldgAYtJVnra) | 5:15 | 2026-08-14 |  |
 | [Flashing Lights](https://open.spotify.com/track/4efFlbKkwXq3rrMF5RODaI) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 | 2020-04-06 |  |
 | [Follow](https://open.spotify.com/track/5UsfWcP6SThHlZ4oAgx7ge) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0vlWyzbAl3ff9b3zout1XQ) | 5:37 | 2019-09-24 |  |
 | [FTS \- Original Mix](https://open.spotify.com/track/5CLruz22PAlhr07V7ULV5u) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [FTS](https://open.spotify.com/album/0rXON439n3w0JaRaugKasV) | 5:29 | 2023-05-30 |  |
 | [Full of Fire](https://open.spotify.com/track/1WgyirbL3CSFD9CUktHoEU) | [KOBOSIL](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [Full of Fire](https://open.spotify.com/album/0amwnQiFCSS6hS92fCMrsi) | 5:24 | 2022-10-10 |  |
+| [Gegenwart Der Sonne](https://open.spotify.com/track/2bPDoSWwliW08PvuvcbGGh) | [Arah](https://open.spotify.com/artist/74lR1Q1vDmI38sziY1hvHc) | [Gegenwart Der Sonne](https://open.spotify.com/album/0u2dwISqON7XxhYnbS06au) | 5:52 | 2026-08-14 |  |
 | [Get Nasty](https://open.spotify.com/track/1kzYLZQR6NFWCpXvUta7oa) | [AREA ØNE](https://open.spotify.com/artist/4cPhyd2BTkwlq4fyXo4riK) | [Get Nasty](https://open.spotify.com/album/6V3HpUDOrRenFRumOnXOYs) | 4:49 | 2025-02-03 |  |
 | [Hard Gaan](https://open.spotify.com/track/5G9eGKVbyX9G2lhT5M9fD5) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Church of Clubmusic](https://open.spotify.com/album/3Ji4igo2WBzCC7Vlz72FCv) | 3:33 | 2020-01-01 |  |
 | [Highrise 49](https://open.spotify.com/track/7jSTFLVAxwCAepKDz2092j) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [FJAAK 007](https://open.spotify.com/album/4pvSURGDoi3dDk42I5CZAz) | 7:09 | 2020-10-18 |  |
@@ -48,6 +50,7 @@
 | [Napalm \- Kas:st & Räar Remix](https://open.spotify.com/track/6QzEMWCtylKhAf7ysFpBEI) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Raär](https://open.spotify.com/artist/4yPF0okVf5WmxwRHZnUyAY) | [Mercurial Skin Remixes : Tome 1](https://open.spotify.com/album/7asoeisP1ALJCwPRY4jWEf) | 6:51 | 2022-02-04 |  |
 | [Nasty Boys](https://open.spotify.com/track/2Riv1HOSR9JMjoBUHLU5wZ) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Nasty Boys](https://open.spotify.com/album/1uO278F0iznhGFJhWZa3wg) | 6:41 | 2020-04-02 |  |
 | [No Problem](https://open.spotify.com/track/1KNWLV6YchpDzqxkrb7AnC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols \(Platinum Edition\)](https://open.spotify.com/album/7aot737RLXCnUBTEm2cG1b) | 4:10 | 2019-08-23 |  |
+| [Nothing To Lose \(Schranz Mix\)](https://open.spotify.com/track/2yM7qIZHia1spqwO4lxQE4) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [REELUV](https://open.spotify.com/album/3s75wNsLmNG5YT2JpgvJJC) | 4:50 | 2026-08-14 |  |
 | [Offender](https://open.spotify.com/track/5aUXOZP5xQquhXMJLtcwKI) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 3:43 | 2021-04-16 |  |
 | [Planet Session \- Reinier Zonneveld Remix](https://open.spotify.com/track/3NMHSH4fNW5MwyRvCQH0Lm) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Planet Session Remix EP](https://open.spotify.com/album/4VpjFIHLRYtGtzw6bDmOnu) | 6:09 | 2022-02-21 |  |
 | [Planet X](https://open.spotify.com/track/46N0cSUeoKfdGOGG852Jk1) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Planet X](https://open.spotify.com/album/0gNfR8j6CmCJCbzDDtSMt7) | 3:47 | 2021-03-09 |  |
@@ -77,5 +80,6 @@
 | [WINGS](https://open.spotify.com/track/7lLw9MfBhYUpTs1YqLKlHp) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [WINGS](https://open.spotify.com/album/0neDpsrfxMU14tTGf4gUpX) | 3:20 | 2023-03-30 |  |
 | [Wir](https://open.spotify.com/track/0TgjUpA2VGAol8qZvoBJQg) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Wir](https://open.spotify.com/album/2g2VKEhYemsxc3WROc4q2E) | 5:42 | 2025-08-04 |  |
 | [Your Mind](https://open.spotify.com/track/1WsHKAuN9vDthcmimdqqaY) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/07lumzt0xDO5eyuWwvevAJ) | 8:22 | 2019-08-23 |  |
+| [Zukunft](https://open.spotify.com/track/3LLsaIPGLZpL0EpxraldZ3) | [Arah](https://open.spotify.com/artist/74lR1Q1vDmI38sziY1hvHc) | [Zukunft](https://open.spotify.com/album/0htnaUNiMwIspPCQ4q3N8C) | 5:26 | 2026-08-14 |  |
 
 \*This playlist was first scraped on 2025-08-09. Prior content cannot be recovered.

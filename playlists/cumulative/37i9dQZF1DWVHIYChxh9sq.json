@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: La Inolvidable Banda Agua De La Llave",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Julian Mercado",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 201094,
       "name": "10 Lagrimas - En Vivo",
       "url": "https://open.spotify.com/track/3eB400kLr2GqJtTWL1vuyi"
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Dejando Huella (En Vivo)",
+        "url": "https://open.spotify.com/album/7q9VPZb6nCpWlSPjZ0ZR73"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209375,
+      "name": "Agua Y Aceite - En Vivo",
+      "url": "https://open.spotify.com/track/5HUaMvZnDyE1Nob6Hi9ZeD"
+    },
+    {
+      "album": {
         "name": "Pisteando Con La Regida (Vol. 3)",
         "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
       },
@@ -644,7 +662,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 250496,
       "name": "Amarte As\u00ed - Imperfecto Tour 2026 (En Vivo)",
       "url": "https://open.spotify.com/track/2ANU8f0XQJ6FUWhb0R2dwX"
@@ -732,6 +750,28 @@
       "duration_ms": 192786,
       "name": "Amor Prisionero - En Vivo Desde Culiac\u00e1n Sinaloa",
       "url": "https://open.spotify.com/track/3oTtoY5Yf5COtlHdNcoDxD"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Estadio GNP",
+        "url": "https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188586,
+      "name": "Amor Secreto - (En Vivo)",
+      "url": "https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u"
     },
     {
       "album": {
@@ -1514,7 +1554,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
@@ -1532,7 +1572,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 171776,
       "name": "Chiquitita - En Vivo",
       "url": "https://open.spotify.com/track/4P8Fx9raH2AOmNk3SmVkSc"
@@ -1674,7 +1714,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 509056,
       "name": "Como El Viento / Las Chiquillas - En Vivo",
       "url": "https://open.spotify.com/track/3IxJ2RjovOjw9zJ3ZjSYqG"
@@ -1946,7 +1986,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 233408,
       "name": "Consecuencias De Mis Actos - En Vivo",
       "url": "https://open.spotify.com/track/2STV99V8t2m7nceACXtIEo"
@@ -2004,6 +2044,24 @@
       "duration_ms": 126613,
       "name": "Corazon de Oropel",
       "url": "https://open.spotify.com/track/7t1suy5ewrXKADfQjrgGYx"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n - Se Fue - Tus Mentiras (En Vivo)",
+        "url": "https://open.spotify.com/album/5JDKA19NAYiocApicj7Xbl"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Reales",
+          "url": "https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371500,
+      "name": "Coraz\u00f3n - Se Fue - Tus Mentiras - (En Vivo)",
+      "url": "https://open.spotify.com/track/54D5jeRSvnsqjkKlcD7i3P"
     },
     {
       "album": {
@@ -2462,7 +2520,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 218634,
       "name": "DE SOBREMANERA - EN VIVO",
       "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
@@ -2710,7 +2768,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 195215,
       "name": "Ebrio De Amor (En Vivo Con Banda)",
       "url": "https://open.spotify.com/track/5teaCJdZk2Xrp8bQtggdu4"
@@ -5054,7 +5112,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 110154,
       "name": "El \u00daltimo Billete - En Vivo",
       "url": "https://open.spotify.com/track/3WDeCUV7HT4ZdW3wRab8Dv"
@@ -5549,6 +5607,28 @@
     },
     {
       "album": {
+        "name": "Frente a Frente (En Vivo)",
+        "url": "https://open.spotify.com/album/31XQi8p1sjUt1yvCEO0W6V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Historia",
+          "url": "https://open.spotify.com/artist/3uT3L1OzDiAH34ectqbocz"
+        },
+        {
+          "name": "Sa\u00fal Barraza",
+          "url": "https://open.spotify.com/artist/0GG7aJjXBfijvhzxd41DIR"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188820,
+      "name": "Frente a Frente - En Vivo",
+      "url": "https://open.spotify.com/track/0hf92UPty6IZeN9U2tgahH"
+    },
+    {
+      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
@@ -5937,6 +6017,28 @@
     },
     {
       "album": {
+        "name": "Hermos\u00edsimo Lucero (En Vivo)",
+        "url": "https://open.spotify.com/album/0ykYzxu3pc7DOWTCuc49zQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo 3 Mandos",
+          "url": "https://open.spotify.com/artist/30NWCe5fNf3m9yC6wbPltS"
+        },
+        {
+          "name": "La Edici\u00f3n de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Hermos\u00edsimo Lucero - En Vivo",
+      "url": "https://open.spotify.com/track/79EbYZpNx4Jy1869GuuzWU"
+    },
+    {
+      "album": {
         "name": "Hoy la Vi Con \u00c9l (En Vivo)",
         "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
       },
@@ -6282,7 +6384,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 135585,
       "name": "La Caguama - En Vivo",
       "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
@@ -6510,7 +6612,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 216620,
       "name": "La Dieta",
       "url": "https://open.spotify.com/track/2aey0M6o8yw5VCMBJVARRU"
@@ -7674,6 +7776,24 @@
       "duration_ms": 266624,
       "name": "Los Amigos del M - En Vivo",
       "url": "https://open.spotify.com/track/7hAG6OHFb2n9sEgqFWPMqG"
+    },
+    {
+      "album": {
+        "name": "Sones Y Caballos (En Vivo)",
+        "url": "https://open.spotify.com/album/4IaBBesdQqQlel5hGHGz8j"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202199,
+      "name": "Los Amores De Julia - En Vivo",
+      "url": "https://open.spotify.com/track/1WfsEweuDGT4bp7H4LlC6n"
     },
     {
       "album": {
@@ -9899,6 +10019,32 @@
     },
     {
       "album": {
+        "name": "\u00a1QU\u00c9 CURA! Desde Sonora A Chihuahua (En Vivo)",
+        "url": "https://open.spotify.com/album/0MHibHTyfoBAvSkjHlfd64"
+      },
+      "artists": [
+        {
+          "name": "Conjunto La Duracion",
+          "url": "https://open.spotify.com/artist/047wqZpbKCmKxAcWHdykd5"
+        },
+        {
+          "name": "Ayudantes del Rancho",
+          "url": "https://open.spotify.com/artist/5Mps52nzzy3mXMFzzai1JM"
+        },
+        {
+          "name": "Grupo La Etiqueta",
+          "url": "https://open.spotify.com/artist/1PKrDFePfBYTEh8cDHqiAp"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194699,
+      "name": "Qu\u00e9 Chulada de Mujer - En Vivo",
+      "url": "https://open.spotify.com/track/30z5nbnUQSAk13SSYaOsWG"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Fuimos (En Vivo)",
         "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
@@ -10176,6 +10322,24 @@
       "duration_ms": 153759,
       "name": "Seguramente",
       "url": "https://open.spotify.com/track/6DLX09yH7HqXBvK1CHcdYy"
+    },
+    {
+      "album": {
+        "name": "Si En Tu Mente Estuve (En Vivo)",
+        "url": "https://open.spotify.com/album/5SMFKt39BhCMwNQZaQd9Mf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Anexxo",
+          "url": "https://open.spotify.com/artist/4uO4vuAJJ39kXsVOqprZVS"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "Si En Tu Mente Estuve (En Vivo)",
+      "url": "https://open.spotify.com/track/4rl7Q7ganjl2Oc2tUImUrJ"
     },
     {
       "album": {
@@ -11844,6 +12008,24 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "album": {
+        "name": "Kwiky (En Vivo)",
+        "url": "https://open.spotify.com/album/6Oh4qWTICsvcFygux6v6jI"
+      },
+      "artists": [
+        {
+          "name": "Alto C\u00f3digo",
+          "url": "https://open.spotify.com/artist/5mTPOQ9UrBKsQC6eQMFjYN"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "Zona Patrullando - En Vivo",
+      "url": "https://open.spotify.com/track/3NF4rNYnPjN95DuG4fC1eB"
     },
     {
       "album": {

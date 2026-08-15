@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Will Linley
 
-1,648 songs - 3 day 10 hr 21 min
+1,650 songs - 3 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [bloom](https://open.spotify.com/track/68xhRinnpp9Y81wp4E6D9d) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [bloom](https://open.spotify.com/album/7o0alWuGZoP3FKEmfLPyCO) | 2:22 | 2025-01-10 | 2025-02-18 |
 | [blue](https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [blue](https://open.spotify.com/album/29FYm9EmlZJ77BNOOq43pi) | 2:06 | 2022-05-20 | 2022-07-30 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-12-13 | 2025-05-17 |
-| [blue jeans](https://open.spotify.com/track/5Nk82YLD9otZms5mjke3ks) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [blue jeans](https://open.spotify.com/album/14hGFRqfSaqnzEqw6kwrLh) | 2:37 | 2026-05-29 |  |
+| [blue jeans](https://open.spotify.com/track/5Nk82YLD9otZms5mjke3ks) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [blue jeans](https://open.spotify.com/album/14hGFRqfSaqnzEqw6kwrLh) | 2:37 | 2026-05-29 | 2026-08-15 |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-21 | 2024-08-17 |
 | [blue skies and open roads](https://open.spotify.com/track/65rcllOhsYoCKyP6Y4eooM) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [blue skies and open roads](https://open.spotify.com/album/31TnDB0qUMm5UFWL9LSVXn) | 3:25 | 2025-01-24 | 2025-04-12 |
 | [Bluish](https://open.spotify.com/track/4z6uxjuQNiEHfBiPGbqqJ8) | [Father Of Peace](https://open.spotify.com/artist/27nYMwQ6QyHV76mzwXarkO) | [Bluish](https://open.spotify.com/album/49CGtCKtpP9F9lJ2TjVq1u) | 2:31 | 2026-05-15 |  |
@@ -652,6 +652,7 @@
 | [High School](https://open.spotify.com/track/18WbWMRXGmW2GFaTm5MMe2) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ) | [High School](https://open.spotify.com/album/2ClKWz9V3rnLSlksV9JEXe) | 3:00 | 2022-01-07 | 2022-02-26 |
 | [HIGHWITCHA](https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [HIGHWITCHA](https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh) | 2:15 | 2024-03-01 | 2024-04-27 |
 | [His LA Girl](https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [His LA Girl](https://open.spotify.com/album/5ZmQqhcyWuVecfOSqpf5rY) | 4:46 | 2025-06-13 | 2025-08-30 |
+| [hit and run](https://open.spotify.com/track/3xlzKZ81ldMzbVIXIrnR4H) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [hit and run](https://open.spotify.com/album/7mpDkhXwbn2l7lZCu7rN7w) | 2:57 | 2026-08-14 |  |
 | [Holding On](https://open.spotify.com/track/1QheBawboy68qlo1A0wcct) | [Leona Naess](https://open.spotify.com/artist/060CzFv7eCEPramQlIJYNY) | [Holding On](https://open.spotify.com/album/5sAJM4NjF2nwwTtirLjLr9) | 3:02 | 2024-08-23 | 2024-10-19 |
 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 | 2022-06-17 | 2022-11-26 |
 | [Home](https://open.spotify.com/track/1XdZpce5hIRfdh41JGZU7B) | [Gervs](https://open.spotify.com/artist/0cyJKr7j8QGAhlDgPza01i), [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Home](https://open.spotify.com/album/3NZDgr21FMW7vnUm13OSl5) | 2:04 | 2023-01-27 | 2023-03-25 |
@@ -1179,6 +1180,7 @@
 | [rocket science](https://open.spotify.com/track/55cwGtYrExG7slEAor5jeR) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [rocket science](https://open.spotify.com/album/2AnbP606iCAadKQyqfxq32) | 2:32 | 2021-11-12 | 2022-03-18 |
 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 | 2023-02-10 | 2023-03-25 |
 | [RODEO](https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [EAVESDROPPING](https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh) | 3:02 | 2026-06-26 |  |
+| [RODEO QUEEN](https://open.spotify.com/track/2BBoXHM1H5ZYuZlYxJVxq9) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [RODEO QUEEN](https://open.spotify.com/album/7ChaWBtT0UoRv0okJFl8J1) | 3:24 | 2026-08-14 |  |
 | [ROI](https://open.spotify.com/track/57PdidKlKLiTtyJapoN111) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [NOMAD \- EP](https://open.spotify.com/album/1QFTJyV7Hqu3RzDAcnIiDF) | 2:00 | 2023-07-07 | 2023-07-29 |
 | [ROLLIN DICE](https://open.spotify.com/track/2CQU7ZryOFVcFUVFMXCL3C) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [ROLLIN DICE](https://open.spotify.com/album/3nRxmVSbUJuvpZ0vQEeoXT) | 3:05 | 2022-11-18 | 2022-12-24 |
 | [Room 421](https://open.spotify.com/track/4R4Ha6DCyGFP30FjWwrkZl) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [Room 421](https://open.spotify.com/album/1ezYtPUMHwEnlcgGbkN7v1) | 2:40 | 2022-04-22 | 2022-07-30 |
@@ -1598,7 +1600,7 @@
 | [WHO HURT YOU?](https://open.spotify.com/track/4HCsFCmFZBxBuLasSvD9p8) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [WHO HURT YOU?](https://open.spotify.com/album/3DFbl7qb3fUiZ91kDNyf3p) | 2:22 | 2022-04-29 | 2022-06-25 |
 | [Who We Are](https://open.spotify.com/track/1jKBuqvBVcKaJWZOLqWyVF) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Who We Are](https://open.spotify.com/album/6gIX1GpqaD5UMqrgmXqxXV) | 2:55 | 2026-08-07 |  |
 | [Who’s In Control](https://open.spotify.com/track/1GosSlFMwNOZ3tpb5LY3pW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Who's In Control](https://open.spotify.com/album/67FaNxCIc8ZSzeZffbm69l) | 3:05 | 2022-02-18 | 2022-02-26 |
-| [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 | 2026-04-24 |  |
+| [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 | 2026-04-24 | 2026-08-15 |
 | [why u gotta be like that \(feat\. Nightly\)](https://open.spotify.com/track/7CRThl2cGDh1o9p3ivaLbG) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [why u gotta be like that \(feat\. Nightly\)](https://open.spotify.com/album/18I1ughAhwfDLtaU9eX3uW) | 2:23 | 2022-08-19 | 2022-11-12 |
 | [Wild Things](https://open.spotify.com/track/23IorJ28ZIRUI7VpKCaTSV) | [EEVAH](https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL) | [Wild Things](https://open.spotify.com/album/1GgOyUSPYBz9682lLJWBWj) | 3:39 | 2022-12-23 | 2023-02-04 |
 | [Wild Things](https://open.spotify.com/track/24HWZczGAczojNdUnupoo4) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/5KIbd4Narbp6OAITLmr9Wv) | 3:36 | 2024-03-01 | 2024-04-27 |

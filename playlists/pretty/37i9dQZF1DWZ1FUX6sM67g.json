@@ -1,12 +1,12 @@
 {
   "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond y Elena Rose",
-  "num_followers": 476042,
+  "num_followers": 476049,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPgOlphkBJVWR1MGWfZh3fz0h157",
+  "snapshot_id": "AAAAAIKtd5cAEu3ArvxIPVTywqPRL/8Z",
   "tracks": [
     {
       "added_at": "2026-07-31 04:59:17",
@@ -27,22 +27,6 @@
       "duration_ms": 177821,
       "name": "Efectos Secundarios",
       "url": "https://open.spotify.com/track/3ZBeHVnqHHMOmv1ofhq6T0"
-    },
-    {
-      "added_at": "2026-08-07 04:59:17",
-      "album": {
-        "name": "A Mi Tierra",
-        "url": "https://open.spotify.com/album/6GECy1dVAcB6J1uGjMnn03"
-      },
-      "artists": [
-        {
-          "name": "Adriana Lucia",
-          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
-        }
-      ],
-      "duration_ms": 205325,
-      "name": "A Mi Tierra",
-      "url": "https://open.spotify.com/track/5YdfRELV93WXtfJ0W0bnM5"
     },
     {
       "added_at": "2026-05-15 04:59:16",
@@ -99,6 +83,22 @@
       "duration_ms": 163142,
       "name": "RULAY",
       "url": "https://open.spotify.com/track/440u0o6IMKbLgqNhmuYD8M"
+    },
+    {
+      "added_at": "2026-08-14 04:59:31",
+      "album": {
+        "name": "Me Despido",
+        "url": "https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 169701,
+      "name": "Me Despido",
+      "url": "https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH"
     },
     {
       "added_at": "2026-06-12 17:39:58",
@@ -351,6 +351,22 @@
       "duration_ms": 199986,
       "name": "En Todo Momento",
       "url": "https://open.spotify.com/track/0waT1PMdA5HdOHdp4s6AdG"
+    },
+    {
+      "added_at": "2026-08-14 04:59:31",
+      "album": {
+        "name": "Princeso",
+        "url": "https://open.spotify.com/album/73GvcfCy0aU19TeIekb7ii"
+      },
+      "artists": [
+        {
+          "name": "Briella",
+          "url": "https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b"
+        }
+      ],
+      "duration_ms": 157940,
+      "name": "Princeso",
+      "url": "https://open.spotify.com/track/7z3iEN68xmUGRv6mrEada0"
     },
     {
       "added_at": "2026-03-26 19:01:46",

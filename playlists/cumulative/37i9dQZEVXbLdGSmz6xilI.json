@@ -3714,7 +3714,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 205171,
       "name": "Bu\u00f4ng",
       "url": "https://open.spotify.com/track/2ZBi1KpCR0grEWRNgySqwg"
@@ -3968,6 +3968,24 @@
       "duration_ms": 274620,
       "name": "B\u00f3ng Ph\u00f9 Hoa",
       "url": "https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f"
+    },
+    {
+      "album": {
+        "name": "B\u00f4ng Hoa \u0110\u1eb9p Nh\u1ea5t",
+        "url": "https://open.spotify.com/album/1cHE0AXSVDsr6SHZxMh3cd"
+      },
+      "artists": [
+        {
+          "name": "Qu\u00e2n A.P",
+          "url": "https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315311,
+      "name": "B\u00f4ng Hoa \u0110\u1eb9p Nh\u1ea5t",
+      "url": "https://open.spotify.com/track/4TyQKEifYDWTfTSRwpxlYI"
     },
     {
       "album": {
@@ -8964,7 +8982,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -26054,7 +26072,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"

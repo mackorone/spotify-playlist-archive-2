@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 350 likes - 2,542 songs - 6 day 5 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 350 likes - 2,547 songs - 6 day 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2550,5 +2550,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2540 | [Ausente](https://open.spotify.com/track/36PcSX4cg6YHzAIw3pDrgA) | [AarǿnViz](https://open.spotify.com/artist/6ciNCF1EJNLtnruJM3eySb) | [Ausente](https://open.spotify.com/album/0SPOT5pwB1OkBCttVu9TQp) | 2:52 |
 | 2541 | [Hearts in Ash Flames](https://open.spotify.com/track/0IbDAlIBmWEHUWaqONezek) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Hearts in Ash Flames](https://open.spotify.com/album/4T1xDxA1nLT0ShI8u9EzKl) | 3:19 |
 | 2542 | [Bleeding Stars](https://open.spotify.com/track/72qr7jAEXtgSoArhJdGJ3F) | [Sideral](https://open.spotify.com/artist/1kFBUmLbV6cvRA7PFc00SM) | [Bleeding Stars](https://open.spotify.com/album/7h83oGdK3lc4SfgAdgvQpy) | 3:30 |
+| 2543 | [Blue Bird \(Lofi Cover from Naruto\)](https://open.spotify.com/track/4R3TouFmq8fYtBi9ACq9IC) | [Relaxicorn](https://open.spotify.com/artist/1rKNZ77nshUJZa8ORmksAn), [CozyCorner](https://open.spotify.com/artist/6NbAmKbYssuR5149X0EtX4) | [Blue Bird \(Lofi Cover from Naruto\)](https://open.spotify.com/album/0LJIbxQnkx0rJBA8TnxXhA) | 2:00 |
+| 2544 | [Wandering Waters](https://open.spotify.com/track/3ZAzuZbuElcjwowC19Zc8R) | [DustyDaze](https://open.spotify.com/artist/4M9oKzpN3FTMUxK4AuwqW4) | [Wandering Waters](https://open.spotify.com/album/4i4uSVUyizY0rHuGSGb9yu) | 2:14 |
+| 2545 | [Never Had](https://open.spotify.com/track/45EKsEATCU3KLdyitu8bjm) | [Charlie Sly](https://open.spotify.com/artist/4qvTP5uRYPsE9qHJHgDrKr) | [The Waiter](https://open.spotify.com/album/4fVJZw78OQ25XSYahysgzv) | 4:18 |
+| 2546 | [Quererte Otra Vez](https://open.spotify.com/track/6FRPEn9ZiXuVezqboW7gbd) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Quererte Otra Vez](https://open.spotify.com/album/0FIdoRt5PwohczVWy3r5YF) | 2:47 |
+| 2547 | [heaven in a wild flower](https://open.spotify.com/track/41Lm3GNicliYsJbCgYsEVP) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 4:24 |
 
-Snapshot ID: `AAAKyr7tqy8eSbwU4D7xLt8adsRxVq/V`
+Snapshot ID: `AAAKzxvffNMUMr2cMAowX1tBnephlEym`

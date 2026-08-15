@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Cat Scratch Fever",
+      "url": "https://open.spotify.com/track/2Z4dGhSV230biXT6ejyKIo"
+    },
+    {
+      "album": {
         "name": "Another Perfect Day (40th Anniversary)",
         "url": "https://open.spotify.com/album/5AsFm6eJVG3335fYjuC5kM"
       },
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 167226,
       "name": "Please Don't Touch (feat. Mot\u00f6rhead)",
       "url": "https://open.spotify.com/track/6Ud2ag3Rxz2ak0KhLG3KXP"

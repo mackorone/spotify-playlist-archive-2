@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LANDOKMAI",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -346,6 +346,24 @@
       "duration_ms": 249500,
       "name": "Manila",
       "url": "https://open.spotify.com/track/7IOQobXnONFEYsvbngKiho"
+    },
+    {
+      "album": {
+        "name": "maybesome",
+        "url": "https://open.spotify.com/album/5dyvEY9NepxqSafQEIWt8w"
+      },
+      "artists": [
+        {
+          "name": "YEW",
+          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "maybesome",
+      "url": "https://open.spotify.com/track/2RoJGBeBTrdqlHA2Eaxe9I"
     },
     {
       "album": {
@@ -722,6 +740,24 @@
       "duration_ms": 252972,
       "name": "\u0e02\u0e2d\u0e42\u0e17\u0e29\u0e17\u0e35\u0e48",
       "url": "https://open.spotify.com/track/2QYSZIbv7zNnqoJtP4maig"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e1f\u0e49\u0e32\u0e2d\u0e27\u0e22\u0e1e\u0e23 (Dear friend)",
+        "url": "https://open.spotify.com/album/7qi6LshNnGjkqvuey0Bfjy"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144727,
+      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e1f\u0e49\u0e32\u0e2d\u0e27\u0e22\u0e1e\u0e23 (Dear friend)",
+      "url": "https://open.spotify.com/track/0Rv76Bg0r2PSITMJyRDCWp"
     },
     {
       "album": {
@@ -1158,7 +1194,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 226853,
       "name": "\u0e0a\u0e48\u0e27\u0e22\u0e1e\u0e39\u0e14\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01 (Begging)",
       "url": "https://open.spotify.com/track/2M3ks2bl5SS5DPS1CNBVFd"
@@ -1176,7 +1212,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 269040,
       "name": "\u0e0b\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e19\u0e31\u0e49\u0e19 ( Hide & Seek )",
       "url": "https://open.spotify.com/track/6cc9helVHMrKWF0rJ2Dd57"
@@ -2066,7 +2102,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 298614,
       "name": "\u0e25\u0e30\u0e04\u0e23\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/5gBb3rTCrJFB0SC7JKRJD1"
@@ -2214,6 +2250,24 @@
       "duration_ms": 242168,
       "name": "\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e20\u0e32\u0e1e (PERSONA)",
       "url": "https://open.spotify.com/track/53eyWhgIpBtTl29xtUe9ju"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e31\u0e01\u0e04\u0e33\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/1mneqtolwEvbGKSuowZoPe"
+      },
+      "artists": [
+        {
+          "name": "Lower Mansion",
+          "url": "https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287449,
+      "name": "\u0e2a\u0e31\u0e01\u0e04\u0e33\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/4a5knK2We9wDXk6G9PjmtM"
     },
     {
       "album": {
@@ -3198,7 +3252,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 300800,
       "name": "\u0e43\u0e2b\u0e49\u0e2d\u0e20\u0e31\u0e22",
       "url": "https://open.spotify.com/track/5iHl5A1aHPy55gz7z5NtoD"
@@ -3296,6 +3350,24 @@
       "duration_ms": 267341,
       "name": "\u0e44\u0e21\u0e48\u0e1a\u0e2d\u0e01\u0e01\u0e47\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/5ie8e9PnYpJQtpW2JdgYVj"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19 (Not Even Me)",
+        "url": "https://open.spotify.com/album/4KTd0BSEfIpHpvN8CWfY3E"
+      },
+      "artists": [
+        {
+          "name": "loserpop",
+          "url": "https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279473,
+      "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19 (Not Even Me)",
+      "url": "https://open.spotify.com/track/18EvswsvivSBZNHoYpvWER"
     },
     {
       "album": {

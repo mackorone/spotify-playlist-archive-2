@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5  featuring Deathpact",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5  featuring Crankdat + Wooli",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -3121,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Bird Phone",
+        "url": "https://open.spotify.com/album/2Zuif5HUfMU2YMb8GuHLtE"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Bird Phone",
+      "url": "https://open.spotify.com/track/7DxoMYqZk3vWFJZ5rX3H4k"
+    },
+    {
+      "album": {
         "name": "BITE (MY STYLE)",
         "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
       },
@@ -3277,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "BLACKOUT",
+        "url": "https://open.spotify.com/album/2huhNUZjWUtG4llZJWMTJy"
+      },
+      "artists": [
+        {
+          "name": "HE$H",
+          "url": "https://open.spotify.com/artist/3gelndylZS1bjQ0c9elb7S"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223142,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/1Koq175rzysdoAivLnvHan"
+    },
+    {
+      "album": {
         "name": "Blame Me",
         "url": "https://open.spotify.com/album/7x3nheGj8xrbBWPD66ulpW"
       },
@@ -3390,6 +3426,32 @@
       "duration_ms": 235285,
       "name": "Blood, Sweat & Fears",
       "url": "https://open.spotify.com/track/2NehwPxlC828pU6haiVlLw"
+    },
+    {
+      "album": {
+        "name": "WAKE EM UP",
+        "url": "https://open.spotify.com/album/6IqqYnWUEE8eaqKUcTlbB3"
+      },
+      "artists": [
+        {
+          "name": "Benda",
+          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
+        },
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199183,
+      "name": "BLOODBATH (FEAT. SULLIVAN KING)",
+      "url": "https://open.spotify.com/track/5IcLJYnvNOckI8tWD2befT"
     },
     {
       "album": {
@@ -4610,7 +4672,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 235034,
       "name": "BURNOUT",
       "url": "https://open.spotify.com/track/4ta9CeyHyqVjYTIq5Nn3m9"
@@ -4850,7 +4912,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 157183,
       "name": "CAN'T STOP",
       "url": "https://open.spotify.com/track/7rqKlUgJtkENoL3zrDosq9"
@@ -8136,6 +8198,28 @@
       "duration_ms": 158000,
       "name": "DIY - Dubstep Mix",
       "url": "https://open.spotify.com/track/0t8dxQHa6hl2k2vPVaftmF"
+    },
+    {
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/0n3zo2e2iLto65B00lHa35"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        },
+        {
+          "name": "Slang Dogs",
+          "url": "https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/2CEHaeIDN5naObrLkJO7e1"
     },
     {
       "album": {
@@ -12442,7 +12526,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 214285,
       "name": "Got Away (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/5lIW37wg5kwRWcbUYlTpuP"
@@ -13062,6 +13146,24 @@
       "duration_ms": 252800,
       "name": "Haxo -Sharks Remix",
       "url": "https://open.spotify.com/track/1HIj9nk8ceUK7o87SgXv8o"
+    },
+    {
+      "album": {
+        "name": "Hazard Pay",
+        "url": "https://open.spotify.com/album/5DU8oufl99pZdMGKcVRe27"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Hazard Pay",
+      "url": "https://open.spotify.com/track/4SLhC2hS9m8fzcI3lvlRZ0"
     },
     {
       "album": {
@@ -17152,7 +17254,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 264457,
       "name": "Lost In The Sauce",
       "url": "https://open.spotify.com/track/0x5Y3R7CoTgzlYivoWWIol"
@@ -17648,7 +17750,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 192000,
       "name": "March of the Machine - VLCN Remix",
       "url": "https://open.spotify.com/track/2nFpkhzI4Ba1kLPluj8rgy"
@@ -20915,6 +21017,28 @@
     },
     {
       "album": {
+        "name": "PAIN KILLER",
+        "url": "https://open.spotify.com/album/3hSRdtbveWjyE9Cu5LMtqr"
+      },
+      "artists": [
+        {
+          "name": "M?STIC",
+          "url": "https://open.spotify.com/artist/0xlnHj0LM8ohKxoVEu56L4"
+        },
+        {
+          "name": "SPECKZ",
+          "url": "https://open.spotify.com/artist/1J6NcPANhendNKGG8tZEew"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "PAIN KILLER",
+      "url": "https://open.spotify.com/track/4aiCszPjduZkMJ48PJZKiI"
+    },
+    {
+      "album": {
         "name": "Pain to Pleasure",
         "url": "https://open.spotify.com/album/7DpZpOQ55oKjPJZOYuMORE"
       },
@@ -22312,7 +22436,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 190600,
       "name": "PUT YOUR SOUL INTO IT",
       "url": "https://open.spotify.com/track/0f3RGcfqEr3VLV8FUUUlps"
@@ -23703,6 +23827,24 @@
     },
     {
       "album": {
+        "name": "Risk It All",
+        "url": "https://open.spotify.com/album/5MjEXvIxWNBuVxiZiaPOeM"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5fGMOroOKHxMQNpTBmvlp1"
+    },
+    {
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1Iss9QCIde69sEne4VAwep"
       },
@@ -24548,7 +24690,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 178285,
       "name": "seethrough",
       "url": "https://open.spotify.com/track/1bTgFgJqJbeIf90oY4N9L2"
@@ -31938,7 +32080,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 125418,
       "name": "Windfall of Resonance",
       "url": "https://open.spotify.com/track/1adcQaTVllcf5Hgvarc2is"
@@ -32040,6 +32182,24 @@
       "duration_ms": 216888,
       "name": "Won't Back Down",
       "url": "https://open.spotify.com/track/51CvI6GzSkPpeInPgjs998"
+    },
+    {
+      "album": {
+        "name": "Wonky",
+        "url": "https://open.spotify.com/album/0r6gz36ycHtJMwYvzYqWJe"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181497,
+      "name": "Wonky",
+      "url": "https://open.spotify.com/track/0M6v8qTwT7wfiEsAmLQKdd"
     },
     {
       "album": {

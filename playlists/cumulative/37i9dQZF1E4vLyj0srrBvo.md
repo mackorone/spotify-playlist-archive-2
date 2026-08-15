@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Cults, Phantogram and more
+> With Pastel Ghost, Phantogram, Cults and more
 
 1,856 songs - 4 day 18 hr 16 min
 

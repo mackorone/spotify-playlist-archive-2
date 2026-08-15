@@ -77431,6 +77431,24 @@
     },
     {
       "album": {
+        "name": "Piano Hymns, Vol. 2",
+        "url": "https://open.spotify.com/album/3wwsBsLCVErJ79qxQ46Tv8"
+      },
+      "artists": [
+        {
+          "name": "DappyTKeys",
+          "url": "https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413015,
+      "name": "It is Well",
+      "url": "https://open.spotify.com/track/5fg56s4PAzs5FLx9hEqWvx"
+    },
+    {
+      "album": {
         "name": "IT IS WELL",
         "url": "https://open.spotify.com/album/7u7yJViay5AVSEfvGQALM1"
       },
@@ -121279,6 +121297,24 @@
     },
     {
       "album": {
+        "name": "God Is Cooking",
+        "url": "https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Oruko",
+      "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
+    },
+    {
+      "album": {
         "name": "Oruko Re",
         "url": "https://open.spotify.com/album/2Xpkiq0IRVud57OYVPIrZ0"
       },
@@ -128968,6 +129004,24 @@
       "duration_ms": 480005,
       "name": "Psalm 23 (feat. Blaq Note)",
       "url": "https://open.spotify.com/track/2fp7YO9M0xzP43yyUX1E1l"
+    },
+    {
+      "album": {
+        "name": "Psalm 40",
+        "url": "https://open.spotify.com/album/2giiXgWEGwybL0brVBH8UR"
+      },
+      "artists": [
+        {
+          "name": "Marlene Stuurman",
+          "url": "https://open.spotify.com/artist/0dMFqX3jy1JePwHQ4c0dJj"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311400,
+      "name": "Psalm 40",
+      "url": "https://open.spotify.com/track/5ickmZzdtQo2miZA2J6e8q"
     },
     {
       "album": {
@@ -139728,6 +139782,32 @@
       "duration_ms": 162405,
       "name": "Sinner 2 Winner",
       "url": "https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y"
+    },
+    {
+      "album": {
+        "name": "Sinner Man",
+        "url": "https://open.spotify.com/album/364fSOkOW2q8Xf4lBCpXdo"
+      },
+      "artists": [
+        {
+          "name": "Emino Music",
+          "url": "https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a"
+        },
+        {
+          "name": "Emino",
+          "url": "https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy"
+        },
+        {
+          "name": "Ama Agbo",
+          "url": "https://open.spotify.com/artist/1pTtCVB1Iaq6JYauGxefL5"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Sinner Man",
+      "url": "https://open.spotify.com/track/3qcr2LsmvsNT0d2825tWdd"
     },
     {
       "album": {
@@ -156543,42 +156623,6 @@
     },
     {
       "album": {
-        "name": "Piano Hymns, Vol. 2",
-        "url": "https://open.spotify.com/album/3wwsBsLCVErJ79qxQ46Tv8"
-      },
-      "artists": [
-        {
-          "name": "DappyTKeys",
-          "url": "https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w"
-        }
-      ],
-      "date_added": "2026-08-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5fg56s4PAzs5FLx9hEqWvx"
-    },
-    {
-      "album": {
-        "name": "God Is Cooking",
-        "url": "https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "date_added": "2026-08-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
-    },
-    {
-      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9"
       },
@@ -169604,6 +169648,24 @@
       "duration_ms": 205269,
       "name": "Worship Ye The Lord",
       "url": "https://open.spotify.com/track/7eRTVZZjb1LGwZwGMzgYGw"
+    },
+    {
+      "album": {
+        "name": "Worship Yeshua",
+        "url": "https://open.spotify.com/album/49gqXhNbRkD8zl5mHWCd1U"
+      },
+      "artists": [
+        {
+          "name": "Benny Abah",
+          "url": "https://open.spotify.com/artist/1qz9gxTVH3QaRA1OKiGobt"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176821,
+      "name": "Worship Yeshua",
+      "url": "https://open.spotify.com/track/3hryg3jRqygB9JTR4mJ01k"
     },
     {
       "album": {

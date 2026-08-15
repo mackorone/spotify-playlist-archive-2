@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,324 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,328 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 12 | [Men Into Boys](https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Men Into Boys](https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu) | 2:34 |
 | 13 | [i have a secret](https://open.spotify.com/track/5rzr7pkEiYNFU11Q71XYb3) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [i have a secret](https://open.spotify.com/album/67boqqAnVnbMBsQ11b7rZR) | 2:15 |
 | 14 | [GHOST DOG.](https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [GHOST DOG.](https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE) | 2:59 |
-| 15 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:18 |
+| 15 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:21 |
 | 16 | [Ya Hala](https://open.spotify.com/track/4h3QHOlA0cVlN8CSpJehnd) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Ya Hala](https://open.spotify.com/album/09cYavs2exGSaMjJGIcUyE) | 2:22 |
 | 17 | [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 |
 | 18 | [Moment Of Silence](https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Moment Of Silence](https://open.spotify.com/album/1NegFauPb9RjieMbg6g0lt) | 3:07 |

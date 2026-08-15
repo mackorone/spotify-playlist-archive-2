@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:13BgU01okousPOFvmiwecU">AZIEDOESNTEXIST<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,320 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,349 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 5 | [Run \(feat\. VonOff1700\)](https://open.spotify.com/track/75vBVmjIApeIQz7MpTKLVP) | [Lil Twin](https://open.spotify.com/artist/0FCkJPfpzEx5T0GriSusOA), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Run \(feat\. VonOff1700\)](https://open.spotify.com/album/1MpqmkL0UWjqEZ4gbzCuJA) | 3:15 |
 | 6 | [The Crib](https://open.spotify.com/track/24Ym3gRXhvOSfkwgij676L) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Crib](https://open.spotify.com/album/6mrjG8ZNd723nncb0G58r6) | 1:48 |
 | 7 | [BOO](https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/6eCKw4JH2vzTXGutRJ2Rhj) | 2:18 |
-| 8 | [Butta B](https://open.spotify.com/track/5LjDN2H72mbTcahtSbhEfD) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 2](https://open.spotify.com/album/6WpqetS5xi2Qsq0ebcgGmX) | 1:51 |
+| 8 | [Butta B](https://open.spotify.com/track/5LjDN2H72mbTcahtSbhEfD) | [Fatt Smaxk](https://open.spotify.com/artist/5YSA9ott30IS6zkPhdiDKG) | [Smaxk Season 2](https://open.spotify.com/album/6WpqetS5xi2Qsq0ebcgGmX) | 1:51 |
 | 9 | [BOAT REMIX](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [BOAT REMIX](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 |
 | 10 | [FDO](https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [FDO](https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be) | 5:19 |
 | 11 | [Bad Bitch](https://open.spotify.com/track/4baCpqXOivYqROUNMrfUCC) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Bad Bitch](https://open.spotify.com/album/2RU8jg3q51UuxlS5bsUYnD) | 2:28 |

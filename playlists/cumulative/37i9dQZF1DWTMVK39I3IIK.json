@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "youngs soundss \ud83e\udd5e Kundo p\u00e5 forsiden ",
+  "description": "youngs soundss \ud83e\udd5e Blaue Blume p\u00e5 forsiden ",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -3316,7 +3316,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 194899,
       "name": "Hvad Nu Hvis",
       "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
@@ -4376,6 +4376,24 @@
       "duration_ms": 194937,
       "name": "Kys f\u00f8r fald",
       "url": "https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz"
+    },
+    {
+      "album": {
+        "name": "K\u00e6restersangen",
+        "url": "https://open.spotify.com/album/6U78P29GTyW36jlGEmgW80"
+      },
+      "artists": [
+        {
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217078,
+      "name": "K\u00e6restersangen",
+      "url": "https://open.spotify.com/track/1TMs2va0VXwo1I9ug5PJdL"
     },
     {
       "album": {

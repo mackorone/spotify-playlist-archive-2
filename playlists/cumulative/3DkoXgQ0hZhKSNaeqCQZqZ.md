@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-575 songs - 1 day 6 hr 22 min
+576 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Great Fairy Fountain \(From "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/track/6yTpWXx5VvVfL8acHx8jYi) | [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb) | [Great Fairy Fountain \(From "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/album/30f9j2ZuaOY0GTtyhdQ5kk) | 3:30 | 2026-02-20 |  |
 | [Happier Than Ever](https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [JTwusky](https://open.spotify.com/artist/1eUXPi6ctQSSt6y4VGZzGl) | [Happier Than Ever](https://open.spotify.com/album/6DzGmloBNUS7Cc6occWcrc) | 4:50 | 2024-01-18 |  |
 | [HAVAGO](https://open.spotify.com/track/75uR1jODtXQ1OgTWArgwYc) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [HAVAGO](https://open.spotify.com/album/4vQupOFlFsPKyNpvC71CtL) | 2:25 | 2026-04-15 |  |
+| [HEADLESS LOUNGE](https://open.spotify.com/track/22mZmxadaPv3MmCT2xRGNq) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [HEADLESS LOUNGE](https://open.spotify.com/album/3CgEtw9IHv01AdyZae6SVN) | 2:47 | 2026-08-14 |  |
 | [HEAT](https://open.spotify.com/track/2Eb90KOQVtffoYWTrx84cw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [HEAT](https://open.spotify.com/album/6stY2PRGbRXTyShn6wvz5v) | 4:00 | 2025-07-29 |  |
 | [HEATDEATH](https://open.spotify.com/track/40MMRtYzfFgnXkPPpdYp6e) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [HEATDEATH](https://open.spotify.com/album/7wrOGqqfzuyvulI6NPkbOk) | 2:54 | 2024-07-22 | 2025-08-13 |
 | [HEAVENSENT!](https://open.spotify.com/track/6uen3LTLbdTnRtge8fA3pv) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [POM\-POM GUILLOTINE](https://open.spotify.com/album/5sPglyjvgeRbUqP4HdkYXJ) | 3:16 | 2025-03-10 |  |

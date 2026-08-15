@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Siri Xander",
-  "num_followers": 20174,
+  "num_followers": 20195,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANIXUaVA0Rv7NPWxvMynE1R26qkg",
+  "snapshot_id": "AAAAAECSv+t3V1GAwJvm5FmjB8uGZx2T",
   "tracks": [
     {
       "added_at": "2026-07-31 10:52:19",
@@ -95,22 +95,38 @@
     {
       "added_at": "2026-08-04 15:12:42",
       "album": {
-        "name": "I-Popstar Tamil | Ep 05",
-        "url": "https://open.spotify.com/album/57Yqhjk5FaALECoqOnmX5I"
+        "name": "I-Popstar Tamil | Ep 06",
+        "url": "https://open.spotify.com/album/0B6ZIq0VOSosltTAlCZ68p"
       },
       "artists": [
         {
-          "name": "Priya Jerson",
-          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
+          "name": "Rockzane",
+          "url": "https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1"
         },
         {
           "name": "Sathyaprakash",
           "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
         }
       ],
-      "duration_ms": 178909,
-      "name": "Ya Leili",
-      "url": "https://open.spotify.com/track/61cInGVHZSPeUaWXTUZfJl"
+      "duration_ms": 158769,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/3fXIx5zXNUSPoaEQF9TSDi"
+    },
+    {
+      "added_at": "2026-03-02 15:27:10",
+      "album": {
+        "name": "27 CLUB",
+        "url": "https://open.spotify.com/album/6Rc3YQSC5Afgy6zN3MsCgc"
+      },
+      "artists": [
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        }
+      ],
+      "duration_ms": 144096,
+      "name": "KAIDHI",
+      "url": "https://open.spotify.com/track/2avAwbXnqlpmMpaOZ1G1W1"
     },
     {
       "added_at": "2026-08-11 04:59:34",
@@ -151,6 +167,26 @@
       "duration_ms": 201082,
       "name": "Anbin Nadhiye",
       "url": "https://open.spotify.com/track/6aNNNwoULBgMkO2QfrPc1X"
+    },
+    {
+      "added_at": "2026-08-04 15:12:42",
+      "album": {
+        "name": "I-Popstar Tamil | Ep 05",
+        "url": "https://open.spotify.com/album/57Yqhjk5FaALECoqOnmX5I"
+      },
+      "artists": [
+        {
+          "name": "Priya Jerson",
+          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Ya Leili",
+      "url": "https://open.spotify.com/track/61cInGVHZSPeUaWXTUZfJl"
     },
     {
       "added_at": "2026-07-19 03:17:47",
@@ -855,26 +891,6 @@
       "duration_ms": 199864,
       "name": "En Pondatti Oorukku Poita",
       "url": "https://open.spotify.com/track/1NFrdhtRBfh6PjRqNWjymV"
-    },
-    {
-      "added_at": "2026-08-04 15:12:42",
-      "album": {
-        "name": "I-Popstar Tamil | Ep 06",
-        "url": "https://open.spotify.com/album/0B6ZIq0VOSosltTAlCZ68p"
-      },
-      "artists": [
-        {
-          "name": "Rockzane",
-          "url": "https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/3fXIx5zXNUSPoaEQF9TSDi"
     },
     {
       "added_at": "2026-06-12 13:44:44",
@@ -1841,26 +1857,6 @@
       "url": "https://open.spotify.com/track/6CDBGXl3iFpcI19aucjIv5"
     },
     {
-      "added_at": "2026-03-27 05:54:02",
-      "album": {
-        "name": "Karuppu Neraththi",
-        "url": "https://open.spotify.com/album/4Y5KsTVjCQhiF4pF58CdV1"
-      },
-      "artists": [
-        {
-          "name": "Gajaaaa01",
-          "url": "https://open.spotify.com/artist/20P0GIfGIXtAuicMsTXkVw"
-        },
-        {
-          "name": "naveen rithick",
-          "url": "https://open.spotify.com/artist/1PWNW8lEYKMs86fyC8BZPl"
-        }
-      ],
-      "duration_ms": 177229,
-      "name": "Karuppu Neraththi",
-      "url": "https://open.spotify.com/track/6xISuwRI0Ibm0ycWe2de1i"
-    },
-    {
       "added_at": "2026-03-09 10:54:39",
       "album": {
         "name": "What The Heck (From \"Loopd\")",
@@ -1953,20 +1949,24 @@
       "url": "https://open.spotify.com/track/4MOeRGLM4SePdzJNJaRBTA"
     },
     {
-      "added_at": "2026-03-02 15:27:10",
+      "added_at": "2026-03-27 05:54:02",
       "album": {
-        "name": "27 CLUB",
-        "url": "https://open.spotify.com/album/6Rc3YQSC5Afgy6zN3MsCgc"
+        "name": "Karuppu Neraththi",
+        "url": "https://open.spotify.com/album/4Y5KsTVjCQhiF4pF58CdV1"
       },
       "artists": [
         {
-          "name": "RANJ",
-          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+          "name": "Gajaaaa01",
+          "url": "https://open.spotify.com/artist/20P0GIfGIXtAuicMsTXkVw"
+        },
+        {
+          "name": "naveen rithick",
+          "url": "https://open.spotify.com/artist/1PWNW8lEYKMs86fyC8BZPl"
         }
       ],
-      "duration_ms": 144096,
-      "name": "KAIDHI",
-      "url": "https://open.spotify.com/track/2avAwbXnqlpmMpaOZ1G1W1"
+      "duration_ms": 177229,
+      "name": "Karuppu Neraththi",
+      "url": "https://open.spotify.com/track/6xISuwRI0Ibm0ycWe2de1i"
     },
     {
       "added_at": "2026-04-09 10:06:42",

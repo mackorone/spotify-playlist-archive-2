@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,348 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,369 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 12 | [Dil Ke Chhaale](https://open.spotify.com/track/4LZh8cudSVP5fYMxbA4XaJ) | [Kalpana Gandharva](https://open.spotify.com/artist/5UQgOU6dkEDeqPGoZWr1ax), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Priyankaa Bhattacharya](https://open.spotify.com/artist/1AerBLLesWL9aNrvn0hJt5) | [Dil Ke Chhaale](https://open.spotify.com/album/6QUvquefLiuLCW7qV3rlxC) | 4:32 |
 | 13 | [Yaar Khafaa \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/track/2EZCj4uuLzdhSYmQ9BaBa9) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Yaar Khafaa \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/26ejQYhPYbx9sMN1O79Isr) | 4:26 |
 | 14 | [Zamaana Lage \- Mood Shift](https://open.spotify.com/track/2KiPZtDxNXfiCuEFE2G1Co) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Qaisar\-Ul\-Jafri](https://open.spotify.com/artist/5SMMGwEnXqIWXvhfBfV6BD), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd) | [Metro ..\. In Dino \(Side B\)](https://open.spotify.com/album/0Xenz5qY7LXiUVHvEQDoWr) | 3:43 |
-| 15 | [Teri Aankhon Men Kahaan](https://open.spotify.com/track/5K2z6EX8B2bOKL0OkfxILB) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a) | [Teri Aankhon Men Kahaan](https://open.spotify.com/album/2z1EEOKwsoMKHsnWngDcFA) | 5:01 |
+| 15 | [Teri Aankhon Men Kahaan](https://open.spotify.com/track/5K2z6EX8B2bOKL0OkfxILB) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a) | [Teri Aankhon Men Kahaan](https://open.spotify.com/album/2z1EEOKwsoMKHsnWngDcFA) | 4:57 |
 | 16 | [Dil\-E\-Naadaan Tujhe Hua Kya Hai](https://open.spotify.com/track/32pak2UWgCO1r5fZwUPKOa) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU), [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Main Ghalib](https://open.spotify.com/album/7qyzHkSbeQgKvrwLaaCYM1) | 1:00 |
 | 17 | [Aaj Jaane Ki Zid Na Karo](https://open.spotify.com/track/2KYqJSqEcFKtFmcSf5574E) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY) | [Ghazal Lounge](https://open.spotify.com/album/0650SIztpEIyUkoQUIFflW) | 6:40 |
 | 18 | [Apni Uljhan \(Sar\-e\-Shaam \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/track/0SLWCkL2Fh4DPi8C16Unuk) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Apni Uljhan \(Sar\-e\-Shaam \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/4Ef6x5BoSQaCJEr5AHMMNt) | 4:04 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 72 | [Hamara Dil](https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Hamara Dil](https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q) | 5:15 |
 | 73 | [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 |
 | 74 | [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m) | [Rubai](https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r), [Gufy](https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv) | [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/album/38CLfNETJOIYjRCz9ug5fe) | 3:46 |
-| 75 | [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 |
+| 75 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 |
 
 Snapshot ID: `AAAAACjgY47Bcy9y3ZW0EcfUaHpE1lDg`

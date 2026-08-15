@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Aaron Rowe
 
-1,132 songs - 2 day 13 hr 2 min
+1,133 songs - 2 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,7 @@
 | [I'm Still Here](https://open.spotify.com/track/3zGyqzoklNOVzm7IQILW1t) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I'm Still Here](https://open.spotify.com/album/3GTnDXXEKprTs2bWVb1eml) | 4:06 | 2026-08-07 |  |
 | [I'm The Sinner](https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [I'm The Sinner](https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr) | 2:12 | 2024-03-08 | 2024-09-21 |
 | [i've missed you longer](https://open.spotify.com/track/7EqfOy9UoftDjltyjjN6Wj) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [i've missed you longer](https://open.spotify.com/album/4CkB0GvNIsUJKtmhMtLTjd) | 3:19 | 2026-07-24 |  |
-| [Icarus](https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Icarus](https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn) | 4:25 | 2026-03-27 |  |
+| [Icarus](https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Icarus](https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn) | 4:25 | 2026-03-27 | 2026-08-15 |
 | [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 | 2022-11-09 | 2022-12-03 |
 | [If I Don’t Like You](https://open.spotify.com/track/2UBT2n8ajA8lvECemb2DYW) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [If I Don’t Like You](https://open.spotify.com/album/2CyY9XKHpVwpz0iSvZyUfB) | 2:45 | 2024-03-15 | 2024-08-10 |
 | [if i had a wish...](https://open.spotify.com/track/7lAO5AorXpnM8dsAfSpPxS) | [Sloane Monroe](https://open.spotify.com/artist/01MmyFSkT8ZGwfp3gocPRQ) | [if i had a wish...](https://open.spotify.com/album/4nbZtHkosaIkBPORU7f2vw) | 2:47 | 2025-05-30 | 2025-09-27 |
@@ -557,6 +557,7 @@
 | [Inevitable](https://open.spotify.com/track/4HFPqbaVJIc0uTB1QhCY8z) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/3HQwoxEe5p7RNoOagQ57q4) | 3:22 | 2022-09-09 | 2023-02-18 |
 | [Inevitable](https://open.spotify.com/track/4jFWWwXkW037NJvLuZs9Kj) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her \(Clean\)](https://open.spotify.com/album/6WnoRdx3QhZkaImW71OLon) | 3:22 | 2022-09-09 | 2022-11-13 |
 | [Inside Out](https://open.spotify.com/track/5p3EiMypl7QejayVenmLEM) | [Beth McKenzie](https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq) | [Inside Out](https://open.spotify.com/album/1tAXnxI5LkZPc2NuGHTW2u) | 2:29 | 2024-10-11 | 2025-04-05 |
+| [Into the Ground](https://open.spotify.com/track/7qS4cZTYXHyqwJn8omn2lR) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Into the Ground](https://open.spotify.com/album/2ydeZcsTVJEe7IPzam2gL6) | 3:12 | 2026-08-14 |  |
 | [Introverted](https://open.spotify.com/track/23hY0BOxI8uDhVxxKtStBE) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Introverted](https://open.spotify.com/album/2uZ4tlQGq0AAhNvhYQp7pm) | 4:00 | 2023-05-05 | 2023-08-12 |
 | [Irish Eyes](https://open.spotify.com/track/6BuNcxbUQyssRpHEBqmpLw) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [Irish Eyes](https://open.spotify.com/album/3DVq0JXN7pboBAOyeM2qQQ) | 2:16 | 2023-07-14 | 2023-12-14 |
 | [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/track/0HFOCcewLjTDEJsmyJubYG) | [Natalie Madigan](https://open.spotify.com/artist/0VqERH28tjwguO9olLjkJd) | [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/album/7LtmQnN6io8NnwN2ggLjHt) | 3:29 | 2025-11-21 | 2026-03-29 |

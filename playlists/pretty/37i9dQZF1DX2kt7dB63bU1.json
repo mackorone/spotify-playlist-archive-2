@@ -1,13 +1,45 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 172824,
+  "num_followers": 172856,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHDMRwMhQXUE2m5pcp6v1bw7fcu",
+  "snapshot_id": "AAAAAKkWzbdgHvB+FGQCa22nnZ8Em1+Y",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:00:26",
+      "album": {
+        "name": "Bein\u2019 Green",
+        "url": "https://open.spotify.com/album/13SwXrM9xSsndzWQWX21Rb"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 250515,
+      "name": "Bein\u2019 Green",
+      "url": "https://open.spotify.com/track/0bFDv9RwLd1KNfrkVhUy4g"
+    },
+    {
+      "added_at": "2026-08-14 04:00:26",
+      "album": {
+        "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+        "url": "https://open.spotify.com/album/6dYaa17hczyvHqu7pawtAh"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 159426,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/7mTGyO47jbuPpHOE2mSYiH"
+    },
     {
       "added_at": "2026-08-07 04:00:20",
       "album": {
@@ -1787,46 +1819,6 @@
       "duration_ms": 218602,
       "name": "How About You",
       "url": "https://open.spotify.com/track/5Q5MOdNowDzfIGnS6AKur1"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Follow the Sound",
-        "url": "https://open.spotify.com/album/6YfOhtCvXwUswECPIE1QH8"
-      },
-      "artists": [
-        {
-          "name": "Morley",
-          "url": "https://open.spotify.com/artist/2Ddv1NqTE2U5QjbC1xODJj"
-        },
-        {
-          "name": "Chris Bruce",
-          "url": "https://open.spotify.com/artist/18X0h0jfg0sIT9dBe1uZlq"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "Follow the Sound",
-      "url": "https://open.spotify.com/track/5NHc8A5OsC7pd0MiIo5esd"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "De camino al camino",
-        "url": "https://open.spotify.com/album/4AaZtzB96HeZZUuJNwFQPS"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 340757,
-      "name": "El Panadero",
-      "url": "https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj"
     },
     {
       "added_at": "2024-07-26 04:00:00",

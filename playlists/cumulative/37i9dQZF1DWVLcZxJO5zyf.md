@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Anitta
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: PRISCILLA
 
-506 songs - 1 day 0 hr 15 min
+507 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Errada Ela Não Tá](https://open.spotify.com/track/5LOgoGZQf26eY74DGdYy0u) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Errada Ela Não Tá](https://open.spotify.com/album/4GLifNiKf4dDkkencR04Bn) | 2:58 | 2022-01-14 | 2022-04-13 |
 | [ESCADA DO PRÉDIO](https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:17 | 2024-10-11 | 2026-03-21 |
 | [escapismo](https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [escapismo](https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ) | 3:00 | 2026-07-24 |  |
-| [ESTAÇÃO DO PRAZER](https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS), [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [ESTAÇÃO DO PRAZER](https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw) | 2:51 | 2026-03-20 |  |
+| [ESTAÇÃO DO PRAZER](https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS), [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [ESTAÇÃO DO PRAZER](https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw) | 2:51 | 2026-03-20 | 2026-08-15 |
 | [Estrela Do Meu Show](https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Estrela Do Meu Show](https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe) | 4:06 | 2026-06-26 | 2026-07-28 |
 | [Eu Dou Tchau](https://open.spotify.com/track/1e6R5m4tE8aCMbRRMrMPjN) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Eu Dou Tchau](https://open.spotify.com/album/0nKw8RWcZwSThKUwIJCdXI) | 2:30 | 2022-01-14 | 2022-01-30 |
 | [Eu e Você](https://open.spotify.com/track/7GFL8Q0Uvt0ad8zmQudxNE) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Eu e Você](https://open.spotify.com/album/2RNhBem4gfJ1yL2qaCTQEd) | 2:22 | 2025-12-12 | 2026-05-16 |
@@ -313,6 +313,7 @@
 | [Noites de Neon](https://open.spotify.com/track/427JHB9CmpmxSten7B2isW) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Ecos do Desejo](https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C) | 2:26 | 2025-08-01 | 2025-08-30 |
 | [Noites em Miami](https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vivi](https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI) | 3:03 | 2025-10-31 | 2026-01-31 |
 | [NOSSA MÚSICA](https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:22 | 2022-12-23 | 2024-03-02 |
+| [Nosso Lugar](https://open.spotify.com/track/23XYwdiUzqPzxQ45KGsSpe) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [ECO](https://open.spotify.com/album/36bHXwhAKn92EGcROKqKJ0) | 3:32 | 2026-08-14 |  |
 | [NOVA: Energia](https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [FIVE](https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K) | [NOVA: Energia](https://open.spotify.com/album/5bwXJ7z9FAv0Tyw9v8Zcy8) | 2:48 | 2026-04-03 | 2026-05-30 |
 | [Nu](https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Nu](https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR) | 2:47 | 2023-04-21 | 2024-09-07 |
 | [Numa Ilha](https://open.spotify.com/track/2MitriRScA3ZKpVd1lXAbm) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Numa Ilha](https://open.spotify.com/album/3iWRG01i6PWGpA7cADfovj) | 4:09 | 2024-12-05 |  |

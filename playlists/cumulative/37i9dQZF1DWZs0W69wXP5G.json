@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Bein\u2019 Green",
+        "url": "https://open.spotify.com/album/13SwXrM9xSsndzWQWX21Rb"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250515,
+      "name": "Bein\u2019 Green",
+      "url": "https://open.spotify.com/track/0bFDv9RwLd1KNfrkVhUy4g"
+    },
+    {
+      "album": {
         "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
       },
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 236996,
       "name": "Drag Is Expensive",
       "url": "https://open.spotify.com/track/6dG6aRB6ldz3XgdCayRBx3"
@@ -1477,7 +1495,7 @@
       "artists": [
         {
           "name": "Richard Brown",
-          "url": "https://open.spotify.com/artist/4D57ApL3ZxruHW4hpWz7dT"
+          "url": "https://open.spotify.com/artist/0nluJgzF1Y21lkYHASXelo"
         },
         {
           "name": "Royal Philharmonic Orchestra",

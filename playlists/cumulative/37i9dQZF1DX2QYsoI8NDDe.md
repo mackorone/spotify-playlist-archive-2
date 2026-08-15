@@ -2,9 +2,9 @@
 
 ### [Women of Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX2QYsoI8NDDe)
 
-> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Lucero
+> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Majo Aguilar
 
-715 songs - 1 day 14 hr 33 min
+719 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Beliconas](https://open.spotify.com/track/71jVCWrWErZhrvVywvVLgM) | [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc) | [Beliconas](https://open.spotify.com/album/03dOg3kjLlQ5ftioBZ7KmD) | 2:41 | 2024-05-24 | 2025-11-22 |
 | [Belifresa](https://open.spotify.com/track/5YOW3rkzouNmVryMnEyCQk) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Belifresa](https://open.spotify.com/album/2oeUUgX5Rl45HgW84vimEX) | 2:50 | 2024-12-06 | 2026-02-14 |
 | [Besarte Así](https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Besarte Así](https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw) | 3:54 | 2023-03-17 | 2025-10-18 |
+| [Besitos Al Contado](https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Besitos Al Contado](https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk) | 2:33 | 2026-08-14 |  |
 | [Beyonce](https://open.spotify.com/track/32n44FJQOYB4DPWiDfi1N3) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Beyonce](https://open.spotify.com/album/3NI6t8o1YTwIDdPMx3yGfR) | 2:46 | 2024-10-04 | 2026-01-15 |
 | [bk](https://open.spotify.com/track/4kXd3byDcibgGVJ19gYCSE) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [La Traición y El Contrabando \(Deluxe\)](https://open.spotify.com/album/2BTtbzVyc4s0r3bIWuJB4W) | 3:25 | 2025-12-12 | 2026-06-27 |
 | [Blank Space](https://open.spotify.com/track/7MLWN8MvDGtRB2AQ5GvOIp) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Blank Space](https://open.spotify.com/album/79HVS0rA7d4PwPGOgIBCxR) | 4:22 | 2024-09-06 | 2024-09-21 |
@@ -224,6 +225,7 @@
 | [Estoy De Buenas](https://open.spotify.com/track/3ahvUUFTrNI5zNMmLfgHJQ) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Estoy De Buenas](https://open.spotify.com/album/2vX4qKAp8Ha34dG46dbC9v) | 2:15 | 2024-02-23 | 2025-10-11 |
 | [Estoy De Buenas 2](https://open.spotify.com/track/6CUnjwsIkBAphUkGV6q5lc) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Estoy de Buenas 2](https://open.spotify.com/album/6N7dE7fvEMV4mKzhy5ozHQ) | 2:05 | 2024-08-30 | 2025-05-31 |
 | [Ex de Verdad \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 4:07 | 2022-01-21 | 2023-03-04 |
+| [Explota](https://open.spotify.com/track/2KDERTO2wgJzNPMKEeVruP) | [Andrea Bayardo](https://open.spotify.com/artist/7ltZTIPxGZ7TbQDPZvMMDo) | [Explota](https://open.spotify.com/album/71XKxvJXVlBOAlSeEPY8ve) | 3:14 | 2026-08-14 |  |
 | [Extssy Model](https://open.spotify.com/track/10votWvfohmtOJisWbux01) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Extssy Model](https://open.spotify.com/album/7DhbdfUr9NdpgPCjQpSPt4) | 3:17 | 2024-09-06 | 2026-01-15 |
 | [Fan de Su Relación](https://open.spotify.com/track/1mAhrhjWDdwWArEYvMHthd) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Fan de Su Relación](https://open.spotify.com/album/3VOZkGzzVP8EWOww28izCD) | 3:12 | 2024-09-06 | 2026-02-14 |
 | [Fantasmas](https://open.spotify.com/track/4YJNPeRCk9WVmfAt7UHbQf) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO) | [Fantasmas](https://open.spotify.com/album/7vIIbDGMAZLFi8K7JTTK3l) | 2:56 | 2026-05-02 |  |
@@ -258,6 +260,7 @@
 | [Hazy x Ti](https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9) | [Loreto](https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Hazy x Ti](https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh) | 3:33 | 2026-04-03 |  |
 | [Hermoso Cariño](https://open.spotify.com/track/6dtG5oLthDJ37iUGr28hKI) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Hermoso Cariño](https://open.spotify.com/album/5uTeLCilSTEQg0Tq3olugY) | 2:40 | 2022-04-01 | 2022-06-27 |
 | [Hombre Malvado](https://open.spotify.com/track/6J8AOENqdUglgzpD4T6Pn3) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Hombre Malvado](https://open.spotify.com/album/5fnztBNdSyfqGkcRILbVtY) | 2:43 | 2024-12-06 | 2026-02-14 |
+| [Hombre Secreto](https://open.spotify.com/track/0VL8HPUxelXGCCVdxFQDei) | [Sandra Chavez La Comadre](https://open.spotify.com/artist/0CLoFoE5dypKUNHFvBa3Ln) | [Hombre Secreto](https://open.spotify.com/album/0eOJ6OKofrw9vuqUqoAJxL) | 3:12 | 2026-08-14 |  |
 | [Hoy Lo Vi Pasar](https://open.spotify.com/track/66L6J0eHhh5ks7xu5oJ2UO) | [Briseyda Solis](https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi) | [Hoy Lo Vi Pasar](https://open.spotify.com/album/4EsqMRhaRNkK5fmLLKyg6u) | 3:33 | 2026-03-06 |  |
 | [Ilesa](https://open.spotify.com/track/3kiUuHVGQznTwWeU3UfBBP) | [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Ilesa](https://open.spotify.com/album/6CJqZByDZgyJ4tjevMEH79) | 3:37 | 2025-09-26 | 2026-01-17 |
 | [Inocente Pobre Amiga](https://open.spotify.com/track/1axClPg8lUUj8CdYUqE2su) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 3:57 | 2022-01-07 | 2022-07-28 |
@@ -576,6 +579,7 @@
 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 | 2022-08-03 | 2023-01-21 |
 | [Se Fue Con Ella](https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1) | [Silvia Y Los Gomez](https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU) | [Se Fue Con Ella](https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI) | 2:36 | 2026-02-27 |  |
 | [Se Me Murio El Amor](https://open.spotify.com/track/2devADTH1QWZYlRShKZE6j) | [Brenda Michel](https://open.spotify.com/artist/2jN4BFSFkOvTcwc28ouzbG) | [Se Me Murio El Amor](https://open.spotify.com/album/0PYRebe16fABfeqQuWaQzW) | 3:08 | 2025-12-12 | 2026-05-23 |
+| [Se Me Olvidó Otra Vez](https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt) | 2:56 | 2026-08-14 |  |
 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f) | 3:30 | 2023-03-03 | 2024-10-05 |
 | [Se Me Sigue Olvidando](https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu) | [Grupo Triunfadores](https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ), [Las Posada](https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll) | [Se Me Sigue Olvidando](https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg) | 2:59 | 2026-03-06 |  |
 | [Se Me Va A Pasar](https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd) | 3:16 | 2026-03-06 |  |

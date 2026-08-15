@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Petra Sihombing
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,993 likes - 131 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,062 likes - 131 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

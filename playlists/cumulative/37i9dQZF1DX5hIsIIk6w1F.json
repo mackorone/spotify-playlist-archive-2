@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "2006",
+        "url": "https://open.spotify.com/album/7ED5sO8X9375vK6NRPa9GQ"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150587,
+      "name": "2006",
+      "url": "https://open.spotify.com/track/60vhW6BG1iDJIB38CCkNBc"
+    },
+    {
+      "album": {
         "name": "EL NI\u00d1O BENDITO",
         "url": "https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja"
       },
@@ -11370,7 +11392,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 189951,
       "name": "La Vaca Loca",
       "url": "https://open.spotify.com/track/1I4yTU2zf6z8v7DTbI6bDG"
@@ -15586,7 +15608,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 148846,
       "name": "Muchacha",
       "url": "https://open.spotify.com/track/21A7Y4Ylu9qjQTktWR3g0L"
@@ -16924,7 +16946,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 159402,
       "name": "Nuestro Amor y Punto",
       "url": "https://open.spotify.com/track/67mir0euoRx3Xelf8f2j0t"
@@ -18121,6 +18143,28 @@
     },
     {
       "album": {
+        "name": "Pastillitas De Color",
+        "url": "https://open.spotify.com/album/4xfoXhc3fiFaAK6FFoZRW3"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208370,
+      "name": "Pastillitas De Color",
+      "url": "https://open.spotify.com/track/4UuQQZByT87tFl5k7BMBcZ"
+    },
+    {
+      "album": {
         "name": "PATEK PHILIPPE",
         "url": "https://open.spotify.com/album/0k60ybZnUaeIBC5G608WwN"
       },
@@ -18888,6 +18932,24 @@
       "duration_ms": 220245,
       "name": "PISTOLONES",
       "url": "https://open.spotify.com/track/5oPjTmrIXMADIPpVMIEIqv"
+    },
+    {
+      "album": {
+        "name": "pk tan linda y sola",
+        "url": "https://open.spotify.com/album/6nYkG59sFEVmUMAntGH2Xu"
+      },
+      "artists": [
+        {
+          "name": "Santi Valencia",
+          "url": "https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141783,
+      "name": "pk tan linda y sola",
+      "url": "https://open.spotify.com/track/4DTWRND52X46oSg4jbJKJZ"
     },
     {
       "album": {
@@ -20520,7 +20582,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 226706,
       "name": "R2L",
       "url": "https://open.spotify.com/track/3PVhP3LGbttVKmrvGG4dFp"
@@ -26612,6 +26674,28 @@
       "duration_ms": 200073,
       "name": "XQ TAN SOLA?",
       "url": "https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi"
+    },
+    {
+      "album": {
+        "name": "Xtasis",
+        "url": "https://open.spotify.com/album/6Ej5iQ9fHzBiUOw12EbIy4"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206774,
+      "name": "Xtasis",
+      "url": "https://open.spotify.com/track/69mKhvArKOKESydeYTFxeM"
     },
     {
       "album": {

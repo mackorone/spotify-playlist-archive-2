@@ -879,6 +879,28 @@
     },
     {
       "album": {
+        "name": "Fantasia in Echo style in D dorian",
+        "url": "https://open.spotify.com/album/1TGgKs89VLyjYZJwz3BmgK"
+      },
+      "artists": [
+        {
+          "name": "Jan Pieterszoon Sweelinck",
+          "url": "https://open.spotify.com/artist/1py3vNdZzIlMyUlW4TNfwG"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205708,
+      "name": "Fantasia in Echo style in D dorian",
+      "url": "https://open.spotify.com/track/51a8o6Sv9xJa0avpTEw2SO"
+    },
+    {
+      "album": {
         "name": "Vaughan Williams: Pastoral Symphony",
         "url": "https://open.spotify.com/album/6oh3zPBUxUYXxuKC2IfDKk"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIaDfaHJHox.md) - [plain]
 
 > All great, all British.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,554 likes - 250 songs - 16 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,608 likes - 250 songs - 16 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

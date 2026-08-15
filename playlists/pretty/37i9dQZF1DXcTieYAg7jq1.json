@@ -1,13 +1,45 @@
 {
-  "description": "Featuring that new vintage. Cover: Matilda Mann",
-  "num_followers": 446031,
+  "description": "Featuring that new vintage. Cover: tig3r lewis",
+  "num_followers": 446132,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADkLFZneEFz92R5O3zu/BX7XXFhR",
+  "snapshot_id": "AAAAAL6GX7nJy1+Z1S/LCwB9THpBcYf9",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:00:12",
+      "album": {
+        "name": "Mr. Right Now",
+        "url": "https://open.spotify.com/album/43KPeE3nXAcQHTHcqIUXFC"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 154834,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T"
+    },
+    {
+      "added_at": "2026-08-14 04:00:12",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
+    },
     {
       "added_at": "2026-07-24 04:02:45",
       "album": {
@@ -25,22 +57,6 @@
       "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
     },
     {
-      "added_at": "2026-07-31 04:01:15",
-      "album": {
-        "name": "Puppet Show",
-        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 182665,
-      "name": "Puppet Show",
-      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
-    },
-    {
       "added_at": "2026-05-01 04:02:18",
       "album": {
         "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
@@ -55,6 +71,38 @@
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
+    },
+    {
+      "added_at": "2026-08-14 04:00:12",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2KTiBISlejXB7O09ct1Uga"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Byk",
+          "url": "https://open.spotify.com/artist/7HYi0cSMn8CBtilz99bXin"
+        }
+      ],
+      "duration_ms": 248203,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/1EQzwySOz9MxpbPIhzj5Mh"
+    },
+    {
+      "added_at": "2026-07-31 04:01:15",
+      "album": {
+        "name": "Puppet Show",
+        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 182665,
+      "name": "Puppet Show",
+      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
     },
     {
       "added_at": "2026-08-07 17:46:39",
@@ -311,22 +359,6 @@
       "duration_ms": 172292,
       "name": "Goodbye This Time",
       "url": "https://open.spotify.com/track/1mKzW2N6jatDgraRWS7vo5"
-    },
-    {
-      "added_at": "2026-07-10 04:02:31",
-      "album": {
-        "name": "USE ME",
-        "url": "https://open.spotify.com/album/5ZrgtfxnJFBzAkCRsDBsmo"
-      },
-      "artists": [
-        {
-          "name": "tig3r lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 178954,
-      "name": "USE ME",
-      "url": "https://open.spotify.com/track/5LAQvCXTaJl0ZRLcYENaiK"
     },
     {
       "added_at": "2026-07-07 15:11:11",
@@ -783,22 +815,6 @@
       "duration_ms": 203821,
       "name": "Memory Of You",
       "url": "https://open.spotify.com/track/03HzjjG5PNUCvp8Y9Vbbvd"
-    },
-    {
-      "added_at": "2026-03-28 20:26:15",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-05-01 23:18:50",
@@ -1575,22 +1591,6 @@
       "duration_ms": 251502,
       "name": "LEAN ON MY LOVE (feat. Andra Day)",
       "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
-    },
-    {
-      "added_at": "2025-09-05 04:00:05",
-      "album": {
-        "name": "Close to Love",
-        "url": "https://open.spotify.com/album/1XVyMSuOxPS8WncgHa4ZVN"
-      },
-      "artists": [
-        {
-          "name": "Sadie Rose Van",
-          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Close to Love",
-      "url": "https://open.spotify.com/track/4IV0Yf16Oh4l5eRPX4Vq31"
     },
     {
       "added_at": "2025-08-11 18:49:44",

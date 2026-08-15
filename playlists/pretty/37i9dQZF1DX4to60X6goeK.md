@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,365 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,366 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Posra](https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Posra](https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2) | 3:25 |
 | 55 | [On Fire](https://open.spotify.com/track/3YT0OteRA5wK1aCKUSzJRG) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Captain Bass](https://open.spotify.com/artist/1XS6lKOHQLnfn6HKRwU5VG) | [On Fire](https://open.spotify.com/album/088LmopF7elxRb67tJmx7w) | 3:40 |
 
-Snapshot ID: `AAAAAGb4YEaCnLFXkfqqNDRzdBun7sIO`
+Snapshot ID: `AAAAAOXZ4LSr5e1bHnk+fiYtdOkXLW0D`

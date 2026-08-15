@@ -4,7 +4,7 @@
 
 > This is Glen Hansard\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 39 min
+53 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Revelate \(Funkhaus Version\)](https://open.spotify.com/track/453oVdKnFk2PX89zV0QXfh) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 4:40 | 2026-08-01 |  |
 | [Rise](https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [The Cost](https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH) | 3:26 | 2026-08-01 |  |
 | [Say It To Me Now](https://open.spotify.com/track/1DqVnXqaTYRgifxIMzIKBY) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Once \(Music From The Motion Picture\)](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 2:35 | 2026-08-01 |  |
+| [Seven Day Mile](https://open.spotify.com/track/29bmB0tllG78IewIQYwFMj) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Longitude](https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m) | 4:34 | 2026-08-15 |  |
 | [Sleeping](https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [The Swell Season](https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb) | 3:38 | 2026-08-04 |  |
 | [Song of Good Hope](https://open.spotify.com/track/7oFCqRce7JYQHoLQ3yAK6f) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Rhythm And Repose \(Deluxe Edition\)](https://open.spotify.com/album/0wOZWFsq2ChZI7Gu7WPqal) | 3:48 | 2026-08-01 |  |
 | [Star Star](https://open.spotify.com/track/601Y6igy4Xewfm3daAN5c5) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Longitude](https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m) | 3:58 | 2026-08-01 |  |
@@ -59,6 +60,6 @@
 | [When Your Mind's Made Up](https://open.spotify.com/track/1aAfiBF8ftfkONfzc0GTWz) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Once \(Music From The Motion Picture\)](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 3:41 | 2026-08-01 |  |
 | [Why Woman](https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Between Two Shores](https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0) | 3:03 | 2026-08-01 |  |
 | [Winning Streak](https://open.spotify.com/track/2vaoKrieU38LtJAYWXpeju) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 3:21 | 2026-08-01 |  |
-| [You Ain't Goin' Nowhere](https://open.spotify.com/track/1vWgBZ8Uu89MMZaFkgJymR) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [I'm Not There \(Music From The Motion Picture \- Original Soundtrack\)](https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3) | 3:05 | 2026-08-01 |  |
+| [You Ain't Goin' Nowhere](https://open.spotify.com/track/1vWgBZ8Uu89MMZaFkgJymR) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [I'm Not There \(Music From The Motion Picture \- Original Soundtrack\)](https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3) | 3:05 | 2026-08-01 | 2026-08-15 |
 
 \*This playlist was first scraped on 2026-08-01. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Faster Horses
 
-1,351 songs - 3 day 1 hr 39 min
+1,352 songs - 3 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Call Me Your Hope](https://open.spotify.com/track/12MinAwnBD9uFK2amDeXty) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Call Me Your Hope](https://open.spotify.com/album/123sa4JxBBfMjnHqnrm1Kp) | 1:56 | 2022-01-07 | 2022-03-05 |
 | [Call My Name](https://open.spotify.com/track/5BMp1aNFeeB7plDvckBCpX) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Call My Name](https://open.spotify.com/album/1pcpxVLP53k84K3b8eKEMP) | 2:34 | 2026-04-16 |  |
 | [Calvin K](https://open.spotify.com/track/6Zk08BX1fHfxm8ULeqUNG6) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [Calvin K](https://open.spotify.com/album/67w5bTBa3uFQ69I6Gd76i2) | 2:28 | 2021-11-19 | 2022-02-19 |
-| [Calvin Klein](https://open.spotify.com/track/6V8q2p3HdAi7YKwzoNXxhi) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Calvin Klein](https://open.spotify.com/album/0uTvMlnRc5G6k4yAty4Q44) | 2:46 | 2026-03-20 |  |
+| [Calvin Klein](https://open.spotify.com/track/6V8q2p3HdAi7YKwzoNXxhi) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Calvin Klein](https://open.spotify.com/album/0uTvMlnRc5G6k4yAty4Q44) | 2:46 | 2026-03-20 | 2026-08-15 |
 | [Came To Dance](https://open.spotify.com/track/0m7RwgD5mopezt4VLChKwp) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Came To Dance](https://open.spotify.com/album/0HeViqxuG0AAE3fi04mdtd) | 3:18 | 2022-08-26 | 2023-06-08 |
 | [Can Do This](https://open.spotify.com/track/5lqoNLfzvjzug14fsMP9gt) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Can Do This](https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn) | 4:36 | 2022-08-26 | 2022-09-24 |
 | [Can't Get over Me](https://open.spotify.com/track/7swx2zXYblMAFx2SDUMIBq) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Can't Get over Me](https://open.spotify.com/album/6l4JbBRojQPPGznEEbsJBp) | 2:26 | 2023-09-28 | 2024-07-12 |
@@ -457,6 +457,7 @@
 | [Frou](https://open.spotify.com/track/2sinvAMG1upORnP6xqqXrM) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [Frou](https://open.spotify.com/album/0BQpJ6rmMTXerqMi1RLJF1) | 3:03 | 2025-03-21 | 2025-12-12 |
 | [fruit machine](https://open.spotify.com/track/4HkM0WDGGmdDRDx5MRpGHZ) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [fruit machine](https://open.spotify.com/album/6Db83GXGxNuhXnMoYnM3Lj) | 3:00 | 2025-02-28 | 2025-11-07 |
 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 | 2025-05-01 | 2026-02-06 |
+| [fuck it](https://open.spotify.com/track/29Y3YUkMBo6051oFAqXpIO) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [fuck it](https://open.spotify.com/album/5sbs5RjZtNMfd9hK00fn6C) | 3:03 | 2026-08-14 |  |
 | [Fuck It!](https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Fuck It!](https://open.spotify.com/album/1snDRRO46ItFbvq8OyNvo2) | 3:41 | 2022-11-18 | 2023-03-18 |
 | [Fuerteventura Forever](https://open.spotify.com/track/0NePTW4Zdn6GLW9CxLYe2B) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Fuerteventura Forever](https://open.spotify.com/album/7sAmDL45qjgM10ekWtaMV2) | 3:56 | 2024-09-26 | 2025-06-20 |
 | [Full Moon](https://open.spotify.com/track/7LNFCMklEjNQpaIucGl4Dy) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Full Moon / Haunta](https://open.spotify.com/album/0mBIjQQkHDWiX3CYonHWWB) | 6:03 | 2021-10-08 | 2022-03-12 |

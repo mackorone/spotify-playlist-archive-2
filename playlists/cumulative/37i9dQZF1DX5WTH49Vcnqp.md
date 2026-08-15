@@ -4,7 +4,7 @@
 
 > Music that's hard to define, but easy to love\. Cover: Jungle
 
-1,914 songs - 4 day 13 hr 57 min
+1,915 songs - 4 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1444,6 +1444,7 @@
 | [She Burns](https://open.spotify.com/track/3a5TUoTkUFU0XRwFX08UhL) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Folk Covers](https://open.spotify.com/album/0Ud61rO8oGgNtULK6HUead) | 3:17 | 2024-01-25 | 2024-02-23 |
 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SHELL \( OF A MAN \)](https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3) | 3:39 | 2024-10-31 | 2024-12-05 |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-23 | 2022-10-07 |
+| [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 | 2026-08-14 |  |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-26 | 2022-03-15 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-27 | 2023-03-03 |
 | [Shivers](https://open.spotify.com/track/3SXxv1BzhyPgd7c1XBIMUG) | [The Boys Next Door](https://open.spotify.com/artist/5FNUQUX6l8xV7dmOaBIMqN) | [Door, Door](https://open.spotify.com/album/3h0U2pCEobzZe9VxbFk7if) | 4:34 | 2023-04-06 | 2023-04-14 |

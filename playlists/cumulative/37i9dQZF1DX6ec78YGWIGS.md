@@ -2,9 +2,9 @@
 
 ### [POP FLOW](https://open.spotify.com/playlist/37i9dQZF1DX6ec78YGWIGS)
 
-> Lo nuevo y lo más escuchado del pop\. Foto: Abraham Mateo y Maria Becerra
+> Lo nuevo y lo más escuchado del pop\. Foto: Paulo Londra
 
-526 songs - 1 day 2 hr 1 min
+528 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Corre el Sudor](https://open.spotify.com/track/6eGBagVmhKpSE1LHlVmviB) | [Joelle Levy](https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45) | [IKIGAI](https://open.spotify.com/album/0DBWop4JyhOTYP8QiedbDj) | 3:29 | 2024-04-19 | 2024-06-15 |
 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2024-01-12 | 2026-05-30 |
 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 | 2025-07-25 |  |
-| [crazy dance](https://open.spotify.com/track/6w9RN1SWsNEuCvG8HrA3SS) | [soffyy](https://open.spotify.com/artist/2mX8G9cpmx2u2EqorBZtDr) | [crazy dance](https://open.spotify.com/album/04wM2pMxP5MDXHmEXbQuLY) | 2:39 | 2026-04-17 |  |
+| [crazy dance](https://open.spotify.com/track/6w9RN1SWsNEuCvG8HrA3SS) | [soffyy](https://open.spotify.com/artist/2mX8G9cpmx2u2EqorBZtDr) | [crazy dance](https://open.spotify.com/album/04wM2pMxP5MDXHmEXbQuLY) | 2:39 | 2026-04-17 | 2026-08-15 |
 | [Crimen](https://open.spotify.com/track/7siEBBuqbnAsWx54YRD6sx) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Crimen](https://open.spotify.com/album/60fSjEV31g6aydYD0QffR8) | 3:05 | 2026-02-06 |  |
 | [CRINGE](https://open.spotify.com/track/1QO0w1DZXOitOEg9PvOTHC) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [CRINGE](https://open.spotify.com/album/669qUaCZ3bB9CvONV51c9Q) | 3:27 | 2024-10-25 | 2024-11-16 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-25 | 2023-11-11 |
@@ -186,6 +186,7 @@
 | [FAVORITA](https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:53 | 2025-10-31 |  |
 | [FIAMORE](https://open.spotify.com/track/1ptV2NOt5z2XxvHfFlapz0) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [FIAMORE](https://open.spotify.com/album/1xjysg5uSQBtrc965qYll4) | 2:47 | 2025-05-02 |  |
 | [FIFA](https://open.spotify.com/track/6vCJt3yr9ww6EtnaSnx1Mg) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FIFA](https://open.spotify.com/album/213uunndQ2NsIwSA6ryD3e) | 3:27 | 2026-04-24 |  |
+| [Fine 4Me](https://open.spotify.com/track/0f3admp88H8QV2ljYWczx9) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [Fine 4Me](https://open.spotify.com/album/35BPFn1y5fQXlb1HaKh674) | 2:34 | 2026-08-14 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-05-12 | 2025-06-27 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-08-03 | 2023-09-28 |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-27 | 2024-04-19 |
@@ -289,6 +290,7 @@
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2023-05-12 | 2023-07-14 |
 | [MASNA REMIX](https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [MASNA REMIX](https://open.spotify.com/album/1vfrfkUV2mKB8KPaOcdyaS) | 4:08 | 2025-06-06 |  |
 | [MASNÁ](https://open.spotify.com/track/6uP5IUPtvZOlNup9FbcjRw) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [MASNÁ](https://open.spotify.com/album/7gjHE5oA2K47EaBGJwFaCS) | 2:08 | 2024-08-23 | 2024-10-26 |
+| [me asfixia LA CIUDAD](https://open.spotify.com/track/51hMMibOQhxk6kWWZdlL7m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [me asfixia LA CIUDAD](https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V) | 2:03 | 2026-08-14 |  |
 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 | 2023-05-19 | 2024-04-05 |
 | [Me Gusta](https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Gusta](https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg) | 2:37 | 2025-05-09 |  |
 | [ME GUSTAN TODAS](https://open.spotify.com/track/360nASHrDZlY2REawPoE20) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [ME GUSTAN TODAS](https://open.spotify.com/album/2gdenJOV6lUWmyRWMRDgJS) | 3:01 | 2024-07-12 | 2024-10-19 |
@@ -335,7 +337,7 @@
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-10-09 | 2023-12-02 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 | 2024-10-12 |
 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-02 | 2024-02-17 |
-| [ni una foto juntos](https://open.spotify.com/track/6WBRnXeyRghTRTapiVAwO1) | [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Fede Guelmos](https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8) | [ni una foto juntos](https://open.spotify.com/album/1Aoi3G5yjghIMhpV0CR8Fp) | 2:37 | 2026-07-31 |  |
+| [ni una foto juntos](https://open.spotify.com/track/6WBRnXeyRghTRTapiVAwO1) | [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Fede Guelmos](https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8) | [ni una foto juntos](https://open.spotify.com/album/1Aoi3G5yjghIMhpV0CR8Fp) | 2:37 | 2026-07-31 | 2026-08-15 |
 | [Nico Valdi produciendo a Ruggero y Bernardita](https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Bernardita Sonzini](https://open.spotify.com/artist/1Sdd0GHzVVAXY9nZOuvsrL) | [Nico Valdi produciendo a Ruggero y Bernardita](https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm) | 2:43 | 2024-02-02 | 2024-07-13 |
 | [NO BUSCO EL HIT](https://open.spotify.com/track/4zSmVB44ECkDsJhf8leDOv) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [NO BUSCO EL HIT](https://open.spotify.com/album/7x6504DxH7NiZU5BiDg9oe) | 2:43 | 2024-07-05 | 2024-07-27 |
 | [No Llores](https://open.spotify.com/track/3d4rloohk7D9OqY267uq8n) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [No Llores](https://open.spotify.com/album/6zpDRrBwXyaJLHGW4cApxj) | 2:46 | 2023-10-05 | 2024-12-07 |

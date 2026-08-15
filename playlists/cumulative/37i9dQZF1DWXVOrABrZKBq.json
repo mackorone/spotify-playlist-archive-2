@@ -206,7 +206,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 130008,
       "name": "2 Baddies dans 1 Uber",
       "url": "https://open.spotify.com/track/6rXkxEW9iAUag0Sbd9hoJd"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 153333,
       "name": "20 MILLIONS",
       "url": "https://open.spotify.com/track/5kxSwTQQLutunmQINplAPt"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 161194,
       "name": "7 SUR 7",
       "url": "https://open.spotify.com/track/1KXMqFjM0JKivzFPkjsftS"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 151874,
       "name": "7ayati",
       "url": "https://open.spotify.com/track/1BN7xAyT8kj44lsdem70kx"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 162162,
       "name": "AMBITION",
       "url": "https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 136809,
       "name": "Avion de chasse",
       "url": "https://open.spotify.com/track/3dDTJbtHZhsbe426l5Msk1"
@@ -1383,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/1fIFpjRULCY7BMQFSaRT2i"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142278,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3HarvlUiTyATgnZit9xgvN"
+    },
+    {
+      "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
@@ -1438,7 +1460,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 116677,
       "name": "BADBIHFORTEKOMMIKASA",
       "url": "https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b"
@@ -1464,6 +1486,28 @@
       "duration_ms": 201951,
       "name": "Bah Ouais - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
+    },
+    {
+      "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/7j2wA5aFxbuatJhKAwnquD"
+      },
+      "artists": [
+        {
+          "name": "HOUZ",
+          "url": "https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8"
+        },
+        {
+          "name": "BSF",
+          "url": "https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152750,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/5aYvQs8EzhOLTfQyJ2qiJ1"
     },
     {
       "album": {
@@ -1504,7 +1548,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX"
@@ -1588,7 +1632,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 150113,
       "name": "Bay Coco #WOY",
       "url": "https://open.spotify.com/track/7v94oWUTb2o6G4Gp6wQzzF"
@@ -1814,7 +1858,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 193381,
       "name": "BIGSTRaatos",
       "url": "https://open.spotify.com/track/7svxm6EDaBXdfDnsouUuUQ"
@@ -1836,7 +1880,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 207991,
       "name": "Billets Mauves (feat. SDM)",
       "url": "https://open.spotify.com/track/3yz9i3umZaQTIlUYb8o6bn"
@@ -2000,7 +2044,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 201103,
       "name": "BLOQU\u00c9",
       "url": "https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD"
@@ -2280,7 +2324,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 129731,
       "name": "BRAVES",
       "url": "https://open.spotify.com/track/0ma6DC2TLiYTBM5mtcXqGy"
@@ -3410,7 +3454,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 145655,
       "name": "crame",
       "url": "https://open.spotify.com/track/64352UaTFPDIcNGVkAxgGn"
@@ -3578,7 +3622,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 198709,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/4R4VTExxhvuQbl5fZnovzz"
@@ -3676,7 +3720,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 160263,
       "name": "Danger",
       "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
@@ -4140,7 +4184,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 163285,
       "name": "Dit Wurd 5",
       "url": "https://open.spotify.com/track/0udqQhDqJp1QETjdEik6DZ"
@@ -4572,7 +4616,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 145920,
       "name": "ELLE VOULAIT",
       "url": "https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9"
@@ -4682,7 +4726,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 192989,
       "name": "ERA",
       "url": "https://open.spotify.com/track/4gjNkDYdkcdn5GJxbYOHtH"
@@ -4868,7 +4912,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 194391,
       "name": "FAGNA BOOST\u00c9",
       "url": "https://open.spotify.com/track/2dcBRiPqAr4Irr6uEbW1hI"
@@ -5294,7 +5338,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 128976,
       "name": "Freestyle Session #1",
       "url": "https://open.spotify.com/track/4h54J2q0MEVu7rTSznNNsN"
@@ -5662,7 +5706,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 178915,
       "name": "GO",
       "url": "https://open.spotify.com/track/0sknJPVBxesDM2UtdOQMud"
@@ -6030,7 +6074,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 137692,
       "name": "Hood",
       "url": "https://open.spotify.com/track/4C5lhCIgxjfRAChtMdXXeC"
@@ -6314,7 +6358,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 158776,
       "name": "INCOGNITO",
       "url": "https://open.spotify.com/track/2uoKEakNdnvTGA5YOgQKZx"
@@ -6510,7 +6554,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 187200,
       "name": "J'les connais",
       "url": "https://open.spotify.com/track/37IGcM5jMetdYRYoVxfzFv"
@@ -6572,6 +6616,24 @@
       "duration_ms": 187317,
       "name": "Je savais",
       "url": "https://open.spotify.com/track/4rQGsjoAUmYPPY8sy5kBlD"
+    },
+    {
+      "album": {
+        "name": "M.O.R.T",
+        "url": "https://open.spotify.com/album/5h6RXyoHefDhKvSKpfqLhk"
+      },
+      "artists": [
+        {
+          "name": "Gnino",
+          "url": "https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111547,
+      "name": "JE STACK",
+      "url": "https://open.spotify.com/track/4elUc3AkwaWg5nEhqA852Z"
     },
     {
       "album": {
@@ -7278,7 +7340,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 162000,
       "name": "LA M\u00caME MERDE",
       "url": "https://open.spotify.com/track/3xgttiQiecbAgnuywf1iQR"
@@ -7410,7 +7472,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 102352,
       "name": "LA VAR",
       "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
@@ -7446,7 +7508,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 161100,
       "name": "La Vraie Vie - Freestyle des Flammes",
       "url": "https://open.spotify.com/track/65MTKzHYUo4gBC6USD8LiI"
@@ -7504,7 +7566,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 163076,
       "name": "LARA CROFT",
       "url": "https://open.spotify.com/track/6ttWnL330KbC0ZsoidcjNO"
@@ -7562,7 +7624,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 212586,
       "name": "Le c\u0153ur \u00e0 la bonne place",
       "url": "https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII"
@@ -7616,7 +7678,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 163394,
       "name": "LE MARATHON CONTINUE",
       "url": "https://open.spotify.com/track/1iFwiJ0Bwd5nNW2OUmcpbV"
@@ -7696,7 +7758,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 106712,
       "name": "Le resto du Hilton",
       "url": "https://open.spotify.com/track/3s5pq5RRlWBYAahZCkCw4Z"
@@ -7798,7 +7860,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 183694,
       "name": "Les avions dessinent dans le ciel",
       "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
@@ -7878,10 +7940,32 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 208133,
       "name": "Les Miens",
       "url": "https://open.spotify.com/track/3I0KmfTffLvxjq4sDwCwDb"
+    },
+    {
+      "album": {
+        "name": "LES NUAGES",
+        "url": "https://open.spotify.com/album/6w65tsBY3xITuhDKmP4rHQ"
+      },
+      "artists": [
+        {
+          "name": "Oskar",
+          "url": "https://open.spotify.com/artist/21hu6m0PNMtvA4mFWjrxW8"
+        },
+        {
+          "name": "Plage 84",
+          "url": "https://open.spotify.com/artist/7dwoKc64TML5mj1uPvPL6A"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "LES NUAGES",
+      "url": "https://open.spotify.com/track/5Qq4sDu1AnFOlpldGnjO9Y"
     },
     {
       "album": {
@@ -7958,7 +8042,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 175560,
       "name": "LOCKED UP (feat. Tiakola)",
       "url": "https://open.spotify.com/track/6SxTxfo3kuFiCFpGxIFjnS"
@@ -8420,7 +8504,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 138461,
       "name": "Marilouu",
       "url": "https://open.spotify.com/track/6DNAlKetFxMYm8EWwKlhar"
@@ -8456,7 +8540,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 150679,
       "name": "Marsellus Wallace",
       "url": "https://open.spotify.com/track/1bvYpfabzNITCIx3xr0dfC"
@@ -9288,7 +9372,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 172616,
       "name": "M\u00e9dicament",
       "url": "https://open.spotify.com/track/26ZjT5eaDXrolcKiA8H7Xh"
@@ -9404,7 +9488,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 155250,
       "name": "N-Word",
       "url": "https://open.spotify.com/track/5Sp2Kz9YUiO3IpoO3f58BS"
@@ -9466,7 +9550,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 148676,
       "name": "NETFLIX CHILL",
       "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
@@ -9638,7 +9722,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 138247,
       "name": "Noche",
       "url": "https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1"
@@ -10150,7 +10234,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 179820,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/5hmxAHWDIaZJ3iuLsk5NY7"
@@ -10390,7 +10474,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 120842,
       "name": "PAS DE REFRAIN",
       "url": "https://open.spotify.com/track/2EDGkj6mp1P0MeZM6NJaiv"
@@ -10608,7 +10692,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 158048,
       "name": "Picky",
       "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
@@ -10652,7 +10736,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 190938,
       "name": "PILIER",
       "url": "https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU"
@@ -10670,7 +10754,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 160487,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB"
@@ -10896,7 +10980,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 167386,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/3W1iqxNR7WbQWJFPzcFqcq"
@@ -11394,7 +11478,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "R.I.P",
       "url": "https://open.spotify.com/track/71co9ItCkb7Fa9R5A16aVw"
@@ -11554,7 +11638,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 137973,
       "name": "REN\u00c9 CAOVILLA",
       "url": "https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT"
@@ -11766,7 +11850,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 165429,
       "name": "Rom\u00e9o",
       "url": "https://open.spotify.com/track/2jpSBjNHMji6jlgmsldHPx"
@@ -11996,7 +12080,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 150741,
       "name": "Saison",
       "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
@@ -12226,7 +12310,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 148143,
       "name": "SANTA BARBARA",
       "url": "https://open.spotify.com/track/4hwoCT8J6IbYkvywzBo9Qx"
@@ -12266,7 +12350,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Savage",
       "url": "https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m"
@@ -12710,7 +12794,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 204664,
       "name": "Soleil levant",
       "url": "https://open.spotify.com/track/3UYNXXLHetyPKhX0vwF0d1"
@@ -12790,7 +12874,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 183307,
       "name": "SPA",
       "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
@@ -12808,7 +12892,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 154285,
       "name": "SPLIFF",
       "url": "https://open.spotify.com/track/1XKqYoUvRBLmqQVcLTkuMg"
@@ -12980,7 +13064,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 146493,
       "name": "SUPERMOTOR",
       "url": "https://open.spotify.com/track/3P3H3FrpvH8nzJmCmTc2CP"
@@ -13129,6 +13213,24 @@
     },
     {
       "album": {
+        "name": "Tadam - Gingembre #2",
+        "url": "https://open.spotify.com/album/3zcvgtsqhprI5x2onn0DRq"
+      },
+      "artists": [
+        {
+          "name": "ICO",
+          "url": "https://open.spotify.com/artist/5VkemxUDiz46ZHPdvh0LX0"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102250,
+      "name": "Tadam - Gingembre #2",
+      "url": "https://open.spotify.com/track/4clP9lyNGsbh1lAhOeCNyA"
+    },
+    {
+      "album": {
         "name": "Talbin",
         "url": "https://open.spotify.com/album/5TeuZYlsiQts3IAl4GenQG"
       },
@@ -13268,7 +13370,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 156190,
       "name": "TENTATION",
       "url": "https://open.spotify.com/track/4WqDVE0ilxE71vNeRJkirk"
@@ -13538,7 +13640,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 135652,
       "name": "Tout doux",
       "url": "https://open.spotify.com/track/1KBro5B3LOAq8uTAehhom9"
@@ -14016,7 +14118,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 174135,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/73ze5SmdVM4nzTtp9O37Jf"
@@ -14170,6 +14272,36 @@
       "duration_ms": 161142,
       "name": "VERNISSAGE",
       "url": "https://open.spotify.com/track/6POYZKs3nkPksqp0yvloDS"
+    },
+    {
+      "album": {
+        "name": "1885",
+        "url": "https://open.spotify.com/album/0IDj5J43h7hcqK4KzKNAwd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Savage",
+          "url": "https://open.spotify.com/artist/1yG7xAkT8v6Ora2dBdkrgq"
+        },
+        {
+          "name": "KaMa",
+          "url": "https://open.spotify.com/artist/3rblgHbQPHtt6CKgR9ykrH"
+        },
+        {
+          "name": "Faire les Choses",
+          "url": "https://open.spotify.com/artist/03HhpNxb5lzCo52TsP33FE"
+        },
+        {
+          "name": "5inq",
+          "url": "https://open.spotify.com/artist/7koHUiO2F4PHi0PDV4gycT"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "VERNISSAGE",
+      "url": "https://open.spotify.com/track/6bDfNwZoVAUoehG5nOPxvp"
     },
     {
       "album": {
@@ -14450,7 +14582,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 183952,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq"
@@ -14490,7 +14622,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 157826,
       "name": "Zizou",
       "url": "https://open.spotify.com/track/1L0ReG0kmjMfBZHAKz6Kok"
@@ -14578,7 +14710,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 131578,
       "name": "\u00c0 la base",
       "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"

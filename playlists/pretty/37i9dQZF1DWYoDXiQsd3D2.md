@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 
 > look up, dream on, drift off...
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,996 likes - 146 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,009 likes - 146 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gymnopédie No\. 1: Lent et douloureux](https://open.spotify.com/track/14iTz5kwQTzpaGIlsWXLMs) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Gymnopédie No\. 1: Lent et douloureux](https://open.spotify.com/album/11N42Tj7lY8Wya7Ux2GhdL) | 3:48 |
-| 2 | [Memore](https://open.spotify.com/track/4DafMfmtxcIr3ld1FGhSYk) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Stanze Memori](https://open.spotify.com/album/11qXmDFDlQSCyufLQSpYk1) | 2:45 |
-| 3 | [Eternity in an Hour: VIII\. In an Hour](https://open.spotify.com/track/07kSJb6z1A2O1yObCPGC7U) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Eric Whitacre Singers](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN), [Emma Denton](https://open.spotify.com/artist/0W9hKiOL5yNId9xC24fFWg) | [Eternity in an Hour: VIII\. In an Hour](https://open.spotify.com/album/3t53lVMYsAnqmvVWbeRF99) | 5:54 |
-| 4 | [open fields](https://open.spotify.com/track/1hjgZ66r2Phj0yJU0YiJ4s) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [open fields](https://open.spotify.com/album/1jjoPLEaP1TrIvlHBBd6C5) | 2:50 |
-| 5 | [Getting the Picture](https://open.spotify.com/track/1PVvD0V8BYl4QlKgP6V97c) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Without Wind, Without Air – Rarities](https://open.spotify.com/album/2indmRswjp9bK6CEWfAo6U) | 3:30 |
-| 6 | [the eternal sky](https://open.spotify.com/track/19jckEwX7daDz1LfBSGWhw) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [ordinary moments](https://open.spotify.com/album/7iVZFb0SnxRz70maGd3YmR) | 2:14 |
-| 7 | [White Flowers Take Their Bath \- Version for Piano](https://open.spotify.com/track/62RdrnQoCnhdMfKgNCe42z) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [Meredi: White Flowers Take Their Bath \(Version for Piano\)](https://open.spotify.com/album/1YOOl1LRKhoZ33cDnihiRZ) | 3:22 |
-| 8 | [The Quiet Room](https://open.spotify.com/track/5t0ZGeRGzzEBQJnhXHAtPr) | [Eleonora Pellegrino](https://open.spotify.com/artist/2qNDbSCROm7CktKpY3tRto) | [The Quiet Room](https://open.spotify.com/album/2coBR4jCTxZqqVc7L7yfQQ) | 2:57 |
+| 1 | [Eternity in an Hour: VIII\. In an Hour](https://open.spotify.com/track/07kSJb6z1A2O1yObCPGC7U) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Eric Whitacre Singers](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN), [Emma Denton](https://open.spotify.com/artist/0W9hKiOL5yNId9xC24fFWg) | [Eternity in an Hour: VIII\. In an Hour](https://open.spotify.com/album/3t53lVMYsAnqmvVWbeRF99) | 5:54 |
+| 2 | [The Quiet Room](https://open.spotify.com/track/5t0ZGeRGzzEBQJnhXHAtPr) | [Eleonora Pellegrino](https://open.spotify.com/artist/2qNDbSCROm7CktKpY3tRto) | [The Quiet Room](https://open.spotify.com/album/2coBR4jCTxZqqVc7L7yfQQ) | 2:57 |
+| 3 | [the eternal sky](https://open.spotify.com/track/19jckEwX7daDz1LfBSGWhw) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [ordinary moments](https://open.spotify.com/album/7iVZFb0SnxRz70maGd3YmR) | 2:14 |
+| 4 | [Gymnopédie No\. 1: Lent et douloureux](https://open.spotify.com/track/14iTz5kwQTzpaGIlsWXLMs) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Gymnopédie No\. 1: Lent et douloureux](https://open.spotify.com/album/11N42Tj7lY8Wya7Ux2GhdL) | 3:48 |
+| 5 | [Memore](https://open.spotify.com/track/4DafMfmtxcIr3ld1FGhSYk) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Stanze Memori](https://open.spotify.com/album/11qXmDFDlQSCyufLQSpYk1) | 2:45 |
+| 6 | [open fields](https://open.spotify.com/track/1hjgZ66r2Phj0yJU0YiJ4s) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [open fields](https://open.spotify.com/album/1jjoPLEaP1TrIvlHBBd6C5) | 2:50 |
+| 7 | [Getting the Picture](https://open.spotify.com/track/1PVvD0V8BYl4QlKgP6V97c) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Without Wind, Without Air – Rarities](https://open.spotify.com/album/2indmRswjp9bK6CEWfAo6U) | 3:30 |
+| 8 | [White Flowers Take Their Bath \- Version for Piano](https://open.spotify.com/track/62RdrnQoCnhdMfKgNCe42z) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [Meredi: White Flowers Take Their Bath \(Version for Piano\)](https://open.spotify.com/album/1YOOl1LRKhoZ33cDnihiRZ) | 3:22 |
 | 9 | [Hope Again](https://open.spotify.com/track/1ceru7mAptFoWOb7sXDgoO) | [Chris Ami](https://open.spotify.com/artist/3NNU3ThoPVA8OpaXcfhcet) | [Hope Again](https://open.spotify.com/album/3SrXvkY4WKEFVjHkV0tXnb) | 5:04 |
 | 10 | [Halo \- Reversed](https://open.spotify.com/track/7oAN8Hdk15RVqkwvixrWDb) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [11:11 ∞](https://open.spotify.com/album/1lBBzfij67cAFeMWQCw9CE) | 2:37 |
 | 11 | [Glass Fields](https://open.spotify.com/track/6p8uexCWmV3fgY2FmBwkUj) | [Jordi Corbalán](https://open.spotify.com/artist/4R1o8vTVHS99HCGQ9Gak8q) | [Glass Fields](https://open.spotify.com/album/3jHJUs3JVGe6DXSMUDuNS8) | 3:32 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 145 | [Remembered Words](https://open.spotify.com/track/4QMRZjSDbbBYGLBxOsEPYU) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Remembered Words](https://open.spotify.com/album/0lCDKKzqoBzR0hrHYwLDzw) | 5:10 |
 | 146 | [The Peacemakers](https://open.spotify.com/track/3onZszNqI3upQotSr4HtTE) | [Hill](https://open.spotify.com/artist/1hdkvBtRdOW4SPsnxCXOjK) | [The Mount](https://open.spotify.com/album/0wv44MyPxj3pFQTQlyHa7j) | 4:44 |
 
-Snapshot ID: `AAAAAGxKERm86ze3juboYbrFxdZrOco0`
+Snapshot ID: `AAAAADcyTd8KFiXENBSMLlK9G4XeeYbR`

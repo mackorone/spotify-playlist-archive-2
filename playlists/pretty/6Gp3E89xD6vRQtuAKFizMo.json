@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43334,
+  "num_followers": 43332,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAazeLZvPRy0RaHU1WdbGhJ0MYJSnx2",
+  "snapshot_id": "AAAaz+pQrcdrnJA92ryVf/wU0XPH275e",
   "tracks": [
+    {
+      "added_at": "2026-08-14 15:42:19",
+      "album": {
+        "name": "Miss Behave (feat. Shmani)",
+        "url": "https://open.spotify.com/album/18okV5sJ16EQtp9roUBABh"
+      },
+      "artists": [
+        {
+          "name": "Dani Thorne",
+          "url": "https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku"
+        },
+        {
+          "name": "shmani",
+          "url": "https://open.spotify.com/artist/0uxpFK7FajEqTiqlTgsfKo"
+        }
+      ],
+      "duration_ms": 229161,
+      "name": "Miss Behave (feat. Shmani)",
+      "url": "https://open.spotify.com/track/6nb9WzcvmBurfRCRnmGEmU"
+    },
     {
       "added_at": "2026-08-07 12:55:04",
       "album": {

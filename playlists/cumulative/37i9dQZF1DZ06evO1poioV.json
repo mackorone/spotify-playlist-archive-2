@@ -1120,10 +1120,32 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 260065,
       "name": "Human",
       "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
+    },
+    {
+      "album": {
+        "name": "Human (feat. Jon Hopkins) [Sad Gay Version]",
+        "url": "https://open.spotify.com/album/4mv0k5VhGDcbq3FCwVZoS5"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235986,
+      "name": "Human (feat. Jon Hopkins) - Sad Gay Version",
+      "url": "https://open.spotify.com/track/3bVFS7hCCgwqmkCeVpxVZc"
     },
     {
       "album": {

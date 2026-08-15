@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Hip-Hop Tracks by HUSTINDER, Saabi Bhinder, Gurlez Akhtar and more!",
+  "description": "Fresh Punjabi Hip-Hop Tracks by Iqbal, BAD Junkie, Dhoot Mani and more!",
   "name": "New Rap Punjabi",
   "tracks": [
     {
@@ -1169,6 +1169,28 @@
     },
     {
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/11wizp7coeLp55KLgbdTLm"
+      },
+      "artists": [
+        {
+          "name": "JERRY",
+          "url": "https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr"
+        },
+        {
+          "name": "SoundsbyJeremy",
+          "url": "https://open.spotify.com/artist/2lUHRrqFWCiW9Fv3GJsrwQ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167351,
+      "name": "666",
+      "url": "https://open.spotify.com/track/1gZSbOKG32gpjVjy29TQGR"
+    },
+    {
+      "album": {
         "name": "7 Horse",
         "url": "https://open.spotify.com/album/6MrE6MUdO3BY4TK2vk1rUE"
       },
@@ -1638,7 +1660,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 205714,
       "name": "Afford",
       "url": "https://open.spotify.com/track/2l0kk69LySNpKkVBfpdS0B"
@@ -2572,7 +2594,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 173478,
       "name": "Ask Ya Pops",
       "url": "https://open.spotify.com/track/1oP35EGJK7MDBtVzyijs8E"
@@ -2866,6 +2888,28 @@
       "duration_ms": 165466,
       "name": "Aura",
       "url": "https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq"
+    },
+    {
+      "album": {
+        "name": "Punjab's Blood",
+        "url": "https://open.spotify.com/album/0RSf8YEGSGEWfYeWWV5SGd"
+      },
+      "artists": [
+        {
+          "name": "SINGAAX",
+          "url": "https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW"
+        },
+        {
+          "name": "Drippy",
+          "url": "https://open.spotify.com/artist/1jkknDhiQJBRpS9DIbf8QA"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156355,
+      "name": "Aura Change",
+      "url": "https://open.spotify.com/track/0uQST5LgmdaJCZYgm0SjKH"
     },
     {
       "album": {
@@ -5370,7 +5414,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 127659,
       "name": "Busy",
       "url": "https://open.spotify.com/track/707dVK7TR7V5aZCIOZUAfv"
@@ -5736,7 +5780,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 237600,
       "name": "Case Closed",
       "url": "https://open.spotify.com/track/0ZnpoPyNs1hsqzR22Q7R4a"
@@ -5810,6 +5854,24 @@
       "duration_ms": 154666,
       "name": "Cash Out",
       "url": "https://open.spotify.com/track/7weu8PxfJxu2C3FwrXyuLF"
+    },
+    {
+      "album": {
+        "name": "Cash Talk",
+        "url": "https://open.spotify.com/album/41CUL2emdok5as4cV1Sb6H"
+      },
+      "artists": [
+        {
+          "name": "Palwinder Tohra",
+          "url": "https://open.spotify.com/artist/7JOxdzhWQVl9jTj9FNsQAS"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Cash Talk",
+      "url": "https://open.spotify.com/track/50RYflT2MELBnppy35s7kO"
     },
     {
       "album": {
@@ -6242,6 +6304,24 @@
       "duration_ms": 211153,
       "name": "Chhalla",
       "url": "https://open.spotify.com/track/449kMnMfoDIy55ELNelpWJ"
+    },
+    {
+      "album": {
+        "name": "Chobbar",
+        "url": "https://open.spotify.com/album/5PwHvpOynLu3S3KOccwHrY"
+      },
+      "artists": [
+        {
+          "name": "Harvi Chandiala",
+          "url": "https://open.spotify.com/artist/2DIi01oaJzzLHYcRm3FuKK"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Chobbar",
+      "url": "https://open.spotify.com/track/0jY9TrqgM6xBHQcFFnh97R"
     },
     {
       "album": {
@@ -9199,6 +9279,32 @@
     },
     {
       "album": {
+        "name": "EL PADRINO",
+        "url": "https://open.spotify.com/album/0vZSHGnudqdU7rN52iXgJ4"
+      },
+      "artists": [
+        {
+          "name": "OG Arsh",
+          "url": "https://open.spotify.com/artist/6WpqoXhzQ0qV4VmvBAgVd8"
+        },
+        {
+          "name": "Adrey",
+          "url": "https://open.spotify.com/artist/3bNBehiQ5j9vSNy45Js3eH"
+        },
+        {
+          "name": "Vansh Gumti",
+          "url": "https://open.spotify.com/artist/3oMIMro8zl0U6yP6oNNZqo"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135351,
+      "name": "EL PADRINO",
+      "url": "https://open.spotify.com/track/4gZ4NlDyGLb9LViWyctLa3"
+    },
+    {
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/0etNE7et53iCqe0wvihnGA"
       },
@@ -9434,7 +9540,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 159130,
       "name": "EYES ON HER",
       "url": "https://open.spotify.com/track/6wdYdgLqHTGglDfbPowEKU"
@@ -10973,6 +11079,28 @@
     },
     {
       "album": {
+        "name": "Game",
+        "url": "https://open.spotify.com/album/3SOiGiWozSNGyJ2F6w4kjY"
+      },
+      "artists": [
+        {
+          "name": "The Vijay Nayyar",
+          "url": "https://open.spotify.com/artist/5w16hm8OWzwWGnaqbrns3p"
+        },
+        {
+          "name": "Saggi Nexuss",
+          "url": "https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Game",
+      "url": "https://open.spotify.com/track/14uHcHDzmLGDBpogiJ2ASQ"
+    },
+    {
+      "album": {
         "name": "Game On",
         "url": "https://open.spotify.com/album/6Z4m6ZjCZO2fUEdX74Fio8"
       },
@@ -11658,7 +11786,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 146751,
       "name": "Gold Tooth",
       "url": "https://open.spotify.com/track/0tkA3uSgHllBPv41SSSN9o"
@@ -14290,7 +14418,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 90322,
       "name": "Its Complicated",
       "url": "https://open.spotify.com/track/7zO7tjQvVXKiOO3qUkFSCT"
@@ -15782,7 +15910,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 181250,
       "name": "Killer Walk",
       "url": "https://open.spotify.com/track/7DlT87woadv2ZYcRs6Fbmw"
@@ -16216,6 +16344,24 @@
       "duration_ms": 126792,
       "name": "Laal Suha Rang",
       "url": "https://open.spotify.com/track/7rWw4eguIc5TZGCfKZ1rFn"
+    },
+    {
+      "album": {
+        "name": "Laare",
+        "url": "https://open.spotify.com/album/4wp7Hpp2uFfAnSPmrIkcMm"
+      },
+      "artists": [
+        {
+          "name": "Lakhi Tagger",
+          "url": "https://open.spotify.com/artist/3ajraDVnjmdm3Uiu2tQENU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141951,
+      "name": "Laare",
+      "url": "https://open.spotify.com/track/7y96wmsQvqGWwufw6BvTTd"
     },
     {
       "album": {
@@ -19002,7 +19148,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 152017,
       "name": "MY TIME",
       "url": "https://open.spotify.com/track/5SM2pWlvc2T4Jq4gYwgnxK"
@@ -19887,6 +20033,24 @@
     },
     {
       "album": {
+        "name": "HighRoller",
+        "url": "https://open.spotify.com/album/16ruaAgfRR4m2IpNdpa012"
+      },
+      "artists": [
+        {
+          "name": "Rav Dhaliwal",
+          "url": "https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "No Expectation",
+      "url": "https://open.spotify.com/track/3t8YomlzmLEnQh1CcX1TYc"
+    },
+    {
+      "album": {
         "name": "No Face No Case",
         "url": "https://open.spotify.com/album/7lJCxzXYm6XjpXJKm573MU"
       },
@@ -20419,6 +20583,24 @@
     },
     {
       "album": {
+        "name": "Noises",
+        "url": "https://open.spotify.com/album/25gx8lW1VX2fLcTSSjFNKL"
+      },
+      "artists": [
+        {
+          "name": "Arash Boparai",
+          "url": "https://open.spotify.com/artist/1yXfcmWuDLjAb3fJtAPQ20"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174642,
+      "name": "Noises",
+      "url": "https://open.spotify.com/track/2br7pptmBAXwjyqPDTBmnm"
+    },
+    {
+      "album": {
         "name": "Non Stop",
         "url": "https://open.spotify.com/album/3vpikp9NDP0lnWM15cc51b"
       },
@@ -20492,7 +20674,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 203478,
       "name": "Not Easy",
       "url": "https://open.spotify.com/track/1UjZ19NPvrMwGNamZiyZ5C"
@@ -21338,7 +21520,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 145379,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/24Vm5bpKYOuIJ5bHI3NtQc"
@@ -22899,6 +23081,28 @@
     },
     {
       "album": {
+        "name": "Radka",
+        "url": "https://open.spotify.com/album/6iZAcAaun7VIaUHnwljNp2"
+      },
+      "artists": [
+        {
+          "name": "Raghav Agarwal",
+          "url": "https://open.spotify.com/artist/2zWyht1LioViX3CzDQGyRs"
+        },
+        {
+          "name": "S4LT",
+          "url": "https://open.spotify.com/artist/6CmtxPcuVbrEhMJQei5kvb"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Radka",
+      "url": "https://open.spotify.com/track/5JbJOA82EYjt8ce1ZxoviK"
+    },
+    {
+      "album": {
         "name": "Rage & Rizz",
         "url": "https://open.spotify.com/album/5vANIXausddgLW3FMXJ4zx"
       },
@@ -23288,7 +23492,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 203265,
       "name": "Reality Anthem",
       "url": "https://open.spotify.com/track/0si7H6N2wBigW9HjRWQFRu"
@@ -23500,7 +23704,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 148645,
       "name": "Refugee",
       "url": "https://open.spotify.com/track/5uHCw6YJdAv3LO8boVPg9p"
@@ -23600,7 +23804,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 150697,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/6vJIalyu0JV0USOBqSoe6p"
@@ -24286,6 +24490,28 @@
       "duration_ms": 177600,
       "name": "Saadiyan Reesan",
       "url": "https://open.spotify.com/track/1mdsKjpjdcapQ45P8LIijH"
+    },
+    {
+      "album": {
+        "name": "Saanjh",
+        "url": "https://open.spotify.com/album/6YOzF4TYt7wMYCCDXHSNI2"
+      },
+      "artists": [
+        {
+          "name": "Bhambi2fly",
+          "url": "https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2"
+        },
+        {
+          "name": "2YUNG",
+          "url": "https://open.spotify.com/artist/2DyvVSo9LcZVgwohKddjX6"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194384,
+      "name": "Saanjh",
+      "url": "https://open.spotify.com/track/7hnSD2r5EGldeXWXOjgmya"
     },
     {
       "album": {
@@ -25609,6 +25835,28 @@
     },
     {
       "album": {
+        "name": "Singh Soorme",
+        "url": "https://open.spotify.com/album/4OS8Qx1RUMUsqYkM572bqv"
+      },
+      "artists": [
+        {
+          "name": "KAIM",
+          "url": "https://open.spotify.com/artist/4mWnkJywbo48C85Ikt3xxD"
+        },
+        {
+          "name": "Me'Kool",
+          "url": "https://open.spotify.com/artist/1h5CdulwTiNhP8OY6AVgFZ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216437,
+      "name": "Singh Soorme",
+      "url": "https://open.spotify.com/track/0JQIW0MYA74f1Iz2jlgG4F"
+    },
+    {
+      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/0ln0Hf0HeenT2NxutXWjdi"
       },
@@ -25866,6 +26114,28 @@
       "duration_ms": 138701,
       "name": "Soldato",
       "url": "https://open.spotify.com/track/52CCbWyGs3ifOmeIqp0xDv"
+    },
+    {
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/1YeZjlXGkNtCN6l1ROyhez"
+      },
+      "artists": [
+        {
+          "name": "4tee7ven",
+          "url": "https://open.spotify.com/artist/6EjilIQSEv30SRtJCx506v"
+        },
+        {
+          "name": "Jee Pro Beats",
+          "url": "https://open.spotify.com/artist/05hXkdZe2i2rwXjnHsgChz"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148868,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/3Ew6vefMmYgQt7qvsjFv9L"
     },
     {
       "album": {
@@ -26456,7 +26726,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 127135,
       "name": "Stolen Heart",
       "url": "https://open.spotify.com/track/2b19jIJuySrIDbSdMGaUxQ"
@@ -26860,7 +27130,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 141473,
       "name": "Surfin",
       "url": "https://open.spotify.com/track/3n2E3zqjMgIP326dTONmiO"
@@ -27651,6 +27921,24 @@
     },
     {
       "album": {
+        "name": "They Call Me",
+        "url": "https://open.spotify.com/album/6N1tvDuiSFWrEwTC61sNk1"
+      },
+      "artists": [
+        {
+          "name": "BAD Junkie",
+          "url": "https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173417,
+      "name": "They Call Me",
+      "url": "https://open.spotify.com/track/6U9fUXfhdkjdpqfxr4acfh"
+    },
+    {
+      "album": {
         "name": "They Don't Know",
         "url": "https://open.spotify.com/album/6TSfw73eeOXJuqzSrneSMY"
       },
@@ -28167,6 +28455,28 @@
     },
     {
       "album": {
+        "name": "Tool Rule",
+        "url": "https://open.spotify.com/album/1wkfTYCS87oOEAdHbjtHV6"
+      },
+      "artists": [
+        {
+          "name": "Amrit Badesha",
+          "url": "https://open.spotify.com/artist/5dumXbVlVHNY5ntMYCPiP9"
+        },
+        {
+          "name": "Kinda Jatt",
+          "url": "https://open.spotify.com/artist/1WvwHIqnxspbBtyLa6789f"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Tool Rule",
+      "url": "https://open.spotify.com/track/0QilFnziwezq7wGBOz4oxI"
+    },
+    {
+      "album": {
         "name": "Top",
         "url": "https://open.spotify.com/album/4TYNZEz2JiJwSnGSkOIyEq"
       },
@@ -28457,6 +28767,28 @@
     },
     {
       "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/4Hf53dEgoBQnR0YGwiE7xK"
+      },
+      "artists": [
+        {
+          "name": "Dhoot Mani",
+          "url": "https://open.spotify.com/artist/4Qxx0J73vOmSCfMCAgwRzd"
+        },
+        {
+          "name": "Shehbaaz",
+          "url": "https://open.spotify.com/artist/0eOgf3NSBxsGIhXqhSfX3P"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/07KLnLi64F3u5qQgxHrl8a"
+    },
+    {
+      "album": {
         "name": "True Talks",
         "url": "https://open.spotify.com/album/6EwWkNl4a6411cClsUcZC9"
       },
@@ -28642,6 +28974,28 @@
       "duration_ms": 166250,
       "name": "TYPE SHII",
       "url": "https://open.spotify.com/track/0nYq0xnkv00EZMylciD3XY"
+    },
+    {
+      "album": {
+        "name": "UDA AEDA",
+        "url": "https://open.spotify.com/album/17pwKiTk7c65UVoG1yk0y9"
+      },
+      "artists": [
+        {
+          "name": "Iqbal",
+          "url": "https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp"
+        },
+        {
+          "name": "Jovinbainz",
+          "url": "https://open.spotify.com/artist/5pDsg7wlmFI8ubgEh6rmt4"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234816,
+      "name": "UDA AEDA",
+      "url": "https://open.spotify.com/track/15S3RrnmNpfPf1aFxw2wkP"
     },
     {
       "album": {
@@ -29070,7 +29424,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 195529,
       "name": "Vajood",
       "url": "https://open.spotify.com/track/1YQ9TcDQKoIQHkXcl27byv"
@@ -30801,6 +31155,32 @@
     },
     {
       "album": {
+        "name": "Young Code",
+        "url": "https://open.spotify.com/album/7fBCglldtl1JySIWOwDy36"
+      },
+      "artists": [
+        {
+          "name": "Kulwinder Sohi",
+          "url": "https://open.spotify.com/artist/4ZuPcTmzv64QazoSJizaxe"
+        },
+        {
+          "name": "Dr.Sidhu",
+          "url": "https://open.spotify.com/artist/26zNI72NLoi14xOYoYjWKg"
+        },
+        {
+          "name": "Syphr",
+          "url": "https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Young Code",
+      "url": "https://open.spotify.com/track/6tn4DK4gDIaFN78JyziB2X"
+    },
+    {
+      "album": {
         "name": "Young Munde",
         "url": "https://open.spotify.com/album/2pPiN1VblUNV3NZ0kL0gjw"
       },
@@ -30936,7 +31316,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 158400,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/1je8HgJRqezmDOd1efJncK"

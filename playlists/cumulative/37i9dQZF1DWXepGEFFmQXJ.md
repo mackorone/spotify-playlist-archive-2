@@ -4,7 +4,7 @@
 
 > The cream of today's country crop\. Cover: Jordan Davis
 
-1,271 songs - 2 day 21 hr 45 min
+1,272 songs - 2 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -952,6 +952,7 @@
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2022-01-21 | 2022-08-12 |
 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 | 2023-01-19 | 2023-05-26 |
 | [She's The One](https://open.spotify.com/track/42Di68uyYR96IwvHYtM0E9) | [Ronnie Joudo](https://open.spotify.com/artist/2gfAOvUByRRsIwjifbOKxC) | [She's The One](https://open.spotify.com/album/3ka1YGa2qQHfB7OfTx3KJw) | 3:31 | 2022-03-04 | 2022-05-13 |
+| [Shoes](https://open.spotify.com/track/4YvEgMDAoB4in0hjFu3any) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Shoes](https://open.spotify.com/album/6F4P97Iak39OMIpH0kwvs1) | 3:09 | 2026-08-14 |  |
 | [Shoot The Bull](https://open.spotify.com/track/6qZOIYvUcfKl9kTE2rxitF) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Banks Of The Trinity](https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD) | 3:04 | 2026-06-25 |  |
 | [Shot Down NT Town](https://open.spotify.com/track/7KHPzvSg8VPOxNnc3bXnCi) | [Josh Arnold](https://open.spotify.com/artist/3bNkSSl10ckpEpWGVV4V3G) | [Shot Down NT Town](https://open.spotify.com/album/442eA16n4EoQg4ENttSOKK) | 2:53 | 2024-02-01 | 2024-02-23 |
 | [Shouldn't Be Doing This](https://open.spotify.com/track/0SCMoEjToRt0GL3eIFI8FV) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Shouldn't Be Doing This](https://open.spotify.com/album/12Y9kiAnxFxuBesMAE2bHW) | 3:17 | 2023-10-05 | 2024-02-10 |

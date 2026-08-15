@@ -5325,6 +5325,24 @@
     },
     {
       "album": {
+        "name": "True Strength",
+        "url": "https://open.spotify.com/album/7xHvIpmgSOQG5gUawLTunK"
+      },
+      "artists": [
+        {
+          "name": "Infam Enn",
+          "url": "https://open.spotify.com/artist/23AEFnMnAxHi3UfuJlR9R6"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165352,
+      "name": "True Strength",
+      "url": "https://open.spotify.com/track/3dSO8wnVhOKwSABxL9jpCX"
+    },
+    {
+      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },

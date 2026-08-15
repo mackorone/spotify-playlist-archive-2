@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 155318,
       "name": "Geeked up (with OsamaSon)",
       "url": "https://open.spotify.com/track/6Ke4o5sK2UqeGWpGxRZuvp"
@@ -1977,6 +1977,28 @@
     },
     {
       "album": {
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Nine Vicious",
+          "url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Kidding Me (feat. Nine Vicious)",
+      "url": "https://open.spotify.com/track/1bTqiL8cmCJ3I5U3rI0D43"
+    },
+    {
+      "album": {
         "name": "King tonka",
         "url": "https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L"
       },
@@ -2549,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/67UBaBuoT0TiWBOmaa7T4k"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157837,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/2rSNj3zySzJ09yWUQar6Iz"
+    },
+    {
+      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
       },
@@ -3100,7 +3140,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 92655,
       "name": "PARLAY",
       "url": "https://open.spotify.com/track/2CWP5h36QBRfDQPYl3K9uA"

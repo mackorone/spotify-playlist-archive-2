@@ -4,7 +4,7 @@
 
 > Take comfort in these melancholy masterpieces.
 
-82 songs - 6 hr 20 min
+83 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Filma Solo](https://open.spotify.com/track/6MPpYctLr7JXWIAcD1feq8) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/1tASsj4SDpPR8UIHjKMjch) | 3:15 | 2021-10-18 | 2024-04-19 |
 | [Follower](https://open.spotify.com/track/4P6pUEL57ZUJElgzM1EQE2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Follower](https://open.spotify.com/album/0Yz7gx5EnZuO7H3tTX1mya) | 5:03 | 2021-10-18 |  |
 | [Glass: Truman Sleeps \("The Truman Show"\)](https://open.spotify.com/track/6LmLH4PpmQLhXSefqIPNHA) | [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [Contemporary Classical Music](https://open.spotify.com/album/1bzUvjcrxduXlrfbXY1fDg) | 2:40 | 2021-10-18 |  |
+| [Gnossienne No\. 3](https://open.spotify.com/track/1L20zuydJsn13Bwpke3R0X) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Gnossienne No\. 3](https://open.spotify.com/album/7L7ksF7u3QD4uoYlmRx8Rs) | 3:18 | 2026-08-14 |  |
 | [Handel / Orch\. Hale: Keyboard Suite No\. 4 in D Minor, HWV 437: III\. Sarabande](https://open.spotify.com/track/1upQiytDIEZfl9ItruoXuC) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Alexander Briger](https://open.spotify.com/artist/6bk0YPhJSL44WBtoGe4GI6), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Handel Sarabande](https://open.spotify.com/album/657D9POYWMrDMK9MWNxPHL) | 3:27 | 2021-10-18 |  |
 | [I\. Even](https://open.spotify.com/track/1CcyE20g6pYSf1gDO1bZCc) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9), [Warren Zielinski](https://open.spotify.com/artist/1loplcQfx5Wsv5ksoqyj16), [Ben Hancox](https://open.spotify.com/artist/5IExQzAD14oL2LazPXPyzk), [James Boyd](https://open.spotify.com/artist/0AwJMPW4t7pMBwZ2h072X1) | [Quartets: One – Four](https://open.spotify.com/album/4qMGkLJmZWccVQkflLhQ3Y) | 5:37 | 2022-11-11 |  |
 | [La melancolie \(arr\. H\. Kraggerud\): La Melancolie \(arr\. H\. Kraggerud\)](https://open.spotify.com/track/7rurwR9jA7XDEj9cfnB1fz) | [Henning Kraggerud](https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb), [Ole Bull](https://open.spotify.com/artist/1cLnJI3RJwDH9Gt2CTM0zY), [Razumovsky Symphony Orchestra](https://open.spotify.com/artist/6lxAqIorVmYY2bzWr9kmCA), [Bjarte Engeset](https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d) | [Norwegian Violin Favourites](https://open.spotify.com/album/5dtYq2KwetYV4zr9v8qgv4) | 2:19 | 2021-10-18 |  |

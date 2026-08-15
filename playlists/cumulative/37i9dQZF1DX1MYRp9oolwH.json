@@ -3199,6 +3199,28 @@
     },
     {
       "album": {
+        "name": "Kalyanam Kamaneeyam Jeevitham",
+        "url": "https://open.spotify.com/album/6KThYPI4OHPI0Y0qkGzdOt"
+      },
+      "artists": [
+        {
+          "name": "Raghavendra Saraswathula",
+          "url": "https://open.spotify.com/artist/1zf5Oa5fPRUDqPPfacUv8m"
+        },
+        {
+          "name": "Sri Murali Karthikeya",
+          "url": "https://open.spotify.com/artist/5hdDhVRtAtygssJd84hv06"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247988,
+      "name": "Hey Pilla",
+      "url": "https://open.spotify.com/track/7EmqaDmoj8sB8SzvSMjbmo"
+    },
+    {
+      "album": {
         "name": "Hey Priyathama (From \"Ugly Story\")",
         "url": "https://open.spotify.com/album/6rZhN8IfxnfrHw6K8sdklo"
       },
@@ -4272,7 +4294,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 220500,
       "name": "Kallolam (From \"Ramani Kalyanam\")",
       "url": "https://open.spotify.com/track/0AX9anrs3Jh16pJcpYICBE"
@@ -8839,6 +8861,28 @@
     },
     {
       "album": {
+        "name": "Pilla Pilla (From \"Missing Meghana\")",
+        "url": "https://open.spotify.com/album/7DLLsptJ1oTkUtyxEiK4vr"
+      },
+      "artists": [
+        {
+          "name": "RR Dhruvan",
+          "url": "https://open.spotify.com/artist/0u8CV5hMxYiKctbYRZy1aW"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Pilla Pilla (From \"Missing Meghana\")",
+      "url": "https://open.spotify.com/track/0xJoYP8CdnduBgBmhN0CKZ"
+    },
+    {
+      "album": {
         "name": "Pillaa (From \"Jaabilamma Neeku Antha Kopama\")",
         "url": "https://open.spotify.com/album/3TJOC2y5hVRaEZbZWrNQC8"
       },
@@ -9468,7 +9512,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 216166,
       "name": "Ramani Kalyanam (Title Track) (From \"Ramani Kalyanam\")",
       "url": "https://open.spotify.com/track/5hfimPpFZAfoXDuZ7pqh4x"
@@ -10473,6 +10517,36 @@
     },
     {
       "album": {
+        "name": "Telusa Neeke Pilla (From \"Mandaadi - Telugu\")",
+        "url": "https://open.spotify.com/album/1bbJnv67ezPxCRmjTQ0Cgr"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Reshma Shyam",
+          "url": "https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225394,
+      "name": "Telusa Neeke Pilla (From \"Mandaadi - Telugu\")",
+      "url": "https://open.spotify.com/track/4in0I634Ck3krcb8gl9uXl"
+    },
+    {
+      "album": {
         "name": "Thaanu Choosthene (From \"Itlu Kanmani\")",
         "url": "https://open.spotify.com/album/2VAfRPKHeieC6b2cPfe7hs"
       },
@@ -11110,7 +11184,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 283547,
       "name": "Vesangi Vellalo (From \"Papam Prathap\")",
       "url": "https://open.spotify.com/track/2kKV713YpQnd4Exqg68T9Y"

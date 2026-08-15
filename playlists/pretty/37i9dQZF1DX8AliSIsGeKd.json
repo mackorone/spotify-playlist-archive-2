@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic music. Cover: Anyma\n",
-  "num_followers": 754309,
+  "num_followers": 754466,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
@@ -554,10 +554,14 @@
         {
           "name": "sin:port",
           "url": "https://open.spotify.com/artist/2qexUhp1F9BhpDgE8G54tv"
+        },
+        {
+          "name": "Maurice Mino",
+          "url": "https://open.spotify.com/artist/3jQ3A0KKg25CZZNBFr5fKB"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 309325,
+      "name": "Watch Your Pulse",
       "url": "https://open.spotify.com/track/4qdbviIxAVzPr9nxJbVucM"
     },
     {
@@ -672,8 +676,8 @@
           "url": "https://open.spotify.com/artist/5XBh3fpITlhkBrId3sCiN6"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 158657,
+      "name": "Like That",
       "url": "https://open.spotify.com/track/65C6n0hHXphRfKq0LIonih"
     },
     {

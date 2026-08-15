@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,607 songs - 3 day 20 hr 37 min
+1,608 songs - 3 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1438,6 +1438,7 @@
 | [Tracing Steps](https://open.spotify.com/track/0rY6eMNP3hXxEodeEOdKIk) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Tracing Steps](https://open.spotify.com/album/1Vx5sLgGI2R3izkJ7sV2FG) | 6:42 | 2019-08-09\* | 2020-03-29 |
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-06-13 | 2026-06-27 |
 | [Treat You Better](https://open.spotify.com/track/3B8Tx2eKzZ1u6bPnozOL1h) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 4:33 | 2019-08-27 | 2020-10-30 |
+| [Treat You Better](https://open.spotify.com/track/5chZVGGP9F9ad1FI3u3wZW) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Treat You Better](https://open.spotify.com/album/0uI0yrlIC9fYJvaY14ZGaZ) | 2:37 | 2026-08-14 |  |
 | [Treat You Better \- Cassian Remix](https://open.spotify.com/track/3haIVEYCzkPb5pwTzbEFDE) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [SOLACE REMIXES VOL\. 5](https://open.spotify.com/album/7zyRD8UilxWxScbRVrWIzP) | 4:50 | 2019-08-09\* | 2019-08-27 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-09 | 2026-02-07 |
 | [Trust](https://open.spotify.com/track/4o3PKiqpuBC7zu9hFkcBwv) | [Yonetro](https://open.spotify.com/artist/4E5mpebaFKbA4HkSXCfZma), [Ericovich](https://open.spotify.com/artist/49X1BHaXBIqVjMkkV2w1qI) | [Trust](https://open.spotify.com/album/3sEVbnKr5Hf8lZo5yn6oJl) | 3:45 | 2019-08-09\* | 2020-03-29 |

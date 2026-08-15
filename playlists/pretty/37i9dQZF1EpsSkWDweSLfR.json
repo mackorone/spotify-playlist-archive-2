@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ansA+AAAAAA30gbmeTgnH0IwTPzFs7JX",
+  "snapshot_id": "an8p3AAAAACmegtwpm58gLVHTeyLqSMG",
   "tracks": [
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/77jU18FIxXs5p4ebQoRrRD"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "WannaCry",
         "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "SQUARE ONE",
         "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/59bAebVUMSwUztOOr1Zaoj"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -109,23 +109,7 @@
       "url": "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "My System",
         "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
@@ -141,7 +125,23 @@
       "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+    },
+    {
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/4n2Gy75q4SgNuq5ZUKxnq3"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -173,27 +173,7 @@
       "url": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
-      "album": {
-        "name": "Sweet but Psycho (The Remixes)",
-        "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Leon Lour",
-          "url": "https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw"
-        }
-      ],
-      "duration_ms": 249729,
-      "name": "Sweet but Psycho - Leon Lour Remix",
-      "url": "https://open.spotify.com/track/0j3pGzN20rbBYIrtku89pA"
-    },
-    {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
@@ -213,7 +193,27 @@
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
+      "album": {
+        "name": "Sweet but Psycho (The Remixes)",
+        "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Leon Lour",
+          "url": "https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw"
+        }
+      ],
+      "duration_ms": 249729,
+      "name": "Sweet but Psycho - Leon Lour Remix",
+      "url": "https://open.spotify.com/track/0j3pGzN20rbBYIrtku89pA"
+    },
+    {
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "Pop Sound",
         "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "1432",
         "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7i36Jxd6sH38R8YErPuPd7"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/4QMgEffJQuKtjCNvqfRZ0m"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "Loyal To The Game",
         "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "kill me for always (feat. porter robinson)",
         "url": "https://open.spotify.com/album/2aQNnDhj1Q30QD46v6ngAL"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/7I1njnSxCgrLIg8VfVGnhG"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "Midnight Sun: Girls Trip",
         "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "REVAMPED",
         "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/4ktgVQZCBvSMfHGzC8UVYz"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6"
     },
     {
-      "added_at": "2026-08-11 11:01:12",
+      "added_at": "2026-08-14 14:44:44",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"

@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-192 songs - 11 hr 28 min
+193 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Sadko: Hindu Song \(arr\. N\. Mercz\): Hindu Song from the Opera 'Sadko'](https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC) | [Nora Mercz](https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb), [Nikolai Rimsky\-Korsakov](https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs), [Janos Balint](https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6) | [Flute and Harp](https://open.spotify.com/album/33MNfDsswl60MN5B526hI2) | 3:32 | 2021-11-19 |  |
 | [Saving Daylight](https://open.spotify.com/track/1PAqkhjrgQboGgUJILMuBv) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Oak & Ivory](https://open.spotify.com/album/4R9G7hookynSEaFCVohEPS) | 2:50 | 2022-05-11 | 2024-04-19 |
 | [Saving Daylight](https://open.spotify.com/track/7HxNsdmd735QOTD6tXKbBm) | [The Barton Brothers](https://open.spotify.com/artist/1ykYvVE2DgKGuYNLn3Oe1U), [Dan Barton](https://open.spotify.com/artist/1m0j0McjgAhDXmJOEfcroM) | [Oak & Ivory](https://open.spotify.com/album/0PZufFA3JVC9jwwNR0JFTk) | 2:50 | 2021-11-19 |  |
+| [Schafe können sicher weiden \(Ninth Movement from Was mir behagt, ist nur die muntre Jagd, BWV 208\)](https://open.spotify.com/track/0m2BtqmqLNMvCZS9Z9OReu) | [Café del Mundo](https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ) | [Sofa Songs](https://open.spotify.com/album/3SSfmFMLhdM5CwSQhlB4x0) | 4:56 | 2026-08-14 |  |
 | [Self\-Service Laundry](https://open.spotify.com/track/2F3lFJtwn2a7VaEasMW5fp) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Provenance](https://open.spotify.com/album/03uwKDQx2mMQu43KxFK2y6) | 2:17 | 2022-05-11 |  |
 | [Shimmering Water](https://open.spotify.com/track/4Z4RbVmOpawdQSFLtTvZPB) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx), [Amelie Evmark](https://open.spotify.com/artist/2OJcCy0s7bowPrykt9KT5G) | [Silent Waves](https://open.spotify.com/album/2prO7Ke2ASXq9cDTvvVPUk) | 4:49 | 2022-05-11 | 2024-04-19 |
 | [Shimmering Water](https://open.spotify.com/track/5tDvK8nHGn490K4mokboKC) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx), [Amelie Evmark](https://open.spotify.com/artist/2OJcCy0s7bowPrykt9KT5G), [Gothenburg Symphony Orchestra](https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2) | [Silent Waves](https://open.spotify.com/album/4YUHjJEz3YWglKA0Tv88zo) | 4:49 | 2021-11-19 |  |

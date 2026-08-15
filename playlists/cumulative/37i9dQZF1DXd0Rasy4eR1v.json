@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 202909,
       "name": "Allah Jane",
       "url": "https://open.spotify.com/track/3QP9dVy7zk7Z8SVvRO9uTZ"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 184000,
       "name": "Bhool Nahi",
       "url": "https://open.spotify.com/track/7a0nFCjGdRWZUkEwDvdtSn"
@@ -6149,6 +6149,28 @@
     },
     {
       "album": {
+        "name": "Dil Ki Kahani",
+        "url": "https://open.spotify.com/album/2xXiFYrqq4MQC472yy7oE5"
+      },
+      "artists": [
+        {
+          "name": "Asad Naeem",
+          "url": "https://open.spotify.com/artist/0x0qbiFCy5b2U0jHWX0FeA"
+        },
+        {
+          "name": "The Hashtags",
+          "url": "https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256271,
+      "name": "Dil Ki Kahani",
+      "url": "https://open.spotify.com/track/143l3qpqhvfO7tqW4cEZQW"
+    },
+    {
+      "album": {
         "name": "Dil ko",
         "url": "https://open.spotify.com/album/7m3CWPtvvEV2u98cx71F7a"
       },
@@ -6854,6 +6876,28 @@
       "duration_ms": 228705,
       "name": "Don\u2019t Go",
       "url": "https://open.spotify.com/track/1PNAvPiGkysYlUysPGNH3L"
+    },
+    {
+      "album": {
+        "name": "Verses Of Me",
+        "url": "https://open.spotify.com/album/16h7G1lnTJdUN4xHrE2yOV"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        },
+        {
+          "name": "HASEEB",
+          "url": "https://open.spotify.com/artist/6VTBfUo6LQmVKxat82WXNA"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Dooba",
+      "url": "https://open.spotify.com/track/1bYtajI7CZfatn2fdKKKe9"
     },
     {
       "album": {
@@ -12710,7 +12754,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 169418,
       "name": "Khafaa",
       "url": "https://open.spotify.com/track/6eHZNf1wyymWPUEYYRoucH"
@@ -18603,6 +18647,24 @@
     },
     {
       "album": {
+        "name": "Pari",
+        "url": "https://open.spotify.com/album/5RaGG20u39czg8V3KKRlSe"
+      },
+      "artists": [
+        {
+          "name": "Qasim Virk",
+          "url": "https://open.spotify.com/artist/3fgWQfCWOIB5CAcGXfR2fX"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295735,
+      "name": "Pari",
+      "url": "https://open.spotify.com/track/28zb0yAeZOBQsD6P73aXGF"
+    },
+    {
+      "album": {
         "name": "Parinday",
         "url": "https://open.spotify.com/album/2pzGbUC9jJnTKusb2Xmws7"
       },
@@ -21963,6 +22025,24 @@
     },
     {
       "album": {
+        "name": "Shayar by Azhar Ali",
+        "url": "https://open.spotify.com/album/5tj41CFShprNHt6s41fpwa"
+      },
+      "artists": [
+        {
+          "name": "Azhar Ali",
+          "url": "https://open.spotify.com/artist/10wfQ2iksyP08eyX6oCCwh"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Shayar by Azhar Ali",
+      "url": "https://open.spotify.com/track/11TNL8EdF0R1IEhD1eVVtl"
+    },
+    {
+      "album": {
         "name": "Hustle Beam",
         "url": "https://open.spotify.com/album/6sEQpGV3vHeuPli7y9rjWa"
       },
@@ -24610,7 +24690,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 185662,
       "name": "The Unsent Message",
       "url": "https://open.spotify.com/track/6tQR0BcI0G16OttZZ663TW"

@@ -1,6 +1,6 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 92092,
+  "num_followers": 92099,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,22 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Brij Narayan",
-        "url": "https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw"
+        "name": "Saradamani",
+        "url": "https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII"
       },
       "artists": [
         {
-          "name": "Iqubal Huein",
-          "url": "https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA"
+          "name": "Vishwa Mohan Bhatt",
+          "url": "https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl"
         },
         {
-          "name": "Brij Narayan",
-          "url": "https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs"
+          "name": "Sukhvinder Singh Namdhari",
+          "url": "https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h"
         }
       ],
-      "duration_ms": 613933,
-      "name": "Raga Kirwani - Alap Gat - Teental",
-      "url": "https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj"
+      "duration_ms": 643933,
+      "name": "Romantic Dhun",
+      "url": "https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -371,22 +371,22 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Saradamani",
-        "url": "https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII"
+        "name": "Brij Narayan",
+        "url": "https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw"
       },
       "artists": [
         {
-          "name": "Vishwa Mohan Bhatt",
-          "url": "https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl"
+          "name": "Iqubal Huein",
+          "url": "https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA"
         },
         {
-          "name": "Sukhvinder Singh Namdhari",
-          "url": "https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h"
+          "name": "Brij Narayan",
+          "url": "https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs"
         }
       ],
-      "duration_ms": 643933,
-      "name": "Romantic Dhun",
-      "url": "https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S"
+      "duration_ms": 613933,
+      "name": "Raga Kirwani - Alap Gat - Teental",
+      "url": "https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Shringar: The Many Moods of Love - Volume 3",
-        "url": "https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr"
-      },
-      "artists": [
-        {
-          "name": "Lakshmi Shankar, Aneesh Pradhan",
-          "url": "https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I"
-        }
-      ],
-      "duration_ms": 764526,
-      "name": "Jadoo Bharey Torey Nain",
-      "url": "https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Navyaa",
         "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 580000,
       "name": "Romantic Maru Bihag - Jaagu Main Sari Raina",
       "url": "https://open.spotify.com/track/1Kq8fBd6WKbr7BEDCLweND"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Shringar: The Many Moods of Love - Volume 3",
+        "url": "https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr"
+      },
+      "artists": [
+        {
+          "name": "Lakshmi Shankar, Aneesh Pradhan",
+          "url": "https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I"
+        }
+      ],
+      "duration_ms": 764526,
+      "name": "Jadoo Bharey Torey Nain",
+      "url": "https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
+        "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
+        "url": "https://open.spotify.com/album/40GaEcinaieQsIXisQygW7"
+      },
+      "artists": [
+        {
+          "name": "Jyoti Debnath",
+          "url": "https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk"
+        }
+      ],
+      "duration_ms": 335109,
+      "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
+      "url": "https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
         "name": "Padma Talwalkar",
         "url": "https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 1633890,
       "name": "Dev Dev Sat Sang - Khayal Vilambit - Jhap Taal / Maanat Nahin - Raag Sawani - Khayal Drut - Teentaal",
       "url": "https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
-        "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
-        "url": "https://open.spotify.com/album/40GaEcinaieQsIXisQygW7"
-      },
-      "artists": [
-        {
-          "name": "Jyoti Debnath",
-          "url": "https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk"
-        }
-      ],
-      "duration_ms": 335109,
-      "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
-      "url": "https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Reflections Around Noon",
-        "url": "https://open.spotify.com/album/3bfkWGToZSFbFlGVmAJBjK"
-      },
-      "artists": [
-        {
-          "name": "Rajeev Taranath",
-          "url": "https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6"
-        }
-      ],
-      "duration_ms": 1140666,
-      "name": "Dhun Mishra Kafi",
-      "url": "https://open.spotify.com/track/1aOlzHtvRmpQaJqazySCPx"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Bharat Ratna",
         "url": "https://open.spotify.com/album/3krH4l3Zt87BKLdx9NYKge"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 900040,
       "name": "Raga Mishra Mel Ki Malhar",
       "url": "https://open.spotify.com/track/6ZCh9SU89sivV8AAcnu07R"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Reflections Around Noon",
+        "url": "https://open.spotify.com/album/3bfkWGToZSFbFlGVmAJBjK"
+      },
+      "artists": [
+        {
+          "name": "Rajeev Taranath",
+          "url": "https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6"
+        }
+      ],
+      "duration_ms": 1140666,
+      "name": "Dhun Mishra Kafi",
+      "url": "https://open.spotify.com/track/1aOlzHtvRmpQaJqazySCPx"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -927,22 +927,18 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Rajan / Sajan Mishra",
-        "url": "https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m"
+        "name": "Raag Jhinjhoti by Ronu Majumdar",
+        "url": "https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI"
       },
       "artists": [
         {
-          "name": "Rajan Mishra",
-          "url": "https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9"
-        },
-        {
-          "name": "Sajan Mishra",
-          "url": "https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p"
+          "name": "Ronu Majumdar",
+          "url": "https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P"
         }
       ],
-      "duration_ms": 603173,
-      "name": "Jin Ke Man Ram Biraaje - Raga Malkauns - Khayal Vilambit - Ektaal / Angan Aaye Balama - Raga Malakauns - Khayal Drut - Ektaal",
-      "url": "https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO"
+      "duration_ms": 1194977,
+      "name": "Raag Jhinjhoti Alaap Jod",
+      "url": "https://open.spotify.com/track/7EksNfDGLeyAZ2XznadmHg"
     }
   ],
   "unique_name": "Hindustani Classical",

@@ -1719,6 +1719,28 @@
     },
     {
       "album": {
+        "name": "Felix Mendelssohn: Song Without Words, Op. 62 No. 5 \"Venetian Boat Song\"",
+        "url": "https://open.spotify.com/album/2WFyhNTZbA20THaeGjYnnl"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167346,
+      "name": "Mendelssohn: Songs Without Words, Book V, Op. 62: No. 5, Andante con moto, MWV U151 \"Venetian Boat Song\"",
+      "url": "https://open.spotify.com/track/1R45u5rIKvRvGBHnQELXDW"
+    },
+    {
+      "album": {
         "name": "Chill With Satie",
         "url": "https://open.spotify.com/album/5alBq6M27UNiLQICjblXsJ"
       },
@@ -2642,6 +2664,24 @@
       "duration_ms": 180440,
       "name": "Prelude in E Minor, BWV 855/I (Arr. Siloti in B Minor)",
       "url": "https://open.spotify.com/track/3SYsX7rEkdEhNAETiB3pMr"
+    },
+    {
+      "album": {
+        "name": "Black Mozart",
+        "url": "https://open.spotify.com/album/4pw6vv5tS2sbpgKjwVS7l5"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172395,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/2i8skmXAsVCfQwjnpoBEVP"
     },
     {
       "album": {

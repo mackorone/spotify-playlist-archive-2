@@ -4,13 +4,13 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond y Elena Rose
 
-328 songs - 19 hr 13 min
+330 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/7](https://open.spotify.com/track/28IydUm2BpsO9NP3lPjGvX) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [24/7](https://open.spotify.com/album/7C6LwNsw7ClFlZZEhjkqkO) | 3:19 | 2022-11-11 | 2023-02-10 |
 | [A CABALLO](https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MALPORTADA](https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG) | 3:20 | 2026-03-18 | 2026-03-27 |
-| [A Mi Tierra](https://open.spotify.com/track/5YdfRELV93WXtfJ0W0bnM5) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [A Mi Tierra](https://open.spotify.com/album/6GECy1dVAcB6J1uGjMnn03) | 3:25 | 2026-08-07 |  |
+| [A Mi Tierra](https://open.spotify.com/track/5YdfRELV93WXtfJ0W0bnM5) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [A Mi Tierra](https://open.spotify.com/album/6GECy1dVAcB6J1uGjMnn03) | 3:25 | 2026-08-07 | 2026-08-15 |
 | [Acaso No Me Crees](https://open.spotify.com/track/79y26UTFGT1M4hVJnN3Pmm) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:10 | 2026-03-18 | 2026-03-27 |
 | [Acómpañame](https://open.spotify.com/track/2oMmb3hG1maHcsCWtKHgcU) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 2:46 | 2026-03-18 | 2026-03-27 |
 | [Addicted to You](https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:27 | 2023-09-25 | 2023-11-04 |
@@ -202,6 +202,7 @@
 | [Mar Chiquita](https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:24 | 2022-10-07 |  |
 | [Mardito](https://open.spotify.com/track/3BEyB1bd0B2ZtSySGVIkFN) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Cumbia y Nada Más](https://open.spotify.com/album/6P8GKRKPi93qg8q0ZnsMKw) | 2:46 | 2024-05-24 | 2024-06-22 |
 | [mariposas en el estómago](https://open.spotify.com/track/5tn1VPSdS9fHnvX58JjBIT) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [El Laberinto del Coco](https://open.spotify.com/artist/2Xvxlkf21E6JeWIV0lAMMM) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 3:40 | 2026-06-12 |  |
+| [Me Despido](https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Me Despido](https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW) | 2:49 | 2026-08-14 |  |
 | [Me Enamoré](https://open.spotify.com/track/4P3U4k5VnXj2TLWQQLqm3Z) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Me Enamoré](https://open.spotify.com/album/3egiu1bCgCnJ4BFBKjVy10) | 3:49 | 2024-05-10 | 2024-06-22 |
 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 | 2023-04-27 | 2026-05-16 |
 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 | 2023-03-03 |  |
@@ -251,6 +252,7 @@
 | [Por Retenerte](https://open.spotify.com/track/5NQVgyomgTIHmtxfTZfncp) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Por Retenerte](https://open.spotify.com/album/1dcxcjZiHUGWDUzX8T62E5) | 4:27 | 2023-09-01 |  |
 | [Por Un Perro](https://open.spotify.com/track/3OBIkfgxatom7uCRNZxEa3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Por Un Perro](https://open.spotify.com/album/1S7umwRqsNaYeoSWe0UjLw) | 3:50 | 2022-10-21 | 2022-12-03 |
 | [PORFA](https://open.spotify.com/track/6AXi31RtYc1YkSjie4H0V5) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP) | [PORFA](https://open.spotify.com/album/1Zl09NYrzyxPXOrx4RsemT) | 3:31 | 2025-09-26 | 2026-04-18 |
+| [Princeso](https://open.spotify.com/track/7z3iEN68xmUGRv6mrEada0) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Princeso](https://open.spotify.com/album/73GvcfCy0aU19TeIekb7ii) | 2:37 | 2026-08-14 |  |
 | [Prohibido](https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Prohibido](https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ) | 3:08 | 2022-10-07 | 2023-02-25 |
 | [Punta Cana](https://open.spotify.com/track/6tFXzOTZCTZ8t62NiLjC5z) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Punta Cana](https://open.spotify.com/album/55851CfWJef6CzkdeJPpIu) | 3:05 | 2024-01-26 |  |
 | [Pásame la Botella](https://open.spotify.com/track/0o6RpUevYIYYSiANL7SJZJ) | [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Pásame la Botella](https://open.spotify.com/album/3glWvXz1XJ8GCBANiQALQM) | 3:45 | 2022-05-20 | 2022-10-08 |

@@ -720,7 +720,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 205511,
       "name": "always knew",
       "url": "https://open.spotify.com/track/3lOLfhFgcQPeimjqH2S6UL"
@@ -1509,6 +1509,28 @@
     },
     {
       "album": {
+        "name": "Bless",
+        "url": "https://open.spotify.com/album/3cqoZsQiyoVrGSSHvCGPk1"
+      },
+      "artists": [
+        {
+          "name": "Club Saints",
+          "url": "https://open.spotify.com/artist/3cwhoI6RB5Pw8ltripvUhW"
+        },
+        {
+          "name": "Bassline Club Vibes",
+          "url": "https://open.spotify.com/artist/5xqSc7Qw72qYLG91X7lL4f"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Bless",
+      "url": "https://open.spotify.com/track/4qbgqXqDEmkjbFIltxD6HY"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
       },
@@ -2036,7 +2058,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 247685,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/4uDK6X5zjH6YUydZBAyJwE"
@@ -2623,6 +2645,28 @@
     },
     {
       "album": {
+        "name": "Dance Dance Dance! (Cassius Remix)",
+        "url": "https://open.spotify.com/album/10hymvZRp9KJniY24kxXBw"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217680,
+      "name": "Dance Dance Dance! - Cassius Remix",
+      "url": "https://open.spotify.com/track/2rb5q4tXodkWanetnyVFBW"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/3SdYa7DWxMidM4r7Jg6aAq"
       },
@@ -3009,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "Double The Funk",
+        "url": "https://open.spotify.com/album/2Wh5O1MKwhqBsB6ch3U5SW"
+      },
+      "artists": [
+        {
+          "name": "Joe Thomas (UK)",
+          "url": "https://open.spotify.com/artist/5H3ze0oZZ6o82Z9HRIO2It"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Double The Funk",
+      "url": "https://open.spotify.com/track/16qVdETl7SUqnF0zkr212C"
+    },
+    {
+      "album": {
         "name": "Down For You (feat. Jyll)",
         "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
       },
@@ -3090,7 +3152,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 220909,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4RlDwD9ccwdgZYs1Y5khDB"
@@ -3916,7 +3978,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 212307,
       "name": "Four To The Floor",
       "url": "https://open.spotify.com/track/4UrHXNvA6u7Wb68nhjCK20"
@@ -4040,6 +4102,24 @@
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5XOQc1htUG3C8ga4xvVs1e"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5KBmsWg035nZmVpAy9ZpYe"
     },
     {
       "album": {
@@ -5041,6 +5121,24 @@
     },
     {
       "album": {
+        "name": "Hypnotic Frequency",
+        "url": "https://open.spotify.com/album/2kRSA0DW4hAvcCzVwMJdgf"
+      },
+      "artists": [
+        {
+          "name": "Lowzen",
+          "url": "https://open.spotify.com/artist/1SPUjjMZzOmz8PNxFvg1mc"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Hypnotic Frequency",
+      "url": "https://open.spotify.com/track/43Gn4ckk30LMceZbmU8lFt"
+    },
+    {
+      "album": {
         "name": "CLARITY OF MIND",
         "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
       },
@@ -5930,6 +6028,24 @@
       "duration_ms": 174524,
       "name": "Lady Love",
       "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
+    },
+    {
+      "album": {
+        "name": "Lao",
+        "url": "https://open.spotify.com/album/3L2bhQHi8M7w3dkC9IEFGa"
+      },
+      "artists": [
+        {
+          "name": "CcoSscou",
+          "url": "https://open.spotify.com/artist/5YjvtLVO0oQfSlag9ZVcdn"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316250,
+      "name": "Lao",
+      "url": "https://open.spotify.com/track/4h8bOpB8ll9xxdrQWRUu7i"
     },
     {
       "album": {
@@ -7608,7 +7724,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -7992,6 +8108,24 @@
       "duration_ms": 189375,
       "name": "One More Night (feat. LELLE.)",
       "url": "https://open.spotify.com/track/0eVaE3YtRG3dMPoDBXgHAC"
+    },
+    {
+      "album": {
+        "name": "One Night In Ibiza",
+        "url": "https://open.spotify.com/album/6bbRutMWFFYlfh1exVr26Q"
+      },
+      "artists": [
+        {
+          "name": "K\u00d8LN",
+          "url": "https://open.spotify.com/artist/1w3NAT1FcHgMFQCCdELLOL"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111782,
+      "name": "One Night In Ibiza",
+      "url": "https://open.spotify.com/track/1QdLlfirESa9WkHWTDy8bD"
     },
     {
       "album": {
@@ -8876,7 +9010,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 185000,
       "name": "Save Me Tonight - DJs From Mars Remix",
       "url": "https://open.spotify.com/track/0BxSI26JIdSnulOeJDuRvl"
@@ -9352,7 +9486,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 148173,
       "name": "So Good",
       "url": "https://open.spotify.com/track/5m0SDNnxNOMwFXjoU35zfN"
@@ -10651,6 +10785,24 @@
     },
     {
       "album": {
+        "name": "The Montana Girl",
+        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "The Montana Girl",
+      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -11563,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "Want To Know",
+        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Want To Know",
+      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
+    },
+    {
+      "album": {
         "name": "Waste My Love",
         "url": "https://open.spotify.com/album/1EO0Y4276SxEbYcYjDHdtg"
       },
@@ -11710,7 +11880,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 142160,
       "name": "We Are Fire",
       "url": "https://open.spotify.com/track/7ilYgGXYEkJ0uk0Loxr8ym"

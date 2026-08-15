@@ -831,6 +831,28 @@
     },
     {
       "album": {
+        "name": "LAUT SEIN (IMMER)",
+        "url": "https://open.spotify.com/album/09RJu1PXBEIhLj7Rcr3fjk"
+      },
+      "artists": [
+        {
+          "name": "yung pepp",
+          "url": "https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR"
+        },
+        {
+          "name": "H\u00e4gi",
+          "url": "https://open.spotify.com/artist/4AF7IT6IiC3YkqDqDlR05z"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144596,
+      "name": "anders",
+      "url": "https://open.spotify.com/track/0xbfPV9lRfC5n1X7ZAZTZK"
+    },
+    {
+      "album": {
         "name": "anders angefangen",
         "url": "https://open.spotify.com/album/42pgGiWHKyRl3LdTup7Ye0"
       },
@@ -7866,7 +7888,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 156631,
       "name": "M\u00e4rchen",
       "url": "https://open.spotify.com/track/7Eho5ONf9Hp4LKDxFDbQl8"
@@ -10525,6 +10547,24 @@
     },
     {
       "album": {
+        "name": "Theorie",
+        "url": "https://open.spotify.com/album/61EZBEkwvbI4Af3zZUc2Yz"
+      },
+      "artists": [
+        {
+          "name": "Alice Stark",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157250,
+      "name": "Theorie",
+      "url": "https://open.spotify.com/track/72DA0ZpDcEzb339Hzd5HoO"
+    },
+    {
+      "album": {
         "name": "Ti amo, Italiano!",
         "url": "https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn"
       },
@@ -10598,24 +10638,6 @@
       "duration_ms": 154426,
       "name": "Tot",
       "url": "https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd"
-    },
-    {
-      "album": {
-        "name": "LAUT SEIN (IMMER)",
-        "url": "https://open.spotify.com/album/09RJu1PXBEIhLj7Rcr3fjk"
-      },
-      "artists": [
-        {
-          "name": "yung pepp",
-          "url": "https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR"
-        }
-      ],
-      "date_added": "2026-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0xbfPV9lRfC5n1X7ZAZTZK"
     },
     {
       "album": {

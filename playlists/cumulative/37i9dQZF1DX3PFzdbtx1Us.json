@@ -4521,6 +4521,24 @@
     },
     {
       "album": {
+        "name": "New Ground",
+        "url": "https://open.spotify.com/album/7gsfjylchTyWXNDQlToouJ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144106,
+      "name": "New Ground",
+      "url": "https://open.spotify.com/track/4YhmpL3NppDBgNzjk6NWqx"
+    },
+    {
+      "album": {
         "name": "Finding Rain",
         "url": "https://open.spotify.com/album/6FSHR1O0FVsANtmPMWINB8"
       },

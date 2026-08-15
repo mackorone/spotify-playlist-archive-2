@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Meaningful Stone\(김뜻돌\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: SUMIN\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,665 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,670 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HANRORO: Indie Korea](https://open.spotify.com/track/3rb7PFB21Qw7oZ5MOVxDyM) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HANRORO: Indie Korea](https://open.spotify.com/album/5eZwzHktMlMtn8xrwr2hxS) | 0:03 |
-| 2 | [HANA](https://open.spotify.com/track/4YPQaGKgOWTc16ImN17DA5) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [To: Hana](https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9) | 5:02 |
-| 3 | [+82](https://open.spotify.com/track/41dQW7vAjBGZvOZI4u7LKO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [dinnermode](https://open.spotify.com/album/6xKnYHY00EbvxZAXYP0vhW) | 3:30 |
+| 2 | [+82](https://open.spotify.com/track/41dQW7vAjBGZvOZI4u7LKO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [dinnermode](https://open.spotify.com/album/6xKnYHY00EbvxZAXYP0vhW) | 3:30 |
+| 3 | [HANA](https://open.spotify.com/track/4YPQaGKgOWTc16ImN17DA5) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [To: Hana](https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9) | 5:02 |
 | 4 | [Blue Diamond](https://open.spotify.com/track/6sjXCnawLHV5LId3cXMaj0) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [7](https://open.spotify.com/album/6eijhbNjs96BeOYG8PVC8x) | 3:15 |
 | 5 | [Remember! \- TOWA TEI REMIX](https://open.spotify.com/track/4Z0H9yvR5Wguva5aKowF5w) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl), [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD) | [Remember! \(TOWA TEI REMIX\)](https://open.spotify.com/album/5pA3ECmhkTOcQnRdmxPhhP) | 3:37 |
 | 6 | [Chouchou](https://open.spotify.com/track/4nzUvhG8QH5iziREuhZ1CS) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [Chouchou](https://open.spotify.com/album/6GGhIMHy8KFXC3WSyl6IUR) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoo Jongkwon](https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj) | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS) | 3:33 |
 | 50 | [Comma](https://open.spotify.com/track/3gBs86VssqBzMq0QuAZEx1) | [He\_eul](https://open.spotify.com/artist/2wx6J4aRNCIg3294RBPLor), [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Comma](https://open.spotify.com/album/5OZoXuYHdTbutzShXhsx5l) | 2:59 |
 
-Snapshot ID: `AAAAAEMzGX9T1a151+tEBXTn7yyWZ7Xq`
+Snapshot ID: `AAAAAPfNmeKiJ+sGaXlLPz619caFRtER`

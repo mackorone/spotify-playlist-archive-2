@@ -1,12 +1,12 @@
 {
   "description": "New music from KATSEYE, Phoebe Bridgers, XPOSE more!",
-  "num_followers": 75128,
+  "num_followers": 75202,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKBbDtcW26ag2/M7Eh4E2CjHDz6Q",
+  "snapshot_id": "AAAAAJKtFfhnEKlMXMSnU9LQuKMnVYPx",
   "tracks": [
     {
       "added_at": "2026-08-13 16:00:17",
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
     },
     {
-      "added_at": "2026-08-13 16:00:17",
+      "added_at": "2026-08-14 00:00:17",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+    },
+    {
+      "added_at": "2026-08-14 05:55:38",
       "album": {
         "name": "Lost Weekend",
         "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
@@ -36,9 +52,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 218689,
-      "name": "Lost Weekend",
-      "url": "https://open.spotify.com/track/1GMPPheF4aMHMifOgp72eF"
+      "duration_ms": 217205,
+      "name": "I Can\u2019t Wait",
+      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
     },
     {
       "added_at": "2026-08-13 16:00:17",
@@ -73,22 +89,6 @@
       "url": "https://open.spotify.com/track/7oNcB0JOrAo0IU2LbBmn7x"
     },
     {
-      "added_at": "2026-08-13 16:23:57",
-      "album": {
-        "name": "Warnai Pelangi (Original Soundtrack From Pelangi Di Mars)",
-        "url": "https://open.spotify.com/album/2w4qhovPSko18IIbBBWaSU"
-      },
-      "artists": [
-        {
-          "name": "Nabila Razali",
-          "url": "https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Warnai Pelangi",
-      "url": "https://open.spotify.com/track/2YNtqp7K4zv8oGOLeLYcMU"
-    },
-    {
       "added_at": "2026-08-13 16:00:17",
       "album": {
         "name": "Hingga Hujung Nyawa",
@@ -103,6 +103,22 @@
       "duration_ms": 230000,
       "name": "Hingga Hujung Nyawa",
       "url": "https://open.spotify.com/track/3qs64uirfItpmw5ZjPku8H"
+    },
+    {
+      "added_at": "2026-08-13 16:23:57",
+      "album": {
+        "name": "Warnai Pelangi (Original Soundtrack From Pelangi Di Mars)",
+        "url": "https://open.spotify.com/album/2w4qhovPSko18IIbBBWaSU"
+      },
+      "artists": [
+        {
+          "name": "Nabila Razali",
+          "url": "https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Warnai Pelangi",
+      "url": "https://open.spotify.com/track/2YNtqp7K4zv8oGOLeLYcMU"
     },
     {
       "added_at": "2026-08-13 16:00:17",
@@ -1601,8 +1617,24 @@
         }
       ],
       "duration_ms": 145266,
-      "name": "Track 4",
+      "name": "Gut",
       "url": "https://open.spotify.com/track/75HU2IjyvEejzBgx4Hpopy"
+    },
+    {
+      "added_at": "2026-08-14 00:00:17",
+      "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140708,
+      "name": "AWW YEAH",
+      "url": "https://open.spotify.com/track/4eWfppMhjvuxsHE96UMsRB"
     },
     {
       "added_at": "2026-08-13 16:00:17",

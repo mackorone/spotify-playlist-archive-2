@@ -10228,7 +10228,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 154000,
       "name": "Function",
       "url": "https://open.spotify.com/track/1TzkhmV7nWq3gquoiDf4QH"
@@ -10794,7 +10794,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 164538,
       "name": "Get Wild",
       "url": "https://open.spotify.com/track/3F1VvVCelweDci1v0aJ6bV"
@@ -11112,6 +11112,32 @@
       "duration_ms": 146190,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS"
+    },
+    {
+      "album": {
+        "name": "Go Dancing",
+        "url": "https://open.spotify.com/album/78x59JHkfakCs713jKgFW7"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "DELATO",
+          "url": "https://open.spotify.com/artist/1NhyPfqf5SUNG25QOiZNF0"
+        },
+        {
+          "name": "audiodrugz",
+          "url": "https://open.spotify.com/artist/4PMllC4qzDmmdqVGrlJjQJ"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157850,
+      "name": "Go Dancing",
+      "url": "https://open.spotify.com/track/6AiMUf607Ccb9klrQhGPjK"
     },
     {
       "album": {
@@ -12373,6 +12399,24 @@
     },
     {
       "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/476P50D7vX7U1LaMOKJHNI"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197272,
+      "name": "HIM",
+      "url": "https://open.spotify.com/track/16zqNYSHjvKTNnvhKRQmp0"
+    },
+    {
+      "album": {
         "name": "Street Knowledge",
         "url": "https://open.spotify.com/album/3odYrusBGPbJ9OXMydGccU"
       },
@@ -12980,7 +13024,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 215813,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/3UKsxx6uTyZsBJKGor7bCs"
@@ -13330,6 +13374,28 @@
       "duration_ms": 188739,
       "name": "I see your fire",
       "url": "https://open.spotify.com/track/54MXw0U5wahTgzPE9M7cuG"
+    },
+    {
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4yTDMCHTkj94g4GWXiMQ3Q"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "NEZIEL",
+          "url": "https://open.spotify.com/artist/2KAMKVCgamR8Oc59zx7wOY"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170615,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/30dNHzirdy6ZD3w0Uky0WG"
     },
     {
       "album": {
@@ -14422,7 +14488,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 204242,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
@@ -15891,6 +15957,24 @@
     },
     {
       "album": {
+        "name": "louder EP",
+        "url": "https://open.spotify.com/album/7isXxffe4W3BJOW21KKNeB"
+      },
+      "artists": [
+        {
+          "name": "dillon nathaniel.",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "louder",
+      "url": "https://open.spotify.com/track/5ijihzkmqG2tnfwcKhRTyx"
+    },
+    {
+      "album": {
         "name": "Louis V",
         "url": "https://open.spotify.com/album/0Uivh5n2bxgzgqoqPkY0B1"
       },
@@ -16437,6 +16521,28 @@
     },
     {
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/1Xu8mgOVIAD33DLsYTaSMI"
+      },
+      "artists": [
+        {
+          "name": "Rag",
+          "url": "https://open.spotify.com/artist/73gfd3OeRub99Q0c6JVHaH"
+        },
+        {
+          "name": "Litz",
+          "url": "https://open.spotify.com/artist/7HjaeT2hNoiGRUvjKTNmMC"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/5iEeVYUufEdHhuddGqaTFH"
+    },
+    {
+      "album": {
         "name": "Matha",
         "url": "https://open.spotify.com/album/2cBPvEFHSZTVW2Yruy7mec"
       },
@@ -16911,6 +17017,24 @@
     },
     {
       "album": {
+        "name": "Monopoly Man",
+        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202101,
+      "name": "Monopoly Man",
+      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
+    },
+    {
+      "album": {
         "name": "Year Zero",
         "url": "https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP"
       },
@@ -17310,7 +17434,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 325714,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/7fUkcKa2TbiKWlC2UCGWP5"
@@ -17922,7 +18046,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 138461,
       "name": "New School",
       "url": "https://open.spotify.com/track/3Tg0dqLxfQaD81mutBYpsK"
@@ -19804,7 +19928,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 185625,
       "name": "Own Me",
       "url": "https://open.spotify.com/track/3E1KIv2eP2pEOIMwN2Eh8J"
@@ -20144,6 +20268,28 @@
       "duration_ms": 174346,
       "name": "People In The Back",
       "url": "https://open.spotify.com/track/4uWIE7G9Jtv8uH8WXI2CNT"
+    },
+    {
+      "album": {
+        "name": "Percolate",
+        "url": "https://open.spotify.com/album/0AvMPWqojhPSyjbd9bAnrI"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Percolate",
+      "url": "https://open.spotify.com/track/1gWJZZoUzScXlKgXEKuxFr"
     },
     {
       "album": {
@@ -21504,6 +21650,24 @@
       "duration_ms": 169523,
       "name": "Relations",
       "url": "https://open.spotify.com/track/5O0vOpDt91Rw20NYKO6XQq"
+    },
+    {
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/6QavNtJOlUNDozd10pnzKT"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167812,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/3P5coaPJcFSo761BsgQab0"
     },
     {
       "album": {
@@ -23032,7 +23196,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 193846,
       "name": "Sexy Mami",
       "url": "https://open.spotify.com/track/34csoWNqakXDkiKzm6eisn"
@@ -26220,7 +26384,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 145036,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
@@ -28408,6 +28572,24 @@
       "duration_ms": 156666,
       "name": "WHAT I WANT",
       "url": "https://open.spotify.com/track/5SX0vgolyPXmSMMWUS5iB3"
+    },
+    {
+      "album": {
+        "name": "What Is It",
+        "url": "https://open.spotify.com/album/2sxTFb5j0iZ3ZCcwmug8wX"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137503,
+      "name": "What Is It",
+      "url": "https://open.spotify.com/track/2UQHvEr6agNnQ73oDmkQfs"
     },
     {
       "album": {

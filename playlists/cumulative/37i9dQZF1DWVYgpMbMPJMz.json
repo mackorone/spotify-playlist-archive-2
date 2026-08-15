@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: SEU Worship & Chelsea Plank",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Chris Tomlin",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2005,6 +2005,28 @@
     },
     {
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/3oSat95vsq91VBgBcIsD3m"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Matt Janney",
+          "url": "https://open.spotify.com/artist/1t1YmoXy1AheMm0jxpNriI"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280250,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/3L9POMCQ3fFTStxzHchZrV"
+    },
+    {
+      "album": {
         "name": "Best Thing (Stripped)",
         "url": "https://open.spotify.com/album/5JH5geBZvgD3MDAg43Phal"
       },
@@ -2820,7 +2842,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 201830,
       "name": "Breathe On Me, Breath Of God",
       "url": "https://open.spotify.com/track/5obRW0OPQ5SDXWN55mtLLk"
@@ -4296,6 +4318,24 @@
       "duration_ms": 248000,
       "name": "Desperate - Studio",
       "url": "https://open.spotify.com/track/09sSn60F2fLYrfPz0Xs4C9"
+    },
+    {
+      "album": {
+        "name": "Doesn't He (Deserve It All)",
+        "url": "https://open.spotify.com/album/0lH7WX51nhQ7zf6c6vFt6y"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212957,
+      "name": "Doesn't He (Deserve It All)",
+      "url": "https://open.spotify.com/track/037Q5ln2i35q79Ugfz9R5v"
     },
     {
       "album": {
@@ -8164,7 +8204,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 172422,
       "name": "How Good It Is - Acoustic",
       "url": "https://open.spotify.com/track/4umeffvGNDcQAIYxLDckqr"
@@ -8562,7 +8602,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 257808,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/4ImYwWNSHx1jL4dbkTkBGq"
@@ -10713,6 +10753,32 @@
     },
     {
       "album": {
+        "name": "Keep Me Right Here",
+        "url": "https://open.spotify.com/album/1SdgA47ovWURW5wKOl3zo0"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        },
+        {
+          "name": "Caylie Bryant",
+          "url": "https://open.spotify.com/artist/7kvngYXa2bVPZt0fOT2r7O"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413109,
+      "name": "Keep Me Right Here",
+      "url": "https://open.spotify.com/track/7zMzB31hN0mvUhACeSeSey"
+    },
+    {
+      "album": {
         "name": "Kid Again (Live)",
         "url": "https://open.spotify.com/album/2qBkpQX29A5SOboW73izN7"
       },
@@ -10772,6 +10838,24 @@
       "duration_ms": 406500,
       "name": "King Of Glory",
       "url": "https://open.spotify.com/track/6gCVzvEYM5mTuL8xBGoJEu"
+    },
+    {
+      "album": {
+        "name": "King Of Heaven",
+        "url": "https://open.spotify.com/album/2Yd4ffqW6EeHqG2U3kl4Sx"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237715,
+      "name": "King Of Heaven",
+      "url": "https://open.spotify.com/track/7HDXr0iDy4w7TVnOCWxmxi"
     },
     {
       "album": {
@@ -16986,7 +17070,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 271346,
       "name": "Spirit Of The Living God",
       "url": "https://open.spotify.com/track/4DsRVDm6Hid9Pp7m5dlfBf"
@@ -18422,7 +18506,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 410280,
       "name": "The Cost Is A Joy",
       "url": "https://open.spotify.com/track/3wXXMYFVKqUEdv80l181qf"
@@ -20096,7 +20180,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 321083,
       "name": "To You",
       "url": "https://open.spotify.com/track/7FNgOiBfotP5tjfu7kf9KD"
@@ -21893,6 +21977,24 @@
     },
     {
       "album": {
+        "name": "Worth Everything",
+        "url": "https://open.spotify.com/album/2Pb0I5jkooC9E30U5Q0EOb"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251200,
+      "name": "Worth Everything",
+      "url": "https://open.spotify.com/track/5WysopWlCluAx0hd1Nycwz"
+    },
+    {
+      "album": {
         "name": "How To Start A Housefire (Pt. III)",
         "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
       },
@@ -22666,6 +22768,24 @@
       "duration_ms": 374904,
       "name": "You Will Be Saved",
       "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+    },
+    {
+      "album": {
+        "name": "You Will Have It All",
+        "url": "https://open.spotify.com/album/0xKyxbiOjwq4sVIABMqrmJ"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322583,
+      "name": "You Will Have It All",
+      "url": "https://open.spotify.com/track/5znzle0Lx9BzqgGpoz5xEJ"
     },
     {
       "album": {

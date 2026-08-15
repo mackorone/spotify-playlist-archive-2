@@ -1611,6 +1611,28 @@
     },
     {
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/3oSat95vsq91VBgBcIsD3m"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Matt Janney",
+          "url": "https://open.spotify.com/artist/1t1YmoXy1AheMm0jxpNriI"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280250,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/3L9POMCQ3fFTStxzHchZrV"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/6U4dQQOToc1b47LBjm5wtX"
       },
@@ -3464,6 +3486,24 @@
       "duration_ms": 255398,
       "name": "Doesn't He",
       "url": "https://open.spotify.com/track/1re3ARSEiDfRxUTKKlbI8k"
+    },
+    {
+      "album": {
+        "name": "Doesn't He (Deserve It All)",
+        "url": "https://open.spotify.com/album/0lH7WX51nhQ7zf6c6vFt6y"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212957,
+      "name": "Doesn't He (Deserve It All)",
+      "url": "https://open.spotify.com/track/037Q5ln2i35q79Ugfz9R5v"
     },
     {
       "album": {

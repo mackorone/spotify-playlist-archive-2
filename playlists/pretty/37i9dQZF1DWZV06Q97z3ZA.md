@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZV06Q97z3ZA.md) - [plain]
 
 > Love who you want\. It’s good foreign policy\. Listen to the music from and inspired by Red, White & Royal Blue, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,205 likes - 24 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,200 likes - 24 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZV06Q97z3ZA.md) - [plain]
 | 12 | [If I Loved You \(From the Amazon Original Movie "Red, White & Royal Blue"\)](https://open.spotify.com/track/4AVJ2oBFrpm54iF65ci6OZ) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [If I Loved You \(From The Amazon Original Movie "Red, White & Royal Blue"\)](https://open.spotify.com/album/5S7KrOURt03QNClRpuGTfY) | 2:52 |
 | 13 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 14 | [All I Really Want Is You](https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:11 |
-| 15 | [Museum](https://open.spotify.com/track/6PUYWCB6ltOUINIIY1KbyG) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Red, White & Royal Blue \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oScBW6deKVsqStuhfoGgA) | 1:26 |
+| 15 | [Museum](https://open.spotify.com/track/6PUYWCB6ltOUINIIY1KbyG) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7), [Sofia degli Alessandri](https://open.spotify.com/artist/0KNQTaoUbu7LxPoSvQFtun) | [Red, White & Royal Blue \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oScBW6deKVsqStuhfoGgA) | 1:26 |
 | 16 | [Can't Help Falling In Love](https://open.spotify.com/track/5RPc7az7LxQSFbzK3ieV46) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Can't Help Falling In Love](https://open.spotify.com/album/3pzZh3zBeGSAL3GEtzPOm6) | 2:24 |
 | 17 | [Rudolph, The Red\-Nosed Reindeer \- Remastered 1996](https://open.spotify.com/track/7dzmB0GRVzwBa7AsN5FmIS) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Ultra\-Lounge: Christmas Cocktails](https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t) | 2:40 |
 | 18 | [Beautyful Beauti](https://open.spotify.com/track/0JI4xpabZXAUEK1NDgciaT) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Buck](https://open.spotify.com/album/7gfKIwVTWWP77PZ5A0wArN) | 4:27 |

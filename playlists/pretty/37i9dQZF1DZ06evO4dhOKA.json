@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 70716,
+  "num_followers": 70722,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAAA+iA7vYEQyZFiL6YJ4m2aL",
+  "snapshot_id": "an0JAAAAAADDokTO/xuTm+Ma1S6jWeid",
   "tracks": [
     {
       "added_at": null,
@@ -544,13 +544,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+        },
+        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 235260,
-      "name": "El Rey De Mil Coronas (En Vivo)",
-      "url": "https://open.spotify.com/track/0UkRiOu4M2iiKgl6qFRRUn"
+      "duration_ms": 174290,
+      "name": "El Rog\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
     },
     {
       "added_at": null,
@@ -632,17 +636,13 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 174290,
-      "name": "El Rog\u00f3n (En Vivo)",
-      "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
+      "duration_ms": 235260,
+      "name": "El Rey De Mil Coronas (En Vivo)",
+      "url": "https://open.spotify.com/track/0UkRiOu4M2iiKgl6qFRRUn"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Monterrey (En Vivo - La Fe Music Hall - Monterrey, NL / 2008)",
+        "url": "https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Que No Se Apague La Lumbre - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
+      "url": "https://open.spotify.com/track/2ZX1GZukgjEmHrh2yyWVuH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chapayeka (Puro Chucky) (En Vivo)",
         "url": "https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 205000,
       "name": "Coraz\u00f3n de Oro (En Vivo)",
       "url": "https://open.spotify.com/track/6LWbqItYhTpwKXC64sn67L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde Monterrey (En Vivo - La Fe Music Hall - Monterrey, NL / 2008)",
-        "url": "https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Que No Se Apague La Lumbre - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
-      "url": "https://open.spotify.com/track/2ZX1GZukgjEmHrh2yyWVuH"
     },
     {
       "added_at": null,

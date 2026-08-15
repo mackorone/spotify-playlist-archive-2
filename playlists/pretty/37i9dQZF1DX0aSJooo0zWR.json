@@ -1,13 +1,33 @@
 {
   "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: CASIOPEA",
-  "num_followers": 219010,
+  "num_followers": 219015,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+Hz25pRBq22hWyJZPCWtVuJHBV",
+  "snapshot_id": "AAAAAMHmckVAtLaR0VuloGZhdOHkPjJf",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:00:32",
+      "album": {
+        "name": "Intricate Journey (feat. Dave Weckl) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4Zn33pN4Nkla66DFDfP0cB"
+      },
+      "artists": [
+        {
+          "name": "Dom Cicchetti",
+          "url": "https://open.spotify.com/artist/4vKggpH4PZdMvsNv4YEq9Z"
+        },
+        {
+          "name": "Dave Weckl",
+          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Intricate Journey (feat. Dave Weckl) - Radio Edit",
+      "url": "https://open.spotify.com/track/1k0MMFcEIuRJDAZDjLlADU"
+    },
     {
       "added_at": "2026-06-12 04:00:19",
       "album": {

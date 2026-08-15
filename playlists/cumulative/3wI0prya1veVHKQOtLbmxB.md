@@ -4,7 +4,7 @@
 
 > Fall deeply in love 💖 with this romantic playlist! Featuring soulful ballads, acoustic love songs &amp; intimate tracks from Ed Sheeran, John Legend, Adele, Bruno Mars, and more\. Perfect for date nights or dreaming of romance\. Updated weekly\. Like &amp; Save!
 
-335 songs - 20 hr 10 min
+336 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Sweet Marie](https://open.spotify.com/track/7MBSbBrx0TvBYyKEcpGcJb) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 2:17 | 2023-03-24 | 2025-01-23 |
 | [Sweetest Devotion](https://open.spotify.com/track/10tHyoc3wSA5scOVZuMcFm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:11 | 2024-04-12 | 2025-01-23 |
 | [Take Me To Church](https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:01 | 2023-04-28 | 2025-01-23 |
+| [Tastes Like Summer](https://open.spotify.com/track/74jKa2gKnngQwP3HMRke6b) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tastes Like Summer](https://open.spotify.com/album/0T7lhonUTlZ7zbzKVIPdvJ) | 3:39 | 2026-08-14 |  |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2026-01-09 | 2026-04-16 |
 | [Tequila](https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Tequila](https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF) | 3:15 | 2021-09-13 | 2023-02-10 |
 | [Thank You For Loving Me](https://open.spotify.com/track/3N7cmRE1ZUKfp4ZmMVJuuc) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Growing Pains](https://open.spotify.com/album/5CJ5lgjlSEVTrcbgLBDSKE) | 3:00 | 2026-06-05 |  |

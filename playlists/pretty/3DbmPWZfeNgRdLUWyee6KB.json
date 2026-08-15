@@ -6,8 +6,24 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXFFiQDF32TbhZaUPNgifvCBnuQ56i",
+  "snapshot_id": "AAAXF7w4IX5u444qYdHoRE45bYqA5V8C",
   "tracks": [
+    {
+      "added_at": "2026-08-14 08:33:37",
+      "album": {
+        "name": "Parched as Hell",
+        "url": "https://open.spotify.com/album/5VvaqTNUsEVu3mVeRZllJx"
+      },
+      "artists": [
+        {
+          "name": "Consorcio Humano",
+          "url": "https://open.spotify.com/artist/6pzNibk8eE0etGvSTW8rjI"
+        }
+      ],
+      "duration_ms": 172811,
+      "name": "Parched as Hell",
+      "url": "https://open.spotify.com/track/6NjHTQtSOHZ5z9xlCyb6qZ"
+    },
     {
       "added_at": "2026-08-08 16:10:37",
       "album": {
@@ -1535,6 +1551,22 @@
       "duration_ms": 174000,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/7Idbp14EBaAC3LYhj68tWq"
+    },
+    {
+      "added_at": "2026-08-14 08:11:34",
+      "album": {
+        "name": "You're the Flower",
+        "url": "https://open.spotify.com/album/5DtsPiD9Jf9HqnFWmM3VRr"
+      },
+      "artists": [
+        {
+          "name": "TsarKastic",
+          "url": "https://open.spotify.com/artist/5mOXCKrpfgjhlo0esvsniS"
+        }
+      ],
+      "duration_ms": 270273,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/5OascNxBcGQPokRrdVy5zB"
     }
   ],
   "unique_name": "New Indie Music",

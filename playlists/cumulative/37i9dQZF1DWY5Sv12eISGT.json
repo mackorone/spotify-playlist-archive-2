@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Niwache (Acoustic)",
+        "url": "https://open.spotify.com/album/40oLAdTV5bmZbodHTc9MPc"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Niwache - Acoustic",
+      "url": "https://open.spotify.com/track/78B5whhOznW15tw0CJMOzg"
+    },
+    {
+      "album": {
         "name": "nobody knows",
         "url": "https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe"
       },

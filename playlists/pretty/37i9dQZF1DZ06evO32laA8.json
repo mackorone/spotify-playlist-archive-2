@@ -1,12 +1,12 @@
 {
   "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "num_followers": 53257,
+  "num_followers": 53253,
   "original_name": "This Is Isabel LaRosa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anu3gAAAAAAHu6LCKaUyR9JXnWkyBIcl",
+  "snapshot_id": "an0JAAAAAAC+Qh064jkvDCB3JpfouvO/",
   "tracks": [
     {
       "added_at": null,
@@ -284,7 +284,7 @@
       "added_at": null,
       "album": {
         "name": "Promising Young Woman",
-        "url": "https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W"
+        "url": "https://open.spotify.com/album/4vMTbFzgFrwSTqwd00SB2I"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 198688,
-      "name": "Every Life",
-      "url": "https://open.spotify.com/track/3Z5MBZmAZy9Z46QPkmZZUG"
+      "duration_ms": 166816,
+      "name": "The Things That I Would Do To Be Enough For You",
+      "url": "https://open.spotify.com/track/7hxcf62V3zALqYIhiy3SSO"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 166816,
-      "name": "The Things That I Would Do To Be Enough For You",
-      "url": "https://open.spotify.com/track/7hxcf62V3zALqYIhiy3SSO"
+      "duration_ms": 171360,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/2s233n5Uj0FYwmYxgmXGC7"
     },
     {
       "added_at": null,
@@ -412,7 +412,7 @@
       "added_at": null,
       "album": {
         "name": "Promising Young Woman",
-        "url": "https://open.spotify.com/album/4vMTbFzgFrwSTqwd00SB2I"
+        "url": "https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 171360,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/2s233n5Uj0FYwmYxgmXGC7"
+      "duration_ms": 198688,
+      "name": "Every Life",
+      "url": "https://open.spotify.com/track/3Z5MBZmAZy9Z46QPkmZZUG"
     },
     {
       "added_at": null,

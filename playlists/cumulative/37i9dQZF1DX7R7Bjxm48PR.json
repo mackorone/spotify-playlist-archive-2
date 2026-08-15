@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Canyon View",
+        "url": "https://open.spotify.com/album/4LV3lTKdxuqHq6S67Q9pxB"
+      },
+      "artists": [
+        {
+          "name": "the aisle filler",
+          "url": "https://open.spotify.com/artist/20cv2xJ8u0oURplfF0Pr5U"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Canyon View",
+      "url": "https://open.spotify.com/track/7cCDwM8s5gRC40RmaBwd4e"
+    },
+    {
+      "album": {
         "name": "Cascade",
         "url": "https://open.spotify.com/album/6ekqd6M7YWFIIDERra1c66"
       },

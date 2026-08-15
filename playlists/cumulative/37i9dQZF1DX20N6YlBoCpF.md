@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Die Heuwels Fantasties, Tasché, Neil Somers, Dassie en meer!
 
-2,791 songs - 6 day 11 hr 25 min
+2,792 songs - 6 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2005,6 +2005,7 @@
 | [Reik Na Die Sterre \- SENSASIE Remix](https://open.spotify.com/track/3TKQeEZ9XMo34b42W30qPN) | [Gerrie Pretorius](https://open.spotify.com/artist/5uLIqMxUxjQWhWR0cizCHT), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [SENSASIE Remixes](https://open.spotify.com/album/2OuDbimuXJ9yiu9OYYEdct) | 3:33 | 2024-10-03 | 2025-02-28 |
 | [Reis van 'n Musikant](https://open.spotify.com/track/1QpSugTEtYXiUuQGSgQ6wm) | [Stefan Jansen](https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD), [Piter Wilkens](https://open.spotify.com/artist/1ixdspEGjvhJCKnlP2u2lX) | [Reis van 'n Musikant](https://open.spotify.com/album/6FuMT4oyzDMOjX5o1hmcLW) | 3:22 | 2024-06-20 | 2024-06-29 |
 | [Reisiger Na Môre](https://open.spotify.com/track/2yDZvbmFnjZ378wFAlJXlI) | [Stephan Visagie](https://open.spotify.com/artist/2h1s5akGU3fealiouNkYds) | [Reisiger Na Môre](https://open.spotify.com/album/1v6t98XSD2lNPgPZ3Bt82F) | 3:57 | 2026-07-23 | 2026-07-31 |
+| [Rek Strek Baba](https://open.spotify.com/track/4YNAnlerTPTRTFvTtEE87y) | [Marcelle Peach](https://open.spotify.com/artist/7jA4h6ao7Wbulv8jZvfoj2) | [Rek Strek Baba](https://open.spotify.com/album/4J2ndTKgQ8egpR3ixsb6Dp) | 3:17 | 2026-08-14 |  |
 | [Rekeningkunde](https://open.spotify.com/track/10KqUQbFXOEL39gz2nWysq) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Rekeningkunde](https://open.spotify.com/album/3HqP04snZu1JaVS1FKsWww) | 2:41 | 2024-10-03 | 2024-10-18 |
 | [Remissie \(Homeopaties\)](https://open.spotify.com/track/7CTLsUcL3OVROwQR6xujI7) | [Werner Olckers](https://open.spotify.com/artist/0uGoWMIEm56ThYr7kIW4VG) | [Remissie \(Homeopaties\)](https://open.spotify.com/album/5KUDX2OuruNNpHGd1ZpeRz) | 2:50 | 2023-10-19 | 2023-11-03 |
 | [Revolusie](https://open.spotify.com/track/50Rbi8JYsD1kWfIQB4RsTg) | [Mensdom](https://open.spotify.com/artist/6dYzDh337aHBZUsHhscX9l) | [Revolusie](https://open.spotify.com/album/1w98OY20lrO64tCpn1tJlu) | 3:21 | 2023-02-16 | 2023-03-03 |
@@ -2369,7 +2370,7 @@
 | [Sy is 'n Cougar](https://open.spotify.com/track/12pwwuSN4aDmDtL8MRouLE) | [Ryan Burnwood](https://open.spotify.com/artist/2NRazNZXGV6hBxZR50osdI) | [Sy is 'n Cougar](https://open.spotify.com/album/6DsfkcIBJ7ItFZvNu72U6c) | 4:07 | 2024-07-25 | 2024-08-02 |
 | [Sy Is Die Een](https://open.spotify.com/track/7M4kniemvlDsbQW2gjJlVU) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx) | [Sy Is Die Een](https://open.spotify.com/album/2AncOCC2ocskqdrVoDW7bt) | 3:33 | 2026-02-12 | 2026-02-27 |
 | [Sy is maar net stil](https://open.spotify.com/track/0Eu1DB1JnoQEPDmAxWPKlm) | [Petronel Baard](https://open.spotify.com/artist/4J1h9siHxQN6QFm1WVwpOG) | [Sy is maar net stil](https://open.spotify.com/album/6hdUfjVjJ425TwjE7cEZX1) | 3:52 | 2026-05-21 | 2026-05-29 |
-| [Sy Klink Soos Lente](https://open.spotify.com/track/5UdZVAHXpkr91hrg4jYVWw) | [Robert Gillmer](https://open.spotify.com/artist/5dsMsZ35335wPek0khH1rR) | [Sy Klink Soos Lente](https://open.spotify.com/album/4Xpm0ASfLSknlCs1e9jU3L) | 2:46 | 2026-07-30 |  |
+| [Sy Klink Soos Lente](https://open.spotify.com/track/5UdZVAHXpkr91hrg4jYVWw) | [Robert Gillmer](https://open.spotify.com/artist/5dsMsZ35335wPek0khH1rR) | [Sy Klink Soos Lente](https://open.spotify.com/album/4Xpm0ASfLSknlCs1e9jU3L) | 2:46 | 2026-07-30 | 2026-08-15 |
 | [Sy Weet](https://open.spotify.com/track/2wyEESxO5fiFq5AgtJQojU) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Sy Weet](https://open.spotify.com/album/4PDJBtjCopCcMIDJhRb2r3) | 3:15 | 2025-10-03 | 2025-10-24 |
 | [Sy Wens](https://open.spotify.com/track/4tYud9jf7ZPDEzs5If9AXt) | [Ou Tekkies](https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb) | [Sy Wens](https://open.spotify.com/album/0C4sBbvyfk1SLMXjlnf0iF) | 3:36 | 2024-08-01 | 2024-08-16 |
 | [Sy's Leeg](https://open.spotify.com/track/6teZORep2dqZLHgc9eAs9U) | [Vir Nou Net Magé](https://open.spotify.com/artist/4XJpVEJxoyVtPq7x3p0JsL) | [Sy's Leeg](https://open.spotify.com/album/6qmUZTRG5VoflLWdFHi1BH) | 4:04 | 2023-09-28 | 2023-10-13 |

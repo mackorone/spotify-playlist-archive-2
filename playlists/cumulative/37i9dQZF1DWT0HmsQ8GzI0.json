@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 156000,
       "name": "Elsz\u00e1lln\u00e9k",
       "url": "https://open.spotify.com/track/6AeHaBOwRw4IbdV8Rxc4iq"
@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Gabi",
+        "url": "https://open.spotify.com/album/5QcfodgaXvDCZNm0waFcBZ"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188389,
+      "name": "Gabi",
+      "url": "https://open.spotify.com/track/5XTOQnTIpi49kuycmAuTut"
+    },
+    {
+      "album": {
         "name": "Galambok Olaj\u00e1gon",
         "url": "https://open.spotify.com/album/1Iwy434RAVIblBDiMdoC03"
       },
@@ -3120,6 +3138,24 @@
       "duration_ms": 354300,
       "name": "H\u00e1bor\u00fa \u00e9s b\u00e9ke",
       "url": "https://open.spotify.com/track/7HiSjUVvj51IVIjsv64d2Y"
+    },
+    {
+      "album": {
+        "name": "H\u00e1la az \u00e9g'",
+        "url": "https://open.spotify.com/album/7vm06NtjyVDu9jILnbcPZn"
+      },
+      "artists": [
+        {
+          "name": "martonn",
+          "url": "https://open.spotify.com/artist/3tIQliC3cCLCKGsn6fX6G9"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158877,
+      "name": "H\u00e1la az \u00e9g'",
+      "url": "https://open.spotify.com/track/11EETHKvUhcg7NwFKILp3P"
     },
     {
       "album": {
@@ -6818,7 +6854,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 175200,
       "name": "Szem\u00fcveg",
       "url": "https://open.spotify.com/track/3vJy9Cv6Jjy9wlcgocJ1RB"

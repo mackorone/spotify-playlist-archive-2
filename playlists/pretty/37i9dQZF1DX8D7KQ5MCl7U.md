@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,775 likes - 150 songs - 15 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,779 likes - 150 songs - 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 135 | [Na Tutteya Ve](https://open.spotify.com/track/5pUGGNddp1nA7dejIvN6mD) | [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl), [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Na Tutteya Ve](https://open.spotify.com/album/4mi1P1ua8oKlPol0ZoTplD) | 4:47 |
 | 136 | [Dohla \(feat\. Aima Baig\)](https://open.spotify.com/track/7iEHgkMJea4Sv1vi46jE1b) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Dohla \(feat\. Aima Baig\)](https://open.spotify.com/album/3M2LQ5HGNsY03aLRZwFXpS) | 6:38 |
 | 137 | [Saiyaan \(feat\. Rachel Viccaji\)](https://open.spotify.com/track/5UbT96KL7MEQLoVK3oC4fM) | [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt), [Rachel Viccaji](https://open.spotify.com/artist/79BYcJwv1Xid7f250YBhun) | [Saiyaan \(feat\. Rachel Viccaji\)](https://open.spotify.com/album/7B0xgVbDNAaPDC010FJm92) | 5:31 |
-| 138 | [Nindiya Ke Paar](https://open.spotify.com/track/5Isbp1BnXMuILEOBjOa0fq) | [Uzair Jaswal](https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:46 |
-| 139 | [Mubarik Mubarik \(feat\. Atif Aslam\)](https://open.spotify.com/track/2RlKuEgR9NIVWzyXYbPawT) | [Banur's Band](https://open.spotify.com/artist/0TBzDcdeUkgkRWAXIBYTwK), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Mubarik Mubarik \(feat\. Atif Aslam\)](https://open.spotify.com/album/2WOJN6NCF4jo4prZqAty2X) | 5:54 |
+| 138 | [Mubarik Mubarik \(feat\. Atif Aslam\)](https://open.spotify.com/track/2RlKuEgR9NIVWzyXYbPawT) | [Banur's Band](https://open.spotify.com/artist/0TBzDcdeUkgkRWAXIBYTwK), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Mubarik Mubarik \(feat\. Atif Aslam\)](https://open.spotify.com/album/2WOJN6NCF4jo4prZqAty2X) | 5:54 |
+| 139 | [Nindiya Ke Paar](https://open.spotify.com/track/5Isbp1BnXMuILEOBjOa0fq) | [Uzair Jaswal](https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:46 |
 | 140 | [Har Funn Maula](https://open.spotify.com/track/6TAgLk1hY89as3X36xdwtv) | [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Har Funn Maula \(feat\. Sanam Marvi\)](https://open.spotify.com/album/2YCOyu8SsrIu0qB3XaxZTj) | 6:06 |
 | 141 | [Bo Giyam \(feat\. Nimra Rafiq\)](https://open.spotify.com/track/55PHSwqN1Nt3Xww2VPE8DL) | [Kashif Din](https://open.spotify.com/artist/7CjchDq0Hkq3CHBePVofRr), [Nimra Rafiq](https://open.spotify.com/artist/7iVSnctHZF2JDhJRUO0GxT) | [Bo Giyam \(feat\. Nimra Rafiq\)](https://open.spotify.com/album/7A3BR6BWcAnEGXfXUSjPOp) | 5:42 |
 | 142 | [Laage Re Nain](https://open.spotify.com/track/6XR4E5qlv0q4NhFavQEUe9) | [Ayesha Omar](https://open.spotify.com/artist/2Rei2afXDLDKuFipwUYMy4), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:26 |

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Kunmie, 6uff, Bella Shmurda, Famous Pluto, Juls, Ayjaybobo and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,417 likes - 48 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,314 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dangerous](https://open.spotify.com/track/08Bu0BYPYMgbuIOHnO8bs4) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Starrgirl](https://open.spotify.com/album/7M7enK2gI4bqBRQUIa8AgR) | 2:06 |
 | 2 | [Happy Song](https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Happy Song](https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO) | 2:09 |
 | 3 | [Excellent](https://open.spotify.com/track/7iB4d1Hv4etq3g12IK8RHQ) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Excellent](https://open.spotify.com/album/4QSZZ7iKC0mYdxN7GxU6OQ) | 3:07 |
-| 4 | [Track 5](https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [22](https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb) | 0:00 |
-| 5 | [Track 5](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 0:00 |
+| 4 | [22](https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [22](https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb) | 3:04 |
+| 5 | [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 |
 | 6 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 |
-| 7 | [Track 1](https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es) | [PersWaysion](https://open.spotify.com/album/6kSqnGBntxzF3zOpZF7REn) | 0:00 |
+| 7 | [You're Mine](https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [PersWaysion](https://open.spotify.com/album/6kSqnGBntxzF3zOpZF7REn) | 2:15 |
 | 8 | [Break Me Down](https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8) | [Amma](https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm) | [Break Me Down](https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm) | 2:09 |
 | 9 | [Sugarcane](https://open.spotify.com/track/4UaWK6d1o295r49cTKnAPk) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Sugarcane](https://open.spotify.com/album/3UpjXvU89J0X1Lyx7uAyrG) | 2:25 |
 | 10 | [Can You Stay](https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:54 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 21 | [5AM](https://open.spotify.com/track/3GA5aR1yTKcIylPurPCpB5) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [5AM](https://open.spotify.com/album/2BXUnadEqbiwqy5OUUUAdN) | 3:01 |
 | 22 | [Beautiful](https://open.spotify.com/track/3DiN0XrYLqzrekWseFWmm4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Beautiful](https://open.spotify.com/album/2KUWpI3euURpCMGZ4yPPUJ) | 4:37 |
 | 23 | [Glory to God in the Highest](https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Life Recording](https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ) | 13:34 |
-| 24 | [Track 3](https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [God Is Cooking](https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL) | 0:00 |
+| 24 | [Oruko](https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [God Is Cooking](https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL) | 3:47 |
 | 25 | [Jupa](https://open.spotify.com/track/7B38hvGih5YHlov7QH0HiE) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Jupa / Indulge](https://open.spotify.com/album/0fb4Jc9C2bAPtwPWJc8A3G) | 3:24 |
 | 26 | [Awilo](https://open.spotify.com/track/0gQ2zMMal8jm7XyVtbtqEh) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [Awilo](https://open.spotify.com/album/6ULG4B8cSKQ4pLV2LYTEr0) | 2:27 |
 | 27 | [MR MONEY](https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [MR MONEY](https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI) | 2:33 |
@@ -47,14 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 37 | [BKAY IS LIKE](https://open.spotify.com/track/7IfItlxoosyUAwATYNCNyx) | [Bkay EastGaad](https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW) | [BKAY IS LIKE](https://open.spotify.com/album/61tA3mrWyhcD7sONzoWAb6) | 2:24 |
 | 38 | [Parawa](https://open.spotify.com/track/1i8T8D9NwQs9voHdXeia2j) | [Deejay J Masta](https://open.spotify.com/artist/4vB3II8IEaXjcokKgxaH5p) | [Parawa](https://open.spotify.com/album/2BXIR73TInabV4iZvaAtbV) | 2:33 |
 | 39 | [Surrender](https://open.spotify.com/track/0WWwORVUZjtRMs6Qv1VbD6) | [Billiana](https://open.spotify.com/artist/4feO0U393q6XkphYrFeTlL) | [UNSAID FEELINGS](https://open.spotify.com/album/6xiof2LvKCMRpvXDFEqoYt) | 2:35 |
-| 40 | [Track 1](https://open.spotify.com/track/0HQs1n0gNPNgtvrsTaB73f) | [Lynox](https://open.spotify.com/artist/5lUHRZzjPG4fWi9jkNxwiw) | [Love & Herbs](https://open.spotify.com/album/5fNXo6FwDAZxpski2AZBOI) | 0:00 |
+| 40 | [Mr Farmer](https://open.spotify.com/track/0HQs1n0gNPNgtvrsTaB73f) | [Lynox](https://open.spotify.com/artist/5lUHRZzjPG4fWi9jkNxwiw) | [Love & Herbs](https://open.spotify.com/album/5fNXo6FwDAZxpski2AZBOI) | 2:55 |
 | 41 | [Unanifaa](https://open.spotify.com/track/2pgzzR1JFS9Lkm6kASdXoE) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo), [Omar Alakabani](https://open.spotify.com/artist/3UtsokkETP0sNnogm6Z2Bv) | [BARUA ZA UNGUJA, Vol\. 1](https://open.spotify.com/album/2bFtQ69HDOQHAaYv7UsNn7) | 3:59 |
-| 42 | [Open Up](https://open.spotify.com/track/5o3V0lznwTP1e1SXEpWf1w) | [JeffreyBenson](https://open.spotify.com/artist/2K0UsnzELTCOU8fapfdDl0) | [As E Dey Hot!](https://open.spotify.com/album/2h9k8s7e30baQPS0cphwa8) | 2:35 |
-| 43 | [On My OWN](https://open.spotify.com/track/0quSUEwzeX7SYPJhvZ2d5j) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5) | [On My OWN](https://open.spotify.com/album/3MXUwPYODiMEeEw1T4dRGh) | 3:15 |
-| 44 | [Jeje](https://open.spotify.com/track/7G1ue6yz1tUNwNgiZL5ete) | [Tayo Creed](https://open.spotify.com/artist/2sUCVEuAJBg9ooMJvokCKR) | [Jeje](https://open.spotify.com/album/69RpcOJD97js6j8I2Jful6) | 2:38 |
-| 45 | [NEW GBEDU](https://open.spotify.com/track/6sorFgXDu4ZJvDlJ1yLXx2) | [ALAN1](https://open.spotify.com/artist/4XXFhIKvQx1IGimq47oJEt) | [NEW GBEDU](https://open.spotify.com/album/0OmepNwFt6Nm47wZ9SQEjZ) | 2:02 |
-| 46 | [UNDO](https://open.spotify.com/track/31TISLyAnRQBP4wqX5DZcU) | [Orinami](https://open.spotify.com/artist/2qYxN70Ct6eZzcF9i3Ncsi) | [ORINAMI](https://open.spotify.com/album/2LhHC07A7R1RDlpRItHkAm) | 2:37 |
-| 47 | [Hotlife](https://open.spotify.com/track/0Hm1tmZ1qO63yr37w7ga9V) | [Adiba](https://open.spotify.com/artist/113vlBuupc3BLlAWHsoSsB) | [Hotlife](https://open.spotify.com/album/0yczguxbufII9c6LTcc9ME) | 2:42 |
-| 48 | [Motherfxcker](https://open.spotify.com/track/1D1Mp6lTvkAqTjbVewRkpQ) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Motherfxcker](https://open.spotify.com/album/3FUWRe4bQJOynPXqMIm0Zb) | 2:27 |
+| 42 | [So Easy](https://open.spotify.com/track/4y7kdlDWPMxbegjUrW6SPX) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [So Easy](https://open.spotify.com/album/6rIegtr1X3iIVbZS5kQqo7) | 3:20 |
+| 43 | [Open Up](https://open.spotify.com/track/5o3V0lznwTP1e1SXEpWf1w) | [JeffreyBenson](https://open.spotify.com/artist/2K0UsnzELTCOU8fapfdDl0) | [As E Dey Hot!](https://open.spotify.com/album/2h9k8s7e30baQPS0cphwa8) | 2:35 |
+| 44 | [On My OWN](https://open.spotify.com/track/0quSUEwzeX7SYPJhvZ2d5j) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5) | [On My OWN](https://open.spotify.com/album/3MXUwPYODiMEeEw1T4dRGh) | 3:15 |
+| 45 | [Jeje](https://open.spotify.com/track/7G1ue6yz1tUNwNgiZL5ete) | [Tayo Creed](https://open.spotify.com/artist/2sUCVEuAJBg9ooMJvokCKR) | [Jeje](https://open.spotify.com/album/69RpcOJD97js6j8I2Jful6) | 2:38 |
+| 46 | [NEW GBEDU](https://open.spotify.com/track/6sorFgXDu4ZJvDlJ1yLXx2) | [ALAN1](https://open.spotify.com/artist/4XXFhIKvQx1IGimq47oJEt) | [NEW GBEDU](https://open.spotify.com/album/0OmepNwFt6Nm47wZ9SQEjZ) | 2:02 |
+| 47 | [UNDO](https://open.spotify.com/track/31TISLyAnRQBP4wqX5DZcU) | [Orinami](https://open.spotify.com/artist/2qYxN70Ct6eZzcF9i3Ncsi) | [ORINAMI](https://open.spotify.com/album/2LhHC07A7R1RDlpRItHkAm) | 2:37 |
+| 48 | [Hotlife](https://open.spotify.com/track/0Hm1tmZ1qO63yr37w7ga9V) | [Adiba](https://open.spotify.com/artist/113vlBuupc3BLlAWHsoSsB) | [Hotlife](https://open.spotify.com/album/0yczguxbufII9c6LTcc9ME) | 2:42 |
+| 49 | [Motherfxcker](https://open.spotify.com/track/1D1Mp6lTvkAqTjbVewRkpQ) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Motherfxcker](https://open.spotify.com/album/3FUWRe4bQJOynPXqMIm0Zb) | 2:27 |
 
 Snapshot ID: `AAAAAC1ChByFcynGHY+bs94iDv9gG91b`

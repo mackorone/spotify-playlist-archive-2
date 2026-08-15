@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-3,187 songs - 7 day 3 hr 3 min
+3,188 songs - 7 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1159,6 +1159,7 @@
 | [I Miss Us](https://open.spotify.com/track/4aM0qZIjcEHcHPHhJIlOlf) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Boyband](https://open.spotify.com/album/2zGHPm1a5Bo3R8LuhyUoxL) | 2:19 | 2026-05-13 | 2026-05-17 |
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-09 | 2021-05-16 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-22 |
+| [I Need Your Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:54 | 2026-08-14 |  |
 | [I Run](https://open.spotify.com/track/4nffa2OJOlgjCr4WPUZAuY) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/4bqyKumRF0H8BZXtUIazLn) | 2:09 | 2025-11-12 | 2025-11-14 |
 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 | 2025-11-26 | 2026-01-30 |
 | [I Run](https://open.spotify.com/track/7yxEOiB5klVkj9RXfia90C) | [Micah's Music](https://open.spotify.com/artist/4ZclG6kmrHxEHZtGG1r3fs) | [I Run](https://open.spotify.com/album/5gERxcBMubbaKGdbs4ngqT) | 2:09 | 2025-11-30 | 2025-12-03 |
@@ -1405,7 +1406,7 @@
 | [Kygo Jo \(feat\. Lyng\) \- Kygo Remix](https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Flow Kingz](https://open.spotify.com/artist/1811qTctCVNYGH09k7sfyY), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN), [Lyng](https://open.spotify.com/artist/5ducg8qTQPfJJSSsO3D8hB) | [Kygo Jo \(feat\. Lyng\) \[Kygo Remix\]](https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER) | 2:33 | 2026-07-12 | 2026-07-14 |
 | [Kägistamishaare](https://open.spotify.com/track/0nXvoBh6384hRsSk0yJXKk) | [Leis](https://open.spotify.com/artist/3gkKCZqauXTnhJNSEcw55T), [margiiela](https://open.spotify.com/artist/0k4DsAQchmnvZRtA6j7O1R) | [Kägistamishaare](https://open.spotify.com/album/4xF4jbAkQUoGfo2ptvnv60) | 2:41 | 2023-09-30 | 2023-10-02 |
 | [Käime katuseid mööda](https://open.spotify.com/track/3mUnNCnlxennpXN88LoQv3) | [Smilers](https://open.spotify.com/artist/3gDHpjemovd3LuV3tHgjOq) | [XX \- 20 AASTAT METEORIITIDE SAJUS](https://open.spotify.com/album/635VEt0CR4DFjhQ2muHTfF) | 4:21 | 2026-06-24 | 2026-06-26 |
-| [Käsipagasis](https://open.spotify.com/track/4X2oUX2NP6cTNXr2nZplQx) | [Clicherik & Mäx](https://open.spotify.com/artist/2K5ujJoG9L4INBflflfxtk) | [Käsipagasis](https://open.spotify.com/album/6kk13s6l3i3hgg5ij8vXrH) | 2:59 | 2026-07-11 |  |
+| [Käsipagasis](https://open.spotify.com/track/4X2oUX2NP6cTNXr2nZplQx) | [Clicherik & Mäx](https://open.spotify.com/artist/2K5ujJoG9L4INBflflfxtk) | [Käsipagasis](https://open.spotify.com/album/6kk13s6l3i3hgg5ij8vXrH) | 2:59 | 2026-07-11 | 2026-08-15 |
 | [kõige usinam kustutaja](https://open.spotify.com/track/1VgMovhvCqbmAtALPHocFp) | [5MIINUST](https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an), [Puuluup](https://open.spotify.com/artist/7ifYVN4V3DErjxbHDfI0Yx) | [kannatused ehk külakiigel pole stopperit](https://open.spotify.com/album/7mLL0eVJ6aOzQ5I6z9cUwN) | 3:07 | 2024-04-27 | 2024-05-01 |
 | [kõigile kõike](https://open.spotify.com/track/2YDjuUjjTUi1qhzs1vHU8h) | [säm](https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X) | [Südamelt ära](https://open.spotify.com/album/3A6lMHj5EF2aaLLdQVPVqC) | 3:00 | 2024-11-23 | 2024-11-25 |
 | [Kõik Mis Sa Teed](https://open.spotify.com/track/3Fv30jj4a0aS2blKks2Al5) | [Púr Múdd](https://open.spotify.com/artist/2xe5h8nbHc1yYGKUVL8zce) | [Kõik Mis Sa Teed](https://open.spotify.com/album/15Qf35ffkywVVRmvkr8zfS) | 3:10 | 2023-02-11 | 2023-07-11 |

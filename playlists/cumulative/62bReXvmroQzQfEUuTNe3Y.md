@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-587 songs - 1 day 8 hr 6 min
+589 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Always There](https://open.spotify.com/track/3NaKHEV7SqwWzwO9Ojh3Nh) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Getaway](https://open.spotify.com/album/3rtizvqme6bcBjN5PuQnSE) | 5:08 | 2020-09-13\* | 2021-03-06 |
 | [Angel \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1OFtfwhXqUYO08yD0QfTQE) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Angel \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4lw2gLtWy9vadSTniV99mc) | 3:09 | 2021-09-11 |  |
 | [Angel of Mine](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Angel of Mine](https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf) | 2:42 | 2025-07-30 |  |
+| [animal](https://open.spotify.com/track/4BeeT5TUEjM0fIwYgW0BYd) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [moving on](https://open.spotify.com/album/5GWQUzurAtSwpYwsdXJAYJ) | 3:07 | 2026-08-14 |  |
 | [Another You](https://open.spotify.com/track/7xBtsvU7AWX4pYP02SXEtF) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Another You](https://open.spotify.com/album/5kriWdQNPawclQs1j2jfcZ) | 2:49 | 2022-08-05 | 2022-09-17 |
 | [Anyway Friday](https://open.spotify.com/track/7uyzEFBeQNkoHsl35NFMAv) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Voices](https://open.spotify.com/album/3ZHBMDCb4NrguIr1EaDwZK) | 3:33 | 2020-09-13\* | 2021-04-17 |
 | [Anywhere \(Road Trippin'\)](https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Anywhere \(Road Trippin'\)](https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA) | 4:34 | 2023-06-16 | 2025-07-31 |
@@ -335,6 +336,7 @@
 | [Mother](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu) | [Revelle27](https://open.spotify.com/artist/3MtB9LTUuqKNrlIx4n7wG5) | [Mother](https://open.spotify.com/album/1Fw1yHZlDSiF5EitTIAJ2h) | 2:38 | 2024-05-03 |  |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-28 | 2025-08-02 |
 | [Move](https://open.spotify.com/track/6NIJqFHB5cHAn064JCP7Li) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/532L1zk5VJqGtRQLRFiVod) | 2:57 | 2025-07-30 | 2026-01-06 |
+| [moving on](https://open.spotify.com/track/3qj349zyG0sDNwowKBzVmD) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [moving on](https://open.spotify.com/album/5GWQUzurAtSwpYwsdXJAYJ) | 3:07 | 2026-08-14 |  |
 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 | 2025-02-07 | 2025-07-31 |
 | [Music is Better](https://open.spotify.com/track/4NlxBNd38G9nXjCVrbBYre) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 3:56 | 2025-07-30 |  |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-01-12 | 2025-07-31 |

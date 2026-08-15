@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-557 songs - 1 day 7 hr 35 min
+558 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Exurbia](https://open.spotify.com/track/709623tJrfsBIS0EYzRf4a) | [Gianna Sanzen](https://open.spotify.com/artist/0dOmfZPNH7WYPXVtUGG58d) | [Exurbia](https://open.spotify.com/album/35nM4mGD7u3f89almFVhxv) | 3:45 | 2025-11-17 | 2026-01-05 |
 | [Fading Inbetween](https://open.spotify.com/track/2gDwnYkg9beSsnTuLcOALl) | [Velour](https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7) | [Hidden Fears EP](https://open.spotify.com/album/09ppLzddbk0ZuEB6rfDYsd) | 3:23 | 2025-11-01 | 2025-12-01 |
 | [Faith](https://open.spotify.com/track/5rxxCShjsfENHyTEFxm2LX) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 4:57 | 2026-01-24 | 2026-02-21 |
+| [Falling](https://open.spotify.com/track/2HYhqNMPAn74OgyD8iTvsk) | [Twin Phase](https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q) | [Falling](https://open.spotify.com/album/6siMNfpjoJNPSGhKIJZwxr) | 2:27 | 2026-08-14 |  |
 | [Falling For You](https://open.spotify.com/track/1WY1neK4eNnB4H00p2uzr1) | [MaXimum Boost](https://open.spotify.com/artist/0turMaNvhFbQANB1QKyvmN) | [Falling For You](https://open.spotify.com/album/05uHmKHapnjqAlG9QLYpU9) | 1:23 | 2025-11-17 | 2026-01-05 |
 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 | 2026-01-29 | 2026-03-03 |
 | [Faster](https://open.spotify.com/track/6RA15eX9LyoPbn9q2Puj5u) | [At Baron Lane](https://open.spotify.com/artist/7uMc0lZt0i1E0pO2zg7YYn) | [The Cause](https://open.spotify.com/album/2ocaO3l2r9SB6lEdLO4eNY) | 2:46 | 2025-11-08 | 2025-12-01 |

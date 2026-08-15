@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 510 songs - 1 day 5 hr 14 min
+[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 513 songs - 1 day 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -518,5 +518,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 508 | [Call Boy](https://open.spotify.com/track/5Xo861ZHKMGHJx8yJR0zIt) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [SonobashinogiEP](https://open.spotify.com/album/7AAjKp4YcGvElvWy9CVCxG) | 3:28 |
 | 509 | [Shinitagari \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/6x7eohae2lVhyuWrT73Q0P) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Madonosoto](https://open.spotify.com/album/2OdO7kE96j5661nPePNUAq) | 2:47 |
 | 510 | [分かっちゃいないね \- feat.花隈千冬](https://open.spotify.com/track/5yEVYY3MipQkWLVb1cqR02) | [monet](https://open.spotify.com/artist/1q9lQ4dwpQUDsYLtYNuZnf), [花隈千冬](https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38) | [分かっちゃいないね \(feat.花隈千冬\)](https://open.spotify.com/album/3XW0DF3nM1NpuQ9zYnBOfg) | 3:56 |
+| 511 | [What A Strange Child](https://open.spotify.com/track/41qCOY36xnyCxjLI1oAckJ) | [Mushi\-P](https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0) | [The World Of Picture Book](https://open.spotify.com/album/63801ievlG9h3IzGger7u1) | 3:32 |
+| 512 | [忘却心中](https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg) | [0\-9](https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn) | [忘却心中](https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG) | 4:13 |
+| 513 | [Aster](https://open.spotify.com/track/1I6TrS3GxQDnDzf479mYW0) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [NeoDreamTraveler](https://open.spotify.com/album/36VBZ7w53MCsXPfh3fyQdz) | 3:50 |
 
-Snapshot ID: `AAAKVHiFqUotxrr0nf3hbxa4ZIDu1vt8`
+Snapshot ID: `AAAKVydNFrmBmxYB/tX8U2zFKxLpVHF6`

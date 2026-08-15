@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Canal View",
+        "url": "https://open.spotify.com/album/15DN2DZn9TqWYHfP18qIT4"
+      },
+      "artists": [
+        {
+          "name": "ZAINAB",
+          "url": "https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184504,
+      "name": "Azadi",
+      "url": "https://open.spotify.com/track/1ilS3EJjhVRNOJ0vPAlrJ0"
+    },
+    {
+      "album": {
         "name": "AZD SURF",
         "url": "https://open.spotify.com/album/4vorYlWcWYeKPGIf1OIFUR"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,309 likes - 90 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,466 likes - 90 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 28 | [Spirit](https://open.spotify.com/track/08eXsFsUOWK4FcrHMKynEV) | [Tigerskin](https://open.spotify.com/artist/09UQUOICiqSgc3C8TRhTEh) | [Spirit](https://open.spotify.com/album/4P96Vc0xlysHCZwf2T5AQO) | 4:35 |
 | 29 | [Raider on the Storm](https://open.spotify.com/track/7dVZVODisLTpb8sAyghTUA) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Raider on the Storm](https://open.spotify.com/album/5Ru0WPywMRUUfH6LptpD75) | 3:13 |
 | 30 | [We Can Go \- Edit](https://open.spotify.com/track/5KdvYHUQKF6EEhoqmUF1nV) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Seleçao IV](https://open.spotify.com/album/12FzxKqs2w1BBtzXqqciZX) | 3:16 |
-| 31 | [Track 1](https://open.spotify.com/track/4qdbviIxAVzPr9nxJbVucM) | [sin:port](https://open.spotify.com/artist/2qexUhp1F9BhpDgE8G54tv) | [Watch Your Pulse](https://open.spotify.com/album/7FBm8m4nHYc1dsgzAmhKGL) | 0:00 |
+| 31 | [Watch Your Pulse](https://open.spotify.com/track/4qdbviIxAVzPr9nxJbVucM) | [sin:port](https://open.spotify.com/artist/2qexUhp1F9BhpDgE8G54tv), [Maurice Mino](https://open.spotify.com/artist/3jQ3A0KKg25CZZNBFr5fKB) | [Watch Your Pulse](https://open.spotify.com/album/7FBm8m4nHYc1dsgzAmhKGL) | 5:09 |
 | 32 | [Late Hours](https://open.spotify.com/track/4LhKDZw9TYsS1TugwG8PVQ) | [Amir Karim](https://open.spotify.com/artist/3mDCynoERft1xsTIDKKgdI) | [Late Hours](https://open.spotify.com/album/60uyvt1TPg0By9bhf2xS4a) | 3:35 |
 | 33 | [Remember](https://open.spotify.com/track/4BQnqRWW6I5jBQotbx8Xjv) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [Remember](https://open.spotify.com/album/3tFn6NIMe4fSScBnhsCNoy) | 7:27 |
 | 34 | [I Walk](https://open.spotify.com/track/0o4iGMVF0WzS5cYneexCsX) | [Ed Ed](https://open.spotify.com/artist/3GWjKbXZUq8r7fzVpRcb1i) | [I Walk](https://open.spotify.com/album/6jhNr4bAkVMQNwBu3rL0iU) | 6:36 |
 | 35 | [Automatik](https://open.spotify.com/track/3GgdKgAUM68EJj8dsjPPsN) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Automatik](https://open.spotify.com/album/0WBq5rqpd0he6YNun3ZaBp) | 4:34 |
 | 36 | [We Don't Stop](https://open.spotify.com/track/6mvipMh7urf1jBHD6kCPxs) | [Kristin Velvet](https://open.spotify.com/artist/6dUQZEabny6GEeOayKuk4O) | [We Don't Stop / Grand Prix](https://open.spotify.com/album/6FbRCZPurSteWgoqqpFtq4) | 3:03 |
 | 37 | [Loneliness](https://open.spotify.com/track/1mXwe5luOaakmaKK5ib1P8) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Loneliness](https://open.spotify.com/album/1bfjSRpS2OWgxFRmxiaQWO) | 3:50 |
-| 38 | [Track 1](https://open.spotify.com/track/65C6n0hHXphRfKq0LIonih) | [YOZÉ](https://open.spotify.com/artist/5XBh3fpITlhkBrId3sCiN6) | [Like That EP](https://open.spotify.com/album/5CPX8zQoPsklbIK3A3uqO4) | 0:00 |
+| 38 | [Like That](https://open.spotify.com/track/65C6n0hHXphRfKq0LIonih) | [YOZÉ](https://open.spotify.com/artist/5XBh3fpITlhkBrId3sCiN6) | [Like That EP](https://open.spotify.com/album/5CPX8zQoPsklbIK3A3uqO4) | 2:38 |
 | 39 | [Excuse Me](https://open.spotify.com/track/59FmKJvwkAIpb9VrClRdzo) | [miirabelle](https://open.spotify.com/artist/2sZWQPBglKu7CxaZ6tJSYG) | [Excuse Me](https://open.spotify.com/album/2O0gY2JJT36CSBQGk1R4cO) | 3:24 |
 | 40 | [Motion](https://open.spotify.com/track/4dohD0kIEdfRb7YYgvqhZv) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Humans Musik](https://open.spotify.com/artist/3huzrC7mZ7tINmFf1g1hO0) | [Motion](https://open.spotify.com/album/3tcqdgyVL78VrhycMzrlsq) | 2:47 |
 | 41 | [Pacha](https://open.spotify.com/track/5QuiMSE8sWvGQ60RxUSvET) | [ZARO](https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk) | [Pacha](https://open.spotify.com/album/2joZfgKqZxeLLC6WPsjGmT) | 3:20 |

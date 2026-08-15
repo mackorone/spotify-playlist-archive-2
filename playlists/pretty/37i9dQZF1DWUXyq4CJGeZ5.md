@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,475 likes - 167 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,479 likes - 174 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,5 +175,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 165 | [Alone, Listening](https://open.spotify.com/track/1jfXTqauh27a9CPfoS6Xz5) | [From the Chair](https://open.spotify.com/artist/1BmGWOUulQzcxVzizt479l) | [Alone, Listening](https://open.spotify.com/album/1wiR3SfSv9KF1iAbE6x7qA) | 2:40 |
 | 166 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 |
 | 167 | [I Was Here](https://open.spotify.com/track/47CrKzr1UF48IUkefXrsJv) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [I Was Here](https://open.spotify.com/album/5xODkBzdjQmoXTAuA4b7l3) | 2:26 |
+| 168 | [Sunset Reverie](https://open.spotify.com/track/4WGJn1hvlk6Gq8dBeiAPQx) | [Maryam Lowell](https://open.spotify.com/artist/2ALs4HgT2kgE6ktEh1XBXP) | [Sunset Reverie](https://open.spotify.com/album/4Pk1jFOvYug2gsIt27KY46) | 2:49 |
+| 169 | [Low Sun, Long Shadows](https://open.spotify.com/track/5TXB3vpD61pIUV2XmbxHdf) | [Nicolas Fenton](https://open.spotify.com/artist/3QVOKiPmEWghVY99oZ3qnm) | [Low Sun, Long Shadows](https://open.spotify.com/album/6HEXURK2GiNYLcrK14Jn7J) | 2:26 |
+| 170 | [Dreaming Beyond The Horizon](https://open.spotify.com/track/1mWjGFUS6psBjRkCrdfqeu) | [Leyre Hart](https://open.spotify.com/artist/2h1jzXo7ckWedFcCtZxgYv) | [Dreaming Beyond The Horizon](https://open.spotify.com/album/1xL63vR9F4o3hKGbXqjYnD) | 2:31 |
+| 171 | [When Summer Fades](https://open.spotify.com/track/2m4jdcuKCvRHkFLCvFGVZZ) | [Mats Tärnfors](https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1) | [When Summer Fades](https://open.spotify.com/album/6bCNDO93v4dHyEbDrMn7EQ) | 3:27 |
+| 172 | [Place to Be](https://open.spotify.com/track/7kcI1jaZFDbW0BpIaTP3Ci) | [John Othmar](https://open.spotify.com/artist/7J3MgxBFbSLYv0Q0Viy5v2) | [Place to Be](https://open.spotify.com/album/43iNzEboKsPNcd0LgHYHI8) | 2:11 |
+| 173 | [Recovery](https://open.spotify.com/track/1kHgAppEheR33IS7xkGQMB) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Recovery](https://open.spotify.com/album/24r8O1QtZXkV1Kp11YvAfS) | 2:33 |
+| 174 | [Evangeline](https://open.spotify.com/track/008fjtDWw3Z6aHgd1HbyCu) | [Kaspar Riedenthal](https://open.spotify.com/artist/60nYiV2Ny5FO2Z8MhmYlUu) | [Evangeline](https://open.spotify.com/album/6Ac6qjg6v8d9uwPhZiurha) | 2:26 |
 
-Snapshot ID: `AAAAAMnWuFRYyfW+vFI2OfZ/0lW1hZsx`
+Snapshot ID: `AAAAAMOf2/uRLwvH3c6g8vvkbPIFkgUJ`

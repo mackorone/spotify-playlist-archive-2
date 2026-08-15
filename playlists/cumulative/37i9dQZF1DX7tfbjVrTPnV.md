@@ -2,9 +2,9 @@
 
 ### [Americana Icons](https://open.spotify.com/playlist/37i9dQZF1DX7tfbjVrTPnV)
 
-> Enjoy new and classic releases from icons of folk and Americana\. Cover: John Prine
+> Enjoy new and classic releases from icons of folk and Americana\. Cover: Sheryl Crow
 
-290 songs - 18 hr 36 min
+291 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Frankie Please](https://open.spotify.com/track/4TLvICn13BXypKkDKOMUFy) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/0JotwVcRvTi8rASHqVxB2e) | 2:43 | 2023-08-11 | 2024-04-19 |
 | [Frankie Please](https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw) | 2:43 | 2022-04-22 | 2024-04-13 |
 | [Frankie Please](https://open.spotify.com/track/7iL3tEPfvqOnZ6glFtWhRm) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/2VkipAw4rgbFGAUyI4cdph) | 2:43 | 2021-11-11 |  |
+| [Freedom Bus \(feat\. Jesse Welles\)](https://open.spotify.com/track/6WIG59dsRrXkkJGoMUt1Xo) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Freedom Bus \(feat\. Jesse Welles\)](https://open.spotify.com/album/5YkFjlztInHrn0fdfTkeQ3) | 4:43 | 2026-08-14 |  |
 | [Garfield's Blackberry Blossom](https://open.spotify.com/track/3S4HRC12gDqUqPDtnvtScN) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Release Me](https://open.spotify.com/album/5pHY33NfVPp6no94BYgoWS) | 3:06 | 2021-11-11 | 2024-07-28 |
 | [Garfield's Blackberry Blossom](https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Release Me](https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG) | 3:06 | 2022-04-22 | 2024-04-19 |
 | [Gentle on My Mind](https://open.spotify.com/track/4cqj2eiCHxpyf80ePDrcgs) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Gentle On My Mind](https://open.spotify.com/album/7f4JdFYRCcPLVwBwxleQMW) | 3:39 | 2021-11-11 | 2026-05-09 |
@@ -128,7 +129,7 @@
 | [I Have Met My Love Today \- Recorded at RCA Studio a, Nashville](https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 2:29 | 2021-11-11 |  |
 | [I Shall Not Be Moved \(with Francesco Turrisi\)](https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 4:58 | 2021-11-11 |  |
 | [I'll Fly Away](https://open.spotify.com/track/4rJtUMlnhJzlzlnxyoc3tb) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 3:57 | 2022-04-22 | 2024-04-19 |
-| [I'll Fly Away \- From “O Brother, Where Art Thou” Soundtrack](https://open.spotify.com/track/7Jo1HP2CuphXWTyOF4aIUY) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7mNWca5S6eg21krZzHAoZt) | 3:58 | 2021-11-11 |  |
+| [I'll Fly Away \- From “O Brother, Where Art Thou” Soundtrack](https://open.spotify.com/track/7Jo1HP2CuphXWTyOF4aIUY) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7mNWca5S6eg21krZzHAoZt) | 3:58 | 2021-11-11 | 2026-08-15 |
 | [I'll Get Away](https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Let It Go](https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0) | 4:08 | 2021-11-11 | 2026-06-23 |
 | [I'm Dying for Someone to Live For](https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Wouldn't It Be Great](https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr) | 2:30 | 2021-11-11 |  |
 | [I'm Tellin' You \(feat\. Holly Williams\)](https://open.spotify.com/track/7pFP6YbM7kpRp8mLTYRCIq) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Holly Williams](https://open.spotify.com/artist/5mfdtMy6vJUShmdyCuJhox) | [I'm Tellin' You \(feat\. Holly Williams\)](https://open.spotify.com/album/6GrETo8xf2AZghoSF9mYlf) | 1:50 | 2021-11-11 | 2026-06-04 |

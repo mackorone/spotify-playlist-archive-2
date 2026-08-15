@@ -2,9 +2,9 @@
 
 ### [alt.chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Niños Del Cerro en portada.
+> Anttonias en portada.
 
-593 songs - 1 day 11 hr 44 min
+596 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [El cigarrito](https://open.spotify.com/track/1hgsjd1wklneSNLPgjL9fK) | [Angelo Pierattini](https://open.spotify.com/artist/4IyZZfTjtcbbJfe8gvN1Pf), [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A) | [El cigarrito](https://open.spotify.com/album/0hYqGC2CTjS70O1Jzvtiss) | 3:08 | 2023-09-22 | 2024-01-11 |
 | [El Demonio del Mediodía](https://open.spotify.com/track/02ZJgSEEmi7rmJ42gw2j1i) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [El Demonio del Mediodía](https://open.spotify.com/album/59DDXjGG4zx2MGNIJUsDXz) | 2:58 | 2022-04-15 | 2022-12-10 |
 | [El Deportista \- Remix](https://open.spotify.com/track/5rglXd6m61Yw0kAnujwBPo) | [La Playa](https://open.spotify.com/artist/3mRz1jPyfOO3MD4BnkQPiO), [Sweet Pomelo](https://open.spotify.com/artist/1kRzlG27oPe0i3Ll09llgM) | [Remezclas Salvajes](https://open.spotify.com/album/7h8ip62LdSASky4mRSYu5e) | 2:49 | 2023-09-29 | 2023-10-13 |
+| [El dolor](https://open.spotify.com/track/2kMic8syeO5IhD8T49Q32O) | [Anttonias](https://open.spotify.com/artist/3zso8kvuPiTFBXe5g6ERJW) | [El dolor](https://open.spotify.com/album/4JVnZhBbUKtvsPNs3ObTP7) | 3:01 | 2026-08-14 |  |
 | [El dragón asciende](https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0) | [Los Valentina](https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY) | [Independencia](https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p) | 4:20 | 2022-05-13 | 2023-06-24 |
 | [El Efecto](https://open.spotify.com/track/2arFzyifrmAqgxnmQQ0SyD) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Abrazo Fantasma](https://open.spotify.com/album/4c6ZcnNFBHrsTtv3oXKwyn) | 2:04 | 2023-12-22 | 2024-08-24 |
 | [El Fin De La Inocencia](https://open.spotify.com/track/1o1kadr56JMcyWhV7p72Nf) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [El Fin De La Inocencia](https://open.spotify.com/album/69URp3E0l4sYws460rD2h0) | 3:41 | 2024-04-26 | 2026-07-25 |
@@ -432,6 +433,7 @@
 | [pétalos](https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48) | [Yaima Cat](https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI), [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [pétalos](https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI) | 3:30 | 2024-01-12 | 2024-04-04 |
 | [Que no se corte la cadena](https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Que no se corte la cadena](https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu) | 2:36 | 2023-04-21 | 2024-05-18 |
 | [Que Nunca Pare](https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Que Nunca Pare](https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v) | 3:24 | 2023-11-10 | 2026-07-25 |
+| [Quebrada](https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Quebrada](https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG) | 3:30 | 2026-08-14 |  |
 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 | 2022-04-15 | 2022-12-10 |
 | [Quería Olvidarte](https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Quería Olvidarte](https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w) | 2:46 | 2023-03-10 | 2026-07-18 |
 | [Quiebra el Tiempo](https://open.spotify.com/track/0BzgcI1nTL32Ygl1Jnhnb5) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Quiebra el Tiempo](https://open.spotify.com/album/2OsKOLvBmA7nEdzEje7TkN) | 3:50 | 2024-07-26 | 2024-12-07 |
@@ -549,6 +551,7 @@
 | [Tú, Yo y Otra Dimensión](https://open.spotify.com/track/1WTSQryXy1H1DpZ9RgjB2a) | [Automático](https://open.spotify.com/artist/0HiaC6yJUDlEjZUj8axdWk), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Tú, Yo y Otra Dimensión](https://open.spotify.com/album/787WYgcOHnslKVi5jXlX9j) | 4:42 | 2023-11-10 | 2024-12-07 |
 | [ULTRADERECHA](https://open.spotify.com/track/425DFDC3ekLUguWd9kdm1I) | [Candelabro](https://open.spotify.com/artist/1vcHRdox9r4UWUTWLHZ7Au) | [LATINOAMÉRICA ES UN PUEBLO AL SUR DE ESTADOS UNIDOS](https://open.spotify.com/album/3eu5RQw3iXLx0dzjENypjr) | 3:21 | 2026-07-24 |  |
 | [Ultravioleta](https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F), [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ultravioleta](https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO) | 5:14 | 2022-11-29 | 2023-01-28 |
+| [Un Descanso de Mi Mente](https://open.spotify.com/track/0CkINrHG384lJvBoCRjyLg) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Un Descanso de Mi Mente](https://open.spotify.com/album/3NkH8BGvxBYVGZjeLFmlkm) | 4:25 | 2026-08-14 |  |
 | [Un Día Planté una Rosa](https://open.spotify.com/track/3BvyDuC2IhlSpG3DfnnXMR) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:41 | 2022-04-15 | 2022-12-10 |
 | [Un Espejismo](https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Un Espejismo](https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis) | 3:34 | 2023-03-31 | 2024-06-08 |
 | [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 | 2022-09-23 | 2023-01-28 |

@@ -2,7 +2,7 @@
 
 ### [Viral Songs UK & IE](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
-> Hot right now 📈 cover: Tame Impala
+> Hot right now 📈 cover: Steve Lacy
 
 1,071 songs - 2 day 11 hr 33 min
 

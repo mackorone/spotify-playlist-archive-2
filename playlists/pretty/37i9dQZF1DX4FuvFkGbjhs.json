@@ -1,6 +1,6 @@
 {
   "description": "Beyond titles, beyond genre. Cover: Troye Sivan",
-  "num_followers": 198200,
+  "num_followers": 198192,
   "original_name": "UNTITLED",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAK2lnIzNfJKllpNtVHI7k/CwgLbb",
   "tracks": [
+    {
+      "added_at": "2026-08-13 23:00:27",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+    },
     {
       "added_at": "2026-08-13 23:00:27",
       "album": {
@@ -235,6 +251,26 @@
       "duration_ms": 182000,
       "name": "Seeing Signs",
       "url": "https://open.spotify.com/track/1DgFgvAF9TmoM3dpax9k0j"
+    },
+    {
+      "added_at": "2026-08-13 23:00:27",
+      "album": {
+        "name": "ANGEL",
+        "url": "https://open.spotify.com/album/32GVvqbn3IO1K3e4ehpbh1"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/6EWz01NLmUigFEz98Ek5qR"
     },
     {
       "added_at": "2026-08-13 23:00:27",

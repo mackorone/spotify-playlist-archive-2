@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-513 songs - 22 hr 20 min
+515 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Faith](https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P) | [Oscar Grönborg](https://open.spotify.com/artist/6oelQEIUrYRIGVxWcFmtwn) | [Faith](https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE) | 2:00 | 2022-05-04 | 2023-11-16 |
 | [fall](https://open.spotify.com/track/5AIzxuiHKnMgvodH57KZoZ) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [fall](https://open.spotify.com/album/6k8LLE8sDVmCnRing5pSeE) | 2:33 | 2025-11-26 |  |
 | [Falling snowflakes](https://open.spotify.com/track/6R5vB4wyl9VRds7qDu6Qau) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Falling snowflakes](https://open.spotify.com/album/7sGJpnYzFIho21AHeV4Mvi) | 2:17 | 2024-01-04 | 2026-04-11 |
+| [Falling Without Landing](https://open.spotify.com/track/4QghnZSZvVH26y8HZJyMic) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [Falling Without Landing](https://open.spotify.com/album/0zJz6Ty6vHgZqE203YXIvz) | 2:36 | 2026-08-14 |  |
 | [Far Away Lands](https://open.spotify.com/track/7qMseyFxCjFXL4F1zU3RBA) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Far Away Lands](https://open.spotify.com/album/4sTwqQ9YDLigNpLqKFXiaM) | 3:14 | 2023-08-07 | 2025-12-16 |
 | [Feathers](https://open.spotify.com/track/1CWes1ypvDpEAfpDpB5uWy) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Feathers](https://open.spotify.com/album/7jM0M6ag5Kcg2nK4sPWAl9) | 2:38 | 2023-11-07 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2021-12-14 | 2024-01-05 |
@@ -296,6 +297,7 @@
 | [Numéro 11](https://open.spotify.com/track/1esrhRyrNWhIn2OcB48AzP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 11](https://open.spotify.com/album/1TRmbAEVPLZNn1aNW0YdKh) | 2:48 | 2022-08-03 | 2023-04-05 |
 | [Nuxe](https://open.spotify.com/track/6h0V5bM7dDmwvrrmqHVlPE) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:18 | 2022-12-21 | 2023-11-16 |
 | [När trollmor har lagt sina elva små troll](https://open.spotify.com/track/7KLODMiUhRae6TROVoo9o9) | [Melody Spencer](https://open.spotify.com/artist/0XKEbFGTqHAajz2lusK4dM) | [När trollmor har lagt sina elva små troll](https://open.spotify.com/album/23DnPSEc2t2uvKh2mjLOif) | 1:41 | 2023-02-06 | 2023-11-16 |
+| [Obsidiana](https://open.spotify.com/track/7tiT59HMbnqMFETrKF9w59) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Obsidiana](https://open.spotify.com/album/6cyLJZuNV20RPgziROUHLR) | 3:14 | 2026-08-14 |  |
 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2021-12-14 | 2023-11-16 |
 | [October stroll](https://open.spotify.com/track/0djBbURQR8Zu4SD4K48lzJ) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [October stroll](https://open.spotify.com/album/7dnDyRoLFwV6HSSiZ3L1AP) | 2:09 | 2021-12-14 | 2023-11-16 |
 | [Oktobervals](https://open.spotify.com/track/4icmGX5PB2GEVBzE6dDdZD) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Oktobervals](https://open.spotify.com/album/40mVqyNnl4FDZyl6Fc1EDS) | 2:28 | 2022-12-21 | 2023-11-16 |

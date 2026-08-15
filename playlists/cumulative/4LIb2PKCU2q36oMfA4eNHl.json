@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 211000,
       "name": "In Passing",
       "url": "https://open.spotify.com/track/5BF1qohbyQFSKxvlV9XlQP"
@@ -4151,6 +4151,28 @@
     },
     {
       "album": {
+        "name": "lightning",
+        "url": "https://open.spotify.com/album/09mQ3XRW14V8CpJ1mdD0d2"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241806,
+      "name": "lightning",
+      "url": "https://open.spotify.com/track/3oMdSioE6doEQhizK43hiM"
+    },
+    {
+      "album": {
         "name": "Like I Used To (Steven Weston Revisit)",
         "url": "https://open.spotify.com/album/6FPX05WEzjO21ZteyYxGq8"
       },
@@ -4412,7 +4434,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 184646,
       "name": "Longing Protocol",
       "url": "https://open.spotify.com/track/72Pdo1TpRsYvcQw5WwRJMd"
@@ -7182,6 +7204,24 @@
       "duration_ms": 250787,
       "name": "Stay",
       "url": "https://open.spotify.com/track/58AB6UhgBqKSPByXQiUFkS"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2diPcf8av13aOOXwATVOpE"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Solange",
+          "url": "https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256748,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5xTsuY31OnjYSoc5oGzBjv"
     },
     {
       "album": {

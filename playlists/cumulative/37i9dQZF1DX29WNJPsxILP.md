@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Wicked Sunny
+> Best of Hindi Hip\-Hop! Cover: Badshah
 
-336 songs - 17 hr 3 min
+337 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,10 +41,11 @@
 | [BAD GUY \(DG\)](https://open.spotify.com/track/0dTZ4voGuikJX6kI0a9v7g) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [BAD GUY \(DG\)](https://open.spotify.com/album/5oFzkhlE24nHE0Ld54UTdL) | 1:51 | 2023-03-10 | 2024-07-19 |
 | [BADA](https://open.spotify.com/track/1wXboYx3lvl38SHBj532Es) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [BADA](https://open.spotify.com/album/1lKabEz08F0w7UOmMsu8Wm) | 2:34 | 2024-09-05 | 2024-10-24 |
 | [BADA](https://open.spotify.com/track/57JgnvdInhr9wO4tvjDq2K) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 2:34 | 2024-09-30 | 2025-01-20 |
-| [Bade Bade Cheques](https://open.spotify.com/track/2BCRLiM2UcyDBdszeWNoUR) | [VAIBHAV](https://open.spotify.com/artist/6BKRb9HapejNswwa5rTFBO) | [Breaking News](https://open.spotify.com/album/4jSJtXLcQEcvwwemZMmiv6) | 2:19 | 2025-10-14 |  |
+| [Bade Bade Cheques](https://open.spotify.com/track/2BCRLiM2UcyDBdszeWNoUR) | [VAIBHAV](https://open.spotify.com/artist/6BKRb9HapejNswwa5rTFBO) | [Breaking News](https://open.spotify.com/album/4jSJtXLcQEcvwwemZMmiv6) | 2:19 | 2025-10-14 | 2026-08-15 |
 | [Badshah](https://open.spotify.com/track/1hfRfTfumpDvDtMtXMRY81) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Badshah](https://open.spotify.com/album/3n3QUJtIq37gy0Lfa5D1lb) | 2:43 | 2025-02-04 | 2026-05-02 |
 | [Balawala Bad Bois](https://open.spotify.com/track/2v692a5boFb35NymerzqRH) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri Aur Main](https://open.spotify.com/album/0CWCtQbEiN1QAEGamNhLk6) | 3:16 | 2023-10-11 | 2024-06-08 |
 | [Bambaiyya](https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Bambaiyya](https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8) | 2:15 | 2025-01-21 | 2025-04-26 |
+| [Banger](https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Banger](https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy) | 2:38 | 2026-08-14 |  |
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-10 | 2025-05-31 |
 | [Bas Ke Bahar](https://open.spotify.com/track/6p6HR5HKDBLqiT4jH4dMpu) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Bas Ke Bahar](https://open.spotify.com/album/4LuJ0yiuHkZyGo5RjbE6jW) | 3:09 | 2023-03-10 | 2024-09-18 |
 | [Batman](https://open.spotify.com/track/0x5itC1IF7WtrA7lJUmIbf) | [Aghor](https://open.spotify.com/artist/3AsmJFW9t14OXuJp9zOuPk), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Batman](https://open.spotify.com/album/75K8WUFvfA5ejXARa0y60o) | 3:32 | 2023-03-10 | 2023-10-12 |

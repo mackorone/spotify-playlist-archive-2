@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Phoebe Bridgers
 
-1,712 songs - 4 day 3 hr 4 min
+1,714 songs - 4 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Analogue Love](https://open.spotify.com/track/5kkFOCOfpKzEu4cKDBdIXk) | [GATC](https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6) | [Analogue Love](https://open.spotify.com/album/2HYXuTMOW8JZbWDOQ2l2lB) | 3:52 | 2025-01-09 | 2025-02-07 |
 | [And That's How I Got The Congas](https://open.spotify.com/track/2RlGhIXKW8Ozqzg0Cq5w8B) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [And That's How I Got The Congas](https://open.spotify.com/album/0qxPgAWiQqIPC6A3uDGxtN) | 2:53 | 2025-02-27 | 2025-05-16 |
 | [ANGEL](https://open.spotify.com/track/5Kk8AiJSxdhT5nflK8l4oE) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [ANGEL](https://open.spotify.com/album/6OGMwoSKdKLbTfKfaAGkaV) | 2:40 | 2025-06-12 | 2025-08-01 |
+| [ANGEL](https://open.spotify.com/track/6EWz01NLmUigFEz98Ek5qR) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [ANGEL](https://open.spotify.com/album/32GVvqbn3IO1K3e4ehpbh1) | 3:59 | 2026-08-14 |  |
 | [angie](https://open.spotify.com/track/55lfk9iyLoKBFlznN3ebkO) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [angie](https://open.spotify.com/album/3MpGkxdtN037VpIKirfrUp) | 2:55 | 2024-10-03 | 2024-11-08 |
 | [Animal](https://open.spotify.com/track/7CXkLmEUNqa8FI0PgkfC00) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Animal](https://open.spotify.com/album/5tHaOeERI8YhSzXhI648FA) | 2:48 | 2024-11-14 | 2025-01-17 |
 | [Animaru](https://open.spotify.com/track/1SkY6npvIxrTAU1cP4XMIg) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 2:41 | 2025-05-01 | 2025-06-27 |
@@ -1296,6 +1297,7 @@
 | [She's All Time \- feat\. Nina Nesbitt](https://open.spotify.com/track/29ZL829h4DMexvDZu1Ef1B) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Golden Wolf](https://open.spotify.com/album/5aa9sxMdhMppfnRWJQNT9C) | 3:14 | 2025-05-01 | 2025-07-11 |
 | [She's My Religion](https://open.spotify.com/track/4Roi9Mr7xgXkdSjpbdgCl4) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [She's My Religion](https://open.spotify.com/album/17iEQhSfY6US3IGhzLoEVG) | 4:00 | 2026-06-25 | 2026-08-14 |
 | [sheba](https://open.spotify.com/track/5mIFcP4S4z5igxO4fFRxXW) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [sheba](https://open.spotify.com/album/2HwMtRK3uDJathKvSQ449c) | 2:34 | 2025-11-27 | 2026-02-06 |
+| [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 | 2026-08-14 |  |
 | [Short Lived](https://open.spotify.com/track/7ivGafFpwaDfWxc2WUyT8e) | [Suzi](https://open.spotify.com/artist/7yyW28zOEIrNs2Rs3eq9cI) | [Short Lived](https://open.spotify.com/album/2hEhcU4Bo2gOqSFcdRCT3S) | 3:31 | 2026-04-30 | 2026-06-19 |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-18 | 2024-08-30 |
 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 | 2025-03-20 | 2025-07-11 |

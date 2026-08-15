@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: Jovem MK, Majis, CRYSTAYLE, MC KTRINE, Paola Spena
 
-260 songs - 11 hr 31 min
+261 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Hino](https://open.spotify.com/track/5XqfnIoBXU9qvFZRmVAowM) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Hino](https://open.spotify.com/album/4a4BJwJhUWMkf4tdeeoxIi) | 2:53 | 2023-02-03 | 2023-04-22 |
 | [Hino](https://open.spotify.com/track/76WBiLzMTj5JDHPQl4bKRG) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Hino](https://open.spotify.com/album/0A9LwErBKgaY0TMHcrNt5p) | 2:56 | 2022-03-18 | 2023-02-09 |
 | [Honey](https://open.spotify.com/track/5CPJjsuHQ9Gafg7PMeZMsQ) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Honey](https://open.spotify.com/album/4Ctd2nN8SGcOQaI2dhsdJR) | 2:25 | 2023-04-21 | 2023-08-26 |
+| [House Party](https://open.spotify.com/track/5YxsdOUOgGWJYYICTz1xBC) | [Ge Nunes](https://open.spotify.com/artist/3Fld6S2obQAqXJlMetQMja) | [Boombox](https://open.spotify.com/album/2l8pm1cIqH0Ca9f5ZzVUhd) | 2:56 | 2026-08-14 |  |
 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 | 2023-06-26 |  |
 | [Indispensável](https://open.spotify.com/track/5i8uaqyosYWLvTyNp1NWct) | [Souto MC](https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4), [Feat Saci](https://open.spotify.com/artist/3xDHxwjYq5n6xFnvNMt2ML) | [Feat Saci \#12](https://open.spotify.com/album/26T75gINhFqs4PtKnNYIk0) | 2:45 | 2023-09-08 | 2024-06-22 |
 | [Indomável](https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ) | [CRIOLA](https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Indomável](https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA) | 1:52 | 2025-10-10 |  |
@@ -251,7 +252,7 @@
 | [Só Mais um Trapper](https://open.spotify.com/track/077llN7tZH947zQPJFAsMJ) | [Donna Forte](https://open.spotify.com/artist/7pFC3Q9kglhwQQ9y5h9utD) | [Só Mais um Trapper](https://open.spotify.com/album/4xFk7SlXHcQYK1muQp4roe) | 2:24 | 2022-03-18 | 2022-10-15 |
 | [Só Para Você](https://open.spotify.com/track/7dqHd6Sc9TbRmmSnU7z4Ro) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Só Para Você](https://open.spotify.com/album/78c8qIT7DWLFDGRB7vdU8u) | 2:15 | 2022-03-18 | 2022-04-16 |
 | [Só Você](https://open.spotify.com/track/3OPtaoYm5WKIwzpZ5rJKwU) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Aloizio](https://open.spotify.com/artist/5vC11pPaZkV4ydnM4kRo91) | [Nunchi](https://open.spotify.com/album/1Jyyxrx1LEpuPKwf1r2nlx) | 2:50 | 2022-03-18 | 2022-05-28 |
-| [Território Latino](https://open.spotify.com/track/4j4e7eyjnr8o7rbNnSSvpU) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Território Latino](https://open.spotify.com/album/5TQSuXBvBN0oHJYppBeKIH) | 2:04 | 2022-03-18 |  |
+| [Território Latino](https://open.spotify.com/track/4j4e7eyjnr8o7rbNnSSvpU) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Território Latino](https://open.spotify.com/album/5TQSuXBvBN0oHJYppBeKIH) | 2:04 | 2022-03-18 | 2026-08-15 |
 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 | 2023-03-03 | 2025-01-31 |
 | [Toma Cuidado](https://open.spotify.com/track/6NXcJBwuVHkXklcJnZPf7X) | [A Pitbull](https://open.spotify.com/artist/60lg8oWzcNfWXdD1zidOI3), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Toma Cuidado](https://open.spotify.com/album/4bREUNf7QrzXeMjUOp6sp6) | 2:01 | 2022-03-18 | 2022-06-25 |
 | [Tormento](https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Tormento](https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI) | 3:18 | 2022-03-18 | 2023-11-11 |

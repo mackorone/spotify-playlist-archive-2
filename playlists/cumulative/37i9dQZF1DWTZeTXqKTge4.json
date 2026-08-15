@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Jeekay, Imposs",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: S.B, St-Saoul, Madizm",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 153000,
       "name": "Abeille",
       "url": "https://open.spotify.com/track/3MQRhmb0LfmjKi0WuW93XV"
@@ -3570,7 +3570,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 169552,
       "name": "Blue Volvo",
       "url": "https://open.spotify.com/track/6vdWn7Pxc4u7om93eXRkfy"
@@ -5018,6 +5018,32 @@
       "duration_ms": 167037,
       "name": "Chaque Douille",
       "url": "https://open.spotify.com/track/5VXekSKXEpZZxaSSqVebFB"
+    },
+    {
+      "album": {
+        "name": "Chats sauvages",
+        "url": "https://open.spotify.com/album/4GtW8Zz4MbmSs6aWeoOM58"
+      },
+      "artists": [
+        {
+          "name": "S.B.",
+          "url": "https://open.spotify.com/artist/72kZOa4kKru0fwP828YnUA"
+        },
+        {
+          "name": "St-Saoul",
+          "url": "https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ"
+        },
+        {
+          "name": "Madizm",
+          "url": "https://open.spotify.com/artist/2GoFhPq0tLBQaFm0dZyHYj"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154007,
+      "name": "Chats sauvages",
+      "url": "https://open.spotify.com/track/4RfnG0Fs4UZIMwQBe9DVZA"
     },
     {
       "album": {
@@ -11042,7 +11068,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 213781,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA"
@@ -12008,6 +12034,28 @@
       "duration_ms": 185391,
       "name": "J'pas une star 3",
       "url": "https://open.spotify.com/track/1YiMxNMZzvIuaHj5YisHrk"
+    },
+    {
+      "album": {
+        "name": "J'PENSE \u00c0 TOI (SOMETIMES)",
+        "url": "https://open.spotify.com/album/0xdX93kf9cPCYeJCPOhfBC"
+      },
+      "artists": [
+        {
+          "name": "ACHEL",
+          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
+        },
+        {
+          "name": "Frisouxx",
+          "url": "https://open.spotify.com/artist/1LuaUt0Zksb4smYvqvf8Dr"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104307,
+      "name": "J'PENSE \u00c0 TOI (SOMETIMES)",
+      "url": "https://open.spotify.com/track/4Z6ecbTIrzUcj4iXqbhUuj"
     },
     {
       "album": {
@@ -13811,6 +13859,28 @@
     },
     {
       "album": {
+        "name": "Le resto du Hilton",
+        "url": "https://open.spotify.com/album/4vwFJkR7fAwLZkEA3eb0jm"
+      },
+      "artists": [
+        {
+          "name": "FILOU",
+          "url": "https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6"
+        },
+        {
+          "name": "LeDji",
+          "url": "https://open.spotify.com/artist/0u4SuQvBKJ7zwNWT3RWkph"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106712,
+      "name": "Le resto du Hilton",
+      "url": "https://open.spotify.com/track/3s5pq5RRlWBYAahZCkCw4Z"
+    },
+    {
+      "album": {
         "name": "LE VRAI",
         "url": "https://open.spotify.com/album/522iek09o43Ba78L1k8DiV"
       },
@@ -13958,6 +14028,32 @@
       "duration_ms": 231382,
       "name": "Led Lights",
       "url": "https://open.spotify.com/track/0f9DSgM7W2EmLgRNuLA5jJ"
+    },
+    {
+      "album": {
+        "name": "LEFFETDUGWAP",
+        "url": "https://open.spotify.com/album/5FY0qqOpkNGbpnMtaavzXO"
+      },
+      "artists": [
+        {
+          "name": "K!RA OJI",
+          "url": "https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm"
+        },
+        {
+          "name": "Z.F.R",
+          "url": "https://open.spotify.com/artist/74mQLgN7RpFqSw9bSFkzTi"
+        },
+        {
+          "name": "Nicky Savage",
+          "url": "https://open.spotify.com/artist/1yG7xAkT8v6Ora2dBdkrgq"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157616,
+      "name": "LEFFETDUGWAP",
+      "url": "https://open.spotify.com/track/7i8VNYioePOaPTa7Oapkrn"
     },
     {
       "album": {
@@ -14894,7 +14990,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 118176,
       "name": "Ma Vi2le",
       "url": "https://open.spotify.com/track/6DlTLfWBKAVoyj4f5vgV0V"
@@ -16644,7 +16740,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 172616,
       "name": "M\u00e9dicament",
       "url": "https://open.spotify.com/track/26ZjT5eaDXrolcKiA8H7Xh"
@@ -18960,7 +19056,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 172584,
       "name": "PH\u00c9NOM\u00c8NE",
       "url": "https://open.spotify.com/track/004oHSxvlB5SHQqQXi9QQG"
@@ -24180,7 +24276,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 135652,
       "name": "Tout doux",
       "url": "https://open.spotify.com/track/1KBro5B3LOAq8uTAehhom9"
@@ -25080,6 +25176,36 @@
       "duration_ms": 210000,
       "name": "Valse avec elle",
       "url": "https://open.spotify.com/track/0FWWGx9egwpLM7x3136AmR"
+    },
+    {
+      "album": {
+        "name": "VERNISSAGE",
+        "url": "https://open.spotify.com/album/142c3qM3X4qgG8TS8IuMwR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Savage",
+          "url": "https://open.spotify.com/artist/1yG7xAkT8v6Ora2dBdkrgq"
+        },
+        {
+          "name": "KaMa",
+          "url": "https://open.spotify.com/artist/3rblgHbQPHtt6CKgR9ykrH"
+        },
+        {
+          "name": "Faire les Choses",
+          "url": "https://open.spotify.com/artist/03HhpNxb5lzCo52TsP33FE"
+        },
+        {
+          "name": "5inq",
+          "url": "https://open.spotify.com/artist/7koHUiO2F4PHi0PDV4gycT"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "VERNISSAGE",
+      "url": "https://open.spotify.com/track/6POYZKs3nkPksqp0yvloDS"
     },
     {
       "album": {

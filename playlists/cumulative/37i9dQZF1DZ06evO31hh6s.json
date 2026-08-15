@@ -28,7 +28,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 267786,
       "name": "1,2,3 - Bonus Track",
       "url": "https://open.spotify.com/track/6xw5bzfHMyklTP3KpfcnFY"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 217773,
       "name": "Can U But That?",
       "url": "https://open.spotify.com/track/798nkL7ySAWVByZMEjJtPY"
@@ -1080,6 +1080,32 @@
       "duration_ms": 211307,
       "name": "Does Anybody Feel Me",
       "url": "https://open.spotify.com/track/4K9WdMLQ8sIGKhn0yG5fiP"
+    },
+    {
+      "album": {
+        "name": "Noble Justice",
+        "url": "https://open.spotify.com/album/67kCSP1gVssHpc0z0Kqets"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Napoleon",
+          "url": "https://open.spotify.com/artist/666IIaxis8fAPLQ1Uva457"
+        },
+        {
+          "name": "Edi",
+          "url": "https://open.spotify.com/artist/6QXNRcJM2v7JWJk0WScVEi"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326426,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/4227tObCU0gcZA78c9L26z"
     },
     {
       "album": {
@@ -1726,7 +1752,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 247746,
       "name": "Give It up (feat. Big Syke, Young Noble & E.D.I. Mean)",
       "url": "https://open.spotify.com/track/2Sq6EtMVEH9xJtyg4X5Hby"
@@ -1802,7 +1828,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 152973,
       "name": "God Said It",
       "url": "https://open.spotify.com/track/35U2IpCtyStfdDINC57O5t"
@@ -2401,6 +2427,28 @@
     },
     {
       "album": {
+        "name": "Thug In Thug Out",
+        "url": "https://open.spotify.com/album/1Ei2ttYorukI5w8PCeOo0x"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Hussein Fatal Of The Outlawz",
+          "url": "https://open.spotify.com/artist/1NpzP8nUg7KaKumu342FHY"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48506,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/2EtkKMpuRfKjXcytihFnFX"
+    },
+    {
+      "album": {
         "name": "O.G., Vol. 2: Classics in Session",
         "url": "https://open.spotify.com/album/2vuxdhy0Xaux99zGyIAYnC"
       },
@@ -2476,7 +2524,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 268240,
       "name": "Keepin' It G",
       "url": "https://open.spotify.com/track/0nzJIOfrFNT7oWWGSEwNgl"
@@ -3202,7 +3250,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 316442,
       "name": "Nasty New Street",
       "url": "https://open.spotify.com/track/1ww3wxdRpwqdpkZ8BWYhvC"
@@ -4646,7 +4694,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 162063,
       "name": "Supposed 2 Do",
       "url": "https://open.spotify.com/track/4mH3Vekwwjg8EIGlO1RTeO"
@@ -4672,7 +4720,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 113136,
       "name": "Surviving",
       "url": "https://open.spotify.com/track/7KBU12tvd67cUSV4NZU0Dz"
@@ -4844,7 +4892,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 222533,
       "name": "The End",
       "url": "https://open.spotify.com/track/28d2ijVgLxk7iieu2T8xLR"
@@ -5054,7 +5102,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 271987,
       "name": "The Struggle",
       "url": "https://open.spotify.com/track/2RQip2QqsAjKAKTI3eicUx"
@@ -5154,7 +5202,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 176840,
       "name": "Thug Music",
       "url": "https://open.spotify.com/track/5Wb7HuBooPy138N39SUomA"
@@ -5418,7 +5466,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 251055,
       "name": "Unexpected Love",
       "url": "https://open.spotify.com/track/4vRCmUGu1Bt0xdqV0cGgi7"

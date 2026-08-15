@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Bein\u2019 Green",
+        "url": "https://open.spotify.com/album/13SwXrM9xSsndzWQWX21Rb"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250515,
+      "name": "Bein\u2019 Green",
+      "url": "https://open.spotify.com/track/0bFDv9RwLd1KNfrkVhUy4g"
+    },
+    {
+      "album": {
         "name": "Better Than Anything",
         "url": "https://open.spotify.com/album/3x7h1t1xD5hE3XymtR8u2z"
       },
@@ -4380,7 +4398,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 340757,
       "name": "El Panadero",
       "url": "https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj"
@@ -5022,7 +5040,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-15",
       "duration_ms": 288266,
       "name": "Follow the Sound",
       "url": "https://open.spotify.com/track/5NHc8A5OsC7pd0MiIo5esd"
@@ -8280,6 +8298,24 @@
       "duration_ms": 157290,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/2mMYNnNFCKoCWih6vELx3E"
+    },
+    {
+      "album": {
+        "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+        "url": "https://open.spotify.com/album/6dYaa17hczyvHqu7pawtAh"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159426,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/7mTGyO47jbuPpHOE2mSYiH"
     },
     {
       "album": {
