@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aKMY1mSzIW.md) - [plain]
 
 > Binge watch OPM music videos! only available for Spotify Premium Subscribers! Cover: Kyle Raphael
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,643 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,706 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

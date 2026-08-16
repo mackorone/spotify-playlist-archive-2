@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAACHGiBWDpg3wRyTYkNPp/vZ",
+  "snapshot_id": "an5agAAAAAC2NNAN04xl6hHBPr8DOiRh",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Ti Estoy Loco",
+        "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222843,
+      "name": "Por Ti Estoy Loco",
+      "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Alzada x Rich Vagos",
         "url": "https://open.spotify.com/album/31SzZE3MAZdYuGwv9gBkLt"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 396705,
       "name": "Alzypher Alzada x Rich Vagos",
       "url": "https://open.spotify.com/track/71EefoxxHKdjSQ33bOoLSN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Ti Estoy Loco",
-        "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 222843,
-      "name": "Por Ti Estoy Loco",
-      "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
     },
     {
       "added_at": null,
@@ -663,30 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Junta",
-        "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 174289,
-      "name": "Mala Junta",
-      "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guadalajara",
         "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
       },
@@ -707,6 +683,30 @@
       "duration_ms": 229977,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mala Junta",
+        "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 174289,
+      "name": "Mala Junta",
+      "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
     },
     {
       "added_at": null,
@@ -831,14 +831,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Juanos",
-        "url": "https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0"
+        "name": "No Es Que Sea Mam\u00f3n",
+        "url": "https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v"
       },
       "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
         {
           "name": "Zxmyr",
           "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
@@ -850,11 +846,15 @@
         {
           "name": "La Bruja en el Beat",
           "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Los Juanos",
-      "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
+      "duration_ms": 285000,
+      "name": "No Es Que Sea Mam\u00f3n",
+      "url": "https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz"
     },
     {
       "added_at": null,
@@ -883,10 +883,14 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es Que Sea Mam\u00f3n",
-        "url": "https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v"
+        "name": "Los Juanos",
+        "url": "https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0"
       },
       "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
         {
           "name": "Zxmyr",
           "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
@@ -898,15 +902,11 @@
         {
           "name": "La Bruja en el Beat",
           "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
         }
       ],
-      "duration_ms": 285000,
-      "name": "No Es Que Sea Mam\u00f3n",
-      "url": "https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz"
+      "duration_ms": 217600,
+      "name": "Los Juanos",
+      "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
     },
     {
       "added_at": null,
@@ -1275,26 +1275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pista",
-        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "\u00bfY si bailamos?",
-      "url": "https://open.spotify.com/track/34hlv8mV3qVxQZcJ4A5Aib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 235758,
       "name": "Juntos de Noche",
       "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "\u00bfY si bailamos?",
+      "url": "https://open.spotify.com/track/34hlv8mV3qVxQZcJ4A5Aib"
     },
     {
       "added_at": null,

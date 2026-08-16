@@ -662,7 +662,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/04hw9znPUYJavSYhw9FyoU"
@@ -3034,6 +3034,32 @@
       "duration_ms": 256000,
       "name": "BATICANO",
       "url": "https://open.spotify.com/track/5qzLdvRViHUrRNdkpakG7C"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
       "album": {
@@ -6574,7 +6600,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 170736,
       "name": "Dandy Hats",
       "url": "https://open.spotify.com/track/0e3T2reBHLVK9ENgEg0WmH"
@@ -21480,7 +21506,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 201033,
       "name": "PUES YA NI PEDO",
       "url": "https://open.spotify.com/track/3N7BmCgSASJ9WWYqhzT5uJ"
@@ -21812,7 +21838,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 211400,
       "name": "Que Nadie Sepa",
       "url": "https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy"
@@ -22390,7 +22416,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 214700,
       "name": "Recuerdos en Com\u00fan",
       "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"

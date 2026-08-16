@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 
 > Bach's most popular piano pieces, performed by the greatest pianists of the last century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,763 likes - 43 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,765 likes - 43 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 | 42 | [Air on the G String \(Arr\. Ólafsson for Piano from Orchestral Suite No\. 3, BWV 1068\)](https://open.spotify.com/track/0Iwjb6tjMTFvyxtzJkL5s7) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Air on the G String \(Arr\. Ólafsson for Piano from Orchestral Suite No\. 3, BWV 1068\)](https://open.spotify.com/album/29FMCsvvRUfnBwHeO3K7Ek) | 3:39 |
 | 43 | [Prelude & Fugue in C Minor \(Well\-Tempered Clavier, Book I, No\. 2\), BWV 847: I\. Prelude](https://open.spotify.com/track/3tRT6unYEvgBTbAdAWPSVp) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Johann Sebastian Bach](https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR) | 1:24 |
 
-Snapshot ID: `AAAAAPCmh8zyQwFegSpzFK+JKPL5RAkK`
+Snapshot ID: `AAAAAAMM9uXwE1TnG1mSGyVx+SRFrHZ1`

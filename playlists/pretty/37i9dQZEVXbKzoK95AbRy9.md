@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,668 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,711 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Deixe Me Ir \(feat\. Pablo Martins\) \- Acústico 1Kilo](https://open.spotify.com/track/6JKkP9ABQzYZUFSKSVDKIc) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Pablo Martins](https://open.spotify.com/artist/1yDAF4rsplzWHhq3yFGZjM) | [Deixe Me Ir \(feat\. Pablo Martins\) \[Acústico 1Kilo\]](https://open.spotify.com/album/46yCXaTMO6Tchv34c2jZT2) | 3:33 |
 | 50 | [Eu Não Sou Terapia \- Ao Vivo](https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/1ejLnHri909csVlNncBvyD) | 2:42 |
 
-Snapshot ID: `MhJ0OAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MhPFuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

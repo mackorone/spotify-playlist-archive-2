@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 
 > 9월 10\-13, SPOTIFY HOUSE 서울 라인업 아티스트들의 베스트곡 리스트를 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,469 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,670 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

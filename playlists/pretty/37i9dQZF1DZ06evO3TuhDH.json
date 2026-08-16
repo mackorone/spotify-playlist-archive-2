@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19554,
+  "num_followers": 19556,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAACL2/xkSgu+wrh2R616+yhI",
+  "snapshot_id": "an5agAAAAABwruCeWahrER8KEFPZPODW",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 184000,
       "name": "Outside",
       "url": "https://open.spotify.com/track/66akDgOGJi139ys0umhBns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attachments (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/6CMpc5ukVsV1HJUWwLMHBJ"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Attachments (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/4nyRXQQkM69kmaxiyCKMCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Hypaton & Giuseppe Ottaviani Remix]",
         "url": "https://open.spotify.com/album/0pxJtNNx443RTilEzl6sAz"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 178124,
       "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Hypaton & Giuseppe Ottaviani Remix",
       "url": "https://open.spotify.com/track/0838zv1ZStd9x0rUGAHZ9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Attachments (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/6CMpc5ukVsV1HJUWwLMHBJ"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Attachments (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/4nyRXQQkM69kmaxiyCKMCr"
     },
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lemon Cars",
+        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "We Time",
+      "url": "https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B.I.B.L.E.",
         "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 201398,
       "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lemon Cars",
-        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "We Time",
-      "url": "https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,627 songs - 10 day 9 hr 1 min
+4,629 songs - 10 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Atto secondo](https://open.spotify.com/track/3EMwkvUl7st7bJujGMDyAJ) | [Workless Academy](https://open.spotify.com/artist/03kJTdj59Rm53crxqhvr23) | [Il coraggio di esistere](https://open.spotify.com/album/3HhJxdvpZUqhydoR96yo4J) | 4:03 | 2025-02-19 |  |
 | [Atto sesto](https://open.spotify.com/track/5ZDl0Lfq1cbT9U8YdVxKWl) | [Workless Academy](https://open.spotify.com/artist/03kJTdj59Rm53crxqhvr23) | [Il coraggio di esistere](https://open.spotify.com/album/3HhJxdvpZUqhydoR96yo4J) | 3:43 | 2025-04-07 |  |
 | [Aurora](https://open.spotify.com/track/4QWtXklpTxIf0sNfbyWOEr) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Aurora](https://open.spotify.com/album/38VNocDbkXEAKEuEXBVIXR) | 2:49 | 2025-05-23 |  |
+| [Ausente](https://open.spotify.com/track/36PcSX4cg6YHzAIw3pDrgA) | [AarǿnViz](https://open.spotify.com/artist/6ciNCF1EJNLtnruJM3eySb) | [Ausente](https://open.spotify.com/album/0SPOT5pwB1OkBCttVu9TQp) | 2:52 | 2026-08-15 |  |
 | [Austral Darkirys](https://open.spotify.com/track/5m2oLvQVlHQ2kgVu1stonD) | [amtic](https://open.spotify.com/artist/74wf3lbTAH5VP0aoBSqzMZ), [IRYS](https://open.spotify.com/artist/1BVW1V3EuRkOvZn0C4tf2n) | [Austral Darkirys](https://open.spotify.com/album/6hw1mqNJ6vURlxP3JeBRBp) | 2:18 | 2025-04-02 |  |
 | [Autofagia, Pt\. 2](https://open.spotify.com/track/0wknjNMTOBMRd1he53im4Q) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Midnight Star](https://open.spotify.com/album/1ikJ7Zzbj0fdGd6375nlKX) | 1:54 | 2025-09-28 |  |
 | [Autumn Breeze](https://open.spotify.com/track/3DEuYF7IOhozjE9m8lgMJE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Autumn Sweet Music](https://open.spotify.com/album/7s7aLLFz83nSCg8JQpFSrD) | 2:28 | 2025-09-18 |  |
@@ -2007,6 +2008,7 @@
 | [In the grain](https://open.spotify.com/track/7GXy6iC4hzJuLa9G7HGUF3) | [The Sunday Static](https://open.spotify.com/artist/36ru1AAdGSsjN5Uzr3CrHd) | [Under the hiss](https://open.spotify.com/album/3ei3vWOjhGdACXB5GBFfh9) | 4:14 | 2026-07-07 |  |
 | [In the Great Stories](https://open.spotify.com/track/3LDTyBYEExmyYYLBcSjYaa) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:32 | 2025-12-10 |  |
 | [In the rain](https://open.spotify.com/track/6wEdQ3tq7D7VbAX8qjc1yw) | [Flint Gun](https://open.spotify.com/artist/0nFSX6ZMek8s4Adewf1B3F) | [In the rain](https://open.spotify.com/album/0kMllBMTHHKlLa6AvswTwm) | 4:10 | 2025-10-15 |  |
+| [In the Shadows of My Mind](https://open.spotify.com/track/1GOxuHkx3MfygKtwbuUbsN) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [In the Shadows of My Mind](https://open.spotify.com/album/2Is6SvBaNoeQyfqoJob24m) | 2:50 | 2026-08-15 |  |
 | [In un mondo dopo il mondo](https://open.spotify.com/track/0T3v3wLYR85rDTWWI8GhOG) | [Massimo Volume](https://open.spotify.com/artist/24GE8PrrmxG6XocV1UQPmP) | [Cattive abitudini](https://open.spotify.com/album/24wUrxEOINZfcfJF2eJ6O2) | 5:09 | 2025-11-12 |  |
 | [Inaffondabile](https://open.spotify.com/track/0xFqxzQpAqfR8aptswwEbg) | [Kronberg](https://open.spotify.com/artist/5E8bDmNrytK8smJiycYFxC), [Ian](https://open.spotify.com/artist/67jmOUMmXY6qY19JcTpBoO), [Antonio Scarola](https://open.spotify.com/artist/5rJ3KiQdDHdC9zY665qvvt) | [Inaffondabile](https://open.spotify.com/album/6QLf25RnPCKBMGwv4wT5wi) | 4:05 | 2025-09-26 |  |
 | [Inbox folder](https://open.spotify.com/track/5u5cZwsUCcKI5u93hLO7ql) | [Sunglasses](https://open.spotify.com/artist/5w6Xd09yAf8hmzTF363zV4) | [Inbox folder](https://open.spotify.com/album/6jho4gWOQn84V0gghWkD9P) | 4:42 | 2026-05-15 |  |

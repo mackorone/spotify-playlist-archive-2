@@ -4781,6 +4781,24 @@
     },
     {
       "album": {
+        "name": "Luxe",
+        "url": "https://open.spotify.com/album/2VbjJozJq7IyciVCGU2hWO"
+      },
+      "artists": [
+        {
+          "name": "Blacka",
+          "url": "https://open.spotify.com/artist/7CP3YMunVNU7kslDUDR3li"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128007,
+      "name": "Givenchy",
+      "url": "https://open.spotify.com/track/13ByvyMCrQs5zPnhIFpIYN"
+    },
+    {
+      "album": {
         "name": "Glamourosa",
         "url": "https://open.spotify.com/album/51r6acz5Y24A4J5JkKK6KA"
       },
@@ -5926,6 +5944,32 @@
       "duration_ms": 134000,
       "name": "Kenner no P\u00e9",
       "url": "https://open.spotify.com/track/6zasITjtZh5m3woq4LuxCP"
+    },
+    {
+      "album": {
+        "name": "KTRAP",
+        "url": "https://open.spotify.com/album/0QUQSM3raRsnzXCa6kiNTz"
+      },
+      "artists": [
+        {
+          "name": "A$HP",
+          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
+        },
+        {
+          "name": "PROD OGG",
+          "url": "https://open.spotify.com/artist/1aGYEe3T6Es7aIjI7ePvyb"
+        },
+        {
+          "name": "Marthian",
+          "url": "https://open.spotify.com/artist/6yP6BN0EBh7xFek2c4Sh9J"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131693,
+      "name": "KTRAP",
+      "url": "https://open.spotify.com/track/1vFVE311YbgWWDQkJhBDd6"
     },
     {
       "album": {
@@ -7310,7 +7354,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 136695,
       "name": "Mist\u00e9rios",
       "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
@@ -10912,7 +10956,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 189295,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/0NYvXGm4O2ZSD2LMm5D3IK"

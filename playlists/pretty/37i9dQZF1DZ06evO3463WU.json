@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 160476,
+  "num_followers": 160502,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAAD7y9DnD3nkpFHQxRexw0mN",
+  "snapshot_id": "an5agAAAAABmM1wJrHeq5u5Q8QVWDGN0",
   "tracks": [
     {
       "added_at": null,
@@ -899,22 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "35 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/18AC56GLpZH5t0m4dN150Z"
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 221029,
-      "name": "Borracho De Besos",
-      "url": "https://open.spotify.com/track/6bC4NcabtEXMHUtIFMwlQ8"
+      "duration_ms": 172895,
+      "name": "Las Llaves De Mi Alma",
+      "url": "https://open.spotify.com/track/5svu7VLrzUslx5wnhpxYAw"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

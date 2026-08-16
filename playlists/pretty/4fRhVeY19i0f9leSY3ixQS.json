@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1694,
+  "num_followers": 1699,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAATEjIEsHv161jmw1IEqQGL/OUX2Qcv",
+  "snapshot_id": "AAATFhpwzxt2a3s0V/P+dIxtmPygUO8Q",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -4001,6 +4001,22 @@
       "url": "https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs"
     },
     {
+      "added_at": "2026-08-15 04:54:01",
+      "album": {
+        "name": "I taste your crown",
+        "url": "https://open.spotify.com/album/47HagvguwrqXO7NcHj7L42"
+      },
+      "artists": [
+        {
+          "name": "La Paille",
+          "url": "https://open.spotify.com/artist/1QTk8okhIb8ISXBHGNYtOc"
+        }
+      ],
+      "duration_ms": 325250,
+      "name": "I taste your crown",
+      "url": "https://open.spotify.com/track/4HkLbym9SpUOzTMFd5OhGG"
+    },
+    {
       "added_at": "2026-08-13 04:48:50",
       "album": {
         "name": "(no matter) what i said",
@@ -4115,6 +4131,54 @@
       "duration_ms": 230359,
       "name": "DREAM logic",
       "url": "https://open.spotify.com/track/6F1VJR1gmsqjOPuNZ5N9oo"
+    },
+    {
+      "added_at": "2026-08-15 04:16:57",
+      "album": {
+        "name": "New York Mermaid (2026 Version)",
+        "url": "https://open.spotify.com/album/563tsKOLJGz6Es7AT8bsAS"
+      },
+      "artists": [
+        {
+          "name": "Elevator Operator",
+          "url": "https://open.spotify.com/artist/146hY314HEGttVHczyZf8T"
+        }
+      ],
+      "duration_ms": 364032,
+      "name": "New York Mermaid - 2026 Version",
+      "url": "https://open.spotify.com/track/6ly5FxX46k0vFqhKojvUsQ"
+    },
+    {
+      "added_at": "2026-08-15 04:25:35",
+      "album": {
+        "name": "Addict",
+        "url": "https://open.spotify.com/album/2s7fhsqefwPD2nvA8JmX5D"
+      },
+      "artists": [
+        {
+          "name": "Until They Burn Me",
+          "url": "https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "Addict",
+      "url": "https://open.spotify.com/track/4SDYXj45uDJIUggF0YfVti"
+    },
+    {
+      "added_at": "2026-08-15 04:26:31",
+      "album": {
+        "name": "Stuck in 1984",
+        "url": "https://open.spotify.com/album/1Je322zy14RJJegt6Ofv2N"
+      },
+      "artists": [
+        {
+          "name": "One Dimensional Creatures",
+          "url": "https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o"
+        }
+      ],
+      "duration_ms": 208556,
+      "name": "Stuck in 1984",
+      "url": "https://open.spotify.com/track/5ks6aRzbC1GfulUzZwAVls"
     }
   ],
   "unique_name": "Spotify Radio",

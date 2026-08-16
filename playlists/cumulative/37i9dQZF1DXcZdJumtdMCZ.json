@@ -1691,6 +1691,32 @@
     },
     {
       "album": {
+        "name": "Ennachu (Magenta Promo Song) (From \"Magenta\")",
+        "url": "https://open.spotify.com/album/07ssURZwtcKgkKwQZz55A4"
+      },
+      "artists": [
+        {
+          "name": "Dharan Kumar",
+          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
+        },
+        {
+          "name": "Vaaheesan Rasaiya",
+          "url": "https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye"
+        },
+        {
+          "name": "Aarthi MN Ashwin",
+          "url": "https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189661,
+      "name": "Ennachu (Magenta Promo Song) (From \"Magenta\")",
+      "url": "https://open.spotify.com/track/6r6KJU0JMtVtl2phzFvqkF"
+    },
+    {
+      "album": {
         "name": "KO (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0DZaLTgltNnc8rAGFymnDN"
       },
@@ -3790,32 +3816,6 @@
       "duration_ms": 345756,
       "name": "Madai Thiranthu - Hit Track",
       "url": "https://open.spotify.com/track/5PeEOojM9Iz9YHRGDu9jog"
-    },
-    {
-      "album": {
-        "name": "Magenta Promo Song (From \"Magenta\")",
-        "url": "https://open.spotify.com/album/07ssURZwtcKgkKwQZz55A4"
-      },
-      "artists": [
-        {
-          "name": "Dharan Kumar",
-          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
-        },
-        {
-          "name": "Vaaheesan Rasaiya",
-          "url": "https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye"
-        },
-        {
-          "name": "Aarthi MN Ashwin",
-          "url": "https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R"
-        }
-      ],
-      "date_added": "2026-06-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189661,
-      "name": "Magenta Promo Song (From \"Magenta\")",
-      "url": "https://open.spotify.com/track/6r6KJU0JMtVtl2phzFvqkF"
     },
     {
       "album": {

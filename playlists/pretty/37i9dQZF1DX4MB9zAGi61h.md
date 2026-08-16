@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 
 > Close Mic, Muted Strings, Loud Hammers
 
-[Spotify](https://open.spotify.com/user/spotify) - 637 likes - 79 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 662 likes - 79 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 | 78 | [Reminisce](https://open.spotify.com/track/6JAgrPR2SsSQbMKQLKU3Li) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Reminisce](https://open.spotify.com/album/00I4uPtckukweP7GVOqZsk) | 2:31 |
 | 79 | [Le Silence](https://open.spotify.com/track/3UQoMxRBowlYY6Bkp5zskI) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Le Silence](https://open.spotify.com/album/1UtTt0MEqC4FM43PCtDDpe) | 2:10 |
 
-Snapshot ID: `AAAAAHnftXKM0cfmCTJvj8qTdNojd9n7`
+Snapshot ID: `AAAAAECu3LjJxo/TrefUZ3zGUzmsKHp1`

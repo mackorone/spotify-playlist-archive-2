@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 341855,
       "name": "Attaboy",
       "url": "https://open.spotify.com/track/2Y0tFR4iYR57EnBK4mf34l"
@@ -1266,6 +1266,40 @@
       "duration_ms": 359426,
       "name": "Symphony No. 1 in C Major, Op. 21: IV. Finale. Adagio - Allegro molto e vivace",
       "url": "https://open.spotify.com/track/5CkKFfwak39hOFiM0DSCLO"
+    },
+    {
+      "album": {
+        "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\"/III. Scherzo. Allegro vivace",
+        "url": "https://open.spotify.com/album/0Z3NEbszFJ6dMTCIloKdQP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        },
+        {
+          "name": "Antoine Tamestit",
+          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343786,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
+      "url": "https://open.spotify.com/track/6boOjP1lz9HUKZBe8xlOh2"
     },
     {
       "album": {

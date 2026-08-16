@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18518,
+  "num_followers": 18524,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAACKQcoVNHo9eRF+oFsuNZK6",
+  "snapshot_id": "an5agAAAAACbqnCHtu+tmbaDDt8y/Rzl",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+        "name": "Jurassic World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2pqi0hewWOKo9uDVLpCVoh"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 291733,
-      "name": "Your Father Would Be Proud",
-      "url": "https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim"
+      "duration_ms": 98892,
+      "name": "The Park is Closed",
+      "url": "https://open.spotify.com/track/3wtb9sGrgRTasl7mOqBS4N"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jurassic World (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2pqi0hewWOKo9uDVLpCVoh"
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 98892,
-      "name": "The Park is Closed",
-      "url": "https://open.spotify.com/track/3wtb9sGrgRTasl7mOqBS4N"
+      "duration_ms": 291733,
+      "name": "Your Father Would Be Proud",
+      "url": "https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 91680,
+      "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 351666,
-      "name": "Jyn Erso & Hope Suite",
-      "url": "https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
       },
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 91680,
-      "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"
+      "duration_ms": 351666,
+      "name": "Jyn Erso & Hope Suite",
+      "url": "https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV"
     },
     {
       "added_at": null,
@@ -547,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
       },
       "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
         {
           "name": "Michael Giacchino",
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 112600,
-      "name": "The Old Zoo Review",
-      "url": "https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf"
+      "duration_ms": 255296,
+      "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
     },
     {
       "added_at": null,
@@ -583,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
       "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
         {
           "name": "Michael Giacchino",
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 255296,
-      "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
+      "duration_ms": 112600,
+      "name": "The Old Zoo Review",
+      "url": "https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Far from Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7dHHxnqokv90t6wVqTEk6F"
+        "name": "Let Him Go (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
       },
       "artists": [
         {
@@ -708,15 +708,15 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 107783,
-      "name": "Swinging Set - from \"Spider-Man: Far from Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/7BOKGKY2DAjq64NPsTjCyX"
+      "duration_ms": 109466,
+      "name": "The Break Of Dawn",
+      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 250293,
-      "name": "The Fantastic Four: First Steps Main Theme Extended Version",
-      "url": "https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4"
+      "duration_ms": 119280,
+      "name": "Off to Work",
+      "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
     },
     {
       "added_at": null,
@@ -743,6 +743,54 @@
       "duration_ms": 105746,
       "name": "Funeral and Far Between",
       "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: Far from Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7dHHxnqokv90t6wVqTEk6F"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 107783,
+      "name": "Swinging Set - from \"Spider-Man: Far from Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/7BOKGKY2DAjq64NPsTjCyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 52946,
+      "name": "Up With Titles",
+      "url": "https://open.spotify.com/track/6sIZFWgScdBoCzEuo3H4pE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "The Fantastic Four: First Steps Main Theme Extended Version",
+      "url": "https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4"
     },
     {
       "added_at": null,
@@ -779,54 +827,6 @@
       "duration_ms": 474506,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 52946,
-      "name": "Up With Titles",
-      "url": "https://open.spotify.com/track/6sIZFWgScdBoCzEuo3H4pE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Him Go (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 109466,
-      "name": "The Break Of Dawn",
-      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Incredibles (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 119280,
-      "name": "Off to Work",
-      "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
     }
   ],
   "unique_name": "This Is Michael Giacchino",

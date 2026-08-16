@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 73 | [Waterfall](https://open.spotify.com/track/55svzLRbfbsISEmxzvpFce) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 5:10 |
 | 74 | [2AM](https://open.spotify.com/track/2eejBNyr1D9QDOxOSwS9DU) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:34 |
 | 75 | [Best of Me](https://open.spotify.com/track/7FlvbdRd9ul5Ipk1Ejzmky) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 5:03 |
-| 76 | [Testimony \(Live At The Piano\)](https://open.spotify.com/track/7JVdwFrZpK9bBYiUrg5Tmn) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Live At The Piano](https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe) | 0:52 |
-| 77 | [Musicians Praise](https://open.spotify.com/track/2mMyT29wcsf3MDdEGeNMm9) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:08 |
+| 76 | [Musicians Praise](https://open.spotify.com/track/2mMyT29wcsf3MDdEGeNMm9) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:08 |
+| 77 | [Testimony \(Live At The Piano\)](https://open.spotify.com/track/7JVdwFrZpK9bBYiUrg5Tmn) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Live At The Piano](https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe) | 0:52 |
 | 78 | [Oh Happy Day](https://open.spotify.com/track/53sa32UDi5PwI891slKSLL) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:57 |
 | 79 | [Misty Christmas](https://open.spotify.com/track/6JHj791EzrLyGjkKNyt7uV) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas With You](https://open.spotify.com/album/55wRPgoziUFScNgNghfhDR) | 5:05 |
 | 80 | [First Steps](https://open.spotify.com/track/0FHbZFh5i5YTes4a6923Ha) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 3:19 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 120 | [Leap of Faith](https://open.spotify.com/track/4mwSkN12OpWi1Wp9k5Oesq) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 3:00 |
 | 121 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AcZlZAAAAAAA+C32CT/gElHcB3OVnsWT`
+Snapshot ID: `AcZrBAAAAADNFxpXUb1LrI3CAqjxVGAO`

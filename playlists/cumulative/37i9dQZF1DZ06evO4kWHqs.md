@@ -4,7 +4,7 @@
 
 > This is SadBoi\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 19 min
+58 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [cunty \(feat\. Duquesa\)](https://open.spotify.com/track/4VZXiqqOV4fNg4IS2SecgL) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:49 | 2026-06-16 |  |
 | [Curry Goat](https://open.spotify.com/track/2wAulGVvxnOtYqLGI1dVeW) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:00 | 2026-07-19 |  |
 | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl) | 2:00 | 2026-06-16 |  |
-| [DAMAGE](https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy) | [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [METAL TAIL](https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1) | 2:58 | 2026-06-16 |  |
+| [DAMAGE](https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy) | [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [METAL TAIL](https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1) | 2:58 | 2026-06-16 | 2026-08-16 |
 | [DESLIZA \- Slide Remix](https://open.spotify.com/track/05A0fzgw1LCQhdvsCCSGeL) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 4:03 | 2026-06-16 |  |
 | [Did That](https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:23 | 2026-07-19 |  |
 | [dnd](https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [DJ SAZE](https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 1:13 | 2026-06-16 |  |
@@ -54,6 +54,7 @@
 | [Slide](https://open.spotify.com/track/7EbUV6hKg8hFpOQKFMzmJu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:09 | 2026-06-16 |  |
 | [That's Your Problem \(STANK HOEZ\)](https://open.spotify.com/track/0U9COGfIWvcxBsv3Bvp7cl) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [That's Your Problem \(STANK HOEZ\)](https://open.spotify.com/album/53xu3I7eRbaheauEh74JHl) | 2:33 | 2026-06-16 |  |
 | [THERAPIST](https://open.spotify.com/track/6NNHjz7NGblXyvh3aQH5Ow) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST](https://open.spotify.com/album/6tVAcTDtnax17x6U6rpcQp) | 2:30 | 2026-06-16 |  |
+| [TRISOM3 \(feat\. SadBoi\)](https://open.spotify.com/track/4DEPnZFoD6Rvn10eCclYUl) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [OUT THE BOX](https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD) | 2:33 | 2026-08-16 |  |
 | [Twisted](https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Twisted](https://open.spotify.com/album/2BFNePqPv0p0nsxbtgD1RE) | 2:11 | 2026-06-16 |  |
 | [U Dun Kno](https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [U Dun Kno](https://open.spotify.com/album/5lD2QGhGCh7lGmfvaLWjxR) | 2:26 | 2026-06-16 |  |
 | [UP \[Feat\. Rich The Kid, A$AP Ferg & SadBoi\]](https://open.spotify.com/track/4hmWsHD1oTyMph2ftkFsoH) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Strictly 4 The Scythe](https://open.spotify.com/album/3Ge6S7DSl3XH69XR3Cg6T6) | 4:06 | 2026-06-16 |  |

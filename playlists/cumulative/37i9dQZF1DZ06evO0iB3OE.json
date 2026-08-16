@@ -990,10 +990,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 189687,
       "name": "El Plebe del Dos de Oro",
       "url": "https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF"
+    },
+    {
+      "album": {
+        "name": "EL Maz Poderoso",
+        "url": "https://open.spotify.com/album/1rnwwEtCSZQSF0KpyZs1BW"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "El Poderoso",
+      "url": "https://open.spotify.com/track/3xRtsmxdpwBsczSE7ldylz"
     },
     {
       "album": {

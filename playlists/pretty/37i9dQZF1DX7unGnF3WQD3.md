@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 
 > toda mi gente tirando emotes ❤️😈 Cahiruki en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,884 likes - 115 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,943 likes - 115 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 | 58 | [Mi Vida Loca](https://open.spotify.com/track/3UAWowNGAK7OQAbF0anXxJ) | [Chris Salgado](https://open.spotify.com/artist/3tTY8XzN1jKcMRbazoNDVg), [Jose Dolche](https://open.spotify.com/artist/52wmMMnrrpKH0caPjpTiUy) | [Mi Vida Loca](https://open.spotify.com/album/64wfe9ByIappBk59HxtM5E) | 3:15 |
 | 59 | [Yo Quiero Perico](https://open.spotify.com/track/05UwxeWKF6OSeEJg5Hc3L1) | [El Jam](https://open.spotify.com/artist/6pAssurVCn9nTvDdMtjWHk), [M\. Perdomo](https://open.spotify.com/artist/3jEbroETOsL0XP80T4w4wp) | [Yo Quiero Perico](https://open.spotify.com/album/7f4og7LEUxIKJRZb9omJmn) | 3:08 |
 | 60 | [Guaracha Ardiente](https://open.spotify.com/track/4MIjZZdaS5mINd7kz0h7IB) | [NINJAA](https://open.spotify.com/artist/4rOEUuCWM2a9S1pNwol2Bh) | [Guaracha Ardiente](https://open.spotify.com/album/7dD4HZTCUZU0QyRorH9xGk) | 3:19 |
-| 61 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |
+| 61 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |
 | 62 | [Drogxs super noize](https://open.spotify.com/track/70aB35owpfNTl7wtYvx24n) | [Dj Rojo](https://open.spotify.com/artist/06LspjcDHyYmaAvHDhUf4U) | [Drogxs super noize](https://open.spotify.com/album/24Xb59ST2Uncb8oWaq9NMF) | 3:10 |
 | 63 | [THE MAGIC TUNNEL \- Radio Edit](https://open.spotify.com/track/3jy6kOiR8O7AhFEAyZTpBV) | [DJ DAVE](https://open.spotify.com/artist/1ZrRs1vnQjCuupHAw3VeAA) | [THE MAGIC TUNNEL \(Radio Edit\)](https://open.spotify.com/album/19YQyitGqnq5wuA7vBRpyg) | 2:36 |
 | 64 | [Guaratech](https://open.spotify.com/track/3RxJWMvrNCduFS4f6ql2oD) | [Chris Salgado](https://open.spotify.com/artist/3tTY8XzN1jKcMRbazoNDVg), [Emcy](https://open.spotify.com/artist/7gcigxBJoKTMVkxCZyLNve) | [Guaratech](https://open.spotify.com/album/0Vq5sWQ0s9WH62XHHK70PS) | 3:13 |

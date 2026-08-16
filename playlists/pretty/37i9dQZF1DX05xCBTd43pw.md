@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Kings Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,628 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,626 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 99 | [Born With A Broken Heart](https://open.spotify.com/track/6We5V23tVaQ7axZDfIvz8W) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marc Storace](https://open.spotify.com/artist/3JJ2TxK8vyck6aIzU4XvVM) | [Born With A Broken Heart](https://open.spotify.com/album/2xilCRt00xyTgs3xW8i0Fb) | 3:06 |
 | 100 | [Born To Be Blue](https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Born To Be Blue](https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c) | 2:51 |
 
-Snapshot ID: `AAAAAJShglhyq9E2k5uxR5vePIoTOzMX`
+Snapshot ID: `AAAAAOt0Oqt36cCLdRaS3Nqh24OAnrwB`

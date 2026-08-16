@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 > New & best K\-Electronic music is here\. \(Cover: Winter Back\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,939 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,944 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 | 99 | [MOONLIGHT \- MOTi Remix](https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW) | [HENRY LAU](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [MOONLIGHT \(MOTi Remix\)](https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2) | 2:43 |
 | 100 | [Atmosphere](https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx) | [Juncoco](https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td), [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Atmosphere \- SM STATION](https://open.spotify.com/album/6F44f0aj0LxqI4hguioxTZ) | 3:11 |
 
-Snapshot ID: `AAAAAC8/ohTJhrurtTJrz7nP2hfI2BO4`
+Snapshot ID: `AAAAAFiq9xNL9znTa4nvtPODQw1NSQ4j`

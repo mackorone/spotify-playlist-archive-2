@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,350 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,382 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 39 | [I \- 2011 Remaster](https://open.spotify.com/track/3OuUBpO1YAUmRESoJuq3a6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Dehumanizer](https://open.spotify.com/album/3QCq4xwC3SZp38Y2cBsHdI) | 5:10 |
 | 40 | [Wheels of Confusion \- 2009 Remaster](https://open.spotify.com/track/61zDwmHFXYYNjKTTpT5GOR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 7:59 |
 | 41 | [The Sign of the Southern Cross](https://open.spotify.com/track/778byl7ugZPdNhASJv9o6b) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Mob Rules](https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly) | 7:47 |
-| 42 | [Headless Cross \- 2024 Remaster](https://open.spotify.com/track/5jt5p7HeK0QpJk1KmDPI5O) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Headless Cross \(2024 Remaster\)](https://open.spotify.com/album/6Si7gWvgXKnHwl1CORi05a) | 6:29 |
-| 43 | [No Stranger to Love \- 2009 Remaster](https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star](https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw) | 4:29 |
+| 42 | [No Stranger to Love \- 2009 Remaster](https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star](https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw) | 4:29 |
+| 43 | [Headless Cross \- 2024 Remaster](https://open.spotify.com/track/5jt5p7HeK0QpJk1KmDPI5O) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Headless Cross \(2024 Remaster\)](https://open.spotify.com/album/6Si7gWvgXKnHwl1CORi05a) | 6:29 |
 | 44 | [Under the Sun \- 2009 Remaster](https://open.spotify.com/track/3Ot5N9GGKyybaylaNUmESl) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 5:53 |
 | 45 | [Fluff \(2009 Remaster\)](https://open.spotify.com/track/4gUNTtPmsTzpTdJY3aZbLw) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 4:08 |
 | 46 | [End Of The Beginning](https://open.spotify.com/track/3QbnMRadaXqmlghaglLAit) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Looking for Today \(2009 Remaster\)](https://open.spotify.com/track/5AZQ7ekBzg4WqAcjOF9srW) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 4:58 |
 | 50 | [Wasp / Behind the Wall of Sleep / Bassically / N.I.B\. \- 2014 Remaster](https://open.spotify.com/track/4hx9RvP93j79EJLAiyJQoI) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 9:43 |
 
-Snapshot ID: `an0JAAAAAAAqA6rwUKR7VmuvOzE0tyll`
+Snapshot ID: `an5agAAAAADcbSLvb+srqciowl1d+BUa`

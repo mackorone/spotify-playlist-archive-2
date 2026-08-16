@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-558 songs - 1 day 7 hr 37 min
+559 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 | 2026-07-21 |  |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-30 | 2026-01-05 |
 | [Do It Again?](https://open.spotify.com/track/0Awhj0KTKBSgsXNeNmWs6d) | [Jason Patel](https://open.spotify.com/artist/5UmwsM87WwV6YfTQuIvPUc) | [Do It Again?](https://open.spotify.com/album/3CS8kwJH56scHg7V1Yippu) | 2:31 | 2026-03-15 | 2026-05-26 |
+| [Do you like it that way](https://open.spotify.com/track/1znJonSXmxeTYceBuMgrix) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Do you like it that way](https://open.spotify.com/album/59YCENlsKrzYGrvRN5weKC) | 4:29 | 2026-08-15 |  |
 | [do you think about us?](https://open.spotify.com/track/4w8aURQyqUbnlOjNG6dLa3) | [Tapeweather](https://open.spotify.com/artist/7bB7CFWjPlDD8fZKUMwg2w) | [do you think about us?](https://open.spotify.com/album/4X3oFaVDqbBsVQZ2wSmjs2) | 2:37 | 2025-11-08 | 2025-12-01 |
 | [Domingo](https://open.spotify.com/track/4qO1m5y156W7soVvAWuDeC) | [sr fary](https://open.spotify.com/artist/2m9S3eJX7a6OUpVoGaQH2D), [Fly so High](https://open.spotify.com/artist/1waM7fr0spkJ0HXNT0FsTo), [Shoiba](https://open.spotify.com/artist/2theeMUQ3nyEpRrhy9EAkF) | [No Todos Los Días Son Lunes](https://open.spotify.com/album/3kJIuLI3wqRYLx32AAD3g3) | 3:15 | 2025-11-03 | 2025-12-01 |
 | [Dope Sick](https://open.spotify.com/track/4PRp06peNwtw92ENEAfQpc) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Dope Sick](https://open.spotify.com/album/4FSfK9VoOCnjZ08xn28xNy) | 2:56 | 2025-12-20 | 2026-01-15 |

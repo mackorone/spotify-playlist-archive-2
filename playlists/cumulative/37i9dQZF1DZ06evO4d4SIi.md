@@ -4,7 +4,7 @@
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 12 min
+82 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Louisiana Stick \(with Marcus King\)](https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Louisiana Stick \(with Marcus King\)](https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF) | 2:28 | 2025-08-10 | 2025-08-31 |
 | [Made That Way](https://open.spotify.com/track/2k4Chj6SG01uoySJzBK1lO) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:53 | 2023-02-08 | 2024-06-01 |
 | [Memory Don't Mess Around](https://open.spotify.com/track/6ZtQfeEqAVHdqscxpqm2ET) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:57 | 2025-08-17 | 2025-10-29 |
+| [Mess](https://open.spotify.com/track/5H8s6OVuZ5hJZ0RT4rpPsf) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Mess](https://open.spotify.com/album/3ySRESI8LQ6OoQfKjpxJTH) | 2:39 | 2026-08-16 |  |
 | [Mess With Missing You \(with Carly Pearce\)](https://open.spotify.com/track/2eL9xMNYl1R36f7eZavDpg) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 3:38 | 2025-08-17 | 2025-11-19 |
 | [Midnight Crisis](https://open.spotify.com/track/7xIfvgLl8E4UGE8BAt0oA3) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Midnight Crisis](https://open.spotify.com/album/640Piuf9BkOLph0xUd98tc) | 3:23 | 2023-02-08 | 2023-03-10 |
 | [Money Isn't Real](https://open.spotify.com/track/1rNglbtKiHh3NuDvN7l3TV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Money Isn't Real](https://open.spotify.com/album/3GKMoWHdXCQoivyqQc2Pft) | 3:15 | 2023-02-08 | 2023-03-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 156119,
+  "num_followers": 156140,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAADagD4eBPah8/t4YD5bgOTX",
+  "snapshot_id": "an5agAAAAADGNwYaRO0gPH6IAFrb9ljO",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 268106,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri"
+      "duration_ms": 308960,
+      "name": "It's Not Up To You",
+      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 308960,
-      "name": "It's Not Up To You",
-      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
+      "duration_ms": 268106,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 180198,
-      "name": "History Of Touches",
-      "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Med\u00falla",
         "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 180198,
+      "name": "History Of Touches",
+      "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pagan Poetry",
         "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 146200,
-      "name": "Batabid",
-      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
+      "duration_ms": 205506,
+      "name": "Domestica",
+      "url": "https://open.spotify.com/track/45r7XddgDSbaWuG7J1N9rf"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Domestica",
-      "url": "https://open.spotify.com/track/45r7XddgDSbaWuG7J1N9rf"
+      "duration_ms": 146200,
+      "name": "Batabid",
+      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
     },
     {
       "added_at": null,

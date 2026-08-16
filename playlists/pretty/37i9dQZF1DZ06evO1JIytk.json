@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16655,
+  "num_followers": 16656,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAAB19sV5c8e23XsjKveB37j7",
+  "snapshot_id": "an5agAAAAAD/vsxdfpNwVwlnSyop5dAu",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 98120,
-      "name": "This Machine Kills Fascists",
-      "url": "https://open.spotify.com/track/0QROJn3UK5EoA7BzvDTRGq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A New Kind of Army",
         "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 153991,
       "name": "Captain Anarchy",
       "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 98120,
+      "name": "This Machine Kills Fascists",
+      "url": "https://open.spotify.com/track/0QROJn3UK5EoA7BzvDTRGq"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Stars And Stripes",
-      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Terror State",
         "url": "https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Stars And Stripes",
+      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The General Strike",
         "url": "https://open.spotify.com/album/0ezxuUTs49NyqdB7Z5ns3j"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 148514,
       "name": "The Ranks of the Masses Rising",
       "url": "https://open.spotify.com/track/2YXkq18FeC5urvPpxraQ7c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "It Went Off Like A Bomb",
-      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 153093,
       "name": "You Can Kill The Protester, But You Can't Kill The Protest",
       "url": "https://open.spotify.com/track/5z92wWwolpshtOe27xrdHZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "It Went Off Like A Bomb",
+      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
     },
     {
       "added_at": null,

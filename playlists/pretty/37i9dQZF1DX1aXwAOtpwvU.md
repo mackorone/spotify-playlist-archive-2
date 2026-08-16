@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:3IQIVYEmRr7wZnEqpSjfV5">Zaleś</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,444 likes - 117 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,448 likes - 117 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

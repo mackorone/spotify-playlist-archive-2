@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Valesca Mayssa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,900 likes - 100 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,986 likes - 100 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

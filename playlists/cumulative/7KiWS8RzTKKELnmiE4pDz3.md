@@ -4,7 +4,7 @@
 
 > 
 
-1,540 songs - 3 day 11 hr 14 min
+1,543 songs - 3 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [11:49](https://open.spotify.com/track/1HlqlxPrjSAVePuTXyRW0q) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [11:49](https://open.spotify.com/album/6EO7FdR5aPzJYhte0C6JVk) | 2:48 | 2026-05-20 |  |
 | [120](https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:10 | 2024-10-14 | 2026-02-08 |
 | [14](https://open.spotify.com/track/3FjbqjPlAFa2FszNtXGGdh) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4W2G](https://open.spotify.com/album/6yP1RHK4nruSXTlQspwRrP) | 2:29 | 2022-07-28 | 2023-05-09 |
+| [1st Time \(feat\. Talib Kweli\)](https://open.spotify.com/track/2CZfcW6PIhgHKXNhvvMNXI) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Movies on Demand 2](https://open.spotify.com/album/1bEiqvJthWswKYMmqVX5fi) | 3:27 | 2026-08-15 |  |
 | [2.P.I.G.](https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:42 | 2026-03-04 |  |
 | [200 FOR LUNCH](https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:29 | 2025-05-08 | 2026-03-08 |
 | [2000](https://open.spotify.com/track/0IuQGeckRX3CXC2y55cykp) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:36 | 2025-06-01 | 2026-03-08 |
@@ -116,6 +117,7 @@
 | [And I Gangbang](https://open.spotify.com/track/5VIcIdLfWpNZKjlUGcC17y) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:13 | 2024-10-03 | 2025-05-21 |
 | [Animal Instinct \(feat\. Ty Nitty & Gambino\)](https://open.spotify.com/track/2AeVg9Nf6dAHweYkDowG1J) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Ty Nitty](https://open.spotify.com/artist/1kyDI05lYZzpa3jr7ZorlJ), [Gambino](https://open.spotify.com/artist/7fjyYTTFsOknoLNTRTYdeR) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 3:29 | 2024-05-23 | 2024-11-06 |
 | [Another Star](https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 8:28 | 2025-04-14 |  |
+| [Another Wave \(feat\. Shad Da God & Duke\)](https://open.spotify.com/track/59Whq4nWsrKSoLQpl6GDZa) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT), [Shad Da God](https://open.spotify.com/artist/2z1ZZSBRCNYjOZmUcA3rSQ) | [Drip Season 2](https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ) | 2:53 | 2026-08-15 |  |
 | [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 | 2025-07-01 | 2026-03-08 |
 | [Anything Can Happen](https://open.spotify.com/track/1IhbRAiJjVqsUyBcqP3S1p) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 3:01 | 2025-12-15 | 2026-03-08 |
 | [Apostle's Warning](https://open.spotify.com/track/1rkCDpUKvtVToCIwwPetBZ) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 4:01 | 2025-10-20 | 2026-03-08 |
@@ -1270,6 +1272,7 @@
 | [Stay To Myself / Schedule II](https://open.spotify.com/track/6J1jmKkjbMUAJ2niLlRsLs) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:12 | 2022-09-30 | 2023-12-14 |
 | [Stayëd tha same](https://open.spotify.com/track/5H0FL4BOhNDQNCINAL3TO7) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:35 | 2024-03-12 | 2024-11-06 |
 | [Steel Doors](https://open.spotify.com/track/70acIbhFV0rmyBAGhcUheC) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/44k1aegQDc03y66kpRoWKt) | 2:54 | 2026-03-05 |  |
+| [Steppin Out](https://open.spotify.com/track/4iw9biJplthfCNgkJBa1Wc) | [Big Gipp](https://open.spotify.com/artist/7e36DF0IaZI4JXfIf95ppT) | [Mutant Mindframe](https://open.spotify.com/album/0mKl7kr8rXXT7NyBYJAsFk) | 4:34 | 2026-08-15 |  |
 | [Stick Talk](https://open.spotify.com/track/20fAoPjfYltmd3K3bO7gbt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 2:51 | 2023-08-28 | 2024-03-05 |
 | [Stick to the Models](https://open.spotify.com/track/0F7FlaQBiyNkV8iakTocsW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 3:16 | 2024-12-11 | 2025-05-21 |
 | [Still Don't Give A Fuck](https://open.spotify.com/track/1F4lm7DxvpNvXfT3cGuJCb) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:12 | 2026-04-21 |  |

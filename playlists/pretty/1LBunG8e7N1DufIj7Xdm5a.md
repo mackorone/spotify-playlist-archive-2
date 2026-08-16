@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,695 songs - 10 day 12 hr 31 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,697 songs - 10 day 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4703,5 +4703,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4693 | [Days Kiss](https://open.spotify.com/track/0XQmqofQk9jTnHwygHlJNi) | [Me El\-Ma](https://open.spotify.com/artist/4nkizWkZC2gL1bVWrvdZqg) | [Days Kiss](https://open.spotify.com/album/5elC9eaZmE9Bhh04RzHXC0) | 5:08 |
 | 4694 | [One More For The Road](https://open.spotify.com/track/0kPJMGW3CYsEcT2C5Admnt) | [The Ruins](https://open.spotify.com/artist/6UGANrLJliRxIcRpn4JGFj), [Rob Lundgren](https://open.spotify.com/artist/3CXPg5iixXzuMX1RUhd7Ni), [Brad Henderson](https://open.spotify.com/artist/1GdjlceK7vw8n7e0KNvBB8) | [One More For The Road](https://open.spotify.com/album/62pkpoMOXZuvJpcO57kzwf) | 3:55 |
 | 4695 | [La Danza Tra Le Stelle](https://open.spotify.com/track/04eDPEZfftV5YjD8z8s74q) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [di sirene](https://open.spotify.com/album/6Tlfu8XHQgn058q8vBYPig) | 1:57 |
+| 4696 | [In the Shadows of My Mind](https://open.spotify.com/track/1GOxuHkx3MfygKtwbuUbsN) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [In the Shadows of My Mind](https://open.spotify.com/album/2Is6SvBaNoeQyfqoJob24m) | 2:50 |
+| 4697 | [Ausente](https://open.spotify.com/track/36PcSX4cg6YHzAIw3pDrgA) | [AarǿnViz](https://open.spotify.com/artist/6ciNCF1EJNLtnruJM3eySb) | [Ausente](https://open.spotify.com/album/0SPOT5pwB1OkBCttVu9TQp) | 2:52 |
 
-Snapshot ID: `AAAJrm42Eo9eUc9Wbwv8/Sxw5FZAx9zL`
+Snapshot ID: `AAAJsJYb7LOhJix5vap3cnSeB0d9GpO9`

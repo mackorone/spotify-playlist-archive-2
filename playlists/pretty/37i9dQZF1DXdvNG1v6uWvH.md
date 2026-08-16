@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist frá Troye Sivan, ALLTAF og mörgum fleirum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,700 likes - 63 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,699 likes - 63 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

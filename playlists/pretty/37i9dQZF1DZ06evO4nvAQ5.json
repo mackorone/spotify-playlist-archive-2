@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16581,
+  "num_followers": 16582,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAABn82qNzQgoUw33KUQznHXs",
+  "snapshot_id": "an5agAAAAAAYTau6MHtT4Q6KG6qioBw4",
   "tracks": [
     {
       "added_at": null,
@@ -295,30 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monterey or Bust, Vol. 2",
-        "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "No Other Love",
-      "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 274810,
       "name": "Press Rewind",
       "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monterey or Bust, Vol. 2",
+        "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "No Other Love",
+      "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hustlin' Riddim",
+        "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
+      },
+      "artists": [
+        {
+          "name": "Bost & Bim",
+          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Coldest Zone",
+      "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natural Vibration (Hawaiian Version)",
         "url": "https://open.spotify.com/album/6oM449ilpSbesrHmOxWx0B"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 201173,
       "name": "Natural Vibration (Hawaiian Version)",
       "url": "https://open.spotify.com/track/1irrn7c9q33lajtfvmN0eX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hustlin' Riddim",
-        "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
-      },
-      "artists": [
-        {
-          "name": "Bost & Bim",
-          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Coldest Zone",
-      "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indigenous Life",
-        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
-      },
-      "artists": [
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 237307,
-      "name": "Indigenous Life",
-      "url": "https://open.spotify.com/track/5AVIMvDz4vEQGUG0PJZJpb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rose Petals",
         "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 214767,
       "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
       "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indigenous Life",
+        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 237307,
+      "name": "Indigenous Life",
+      "url": "https://open.spotify.com/track/5AVIMvDz4vEQGUG0PJZJpb"
     }
   ],
   "unique_name": "This Is J Boog",

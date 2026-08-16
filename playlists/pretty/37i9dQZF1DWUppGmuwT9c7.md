@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist\. <a href="spotify:presents:jouwzomerid">Doe de quiz voor jouw zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,541 likes - 120 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,739 likes - 120 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

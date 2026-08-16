@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-158 songs - 7 hr 27 min
+159 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 | 2023-10-10 | 2025-01-22 |
 | [Raised Me](https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Raised Me](https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN) | 2:12 | 2023-07-15 | 2024-04-14 |
 | [READY SET](https://open.spotify.com/track/3wgZyFfN0IOrXKk33YjM4X) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 1:51 | 2025-10-12 | 2026-02-26 |
-| [ROLLIN](https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [BIANCA \(Deluxe\)](https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN) | 2:29 | 2026-06-28 |  |
+| [ROLLIN](https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [BIANCA \(Deluxe\)](https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN) | 2:29 | 2026-06-28 | 2026-08-16 |
+| [ROLLIN \- Remix](https://open.spotify.com/track/1ZWw3ZiJCXuPcjDBBb87iw) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [ROLLIN \(Remix\)](https://open.spotify.com/album/5BeiSeE4QvPNvJ4wC69rk3) | 2:57 | 2026-08-16 |  |
 | [Rumors](https://open.spotify.com/track/3l86qllTNoeEpELSuL6IWv) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Rumors](https://open.spotify.com/album/4Bam5z6xEu8eylzs4oXokN) | 2:15 | 2025-08-02 | 2025-11-21 |
 | [Rumors](https://open.spotify.com/track/4ptELt0R1EV9bdLw2yDJGT) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Rumors](https://open.spotify.com/album/3JzLQnbRAqsfyeq6PvgTdu) | 2:15 | 2025-07-06 | 2025-08-02 |
 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 | 2022-10-28 |  |

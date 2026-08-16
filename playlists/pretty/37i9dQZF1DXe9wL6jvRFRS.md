@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Man/Woman/Chainsaw on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,066 likes - 81 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,091 likes - 81 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

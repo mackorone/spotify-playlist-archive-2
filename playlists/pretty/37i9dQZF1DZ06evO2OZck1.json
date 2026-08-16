@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAABTa2aggkoP65JKQKd1JZoS",
+  "snapshot_id": "an5agAAAAABqgfT6A9VNK7c2vXWy+Zc9",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 186516,
-      "name": "Waiting for Good Time",
-      "url": "https://open.spotify.com/track/24mnst2XQsRErPjhYekShL"
+      "duration_ms": 158538,
+      "name": "Kore de E",
+      "url": "https://open.spotify.com/track/1k8tCq3v7ixPBTzgSHKMu3"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 158538,
-      "name": "Kore de E",
-      "url": "https://open.spotify.com/track/1k8tCq3v7ixPBTzgSHKMu3"
+      "duration_ms": 186516,
+      "name": "Waiting for Good Time",
+      "url": "https://open.spotify.com/track/24mnst2XQsRErPjhYekShL"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pineapple Kryptonite",
+        "url": "https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Pineapple Kryptonite",
+      "url": "https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AG! Calling",
         "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 159306,
       "name": "Drama (feat. MILLI)",
       "url": "https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pineapple Kryptonite",
-        "url": "https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Pineapple Kryptonite",
-      "url": "https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb"
     },
     {
       "added_at": null,

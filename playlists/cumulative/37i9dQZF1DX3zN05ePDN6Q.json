@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 226285,
       "name": "boombap puto",
       "url": "https://open.spotify.com/track/5v2jOigmCbM9cp8HGDQhe9"
@@ -2976,6 +2976,24 @@
       "duration_ms": 153253,
       "name": "CAFAJE$TE - Spotify Singles",
       "url": "https://open.spotify.com/track/0LmKucquAPmc2b6hleg8k3"
+    },
+    {
+      "album": {
+        "name": "Calma Nego",
+        "url": "https://open.spotify.com/album/5J97X7BnCrDTp6lj8F717v"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Calma Nego",
+      "url": "https://open.spotify.com/track/12x6tPfkWX3u212Xu03CzG"
     },
     {
       "album": {
@@ -3950,7 +3968,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 135593,
       "name": "Contas Pagas",
       "url": "https://open.spotify.com/track/5TIuyixiZOUdnYGOiyPBZE"
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 185250,
       "name": "c\u00e9u de casa",
       "url": "https://open.spotify.com/track/6zj2hjTbmexk7C89zzCYdq"
@@ -5004,7 +5022,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 178312,
       "name": "Destino em Pap\u00e9is",
       "url": "https://open.spotify.com/track/6901cgMx3F5s2J2HKFZf5T"
@@ -6067,6 +6085,32 @@
     },
     {
       "album": {
+        "name": "GROOVES FROM RIO",
+        "url": "https://open.spotify.com/album/31UlAZK8ZqzkFZ4LoaqrWV"
+      },
+      "artists": [
+        {
+          "name": "V\u00e1rios",
+          "url": "https://open.spotify.com/artist/2A9LVD4c3OTKwCx6sqvEuf"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Ronaldo Groove",
+          "url": "https://open.spotify.com/artist/7e7Gre1TvhWcmjvsZsMnuf"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169966,
+      "name": "Estilo do gueto",
+      "url": "https://open.spotify.com/track/13P29ym6XzQ312rxPNO7f7"
+    },
+    {
+      "album": {
         "name": "Estreito",
         "url": "https://open.spotify.com/album/0GpMpV1rKwJiRT9yYuI1lq"
       },
@@ -6896,6 +6940,28 @@
       "duration_ms": 277612,
       "name": "FOGO",
       "url": "https://open.spotify.com/track/3vSRCbDMUbj8O9V9YVszSm"
+    },
+    {
+      "album": {
+        "name": "FOGO NO CASSINO",
+        "url": "https://open.spotify.com/album/6xP3zbEUFYHNdilkxXOKYD"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204943,
+      "name": "FOGO NO CASSINO",
+      "url": "https://open.spotify.com/track/6UpxySssqomskAv1oidiYA"
     },
     {
       "album": {
@@ -8310,7 +8376,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 194702,
       "name": "Irrefre\u00e1vel",
       "url": "https://open.spotify.com/track/0xXH3cmorPEzUzJ5aNO97C"
@@ -8770,6 +8836,36 @@
       "duration_ms": 234418,
       "name": "Krabi",
       "url": "https://open.spotify.com/track/5GGnuusI42nqwYuttQGgA1"
+    },
+    {
+      "album": {
+        "name": "CUMULONIMBUS",
+        "url": "https://open.spotify.com/album/2oM08HKSXGEuxgtlJ5HwNy"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268277,
+      "name": "L'APPEL DU VIDE",
+      "url": "https://open.spotify.com/track/74vgkvy3ipG16VeccHmimg"
     },
     {
       "album": {
@@ -10654,6 +10750,40 @@
       "duration_ms": 219674,
       "name": "MUITO BRABO",
       "url": "https://open.spotify.com/track/3QNjS73flaaTBKyxk7E0kL"
+    },
+    {
+      "album": {
+        "name": "VANGUARDAH",
+        "url": "https://open.spotify.com/album/2gh6ojsYh7K7xpw3vhDiiN"
+      },
+      "artists": [
+        {
+          "name": "VANDAL",
+          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
+        },
+        {
+          "name": "Giovani Cidreira",
+          "url": "https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1"
+        },
+        {
+          "name": "suhhh",
+          "url": "https://open.spotify.com/artist/371YxyZ6BYJXgJDNq1VGI1"
+        },
+        {
+          "name": "Paulo Pitta",
+          "url": "https://open.spotify.com/artist/4cPYn5mqoyxhIcS0pnEvlW"
+        },
+        {
+          "name": "Colibri",
+          "url": "https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235351,
+      "name": "MULHEREZH DAH MINHAH VIDAH",
+      "url": "https://open.spotify.com/track/5YplokAAp6v4onCCHFXe23"
     },
     {
       "album": {
@@ -13340,7 +13470,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 126153,
       "name": "Plata o Plomo",
       "url": "https://open.spotify.com/track/5bopCWp2fagNiAFGa45ydL"
@@ -14172,7 +14302,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 187098,
       "name": "Q SE FODA",
       "url": "https://open.spotify.com/track/4e0XB8eBAo6Sx6T558MMhP"
@@ -17852,7 +17982,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 174607,
       "name": "tropa do espanca sub",
       "url": "https://open.spotify.com/track/3RJJAT1dCpGU2h6ovjSlVS"
@@ -17990,6 +18120,24 @@
       "duration_ms": 259170,
       "name": "TUDO CULPA DO RNB",
       "url": "https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z"
+    },
+    {
+      "album": {
+        "name": "TUDO QUE EU SINTO",
+        "url": "https://open.spotify.com/album/1So8aAdpkPWKlz4CRHQigY"
+      },
+      "artists": [
+        {
+          "name": "Micale",
+          "url": "https://open.spotify.com/artist/3XL4LIMqNyrS7hIdOQlLL2"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "TUDO QUE EU SINTO",
+      "url": "https://open.spotify.com/track/7jXZlFsYoCa5Vp8oHBNQYi"
     },
     {
       "album": {

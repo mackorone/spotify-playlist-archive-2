@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-1,153 songs - 2 day 11 hr 9 min
+1,156 songs - 2 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [By my side](https://open.spotify.com/track/6IFPBRr7lqYgqvo6Ph8l2d) | [Dylan Vel](https://open.spotify.com/artist/1JZ7h4obyLusP8iJoX5lv5) | [Intelligence without love](https://open.spotify.com/album/1ogbieHuWXXudQIIxKCGFJ) | 5:45 | 2025-11-04 | 2026-02-17 |
 | [by the look in my eyes \(rock your body\)](https://open.spotify.com/track/1P07WlENk05jGivgkHqa2p) | [SOLO THIEF](https://open.spotify.com/artist/67hrGusXpfFjHwmAtNbRy2) | [how to rob the supermarket and sell your soul to the devil at the same time](https://open.spotify.com/album/0jX9TJiGOnGn6pHfxwFKJZ) | 3:53 | 2025-11-02 | 2026-02-17 |
 | [BÓG HONOR OJCZYZNA](https://open.spotify.com/track/7rQqoVGlL4fhReRWC516WI) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [BÓG HONOR OJCZYZNA](https://open.spotify.com/album/4MWTDdmiVpengEUJBEC4Pu) | 2:43 | 2025-12-08 | 2026-02-23 |
+| [Can't Stop It](https://open.spotify.com/track/6ECcYD5bITWfxdLxu2ztMb) | [AS i am](https://open.spotify.com/artist/3Gjhxajbc0eyC9ft7Ui5h9) | [Can't Stop It](https://open.spotify.com/album/5HFzAnJCIM24A9HLB8syWS) | 4:58 | 2026-08-15 |  |
 | [Can't Trust](https://open.spotify.com/track/0WCfJqS2cvMFbzbHFbuepT) | [Johnny Starling](https://open.spotify.com/artist/4nuskpmtHrxzx3VHP04x3C) | [Can't Trust](https://open.spotify.com/album/1TqImzvy83ieZMpGVnRdRq) | 2:48 | 2026-01-03 | 2026-02-23 |
 | [CANDY COATED LOVE](https://open.spotify.com/track/5bVUhjsmk1VgwuWNtfOetr) | [Jack Everett](https://open.spotify.com/artist/4C2kjAOSjbFzhfjodmSWM6) | [CANDY COATED LOVE](https://open.spotify.com/album/0xmnasJlfdq1jjmIvNuWBP) | 3:44 | 2025-09-28 | 2026-01-15 |
 | [Cant behave](https://open.spotify.com/track/0rMlIlXHJ9CGHlqz9ZIeDK) | [Felc](https://open.spotify.com/artist/540sPwcilqpSmIZPgyPKXF) | [Cant behave](https://open.spotify.com/album/3TGRrmteLiAS6oeBvRJLVC) | 1:28 | 2025-09-23 | 2026-01-15 |
@@ -782,6 +783,7 @@
 | [POLAROID](https://open.spotify.com/track/0tSkzuVW92oq2rUn6s8Vbd) | [Moraless](https://open.spotify.com/artist/0wB3MqSDgYZBZLlcAHgusN), [Notfound](https://open.spotify.com/artist/6PRhsOXnLmByfI5DXEJu0E) | [POLAROID](https://open.spotify.com/album/1Nc6ECiwnDOA7lHJOMjTzp) | 2:39 | 2026-07-08 |  |
 | [Political Ritual](https://open.spotify.com/track/1va1XSbL3h7etNjpoNCXY3) | [Bouchard](https://open.spotify.com/artist/4QA3rzpSDuDJsTdVLbHquV) | [Political Ritual](https://open.spotify.com/album/5Q4cETvelAG4GQG6c31y1X) | 2:35 | 2025-10-09 | 2026-01-15 |
 | [Poor](https://open.spotify.com/track/5BfUt2GUQD1ySNhadHSsFr) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Poor](https://open.spotify.com/album/4q3IpWkAvxIlVelYNC0MPG) | 3:18 | 2026-05-26 |  |
+| [Por Uma Hora De Amor \- Dance Version](https://open.spotify.com/track/3KqiT9CWy6yhcx45EpZX6f) | [Vincenzo Bottiglieri](https://open.spotify.com/artist/7w0jsP1QKbOfDoisWCi68k) | [Por Uma Hora De Amor \(Dance Version\)](https://open.spotify.com/album/2UiIkNYb52sIGySgQfXFZe) | 5:51 | 2026-08-15 |  |
 | [Poseidon](https://open.spotify.com/track/0J8qe0m52RtYRbTCzCzQ1q) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Poseidon](https://open.spotify.com/album/3skDB3NK2tTMuJ08c4js1S) | 3:16 | 2026-02-03 | 2026-07-23 |
 | [Pranayama](https://open.spotify.com/track/2qaiDGu3Y9JdfrWrJQOBU9) | [LordMorpheus808](https://open.spotify.com/artist/5eCwrSG5hYLgAG6XY5HCwz) | [Season Bloom](https://open.spotify.com/album/4Fk2DoqrH8IxIUOyOMUIT4) | 4:00 | 2026-02-14 | 2026-07-23 |
 | [preesha](https://open.spotify.com/track/39BOp3D8pzEbNzscS7hWWd) | [TFDRE](https://open.spotify.com/artist/6ZxUzkyogRapfmZvkIYRyW) | [On And Off \(before arcane\)](https://open.spotify.com/album/7lPmQlHZJhrDIKnojVeYn2) | 1:52 | 2026-01-14 | 2026-02-23 |
@@ -960,6 +962,7 @@
 | [Take It Easy](https://open.spotify.com/track/0l1s4gJZvUSnKRh84xI8UN) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Take It Easy](https://open.spotify.com/album/4Rxd9wfk4KYycakiVTXCPC) | 3:30 | 2025-12-11 | 2026-02-23 |
 | [TAKE ME AWAY](https://open.spotify.com/track/72Klo2QtXoWAlTFS3yuiVa) | [HiTekRecords](https://open.spotify.com/artist/6518uQ7bcRYdWMM4fwoti8) | [TAKE ME AWAY](https://open.spotify.com/album/6svA0HdXfrpFpZKt5Pjbvf) | 3:02 | 2026-02-18 | 2026-07-23 |
 | [Take me high \- Radio Edit](https://open.spotify.com/track/4ktZd84cXZ7zePBcAiP2wI) | [TUFACE](https://open.spotify.com/artist/0wyFPvIsAtqhFMFSEbEYj2) | [Take me high](https://open.spotify.com/album/2Rt0k6vhQrA7oSenPlb9DR) | 4:00 | 2026-01-26 | 2026-07-23 |
+| [Take me or leave me](https://open.spotify.com/track/6XKIcXRuqMhaP0hLJmrhJI) | [Kamil Koksa](https://open.spotify.com/artist/04pKt1XbNWhUv9qpWXIqPw) | [Take me or leave me](https://open.spotify.com/album/5r4hwAhcBzy1KYHaTIsPo2) | 2:56 | 2026-08-15 |  |
 | [Take the Throne \(Feat\. Felicia Catharina\)](https://open.spotify.com/track/6Kcd25CmbGI6uzByZTeIBY) | [Irfad](https://open.spotify.com/artist/2bdTySHQu8orEocLZwMy89), [Felicia Catharina](https://open.spotify.com/artist/5m1dG8dxCoesHy9PC4nkkO) | [Take the Throne \(Feat\. Felicia Catharina\)](https://open.spotify.com/album/3TA3wnACTCtuJvVvQC9nNG) | 3:03 | 2025-11-06 | 2026-02-17 |
 | [Take Your Time\. \(All Night\) PT2 \- \[ThaHeattMix\]](https://open.spotify.com/track/55aqu9Wl8rfVJf5ayoKShm) | [Ovacreate Music](https://open.spotify.com/artist/00hBCfjsiPpdBFT7rOWz6T), [ⓤUsher IV](https://open.spotify.com/artist/6o0NmZp4QQo3erF5QkoTOq), [Nothin but Heatt](https://open.spotify.com/artist/5Sb0aJfqhFm9tUnYdbRIKO) | [Take Your Time\. \(All Night\) PT2 \[ThaHeattMix\]](https://open.spotify.com/album/3uoAa64bDATb0f1szmPjTS) | 3:52 | 2026-01-23 | 2026-07-23 |
 | [Tana](https://open.spotify.com/track/5WpBwvEm4Vt7ovEEEWnHam) | [Ovthex](https://open.spotify.com/artist/5GitDiJdtHyC7aHejcDn7s) | [Tana](https://open.spotify.com/album/0iaJ77oH01fBny9D8xb8gF) | 2:37 | 2026-02-22 |  |

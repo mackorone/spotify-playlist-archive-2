@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: kurayamisaka \(Japan\)
 
-332 songs - 22 hr 56 min
+333 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Mei](https://open.spotify.com/track/6lBAU9mz4G9Gt8CQCzudnO) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Hope Hope Hope](https://open.spotify.com/album/5C0ZgBk5cZxBrwetX6Xgz2) | 3:42 | 2024-06-27 | 2024-12-05 |
 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 | 2025-09-11 |  |
 | [Mikael](https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Mikael](https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0) | 4:25 | 2024-11-08 | 2024-12-05 |
+| [Mild fever](https://open.spotify.com/track/22LsjEA6Xt0oOuu7naYAZm) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Mild fever](https://open.spotify.com/album/1vSGN63sZOQMquBpTbDHAu) | 3:11 | 2026-08-13 |  |
 | [milk](https://open.spotify.com/track/14wwSi8A7ruwr27w22vTq9) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [milk](https://open.spotify.com/album/3kCilwGOwzIxgkOnyaBU0M) | 4:35 | 2025-08-14 | 2025-10-10 |
 | [MIRROR'S EDGE](https://open.spotify.com/track/5JVmJKagp4Bq88W4aoje3L) | [MoritaSaki in the pool](https://open.spotify.com/artist/0cascybzS2QQL1m3h57tcY) | [MIRROR'S EDGE](https://open.spotify.com/album/60sFiEjbEvX8Am8ht44NuN) | 3:07 | 2024-08-30 | 2024-12-05 |
 | [Misery](https://open.spotify.com/track/4vlCL86ZEAPoZWJ4Io03AD) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Adult Romantix](https://open.spotify.com/album/3QhaKVItgP8GQ5RQiz25FM) | 3:48 | 2025-10-09 | 2026-04-24 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,484 songs - 3 day 12 hr 1 min
+1,485 songs - 3 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,7 +648,7 @@
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-13 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-05-15 | 2023-05-19 |
 | [אבא](https://open.spotify.com/track/3PqHflY0wAwmSAt0pIZRT7) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7) | 4:29 | 2023-04-26 | 2023-04-28 |
-| [אבא](https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אבא](https://open.spotify.com/album/3zdvjrkYyFilN9XdVwJvYZ) | 3:22 | 2024-10-07 |  |
+| [אבא](https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אבא](https://open.spotify.com/album/3zdvjrkYyFilN9XdVwJvYZ) | 3:22 | 2024-10-07 | 2026-08-16 |
 | [אבא אבא אבא](https://open.spotify.com/track/3ywRHRZM1OHj57zehAYnz0) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 2:44 | 2026-02-20 | 2026-02-28 |
 | [אבות ובנים](https://open.spotify.com/track/0LAPb9g7pvLmHgiVVmzyME) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/3b7OPwVWZgm4ifO1iRW5Nk) | 3:52 | 2022-05-05 | 2023-04-28 |
 | [אבות ובנים](https://open.spotify.com/track/1Nq92xyQrCzhHGuZSRtAcO) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/1uiw4JLkam9MJiHN7U12Z2) | 4:20 | 2021-04-16 | 2021-04-17 |
@@ -678,6 +678,7 @@
 | [אוזניות](https://open.spotify.com/track/0RtgSV3RWOXxqFvlM6MBwE) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS) | [ראפ מטורף](https://open.spotify.com/album/02swRH6gJm8HcQ98uP7aOq) | 3:01 | 2025-05-31 | 2025-06-08 |
 | [אוחילה](https://open.spotify.com/track/07uIhNfeg1X7QZBl5BRxUK) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 3:50 | 2021-09-17 | 2025-10-04 |
 | [אולסטאר וגופיות](https://open.spotify.com/track/4tpT9xacu03ADQI7utG24C) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [אולסטאר וגופיות](https://open.spotify.com/album/31rjo1YiUreiP3Wg7yjFpe) | 2:47 | 2023-06-06 | 2023-10-04 |
+| [אולפנה של צביה](https://open.spotify.com/track/2iXmGGSbPmDaewdGziPLtS) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [MOR 6FM](https://open.spotify.com/album/3rpO1L7WvEFCrt1StiqaEy) | 3:23 | 2026-08-15 |  |
 | [אומיגאד](https://open.spotify.com/track/6hZ193Uo3duDjO6UYtLWNd) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [אומיגאד](https://open.spotify.com/album/4u3mXanonihj72DbXD6IX4) | 3:15 | 2023-07-04 | 2023-07-06 |
 | [אוצר שלי](https://open.spotify.com/track/07Ee2kh7vMtMwZ39G4LbKX) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [גיטרה ולנשום](https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw) | 3:01 | 2025-02-07 | 2025-04-03 |
 | [אור הירח](https://open.spotify.com/track/1B6qAMPiD7sv3WNI90ELMz) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [צו השעה \- צו שני](https://open.spotify.com/album/3pWGjr7mI83VwbBvYhzuhT) | 3:28 | 2021-03-27\* | 2021-04-01 |
@@ -777,7 +778,7 @@
 | [את חסרה לי](https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 2:49 | 2022-03-26 | 2024-10-06 |
 | [את חסרה לי & אורות](https://open.spotify.com/track/6Eds9y8ZiQHcIegsEIVcYP) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [את חסרה לי & אורות](https://open.spotify.com/album/5iw1EWAmGUHfrCNfTi7z14) | 4:28 | 2022-10-09 | 2024-03-22 |
 | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/track/0sMyBmtyp4riKYNpDVNSH4) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/album/5oVtGh11SKW9cnaltFyxaW) | 3:22 | 2024-12-09 | 2026-02-03 |
-| [אתה חי בחלום](https://open.spotify.com/track/6vL2TwSD1HwfK057NDjhhq) | [הגר יפת](https://open.spotify.com/artist/0yuzd9F7msg9MS8MTzQOmy) | [אתה חי בחלום](https://open.spotify.com/album/1uHb5AWfijUxafUbsGIHwy) | 3:20 | 2026-07-19 | 2026-08-15 |
+| [אתה חי בחלום](https://open.spotify.com/track/6vL2TwSD1HwfK057NDjhhq) | [הגר יפת](https://open.spotify.com/artist/0yuzd9F7msg9MS8MTzQOmy) | [אתה חי בחלום](https://open.spotify.com/album/1uHb5AWfijUxafUbsGIHwy) | 3:20 | 2026-07-19 |  |
 | [אתה ער](https://open.spotify.com/track/523TkqVLoyLcyZMrD0jYBN) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [השם יעזור](https://open.spotify.com/album/5tuYABXBjwZ5aUYQHmXzNk) | 2:40 | 2026-05-18 | 2026-05-31 |
 | [באור גדול](https://open.spotify.com/track/2VlUJabkhkXenAPhdeNtL6) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [להיות מאושר](https://open.spotify.com/album/793n3eYaBcW0IHs7zHmrnI) | 3:10 | 2021-03-27\* | 2021-07-10 |
 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-05-31 | 2025-06-11 |
@@ -1016,7 +1017,7 @@
 | [כד קטן](https://open.spotify.com/track/3W2ivfrQP1kG0Uh5IBJn7P) | [Yorik Ben David](https://open.spotify.com/artist/5keFhnqLaQXXUPV1R9jWmc) | [שירי הילדים הגדולים בכל הזמנים](https://open.spotify.com/album/6Y4KwK3N96kZ7dlCukYmIc) | 1:04 | 2021-11-30 | 2025-12-18 |
 | [כוכב קטן](https://open.spotify.com/track/1puepYEC1fzx2rwluHLGzr) | [INBAR](https://open.spotify.com/artist/6YBvZVLevoGmgGMfSXU8fC) | [כוכב קטן](https://open.spotify.com/album/5MxuJlpGdPIRnDjaA4Zxse) | 3:43 | 2024-01-25 | 2024-02-22 |
 | [כוכבים](https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY) | [שילה בן סעדון](https://open.spotify.com/artist/25121FSeQqqD3El2C3t9L1) | [כוכבים](https://open.spotify.com/album/14Ve7iPxyRWwM0tA3KHIhi) | 3:22 | 2024-04-22 | 2025-03-07 |
-| [כולי תפילה](https://open.spotify.com/track/7pdniD9t65ZEuULdrpm7Sn) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Meydad Tasa](https://open.spotify.com/artist/3UJvSl87KCeQdagMKQ4zMZ) | [כולי תפילה](https://open.spotify.com/album/1LrWl0TSIQb496YdgQQKce) | 2:45 | 2026-08-11 |  |
+| [כולי תפילה](https://open.spotify.com/track/7pdniD9t65ZEuULdrpm7Sn) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Meydad Tasa](https://open.spotify.com/artist/3UJvSl87KCeQdagMKQ4zMZ) | [כולי תפילה](https://open.spotify.com/album/1LrWl0TSIQb496YdgQQKce) | 2:45 | 2026-08-11 | 2026-08-16 |
 | [כולם גנבים](https://open.spotify.com/track/7IYAf32MmX7oCqgnGNT3g8) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Life Lately](https://open.spotify.com/album/3TEETsW2tjzuqXArpb53sz) | 4:01 | 2026-02-17 |  |
 | [כוסות ריקות](https://open.spotify.com/track/6NzCGR1aXkl3z4tjUph4zH) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Lior Narkis](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [שבעה ירחים](https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY) | 2:14 | 2021-07-10 | 2021-08-21 |
 | [כינורות](https://open.spotify.com/track/01H5jdEyPwM4rhc7gTWLgt) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [כינורות](https://open.spotify.com/album/7wGjAH5AKWpqrhGEWOOaqs) | 2:55 | 2022-11-16 | 2023-01-07 |

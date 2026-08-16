@@ -2967,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Mild fever",
+        "url": "https://open.spotify.com/album/1vSGN63sZOQMquBpTbDHAu"
+      },
+      "artists": [
+        {
+          "name": "Confined White",
+          "url": "https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191169,
+      "name": "Mild fever",
+      "url": "https://open.spotify.com/track/22LsjEA6Xt0oOuu7naYAZm"
+    },
+    {
+      "album": {
         "name": "milk",
         "url": "https://open.spotify.com/album/3kCilwGOwzIxgkOnyaBU0M"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: man/woman/chainsaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,736 likes - 115 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,728 likes - 115 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

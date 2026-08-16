@@ -125,12 +125,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 115 | [Dein Shirt](https://open.spotify.com/track/0JGWoliqXaxHzPdbYocc7V) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Dein Shirt](https://open.spotify.com/album/12LQ0U03tUdlIJtUzdcSsE) | 2:45 |
 | 116 | [On My Mind](https://open.spotify.com/track/3yCcr891zvCOIlaadGZKuo) | [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [On My Mind](https://open.spotify.com/album/2YoQ5WtQ3MClSxDuLElMHw) | 2:50 |
 | 117 | [Optimist](https://open.spotify.com/track/5CKNSvLw4A72l8ZGWD31Jz) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Optimist](https://open.spotify.com/album/36iy6HOYe9tweVVEHJo51b) | 2:56 |
-| 118 | [Ich liebe meine Ex noch \- LUZIs Megamix](https://open.spotify.com/track/2rc5e7rZFSEJ000oVMNGVp) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10) | [LUZIs Megamix](https://open.spotify.com/album/2EN8ufsACQcGR77mCdL9IZ) | 2:51 |
-| 119 | [Company](https://open.spotify.com/track/2xytoZCAVsVvVKjfnZiaKS) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Company](https://open.spotify.com/album/5YqyGd8Ud4O3onn9k32OYI) | 2:16 |
+| 118 | [Company](https://open.spotify.com/track/2xytoZCAVsVvVKjfnZiaKS) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Company](https://open.spotify.com/album/5YqyGd8Ud4O3onn9k32OYI) | 2:16 |
+| 119 | [Ich liebe meine Ex noch \- LUZIs Megamix](https://open.spotify.com/track/2rc5e7rZFSEJ000oVMNGVp) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10) | [LUZIs Megamix](https://open.spotify.com/album/2EN8ufsACQcGR77mCdL9IZ) | 2:51 |
 | 120 | [Don't You Know That It's Christmas](https://open.spotify.com/track/7KVsF9viAFkFbVqDO6FmfY) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:30 |
 | 121 | [Like A Fool](https://open.spotify.com/track/0iSVVvnXgiAcdS8tZPjZeR) | [Joana Kesenci](https://open.spotify.com/artist/4ZaUXNaebEQrSWFq4att4m) | [Like A Fool](https://open.spotify.com/album/4cIl8a2elDYzGIN8Xeje50) | 3:32 |
-| 122 | [Immer Juli](https://open.spotify.com/track/6cnTg5INasYZIP3yXridcS) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Immer Juli](https://open.spotify.com/album/2YebsTq2mKaDhJxvGW9Son) | 2:47 |
-| 123 | [Why Don't You Stay](https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Why Don't You Stay](https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT) | 2:21 |
+| 122 | [Why Don't You Stay](https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Why Don't You Stay](https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT) | 2:21 |
+| 123 | [Immer Juli](https://open.spotify.com/track/6cnTg5INasYZIP3yXridcS) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Immer Juli](https://open.spotify.com/album/2YebsTq2mKaDhJxvGW9Son) | 2:47 |
 | 124 | [Intro](https://open.spotify.com/track/40TYOJ1H4EUZlR3uBlkP35) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/26IGZ8G6wRFctHC1h1u6hn) | 2:12 |
 | 125 | [Pump It Up](https://open.spotify.com/track/6lfLIn5VTnc4tON8B9ECBd) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Pump It Up](https://open.spotify.com/album/023Y4lyKXWsx8XFzqgsELA) | 2:54 |
 | 126 | [Blood](https://open.spotify.com/track/57d8fvXrm9vzlYQaWwLwYl) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:35 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 161 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 162 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcZlZAAAAADUR7uyB+nknEjxtVbVX2+d`
+Snapshot ID: `AcZrBAAAAADsem+tV4mK0O3YLOQmpqXm`

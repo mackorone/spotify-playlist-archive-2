@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 
 > Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Lafa Pratomo, Feby Putri, Matter Mos
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,206 likes - 106 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,227 likes - 106 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

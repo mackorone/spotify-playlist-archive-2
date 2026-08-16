@@ -4,7 +4,7 @@
 
 > Stray Kids in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,587 songs - 7 day 16 hr 46 min
+3,588 songs - 7 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 | 2026-03-05 | 2026-03-27 |
 | [ALIBI](https://open.spotify.com/track/0Eq30jnDPYeCTDyBxaS1SN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [ALIBI](https://open.spotify.com/album/04It6nUCr0E9e2MOJxp77u) | 3:10 | 2025-03-20 | 2025-04-18 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-06-27 | 2024-08-09 |
+| [ALIE ALIO](https://open.spotify.com/track/2PALdOh14PScRtyFqvMA2Z) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [ALIE ALIO](https://open.spotify.com/album/39gvK7nUGlpeJs4vlyIhhs) | 3:36 | 2026-08-06 |  |
 | [ALIENO](https://open.spotify.com/track/21PmiS3t9YgXJUzAwXxoFL) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [ALIENO](https://open.spotify.com/album/6cVy7pgexh1oLBhDadHnmT) | 2:36 | 2025-04-24 | 2025-05-23 |
 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 | 2026-07-02 | 2026-07-25 |
 | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/track/5OdPAqU4a0EZq8LOJgO5og) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/album/541bm0KL5yWslIgIis3jPi) | 2:43 | 2025-06-20 | 2025-07-18 |

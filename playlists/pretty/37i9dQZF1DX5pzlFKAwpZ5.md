@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,937 likes - 150 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,009 likes - 150 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 149 | [Placement Of The Drops](https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC) | [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 5](https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo) | 6:02 |
 | 150 | [A Fleeting Place](https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [A Fleeting Place](https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M) | 2:30 |
 
-Snapshot ID: `AAAAAJkvc2nDZCsADKR56dxtjsdljEUE`
+Snapshot ID: `AAAAAAehpWZEGIG+LQ2sCk9hkHBq80oS`

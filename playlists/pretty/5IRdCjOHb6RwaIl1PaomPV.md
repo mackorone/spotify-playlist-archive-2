@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer,  the sound that chalk makes, Jam City, Sofii, &amp; more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,204 likes - 100 songs - 5 hr 26 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,202 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

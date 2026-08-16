@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: 희대의\(HEEDAE\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,630 likes - 200 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,629 likes - 200 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 | 199 | [Bonnie & Clyde](https://open.spotify.com/track/7GWjiWZOLVqDzLdp1Pqt0b) | [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [Show Me the Money 8 Episode 3](https://open.spotify.com/album/4xPKZgTlCRLRVzYFctyhZ7) | 3:44 |
 | 200 | [Red Sun](https://open.spotify.com/track/3Cxy2M0XLtQTmixibr1jB2) | [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Show Me the Money 6 Episode 4](https://open.spotify.com/album/0aVhhSM2Fg2AT12J92Ag0S) | 4:15 |
 
-Snapshot ID: `AAAAAOyMLeck6OIwGopoJUz8cDx20cx0`
+Snapshot ID: `AAAAAEZWrl7ZwwGnNLmljb6ZlkL4pprN`

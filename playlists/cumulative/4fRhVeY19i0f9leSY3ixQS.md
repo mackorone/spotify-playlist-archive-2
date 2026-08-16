@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,093 songs - 4 day 21 hr 7 min
+2,097 songs - 4 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Acid Bloom](https://open.spotify.com/track/2bDQNSWxuj3UGxq2w50Vtu) | [Lyric Noel](https://open.spotify.com/artist/77cvyQlM3ovknD2b0Kk6bI), [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Acid Bloom](https://open.spotify.com/album/6Rd8Ndwd7fLiyjoIoaZHKx) | 3:16 | 2026-07-23 | 2026-08-13 |
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-19 | 2025-12-10 |
 | [Acting Surprised](https://open.spotify.com/track/50BTOEAeASpC5ESAz42x7M) | [Curselife](https://open.spotify.com/artist/2QeESBmZ98ih47hCBoF5iz) | [Acting Surprised](https://open.spotify.com/album/1rz1VBriveZ9JP4FTwDv9G) | 3:01 | 2026-06-03 | 2026-07-05 |
+| [Addict](https://open.spotify.com/track/4SDYXj45uDJIUggF0YfVti) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [Addict](https://open.spotify.com/album/2s7fhsqefwPD2nvA8JmX5D) | 3:21 | 2026-08-15 |  |
 | [Addiction](https://open.spotify.com/track/4JJfwyFtQaPnvIqOoXoZYm) | [CANONVILLE](https://open.spotify.com/artist/3lJB0a4SfTiJTWEPbAZ7TY) | [FOUR LEGS GOOD](https://open.spotify.com/album/0OkHctBsI8EpCGDT3u98yy) | 4:29 | 2025-12-29 | 2026-01-22 |
 | [ADHD](https://open.spotify.com/track/4h69Egql0rKPDVp13LrrBX) | [CorMae](https://open.spotify.com/artist/4D5AqxIGoCoCHMB0IfAkWx) | [ADHD](https://open.spotify.com/album/21KImwvcGgPCxsrFjuJNqz) | 2:59 | 2026-05-11 | 2026-06-12 |
 | [Adrenalina](https://open.spotify.com/track/1rryUr444hBHluh0ztXPQT) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [No Se Vende Este Álbum](https://open.spotify.com/album/08uvEMO9vsy0AU3DyPPis6) | 2:55 | 2025-12-04 | 2025-12-24 |
@@ -853,6 +854,7 @@
 | [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 | 2026-02-05 | 2026-02-27 |
 | [I See You](https://open.spotify.com/track/5ELuNlN9ug1xAzk5ei3rp8) | [JeezJesus](https://open.spotify.com/artist/6nJMtDSZZ41lwEf3XG1Sit) | [I See You](https://open.spotify.com/album/5CzqsMvOiw7kI45rOxN4MH) | 3:18 | 2025-10-31 | 2025-12-10 |
 | [I Spy](https://open.spotify.com/track/13WUCGEcRl0lnn66wJaAne) | [Citylightz](https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o) | [I Spy](https://open.spotify.com/album/47AzLJfduyzsDgndlE63OI) | 3:14 | 2025-12-24 | 2026-01-15 |
+| [I taste your crown](https://open.spotify.com/track/4HkLbym9SpUOzTMFd5OhGG) | [La Paille](https://open.spotify.com/artist/1QTk8okhIb8ISXBHGNYtOc) | [I taste your crown](https://open.spotify.com/album/47HagvguwrqXO7NcHj7L42) | 5:25 | 2026-08-15 |  |
 | [I Walk Alone](https://open.spotify.com/track/0ddoVOljANnDyF7PkuYNVY) | [Tektula](https://open.spotify.com/artist/5xYYP8RoqR5BMVeKeBphRL), [Eric Castiglia](https://open.spotify.com/artist/6vGC6bQvCeRHHXp9JB4JRj) | [The Burnout](https://open.spotify.com/album/3H4J9Xww7YO7PAbduf5wsM) | 3:07 | 2026-01-14 | 2026-02-15 |
 | [I Wanna Get High](https://open.spotify.com/track/1TZ2TX2rugTPhN1mYDqLSf) | [CADE](https://open.spotify.com/artist/0OmXq0se9DLi3mEgxcL70O), [Fox Fagan](https://open.spotify.com/artist/6kDeko7eYsULS2Tmt3Q0ym) | [I Wanna Get High](https://open.spotify.com/album/0HxgZQkueLCVW6SC48s8kI) | 3:05 | 2026-04-23 | 2026-05-25 |
 | [I Wanna Go Home](https://open.spotify.com/track/2mG7m9sKX5ztpWxQKClbF3) | [Lazy Days](https://open.spotify.com/artist/57reAFC8cgf95tlNr2WjIo) | [I Wanna Go Home](https://open.spotify.com/album/0nFkSX90OgO3rWXhZK2IYU) | 2:33 | 2026-06-30 | 2026-08-01 |
@@ -1210,6 +1212,7 @@
 | [New Stockholm](https://open.spotify.com/track/0cs6vA3H1gIP6MQIbpEDq3) | [Mercers.](https://open.spotify.com/artist/0hUc6FIsCsAGv1muQXWDHZ) | [New Stockholm](https://open.spotify.com/album/1F5qI2bG6aSDDpot5Zb2Xa) | 4:24 | 2026-07-20 | 2026-08-13 |
 | [New Times](https://open.spotify.com/track/6ACRL3MhmEDkAi0EUGz2QH) | [Stigmata](https://open.spotify.com/artist/6gk0Hqm1fZqEGpv2JOtb2T) | [New Times](https://open.spotify.com/album/5Leen2t1D1hc2xSEQks9z2) | 2:27 | 2026-06-08 | 2026-07-04 |
 | [New Year, New Hell](https://open.spotify.com/track/4DnYZpOH32S4uk98HckYAg) | [Loser Demon](https://open.spotify.com/artist/1czfkK3HZtDrEtD5OnAYd4) | [New Year, New Hell](https://open.spotify.com/album/6KHfURX69pmDkVkrYI0Idg) | 3:16 | 2026-07-09 | 2026-08-10 |
+| [New York Mermaid \- 2026 Version](https://open.spotify.com/track/6ly5FxX46k0vFqhKojvUsQ) | [Elevator Operator](https://open.spotify.com/artist/146hY314HEGttVHczyZf8T) | [New York Mermaid \(2026 Version\)](https://open.spotify.com/album/563tsKOLJGz6Es7AT8bsAS) | 6:04 | 2026-08-15 |  |
 | [Night Drive](https://open.spotify.com/track/5t2OZA2EjXKAaMwHKFt9Tn) | [Keith Z](https://open.spotify.com/artist/1X60o0LmfVgy8VpHILIlZV) | [Night Drive](https://open.spotify.com/album/5AwbEghqkuFyWJCbZwKnGG) | 3:03 | 2026-01-01 | 2026-01-22 |
 | [Nightcode](https://open.spotify.com/track/2Bylb0sKZWB2UcjKB2QKHL) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Nightcode](https://open.spotify.com/album/6pZrBXilaoscwsW3EMVVPW) | 3:44 | 2026-01-19 | 2026-02-20 |
 | [NIGHTMARES](https://open.spotify.com/track/47377wDcOsGcBcutuUKhQA) | [MADiSON ViOLETT](https://open.spotify.com/artist/0ODjHIp6tDWsXEG89ykLgZ) | [NIGHTMARES](https://open.spotify.com/album/5NBIbjXyr0bbP5TQNQZOUm) | 3:52 | 2026-07-24 | 2026-08-13 |
@@ -1669,6 +1672,7 @@
 | [Strobes](https://open.spotify.com/track/0lxmH14taIi97U2OzluG7o) | [A Very Special Episode](https://open.spotify.com/artist/2ZmZQgJQNyPvVXUWSs9DKD) | [Freak Me Out](https://open.spotify.com/album/65L93H0sQ7hbdPxaZXBG4H) | 3:10 | 2026-03-02 | 2026-03-21 |
 | [Strong, Proud and Ignorant](https://open.spotify.com/track/3DpJLLh4fVgLCARmZrsAdd) | [Yovsaf](https://open.spotify.com/artist/2RfCvIEtLyG0sadpXkXFYl), [Yonks](https://open.spotify.com/artist/3uLbO9LqSALVEfIo3VjWyX) | [Strong, Proud and Ignorant](https://open.spotify.com/album/1y6BXEgfcWuHMRCDQUA6IH) | 2:36 | 2026-07-20 |  |
 | [STRUCTURE](https://open.spotify.com/track/0y53w0b7C8TlCu7RvFCrPe) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [STRUCTURE](https://open.spotify.com/album/6qCBNYhiY355NGq3yXUIcl) | 3:57 | 2026-08-02 |  |
+| [Stuck in 1984](https://open.spotify.com/track/5ks6aRzbC1GfulUzZwAVls) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Stuck in 1984](https://open.spotify.com/album/1Je322zy14RJJegt6Ofv2N) | 3:28 | 2026-08-15 |  |
 | [Stuck In My Mind](https://open.spotify.com/track/60OpDkginDhlF7tCmT5aAe) | [kevkov](https://open.spotify.com/artist/1LH9tQJGSnlGQfMRqw7dKX) | [Stuck In My Mind](https://open.spotify.com/album/5HSepsyHalM3G7gZEYsTlJ) | 2:50 | 2025-12-29 | 2026-01-22 |
 | [Stuck In The Middle](https://open.spotify.com/track/0IoQKF7Rj5acnWP446CQmd) | [Bläck](https://open.spotify.com/artist/2o142txMGNsKmm3LAQEhYj), [Hugo Daniel](https://open.spotify.com/artist/4glxVBzWyLru4qpAJh0weA) | [Stuck In The Middle](https://open.spotify.com/album/1K248OZ2tCaIpepBjHuuI2) | 3:04 | 2026-01-06 | 2026-02-07 |
 | [Succumber](https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b) | [The Disorder Unit](https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2) | [Echo Of A Shadow](https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L) | 3:38 | 2026-07-26 |  |

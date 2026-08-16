@@ -1591,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "LILLA",
+        "url": "https://open.spotify.com/album/3NxQsReEqYKsD1vanJhFGA"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176498,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/3KeL0bKLO1mlkQsTJ6H1oj"
+    },
+    {
+      "album": {
         "name": "MEN S\u00c5 KOM I MORGEN",
         "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
       },
@@ -4514,6 +4532,24 @@
       "duration_ms": 162285,
       "name": "Bedste Lyfe",
       "url": "https://open.spotify.com/track/3PAJYdmKuOAMRoRRI8hYlI"
+    },
+    {
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216833,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl"
     },
     {
       "album": {
@@ -8036,7 +8072,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 166307,
       "name": "CIRKLER (feat. wicky)",
       "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
@@ -9546,6 +9582,28 @@
       "duration_ms": 167226,
       "name": "De Brandvarme Piger",
       "url": "https://open.spotify.com/track/6Sp4jYPbumvEX5gBlKHOI9"
+    },
+    {
+      "album": {
+        "name": "De Der Dage (feat. KESI)",
+        "url": "https://open.spotify.com/album/1O5THMplgRFfUbJxhxOdq4"
+      },
+      "artists": [
+        {
+          "name": "OLIVVER",
+          "url": "https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146782,
+      "name": "De Der Dage (feat. KESI)",
+      "url": "https://open.spotify.com/track/42LsVwhoT2WWQ7oKUu2Cko"
     },
     {
       "album": {
@@ -11904,7 +11962,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 150617,
       "name": "dr\u00f8mmefanger (feat. URO)",
       "url": "https://open.spotify.com/track/4XgxdK8qm0K6EVUmg7ROMl"
@@ -18218,6 +18276,24 @@
       "duration_ms": 184117,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0JslH50Zgdpf8mtO34AiHx"
+    },
+    {
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184117,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/5rWgRiJWMJGD3RIr7uA42k"
     },
     {
       "album": {
@@ -24620,7 +24696,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 205169,
       "name": "Jaloux (live)",
       "url": "https://open.spotify.com/track/4ElNcA0yxtjZ62RO5VcWgT"
@@ -35950,7 +36026,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
@@ -49696,7 +49772,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 134310,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0FZz13L4T6U9vIVHwUL6Uu"
@@ -49718,7 +49794,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 134310,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/6L3OQkay5RpXCQQSOwcyFo"

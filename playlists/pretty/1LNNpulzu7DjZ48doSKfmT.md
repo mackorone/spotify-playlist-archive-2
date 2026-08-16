@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 475 likes - 358 songs - 18 hr 42 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 361 songs - 18 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -366,5 +366,8 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 356 | [Got Your Gun](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 |
 | 357 | [She's Hiding Her Smile](https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [She's Hiding Her Smile](https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0) | 3:44 |
 | 358 | [My Baby](https://open.spotify.com/track/2WgLjntbN2M7ZS5pigUtoX) | [Adam Leenz](https://open.spotify.com/artist/78K6L79SKvspzzeIJdqPT9) | [My Baby](https://open.spotify.com/album/0tMSeci4dT8BQV0LwhUxh8) | 3:24 |
+| 359 | [Take me or leave me](https://open.spotify.com/track/6XKIcXRuqMhaP0hLJmrhJI) | [Kamil Koksa](https://open.spotify.com/artist/04pKt1XbNWhUv9qpWXIqPw) | [Take me or leave me](https://open.spotify.com/album/5r4hwAhcBzy1KYHaTIsPo2) | 2:56 |
+| 360 | [Por Uma Hora De Amor \- Dance Version](https://open.spotify.com/track/3KqiT9CWy6yhcx45EpZX6f) | [Vincenzo Bottiglieri](https://open.spotify.com/artist/7w0jsP1QKbOfDoisWCi68k) | [Por Uma Hora De Amor \(Dance Version\)](https://open.spotify.com/album/2UiIkNYb52sIGySgQfXFZe) | 5:51 |
+| 361 | [Can't Stop It](https://open.spotify.com/track/6ECcYD5bITWfxdLxu2ztMb) | [AS i am](https://open.spotify.com/artist/3Gjhxajbc0eyC9ft7Ui5h9) | [Can't Stop It](https://open.spotify.com/album/5HFzAnJCIM24A9HLB8syWS) | 4:58 |
 
-Snapshot ID: `AAAef+Oejl89rfMhj69JZ0ZALH4DgXyC`
+Snapshot ID: `AAAegn8hemHMFz55EvDEYdjPViNJKuVu`

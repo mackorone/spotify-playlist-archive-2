@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec GreenWoodz, Classe Moyenne, GIMS, Kat Pereira, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,190 likes - 94 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,193 likes - 94 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

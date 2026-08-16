@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Abigail Chams
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,005 likes - 59 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,020 likes - 59 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

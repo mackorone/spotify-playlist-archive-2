@@ -1,33 +1,13 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14943,
+  "num_followers": 14953,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAADQiABfnaYQ3N0uj0Ar8Hzy",
+  "snapshot_id": "an5agAAAAABX1iiEGwCyQw4T+jxyfCpK",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "IBRAHIM TRAOR\u00c9",
-        "url": "https://open.spotify.com/album/2QTZRYRK0anZxoph2j6mUK"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Worlasi",
-          "url": "https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "IBRAHIM TRAOR\u00c9",
-      "url": "https://open.spotify.com/track/0nWYe6bQy71wCegnoeXO1S"
-    },
     {
       "added_at": null,
       "album": {
@@ -287,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "IBRAHIM TRAOR\u00c9",
+        "url": "https://open.spotify.com/album/2QTZRYRK0anZxoph2j6mUK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Worlasi",
+          "url": "https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "IBRAHIM TRAOR\u00c9",
+      "url": "https://open.spotify.com/track/0nWYe6bQy71wCegnoeXO1S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
       },
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Till We Die",
-        "url": "https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 180550,
-      "name": "Till We Die",
-      "url": "https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put It On God",
         "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 214426,
       "name": "Put It On God",
       "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Till We Die",
+        "url": "https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 180550,
+      "name": "Till We Die",
+      "url": "https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY"
     },
     {
       "added_at": null,
@@ -451,6 +451,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BADDIES <3 MOLIY",
+        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "ACCRA GIRLS",
+      "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
       },
@@ -487,30 +511,6 @@
       "duration_ms": 201627,
       "name": "Have Mercy 2",
       "url": "https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BADDIES <3 MOLIY",
-        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
-      },
-      "artists": [
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "ACCRA GIRLS",
-      "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit"
-      },
-      "artists": [
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/1H3xndRZIQBSHjEeNjWZXK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/6f2ShNSV829Nn5L7A4r0gq"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 287261,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/3ctX0ZD94IwqTYLTX8ZahE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/1H3xndRZIQBSHjEeNjWZXK"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
-        }
-      ],
-      "duration_ms": 179825,
-      "name": "Wins & Losses",
-      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adonai (Remix)",
         "url": "https://open.spotify.com/album/0K8AdVnV4Pf2gbUOSYeady"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 288130,
       "name": "Adonai (Remix)",
       "url": "https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "duration_ms": 179825,
+      "name": "Wins & Losses",
+      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jailer",
-        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Jailer",
-      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope (Brighter Day)",
         "url": "https://open.spotify.com/album/5Ks031asGtXwrPF5nV9wq5"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 316422,
       "name": "Hope (Brighter Day)",
       "url": "https://open.spotify.com/track/1WUYq0lXmd7K2DVVxi8XPv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jailer",
+        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Jailer",
+      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks only\. Cover: Nargaroth
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,385 likes - 140 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,364 likes - 140 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

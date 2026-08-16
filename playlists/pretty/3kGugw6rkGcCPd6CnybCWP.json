@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAPy02+Z7a6due4FurX/0DR3EneW0v5",
+  "snapshot_id": "AAAP0XDmPfAZv15mvCvBp7eScg1A+EhJ",
   "tracks": [
     {
       "added_at": "2026-06-01 22:08:37",
@@ -1559,6 +1559,102 @@
       "duration_ms": 132480,
       "name": "1AM (okay?)",
       "url": "https://open.spotify.com/track/4H4fEmpLjtbQFO0W8paX3W"
+    },
+    {
+      "added_at": "2026-08-15 16:52:00",
+      "album": {
+        "name": "No Jardim dos Acasos",
+        "url": "https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i"
+      },
+      "artists": [
+        {
+          "name": "LAVOLTA",
+          "url": "https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "O Rio",
+      "url": "https://open.spotify.com/track/12aIlEloDf9WXhQVKqrfjz"
+    },
+    {
+      "added_at": "2026-08-15 16:52:44",
+      "album": {
+        "name": "know u",
+        "url": "https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK"
+      },
+      "artists": [
+        {
+          "name": "only tears",
+          "url": "https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM"
+        }
+      ],
+      "duration_ms": 254463,
+      "name": "know u",
+      "url": "https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP"
+    },
+    {
+      "added_at": "2026-08-15 16:53:01",
+      "album": {
+        "name": "Know Me Better",
+        "url": "https://open.spotify.com/album/5W8kFlj1r6VM1lz2rB9UvI"
+      },
+      "artists": [
+        {
+          "name": "Miss the Heart",
+          "url": "https://open.spotify.com/artist/3X6LelOSzqJ8SyazncvEyv"
+        }
+      ],
+      "duration_ms": 193967,
+      "name": "Know Me Better",
+      "url": "https://open.spotify.com/track/1mk6YMbaXHSdsumYWEl2tt"
+    },
+    {
+      "added_at": "2026-08-15 16:53:10",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/6PYulOmBCJBpqTYlbjE6hG"
+      },
+      "artists": [
+        {
+          "name": "Evan Fahey",
+          "url": "https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi"
+        }
+      ],
+      "duration_ms": 156623,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0Qr1SJI2KiE6LgPf7AUECd"
+    },
+    {
+      "added_at": "2026-08-15 16:53:30",
+      "album": {
+        "name": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3\u3092\u96e2\u308c\u308c\u3070",
+        "url": "https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK"
+      },
+      "artists": [
+        {
+          "name": "\u307c\u3093\u3061",
+          "url": "https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz"
+        }
+      ],
+      "duration_ms": 240012,
+      "name": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3\u3092\u96e2\u308c\u308c\u3070",
+      "url": "https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf"
+    },
+    {
+      "added_at": "2026-08-15 16:53:42",
+      "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/7jeNenCbmKhLBEjCAqnRIc"
+      },
+      "artists": [
+        {
+          "name": "7 Seconds Later",
+          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
+        }
+      ],
+      "duration_ms": 232849,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/0LVS42F6kSnhVknhBQemJM"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Favourites from Canadians who dominated the 1990s\. Cover: Céline Dion
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,111 likes - 101 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,109 likes - 101 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

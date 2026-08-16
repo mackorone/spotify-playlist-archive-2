@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 170690,
+  "num_followers": 170692,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAADUSF6eFGTqR/dE+7PchPOX",
+  "snapshot_id": "an5agAAAAAD8W61Ca4tt+JgBRziC0C2g",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 267986,
+      "name": "Stand My Ground",
+      "url": "https://open.spotify.com/track/7Chqf4yGnQlLWAWic9b0ET"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somebody Like You",
         "url": "https://open.spotify.com/album/52V9qRqE73KZRWJaObBi9m"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 183809,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/4k95xD9yCyyABh7CDG4U1X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 267986,
-      "name": "Stand My Ground",
-      "url": "https://open.spotify.com/track/7Chqf4yGnQlLWAWic9b0ET"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hydra (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 243213,
       "name": "Whole World Is Watching (feat. Dave Pirner)",
       "url": "https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 231186,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf"
     },
     {
       "added_at": null,
@@ -551,28 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hydra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Howard Jones",
-          "url": "https://open.spotify.com/artist/5T0Vi8WwwfjX9tmUI9Mae9"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Dangerous (feat. Howard Jones)",
-      "url": "https://open.spotify.com/track/3BYtn1zK991rGwWo5TW9e6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
       "artists": [
         {
@@ -580,29 +560,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 259048,
-      "name": "We Go To War",
-      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Anders Friden",
-          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Raise Your Banner",
-      "url": "https://open.spotify.com/track/0lNhWQBiA483reJSVovSWF"
+      "duration_ms": 268373,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/1uo6IzolNNLFNpyQGDZwJ5"
     },
     {
       "added_at": null,
@@ -627,8 +587,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Raise Your Banner",
+      "url": "https://open.spotify.com/track/0lNhWQBiA483reJSVovSWF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
       "artists": [
         {
@@ -636,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 268373,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/1uo6IzolNNLFNpyQGDZwJ5"
+      "duration_ms": 259048,
+      "name": "We Go To War",
+      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
     },
     {
       "added_at": null,
@@ -650,11 +630,15 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Howard Jones",
+          "url": "https://open.spotify.com/artist/5T0Vi8WwwfjX9tmUI9Mae9"
         }
       ],
-      "duration_ms": 331240,
-      "name": "Let Us Burn",
-      "url": "https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre"
+      "duration_ms": 293240,
+      "name": "Dangerous (feat. Howard Jones)",
+      "url": "https://open.spotify.com/track/3BYtn1zK991rGwWo5TW9e6"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 336066,
+      "name": "Hand of Sorrow",
+      "url": "https://open.spotify.com/track/41j3TmJuJuSlHsqoX6L3dr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bleed Out",
         "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+        "name": "Hydra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 336066,
-      "name": "Hand of Sorrow",
-      "url": "https://open.spotify.com/track/41j3TmJuJuSlHsqoX6L3dr"
+      "duration_ms": 331240,
+      "name": "Let Us Burn",
+      "url": "https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre"
     },
     {
       "added_at": null,

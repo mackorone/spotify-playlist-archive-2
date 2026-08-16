@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-163 songs - 9 hr 5 min
+164 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Deja De Chingar](https://open.spotify.com/track/72qLlWqf657e3hEkP7LkHx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Deja De Chingar](https://open.spotify.com/album/0orJw54cnLfLmYPSVpkj64) | 3:19 | 2022-11-29 | 2023-08-20 |
 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 | 2022-09-10 | 2025-11-08 |
 | [Desaires](https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0) | 2:41 | 2025-11-08 |  |
-| [Destino Ingrato](https://open.spotify.com/track/67dgLHhhZH1PoujCv3siyO) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Entre Amigos](https://open.spotify.com/album/26SuK8JzjDQO7oGQQauiuj) | 2:43 | 2026-08-07 |  |
+| [Destino Ingrato](https://open.spotify.com/track/67dgLHhhZH1PoujCv3siyO) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Entre Amigos](https://open.spotify.com/album/26SuK8JzjDQO7oGQQauiuj) | 2:43 | 2026-08-07 | 2026-08-16 |
 | [Diganle](https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Díganle](https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b) | 2:55 | 2024-07-21 | 2024-11-05 |
 | [Déjame Ser](https://open.spotify.com/track/5I70KB5no6a1ecaVbbXc4d) | [Los Nenes MX](https://open.spotify.com/artist/7eeVv5cv5tlW4LB6FqIRLj), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Déjame Ser](https://open.spotify.com/album/7qd53L8tRnHFSnkB6ExtFU) | 3:25 | 2025-06-29 | 2025-12-22 |
 | [Díganle](https://open.spotify.com/track/5QnDgXOeUQtDac2uqWecK9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Díganle](https://open.spotify.com/album/0KvyHutI4hdGctz0SnhT9z) | 3:00 | 2023-09-15 | 2025-06-05 |
@@ -122,6 +122,7 @@
 | [Popurrí Kumbia Kings \(En Vivo\)\. Na Na Na \(Dulce Niña\)/ Chiquilla](https://open.spotify.com/track/1TqEPqar8PnhErxebjEYj0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Renacido Tour 2023 \(En Vivo\)](https://open.spotify.com/album/18zVZ3JfvldtxbdKnDigRd) | 6:21 | 2023-03-27 | 2023-05-21 |
 | [Popurrí Kumbia Kings \(En Vivo\)\. Na Na Na \(Dulce Niña\)/ Chiquilla](https://open.spotify.com/track/42SZjpJpPf5ATDn7PeOqAb) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Renacido Tour 2023](https://open.spotify.com/album/6cFN69KXbmuwXqmJSRXn7X) | 6:21 | 2026-04-29 | 2026-05-13 |
 | [Por Mujeres Como Tu \- En Vivo](https://open.spotify.com/track/6elOa8abV7QCEOZ36GrS4t) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo Desde Los Mochis](https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W) | 3:55 | 2022-06-01 | 2022-10-13 |
+| [Por Que Te Marchaste](https://open.spotify.com/track/42JF017uIQ0zZ2kvK6yeKb) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Erik Alexander](https://open.spotify.com/artist/1wcGLR6zJivtVU0LHUu4o9) | [Por Que Te Marchaste](https://open.spotify.com/album/5F0zK17rXmB48SKu6fUZjW) | 2:57 | 2026-08-16 |  |
 | [Por Tu Amor \(En Vivo\)](https://open.spotify.com/track/2aC8d54n2KG7S7lYaSO3qj) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Perdidos en el Alcohol \(En Vivo\)](https://open.spotify.com/album/61fghf49dcy5C3Bi6BO5Qu) | 3:19 | 2024-06-03 | 2024-08-18 |
 | [Por Tus Besos](https://open.spotify.com/track/075Kk3R3nrz7cqs07MQsQU) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Una Explicación](https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a) | 2:24 | 2025-11-23 | 2026-04-11 |
 | [Porque Te Amo](https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7) | [Porque Te Amo](https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg) | 3:06 | 2022-06-01 | 2025-01-11 |

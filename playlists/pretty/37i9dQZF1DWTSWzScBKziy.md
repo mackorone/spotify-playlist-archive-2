@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Joseph O'Brien
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,124 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,205 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 74 | [This Is The Christ](https://open.spotify.com/track/11kpQtfgf4PUUqqLuZwZkP) | [Emu Music](https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip) | [This Is The Christ](https://open.spotify.com/album/6KLtyAv0Tt9Qo48xXBeypB) | 3:25 |
 | 75 | [Becoming](https://open.spotify.com/track/1lDtM5Nqoo45DzY1ftYLhd) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Becoming](https://open.spotify.com/album/3C4REww4VAXUkh4WpGDMAl) | 2:42 |
 
-Snapshot ID: `AAAAAD3hcVwGVGRi9jSfI71fIz54ckG+`
+Snapshot ID: `AAAAAGtxdM1kTB+qc4lIN2VoCJ+hK4Ge`

@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie you should know\. Cover: Pink Pablo
 
-1,244 songs - 2 day 19 hr 57 min
+1,244 songs - 2 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -996,6 +996,7 @@
 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 | 2023-12-15 | 2024-05-04 |
 | [Si Volviera A Conocerte](https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Si Volviera A Conocerte](https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4) | 3:11 | 2023-07-14 | 2024-02-10 |
 | [Sidekick](https://open.spotify.com/track/6KUasBYtaeWOdIbC1FZNbI) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Sidekick](https://open.spotify.com/album/2cLxzF1ceQ3T8X8tgbR7mN) | 2:56 | 2024-02-09 | 2024-04-13 |
+| [Siempre fui yo](https://open.spotify.com/track/169P8NIfYeGOvaDVUpA3DT) | [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [POST\-APOCALIPSIS](https://open.spotify.com/album/4txk4iDLgcKqxCqpCRIg2u) | 4:08 | 2026-08-14 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-09-06 | 2022-10-28 |
 | [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 | 2023-08-11 | 2024-02-10 |
 | [Sin Freno](https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 5:13 | 2023-04-28 | 2023-11-11 |
@@ -1125,7 +1126,6 @@
 | [TOTAL90NOSTALGIA](https://open.spotify.com/track/5ffLdAti2Kb4XFZ2mPNrxp) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:28 | 2023-09-15 | 2024-04-13 |
 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 | 2023-02-25 | 2023-03-25 |
 | [tqm <3](https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [tqm <3](https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ) | 2:36 | 2025-10-17 | 2026-03-07 |
-| [Track 2](https://open.spotify.com/track/169P8NIfYeGOvaDVUpA3DT) | [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [POST\-APOCALIPSIS](https://open.spotify.com/album/4txk4iDLgcKqxCqpCRIg2u) | 0:00 | 2026-08-14 |  |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-07-07 | 2024-04-13 |
 | [Tramuntana](https://open.spotify.com/track/4SaQQ0SQG47SuZHQtmlNL2) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Tramuntana](https://open.spotify.com/album/0j4sG63Z9Pp0vHXIEIEDb8) | 3:55 | 2025-04-11 | 2025-05-31 |
 | [Trapecistas](https://open.spotify.com/track/4mMjydyhotP1oaSXPPGsBb) | [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [Trapecistas](https://open.spotify.com/album/4o5WVOati910rqmKINAdAZ) | 4:36 | 2026-08-14 |  |

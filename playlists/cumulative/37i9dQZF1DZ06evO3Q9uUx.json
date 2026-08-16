@@ -2766,10 +2766,40 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 149572,
       "name": "ROLLIN",
       "url": "https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN"
+    },
+    {
+      "album": {
+        "name": "ROLLIN (Remix)",
+        "url": "https://open.spotify.com/album/5BeiSeE4QvPNvJ4wC69rk3"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Stunna Sandy",
+          "url": "https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177709,
+      "name": "ROLLIN - Remix",
+      "url": "https://open.spotify.com/track/1ZWw3ZiJCXuPcjDBBb87iw"
     },
     {
       "album": {

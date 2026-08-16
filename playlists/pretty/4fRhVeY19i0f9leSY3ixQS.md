@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,694 likes - 253 songs - 13 hr 58 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,699 likes - 257 songs - 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,12 +254,16 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 244 | [Can't Trust](https://open.spotify.com/track/0WCfJqS2cvMFbzbHFbuepT) | [Johnny Starling](https://open.spotify.com/artist/4nuskpmtHrxzx3VHP04x3C) | [Can't Trust](https://open.spotify.com/album/1TqImzvy83ieZMpGVnRdRq) | 2:48 |
 | 245 | [Ravenous as the birds](https://open.spotify.com/track/46azXY12iCO5EOePNa2Bq1) | [Charlie Smith](https://open.spotify.com/artist/50abKbBejLKyBTQ3OLkT26) | [Ravenous as the birds](https://open.spotify.com/album/3AkSDS0Yjhaoty6gWbFS8b) | 2:46 |
 | 246 | [City Life](https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs) | [MOKAs](https://open.spotify.com/artist/1IczCTas4lUyZa8wQRst9C) | [City Life](https://open.spotify.com/album/5gSYQTFL50MJ4ThTzYmJgg) | 3:33 |
-| 247 | [invisible man](https://open.spotify.com/track/6Rs4GX7aTVgfSHSRZaVXal) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [\(no matter\) what i said](https://open.spotify.com/album/4I95LHYrHpBJhIlBo7kBW3) | 1:54 |
-| 248 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 |
-| 249 | [Round and Round](https://open.spotify.com/track/4efOj8t1493yAYtG38Zcfh) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Round and Round](https://open.spotify.com/album/7o46ngv8ldoGr7IJr73ZWk) | 3:13 |
-| 250 | [Bad 4 Me](https://open.spotify.com/track/2AN9YbBUG6pQOTa4qVP7By) | [K⚝YL⚝](https://open.spotify.com/artist/6sZDaOQDT0iLhPNZKQ1DQ8) | [Bad 4 Me](https://open.spotify.com/album/7ig5Dh1rfNEcwMVvSfhMrK) | 3:53 |
-| 251 | [Wildfire](https://open.spotify.com/track/1rfecHeHb243d40CQzyOm6) | [Aleh Adler](https://open.spotify.com/artist/72DDskr88TncEyULAdgSkK) | [Wildfire](https://open.spotify.com/album/3DZ8ovXRA9w3niJiUkYMw9) | 4:05 |
-| 252 | [The Light](https://open.spotify.com/track/4yXsR8a2DegsXbV8b3kgIS) | [Luka Ferraro](https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp), [Eupholia](https://open.spotify.com/artist/3RhXPJ65Q7cMFnJg0xUr9T) | [Pilot](https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz) | 2:48 |
-| 253 | [DREAM logic](https://open.spotify.com/track/6F1VJR1gmsqjOPuNZ5N9oo) | [The New Citizen Kane](https://open.spotify.com/artist/5n0Xoy3bYLNaG0dnxsCMbN) | [FREE to feel](https://open.spotify.com/album/7xNYl9gpAOm10GauVpYXa6) | 3:50 |
+| 247 | [I taste your crown](https://open.spotify.com/track/4HkLbym9SpUOzTMFd5OhGG) | [La Paille](https://open.spotify.com/artist/1QTk8okhIb8ISXBHGNYtOc) | [I taste your crown](https://open.spotify.com/album/47HagvguwrqXO7NcHj7L42) | 5:25 |
+| 248 | [invisible man](https://open.spotify.com/track/6Rs4GX7aTVgfSHSRZaVXal) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [\(no matter\) what i said](https://open.spotify.com/album/4I95LHYrHpBJhIlBo7kBW3) | 1:54 |
+| 249 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 |
+| 250 | [Round and Round](https://open.spotify.com/track/4efOj8t1493yAYtG38Zcfh) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Round and Round](https://open.spotify.com/album/7o46ngv8ldoGr7IJr73ZWk) | 3:13 |
+| 251 | [Bad 4 Me](https://open.spotify.com/track/2AN9YbBUG6pQOTa4qVP7By) | [K⚝YL⚝](https://open.spotify.com/artist/6sZDaOQDT0iLhPNZKQ1DQ8) | [Bad 4 Me](https://open.spotify.com/album/7ig5Dh1rfNEcwMVvSfhMrK) | 3:53 |
+| 252 | [Wildfire](https://open.spotify.com/track/1rfecHeHb243d40CQzyOm6) | [Aleh Adler](https://open.spotify.com/artist/72DDskr88TncEyULAdgSkK) | [Wildfire](https://open.spotify.com/album/3DZ8ovXRA9w3niJiUkYMw9) | 4:05 |
+| 253 | [The Light](https://open.spotify.com/track/4yXsR8a2DegsXbV8b3kgIS) | [Luka Ferraro](https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp), [Eupholia](https://open.spotify.com/artist/3RhXPJ65Q7cMFnJg0xUr9T) | [Pilot](https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz) | 2:48 |
+| 254 | [DREAM logic](https://open.spotify.com/track/6F1VJR1gmsqjOPuNZ5N9oo) | [The New Citizen Kane](https://open.spotify.com/artist/5n0Xoy3bYLNaG0dnxsCMbN) | [FREE to feel](https://open.spotify.com/album/7xNYl9gpAOm10GauVpYXa6) | 3:50 |
+| 255 | [New York Mermaid \- 2026 Version](https://open.spotify.com/track/6ly5FxX46k0vFqhKojvUsQ) | [Elevator Operator](https://open.spotify.com/artist/146hY314HEGttVHczyZf8T) | [New York Mermaid \(2026 Version\)](https://open.spotify.com/album/563tsKOLJGz6Es7AT8bsAS) | 6:04 |
+| 256 | [Addict](https://open.spotify.com/track/4SDYXj45uDJIUggF0YfVti) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [Addict](https://open.spotify.com/album/2s7fhsqefwPD2nvA8JmX5D) | 3:21 |
+| 257 | [Stuck in 1984](https://open.spotify.com/track/5ks6aRzbC1GfulUzZwAVls) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Stuck in 1984](https://open.spotify.com/album/1Je322zy14RJJegt6Ofv2N) | 3:28 |
 
-Snapshot ID: `AAATEjIEsHv161jmw1IEqQGL/OUX2Qcv`
+Snapshot ID: `AAATFhpwzxt2a3s0V/P+dIxtmPygUO8Q`

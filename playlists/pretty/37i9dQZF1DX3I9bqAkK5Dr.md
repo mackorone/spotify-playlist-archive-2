@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Damini Bhatla
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,154 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,168 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 93 | [Edho Varamila](https://open.spotify.com/track/3aBodknhLkUpac581YamqC) | [Akhil Chandra](https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Edho Varamila](https://open.spotify.com/album/6aUxYQX5Krg0aWNCTOTTOX) | 4:03 |
 | 94 | [Sagali Neeve](https://open.spotify.com/track/4mGAxCG7OE2i2jCVdEHRll) | [Anuraj Ajithkumar](https://open.spotify.com/artist/3m6viblbjXiRa9LCL23JsU), [Shiva Kumar Jinna](https://open.spotify.com/artist/3fJhe8QntoO1o7oU0caUSx), [Gayathry Krishnachandran](https://open.spotify.com/artist/0JgyhUf2FnxB7HQ7Dj1CC3) | [Sagali Neeve](https://open.spotify.com/album/2B81w8j64bfmHAksmxhChu) | 5:03 |
 | 95 | [Vama](https://open.spotify.com/track/4J6bdFMvKZZMWpq2JlMtzI) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Vama](https://open.spotify.com/album/4sU3Hi2qeHG46T0QeZTTtW) | 3:18 |
-| 96 | [Vedhana](https://open.spotify.com/track/5PYbVLwMbaBl2xAGKZLOiz) | [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ), [Nawab Gang](https://open.spotify.com/artist/6b0vYJgno5fBgu3UJBPXst) | [Vedhana](https://open.spotify.com/album/0EKUKVULMTFTOLcTot95gw) | 2:57 |
+| 96 | [Vedhana](https://open.spotify.com/track/5PYbVLwMbaBl2xAGKZLOiz) | [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ), [Nawab Gang](https://open.spotify.com/artist/6b0vYJgno5fBgu3UJBPXst), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Vedhana](https://open.spotify.com/album/0EKUKVULMTFTOLcTot95gw) | 2:57 |
 | 97 | [Nuvvu Vuntava?](https://open.spotify.com/track/7Dvq7rDFQUegmwzXChLUfs) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Nuvvu Vuntava?](https://open.spotify.com/album/3PIrKyzwISi0V0fv2fOpXJ) | 2:32 |
 | 98 | [Chandinive](https://open.spotify.com/track/4Fh0sJQp4T5fAVXWqsNI3D) | [DEVARO](https://open.spotify.com/artist/29mbv9F0bBnk9lkyr9oPoc) | [Chandinive](https://open.spotify.com/album/2jvlh1IXjbb2usOoQQ0d3i) | 2:57 |
 | 99 | [Anaganaga Jasti](https://open.spotify.com/track/7c2OpCYcjMm13Y4Qs2KO48) | [Paul Prashanth](https://open.spotify.com/artist/5bIgxzh5iv4FXQpJcFWcGf) | [Anaganaga Jasti](https://open.spotify.com/album/2yTlCK9RC9SHT6f1OJ9ji5) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,023 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,097 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 9 | [Bobo](https://open.spotify.com/track/6yLd1r4dwmoTZV8hgm4Gbn) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Bobo](https://open.spotify.com/album/6qrU2hCfC6rguDad15MZz4) | 2:07 |
 | 10 | [Private Chef \(feat\. MC Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
 | 11 | [Tu danses pas tu bois pas](https://open.spotify.com/track/20TUbbBCFlJr7oar6IiNdB) | [La Traine](https://open.spotify.com/artist/5tk0jsqb4leLOR0BFzg2ZR), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Tu danses pas tu bois pas](https://open.spotify.com/album/4yZu1QWbLL4XoeL2Lemtz0) | 2:36 |
-| 12 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [On My Birthday](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
+| 12 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
 | 13 | [Mampuya](https://open.spotify.com/track/1FOToNii0EQQxspkSnwd8v) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Mampuya](https://open.spotify.com/album/4JJ9FxvYWQ7SNwAjw15W5H) | 1:54 |
 | 14 | [TEA](https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [TEA](https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj) | 3:12 |
 | 15 | [MARRAKECH](https://open.spotify.com/track/0WgP5mMrAcsntAw9pilJ5N) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [MARRAKECH](https://open.spotify.com/album/0KlUKaSSx57e4ealwtsNTp) | 2:22 |

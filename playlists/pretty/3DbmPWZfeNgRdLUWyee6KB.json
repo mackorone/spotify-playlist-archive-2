@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1331,
+  "num_followers": 1330,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXF7w4IX5u444qYdHoRE45bYqA5V8C",
+  "snapshot_id": "AAAXHObmLfOSgp/gCFQKJYyCmUnkqLh1",
   "tracks": [
     {
       "added_at": "2026-08-14 08:33:37",
@@ -1567,6 +1567,86 @@
       "duration_ms": 270273,
       "name": "Lover",
       "url": "https://open.spotify.com/track/5OascNxBcGQPokRrdVy5zB"
+    },
+    {
+      "added_at": "2026-08-15 16:25:19",
+      "album": {
+        "name": "Mute The Crowds",
+        "url": "https://open.spotify.com/album/4PwUHfvDmg5coCATtbUUeo"
+      },
+      "artists": [
+        {
+          "name": "N.A.S.P.",
+          "url": "https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Mute The Crowds",
+      "url": "https://open.spotify.com/track/6tMAIkS40UonUjzI1AeIi6"
+    },
+    {
+      "added_at": "2026-08-15 16:25:25",
+      "album": {
+        "name": "Cora\u00e7\u00e3ozinho",
+        "url": "https://open.spotify.com/album/5K1paUkK21JkVFiX409bV9"
+      },
+      "artists": [
+        {
+          "name": "Rod Montenegro",
+          "url": "https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7"
+        }
+      ],
+      "duration_ms": 231231,
+      "name": "Cora\u00e7\u00e3ozinho",
+      "url": "https://open.spotify.com/track/3YFFlrg1mqjV8AXIggAaSs"
+    },
+    {
+      "added_at": "2026-08-15 16:25:45",
+      "album": {
+        "name": "Chris",
+        "url": "https://open.spotify.com/album/6yz1csN8aXWVufZ8ZpeeSk"
+      },
+      "artists": [
+        {
+          "name": "Zar\u00e9",
+          "url": "https://open.spotify.com/artist/7bSj4WmjeZYWoUnRSG8yz1"
+        }
+      ],
+      "duration_ms": 179260,
+      "name": "Chris",
+      "url": "https://open.spotify.com/track/1Nefj4hzD1o6kLHygse9px"
+    },
+    {
+      "added_at": "2026-08-15 16:25:49",
+      "album": {
+        "name": "Suerte",
+        "url": "https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr"
+      },
+      "artists": [
+        {
+          "name": "Los de Marte",
+          "url": "https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r"
+        }
+      ],
+      "duration_ms": 167011,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M"
+    },
+    {
+      "added_at": "2026-08-15 16:25:53",
+      "album": {
+        "name": "By your side",
+        "url": "https://open.spotify.com/album/0PUSyahfMWDhAJyzG3Ep7v"
+      },
+      "artists": [
+        {
+          "name": "Sara Ek",
+          "url": "https://open.spotify.com/artist/3a5j3QOGkjno2pwwztoxVG"
+        }
+      ],
+      "duration_ms": 206470,
+      "name": "By your side",
+      "url": "https://open.spotify.com/track/2PhjsfyyqYKfgwC5LEaFjv"
     }
   ],
   "unique_name": "New Indie Music",

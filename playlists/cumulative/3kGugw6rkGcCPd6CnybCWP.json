@@ -3473,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/7jeNenCbmKhLBEjCAqnRIc"
+      },
+      "artists": [
+        {
+          "name": "7 Seconds Later",
+          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232849,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/0LVS42F6kSnhVknhBQemJM"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/64CXDkOGjHZ6NA4EcWUPjN"
       },
@@ -4358,6 +4376,42 @@
       "duration_ms": 213529,
       "name": "kim jeste\u015b?",
       "url": "https://open.spotify.com/track/3WRp5WLnxae0voLTrDSFz1"
+    },
+    {
+      "album": {
+        "name": "Know Me Better",
+        "url": "https://open.spotify.com/album/5W8kFlj1r6VM1lz2rB9UvI"
+      },
+      "artists": [
+        {
+          "name": "Miss the Heart",
+          "url": "https://open.spotify.com/artist/3X6LelOSzqJ8SyazncvEyv"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193967,
+      "name": "Know Me Better",
+      "url": "https://open.spotify.com/track/1mk6YMbaXHSdsumYWEl2tt"
+    },
+    {
+      "album": {
+        "name": "know u",
+        "url": "https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK"
+      },
+      "artists": [
+        {
+          "name": "only tears",
+          "url": "https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254463,
+      "name": "know u",
+      "url": "https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP"
     },
     {
       "album": {
@@ -5472,6 +5526,24 @@
       "duration_ms": 122666,
       "name": "nowhere",
       "url": "https://open.spotify.com/track/52acR4SFKkSmmZX0vIJsUG"
+    },
+    {
+      "album": {
+        "name": "No Jardim dos Acasos",
+        "url": "https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i"
+      },
+      "artists": [
+        {
+          "name": "LAVOLTA",
+          "url": "https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "O Rio",
+      "url": "https://open.spotify.com/track/12aIlEloDf9WXhQVKqrfjz"
     },
     {
       "album": {
@@ -8814,6 +8886,24 @@
       "duration_ms": 327943,
       "name": "\u00c9toile filante",
       "url": "https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3\u3092\u96e2\u308c\u308c\u3070",
+        "url": "https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK"
+      },
+      "artists": [
+        {
+          "name": "\u307c\u3093\u3061",
+          "url": "https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240012,
+      "name": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3\u3092\u96e2\u308c\u308c\u3070",
+      "url": "https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf"
     }
   ],
   "url": "https://open.spotify.com/playlist/3kGugw6rkGcCPd6CnybCWP"

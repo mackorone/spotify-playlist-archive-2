@@ -3041,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop It",
+        "url": "https://open.spotify.com/album/5HFzAnJCIM24A9HLB8syWS"
+      },
+      "artists": [
+        {
+          "name": "AS i am",
+          "url": "https://open.spotify.com/artist/3Gjhxajbc0eyC9ft7Ui5h9"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298625,
+      "name": "Can't Stop It",
+      "url": "https://open.spotify.com/track/6ECcYD5bITWfxdLxu2ztMb"
+    },
+    {
+      "album": {
         "name": "Can't Trust",
         "url": "https://open.spotify.com/album/1TqImzvy83ieZMpGVnRdRq"
       },
@@ -15201,6 +15219,24 @@
     },
     {
       "album": {
+        "name": "Por Uma Hora De Amor (Dance Version)",
+        "url": "https://open.spotify.com/album/2UiIkNYb52sIGySgQfXFZe"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bottiglieri",
+          "url": "https://open.spotify.com/artist/7w0jsP1QKbOfDoisWCi68k"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351496,
+      "name": "Por Uma Hora De Amor - Dance Version",
+      "url": "https://open.spotify.com/track/3KqiT9CWy6yhcx45EpZX6f"
+    },
+    {
+      "album": {
         "name": "Poseidon",
         "url": "https://open.spotify.com/album/3skDB3NK2tTMuJ08c4js1S"
       },
@@ -18614,6 +18650,24 @@
       "duration_ms": 240000,
       "name": "Take me high - Radio Edit",
       "url": "https://open.spotify.com/track/4ktZd84cXZ7zePBcAiP2wI"
+    },
+    {
+      "album": {
+        "name": "Take me or leave me",
+        "url": "https://open.spotify.com/album/5r4hwAhcBzy1KYHaTIsPo2"
+      },
+      "artists": [
+        {
+          "name": "Kamil Koksa",
+          "url": "https://open.spotify.com/artist/04pKt1XbNWhUv9qpWXIqPw"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176442,
+      "name": "Take me or leave me",
+      "url": "https://open.spotify.com/track/6XKIcXRuqMhaP0hLJmrhJI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 김산하\)<br/>Let's party with cheerful Korean trot medley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,933 likes - 133 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,937 likes - 133 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

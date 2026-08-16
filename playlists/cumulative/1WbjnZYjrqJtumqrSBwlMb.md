@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,355 songs - 3 day 11 hr 25 min
+1,357 songs - 3 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 | 2022-02-11 |  |
 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 | 2022-08-24 |  |
 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 | 2025-09-12 |  |
+| [Climbing Up the Walls \- Zero 7 Mix](https://open.spotify.com/track/5xhVp7qae7b9IN1a4ZuTJA) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb), [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Karma Police](https://open.spotify.com/album/4jRXvY6sq0s4otFU4pAWoV) | 5:19 | 2026-08-15 |  |
 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 | 2022-06-11 |  |
 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 | 2025-06-26 | 2025-06-27 |
 | [Colder Than Ice](https://open.spotify.com/track/7aBqUj0JLpd7JcoNzsWL6G) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [The Weather](https://open.spotify.com/album/6qvWzoGkU310CqOrUNm5sQ) | 3:10 | 2024-06-17 |  |
@@ -569,6 +570,7 @@
 | [I'm on Fire](https://open.spotify.com/track/4w1bfkfaTMFl3P7JWx2ht3) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:29 | 2022-11-28 |  |
 | [If I Come Home](https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [If I Come Home](https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45) | 3:36 | 2023-03-18 |  |
 | [If I Come Home](https://open.spotify.com/track/26xHjn5s53YlN6wa2tV9rh) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:19 | 2025-12-10 |  |
+| [If I Get High](https://open.spotify.com/track/3O2pB9JHreUZ9F83qSNmu8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:26 | 2026-08-16 |  |
 | [If It Only Gets Better](https://open.spotify.com/track/2Q5L6Ix8jIzF7G4u7XZVxp) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [If It Only Gets Better](https://open.spotify.com/album/6J6XOZ3BmeKnT99JuIDaFE) | 1:08 | 2025-12-02 |  |
 | [Ignite The Love](https://open.spotify.com/track/7CY88rDZ8oKYAlmYoSyxwR) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 2:42 | 2022-09-30 |  |
 | [IGOR'S THEME](https://open.spotify.com/track/51RN0kzWd7xeR4th5HsEtW) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:20 | 2022-07-13 |  |

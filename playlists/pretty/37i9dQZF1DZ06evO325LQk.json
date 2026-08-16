@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38441,
+  "num_followers": 38439,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAAB1m7bKDyjPvgP19+9sd2+5",
+  "snapshot_id": "an5agAAAAAAPlSdojXQXIbTYx7ndhzcH",
   "tracks": [
     {
       "added_at": null,
@@ -111,26 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me See Ya (feat. MUNA)",
-        "url": "https://open.spotify.com/album/4RCMft0azAOIIGWv3rpd6B"
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
       },
       "artists": [
         {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 205592,
-      "name": "Let Me See Ya (feat. MUNA)",
-      "url": "https://open.spotify.com/track/6K0iZIS5wPirY5IHpxHvq5"
+      "duration_ms": 84921,
+      "name": "Not Okay - Alone Mix",
+      "url": "https://open.spotify.com/track/57aGMQ5ZOSWIAf4n0fYEnt"
     },
     {
       "added_at": null,
@@ -167,18 +159,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+        "name": "Let Me See Ya (feat. MUNA)",
+        "url": "https://open.spotify.com/album/4RCMft0azAOIIGWv3rpd6B"
       },
       "artists": [
         {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 84921,
-      "name": "Not Okay - Alone Mix",
-      "url": "https://open.spotify.com/track/57aGMQ5ZOSWIAf4n0fYEnt"
+      "duration_ms": 205592,
+      "name": "Let Me See Ya (feat. MUNA)",
+      "url": "https://open.spotify.com/track/6K0iZIS5wPirY5IHpxHvq5"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 118727,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Go Down",
         "url": "https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq"
       },
@@ -255,6 +271,22 @@
       "duration_ms": 146069,
       "name": "Go Down",
       "url": "https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 151519,
+      "name": "OOH",
+      "url": "https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2"
     },
     {
       "added_at": null,
@@ -279,38 +311,6 @@
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
       "url": "https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 151519,
-      "name": "OOH",
-      "url": "https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEMONADE",
-        "url": "https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 118727,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7"
     },
     {
       "added_at": null,

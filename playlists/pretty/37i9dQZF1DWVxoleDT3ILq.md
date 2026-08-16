@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Anttonias en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,178 likes - 37 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,176 likes - 37 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

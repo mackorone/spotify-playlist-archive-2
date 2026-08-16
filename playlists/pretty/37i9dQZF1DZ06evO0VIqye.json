@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62520,
+  "num_followers": 62524,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAAD2RtQG9Jq/ol4O/XDgOYfz",
+  "snapshot_id": "an5agAAAAACkT8IVVOnRfTgLt8kWUnQo",
   "tracks": [
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+        "name": "Tank Girl Soundtrack",
+        "url": "https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 250573,
-      "name": "Rebel, Rebel",
-      "url": "https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq"
+      "duration_ms": 143360,
+      "name": "Let's Do It - O.S.T.",
+      "url": "https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tank Girl Soundtrack",
-        "url": "https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7"
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 143360,
-      "name": "Let's Do It - O.S.T.",
-      "url": "https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW"
+      "duration_ms": 250573,
+      "name": "Rebel, Rebel",
+      "url": "https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Little Liar",
-      "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Music",
         "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
       },
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Demento Covered In Punk",
-        "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 234795,
-      "name": "Science Fiction/Double Feature",
-      "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
+      "duration_ms": 239600,
+      "name": "Little Liar",
+      "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dr. Demento Covered In Punk",
+        "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 234795,
+      "name": "Science Fiction/Double Feature",
+      "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 247470,
       "name": "I Hate Myself For Loving You",
       "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Changeup (Acoustic)",
+        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Long Time - (Acoustic)",
+      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Changeup (Acoustic)",
-        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Long Time - (Acoustic)",
-      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG"
       },
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 187173,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/5bm9z5HyUXJPpnUzg2Kdzi"
+      "duration_ms": 216173,
+      "name": "Coney Island Whitefish",
+      "url": "https://open.spotify.com/track/0s0oLRYtGnZkJEQ59NjRsQ"
     }
   ],
   "unique_name": "This Is Joan Jett & the Blackhearts",

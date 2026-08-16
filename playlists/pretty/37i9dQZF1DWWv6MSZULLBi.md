@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Julian Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,323 likes - 175 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,318 likes - 175 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

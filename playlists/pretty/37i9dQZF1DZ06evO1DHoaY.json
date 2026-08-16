@@ -1,29 +1,13 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2073312,
+  "num_followers": 2073342,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAACxOrqjFhqwjfWv67BHBD9K",
+  "snapshot_id": "an5agAAAAAAOI8Gyenhls2jEAoIV/9MR",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Positive Vibration / Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
-        "url": "https://open.spotify.com/album/4po2v4hpXE9EoE4qsE0I92"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 214415,
-      "name": "Positive Vibration - Live At The Hammersmith Odeon, London, UK - June, 1976",
-      "url": "https://open.spotify.com/track/6zaUdq5VMHhKrtlCBNGXMn"
-    },
     {
       "added_at": null,
       "album": {
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Positive Vibration",
+      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Iron Lion Zion",
         "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 202432,
       "name": "Iron Lion Zion - 7\" Mix",
       "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 279720,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 242333,
       "name": "Forever Loving Jah",
       "url": "https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burnin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 279720,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
     },
     {
       "added_at": null,

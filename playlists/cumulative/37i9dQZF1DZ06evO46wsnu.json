@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 177440,
       "name": "Any Way You Want It",
       "url": "https://open.spotify.com/track/6BHShslmpVCHLvxahvRLf7"
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Katy Bar the Door / Living Undercover",
+        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205202,
+      "name": "Katy Bar the Door",
+      "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
+    },
+    {
+      "album": {
         "name": "Nowhere Generation II",
         "url": "https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0"
       },
@@ -838,6 +856,24 @@
       "duration_ms": 166880,
       "name": "Like the Angel",
       "url": "https://open.spotify.com/track/4t2rjxCXIJnBmRBkXJOYa5"
+    },
+    {
+      "album": {
+        "name": "Katy Bar the Door / Living Undercover",
+        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229751,
+      "name": "Living Undercover",
+      "url": "https://open.spotify.com/track/6Zjfj6AYFAZICf0gbWTcqG"
     },
     {
       "album": {
@@ -1698,7 +1734,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 217720,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd"

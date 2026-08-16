@@ -4,7 +4,7 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 2 min
+52 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Killing Time](https://open.spotify.com/track/5h2zlwT2jML36Y6vUNRH9h) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 3:50 | 2023-04-29 | 2023-08-23 |
 | [Lead Pipe](https://open.spotify.com/track/791XlnGCxlmyPS6BKdNzbp) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 2:59 | 2023-09-09 |  |
 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 | 2023-04-29 | 2023-09-10 |
+| [Live by the Sword](https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live by the Sword](https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2) | 3:39 | 2026-08-16 |  |
 | [Losing Fight](https://open.spotify.com/track/5wwUo18ajQFtZnIsmZlblL) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 3:57 | 2022-09-16 |  |
 | [Losing My Religion](https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Losing My Religion](https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo) | 4:29 | 2022-09-16 |  |
 | [Love Took The Last Of It](https://open.spotify.com/track/1IlAPVYbBIffKz29syKvBb) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:37 | 2022-09-16 |  |

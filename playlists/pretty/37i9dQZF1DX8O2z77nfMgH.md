@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Carín León & Ke Personajes
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,807 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,749 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 8 | [me asfixia LA CIUDAD](https://open.spotify.com/track/51hMMibOQhxk6kWWZdlL7m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [me asfixia LA CIUDAD](https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V) | 2:03 |
 | 9 | [Renacer](https://open.spotify.com/track/3xu6gF8R4fa0ghzvj67aI6) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:46 |
 | 10 | [G\. Catán](https://open.spotify.com/track/1cnc9DZ57KLgAKa8jX4xMd) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [G\. Catán](https://open.spotify.com/album/2yOHR3vwMZxt7MuQklWt7p) | 2:52 |
-| 11 | [MANIQUI \(feat\. Jay Wheeler & iZaak\)](https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 4:59 |
+| 11 | [MANIQUI](https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 4:59 |
 | 12 | [Tempestade](https://open.spotify.com/track/4nuC7MlHT9NOI8byXPn2da) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Tati Portella](https://open.spotify.com/artist/0n1wKapVwhPJKt0REzPNfb) | [Tempestade](https://open.spotify.com/album/40wQAuq0wltC894JGWkxi6) | 2:42 |
 | 13 | [AMÉN \- Remix](https://open.spotify.com/track/1OM0XJJYPlut755EdKylbr) | [White Bear](https://open.spotify.com/artist/5bvRiQqBDnZ3DeNTPrFevI), [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [EL CABECILLA](https://open.spotify.com/album/7AOZ0qKf0eyoh0FH9O0wKQ) | 6:11 |
 | 14 | [Faded Eyes](https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Faded Eyes](https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE) | 2:57 |

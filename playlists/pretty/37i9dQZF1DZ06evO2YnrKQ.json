@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 25854,
+  "num_followers": 25864,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAACIeJ9oNc/gHG/WBij7nMND",
+  "snapshot_id": "an5agAAAAADE++w/VggboEpXoNkEcrBn",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 217021,
-      "name": "The Kennedy Curse",
-      "url": "https://open.spotify.com/track/0jRJkH0ZvfSzkGDlg7UYE8"
+      "duration_ms": 139417,
+      "name": "Counterparts and Number Them",
+      "url": "https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 139417,
-      "name": "Counterparts and Number Them",
-      "url": "https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT"
+      "duration_ms": 217021,
+      "name": "The Kennedy Curse",
+      "url": "https://open.spotify.com/track/0jRJkH0ZvfSzkGDlg7UYE8"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fully Completely",
-        "url": "https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1"
+        "name": "Dogs Blood",
+        "url": "https://open.spotify.com/album/3Rxr8MhJ34TS5LPK8aBJPv"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 228835,
-      "name": "Fully Completely",
-      "url": "https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1"
+      "duration_ms": 358060,
+      "name": "Dogs Blood",
+      "url": "https://open.spotify.com/track/1WHDPx1Vzgg9i8jobSl44d"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dogs Blood",
-        "url": "https://open.spotify.com/album/3Rxr8MhJ34TS5LPK8aBJPv"
+        "name": "Fully Completely",
+        "url": "https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 358060,
-      "name": "Dogs Blood",
-      "url": "https://open.spotify.com/track/1WHDPx1Vzgg9i8jobSl44d"
+      "duration_ms": 228835,
+      "name": "Fully Completely",
+      "url": "https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1"
     },
     {
       "added_at": null,

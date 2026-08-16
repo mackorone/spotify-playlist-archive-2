@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Luis Fonsi, Anuel AA, benny blanco x Mora x Ovy On The Drums, Al Safir x Omar Montes y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,395 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,426 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 10 | [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 |
 | 11 | [I Lied, You Lied](https://open.spotify.com/track/0bDxiYRjox3caOYTlYKgDF) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [I Lied, You Lied](https://open.spotify.com/album/5QoH6LoBofBaurQ5TK5EYn) | 3:23 |
 | 12 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 |
-| 13 | [MANIQUI \(feat\. Jay Wheeler & iZaak\)](https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 4:59 |
+| 13 | [MANIQUI](https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 4:59 |
 | 14 | [PECA](https://open.spotify.com/track/7kIHkbdVXuZtEuh5LWvbVx) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [PECA](https://open.spotify.com/album/5a3esKUCVbpgT44QKaC1HC) | 2:09 |
 | 15 | [G\. Catán](https://open.spotify.com/track/1cnc9DZ57KLgAKa8jX4xMd) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [G\. Catán](https://open.spotify.com/album/2yOHR3vwMZxt7MuQklWt7p) | 2:52 |
 | 16 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |

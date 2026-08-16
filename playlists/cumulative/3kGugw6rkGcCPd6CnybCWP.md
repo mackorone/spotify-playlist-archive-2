@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-482 songs - 1 day 3 hr 57 min
+487 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [HE'S FOR THE STREETS](https://open.spotify.com/track/4p9kOPyXEoQLzXJXodHJz2) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [HE'S FOR THE STREETS](https://open.spotify.com/album/2oYCt2PA2D7BwzPxno1LzN) | 3:26 | 2026-03-10 | 2026-04-16 |
 | [HEADACHE](https://open.spotify.com/track/0uxA25mu2FM6JkfelSS5vp) | [Eupholia](https://open.spotify.com/artist/3RhXPJ65Q7cMFnJg0xUr9T) | [HEADACHE](https://open.spotify.com/album/7MUNZYkKHum6kVreJgeYnS) | 5:06 | 2026-07-25 |  |
 | [Heading Out](https://open.spotify.com/track/37JTgHjdSzi6RDZAjz6Blg) | [Velvet Static](https://open.spotify.com/artist/6F0VPim2a3o1M64nwGGRv2) | [Heading Out](https://open.spotify.com/album/3MHolAh5hdccEvWypHo6qy) | 4:47 | 2025-11-17 | 2026-01-17 |
+| [Heartbeats](https://open.spotify.com/track/0LVS42F6kSnhVknhBQemJM) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [Embers](https://open.spotify.com/album/7jeNenCbmKhLBEjCAqnRIc) | 3:52 | 2026-08-15 |  |
 | [Heaven](https://open.spotify.com/track/29E39H3CqWkRWTbvJ2ghJ7) | [Swamp](https://open.spotify.com/artist/0nrxphAbccZ9K2OxSzoa8y) | [Heaven](https://open.spotify.com/album/64CXDkOGjHZ6NA4EcWUPjN) | 5:36 | 2026-07-01 |  |
 | [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 | 2026-03-26 | 2026-04-21 |
 | [Here to Stay](https://open.spotify.com/track/1pQmRpOXuIufHIGaylroCw) | [Edwina Van Kuyk](https://open.spotify.com/artist/268un72oahUYc2Vyt2YGB7) | [Here to Stay](https://open.spotify.com/album/4pzZL5wRL6e8tG0DASYvl6) | 3:01 | 2026-06-01 |  |
@@ -246,6 +247,8 @@
 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 | 2026-04-21 | 2026-07-02 |
 | [Kijk Dieper](https://open.spotify.com/track/4it5QdcZcP1ruTRDX1ixcT) | [FIERE](https://open.spotify.com/artist/27flAoHPs3qOBdlNsKM4Sr) | [Kijk Dieper](https://open.spotify.com/album/2HYMcDe1YbU0uk00boepWr) | 2:30 | 2025-11-21 | 2026-07-01 |
 | [kim jesteś?](https://open.spotify.com/track/3WRp5WLnxae0voLTrDSFz1) | [oswojeni](https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh) | [kim jesteś?](https://open.spotify.com/album/3AEbonO8ZDawTrqzwU6ozw) | 3:33 | 2026-07-02 |  |
+| [Know Me Better](https://open.spotify.com/track/1mk6YMbaXHSdsumYWEl2tt) | [Miss the Heart](https://open.spotify.com/artist/3X6LelOSzqJ8SyazncvEyv) | [Know Me Better](https://open.spotify.com/album/5W8kFlj1r6VM1lz2rB9UvI) | 3:13 | 2026-08-15 |  |
+| [know u](https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [know u](https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK) | 4:14 | 2026-08-15 |  |
 | [l e t y o u g o \- augy's version](https://open.spotify.com/track/1Kp74OD0EDhDsE1fkVuxmm) | [Xandre Augs](https://open.spotify.com/artist/77W5blk8wl1WwplejOVMbn) | [l e t y o u g o \(augy's version\)](https://open.spotify.com/album/3nLycWr2ivzzY4O701PfSy) | 2:52 | 2026-07-25 |  |
 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 | 2026-01-28 | 2026-03-10 |
 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 | 2026-03-10 | 2026-04-16 |
@@ -307,6 +310,7 @@
 | [not ur muse](https://open.spotify.com/track/7aBKuGcK0y9RKT3ezTfx9J) | [Lumi Mar](https://open.spotify.com/artist/5xFxgq2tTejLjoDRzAuZaw) | [not ur muse](https://open.spotify.com/album/0zb6wtxREtziSDRzui3MqJ) | 4:05 | 2026-01-16 | 2026-02-20 |
 | [Nothing We Can Do](https://open.spotify.com/track/2GcRdml2oURe3PpLEZmpfn) | [Laurie McMahon](https://open.spotify.com/artist/3Xr0YttuvFgDb6vgjONFT7) | [Nothing We Can Do](https://open.spotify.com/album/0nfkbEiPiQrwF9dIVEjGUV) | 3:36 | 2025-11-21 | 2026-01-17 |
 | [nowhere](https://open.spotify.com/track/52acR4SFKkSmmZX0vIJsUG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [nowhere](https://open.spotify.com/album/00jJdhjPWVtce0Uiygt6AB) | 2:02 | 2025-10-24 | 2025-12-02 |
+| [O Rio](https://open.spotify.com/track/12aIlEloDf9WXhQVKqrfjz) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [No Jardim dos Acasos](https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i) | 4:42 | 2026-08-15 |  |
 | [Offsides](https://open.spotify.com/track/2bZPTbLabDiobYOcOsAtYS) | [Hey Again](https://open.spotify.com/artist/1DdU2OIgRTefByXP3yjTNI) | [Trial Run](https://open.spotify.com/album/42I6e9JHOr7Wo52OwdkIUI) | 1:54 | 2026-04-28 | 2026-07-02 |
 | [Oh, Juliette!](https://open.spotify.com/track/5Uz0ggdrjLMTK91wVFMgpo) | [Apostles](https://open.spotify.com/artist/3RcRQvnGYuY8dyIROokwNi) | [Here to Stay](https://open.spotify.com/album/6QdDsrjkS70Lkub6FYUXvf) | 2:41 | 2025-10-30 | 2026-01-17 |
 | [One Day to Live](https://open.spotify.com/track/09g8TbfdsT563Hn0K0CgTF) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [One Day to Live](https://open.spotify.com/album/1psa25gJ5LnSF6s97hudRv) | 2:26 | 2026-04-15 | 2026-05-28 |
@@ -490,5 +494,6 @@
 | [You're So Uninviting](https://open.spotify.com/track/1U6hp7lzgST4lzxRIR1VvW) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k), [Molly Coleman](https://open.spotify.com/artist/3zVctuiATB47XZXKAgzPZD) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 3:15 | 2026-04-06 | 2026-05-14 |
 | [Your Flow](https://open.spotify.com/track/7w3PDDIQ9mO58DnRpbwRFJ) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Your Flow](https://open.spotify.com/album/5IMkL1GoZJlrtEqnNGR5Wn) | 3:00 | 2026-04-02 | 2026-05-14 |
 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 | 2026-01-09 | 2026-02-20 |
+| [ダウンタウンを離れれば](https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [ダウンタウンを離れれば](https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK) | 4:00 | 2026-08-15 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

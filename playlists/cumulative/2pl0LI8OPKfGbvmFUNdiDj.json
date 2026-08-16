@@ -2627,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "Do you like it that way",
+        "url": "https://open.spotify.com/album/59YCENlsKrzYGrvRN5weKC"
+      },
+      "artists": [
+        {
+          "name": "Father 2 Son",
+          "url": "https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269040,
+      "name": "Do you like it that way",
+      "url": "https://open.spotify.com/track/1znJonSXmxeTYceBuMgrix"
+    },
+    {
+      "album": {
         "name": "do you think about us?",
         "url": "https://open.spotify.com/album/4X3oFaVDqbBsVQZ2wSmjs2"
       },

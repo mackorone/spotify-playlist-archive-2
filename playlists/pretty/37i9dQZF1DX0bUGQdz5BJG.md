@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Erin Kinsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,741 likes - 175 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,788 likes - 175 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 8 | [Tethered](https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Tethered](https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL) | 4:01 |
 | 9 | [Something More](https://open.spotify.com/track/0a9ukRgyySkKGzezX99prN) | [Cammy Barnes](https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9) | [Something More](https://open.spotify.com/album/6ZyP050407R9kDF8fATjbb) | 3:05 |
 | 10 | [Way Things Work](https://open.spotify.com/track/00rxBbN16lN1FdeHKeoRWF) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u), [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Way Things Work](https://open.spotify.com/album/459EinNsFbLMSzFViPDWa7) | 2:57 |
-| 11 | [Does Your GF Know We Kissed](https://open.spotify.com/track/6ycD07J6DgV7PnARl08ETX) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Does Your GF Know We Kissed](https://open.spotify.com/album/2exLxvYxs2kkCsIXV5mQzM) | 2:09 |
+| 11 | [Does Your GF Know We Kissed?](https://open.spotify.com/track/6ycD07J6DgV7PnARl08ETX) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Does Your GF Know We Kissed?](https://open.spotify.com/album/2exLxvYxs2kkCsIXV5mQzM) | 2:09 |
 | 12 | [Definitely, Maybe](https://open.spotify.com/track/3OnVapd4Op4VkwAgdTWQdA) | [KC Bruner](https://open.spotify.com/artist/6Hn5B6LUK3ITIJPfLBxvOg) | [Definitely, Maybe](https://open.spotify.com/album/1v89tZEZGq1KyAoWMkJrEO) | 3:29 |
 | 13 | [Chasing Clouds](https://open.spotify.com/track/1qnFlL4r260iNvGRcKgmgY) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Chasing Clouds](https://open.spotify.com/album/1GXMMBtTMYKVLYvNgD5fq9) | 3:13 |
 | 14 | [Ain't No Jukebox](https://open.spotify.com/track/10QV6B23vxuctMRQQUsP4L) | [Cassidy Daniels](https://open.spotify.com/artist/7tkuLHX8bn8WkTZtJ5AqiM) | [Ain't No Jukebox](https://open.spotify.com/album/5tsjoKz3BSJ3C3KgtGqfZg) | 2:47 |

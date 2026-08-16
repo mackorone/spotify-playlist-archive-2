@@ -4787,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "Ausente",
+        "url": "https://open.spotify.com/album/0SPOT5pwB1OkBCttVu9TQp"
+      },
+      "artists": [
+        {
+          "name": "Aar\u01ffnViz",
+          "url": "https://open.spotify.com/artist/6ciNCF1EJNLtnruJM3eySb"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Ausente",
+      "url": "https://open.spotify.com/track/36PcSX4cg6YHzAIw3pDrgA"
+    },
+    {
+      "album": {
         "name": "Austral Darkirys",
         "url": "https://open.spotify.com/album/6hw1mqNJ6vURlxP3JeBRBp"
       },
@@ -36620,6 +36638,24 @@
       "duration_ms": 250000,
       "name": "In the rain",
       "url": "https://open.spotify.com/track/6wEdQ3tq7D7VbAX8qjc1yw"
+    },
+    {
+      "album": {
+        "name": "In the Shadows of My Mind",
+        "url": "https://open.spotify.com/album/2Is6SvBaNoeQyfqoJob24m"
+      },
+      "artists": [
+        {
+          "name": "WIARANETY",
+          "url": "https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170627,
+      "name": "In the Shadows of My Mind",
+      "url": "https://open.spotify.com/track/1GOxuHkx3MfygKtwbuUbsN"
     },
     {
       "album": {

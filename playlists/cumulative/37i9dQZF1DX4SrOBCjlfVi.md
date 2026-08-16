@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Nipsey Hussle & Bino Rideaux,  Flo Milli, Trippie Redd and more!
 
-10,745 songs - 20 day 13 hr 14 min
+10,745 songs - 20 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7802,7 +7802,7 @@
 | [REVENGE](https://open.spotify.com/track/50EVwoQ5nOpV6RywRhiaFZ) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [REVENGE](https://open.spotify.com/album/7tdDVvTiOPRlGOH3dHysf3) | 1:42 | 2025-10-31 | 2025-11-08 |
 | [Revenue](https://open.spotify.com/track/4lXWdBuxBmbuA6YsoBXgzt) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Revenue](https://open.spotify.com/album/3vs53eZfqC6NQGto1qjSdR) | 3:15 | 2023-03-10 | 2023-03-18 |
 | [Rewind](https://open.spotify.com/track/69cqm1GrQN2Q9LWln9FJ7x) | [TEC](https://open.spotify.com/artist/0Y1fWbJgcZk0R2SbZbxo4R) | [Rewind](https://open.spotify.com/album/54kRtkCoyirnRLckE2F86C) | 2:44 | 2023-03-31 | 2023-04-09 |
-| [Rice N Butter](https://open.spotify.com/track/6ahJMgFJTq2xmAM7Wg38qN) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Rice N Butter](https://open.spotify.com/album/2pQkijDQ5wpFuTxtMBONg1) | 2:08 | 2026-08-14 |  |
+| [Rice N Butter](https://open.spotify.com/track/6ahJMgFJTq2xmAM7Wg38qN) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Rice N Butter](https://open.spotify.com/album/2pQkijDQ5wpFuTxtMBONg1) | 1:55 | 2026-08-14 |  |
 | [Rich & Famous \(with North Ave Jax\)](https://open.spotify.com/track/2TJV3zgNlabgpCLmMFSv1o) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY) | [Rich & Famous \(with North Ave Jax\)](https://open.spotify.com/album/4ZlOvXfYdU08hUTVLCzCYm) | 2:55 | 2022-10-07 | 2022-10-15 |
 | [Rich & Player](https://open.spotify.com/track/4uAdk4WsvROzbhHpxlI744) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Rich & Player](https://open.spotify.com/album/7vwtySRvkjDq6KPB9uddst) | 1:53 | 2023-09-29 | 2023-10-07 |
 | [Rich & Reckless](https://open.spotify.com/track/0VdN5UU7UT2tzaXJfbcvlV) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Rich & Reckless](https://open.spotify.com/album/4rUiYXutkIFPbCr8H8ELoJ) | 2:14 | 2024-01-19 | 2024-01-27 |
@@ -9102,7 +9102,7 @@
 | [Swag Stick](https://open.spotify.com/track/23QzzQ7XMxNsh6HvHpfUGh) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Swag Stick](https://open.spotify.com/album/7LbFxKekHCZ3pk8f3whFlz) | 1:50 | 2023-01-13 | 2023-01-21 |
 | [SWAGGER](https://open.spotify.com/track/4KNpHE4Sw00PPEYG8BPKFT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [SWAGGER](https://open.spotify.com/album/4M49cpJDpiW28BFhMdLyr1) | 2:35 | 2026-07-31 | 2026-08-08 |
 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2022-08-05 | 2022-08-13 |
-| [Swamp Olympics \(feat\. Skrilla & Wizz Havinn\)](https://open.spotify.com/track/6pD0jkdVeQvIud7tUIBabj) | [Kent Loon](https://open.spotify.com/artist/4D10XmdrnAaDediMRuOBKM), [Skrilla](https://open.spotify.com/artist/4ngW7XTBW0AzcqSVJx9qhV), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Swamp Olympics \(feat\. Skrilla & Wizz Havinn\)](https://open.spotify.com/album/5euDlk0QQfgnMovqEcqLCu) | 2:25 | 2026-08-14 |  |
+| [Swamp Olympics \(feat\. Skrilla & Wizz Havinn\)](https://open.spotify.com/track/6pD0jkdVeQvIud7tUIBabj) | [Kent Loon](https://open.spotify.com/artist/4D10XmdrnAaDediMRuOBKM), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Swamp Olympics \(feat\. Skrilla & Wizz Havinn\)](https://open.spotify.com/album/5euDlk0QQfgnMovqEcqLCu) | 2:25 | 2026-08-14 |  |
 | [swang](https://open.spotify.com/track/6efXHIArlmVOJJm5N6V4yn) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [swang](https://open.spotify.com/album/2mt7lOSwHDU1i8Gde3CjGi) | 2:07 | 2025-08-22 | 2025-08-30 |
 | [Sware Im](https://open.spotify.com/track/7stbt1RpIhCjFDrS5B8oz8) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Sware Im](https://open.spotify.com/album/7yawrQSOFgQ8mj06rWpIAM) | 3:53 | 2023-10-06 | 2023-10-14 |
 | [SWAT](https://open.spotify.com/track/43Dg2fjTT2i4eSHbeGmh98) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [J\. Rawls](https://open.spotify.com/artist/3M5miYDu8lWrm0A3Q0OTag), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [The Confidence Of Knowing](https://open.spotify.com/album/0ikGG2Y7zJslRuQNtOK4Bf) | 5:24 | 2024-09-13 | 2024-09-21 |

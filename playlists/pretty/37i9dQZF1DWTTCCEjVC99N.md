@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > The biggest Arabic songs in the 2000's\. Cover: Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,557 likes - 86 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,622 likes - 86 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

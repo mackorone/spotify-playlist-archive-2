@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166928,
+  "num_followers": 166924,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAADyNR9lhO7n65AfcSa9DuvV",
+  "snapshot_id": "an5agAAAAAAaG5ywliAAeQSqiqrVXuIe",
   "tracks": [
     {
       "added_at": null,
@@ -463,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALEGORIA",
-        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
       "artists": [
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         }
       ],
-      "duration_ms": 145979,
-      "name": "MIL GRAU",
-      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
+      "duration_ms": 198304,
+      "name": "SOBREVIVI",
+      "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
     },
     {
       "added_at": null,
@@ -499,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+        "name": "ALEGORIA",
+        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
       },
       "artists": [
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         }
       ],
-      "duration_ms": 198304,
-      "name": "SOBREVIVI",
-      "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
+      "duration_ms": 145979,
+      "name": "MIL GRAU",
+      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 J\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1RdEMqgFyVwVYSq1ttWObm"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 182182,
-      "name": "At\u00e9 J\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOSAICO",
         "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 205750,
       "name": "Chama Amor",
       "url": "https://open.spotify.com/track/4g515j0CON9I9Dla4uYSXk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 J\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RdEMqgFyVwVYSq1ttWObm"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 182182,
+      "name": "At\u00e9 J\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B"
     },
     {
       "added_at": null,

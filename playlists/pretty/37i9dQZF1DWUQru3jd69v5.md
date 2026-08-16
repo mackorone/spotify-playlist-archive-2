@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > headows in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,672 likes - 72 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,673 likes - 72 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 71 | [つづく\(passerà\) \(feat\. Silent Bob\)](https://open.spotify.com/track/231agvY1iOEF1ghofx1lrx) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [²Geeeeked](https://open.spotify.com/album/2F3INNy442zZb28Nxb8klD) | 3:08 |
 | 72 | [RIO DE JANEIRO](https://open.spotify.com/track/2B1HZ6XGh8HPDTtuxiyudl) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [RIO DE JANEIRO](https://open.spotify.com/album/6zwiWGFgRaStOUwuD4IK7A) | 2:17 |
 
-Snapshot ID: `AAAAAEQmq5JNAKCYb2qs7wSTVKLSP6WE`
+Snapshot ID: `AAAAAPcW4wfwpqKWNJZailY7m/NJKDrg`

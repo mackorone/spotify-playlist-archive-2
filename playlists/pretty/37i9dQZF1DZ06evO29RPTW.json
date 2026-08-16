@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 136823,
+  "num_followers": 136831,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAAD77aQTayVitY3v5VCQ33gY",
+  "snapshot_id": "an5agAAAAACtHRxD99p0zf0rwWWTmFJj",
   "tracks": [
     {
       "added_at": null,
@@ -107,18 +107,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellbilly Deluxe 2 (Special Edition)",
-        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
+        "name": "Helter Skelter",
+        "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
         }
       ],
-      "duration_ms": 167813,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i"
+      "duration_ms": 215937,
+      "name": "Helter Skelter",
+      "url": "https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm"
     },
     {
       "added_at": null,
@@ -171,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Helter Skelter",
-        "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
+        "name": "Hellbilly Deluxe 2 (Special Edition)",
+        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
         }
       ],
-      "duration_ms": 215937,
-      "name": "Helter Skelter",
-      "url": "https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm"
+      "duration_ms": 167813,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i"
     },
     {
       "added_at": null,

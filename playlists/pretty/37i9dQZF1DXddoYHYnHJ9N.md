@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: KKevin, Bruno X Spacc, VINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,784 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,804 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 | 26 | [TITANIK](https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [GHO$TY](https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX) | [TITANIK](https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP) | 2:43 |
 | 27 | [BAD BUNNY](https://open.spotify.com/track/02kAIFBWwrJulgwGtVqIEQ) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1) | [BAD BUNNY](https://open.spotify.com/album/2ya64b5CUXkMBsEDzyM97A) | 2:30 |
 | 28 | [Gyerekek](https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h) | [Gyerekek](https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE) | 2:36 |
-| 29 | [8](https://open.spotify.com/track/0zvQXz24Tq1WNWJykRPLIW) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [A MASZK](https://open.spotify.com/album/1exGBKhmAcCjayRrbeYIAY) | 2:25 |
+| 29 | [8](https://open.spotify.com/track/19eAMzR3dZZVdPMfCkU1Wb) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [A MASZK](https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y) | 2:25 |
 | 30 | [Kell egy pár nap](https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Valamit Majd Kitalálok](https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1) | 3:17 |
 | 31 | [erotika](https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [elterelés](https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc) | 2:48 |
 | 32 | [Dada](https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Dada](https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN) | 3:40 |

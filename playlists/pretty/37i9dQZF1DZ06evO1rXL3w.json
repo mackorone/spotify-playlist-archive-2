@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAAC1xom9g8oFRDaBpu+tEKA7",
+  "snapshot_id": "an5agAAAAAD5Rg53969VpPBM6pIeHgP9",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 129468,
-      "name": "I Love You Charlotte - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt"
+      "duration_ms": 187206,
+      "name": "I Could Use a Boost",
+      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
     },
     {
       "added_at": null,
@@ -136,15 +136,15 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 98622,
-      "name": "Happy Endings Don't Exist - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/398ed7LmIlpfvgaNQMcd8D"
+      "duration_ms": 82002,
+      "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/60tThvmnpVzWnYkPNYMJzV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 187206,
-      "name": "I Could Use a Boost",
-      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
+      "duration_ms": 129468,
+      "name": "I Love You Charlotte - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 47072,
-      "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH"
+      "duration_ms": 98622,
+      "name": "Happy Endings Don't Exist - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/398ed7LmIlpfvgaNQMcd8D"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 82002,
-      "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/60tThvmnpVzWnYkPNYMJzV"
+      "duration_ms": 47072,
+      "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,812 likes - 49 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,831 likes - 49 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 15 | [Se Quedó Conmigo](https://open.spotify.com/track/54WhzdsNihZ1k0EPTgXrIj) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 4:08 |
 | 16 | [Indomable \- Live](https://open.spotify.com/track/5FUsHxUB7MVpM6sRSjCZbD) | [Vástago Epicentro](https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Epicentro Live \(Desde Monterrey, México\)](https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw) | 4:15 |
 | 17 | [Tienen Tu Color](https://open.spotify.com/track/2ObrJKsc5W0Gqhnshj1Igs) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:01 |
-| 18 | [Aqui Estoy](https://open.spotify.com/track/0IEPPVl1khipGmiTDJmwLb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 3:16 |
+| 18 | [Aqui Estoy \(aqui estoy yo\)](https://open.spotify.com/track/0IEPPVl1khipGmiTDJmwLb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 3:16 |
 | 19 | [Cada Día](https://open.spotify.com/track/58W8qcqC1GEWJ6Ubzd18H3) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Pecos Romero](https://open.spotify.com/artist/4DHZAMPvCGmf52B8fI7PvZ) | [Colección Duetos](https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u) | 3:24 |
 | 20 | [Olvidé Cuidar Mi Huerto](https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:47 |
 | 21 | [Tu Amistad Me Hace Bien \- En Vivo](https://open.spotify.com/track/46aynkZF4kEBzYOQYOFAjv) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO), [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Lorelei Taron](https://open.spotify.com/artist/4BgKgow0sYMYbeCwch19Bo), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j) | 4:08 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 48 | [Que Seas Mi Hogar \(feat\. Reyli Barba\)](https://open.spotify.com/track/1VzKKSoe86AmfWh0DJL1Yw) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:28 |
 | 49 | [Brilla](https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 3:19 |
 
-Snapshot ID: `an0JAAAAAAD332x/v+LaDudVgrxQ6qBl`
+Snapshot ID: `an5agAAAAADJjO2I3n8utjxO53B6u23+`

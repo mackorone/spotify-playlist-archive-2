@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-161 songs - 8 hr 4 min
+162 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Díganle A Mi Ex](https://open.spotify.com/track/3wAB6BoHzcy4OQg040Jydm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/0t0rQcO5MICiLAjTwVZZbn) | 3:00 | 2025-01-09 | 2025-04-12 |
 | [El Curioso](https://open.spotify.com/track/0X4cL61mUXjCGXUM0YNHRu) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:22 | 2025-08-26 |  |
 | [El Dinero Viene y Va \- En Vivo](https://open.spotify.com/track/7xHqoVzhNbHcMAV5LTIUyU) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Adal Loreto](https://open.spotify.com/artist/1tm0tic1v5wuq9mfqln574) | [El Dinero Viene y Va \(En Vivo\)](https://open.spotify.com/album/3kUlyLl45C3pnlvP4FaZsA) | 3:13 | 2025-01-09 | 2025-04-12 |
+| [El Migajero](https://open.spotify.com/track/0ie7ujONjpBeKcDs8VoaNW) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Gravedad](https://open.spotify.com/album/2OwsYFE6lN5idbIGI8eFSg) | 3:19 | 2026-08-15 |  |
 | [El Mundo Rueda](https://open.spotify.com/track/3BdYjVKvOR8HU1iEESeVJt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 2:45 | 2026-05-17 |  |
 | [EL PROFESOR](https://open.spotify.com/track/0hWudpmS1MdReXWrNKZXGb) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [EL PROFESOR](https://open.spotify.com/album/7D4tzXeK5a2ITIXmSUdPL8) | 3:14 | 2025-03-16 |  |
 | [EMPINANDO EL CODO](https://open.spotify.com/track/0FhLZzHySi52lVsrFRH3Ls) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [EMPINANDO EL CODO](https://open.spotify.com/album/3hqxsTMv4K2yGeqhXYPQFG) | 2:54 | 2025-08-02 | 2025-08-18 |

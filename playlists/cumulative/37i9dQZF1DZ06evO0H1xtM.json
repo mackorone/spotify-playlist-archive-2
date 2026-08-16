@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Cero Miedo",
+        "url": "https://open.spotify.com/album/3VSPApAscAKQvMYgdGBzJK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144693,
+      "name": "Cero Miedo",
+      "url": "https://open.spotify.com/track/45ehHeg9Kr5ZK3sFRnbjOv"
+    },
+    {
+      "album": {
         "name": "Cham\u00e1n",
         "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
       },
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 177621,
       "name": "Lo Pude Lograr",
       "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"

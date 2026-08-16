@@ -618,7 +618,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 151021,
       "name": "Can't B Trusted",
       "url": "https://open.spotify.com/track/0cW1EfMD4CzcHmp5AY283A"
@@ -2270,6 +2270,28 @@
       "duration_ms": 218783,
       "name": "Pretty Brown (feat. Lil Baby & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/2okwe0FT7oR150QcIWde38"
+    },
+    {
+      "album": {
+        "name": "S.K.A.T.E.",
+        "url": "https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224137,
+      "name": "Promises (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4JfHLSkVCxcJOq0179Se7a"
     },
     {
       "album": {

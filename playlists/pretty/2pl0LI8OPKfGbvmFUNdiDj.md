@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,106 likes - 53 songs - 2 hr 57 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,109 likes - 54 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 51 | [Everyday Grind](https://open.spotify.com/track/5PvQKRMTzW4k0gEBzzuRdH) | [Mr Boswell Thomas](https://open.spotify.com/artist/2SQtBpZsYVYPybYXQQ1xQo), [Declaime](https://open.spotify.com/artist/0IWhrIU65vvKiggTlWKDZw), [Dudley Perkins](https://open.spotify.com/artist/08xLtQbGdIZfVfk6QTgYIW) | [Everyday Grind](https://open.spotify.com/album/4srqXN0EkNZEvnBkIDSlrK) | 2:46 |
 | 52 | [5 День](https://open.spotify.com/track/06mRNsQnoRr46AOj0CHBjb) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [5 День](https://open.spotify.com/album/0VJiRSvYM2RQORPHTO2UW6) | 1:54 |
 | 53 | [Falling](https://open.spotify.com/track/2HYhqNMPAn74OgyD8iTvsk) | [Twin Phase](https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q) | [Falling](https://open.spotify.com/album/6siMNfpjoJNPSGhKIJZwxr) | 2:27 |
+| 54 | [Do you like it that way](https://open.spotify.com/track/1znJonSXmxeTYceBuMgrix) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Do you like it that way](https://open.spotify.com/album/59YCENlsKrzYGrvRN5weKC) | 4:29 |
 
-Snapshot ID: `AAAEONmGY6wK+eVjPkBwL+YWGMTiOow1`
+Snapshot ID: `AAAEOdvHbSaLWF5l4Bz3vhVLePIZtKky`

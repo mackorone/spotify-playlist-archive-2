@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Phoebe Bridgers, Ronnie Flex & Lil Kleine, Ayra Starr, jet van der steen, Mart Hoogkamer en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,643 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,631 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 10 | [CHULA](https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 2:07 |
 | 11 | [Faded Eyes](https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Faded Eyes](https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE) | 2:57 |
 | 12 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
-| 13 | [Draaien](https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [DJBRITTNEYSGAT](https://open.spotify.com/artist/2gR2NUAeODffVXH8Bdcj0Z) | [Draaien](https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx) | 1:33 |
+| 13 | [Draaien](https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [DJBrittneySGAT](https://open.spotify.com/artist/2gR2NUAeODffVXH8Bdcj0Z) | [Draaien](https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx) | 1:33 |
 | 14 | [Ben Binnen](https://open.spotify.com/track/0HIusHq6F43gP0Wc0xgnK1) | [Veertien](https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0), [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Sanchoo](https://open.spotify.com/artist/7lDLBZDvWODgYSWYG9ZiBI) | [Ben Binnen](https://open.spotify.com/album/700vt7p4iv203FNrCDRPyj) | 2:48 |
 | 15 | [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 |
 | 16 | [Teveel Is Niet Genoeg](https://open.spotify.com/track/2yFAJ5JEKQ0msRjrYc7Fw3) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Teveel Is Niet Genoeg](https://open.spotify.com/album/3IcpCBmUs6zX19sMv9Xdgj) | 2:56 |

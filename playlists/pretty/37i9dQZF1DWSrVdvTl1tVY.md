@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,625 likes - 129 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,613 likes - 129 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 
 
-919 songs - 2 day 10 hr 1 min
+924 songs - 2 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Die Anywhere Else](https://open.spotify.com/track/4oCeMWwBmMmfAjGwSvrTa4) | [Alec Holowka](https://open.spotify.com/artist/2msAsizgFUJio7s8sgme16) | [Night in the Woods \(Original Soundtrack, Vol\. 1\) \[At the End of Everything\]](https://open.spotify.com/album/0f0tXQKGvvaYRsVZrzr4O8) | 2:24 | 2023-11-14 |  |
 | [Dine N'Dash](https://open.spotify.com/track/22a006OJm48zH87SkPpSVx) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 5:03 | 2026-08-10 |  |
 | [Disciples](https://open.spotify.com/track/2gNfxysfBRfl9Lvi9T3v6R) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 1:48 | 2024-01-17 |  |
+| [Disco Infiltrator](https://open.spotify.com/track/6omXPpAJH4ap2jMGPqjv0C) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 4:56 | 2026-08-15 |  |
 | [Do You Wanna Get High?](https://open.spotify.com/track/6JwesoWbzk5pjBi3gaMWjb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:27 | 2024-06-06 | 2026-03-03 |
 | [Don't Let Go](https://open.spotify.com/track/4EDN1wMNGoDyvkD6QlS8C1) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Don't Let Go](https://open.spotify.com/album/7dZ5Xwp3kmrd7nMpZKrXCM) | 2:40 | 2024-12-23 | 2025-05-29 |
 | [Don't Let Go](https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:59 | 2024-02-18 |  |
@@ -279,6 +280,7 @@
 | [Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:15 | 2024-03-27 |  |
 | [Gratisfaction](https://open.spotify.com/track/69YCkfZS0aOjEUPwQ4zCZ9) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 2:59 | 2024-06-29 |  |
 | [Gravity's Rainbow](https://open.spotify.com/track/3TRM61i04EmRRqx945pnB0) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:36 | 2026-03-07 |  |
+| [Great Release](https://open.spotify.com/track/4xJrlkbNajNQ5v7jEc4VbU) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 6:35 | 2026-08-15 |  |
 | [Guardians of Space](https://open.spotify.com/track/07qUbLgBYoCBmHaz7eSf4G) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Guardians of Space](https://open.spotify.com/album/2RjaGdSeoM9aSWMh5GAMfS) | 4:00 | 2026-03-12 |  |
 | [Gwen Everest](https://open.spotify.com/track/4KSRikZmMElVS5QzIkgeFj) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ferric Oxide \(Demos 1997 \- 2001\)](https://open.spotify.com/album/2XEgoiYtf35w31ZZm3isN0) | 1:07 | 2026-05-17 |  |
 | [Haiku](https://open.spotify.com/track/3xfVTbyfrJwPN9bqlXipmw) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:02 | 2024-05-22 | 2025-05-30 |
@@ -436,6 +438,7 @@
 | [Lonely in the Future](https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 3:20 | 2026-08-10 |  |
 | [Lonesome Cowboy Bill \- 2015 Remaster](https://open.spotify.com/track/6AzAWzsXXIChy2aulERrD0) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded \(2015 Remaster\)](https://open.spotify.com/album/4RMGrhJRnGiNqmKqhqpLlX) | 2:43 | 2024-07-11 |  |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2024-05-29 | 2025-10-10 |
+| [Losing My Edge](https://open.spotify.com/track/1XlDNpWy8dyEljyRd0RC2J) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 7:53 | 2026-08-15 |  |
 | [Lotus](https://open.spotify.com/track/09tyNbt7AVzBKHIRqaYhMm) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Blue Fairy](https://open.spotify.com/album/5KVrBZhszK5SXeLDmScFNZ) | 3:45 | 2026-05-15 |  |
 | [Love Explosion](https://open.spotify.com/track/1nrStYl6bxZHP8nVXy4IlO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:34 | 2024-04-10 |  |
 | [Love/Paranoia](https://open.spotify.com/track/5h9hkYIBWTZYFRmF6Iz1gt) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:05 | 2024-03-25 |  |
@@ -534,6 +537,7 @@
 | [On a Mission](https://open.spotify.com/track/5NUD9Te4zpqIj91B6dCiNf) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:06 | 2026-02-17 |  |
 | [On Division St](https://open.spotify.com/track/0gUJlYlu4cV90iyV2gTUmr) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk) | 3:14 | 2024-07-07 |  |
 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 | 2023-11-12 |  |
+| [On Repeat](https://open.spotify.com/track/64Ei3OCnT9OosQfjNz6enh) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 8:01 | 2026-08-15 |  |
 | [On the Other Side](https://open.spotify.com/track/6oqJLFTbJ6PkgPfU0Mtjix) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 4:36 | 2024-06-16 |  |
 | [On The Run](https://open.spotify.com/track/3ZwOmtR78B0pz0evGd9oVJ) | [//orangenoise](https://open.spotify.com/artist/6e9m9OMFmpzGzaMiLYXP6D) | [Veracious \(Remastered 2022\)](https://open.spotify.com/album/7dl6DMRiQE0UAPsTsZ7tSV) | 2:29 | 2026-05-18 |  |
 | [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM...FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 | 2023-11-14 | 2024-01-24 |
@@ -797,6 +801,7 @@
 | [This Night Has Opened My Eyes \- 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:41 | 2024-04-30 |  |
 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 | 2024-05-12 |  |
 | [Three Peaches](https://open.spotify.com/track/2rThKWZ73cHsfPZH8CCKef) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 4:01 | 2024-04-19 | 2024-04-24 |
+| [Thrills](https://open.spotify.com/track/3QpHWyCbyHifIQylnTp2ZQ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 3:42 | 2026-08-15 |  |
 | [Tied](https://open.spotify.com/track/7tI5tybhFugUbJXeLJIFSC) | [Makeout Reef](https://open.spotify.com/artist/39I2FHig6PNSj3ctNkxX9o) | [Star Power](https://open.spotify.com/album/728YaMJauikKmE5dRQwkTO) | 3:10 | 2025-09-06 |  |
 | [Time to Stop Talking](https://open.spotify.com/track/2XfMZU4qlTz5eCRc3Q03sp) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:37 | 2026-02-17 |  |
 | [To See the Next Part of the Dream](https://open.spotify.com/track/7Gi8tR6JoLx25QKa3ygICX) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO) | 5:07 | 2026-05-15 |  |

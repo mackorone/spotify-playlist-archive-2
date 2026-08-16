@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAAC2VnwddX6YFVPsqVDX+RKq",
+  "snapshot_id": "an5agAAAAAAlH7CtRJam2trbQvmvHxW1",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Hokkaido",
-      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
+      "duration_ms": 446000,
+      "name": "Nagoya",
+      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 446000,
-      "name": "Nagoya",
-      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
+      "duration_ms": 390000,
+      "name": "Hokkaido",
+      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
     },
     {
       "added_at": null,
@@ -428,38 +428,6 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Tokyo 1",
-      "url": "https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 384226,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cloud Time",
-        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
       "duration_ms": 435000,
       "name": "Each Story",
       "url": "https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J"
@@ -479,6 +447,38 @@
       "duration_ms": 369773,
       "name": "Rain",
       "url": "https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cloud Time",
+        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 610000,
+      "name": "Matsumoto",
+      "url": "https://open.spotify.com/track/59WgFlWjl0Wgt2D6BPY893"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 384226,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n"
     }
   ],
   "unique_name": "This Is Emily A. Sprague",

@@ -1925,6 +1925,28 @@
     },
     {
       "album": {
+        "name": "Andr\u00e9s Cepeda Big Band 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/0fHDVxeLaVosk2hNYpRoWz"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198803,
+      "name": "Las Pilanderas - En Vivo",
+      "url": "https://open.spotify.com/track/3VQbJ0qtQf1rfD9aTrupjP"
+    },
+    {
+      "album": {
         "name": "Celia y Willie",
         "url": "https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS"
       },
@@ -2424,7 +2446,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 272251,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"

@@ -1,13 +1,153 @@
 {
-  "description": "massive ass playlist but yk what else is massive",
+  "description": "yk what else is massive",
   "num_followers": 3,
-  "original_name": "omg its j dawg!",
+  "original_name": "\ud806\udcf2\ud835\udcf3",
   "owner": {
     "name": "julia",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAALlJnhNYLpxE2OVKfuzrd1fHxHlG9L",
+  "snapshot_id": "AAALtGCsHcZ5+7bBIk/c2a3QFtIfflMH",
   "tracks": [
+    {
+      "added_at": "2026-08-15 08:53:39",
+      "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "This Night Has Opened My Eyes - 2011 Remaster",
+      "url": "https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD"
+    },
+    {
+      "added_at": "2026-05-01 09:44:53",
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 117364,
+      "name": "Clearblue",
+      "url": "https://open.spotify.com/track/5IOucMoMeoBw64mEQ68MjE"
+    },
+    {
+      "added_at": "2026-08-13 04:57:09",
+      "album": {
+        "name": "Bridges To Babylon (Remastered)",
+        "url": "https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 314626,
+      "name": "Saint Of Me",
+      "url": "https://open.spotify.com/track/6OEpSYq8wdqnl01hsoQGQY"
+    },
+    {
+      "added_at": "2026-05-01 09:44:50",
+      "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 243238,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w"
+    },
+    {
+      "added_at": "2026-07-08 01:24:23",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 213355,
+      "name": "Underdressed at the Symphony",
+      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
+    },
+    {
+      "added_at": "2026-08-06 08:46:27",
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 294626,
+      "name": "We're In Love",
+      "url": "https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH"
+    },
+    {
+      "added_at": "2026-05-01 09:44:54",
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
+    },
+    {
+      "added_at": "2026-08-04 09:21:00",
+      "album": {
+        "name": "Before Bleu",
+        "url": "https://open.spotify.com/album/2R9Bi5esA82U43CdRA7Gey"
+      },
+      "artists": [
+        {
+          "name": "Zeke Bleu",
+          "url": "https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0"
+        }
+      ],
+      "duration_ms": 140423,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/1lkdJUFURp7fLygyNRBKWW"
+    },
     {
       "added_at": "2026-05-01 09:44:50",
       "album": {
@@ -723,22 +863,6 @@
       "duration_ms": 153387,
       "name": "B2b featuring tinashe",
       "url": "https://open.spotify.com/track/2xsvVV9DXvYtqXId9Uf2ra"
-    },
-    {
-      "added_at": "2026-05-01 09:44:50",
-      "album": {
-        "name": "Provider",
-        "url": "https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 243238,
-      "name": "Provider",
-      "url": "https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w"
     },
     {
       "added_at": "2026-05-01 09:44:50",
@@ -6927,22 +7051,6 @@
       "duration_ms": 164081,
       "name": "Locksmith",
       "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
-    },
-    {
-      "added_at": "2026-05-01 09:44:53",
-      "album": {
-        "name": "Virgin",
-        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 117364,
-      "name": "Clearblue",
-      "url": "https://open.spotify.com/track/5IOucMoMeoBw64mEQ68MjE"
     },
     {
       "added_at": "2026-05-01 09:44:53",
@@ -15271,22 +15379,6 @@
     {
       "added_at": "2026-05-01 09:44:54",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
-    },
-    {
-      "added_at": "2026-05-01 09:44:54",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -19381,22 +19473,6 @@
       "url": "https://open.spotify.com/track/4lJjVASVLA8m4RJUCD6MPL"
     },
     {
-      "added_at": "2026-07-08 01:24:23",
-      "album": {
-        "name": "Underdressed at the Symphony",
-        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 213355,
-      "name": "Underdressed at the Symphony",
-      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
-    },
-    {
       "added_at": "2026-07-08 01:30:07",
       "album": {
         "name": "benefits",
@@ -20861,22 +20937,6 @@
       "url": "https://open.spotify.com/track/21p9K1RiiIHSvfJeK2wwnF"
     },
     {
-      "added_at": "2026-08-04 09:21:00",
-      "album": {
-        "name": "Before Bleu",
-        "url": "https://open.spotify.com/album/2R9Bi5esA82U43CdRA7Gey"
-      },
-      "artists": [
-        {
-          "name": "Zeke Bleu",
-          "url": "https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0"
-        }
-      ],
-      "duration_ms": 140423,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/1lkdJUFURp7fLygyNRBKWW"
-    },
-    {
       "added_at": "2026-08-04 09:22:33",
       "album": {
         "name": "En Famille",
@@ -21091,34 +21151,6 @@
       "duration_ms": 212565,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu"
-    },
-    {
-      "added_at": "2026-08-06 08:46:27",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 294626,
-      "name": "We're In Love",
-      "url": "https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH"
     },
     {
       "added_at": "2026-08-06 08:50:56",
@@ -21573,22 +21605,6 @@
       "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
     },
     {
-      "added_at": "2026-08-13 04:57:09",
-      "album": {
-        "name": "Bridges To Babylon (Remastered)",
-        "url": "https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 314626,
-      "name": "Saint Of Me",
-      "url": "https://open.spotify.com/track/6OEpSYq8wdqnl01hsoQGQY"
-    },
-    {
       "added_at": "2026-08-13 05:03:17",
       "album": {
         "name": "The Beatles (Remastered)",
@@ -21807,8 +21823,856 @@
       "duration_ms": 223640,
       "name": "All Falls Down",
       "url": "https://open.spotify.com/track/6lUhpV6LjQ5uvcavlCutBF"
+    },
+    {
+      "added_at": "2026-08-16 00:02:01",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 315293,
+      "name": "Forgive Them Father",
+      "url": "https://open.spotify.com/track/2RPhXg9D4JOkryUznL0aaB"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Stark Sands",
+          "url": "https://open.spotify.com/artist/2qQFan5AqzA4zB443MZOl2"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 130157,
+      "name": "Larger Than Life",
+      "url": "https://open.spotify.com/track/3ycsduJ1DZ5vnl2U9A8FKu"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Stark Sands",
+          "url": "https://open.spotify.com/artist/2qQFan5AqzA4zB443MZOl2"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 103925,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/2TgOe34llQqTQS1HIPZmYu"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "\u2026Baby One More Time",
+      "url": "https://open.spotify.com/track/2hniyiR5o5mLiowBACVoiC"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Rachel Webb",
+          "url": "https://open.spotify.com/artist/0IDhfrKcVIzmvABwiTN01W"
+        },
+        {
+          "name": "Tiernan Tunnicliffe",
+          "url": "https://open.spotify.com/artist/4i9qYWLs8FSX5Law49pCYE"
+        },
+        {
+          "name": "Katy Geraghty",
+          "url": "https://open.spotify.com/artist/3AUXVo7uNYST6SufEBTaGV"
+        },
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Stark Sands",
+          "url": "https://open.spotify.com/artist/2qQFan5AqzA4zB443MZOl2"
+        },
+        {
+          "name": "Nicholas Edwards",
+          "url": "https://open.spotify.com/artist/3cjb5jdzfQL9LEowVSJ4Ef"
+        },
+        {
+          "name": "Veronica Otim",
+          "url": "https://open.spotify.com/artist/2VLaXY9zL6qMqUD522JD5f"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 123243,
+      "name": "Show Me the Meaning of Being Lonely",
+      "url": "https://open.spotify.com/track/7vU0NAlfLG4ceuDFPULdYb"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Justin David Sullivan",
+          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
+        },
+        {
+          "name": "Melanie La Barrie",
+          "url": "https://open.spotify.com/artist/6p7lYNRmV6EYMKrXfKvbGo"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 153524,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6IcwLTlFSvXUFpWPYdZao1"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Justin David Sullivan",
+          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
+        },
+        {
+          "name": "Melanie La Barrie",
+          "url": "https://open.spotify.com/artist/6p7lYNRmV6EYMKrXfKvbGo"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 171353,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/1ePpxYAwH0kiqntV6NfFHw"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Melanie La Barrie",
+          "url": "https://open.spotify.com/artist/6p7lYNRmV6EYMKrXfKvbGo"
+        },
+        {
+          "name": "Justin David Sullivan",
+          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
+        },
+        {
+          "name": "Nicholas Edwards",
+          "url": "https://open.spotify.com/artist/3cjb5jdzfQL9LEowVSJ4Ef"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 180145,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/44aU0TT339Li5AA4rARe8y"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Justin David Sullivan",
+          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        }
+      ],
+      "duration_ms": 204787,
+      "name": "I\u2019m Not a Girl, Not Yet a Woman",
+      "url": "https://open.spotify.com/track/3CL9onFqjkQ8nL6BJ0w5wb"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Philippe Arroyo",
+          "url": "https://open.spotify.com/artist/3gqKMI93MvrhTeUPVzTOoU"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        }
+      ],
+      "duration_ms": 73332,
+      "name": "Overprotected",
+      "url": "https://open.spotify.com/track/4vGrgxCVF5dSVclALYmjQ0"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Philippe Arroyo",
+          "url": "https://open.spotify.com/artist/3gqKMI93MvrhTeUPVzTOoU"
+        },
+        {
+          "name": "Melanie La Barrie",
+          "url": "https://open.spotify.com/artist/6p7lYNRmV6EYMKrXfKvbGo"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 195646,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/7HGRbJDO4vYwW9ITVPmJJ0"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Melanie La Barrie",
+          "url": "https://open.spotify.com/artist/6p7lYNRmV6EYMKrXfKvbGo"
+        },
+        {
+          "name": "Paulo Szot",
+          "url": "https://open.spotify.com/artist/1nCgUgcLfveHveZs50fVjq"
+        }
+      ],
+      "duration_ms": 189366,
+      "name": "Teenage Dream / Break Free",
+      "url": "https://open.spotify.com/track/6tbrU7uB2OtP5yN4C8hsMf"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Melanie La Barrie",
+          "url": "https://open.spotify.com/artist/6p7lYNRmV6EYMKrXfKvbGo"
+        }
+      ],
+      "duration_ms": 112959,
+      "name": "Oops!...I Did it Again",
+      "url": "https://open.spotify.com/track/0kxGFQSFoNZIdRxpmaRcHw"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Justin David Sullivan",
+          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
+        },
+        {
+          "name": "Philippe Arroyo",
+          "url": "https://open.spotify.com/artist/3gqKMI93MvrhTeUPVzTOoU"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 171357,
+      "name": "I Kissed A Girl",
+      "url": "https://open.spotify.com/track/7aU2Kh53aHUW0zIkI72NmE"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Ben Jackson Walker",
+          "url": "https://open.spotify.com/artist/67OZjftwF0fCk7EuCTYZ6Q"
+        },
+        {
+          "name": "Stark Sands",
+          "url": "https://open.spotify.com/artist/2qQFan5AqzA4zB443MZOl2"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Philippe Arroyo",
+          "url": "https://open.spotify.com/artist/3gqKMI93MvrhTeUPVzTOoU"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "It\u2019s My Life",
+      "url": "https://open.spotify.com/track/3TXfkxXBLM0x05qC9J4AD4"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Ben Jackson Walker",
+          "url": "https://open.spotify.com/artist/67OZjftwF0fCk7EuCTYZ6Q"
+        }
+      ],
+      "duration_ms": 67747,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/2phXBi0ugTZq5GI6dxZW7m"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 158111,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/33Psn9Le39Aqr0fhryNBBd"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Philippe Arroyo",
+          "url": "https://open.spotify.com/artist/3gqKMI93MvrhTeUPVzTOoU"
+        },
+        {
+          "name": "Justin David Sullivan",
+          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
+        }
+      ],
+      "duration_ms": 143308,
+      "name": "Whataya Want from Me",
+      "url": "https://open.spotify.com/track/7zyouSj7YXEEaB6cuC09ra"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Ben Jackson Walker",
+          "url": "https://open.spotify.com/artist/67OZjftwF0fCk7EuCTYZ6Q"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 195182,
+      "name": "One More Try",
+      "url": "https://open.spotify.com/track/2zYUnwU3yiobFeWmlb0TQy"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Ben Jackson Walker",
+          "url": "https://open.spotify.com/artist/67OZjftwF0fCk7EuCTYZ6Q"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 195544,
+      "name": "Problem / Can\u2019t Feel My Face",
+      "url": "https://open.spotify.com/track/15vkRjpiNKYte59cFfAzng"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        }
+      ],
+      "duration_ms": 209394,
+      "name": "That\u2019s the Way It Is",
+      "url": "https://open.spotify.com/track/4gpbXdxDIRmRnJccrjsXsh"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Philippe Arroyo",
+          "url": "https://open.spotify.com/artist/3gqKMI93MvrhTeUPVzTOoU"
+        },
+        {
+          "name": "Stark Sands",
+          "url": "https://open.spotify.com/artist/2qQFan5AqzA4zB443MZOl2"
+        },
+        {
+          "name": "Paulo Szot",
+          "url": "https://open.spotify.com/artist/1nCgUgcLfveHveZs50fVjq"
+        },
+        {
+          "name": "Justin David Sullivan",
+          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
+        },
+        {
+          "name": "Ben Jackson Walker",
+          "url": "https://open.spotify.com/artist/67OZjftwF0fCk7EuCTYZ6Q"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 143978,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/3Lb6qMqMdAycHsbHBkRyg5"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Philippe Arroyo",
+          "url": "https://open.spotify.com/artist/3gqKMI93MvrhTeUPVzTOoU"
+        }
+      ],
+      "duration_ms": 81523,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/5BS2GYuO5E3RcvDhZREeQt"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Philippe Arroyo",
+          "url": "https://open.spotify.com/artist/3gqKMI93MvrhTeUPVzTOoU"
+        },
+        {
+          "name": "Justin David Sullivan",
+          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
+        }
+      ],
+      "duration_ms": 41542,
+      "name": "It\u2019s Gonna Be Me",
+      "url": "https://open.spotify.com/track/6qG2glik6KcB2b708sAw8b"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        }
+      ],
+      "duration_ms": 109876,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/6bLIKRvpBOSllZ83419SIE"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Paulo Szot",
+          "url": "https://open.spotify.com/artist/1nCgUgcLfveHveZs50fVjq"
+        },
+        {
+          "name": "Philippe Arroyo",
+          "url": "https://open.spotify.com/artist/3gqKMI93MvrhTeUPVzTOoU"
+        },
+        {
+          "name": "Justin David Sullivan",
+          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
+        }
+      ],
+      "duration_ms": 137445,
+      "name": "Shape of My Heart",
+      "url": "https://open.spotify.com/track/28yALIA3sjJME2sO3UZ7l2"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Melanie La Barrie",
+          "url": "https://open.spotify.com/artist/6p7lYNRmV6EYMKrXfKvbGo"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 82021,
+      "name": "Fuckin\u2019 Perfect",
+      "url": "https://open.spotify.com/track/5eWPgtI4PfK1Q0hCIO0PUj"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 216436,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/4ffhooJFPatL5msqh6F5Fa"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Stark Sands",
+          "url": "https://open.spotify.com/artist/2qQFan5AqzA4zB443MZOl2"
+        },
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        },
+        {
+          "name": "Ben Jackson Walker",
+          "url": "https://open.spotify.com/artist/67OZjftwF0fCk7EuCTYZ6Q"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 160221,
+      "name": "I Want It That Way (Reprise)",
+      "url": "https://open.spotify.com/track/2WXOlQ83wZkfzUKZoCEPzj"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Stark Sands",
+          "url": "https://open.spotify.com/artist/2qQFan5AqzA4zB443MZOl2"
+        },
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Original Broadway Cast of & Juliet",
+          "url": "https://open.spotify.com/artist/07KKf6qOxhTzgGir1mTOMo"
+        }
+      ],
+      "duration_ms": 113815,
+      "name": "CAN\u2019T STOP THE FEELING!",
+      "url": "https://open.spotify.com/track/61xaclre5j18KBTizgQlVQ"
+    },
+    {
+      "added_at": "2026-08-15 12:14:11",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        }
+      ],
+      "duration_ms": 169670,
+      "name": "Since U Been Gone - Juliet\u2019s Version",
+      "url": "https://open.spotify.com/track/1ADlPE9dCt0Gajze5L7a75"
+    },
+    {
+      "added_at": "2026-08-16 00:11:47",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 314706,
+      "name": "Every Ghetto, Every City",
+      "url": "https://open.spotify.com/track/6ioEEcJzOpLyIO6Dgn1RYS"
+    },
+    {
+      "added_at": "2026-08-16 00:11:53",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 350533,
+      "name": "Nothing Even Matters (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
+    },
+    {
+      "added_at": "2026-08-16 00:18:45",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 293266,
+      "name": "Everything Is Everything",
+      "url": "https://open.spotify.com/track/7t86fVeDAd63ThaR0ZkxXS"
+    },
+    {
+      "added_at": "2026-08-16 00:25:48",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "The Miseducation of Lauryn Hill",
+      "url": "https://open.spotify.com/track/12Y1GaS44vga0G3rUtjFAY"
+    },
+    {
+      "added_at": "2026-08-16 00:28:23",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Can't Take My Eyes Off of You - (I Love You Baby)",
+      "url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt"
+    },
+    {
+      "added_at": "2026-08-16 00:33:15",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
     }
   ],
-  "unique_name": "omg its j dawg!",
+  "unique_name": "\ud806\udcf2\ud835\udcf3",
   "url": "https://open.spotify.com/playlist/1UDtZQ2RZtGRjPy7PCzuzA"
 }

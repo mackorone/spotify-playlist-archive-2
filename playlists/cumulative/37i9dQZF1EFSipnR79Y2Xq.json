@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Gravedad",
+        "url": "https://open.spotify.com/album/2OwsYFE6lN5idbIGI8eFSg"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199733,
+      "name": "El Migajero",
+      "url": "https://open.spotify.com/track/0ie7ujONjpBeKcDs8VoaNW"
+    },
+    {
+      "album": {
         "name": "Medio Borracho",
         "url": "https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc"
       },

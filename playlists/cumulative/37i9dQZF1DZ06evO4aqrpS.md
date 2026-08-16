@@ -4,7 +4,7 @@
 
 > This is Silvana Estrada\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 52 min
+49 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Amor Eterno](https://open.spotify.com/track/3kdehL0pJZJUhPbKXBx9K6) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/5a2ZqCTgZSVfV38Yhn093K) | 5:33 | 2026-03-20 |  |
 | [Antes De Ti](https://open.spotify.com/track/6TXz1UlA506DmViur6o8o5) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/6JiWQWTacqRsUBxXRdlffm) | 2:56 | 2026-06-07 |  |
 | [Antes De Ti](https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF) | 2:56 | 2026-05-10 | 2026-06-07 |
-| [Aquí](https://open.spotify.com/track/4qB0bNvfGcS85OOaa32Qo0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo \(Extendido\)](https://open.spotify.com/album/4R0hHeF1UxfCfKsBi9siBM) | 2:52 | 2026-03-20 |  |
+| [Aquí](https://open.spotify.com/track/4qB0bNvfGcS85OOaa32Qo0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo \(Extendido\)](https://open.spotify.com/album/4R0hHeF1UxfCfKsBi9siBM) | 2:52 | 2026-03-20 | 2026-08-16 |
+| [Aquí](https://open.spotify.com/track/6Dl4YchtNJFRswO95gyZMl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh) | 2:52 | 2026-08-16 |  |
 | [Brindo](https://open.spotify.com/track/5hPCcl7zLURnhKU1myysEq) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5L5R2hZwnVfJxegcskK5n6) | 3:18 | 2026-03-20 |  |
 | [Cada Día Te Extraño Menos](https://open.spotify.com/track/4T8i5In6BRejd70ekFFgi2) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:34 | 2026-03-20 |  |
 | [Carta](https://open.spotify.com/track/18Blt113OMVGgPhkoOdBNX) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y) | 3:24 | 2026-03-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 12249,
+  "num_followers": 12254,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAADeR3An9JmlsM2Wns1GcV0H",
+  "snapshot_id": "an5agAAAAABIBGI/KTYlWRtEK/mrTmIi",
   "tracks": [
     {
       "added_at": null,
@@ -515,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/5H1XqTWtsDPC2xdb67jHLA"
+        "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
+        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
       "artists": [
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        },
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 192730,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/1Ob938FnCrnj2f2EMGw6Sy"
+      "duration_ms": 197474,
+      "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
+      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
     },
     {
       "added_at": null,
@@ -547,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
-        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/5H1XqTWtsDPC2xdb67jHLA"
       },
       "artists": [
-        {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        },
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 197474,
-      "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
-      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
+      "duration_ms": 192730,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1Ob938FnCrnj2f2EMGw6Sy"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 235047,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
+      "duration_ms": 242811,
+      "name": "Carry",
+      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 242811,
-      "name": "Carry",
-      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
+      "duration_ms": 235047,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
     },
     {
       "added_at": null,

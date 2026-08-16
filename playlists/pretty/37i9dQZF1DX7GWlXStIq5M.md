@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Vitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,841 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,806 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 69 | [Noites de Neon](https://open.spotify.com/track/427JHB9CmpmxSten7B2isW) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Ecos do Desejo](https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C) | 2:26 |
 | 70 | [Vida Não Termina](https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi) | [Pinotti](https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x), [Helena Serena](https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4) | [Vida Não Termina](https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss) | 3:05 |
 
-Snapshot ID: `AAAAAOZsUOSj4JBXz8EK+UfkLi7+F6bf`
+Snapshot ID: `AAAAAOW9RFJc60jRWts7y1DbeDuxL7df`

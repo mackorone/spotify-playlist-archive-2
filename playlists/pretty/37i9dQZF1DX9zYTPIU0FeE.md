@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Linda Sikhakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,499 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,500 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 59 | [Africa](https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP) | [Lucas Senyatso](https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy) | [Africa](https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E) | 3:56 |
 | 60 | [Air](https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [A Semblance: Of Return](https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl) | 6:33 |
 
-Snapshot ID: `AAAAAG7n9yznPBfh6jwpsrZQCnleQCjI`
+Snapshot ID: `AAAAAJ2jOzqkkuZXf8R3t2Etd/lhAHgo`

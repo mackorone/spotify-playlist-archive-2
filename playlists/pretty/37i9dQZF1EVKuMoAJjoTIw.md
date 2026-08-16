@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIViYkelREWYq>Surf Curse</a>, <a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIXiKcKm21cbI>Pearl Jam</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIYMvS0ATLpnT>The Smiths</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
-| 2 | [The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:54 |
-| 3 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 |
+| 1 | [Black](https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:42 |
+| 2 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 |
+| 3 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 |
 | 4 | [Life is Beautiful](https://open.spotify.com/track/5rYpwP1dHWGVMrSZbTmt3e) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:27 |
 | 5 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
 | 6 | [Im Doing Fine](https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG) | [Im Doing Fine](https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb) | 1:39 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 35 | [Paranoie](https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Io Sono](https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK) | 2:43 |
 | 36 | [Midnight Thoughts](https://open.spotify.com/track/2lbl6RWx8acFsyvYcasK0H) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Midnight Thoughts](https://open.spotify.com/album/3ODCSQwtxXdSYXkWovDdTb) | 2:04 |
 | 37 | [WHO I AM](https://open.spotify.com/track/06rpIOxnQoXUAcJHBV0u3k) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [WHO I AM](https://open.spotify.com/album/025DsQ1VwWqpqavTpyXnkd) | 2:30 |
-| 38 | [Pensando en Ti](https://open.spotify.com/track/69pVdg4uAzb5Zvtj1UogPH) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Vida](https://open.spotify.com/album/3C7BcxFvWDqoso5Z2mNTim) | 4:04 |
-| 39 | [starcrossed girl](https://open.spotify.com/track/0rJ9ON5rJZMUb3jn8PidOX) | [Josiah MacCartney](https://open.spotify.com/artist/6Wm8af6tWJ7XAJ1poDozwY), [SadSky](https://open.spotify.com/artist/2ooLhcOE3idTK2H1rRrcGl) | [starcrossed girl](https://open.spotify.com/album/00OwCcHsBOjWMiJx5ltVp6) | 2:32 |
+| 38 | [starcrossed girl](https://open.spotify.com/track/0rJ9ON5rJZMUb3jn8PidOX) | [Josiah MacCartney](https://open.spotify.com/artist/6Wm8af6tWJ7XAJ1poDozwY), [SadSky](https://open.spotify.com/artist/2ooLhcOE3idTK2H1rRrcGl) | [starcrossed girl](https://open.spotify.com/album/00OwCcHsBOjWMiJx5ltVp6) | 2:32 |
+| 39 | [Pensando en Ti](https://open.spotify.com/track/69pVdg4uAzb5Zvtj1UogPH) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Vida](https://open.spotify.com/album/3C7BcxFvWDqoso5Z2mNTim) | 4:04 |
 | 40 | [Hate Me!](https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 2:34 |
 | 41 | [Guardian angel](https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:48 |
 | 42 | [SE NON PROVO DOLORE](https://open.spotify.com/track/7kycm3mVY7yaNOtgiAK6lr) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [L'AMORE](https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG) | 2:43 |
 | 43 | [CRUDELIA \- I nervi](https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:50 |
-| 44 | [TI DIREI](https://open.spotify.com/track/5RlANDmPsPHSkYHFzchhIt) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [OUTSIDER](https://open.spotify.com/album/2YrxUX2oROEmzhkfZ2K8ry) | 2:52 |
+| 44 | [Forever Pt 2](https://open.spotify.com/track/3cKVNQhEJp4STGjP9lFiFT) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Forever Pt 2](https://open.spotify.com/album/5eGUQ1IFjXcZ6oJvopDigO) | 2:48 |
 | 45 | [I DONT WANNA BE HERE](https://open.spotify.com/track/0arakLpzowyd8DmwJmUpoU) | [Nazaki](https://open.spotify.com/artist/7aqJh5lYNqyju23ZyXdZkx), [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO) | [I DONT WANNA BE HERE](https://open.spotify.com/album/2AIUvtAWQJpJ3DPKvfI835) | 2:19 |
-| 46 | [Forever Pt 2](https://open.spotify.com/track/3cKVNQhEJp4STGjP9lFiFT) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Forever Pt 2](https://open.spotify.com/album/5eGUQ1IFjXcZ6oJvopDigO) | 2:48 |
-| 47 | [We Did Not Make Sense](https://open.spotify.com/track/5WPbkilyXspX1yiKAiR1oO) | [Presence](https://open.spotify.com/artist/1Pq3b64hsWb48FjFPfV5aq) | [We Did Not Make Sense](https://open.spotify.com/album/7FeLnnaPF56dWm4q7ZROjs) | 3:08 |
+| 46 | [TI DIREI](https://open.spotify.com/track/5RlANDmPsPHSkYHFzchhIt) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [OUTSIDER](https://open.spotify.com/album/2YrxUX2oROEmzhkfZ2K8ry) | 2:52 |
+| 47 | [In My Head](https://open.spotify.com/track/59AEmrpkoQGktLys9FsDPF) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [Luvjools](https://open.spotify.com/artist/0sfP34rNWdSv3w5k6k6jS7) | [In My Head](https://open.spotify.com/album/3dHS3sKI04qZeehGCf2JyB) | 3:15 |
 | 48 | [Le tre di notte](https://open.spotify.com/track/3VX4Sh9oLOHD6Nm9v7ohgC) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [The Illest, Vol\. 2](https://open.spotify.com/album/5bBmBTQgEZiu3FS4TWeq1e) | 3:02 |
-| 49 | [In My Head](https://open.spotify.com/track/59AEmrpkoQGktLys9FsDPF) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [Luvjools](https://open.spotify.com/artist/0sfP34rNWdSv3w5k6k6jS7) | [In My Head](https://open.spotify.com/album/3dHS3sKI04qZeehGCf2JyB) | 3:15 |
+| 49 | [We Did Not Make Sense](https://open.spotify.com/track/5WPbkilyXspX1yiKAiR1oO) | [Presence](https://open.spotify.com/artist/1Pq3b64hsWb48FjFPfV5aq) | [We Did Not Make Sense](https://open.spotify.com/album/7FeLnnaPF56dWm4q7ZROjs) | 3:08 |
 | 50 | [La Traición](https://open.spotify.com/track/3SKgnUvPlRjiWABlDbdcju) | [Danuzko](https://open.spotify.com/artist/3yzU06DNvnlsnDRng7BFxm) | [La Traición](https://open.spotify.com/album/0qhHZ5QNNJqVUYPybyDtmi) | 2:51 |
 
 Snapshot ID: `AAAAAEY/X4aWMPD5luDLZmWKciSOehtq`

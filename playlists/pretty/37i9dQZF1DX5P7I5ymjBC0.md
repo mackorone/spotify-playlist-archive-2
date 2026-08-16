@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,813 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,834 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/track/2yjfILYBWMiMFFZEie0nH3) | [Taufiq Qureshi](https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/album/1AVJRAtklKdSeNhrxpQzMJ) | 3:48 |
 | 50 | [Mystical Yearning](https://open.spotify.com/track/20rlTK4OGzb4mAYWfmjTCW) | [Dhruvv Bhattacharya](https://open.spotify.com/artist/2GLlCKPLjGGvpuSoo8wIvW) | [Mystical Yearning](https://open.spotify.com/album/46hcksddcEHBzH3SoQLWib) | 4:38 |
 
-Snapshot ID: `AAAAAN0031mnJZNXyDqrQlKZ7PaevOyG`
+Snapshot ID: `AAAAADOpMCVOvMbLf4a038ONV0Rqu3t5`

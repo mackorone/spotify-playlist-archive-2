@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 320 songs - 20 hr 27 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 323 songs - 20 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -328,5 +328,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 318 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/6dc1efEhnYMzVwz05VY4ZP) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:10 |
 | 319 | [My Way](https://open.spotify.com/track/2j91CgtRZJ4Jobg2LGyrS8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Purple City Matrix](https://open.spotify.com/album/6Wvkkih58R1C7HCrdoPW9E) | 3:28 |
 | 320 | [yoshi's island](https://open.spotify.com/track/1FYeOxFvEOzPT2hk4kzSDN) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/113M3j7mkEpg5TUgXJDS79) | 6:18 |
+| 321 | [Another Wave \(feat\. Shad Da God & Duke\)](https://open.spotify.com/track/59Whq4nWsrKSoLQpl6GDZa) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT), [Shad Da God](https://open.spotify.com/artist/2z1ZZSBRCNYjOZmUcA3rSQ) | [Drip Season 2](https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ) | 2:53 |
+| 322 | [1st Time \(feat\. Talib Kweli\)](https://open.spotify.com/track/2CZfcW6PIhgHKXNhvvMNXI) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Movies on Demand 2](https://open.spotify.com/album/1bEiqvJthWswKYMmqVX5fi) | 3:27 |
+| 323 | [Steppin Out](https://open.spotify.com/track/4iw9biJplthfCNgkJBa1Wc) | [Big Gipp](https://open.spotify.com/artist/7e36DF0IaZI4JXfIf95ppT) | [Mutant Mindframe](https://open.spotify.com/album/0mKl7kr8rXXT7NyBYJAsFk) | 4:34 |
 
-Snapshot ID: `AAAgpEDshVca/MShs3hXkFY5adwb0LCa`
+Snapshot ID: `AAAgp5cCepmhHeKlXyyGnMem41TzIwVK`

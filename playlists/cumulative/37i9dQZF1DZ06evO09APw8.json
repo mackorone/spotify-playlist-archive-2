@@ -202,7 +202,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 140892,
       "name": "Could Be Worse",
       "url": "https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 202971,
       "name": "Moments After",
       "url": "https://open.spotify.com/track/5DrPVWMUapjGznorkXTi24"
@@ -856,6 +856,28 @@
       "duration_ms": 234809,
       "name": "PLW",
       "url": "https://open.spotify.com/track/6IWCYw5tcnEZfX5HPa8O5Z"
+    },
+    {
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144270,
+      "name": "Pressure (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
     },
     {
       "album": {
@@ -1224,6 +1246,32 @@
       "duration_ms": 283313,
       "name": "Until The End Of Time",
       "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
+    },
+    {
+      "album": {
+        "name": "Vibe With Me (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4QcWnqjIYlUy5EATXmKROm"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231020,
+      "name": "Vibe With Me (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/693LQJYRGgnWWPYoD1XtWw"
     },
     {
       "album": {

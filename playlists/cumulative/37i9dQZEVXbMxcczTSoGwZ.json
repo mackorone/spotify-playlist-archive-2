@@ -350,7 +350,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "112",
       "url": "https://open.spotify.com/track/7huJK8mp1FdJxmII15POPN"
@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 175970,
       "name": "Alcoholic",
       "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
@@ -3030,6 +3030,28 @@
       "duration_ms": 137269,
       "name": "Ankeet tanssiaiset",
       "url": "https://open.spotify.com/track/2ZmVdWCM1jnwYFzaipAsQ2"
+    },
+    {
+      "album": {
+        "name": "Trapskelm\u00e4",
+        "url": "https://open.spotify.com/album/1q5KbSiezzQjQyE5lfIpFe"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168267,
+      "name": "Anna Aikaa",
+      "url": "https://open.spotify.com/track/52LOSyYuFWS6PnKHkWQds1"
     },
     {
       "album": {
@@ -4757,6 +4779,24 @@
     },
     {
       "album": {
+        "name": "TREMPHIS",
+        "url": "https://open.spotify.com/album/1TYt6p9zXHC72nOZyhRfRX"
+      },
+      "artists": [
+        {
+          "name": "uu$er",
+          "url": "https://open.spotify.com/artist/6gjoxzAPNFDOiBp7UcJTNS"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "BANDOLEERO",
+      "url": "https://open.spotify.com/track/2nWKmKTGox568LLVJXU83Q"
+    },
+    {
+      "album": {
         "name": "Bangaranga",
         "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
       },
@@ -5216,7 +5256,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 150000,
       "name": "Best For You",
       "url": "https://open.spotify.com/track/6wtE2YHOjHTn8MvE0lFJzM"
@@ -10445,6 +10485,24 @@
     },
     {
       "album": {
+        "name": "Ei kukaan",
+        "url": "https://open.spotify.com/album/1ytPUwErqdMRGX0zbqIEBc"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "Ei kukaan",
+      "url": "https://open.spotify.com/track/17OL3ERGH57wkqqarF9tGI"
+    },
+    {
+      "album": {
         "name": "Ei kukaan muu",
         "url": "https://open.spotify.com/album/2Cwhc4CrHipYpHvODSEjlj"
       },
@@ -11491,6 +11549,24 @@
     },
     {
       "album": {
+        "name": "Trapskelm\u00e4",
+        "url": "https://open.spotify.com/album/1q5KbSiezzQjQyE5lfIpFe"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182771,
+      "name": "El\u00e4m\u00e4\u00e4 Suurempaa",
+      "url": "https://open.spotify.com/track/3ylGYSOBPz76HxcOtsu0LK"
+    },
+    {
+      "album": {
         "name": "El\u00e4m\u00e4\u00e4 Suurempaa",
         "url": "https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK"
       },
@@ -12510,6 +12586,24 @@
       "duration_ms": 198500,
       "name": "Et ollut se",
       "url": "https://open.spotify.com/track/5Ed7CNCkwXVFyoH7K5pRx9"
+    },
+    {
+      "album": {
+        "name": "Trapskelm\u00e4",
+        "url": "https://open.spotify.com/album/1q5KbSiezzQjQyE5lfIpFe"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156438,
+      "name": "Eteenp\u00e4in",
+      "url": "https://open.spotify.com/track/30Itqg49wS8y861lBzFqYI"
     },
     {
       "album": {
@@ -17518,6 +17612,24 @@
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140720,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
     },
     {
       "album": {
@@ -26892,7 +27004,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 177726,
       "name": "Kuka hitto sen p\u00e4\u00e4tt\u00e4\u00e4",
       "url": "https://open.spotify.com/track/5SOhO09jdZcXWq1FEvHGwJ"
@@ -27250,7 +27362,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 331560,
       "name": "Kun Olet Poissa - Remastered",
       "url": "https://open.spotify.com/track/6bwHr2vU0RE9yuxysZIanB"
@@ -28988,7 +29100,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 180000,
       "name": "Latu on auki",
       "url": "https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS"
@@ -31204,7 +31316,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -31422,6 +31534,24 @@
       "duration_ms": 189189,
       "name": "L\u00e4het\u00e4\u00e4n menee",
       "url": "https://open.spotify.com/track/5w5EEBseWfDwZpexgqmTsI"
+    },
+    {
+      "album": {
+        "name": "Trapskelm\u00e4",
+        "url": "https://open.spotify.com/album/1q5KbSiezzQjQyE5lfIpFe"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165079,
+      "name": "L\u00e4hikuppila",
+      "url": "https://open.spotify.com/track/3p3s1YoDEcZnxu0YVD3EN8"
     },
     {
       "album": {
@@ -35881,6 +36011,32 @@
     },
     {
       "album": {
+        "name": "Trapskelm\u00e4",
+        "url": "https://open.spotify.com/album/1q5KbSiezzQjQyE5lfIpFe"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        },
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186628,
+      "name": "MMG",
+      "url": "https://open.spotify.com/track/3dZ14qay0s8nSAweZ4oylK"
+    },
+    {
+      "album": {
         "name": "MMG",
         "url": "https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW"
       },
@@ -37206,7 +37362,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 202280,
       "name": "Murheellisten Laulujen Maa - Remastered",
       "url": "https://open.spotify.com/track/1Ee3aKyJogqz9kKrXesW0E"
@@ -40884,7 +41040,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 203253,
       "name": "Onko jossain",
       "url": "https://open.spotify.com/track/0INrYZEDtgLuzUuRKBSWAY"
@@ -47403,6 +47559,24 @@
     },
     {
       "album": {
+        "name": "Trapskelm\u00e4",
+        "url": "https://open.spotify.com/album/1q5KbSiezzQjQyE5lfIpFe"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169465,
+      "name": "Risteyksess\u00e4",
+      "url": "https://open.spotify.com/track/39yDdP3WwNwueB4uIeTpcp"
+    },
+    {
+      "album": {
         "name": "Rivariunelmii (feat. Erika Vikman) [Vain el\u00e4m\u00e4\u00e4 kausi 12]",
         "url": "https://open.spotify.com/album/4cKD6GcON0JrXtrcJGpqys"
       },
@@ -53234,7 +53408,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 330813,
       "name": "Suolaista Sadetta - Remastered",
       "url": "https://open.spotify.com/track/2GZhZ6han4VdcPlyEqQuwH"
@@ -55054,7 +55228,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 198000,
       "name": "Tahdon",
       "url": "https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae"
@@ -57514,7 +57688,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 163777,
       "name": "Toivottavasti",
       "url": "https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX"
@@ -57992,6 +58166,24 @@
       "duration_ms": 147304,
       "name": "Trap Queen",
       "url": "https://open.spotify.com/track/5FDmZWWDKd875GWf7v6sOd"
+    },
+    {
+      "album": {
+        "name": "Trapskelm\u00e4",
+        "url": "https://open.spotify.com/album/1q5KbSiezzQjQyE5lfIpFe"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181857,
+      "name": "Trapskelm\u00e4kuningas",
+      "url": "https://open.spotify.com/track/4iodDWdrLR5Zm0R0YiVZsq"
     },
     {
       "album": {
@@ -61152,7 +61344,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 256253,
       "name": "Valokuvia",
       "url": "https://open.spotify.com/track/2zxuFXbIvsH7v9zVyEA43D"
@@ -61170,10 +61362,28 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 132639,
       "name": "Valokuvii",
       "url": "https://open.spotify.com/track/0Xkj74WLJl5jfOKIvhmRe9"
+    },
+    {
+      "album": {
+        "name": "Trapskelm\u00e4",
+        "url": "https://open.spotify.com/album/1q5KbSiezzQjQyE5lfIpFe"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132639,
+      "name": "Valokuvii",
+      "url": "https://open.spotify.com/track/4b1K40TOCbxPLaeSJhrPcG"
     },
     {
       "album": {
@@ -62644,7 +62854,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 250040,
       "name": "Vihre\u00e4n Joen Rannalla (Kauan Sitten) - Remastered",
       "url": "https://open.spotify.com/track/5FMaN1xGy6GR23IJuqbrwf"

@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 305765,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/4lQfnSLKKSKlep9ASNoTbo"
@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -5698,6 +5698,24 @@
       "duration_ms": 163504,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ"
+    },
+    {
+      "album": {
+        "name": "Best Friends",
+        "url": "https://open.spotify.com/album/2jf5kVVZ6JIqZYvdt6vdVJ"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143880,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/3fbp3OvNkSeKrBW12F0tCm"
     },
     {
       "album": {
@@ -10510,7 +10528,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 288670,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj"
@@ -10528,7 +10546,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 278080,
       "name": "Dancing On My Own - Radio Edit",
       "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
@@ -14010,7 +14028,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -23332,6 +23350,24 @@
       "duration_ms": 144890,
       "name": "Hoodrich",
       "url": "https://open.spotify.com/track/5o9ZvJGrZrw4iZVRsLW4cr"
+    },
+    {
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140720,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
     },
     {
       "album": {
@@ -49635,6 +49671,36 @@
     },
     {
       "album": {
+        "name": "S\u00e5 l\u00e4nge som mitt hj\u00e4rta sl\u00e5r (feat Jimmie \u00c5kesson)",
+        "url": "https://open.spotify.com/album/3b81zxISEBDyw4Ebty81kv"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "\u00c5kezzonz",
+          "url": "https://open.spotify.com/artist/7mqZySJU1vXhsVmq9dr6Ws"
+        },
+        {
+          "name": "Jimmie \u00c5kesson",
+          "url": "https://open.spotify.com/artist/3xFyZZuGM1nA4mLQuffndN"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "S\u00e5 l\u00e4nge som mitt hj\u00e4rta sl\u00e5r (feat Jimmie \u00c5kesson)",
+      "url": "https://open.spotify.com/track/6BwhApp1qW8t3WLw1aN2Mc"
+    },
+    {
+      "album": {
         "name": "Jul, jul, str\u00e5lande jul",
         "url": "https://open.spotify.com/album/2ncexApo2JCap2lz62A9Ax"
       },
@@ -50158,7 +50224,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 242320,
       "name": "Tandtr\u00e5d",
       "url": "https://open.spotify.com/track/1K2a8QcaPTDTZ1e4M0s8gQ"
@@ -58908,7 +58974,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 202011,
       "name": "\u00c4r det h\u00e4r det \u00e4r party",
       "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"

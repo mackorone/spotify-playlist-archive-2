@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4988899,
+  "num_followers": 4989003,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAABg9zxcu3swd/Zi1pXYcWWs",
+  "snapshot_id": "an5agAAAAAB1B6ql0j7qvPyOO4WwKBgF",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+        "name": "Hot Space (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MJwdeBTZ5V4PZtFh4gaQ6"
       },
       "artists": [
         {
@@ -281,8 +281,8 @@
         }
       ],
       "duration_ms": 209106,
-      "name": "Cool Cat - Remastered 2011",
-      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
+      "name": "Cool Cat",
+      "url": "https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Works (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 248705,
-      "name": "It's A Hard Life",
-      "url": "https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Miracle",
         "url": "https://open.spotify.com/album/4Ck0kT7cw6fXjFVBL3DODw"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 248386,
       "name": "Breakthru",
       "url": "https://open.spotify.com/track/1ndfs8LA7ss6kNNQ8itvUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Works (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 248705,
+      "name": "It's A Hard Life",
+      "url": "https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innuendo",
-        "url": "https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 278271,
-      "name": "Headlong",
-      "url": "https://open.spotify.com/track/1dDtAKhoIhOGDO9mV5kNwX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "News Of The World",
         "url": "https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 274211,
       "name": "Spread Your Wings",
       "url": "https://open.spotify.com/track/7sk3xGIhSoDz7sCwoaFTqn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Innuendo",
+        "url": "https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 278271,
+      "name": "Headlong",
+      "url": "https://open.spotify.com/track/1dDtAKhoIhOGDO9mV5kNwX"
     },
     {
       "added_at": null,

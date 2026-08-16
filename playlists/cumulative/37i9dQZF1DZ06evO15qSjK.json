@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 195692,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/2sJc3ugnMMMxyif6RJRn5H"
@@ -1496,6 +1496,24 @@
       "duration_ms": 213144,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/3bsecwjX5nHQQE21IQWyR0"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 54",
+        "url": "https://open.spotify.com/album/5RwCNophFbxHCdH6igEalw"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177420,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/1ne9bWXrCx4Smc1WZQXH0C"
     },
     {
       "album": {

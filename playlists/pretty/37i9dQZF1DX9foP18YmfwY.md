@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,403 likes - 70 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,440 likes - 70 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
 | 70 | [Sim É Teu Meu Coração](https://open.spotify.com/track/5Z2CtDh4chrWbpBDhgPRoG) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Danúbia M.J](https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR) | [Sim É Teu Meu Coração](https://open.spotify.com/album/15RU1iiVt9YqZnCPz8Z3Hv) | 4:06 |
 
-Snapshot ID: `AAAAABRL3tWscPEp0xZMn5kfUbseg3I9`
+Snapshot ID: `AAAAAJNtcN2TOBlwFH3okSMDaVm5sUpV`

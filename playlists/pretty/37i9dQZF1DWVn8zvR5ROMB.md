@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Hudson Westbrook, Jordan Davis, Little Big Town with Kelsea Ballerini and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,066 likes - 89 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,141 likes - 89 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 26 | [Emergency Contact](https://open.spotify.com/track/2nEdwtjC2n4zbzhxqgTApl) | [Just Jayne](https://open.spotify.com/artist/1ru5TgKifGAHTGB5mr4OxE) | [Jayne](https://open.spotify.com/album/109wveCe51vgpor0PCmQ5D) | 3:21 |
 | 27 | [Long List of Exes](https://open.spotify.com/track/1pzaWQHlHeOHqL67KGtFef) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Long List of Exes](https://open.spotify.com/album/1gK5h1kdWLSieY0DHLt2jP) | 3:16 |
 | 28 | [Places to Fall](https://open.spotify.com/track/15wByJYY0HgQpx47Lt3bTr) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Places to Fall](https://open.spotify.com/album/5wX9nlXuYqsL9iu23wusEp) | 2:25 |
-| 29 | [Does Your GF Know We Kissed](https://open.spotify.com/track/6ycD07J6DgV7PnARl08ETX) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Does Your GF Know We Kissed](https://open.spotify.com/album/2exLxvYxs2kkCsIXV5mQzM) | 2:09 |
+| 29 | [Does Your GF Know We Kissed?](https://open.spotify.com/track/6ycD07J6DgV7PnARl08ETX) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Does Your GF Know We Kissed?](https://open.spotify.com/album/2exLxvYxs2kkCsIXV5mQzM) | 2:09 |
 | 30 | [Rest of My Life](https://open.spotify.com/track/6AD5XG6xDlqQlMDaImd1vb) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Rest of My Life](https://open.spotify.com/album/6CYUimx5La6NVeV2mCYO0p) | 3:24 |
 | 31 | [Heart in Oklahoma](https://open.spotify.com/track/1X0y3TctVjveLbYVk0Echp) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Outlaw in Love](https://open.spotify.com/album/5NRkJYAKmV8VojGaDBmbby) | 3:44 |
 | 32 | [Way Things Work](https://open.spotify.com/track/00rxBbN16lN1FdeHKeoRWF) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u), [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Way Things Work](https://open.spotify.com/album/459EinNsFbLMSzFViPDWa7) | 2:57 |

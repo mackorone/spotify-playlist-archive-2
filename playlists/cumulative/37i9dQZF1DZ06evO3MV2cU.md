@@ -4,7 +4,7 @@
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-97 songs - 7 hr 18 min
+98 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Come Thou Fount \(I Will Sing\)](https://open.spotify.com/track/2aVWXW3JC6MHK5TzwrezIZ) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:59 | 2024-05-25 | 2025-03-06 |
 | [Coming Soon](https://open.spotify.com/track/0KVP6xN6fPSBUrtVPdskRu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:13 | 2025-10-16 | 2025-11-08 |
 | [Doesn't He](https://open.spotify.com/track/1re3ARSEiDfRxUTKKlbI8k) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Doesn't He](https://open.spotify.com/album/2bGNVHr3YSVvj3rUGowO3b) | 4:15 | 2025-08-10 | 2026-02-26 |
+| [Doesn't He \(Deserve It All\)](https://open.spotify.com/track/037Q5ln2i35q79Ugfz9R5v) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Doesn't He \(Deserve It All\)](https://open.spotify.com/album/0lH7WX51nhQ7zf6c6vFt6y) | 3:32 | 2026-08-16 |  |
 | [Even So Come](https://open.spotify.com/track/2Eugb2lWOMaZdKk9pcGjEF) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:38 | 2024-05-27 | 2024-07-24 |
 | [Everlasting God](https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning \(Special Edition\)](https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd) | 4:22 | 2024-05-24 |  |
 | [Famous One](https://open.spotify.com/track/1GjNW2039vBPD8MGWAsBqI) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 3:35 | 2024-06-24 | 2024-07-12 |
@@ -67,7 +68,7 @@
 | [Indescribable](https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:57 | 2024-05-24 |  |
 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 | 2024-05-24 |  |
 | [Jesus](https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:05 | 2024-05-24 |  |
-| [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 | 2024-05-24 |  |
+| [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 | 2024-05-24 | 2026-08-16 |
 | [Jesus Messiah](https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:48 | 2024-05-24 |  |
 | [Jesus Saves](https://open.spotify.com/track/5iYVUZBotocsuCDhGE9cwp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Jesus Saves](https://open.spotify.com/album/5hktiLlQJKnUHrUOJaVznq) | 3:08 | 2025-09-10 | 2025-10-31 |
 | [Jesus Saves \(with The Birmingham Youth & Young Adult Fellowship Choir\)](https://open.spotify.com/track/3yJEDyVr6QptXTIwAZdLOD) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Birmingham Youth & Young Adult Fellowship Choir](https://open.spotify.com/artist/04ND5vIo82KiV5MBMWzVwI) | [Jesus Saves](https://open.spotify.com/album/14rWgMAATwa7uGuoCFeZwa) | 3:04 | 2026-01-15 | 2026-03-17 |

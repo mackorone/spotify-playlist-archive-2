@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 24284,
+  "num_followers": 24283,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAACrWMw1ZtwJwtUSsSWwPFYy",
+  "snapshot_id": "an5agAAAAADB0NkFwjsrY6PCTMGqTZne",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood, Hair, And Eyeballs",
-        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
+        "name": "Bleeding Out",
+        "url": "https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 180573,
-      "name": "Blood, Hair, And Eyeballs",
-      "url": "https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns"
+      "duration_ms": 181016,
+      "name": "Bleeding Out",
+      "url": "https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleeding Out",
-        "url": "https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO"
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 181016,
-      "name": "Bleeding Out",
-      "url": "https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK"
+      "duration_ms": 180573,
+      "name": "Blood, Hair, And Eyeballs",
+      "url": "https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns"
     },
     {
       "added_at": null,

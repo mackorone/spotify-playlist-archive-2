@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 97106,
       "name": "Meet the Family",
       "url": "https://open.spotify.com/track/3GZdcQO0QSSZGPzN7Gi8uB"
@@ -2919,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "KPM Legends: Alan Hawkshaw",
+        "url": "https://open.spotify.com/album/7wBsRrLDHm5KEWpSNJsNoX"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166616,
+      "name": "Senior Thump",
+      "url": "https://open.spotify.com/track/2lfvTbFslHGTub4hEGYq2N"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: The Big Beat",
         "url": "https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD"
       },
@@ -2930,7 +2948,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 172266,
       "name": "Senior Thump",
       "url": "https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD"
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 77733,
       "name": "Speed Speed Speed",
       "url": "https://open.spotify.com/track/6KequWeuLVnMMf1engpVTa"

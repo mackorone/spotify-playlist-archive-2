@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NgkFTxJ4Wv.md) - [plain]
 
 > Lush continuous pink noise that will make you sleep all night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,719 likes - 200 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,744 likes - 200 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

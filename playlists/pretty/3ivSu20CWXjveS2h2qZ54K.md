@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,919 likes - 79 songs - 4 hr 23 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,920 likes - 79 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 9 | [Here We Go Again](https://open.spotify.com/track/1v89GQWlt3iEACkQuXFw1G) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Big One](https://open.spotify.com/album/3np04BexvHb7nl0r4R2wWt) | 2:50 |
 | 10 | [Para morir solo hay que estar vivo](https://open.spotify.com/track/5yldmjLQwFs87PscAWszgh) | [Los Estanques](https://open.spotify.com/artist/2viZosiTrNf88YlPRVHkos), [El Canijo de Jerez](https://open.spotify.com/artist/1F1UN5rQ0UCxM8A8ZDE6k7) | [Para morir solo hay que estar vivo](https://open.spotify.com/album/20WkAHW7mGhUvRScGGHOWL) | 5:04 |
 | 11 | [Lose Myself](https://open.spotify.com/track/6t1NnujGpgx0AzF8M6yxXb) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Lose Myself](https://open.spotify.com/album/5bxlw2YcIZUyAt5E2yhfJx) | 3:23 |
-| 12 | [Al Mar \- Cover](https://open.spotify.com/track/2eWw1KgBFYJIVWEIEY4lFX) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Al Mar \(Cover\)](https://open.spotify.com/album/7w5QuSf2RabBREsTH9Db7l) | 2:44 |
+| 12 | [Al Mar](https://open.spotify.com/track/2eWw1KgBFYJIVWEIEY4lFX) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Al Mar](https://open.spotify.com/album/7w5QuSf2RabBREsTH9Db7l) | 2:44 |
 | 13 | [Deliver Me From Trying](https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Deliver Me From Trying](https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r) | 3:54 |
 | 14 | [Hurt](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 3:24 |
 | 15 | [I Lied, You Lied](https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [I Lied, You Lied](https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz) | 3:23 |

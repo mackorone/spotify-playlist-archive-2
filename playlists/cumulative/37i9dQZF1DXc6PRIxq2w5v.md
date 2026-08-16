@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-526 songs - 1 day 3 hr 18 min
+527 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Joquebede](https://open.spotify.com/track/7tSI0qlhyFJ4Ji9ksuMdth) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [Joquebede](https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb) | 2:49 | 2022-04-15 | 2024-04-19 |
 | [Josué](https://open.spotify.com/track/2iRkqHy6UISks72qUAwqL7) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Josué](https://open.spotify.com/album/4alndyUSzhaSpXTllj2BEw) | 2:57 | 2024-04-26 | 2024-09-07 |
 | [João 16:33](https://open.spotify.com/track/3Da9B1a75oSL23u8UqS4nE) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [João 16:33](https://open.spotify.com/album/2Oipu9q43QiXD7RwCiGN6s) | 2:37 | 2024-09-27 |  |
-| [JUDAS](https://open.spotify.com/track/7gDMLxabbUqNucRhazMmeM) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [JUDAS](https://open.spotify.com/album/1HmnsaJjvtrbjaYzE6Tc04) | 3:34 | 2025-12-19 |  |
+| [JUDAS](https://open.spotify.com/track/7gDMLxabbUqNucRhazMmeM) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [JUDAS](https://open.spotify.com/album/1HmnsaJjvtrbjaYzE6Tc04) | 3:34 | 2025-12-19 | 2026-08-16 |
 | [Juízo Final](https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Juízo Final](https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf) | 2:29 | 2023-02-25 | 2024-03-02 |
 | [Já Agradeço](https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Já Agradeço](https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ) | 3:20 | 2022-03-25 | 2024-06-01 |
 | [Kaboom \(feat\. Felipe Vilela & Thiagão\)](https://open.spotify.com/track/6RXvJRbUPnfgLHXtGJnUZB) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Kaboom](https://open.spotify.com/album/0uZGLgKXyJ5KntLEHDtzAs) | 5:05 | 2022-03-22 | 2022-08-20 |
@@ -408,6 +408,7 @@
 | [Redenção](https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD) | [Levi](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Redenção](https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO) | 2:17 | 2024-03-01 |  |
 | [Redenção](https://open.spotify.com/track/1LG10Lc3rb1LTGjIc6N6he) | [Mc zé santos](https://open.spotify.com/artist/5LScvXl3l9J4a0kivqPMPx), [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Redenção](https://open.spotify.com/album/08j5joKUHd6niqFjkfzbSL) | 2:46 | 2023-02-03 | 2023-03-25 |
 | [Redenção](https://open.spotify.com/track/6vxXwPoQH1QWoIurgwcYFC) | [Moskitto](https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Redenção](https://open.spotify.com/album/67lX5qwhGVrTJUdUBCWp21) | 3:14 | 2023-10-20 | 2023-11-11 |
+| [Referência](https://open.spotify.com/track/3X1HmQAthMhwGEFxB7SQwA) | [Jovem Z](https://open.spotify.com/artist/28ptPLU2p1iABFrK5tGe7v) | [Referência](https://open.spotify.com/album/0gon4eAbvCM2wRvKEskQR5) | 2:48 | 2026-08-15 |  |
 | [Rei](https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS), [Sensei Songs](https://open.spotify.com/artist/0dNbYU1ZVpO0Q11IFaQsfb) | [Rei](https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua) | 2:23 | 2022-04-26 | 2023-07-08 |
 | [Reino](https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Reino](https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs) | 3:05 | 2022-06-10 | 2024-12-07 |
 | [Reino de Deus \- Utopia](https://open.spotify.com/track/3AIYvoE2IlXmUFdSDU2MRX) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Marina Silva](https://open.spotify.com/artist/0TzYOLMd9cjGNFgbWlkPhD) | [Reino de Deus \- Utopia](https://open.spotify.com/album/2uc3wyMkyQk63n0J9KR28f) | 2:57 | 2023-07-14 | 2023-08-05 |

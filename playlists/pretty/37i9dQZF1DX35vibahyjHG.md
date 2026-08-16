@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA?si=fEvOcYs0QCWksz\_4n\_cyVQ">Somi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,548 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,562 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

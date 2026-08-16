@@ -4488,7 +4488,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 168573,
       "name": "Debris",
       "url": "https://open.spotify.com/track/2ZrxlipEvnLbjU2wd7n2zz"
@@ -4560,7 +4560,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 291201,
       "name": "Deerslayer",
       "url": "https://open.spotify.com/track/33hRehaG2yHnh7AYokJHNN"
@@ -4969,6 +4969,24 @@
     },
     {
       "album": {
+        "name": "Shadows Sanctuary",
+        "url": "https://open.spotify.com/album/4kZPjEaDXrCtQcPuXLoPr6"
+      },
+      "artists": [
+        {
+          "name": "Horror Vacui",
+          "url": "https://open.spotify.com/artist/0YVP1IhnAjOSQYJqJBcOO4"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230693,
+      "name": "Distressed",
+      "url": "https://open.spotify.com/track/0LgZPpxVpr4bEM7EoctSNT"
+    },
+    {
+      "album": {
         "name": "Do You?",
         "url": "https://open.spotify.com/album/2jrYe5dtqSUofXSlr5DgYI"
       },
@@ -5347,6 +5365,24 @@
     },
     {
       "album": {
+        "name": "El Guardi\u00e1n del Equilibrio",
+        "url": "https://open.spotify.com/album/7kvGaHTv4Qs81RzYYLtaqd"
+      },
+      "artists": [
+        {
+          "name": "Drofkai",
+          "url": "https://open.spotify.com/artist/0xr3lCcDDcCilYwtQLNVK2"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93409,
+      "name": "El Guardi\u00e1n del Equilibrio",
+      "url": "https://open.spotify.com/track/07IKnUvTgGULbfLJ6emblG"
+    },
+    {
+      "album": {
         "name": "Electric Love",
         "url": "https://open.spotify.com/album/177BhxFET5l4YG89GwFMIq"
       },
@@ -5456,7 +5492,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 313928,
       "name": "Ember",
       "url": "https://open.spotify.com/track/6f3VIa4jtkRjZtacDdmzsY"
@@ -5564,7 +5600,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 351437,
       "name": "Enterprise",
       "url": "https://open.spotify.com/track/0Do9DaZQDjQ6icf6VG8Kc4"
@@ -8942,7 +8978,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 236843,
       "name": "Interval",
       "url": "https://open.spotify.com/track/42DhpGWoPU1cPjoK0usfTK"
@@ -9414,7 +9450,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 186677,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/2dAquQRgANWIXDqgAcHhMF"
@@ -9692,7 +9728,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 246761,
       "name": "Kiss (Me)",
       "url": "https://open.spotify.com/track/3OKtkqTikliFqEHjs9hMF1"
@@ -10284,7 +10320,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -10374,7 +10410,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 321731,
       "name": "Line Up And Wait 3",
       "url": "https://open.spotify.com/track/1AlKjLJnakpFRW3hz7qfts"
@@ -11468,7 +11504,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -11612,7 +11648,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 190161,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/1boh977IxzWaqmJ11wzCtW"
@@ -12974,7 +13010,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -16320,7 +16356,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 240744,
       "name": "Sweet Nightmare",
       "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
@@ -16618,6 +16654,24 @@
       "duration_ms": 169217,
       "name": "Teenage Dark Love",
       "url": "https://open.spotify.com/track/6CtyUN9Q1itXkFaWKGHKnT"
+    },
+    {
+      "album": {
+        "name": "Template",
+        "url": "https://open.spotify.com/album/46tByVCDQrc1n2fO6R5eh9"
+      },
+      "artists": [
+        {
+          "name": "Fading Signals",
+          "url": "https://open.spotify.com/artist/1IxJHnfOv3n8slV8r2Et5R"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265511,
+      "name": "Template",
+      "url": "https://open.spotify.com/track/44mANCSX8Pnwbg37WU6w9l"
     },
     {
       "album": {
@@ -16936,7 +16990,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 273933,
       "name": "The Desert Inside",
       "url": "https://open.spotify.com/track/4YJXajzFrDy7NO9TNYU1Rl"
@@ -17116,7 +17170,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -17726,6 +17780,24 @@
       "duration_ms": 272400,
       "name": "The Winter Ghost",
       "url": "https://open.spotify.com/track/2O8VREoVXYHARxqLIlDIJP"
+    },
+    {
+      "album": {
+        "name": "The Witness Tree",
+        "url": "https://open.spotify.com/album/51htr1aOOty6Pw0EoTzGQP"
+      },
+      "artists": [
+        {
+          "name": "IKON",
+          "url": "https://open.spotify.com/artist/7dkDCTVzTq43IpyrF5UgRD"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "The Witness Tree",
+      "url": "https://open.spotify.com/track/5zJZTmMLUfoVRhZNrqW2Bt"
     },
     {
       "album": {
@@ -18354,7 +18426,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 430015,
       "name": "Too Good To Stay - Too Good To Stay Moongoose Remix",
       "url": "https://open.spotify.com/track/0psJuZSCJUhet6l0iGLNDv"
@@ -19130,7 +19202,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -19600,6 +19672,24 @@
       "duration_ms": 228838,
       "name": "We Found Passion",
       "url": "https://open.spotify.com/track/50QJ1bZOhhGmpc1citS3ab"
+    },
+    {
+      "album": {
+        "name": "We're At War",
+        "url": "https://open.spotify.com/album/1zHHT3lznyItRF8Ge8atgr"
+      },
+      "artists": [
+        {
+          "name": "Die Feen",
+          "url": "https://open.spotify.com/artist/16fHBbpQ5yHbqgLfMZa0LP"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205641,
+      "name": "We're At War",
+      "url": "https://open.spotify.com/track/5dTeFjoEh1c9tULMPa1aWz"
     },
     {
       "album": {

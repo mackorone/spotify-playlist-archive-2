@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-299 songs - 15 hr 1 min
+300 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Cell Bound Blues](https://open.spotify.com/track/010eJqZ06RjsUCsOVbQWFP) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:09 | 2023-06-14 | 2023-07-14 |
 | [Cell Bound Blues](https://open.spotify.com/track/1IcSCQlLdYhcYv0cYGAVBr) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Midnight Moods September Blues \- Ma Rainey's Timeless Tunes](https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ) | 3:16 | 2024-06-23 | 2024-06-30 |
 | [Cell Bound Blues](https://open.spotify.com/track/0xXWAJOx5kE9Oz4Ibkl4RC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Masters of Blues! \(33 Best of Ma Rainey & Kokomo Arnold\)](https://open.spotify.com/album/6SxP99PaBwZkvPkkAKiQRW) | 3:18 | 2022-08-08 | 2022-09-09 |
-| [Cell Bound Blues](https://open.spotify.com/track/2MkggW4t6Qnrru5H6RZr4u) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH), [Georgia Band](https://open.spotify.com/artist/4ZJB3rXaifF1o4lHzJqMS3) | [Jazz Figures / Ma Rainey \(1924\-1925\)](https://open.spotify.com/album/0d2Cyd32MFg2SWIKvgep7h) | 3:18 | 2023-05-22 | 2026-08-15 |
+| [Cell Bound Blues](https://open.spotify.com/track/2MkggW4t6Qnrru5H6RZr4u) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH), [Georgia Band](https://open.spotify.com/artist/4ZJB3rXaifF1o4lHzJqMS3) | [Jazz Figures / Ma Rainey \(1924\-1925\)](https://open.spotify.com/album/0d2Cyd32MFg2SWIKvgep7h) | 3:18 | 2023-05-22 |  |
 | [Chain Gang Blues](https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:04 | 2022-08-06 | 2026-07-22 |
 | [Countin' The Blues](https://open.spotify.com/track/2hbxUOhbVyqxIoLxk2AM0c) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9) | 3:18 | 2022-08-05 | 2026-05-13 |
 | [Countin' The Blues](https://open.spotify.com/track/7eoG78qWA5DG4ib7O57iZS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:20 | 2022-12-12 |  |
@@ -127,6 +127,7 @@
 | [Grievin' Hearted Blues](https://open.spotify.com/track/45aDVkDvoivEMIO5e5cfHU) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 2:58 | 2026-04-30 | 2026-05-01 |
 | [Hard Time Blues](https://open.spotify.com/track/5ygAhmb7RMhpCO1Yufx5Ki) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 2:48 | 2023-01-12 | 2023-06-11 |
 | [Hear Me Talking To You](https://open.spotify.com/track/30udwhIIyw4p8aFeOKNTsY) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:59 | 2022-08-05 | 2026-05-08 |
+| [Hear Me Talking To You](https://open.spotify.com/track/2aTSVHgQb52iLNILLkwKPj) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Mother of The Blues \- The Essentials \(Remastered\)](https://open.spotify.com/album/10DawRthpe6J8uhx3TGcDW) | 3:03 | 2026-08-16 |  |
 | [Hellish Rag](https://open.spotify.com/track/48juQlJ7OkaLWCwTRH2fln) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 3:05 | 2026-03-19 | 2026-06-15 |
 | [Hellish Rag](https://open.spotify.com/track/4fZa6B2pbUvMq3HvhBwB4t) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 3:06 | 2022-10-09 | 2023-07-23 |
 | [Hellish Rag](https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 3:07 | 2022-08-05 | 2026-02-26 |
@@ -265,7 +266,7 @@
 | [Stack O' Lee Blues](https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 2:57 | 2022-08-05 |  |
 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 | 2022-08-05 | 2026-08-07 |
 | [Stack O'Lee Blues \- Alternate Take](https://open.spotify.com/track/0XgKLbFxVt0LT3CnsxgWVg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 2:55 | 2025-03-28 | 2026-01-15 |
-| [Stormy Sea Blues](https://open.spotify.com/track/5ruTFfl1a6p0ox63nlRpQW) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 2:43 | 2022-08-08 |  |
+| [Stormy Sea Blues](https://open.spotify.com/track/5ruTFfl1a6p0ox63nlRpQW) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 2:43 | 2022-08-08 | 2026-08-16 |
 | [Stormy Sea Blues](https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Midnight Moods September Blues \- Ma Rainey's Timeless Tunes](https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ) | 2:43 | 2023-12-13 | 2025-11-06 |
 | [Stormy Sea Blues](https://open.spotify.com/track/5dRzOgjZIi51rQ3ZGGN0Vh) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 2:45 | 2026-04-03 | 2026-04-08 |
 | [Sweet Rough Man](https://open.spotify.com/track/62EoPZVylvGUYIAIlJj94i) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:05 | 2022-08-05 |  |
@@ -305,7 +306,7 @@
 | [Ya\-Da\-Do](https://open.spotify.com/track/1jJrmEhwpnmimRh4EJQpJQ) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:58 | 2023-03-01 | 2023-06-13 |
 | [Ya\-Da\-Do \(Take 2\)](https://open.spotify.com/track/6Nz75p6ka0JigLkjCe8Wq5) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:58 | 2024-08-11 | 2025-09-11 |
 | [Ya\-Da\-Do \(Take 3\)](https://open.spotify.com/track/0t3WIKoogflfUhTKZfMMPG) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:56 | 2022-12-08 | 2023-02-16 |
-| [Yonder Come The Blues](https://open.spotify.com/track/3yh8U9XVznJKRVGqqabHEf) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 3:02 | 2022-08-06 |  |
+| [Yonder Come The Blues](https://open.spotify.com/track/3yh8U9XVznJKRVGqqabHEf) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 3:02 | 2022-08-06 | 2026-08-16 |
 | [Your Face Makes Me Feel Happy](https://open.spotify.com/track/426ZMifolibU5hygDfpziK) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Your Face Makes Me Feel Happy](https://open.spotify.com/album/4G0lWYibtX9mB7rfRAKy9s) | 4:46 | 2026-06-22 | 2026-06-24 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

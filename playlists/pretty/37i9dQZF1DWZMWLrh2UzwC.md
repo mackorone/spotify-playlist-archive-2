@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from KATSEYE, Phoebe Bridgers, XPOSE more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,202 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,197 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 54 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 |
 | 55 | [TOO LONG](https://open.spotify.com/track/55IaRKEQyAuwcfSs7rSmLN) | [RAYNEN](https://open.spotify.com/artist/3uOyuWQkjSOd1Cranub73X) | [TOO LONG](https://open.spotify.com/album/0m4KqLRmlNd4Uv8YT91y8n) | 2:58 |
 | 56 | [Tersakiti](https://open.spotify.com/track/2Kn64PP25EtjC7pFGrS4Pu) | [Emma Suhaimi](https://open.spotify.com/artist/1VyP6GHBpLB37osEmr3XJd) | [Tersakiti](https://open.spotify.com/album/58apzZ9XT1cq8ArlzmKrui) | 4:00 |
-| 57 | [Aku Berdiri](https://open.spotify.com/track/2KUYI63quKX1rj33FkogWJ) | [Shatira Amanda](https://open.spotify.com/artist/5fO9FqAURBrfFK9fGySFxj) | [Aku Berdiri](https://open.spotify.com/album/7Jb1FVfpoQRV12zW0sSiiK) | 3:42 |
+| 57 | [Aku Berdiri](https://open.spotify.com/track/2KUYI63quKX1rj33FkogWJ) | [Shatirah Amanda](https://open.spotify.com/artist/69ARIasVk4Kn7xFx6Sxjlm) | [Aku Berdiri](https://open.spotify.com/album/7Jb1FVfpoQRV12zW0sSiiK) | 3:42 |
 | 58 | [Before You Go](https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Good Times](https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB) | 3:36 |
 | 59 | [Vogue](https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Vogue](https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0) | 3:59 |
 | 60 | [Stay Gone](https://open.spotify.com/track/2arjC99T7tiLwCpSFklmmO) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Stay Gone](https://open.spotify.com/album/0fAfTDRDjfWjs4YryqQARn) | 4:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,227 likes - 283 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,226 likes - 283 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 145 | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL) | 2:26 |
 | 146 | [Bottom](https://open.spotify.com/track/0PcCC6A17tbBckIM4q5Q1L) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 3:25 |
 | 147 | [Blow the Pickle \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3e6FIuzEBiseLJIK0mB1T8) | [Ambjaay](https://open.spotify.com/artist/3BbPRvYQ0M9SFmhkHXozLm), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [It Cost To Live Like This Pt\. 2](https://open.spotify.com/album/6veRHR6PSNEVog2EBrmK4H) | 2:15 |
-| 148 | [Red Flag](https://open.spotify.com/track/4Ht6ZSdTuOS5wE1DCTq0rp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [So Icy Boyz: The Finale](https://open.spotify.com/album/5Rb7JdsT1IEITEMgUqcWq2) | 3:27 |
-| 149 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
+| 148 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
+| 149 | [Red Flag](https://open.spotify.com/track/4Ht6ZSdTuOS5wE1DCTq0rp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [So Icy Boyz: The Finale](https://open.spotify.com/album/5Rb7JdsT1IEITEMgUqcWq2) | 3:27 |
 | 150 | [Came From Scratch \(feat\. Quavo\)](https://open.spotify.com/track/2Cpym45ciZzoiWpt6IvjCK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Woptober II](https://open.spotify.com/album/6hopdoEE79EsQ6mjjBUbFU) | 2:32 |
 | 151 | [Super Fake](https://open.spotify.com/track/364XsAmsQMhorJeuk4NulV) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [2 Heartless](https://open.spotify.com/album/1XQnW746HBsLJAgZUW9Kyu) | 2:12 |
 | 152 | [No Filter](https://open.spotify.com/track/4kGKvPLGQXn4X8gWm35cSn) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:50 |
@@ -192,8 +192,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 182 | [In the Air \(feat\. BlocBoy JB\)](https://open.spotify.com/track/4rNcajJ4guG6OnbMp7TkgK) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 2:58 |
 | 183 | [Homecoming \(feat\. Bankroll Rico\)](https://open.spotify.com/track/1QozDHVFxNin5IQvFG7HZ8) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S), [Bankroll Rico](https://open.spotify.com/artist/6hLTf1PA7nXVLBHMwEBcAE) | [East Memphis Maniac](https://open.spotify.com/album/5OEoU8caLGSPsLPGomY3PH) | 3:04 |
 | 184 | [Turnt Up](https://open.spotify.com/track/1fsZ15Jv2Na4x8PZAqvnfW) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Simi](https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S) | 2:58 |
-| 185 | [Look at Me Now](https://open.spotify.com/track/70aCgS2cUyP71Ag1BBiqM0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:53 |
-| 186 | [Car Flip](https://open.spotify.com/track/6G6eTSxkm5lzwPQRr4Ym4v) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 2:37 |
+| 185 | [Car Flip](https://open.spotify.com/track/6G6eTSxkm5lzwPQRr4Ym4v) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 2:37 |
+| 186 | [Look at Me Now](https://open.spotify.com/track/70aCgS2cUyP71Ag1BBiqM0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:53 |
 | 187 | [I Might \(feat\. Tay Keith\)](https://open.spotify.com/track/3lvY6mgvM9AmDWSsXhsDuQ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [These Things Happen Too \(Deluxe\)](https://open.spotify.com/album/2uGyQQS82uzaTXSBe2bs4A) | 2:34 |
 | 188 | [MANNISH](https://open.spotify.com/track/4FMKlYbHCYv83ryuvOnbqB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:27 |
 | 189 | [Lil Bitch](https://open.spotify.com/track/1ZN15RSNJpc3Tyxfjc7eUR) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Fuck Everybody](https://open.spotify.com/album/0nb45XEdKWSFgq0tdPUwnH) | 2:50 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 282 | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/track/6zfRheqLFZe0IvaEbpZsmM) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ), [OK Kyasia](https://open.spotify.com/artist/1GTgb0xt0CIQjAZs4vFWQG) | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/album/67iNUhgvTMn24eSEDKzrRi) | 2:28 |
 | 283 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
 
-Snapshot ID: `AcZlWgAAAADpugPARecO3wjIjmvo6d2t`
+Snapshot ID: `AcZq+gAAAAAwVHfoEmE30nwsZwjS+pnq`

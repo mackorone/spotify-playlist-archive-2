@@ -4,7 +4,7 @@
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 16 min
+78 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 | 2025-07-15 |  |
 | [Good God](https://open.spotify.com/track/0oBjCx63OwKT7anxNGO48A) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 3:35 | 2025-07-15 |  |
 | [Good God II](https://open.spotify.com/track/1Ha5DuFk9G2q3dsncQtGQ9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 3:01 | 2025-07-15 |  |
-| [Grace](https://open.spotify.com/track/0SPt7LSW7Q1LDXffKX9jVS) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Afrobeats Rap and Jesus](https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe) | 3:57 | 2025-07-15 |  |
+| [Grace](https://open.spotify.com/track/0SPt7LSW7Q1LDXffKX9jVS) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Afrobeats Rap and Jesus](https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe) | 3:57 | 2025-07-15 | 2026-08-16 |
 | [Grateful](https://open.spotify.com/track/4vuaE0qbFTLPFvujV1EqaZ) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Grateful](https://open.spotify.com/album/3xDrVck1imDVwTBANPjfBU) | 3:44 | 2025-07-15 |  |
 | [Happy](https://open.spotify.com/track/6GyCy9Nvyft6H0YED1Mp8i) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:30 | 2025-07-15 | 2025-08-07 |
 | [Holy Father](https://open.spotify.com/track/0khMxEkp975pdbm1Xw0cJ5) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:42 | 2025-07-15 |  |
@@ -82,6 +82,7 @@
 | [Todo El Mundo](https://open.spotify.com/track/5qRaGwbMTlYbtvFE69k9F5) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Sound Of Heaven](https://open.spotify.com/album/71jLkGv1qbvhauU8KDfZc9) | 3:02 | 2025-09-26 | 2025-09-28 |
 | [Victory](https://open.spotify.com/track/2vsID3pEfy6oB0V9f4iCxn) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:22 | 2025-08-07 |  |
 | [WAY](https://open.spotify.com/track/0lRn3p4Vo8j6tzJ6m49sRA) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [WAY](https://open.spotify.com/album/7iniNexQoq6rV7VSnWyACK) | 3:12 | 2026-02-22 | 2026-06-19 |
+| [What I Believe](https://open.spotify.com/track/6fF6qFW587pXNS0YH0DlB0) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [What I Believe](https://open.spotify.com/album/68Oam9Xlj5a0hnxotDmHXT) | 3:35 | 2026-08-16 |  |
 | [Will Be Done](https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H) | [Trendsetter Sense](https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [Will Be Done](https://open.spotify.com/album/4sRnToa2OmP7ciWdkBeUOd) | 3:41 | 2026-05-07 |  |
 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-07-15 |  |
 | [Your Love](https://open.spotify.com/track/4rEp8rVONwpPNdFyYzRw0H) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Dj Horphuray](https://open.spotify.com/artist/5TqxvD1kSyPkFDMF6pV4uY) | [Afrobeats Rap and Jesus](https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe) | 3:44 | 2025-07-15 |  |

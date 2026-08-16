@@ -13780,7 +13780,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -16356,7 +16356,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -21433,6 +21433,24 @@
     },
     {
       "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140720,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
+    },
+    {
+      "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
       },
@@ -22866,7 +22884,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 234506,
       "name": "I Need Your Love (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
@@ -30089,6 +30107,28 @@
     },
     {
       "album": {
+        "name": "linnonminu",
+        "url": "https://open.spotify.com/album/2yIzstO0SiG7yM2OhnLqwa"
+      },
+      "artists": [
+        {
+          "name": "ONYX",
+          "url": "https://open.spotify.com/artist/4zBQ2Zbwg84dtnPcogmoJU"
+        },
+        {
+          "name": "Lil Till",
+          "url": "https://open.spotify.com/artist/20rxrauVfrXfc2vgZNvxot"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "linnonminu",
+      "url": "https://open.spotify.com/track/5LWuG1gowyJLTRXaK2hohK"
+    },
+    {
+      "album": {
         "name": "Linnuteid",
         "url": "https://open.spotify.com/album/25i40amMNDzpBR3yLfEfmW"
       },
@@ -30318,6 +30358,28 @@
       "duration_ms": 184029,
       "name": "Ll\u00e1mame",
       "url": "https://open.spotify.com/track/3n9qn38IhqkC7DcdIRaM9q"
+    },
+    {
+      "album": {
+        "name": "loe mu m\u00f5tteist",
+        "url": "https://open.spotify.com/album/2DeclYD4WM8qXUboDDvB67"
+      },
+      "artists": [
+        {
+          "name": "Heleza",
+          "url": "https://open.spotify.com/artist/5BWqdIvyPGKRyA8xe6kkBe"
+        },
+        {
+          "name": "s\u00e4m",
+          "url": "https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140311,
+      "name": "loe mu m\u00f5tteist",
+      "url": "https://open.spotify.com/track/1x3YbhFlLJO0kaQeg1FTiM"
     },
     {
       "album": {

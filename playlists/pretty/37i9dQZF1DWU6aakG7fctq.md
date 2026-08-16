@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Pink Pablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,271 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,226 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 18 | [Vámonos De Viaje](https://open.spotify.com/track/25fbKaCDdcNpWFqfl5vHSt) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Vámonos De Viaje](https://open.spotify.com/album/4D21K4mDpDm9LQbp4XhllT) | 3:19 |
 | 19 | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj) | 3:01 |
 | 20 | [NO TODO ES PARTE DE LA VIDA](https://open.spotify.com/track/1Ov1LTLDGkVSNpHjWuXeqw) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [NO TODO ES PARTE DE LA VIDA](https://open.spotify.com/album/724d6AWwToirfFH00SSUxl) | 4:04 |
-| 21 | [Track 2](https://open.spotify.com/track/169P8NIfYeGOvaDVUpA3DT) | [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [POST\-APOCALIPSIS](https://open.spotify.com/album/4txk4iDLgcKqxCqpCRIg2u) | 0:00 |
+| 21 | [Siempre fui yo](https://open.spotify.com/track/169P8NIfYeGOvaDVUpA3DT) | [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [POST\-APOCALIPSIS](https://open.spotify.com/album/4txk4iDLgcKqxCqpCRIg2u) | 4:08 |
 | 22 | [Tell Me](https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Tell Me](https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz) | 2:40 |
 | 23 | [HABLAR DE TI \(...\)](https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [HABLAR DE TI \(...\)](https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub) | 3:38 |
 | 24 | [ayuda divina](https://open.spotify.com/track/1spqZ6oJxIGm5zknbTl20p) | [Isabel Isabel](https://open.spotify.com/artist/7mp9WJLhPhr2mnZQkZWjEC) | [ayuda divina](https://open.spotify.com/album/23JjSNkD6qQpq6c41hJ9hJ) | 2:17 |

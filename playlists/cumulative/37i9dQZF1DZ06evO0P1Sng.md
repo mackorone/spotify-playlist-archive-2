@@ -4,7 +4,7 @@
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-119 songs - 8 hr 13 min
+120 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Privê \- Ao Vivo no REP Festival](https://open.spotify.com/track/0HjmUVSoJO8Tu9pxG0tasS) | [REP Festival](https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Azzy \(Ao Vivo no REP Festival\)](https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx) | 3:16 | 2025-09-03 | 2025-11-02 |
 | [Proposta](https://open.spotify.com/track/1ZrjpD46YOnBzEnoywQMbw) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DRESSA](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Proposta](https://open.spotify.com/album/0hkSk5qdLxs9yclpd14jPk) | 2:16 | 2025-11-06 | 2025-11-12 |
 | [Proposta](https://open.spotify.com/track/36J1XvwjxZkMumcLROBn7X) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DRESSA](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Todos Contra 1](https://open.spotify.com/album/2dkUeDD9bV30laGNKoUp11) | 2:16 | 2025-10-28 | 2026-01-01 |
-| [Resumo](https://open.spotify.com/track/4iS0FaCsF2viH2Go4bnWUs) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [BG\_Rj](https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa) | [Tempo Qualitativo](https://open.spotify.com/album/3EiuNT5VuMtVQEbavooqXQ) | 2:22 | 2026-07-19 |  |
+| [Resumo](https://open.spotify.com/track/4iS0FaCsF2viH2Go4bnWUs) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [BG\_Rj](https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa) | [Tempo Qualitativo](https://open.spotify.com/album/3EiuNT5VuMtVQEbavooqXQ) | 2:22 | 2026-07-19 | 2026-08-16 |
+| [Resumo](https://open.spotify.com/track/60VIiC7hY10xz8QT3NSQek) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [BG\_Rj](https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa) | [Resumo](https://open.spotify.com/album/3lzIJ9gBamGfS2iEQw63Mg) | 2:22 | 2026-08-16 |  |
 | [Reverse](https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Reverse](https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D) | 2:13 | 2023-12-30 |  |
 | [Robocop](https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 1:44 | 2023-12-30 | 2024-08-01 |
 | [SALA VERMELHA \#21 \- Azzy](https://open.spotify.com/track/7mH5v6QmkYn9c4fDeif8G6) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#21 \- Azzy](https://open.spotify.com/album/1aqNAndcVgnMBVd6BxCak7) | 2:22 | 2025-03-23 | 2025-10-28 |

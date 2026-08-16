@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 70027,
+  "num_followers": 70070,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAABRKB0MJnO8Rbze2PxJXnDr",
+  "snapshot_id": "an5agAAAAABu/C04rGTEnoY6NlMiCdXQ",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Outlaw Cherie Lee & Other Western Tales",
+        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 150770,
+      "name": "High Noon (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2dxJQIhkfXnpAkDv3kSvmt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vegas - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1UipsejbT67IizPimBSxN3"
       },
@@ -247,22 +267,6 @@
       "duration_ms": 181690,
       "name": "Vegas - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 195676,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6hXdDiZeoe2r6qspLCjMoZ"
     },
     {
       "added_at": null,
@@ -287,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 195676,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6hXdDiZeoe2r6qspLCjMoZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Outlaw Cherie Lee & Other Western Tales",
         "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
       },
@@ -294,15 +314,11 @@
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 150770,
-      "name": "High Noon (feat. Gunna)",
-      "url": "https://open.spotify.com/track/2dxJQIhkfXnpAkDv3kSvmt"
+      "duration_ms": 148596,
+      "name": "Lone Survivor",
+      "url": "https://open.spotify.com/track/47Xbv5RaPpIAfHMXSmaZda"
     },
     {
       "added_at": null,
@@ -327,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 140128,
-      "name": "Tall Boy",
-      "url": "https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
       },
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 140128,
+      "name": "Tall Boy",
+      "url": "https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Outlaw Cherie Lee & Other Western Tales",
         "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
       },
@@ -368,9 +384,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 148596,
-      "name": "Lone Survivor",
-      "url": "https://open.spotify.com/track/47Xbv5RaPpIAfHMXSmaZda"
+      "duration_ms": 132206,
+      "name": "Til Sunday",
+      "url": "https://open.spotify.com/track/698IWgmReYQuWIeBQwtjiu"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 153667,
-      "name": "All Men Die (Freestyle)",
-      "url": "https://open.spotify.com/track/60aoMGaYBzlNEJPX6w8oAA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 236020,
       "name": "My Fault (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/1khLPhobojtGS0jL358B4C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 153667,
+      "name": "All Men Die (Freestyle)",
+      "url": "https://open.spotify.com/track/60aoMGaYBzlNEJPX6w8oAA"
     },
     {
       "added_at": null,
@@ -467,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 154897,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 154897,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Outlaw Cherie Lee & Other Western Tales",
         "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
       },
@@ -512,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 132206,
-      "name": "Til Sunday",
-      "url": "https://open.spotify.com/track/698IWgmReYQuWIeBQwtjiu"
+      "duration_ms": 230582,
+      "name": "Bounty On My Head",
+      "url": "https://open.spotify.com/track/0KHWylywC34zjby9xGf1i4"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
       "duration_ms": 148705,
       "name": "Change Your Mind (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/2FyrMwr4s13OYlhAFApwJW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 138318,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Outlaw Cherie Lee & Other Western Tales",
-        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 230582,
-      "name": "Bounty On My Head",
-      "url": "https://open.spotify.com/track/0KHWylywC34zjby9xGf1i4"
+      "duration_ms": 138318,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
       "duration_ms": 191162,
       "name": "Fire and Gasoline - A COLORS ENCORE",
       "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Garzon",
-          "url": "https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf"
-        }
-      ],
-      "duration_ms": 189159,
-      "name": "Why Can't Love Be The Reason (feat. Garzon)",
-      "url": "https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9"
     },
     {
       "added_at": null,
@@ -663,6 +643,26 @@
       "duration_ms": 177773,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Garzon",
+          "url": "https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf"
+        }
+      ],
+      "duration_ms": 189159,
+      "name": "Why Can't Love Be The Reason (feat. Garzon)",
+      "url": "https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9"
     },
     {
       "added_at": null,

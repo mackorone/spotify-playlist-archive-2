@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat del funk de Brasil para el mundo\. Cover: Zé Pequeña & 143Leti
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,018 likes - 77 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,021 likes - 77 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 11 | [3some](https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [3some](https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K) | 2:42 |
 | 12 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 13 | [Modo de Ataque](https://open.spotify.com/track/0XZ5pDF0GTBiW3S7awE7xQ) | [DJ Yas](https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [Reggaeton Sessions](https://open.spotify.com/album/2ifAfB4fMgnOrwf1gKbdfg) | 2:00 |
-| 14 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |
+| 14 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |
 | 15 | [1 chance](https://open.spotify.com/track/2hVrAjr4b0WMve2wIqJejo) | [TRUFFY](https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc), [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [verano del 2016](https://open.spotify.com/album/2cpqux8H9HomasOw6VE59F) | 2:23 |
 | 16 | [Cerca](https://open.spotify.com/track/54n24ZOfCpsN4gm9WUHIVa) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Tiano](https://open.spotify.com/artist/1rAJwyGY6mSbV4U83L590D) | [Cerca](https://open.spotify.com/album/2oypeO6ZLvcVfypW3PYQLv) | 2:15 |
 | 17 | [10DE10](https://open.spotify.com/track/1kdwkOPaEfwu5HMpk4S3ve) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [10DE10](https://open.spotify.com/album/0YAfOqdsXkRNuRQ2QE0OpE) | 2:59 |

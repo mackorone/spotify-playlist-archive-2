@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 
 > The best videos from the world of pop! Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,128 likes - 92 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,136 likes - 92 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1235464,
+  "num_followers": 1235498,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAABMOx/yGAEv1uFHiryv5P/X",
+  "snapshot_id": "an5agAAAAAASAgz/OZL2aHa4HxbvaOmr",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Dayz",
-        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Mr. Biggs",
-          "url": "https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO"
-        }
-      ],
-      "duration_ms": 257626,
-      "name": "Better Dayz",
-      "url": "https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resurrection (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/3MJVucN9nO8WHaLo3KHuWO"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 230786,
       "name": "Runnin' (Dying To Live)",
       "url": "https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Mr. Biggs",
+          "url": "https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO"
+        }
+      ],
+      "duration_ms": 257626,
+      "name": "Better Dayz",
+      "url": "https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0"
     },
     {
       "added_at": null,

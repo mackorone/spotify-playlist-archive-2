@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 
 > <a href="spotify:artist:7sAqpkrQBaOkddsv1Tz1XK">Mosimann</a>'s favourite tracks\. Updated regularly\. Curated by Mosimann\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,264 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,279 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 | 74 | [Your Mind \- HNTR Remix](https://open.spotify.com/track/2HC3zCi2hZffYhY7UBKBWa) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Your Mind \(HNTR Remix\)](https://open.spotify.com/album/02YQrPMD5VcaisSzijQyuD) | 3:41 |
 | 75 | [Schall \- A.D.H.S\. Remix](https://open.spotify.com/track/1H7x06feweUNzXtXRfGGy3) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Elektrochemie LK](https://open.spotify.com/artist/5K8DSYKrKWsrPZnmdKtv4O), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Schall \(A.D.H.S\. Remix\)](https://open.spotify.com/album/7oJ0sSLjR7Jww3i6N4vJes) | 4:29 |
 | 76 | [Flight School](https://open.spotify.com/track/2G8cjlRIdMJtRWJ4fXNJNE) | [Gary Beck](https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC) | [Flight School](https://open.spotify.com/album/0IisCCnzSTDGzZfy9XyRT9) | 4:22 |
-| 77 | [Abilene](https://open.spotify.com/track/02YaYu24flwztce8lXQ1uN) | [Mython](https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5), [BCCO](https://open.spotify.com/artist/69SUktMJzS3cOmdylYubj0) | [HATCH EP](https://open.spotify.com/album/3zJU4CPesaYmaj2RxZ5W8a) | 5:36 |
+| 77 | [Abilene](https://open.spotify.com/track/02YaYu24flwztce8lXQ1uN) | [Mython](https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5), [BCCO](https://open.spotify.com/artist/69SUktMJzS3cOmdylYubj0) | [HATCH](https://open.spotify.com/album/3zJU4CPesaYmaj2RxZ5W8a) | 5:36 |
 | 78 | [Maverick](https://open.spotify.com/track/5XQRc9fhRoWs4qkxkulbFK) | [Hertz](https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7) | [Maverick](https://open.spotify.com/album/31EoERf5EzIjfkRpxofjRD) | 5:51 |
 | 79 | [Back to Funk](https://open.spotify.com/track/1kK7YjaHgAbUbrnRr6Ih7l) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Back to Funk](https://open.spotify.com/album/3Ed0riMJ5f5ngruhahilFi) | 6:10 |
 | 80 | [Push It](https://open.spotify.com/track/3DwlNzZlHLb8E6L9jEh9Kr) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9), [MORGANJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Push It](https://open.spotify.com/album/2cEWjvBEvOTRwh4Ope03Mi) | 3:11 |

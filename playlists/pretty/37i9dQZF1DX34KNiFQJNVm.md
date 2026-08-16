@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mumuzinho, KATSEYE, Froid, Simone Morena, Jota.pê,  Teresa Cristina, Rashid e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,768 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308,771 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

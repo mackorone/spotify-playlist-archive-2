@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Addict",
+        "url": "https://open.spotify.com/album/2s7fhsqefwPD2nvA8JmX5D"
+      },
+      "artists": [
+        {
+          "name": "Until They Burn Me",
+          "url": "https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Addict",
+      "url": "https://open.spotify.com/track/4SDYXj45uDJIUggF0YfVti"
+    },
+    {
+      "album": {
         "name": "FOUR LEGS GOOD",
         "url": "https://open.spotify.com/album/0OkHctBsI8EpCGDT3u98yy"
       },
@@ -15455,6 +15473,24 @@
     },
     {
       "album": {
+        "name": "I taste your crown",
+        "url": "https://open.spotify.com/album/47HagvguwrqXO7NcHj7L42"
+      },
+      "artists": [
+        {
+          "name": "La Paille",
+          "url": "https://open.spotify.com/artist/1QTk8okhIb8ISXBHGNYtOc"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325250,
+      "name": "I taste your crown",
+      "url": "https://open.spotify.com/track/4HkLbym9SpUOzTMFd5OhGG"
+    },
+    {
+      "album": {
         "name": "The Burnout",
         "url": "https://open.spotify.com/album/3H4J9Xww7YO7PAbduf5wsM"
       },
@@ -21994,6 +22030,24 @@
       "duration_ms": 196328,
       "name": "New Year, New Hell",
       "url": "https://open.spotify.com/track/4DnYZpOH32S4uk98HckYAg"
+    },
+    {
+      "album": {
+        "name": "New York Mermaid (2026 Version)",
+        "url": "https://open.spotify.com/album/563tsKOLJGz6Es7AT8bsAS"
+      },
+      "artists": [
+        {
+          "name": "Elevator Operator",
+          "url": "https://open.spotify.com/artist/146hY314HEGttVHczyZf8T"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364032,
+      "name": "New York Mermaid - 2026 Version",
+      "url": "https://open.spotify.com/track/6ly5FxX46k0vFqhKojvUsQ"
     },
     {
       "album": {
@@ -30372,6 +30426,24 @@
       "duration_ms": 237736,
       "name": "STRUCTURE",
       "url": "https://open.spotify.com/track/0y53w0b7C8TlCu7RvFCrPe"
+    },
+    {
+      "album": {
+        "name": "Stuck in 1984",
+        "url": "https://open.spotify.com/album/1Je322zy14RJJegt6Ofv2N"
+      },
+      "artists": [
+        {
+          "name": "One Dimensional Creatures",
+          "url": "https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208556,
+      "name": "Stuck in 1984",
+      "url": "https://open.spotify.com/track/5ks6aRzbC1GfulUzZwAVls"
     },
     {
       "album": {

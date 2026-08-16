@@ -1323,6 +1323,32 @@
     },
     {
       "album": {
+        "name": "Rebels In The Frontline",
+        "url": "https://open.spotify.com/album/1qA89hPlhB7I9rVtKIxXtA"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178838,
+      "name": "Rebels In The Frontline",
+      "url": "https://open.spotify.com/track/1HoYx9NlpBP0TNuYu05Yik"
+    },
+    {
+      "album": {
         "name": "Rebls 4 Life",
         "url": "https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP"
       },
@@ -1630,7 +1656,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 173988,
       "name": "Zimmer Frei",
       "url": "https://open.spotify.com/track/2sEJ7YtIK2qpEu7aGQMzia"

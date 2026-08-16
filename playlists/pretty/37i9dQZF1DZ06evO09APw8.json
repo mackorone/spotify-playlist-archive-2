@@ -1,13 +1,37 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 24557,
+  "num_followers": 24579,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAABtjsRU+Ro/Cmggb74zHjve",
+  "snapshot_id": "an5agAAAAABpLGy4nvDrHj4WBGDFWgX3",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibe With Me (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4QcWnqjIYlUy5EATXmKROm"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 231020,
+      "name": "Vibe With Me (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/693LQJYRGgnWWPYoD1XtWw"
+    },
     {
       "added_at": null,
       "album": {
@@ -495,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
       "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 159495,
-      "name": "SAFE PLACE",
-      "url": "https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu"
+      "duration_ms": 144270,
+      "name": "Pressure (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
     },
     {
       "added_at": null,
@@ -523,6 +551,22 @@
       "duration_ms": 194247,
       "name": "Just How You Are",
       "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 159495,
+      "name": "SAFE PLACE",
+      "url": "https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu"
     },
     {
       "added_at": null,
@@ -798,11 +842,15 @@
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 172844,
-      "name": "PRIZE",
-      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
+      "duration_ms": 171814,
+      "name": "PARTY FAVORS (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
     },
     {
       "added_at": null,
@@ -870,15 +918,11 @@
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 171814,
-      "name": "PARTY FAVORS (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
+      "duration_ms": 172844,
+      "name": "PRIZE",
+      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
     },
     {
       "added_at": null,
@@ -899,42 +943,6 @@
       "duration_ms": 224001,
       "name": "Catching Feelings (feat. Leon Thomas) - Remix",
       "url": "https://open.spotify.com/track/2CTvSuX8S3XhbIYZ2SRiZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Could Be Worse",
-        "url": "https://open.spotify.com/album/5aqP6FmBBfO01EOa0nSbh9"
-      },
-      "artists": [
-        {
-          "name": "Bizzy Crook",
-          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 140892,
-      "name": "Could Be Worse",
-      "url": "https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Moments After",
-      "url": "https://open.spotify.com/track/5DrPVWMUapjGznorkXTi24"
     }
   ],
   "unique_name": "This Is Leon Thomas",

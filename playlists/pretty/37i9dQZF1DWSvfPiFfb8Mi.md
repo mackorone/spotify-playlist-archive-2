@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,631 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,777 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 124 | [Silky, Buttery, Smooth](https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Silky, Buttery, Smooth](https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ) | 3:04 |
 | 125 | [360 \(feat\. Barny Fletcher\)](https://open.spotify.com/track/6gkNv760hq2dU4CXJghAPL) | [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg), [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [360 \(feat\. Barny Fletcher\)](https://open.spotify.com/album/19jSmzCS2rwyXKQuSD6EQw) | 3:14 |
 
-Snapshot ID: `AAAAAM/VM90wRJ79AecNlPLV9ULoqYZz`
+Snapshot ID: `AAAAALQpZc338LYvNXFfGIB7ldmtF3cU`

@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,666 songs - 5 day 20 hr 53 min
+2,671 songs - 5 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Child of Light](https://open.spotify.com/track/4F8kVapLmZlBI6JF8VJcgJ) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Child of Light](https://open.spotify.com/album/0mZQgu8nj3mP65IIbU44JD) | 3:59 | 2026-03-13 | 2026-04-14 |
 | [Chimes](https://open.spotify.com/track/6kLTfRdpODtg8CJKnPeQSe) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 2 \- The Light](https://open.spotify.com/album/7GBhGMtGrYUjjb25FQGJaO) | 3:17 | 2026-01-14 | 2026-01-24 |
 | [Chinese Checkers](https://open.spotify.com/track/272n3LTRp92IfcGnI2HwYS) | [Pastel Atlas](https://open.spotify.com/artist/0dOOtoPeBfIwrRKMRJlda0) | [Chinese Checkers](https://open.spotify.com/album/6VCwM6OSH4rw1eC8z74Lsn) | 3:27 | 2026-07-21 |  |
+| [Ching Chong Girls](https://open.spotify.com/track/1jlOXKsBIZL9a7aJ3OmXiK) | [Vegas Girls 74](https://open.spotify.com/artist/25tCFYmFkIJ97sQNSCVOzK) | [Ching Chong Girls](https://open.spotify.com/album/37H07AmniakWPlhHHj1d0K) | 2:25 | 2026-08-15 |  |
 | [Christmas Eve](https://open.spotify.com/track/6aybUBS47d4aZrvkzuaB4T) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Christmas Miracle Navidad y Joulu](https://open.spotify.com/album/7DfpQk2qR5I3395tnBxOeF) | 4:06 | 2025-12-02 | 2026-01-04 |
 | [Christmas in Me](https://open.spotify.com/track/5mHkSXUJrBoIzPxuGLmjBI) | [Sacred Clown](https://open.spotify.com/artist/7pZXx2a9snGwvGHHzBp5Ez) | [Christmas in Me](https://open.spotify.com/album/3OwtV2MbOTyFi3ycXLj0fR) | 3:22 | 2025-12-02 | 2026-01-04 |
 | [Christmas Peace](https://open.spotify.com/track/29yRKDDMkY1KsfCmdOL6a7) | [Écho De Mars](https://open.spotify.com/artist/24j9NKdaYYDm8k2QpVgYpA) | [Christmas Peace](https://open.spotify.com/album/3v1OBCFwYCvLRmpj0EJTyo) | 3:50 | 2025-12-08 | 2026-01-15 |
@@ -609,6 +610,7 @@
 | [DRAINED](https://open.spotify.com/track/1wStTPAYpFcoBTbP7lxBbH) | [yungsaint✞✞✞](https://open.spotify.com/artist/3BqwY2JmYDFLd2QZtwbtUQ) | [DRAINED](https://open.spotify.com/album/3D9HN2hLqWW9Qv1hjXPu0P) | 2:02 | 2026-07-22 |  |
 | [DREAM](https://open.spotify.com/track/3Ido7ZgMZODe30iYwOG7gc) | [Private Party](https://open.spotify.com/artist/4YzAmFFlHhfbs6u8yshy4D), [Hunter Lambert](https://open.spotify.com/artist/1opg6D9AMYQ8F0Tv1gt4Lt) | [DREAM](https://open.spotify.com/album/6I0NKFg0G1qLdc9Khe3ZTB) | 2:38 | 2025-11-16 | 2025-12-19 |
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2025-11-02 | 2025-12-03 |
+| [Dream Walking](https://open.spotify.com/track/3MKh87vD07gxjNjqRnC9Nu) | [Outspirit](https://open.spotify.com/artist/4zXozzSSfecpUlcy5Bo9gK) | [Dream Walking](https://open.spotify.com/album/0s2TchBhYk1lXwYnI7rQN4) | 1:17 | 2026-08-15 |  |
 | [DREAMER](https://open.spotify.com/track/49lM9TyblTaosHpdPkc05O) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [DREAMER](https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY) | 3:35 | 2025-11-10 | 2025-12-11 |
 | [Dreamgirl](https://open.spotify.com/track/0ZEP0MgPnMHJqDP1ZTtj4b) | [Nicole Glazunov](https://open.spotify.com/artist/6HwMhgltlaDZ1RD38KN3gk) | [YOUNIVERSE](https://open.spotify.com/album/4Ada5DEUOVeg6h3zCFCjn1) | 3:18 | 2026-04-01 | 2026-05-03 |
 | [Dreaming In FM](https://open.spotify.com/track/74jMrxOKgwrEPPeutDqruL) | [Retro\~Genesis](https://open.spotify.com/artist/0spJVl6JjiIh484jjlScHL) | [Dreaming In FM](https://open.spotify.com/album/2YPjtYASyrQsT8nKNDsz54) | 3:57 | 2026-02-05 | 2026-03-08 |
@@ -733,6 +735,7 @@
 | [Falling](https://open.spotify.com/track/2HYhqNMPAn74OgyD8iTvsk) | [Twin Phase](https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q) | [Falling](https://open.spotify.com/album/6siMNfpjoJNPSGhKIJZwxr) | 2:27 | 2026-08-14 |  |
 | [Falling Apart](https://open.spotify.com/track/38O5OYX7gXD2YAamTcW72t) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Falling Apart](https://open.spotify.com/album/78h0okzrA3Z9rhln7vShrC) | 2:50 | 2025-12-10 | 2026-01-15 |
 | [Falling Apart](https://open.spotify.com/track/1rRY9n5jxLZKLLqwoLt1zl) | [MARÉA MAX](https://open.spotify.com/artist/5R8RLp29uSmEw9iHimQNNi) | [FOREVER](https://open.spotify.com/album/0daJQRyd0nhLCMNj92PaBA) | 3:52 | 2026-01-04 | 2026-02-05 |
+| [Falling Down](https://open.spotify.com/track/1WfxB9H1pRpYhQq9hqz6kF) | [Fishburn](https://open.spotify.com/artist/2hZ0ipXOnImt0uNT9VbAhP) | [Falling Down](https://open.spotify.com/album/3qqZ9WxkMZSp5aRlf7jsCD) | 3:47 | 2026-08-15 |  |
 | [Falling for You](https://open.spotify.com/track/6lbOGoX92rUDdPGimQi4E6) | [Mobfigurz](https://open.spotify.com/artist/3SFgMW1NsPZsHWbpnqTldZ) | [Falling for You](https://open.spotify.com/album/4YD1ThpzqPnfpPVvHZ15Cg) | 2:59 | 2025-11-12 | 2025-12-13 |
 | [Falling in Love](https://open.spotify.com/track/2MKPa3GKO45HF0r2HXYISS) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling in Love](https://open.spotify.com/album/4i4RbGOEc9CHtqN0vR9BBq) | 2:45 | 2025-12-15 | 2026-01-17 |
 | [Falling into you](https://open.spotify.com/track/4mmBBpmrVer5Cr0nF9Lyu0) | [luizday](https://open.spotify.com/artist/1Pp6JUjIdcuyy49ZMUGJh5) | [Behind The Glass](https://open.spotify.com/album/5c0YgQMA6zZidn4DvDssZb) | 3:00 | 2026-06-01 | 2026-07-02 |
@@ -2049,6 +2052,7 @@
 | [So Long Juliet](https://open.spotify.com/track/7t3j91VsPX4avsQNhSsZfo) | [GHOST PURPLE](https://open.spotify.com/artist/1zI9DQR0RwGTkxVessv2S9) | [So Long Juliet](https://open.spotify.com/album/6wlz9JE6JcB9CtABh4cdMF) | 2:20 | 2026-04-09 | 2026-05-10 |
 | [so long\. \(freestyle\)](https://open.spotify.com/track/4pr3uwHUSPIvFbWLA2rYdg) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [so long\. \(freestyle\)](https://open.spotify.com/album/4MImRsjfrE6vVSkpFIsL07) | 2:29 | 2026-07-25 |  |
 | [So They Say!](https://open.spotify.com/track/2Y0TI6D3JdqVPBOF6tw5WT) | [LucaVanCharli](https://open.spotify.com/artist/0CxHbhXx71jzyHwlPgEvGu) | [So They Say!](https://open.spotify.com/album/4pxT1iPyErjmPxUjOhufaA) | 3:05 | 2025-11-24 | 2025-12-25 |
+| [Sobe](https://open.spotify.com/track/52FWX1ybpYRFIN9f75KZmE) | [JOHLOW](https://open.spotify.com/artist/5TTc97WBTfsXF1ZZOZqgV5) | [Sobe](https://open.spotify.com/album/6tu5JQbxH642rIddQ0PEbB) | 2:52 | 2026-08-15 |  |
 | [Social Life \(Core\)](https://open.spotify.com/track/3zCnZ21UlNduFIcuYsMUy0) | [GHSTMEAT](https://open.spotify.com/artist/3eaXR0x6AOb0YJDhxcxV4a) | [Social Life \(Core\)](https://open.spotify.com/album/1Em80cydLfAkIcoLIoShum) | 1:22 | 2025-11-10 | 2025-12-11 |
 | [Sofia](https://open.spotify.com/track/4FvPEmDNN1oZDj7sqUNTWv) | [Asal Hazel](https://open.spotify.com/artist/0Qnzp2no3f8GqBNh7Jywtt) | [Sofia](https://open.spotify.com/album/68xP2NPfSLLmVjJ6SYMT8W) | 2:40 | 2026-06-15 | 2026-07-16 |
 | [Soft Rain at Midnight](https://open.spotify.com/track/6iCSl3euZLSypGNca5Iqoy) | [南一文](https://open.spotify.com/artist/1aniBQnAFstDpcsULOCDJ1) | [Soft Rain at Midnight](https://open.spotify.com/album/1U7chNZ35bxrDRaBGk9Sch) | 1:59 | 2026-07-04 | 2026-08-08 |
@@ -2093,6 +2097,7 @@
 | [Spilt Milk](https://open.spotify.com/track/2QPpJDsIZlcikjG0KgT64m) | [Lara Brewer](https://open.spotify.com/artist/7uXTRYehx0ctiLlYQfJi6k) | [Spilt Milk](https://open.spotify.com/album/4lJnB605zfEOS6cGFn1Wre) | 3:26 | 2026-02-12 | 2026-03-16 |
 | [Spin My Hijab](https://open.spotify.com/track/5HT5K70P7DhvyDENbJaHSd) | [Edita King](https://open.spotify.com/artist/083PPuqs9pYZUI25Rm6mPC), [Saude Djbouti](https://open.spotify.com/artist/3jM4Xf8icqfHAofBuUptPZ) | [Wide & Open \(Deluxe\)](https://open.spotify.com/album/0kRgvezJslhbwHCjiRfP3V) | 2:48 | 2026-04-16 | 2026-05-17 |
 | [SPOOKY TIME \(Caseoh's Lore\)](https://open.spotify.com/track/2fZJWkuR5IBO9yp3pki53H) | [John Vaughn](https://open.spotify.com/artist/3vUZkwKcSB4SQcxZ9iCBhT) | [SPOOKY TIME \(Caseoh's Lore\)](https://open.spotify.com/album/270bk5bkYAtePZz9F7MGEc) | 2:07 | 2025-11-11 | 2025-12-13 |
+| [SPORTS CAR](https://open.spotify.com/track/7Illb7mvXtkMHfd20Px8D3) | [Ben Jarvis](https://open.spotify.com/artist/47L0IXN10HwDA8hJy5vc3d) | [SPORTS CAR](https://open.spotify.com/album/2H2paMeno2qRxOGx3TBZb6) | 2:44 | 2026-08-15 |  |
 | [Spotlight](https://open.spotify.com/track/0w4OXkc2PmACBEMP9EUmAY) | [Sentyne](https://open.spotify.com/artist/5ZWkDQG0d7PbY9N15aDy9k) | [Spotlight](https://open.spotify.com/album/50hdrHRe2zov81Qz6gwTW8) | 1:46 | 2025-10-28 | 2025-11-30 |
 | [Spring is coming](https://open.spotify.com/track/1rxUyzUe4MbKqViqWex9ws) | [Anthony Chris](https://open.spotify.com/artist/0PngrHPUT5Gu7vfhYAx023) | [Spring is coming \(From "Forget\-Me\-Not"\)](https://open.spotify.com/album/2xAZLFIFiXmEmaDpQC7mhf) | 3:02 | 2026-01-20 | 2026-02-24 |
 | [Spring Is Ours](https://open.spotify.com/track/1C0VVpowQLC7FyTHh9wJpW) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Spring Is Ours](https://open.spotify.com/album/5qtk1Bb4EVSExQEEZrGYjh) | 3:18 | 2026-05-29 | 2026-07-01 |

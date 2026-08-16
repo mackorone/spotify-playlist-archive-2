@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Becky G, Anuel AA, Farruko, Natanael Cano & Gabito Ballesteros & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,897 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,964 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 10 | [ABUELA](https://open.spotify.com/track/3EqWvVSw9domxXPFOAfl6o) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [ABUELA](https://open.spotify.com/album/5y4iXsBytXz1pvZss7eJk9) | 2:38 |
 | 11 | [GÓZALO, QUE TU MARIDO ESTÁ PRESO \- RMX](https://open.spotify.com/track/0pOfjsuKWEDHqSjzgXzuhd) | [Zelcok Kp](https://open.spotify.com/artist/34KCWdUCHMLKkx3sFb06zr), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Kiddy Fount](https://open.spotify.com/artist/0pF2lydgnGUlz4s1Zzhxra), [J\-Lit](https://open.spotify.com/artist/7dUBKGHcRsialvNetw2H6v), [Luis Malave](https://open.spotify.com/artist/27FuautCwBe6cBpghICnH2) | [GÓZALO, QUE TU MARIDO ESTÁ PRESO \(RMX\)](https://open.spotify.com/album/0JVVZgd8CUQypp9JhyTJcP) | 3:54 |
 | 12 | [Como Un Sueño](https://open.spotify.com/track/5EnCwwoIQgCjuBQEZHQJsB) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Como Un Sueño](https://open.spotify.com/album/0varpl3NpubIoDI75lXT6S) | 2:43 |
-| 13 | [MANIQUI \(feat\. Jay Wheeler & iZaak\)](https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 4:59 |
+| 13 | [MANIQUI](https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 4:59 |
 | 14 | [Estoy Pa' Ti](https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Estoy Pa' Ti](https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu) | 3:10 |
 | 15 | [G\. Catán](https://open.spotify.com/track/1cnc9DZ57KLgAKa8jX4xMd) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [G\. Catán](https://open.spotify.com/album/2yOHR3vwMZxt7MuQklWt7p) | 2:52 |
 | 16 | [PERMANENTE](https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [PERMANENTE](https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d) | 2:22 |

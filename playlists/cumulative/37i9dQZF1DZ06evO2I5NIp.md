@@ -4,7 +4,7 @@
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-157 songs - 10 hr 52 min
+158 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Isn't That So](https://open.spotify.com/track/3TaFgKTbx0GXLtLNwjrvKP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 3:17 | 2026-04-26 | 2026-06-28 |
 | [It Don't Hurt No More](https://open.spotify.com/track/0t2oq1DRaeWzX6VQ1fAXeE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 7:05 | 2022-08-05 | 2026-04-18 |
 | [It Don't Hurt No More](https://open.spotify.com/track/6sGK2wbCXNWFk9dOvfm2oD) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf) | 7:05 | 2026-04-18 |  |
-| [It's 2 A.M.](https://open.spotify.com/track/004057Au60xNi5a6rvCTDE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:28 | 2026-04-24 |  |
+| [It's 2 A.M.](https://open.spotify.com/track/004057Au60xNi5a6rvCTDE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:28 | 2026-04-24 | 2026-08-16 |
 | [It's 2 A.M.](https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:28 | 2022-08-05 | 2026-04-20 |
 | [It's My Own Tears](https://open.spotify.com/track/3hEujxmbPHfblaCnUML6ow) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 6:05 | 2022-08-05 | 2024-02-04 |
 | [It's My Own Tears](https://open.spotify.com/track/2ELvEasdfW66obN7sBw1Eb) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blues Ballads](https://open.spotify.com/album/0w9dUoFQIdEZpilkUmBaWA) | 6:06 | 2022-11-08 | 2022-12-08 |
@@ -141,6 +141,7 @@
 | [Tough Mother](https://open.spotify.com/track/2X6TcgwbtvKLk6nXWySAOB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 4:14 | 2026-04-16 |  |
 | [Tough Mother](https://open.spotify.com/track/4Ts8K8BHekSURe51XJHB6J) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:14 | 2024-09-14 | 2026-04-16 |
 | [Tough Mother](https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Tough Mother](https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI) | 4:14 | 2024-07-10 | 2026-03-25 |
+| [Traveling Riverside Blues](https://open.spotify.com/track/1q6a5AZllhZb7jIM7ToThW) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Mark Yacovone](https://open.spotify.com/artist/7CJGPqQhhAbOVVmhiJMPh4), [Ground Zero Blues Club Band](https://open.spotify.com/artist/03hSW2Ru3hyb1bADhUZYgT), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls), [Martin Gellner](https://open.spotify.com/artist/4htujiPBxC6ynIY9V6sKOR) | [Morgan Freeman's Symphonic Blues Experience](https://open.spotify.com/album/2pCUARTi6tBF0hMZtTz5ox) | 3:41 | 2026-08-16 |  |
 | [Turn The Heat Up](https://open.spotify.com/track/4ifseIlgKYEk3Oyx1L30zV) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 5:20 | 2022-08-05 | 2026-04-24 |
 | [Unbreakable](https://open.spotify.com/track/1Dm4rrlrrPfUTrxlutFXDB) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 2:52 | 2025-07-20 | 2026-02-17 |
 | [Unbreakable](https://open.spotify.com/track/2Kh8M6YbyuaP9iOMsYc58i) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Unbreakable](https://open.spotify.com/album/7hYyT1qYD7EaZl7UqbqxZ0) | 2:52 | 2025-04-06 |  |

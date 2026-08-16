@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > 🚀 when ur love language is bpm 🚀  Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,760 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,319 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 99 | [Toter Schmetterling \- Single Edit](https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf) | 2:44 |
 | 100 | [1999](https://open.spotify.com/track/3YolktwmGt2nwFD8KMlJfh) | [Beauty & the Beats](https://open.spotify.com/artist/2emZe6KE4VoCIKEiqWA9Wm), [NAJA](https://open.spotify.com/artist/5upYH7rY7XhDuDIzzGuaIE) | [1999](https://open.spotify.com/album/5en9icbhBhWDpl3SoRTvZp) | 2:13 |
 
-Snapshot ID: `AAAAAFc2cj+gMxjxC0S85uy3F7H1SDE8`
+Snapshot ID: `AAAAAHhVJKPg2wqaoJKo4SyCrt82ul1I`

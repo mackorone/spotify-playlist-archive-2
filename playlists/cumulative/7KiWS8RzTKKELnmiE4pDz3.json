@@ -451,6 +451,28 @@
     },
     {
       "album": {
+        "name": "Movies on Demand 2",
+        "url": "https://open.spotify.com/album/1bEiqvJthWswKYMmqVX5fi"
+      },
+      "artists": [
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        },
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207980,
+      "name": "1st Time (feat. Talib Kweli)",
+      "url": "https://open.spotify.com/track/2CZfcW6PIhgHKXNhvvMNXI"
+    },
+    {
+      "album": {
         "name": "Spiral Staircases",
         "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
       },
@@ -2194,6 +2216,32 @@
       "duration_ms": 508226,
       "name": "Another Star",
       "url": "https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm"
+    },
+    {
+      "album": {
+        "name": "Drip Season 2",
+        "url": "https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT"
+        },
+        {
+          "name": "Shad Da God",
+          "url": "https://open.spotify.com/artist/2z1ZZSBRCNYjOZmUcA3rSQ"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "Another Wave (feat. Shad Da God & Duke)",
+      "url": "https://open.spotify.com/track/59Whq4nWsrKSoLQpl6GDZa"
     },
     {
       "album": {
@@ -24974,6 +25022,24 @@
       "duration_ms": 174000,
       "name": "Steel Doors",
       "url": "https://open.spotify.com/track/70acIbhFV0rmyBAGhcUheC"
+    },
+    {
+      "album": {
+        "name": "Mutant Mindframe",
+        "url": "https://open.spotify.com/album/0mKl7kr8rXXT7NyBYJAsFk"
+      },
+      "artists": [
+        {
+          "name": "Big Gipp",
+          "url": "https://open.spotify.com/artist/7e36DF0IaZI4JXfIf95ppT"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274240,
+      "name": "Steppin Out",
+      "url": "https://open.spotify.com/track/4iw9biJplthfCNgkJBa1Wc"
     },
     {
       "album": {

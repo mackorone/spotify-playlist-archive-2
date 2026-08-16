@@ -6061,6 +6061,24 @@
     },
     {
       "album": {
+        "name": "POST-APOCALIPSIS",
+        "url": "https://open.spotify.com/album/4txk4iDLgcKqxCqpCRIg2u"
+      },
+      "artists": [
+        {
+          "name": "Luna Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248960,
+      "name": "Siempre fui yo",
+      "url": "https://open.spotify.com/track/169P8NIfYeGOvaDVUpA3DT"
+    },
+    {
+      "album": {
         "name": "Siempre tarde",
         "url": "https://open.spotify.com/album/584hp7buZV9LYY2t3fy1Wh"
       },
@@ -6902,24 +6920,6 @@
       "duration_ms": 245059,
       "name": "Tout D\u00e9truire",
       "url": "https://open.spotify.com/track/02cQX9YmUkuqSHhDhulr88"
-    },
-    {
-      "album": {
-        "name": "POST-APOCALIPSIS",
-        "url": "https://open.spotify.com/album/4txk4iDLgcKqxCqpCRIg2u"
-      },
-      "artists": [
-        {
-          "name": "Luna Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR"
-        }
-      ],
-      "date_added": "2026-08-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/169P8NIfYeGOvaDVUpA3DT"
     },
     {
       "album": {

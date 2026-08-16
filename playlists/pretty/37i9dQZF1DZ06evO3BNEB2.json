@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40869,
+  "num_followers": 40874,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAAAllS5Pp9xRa43cSvCY50ep",
+  "snapshot_id": "an5agAAAAAAqHNIpHdSrNA/aVxMdesDO",
   "tracks": [
     {
       "added_at": null,
@@ -354,15 +354,11 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 153935,
-      "name": "City On Fire",
-      "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
+      "duration_ms": 213954,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
     },
     {
       "added_at": null,
@@ -434,11 +430,15 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 213954,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
+      "duration_ms": 153935,
+      "name": "City On Fire",
+      "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
     },
     {
       "added_at": null,
@@ -483,22 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
+        "name": "N.W.A",
+        "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
       },
       "artists": [
         {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 277970,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
+      "duration_ms": 230413,
+      "name": "N.W.A",
+      "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
     },
     {
       "added_at": null,
@@ -519,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N.W.A",
-        "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 230413,
-      "name": "N.W.A",
-      "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
+      "duration_ms": 277970,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
     },
     {
       "added_at": null,

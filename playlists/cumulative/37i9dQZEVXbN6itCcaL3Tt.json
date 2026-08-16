@@ -1933,6 +1933,32 @@
     },
     {
       "album": {
+        "name": "700 koni",
+        "url": "https://open.spotify.com/album/4ACe5SdQTrvmOgCvrIgw8a"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Lot808",
+          "url": "https://open.spotify.com/artist/2aNeuKW2ShJIZpLrYsZ3yW"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "700 koni",
+      "url": "https://open.spotify.com/track/2KhFSKETirak72KCS1S8Ov"
+    },
+    {
+      "album": {
         "name": "8MILA",
         "url": "https://open.spotify.com/album/4aKvcMUnw2chfeJ8aa9FY0"
       },
@@ -2867,6 +2893,32 @@
     },
     {
       "album": {
+        "name": "AIOLI",
+        "url": "https://open.spotify.com/album/2YtxeCsI2O64Zx6z6ChhAW"
+      },
+      "artists": [
+        {
+          "name": "Hi Hania",
+          "url": "https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "AIOLI",
+      "url": "https://open.spotify.com/track/7rPpyQOTrwogcFW1PZ6DYQ"
+    },
+    {
+      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -3220,7 +3272,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 181669,
       "name": "ALEMANIA",
       "url": "https://open.spotify.com/track/4HgVCISnJsolKHepE0mDqx"
@@ -9406,7 +9458,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/4KW66ZVoSyUN0TJXdL9mLc"
@@ -19334,7 +19386,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 110066,
       "name": "G STRING",
       "url": "https://open.spotify.com/track/6EbWUAwIKY47IsKYPNRtFg"
@@ -20526,6 +20578,24 @@
       "duration_ms": 207626,
       "name": "GORE GWIAZDA JEZUSOWI",
       "url": "https://open.spotify.com/track/4NLkX5Hifpl9n6KYDOOMC8"
+    },
+    {
+      "album": {
+        "name": "GORSET",
+        "url": "https://open.spotify.com/album/1ra4O8NMeZt8IQb3Hp7639"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "GORSET",
+      "url": "https://open.spotify.com/track/228k1h2pPFmcnmI8hWSpYc"
     },
     {
       "album": {
@@ -22380,6 +22450,24 @@
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
+    },
+    {
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140720,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
     },
     {
       "album": {
@@ -37788,7 +37876,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 220000,
       "name": "NIC NIE MIJA",
       "url": "https://open.spotify.com/track/5QG98InY2TALW4heEeze5H"
@@ -38956,7 +39044,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 237000,
       "name": "NIEKO\u0143CZ\u0104CY Z\u0141Y SEN",
       "url": "https://open.spotify.com/track/4y5ilFt4kTUwusvWfnqoDn"
@@ -48462,7 +48550,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 197938,
       "name": "RED BULL 64 BARS",
       "url": "https://open.spotify.com/track/7mJjmRVtuECyQyqhkBR9MM"
@@ -49060,7 +49148,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 174222,
       "name": "RMB (Ring My Bell)",
       "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
@@ -53500,6 +53588,48 @@
       "duration_ms": 183703,
       "name": "STRZELAM PETEM",
       "url": "https://open.spotify.com/track/7yHuqNnOtkfc2k9GF7nMMR"
+    },
+    {
+      "album": {
+        "name": "Stuku Puku",
+        "url": "https://open.spotify.com/album/4AtrCddKDchbkqCrKIwiHM"
+      },
+      "artists": [
+        {
+          "name": "NEWGEN",
+          "url": "https://open.spotify.com/artist/6t1FWcWt56g45JgJcMd7wA"
+        },
+        {
+          "name": "Mortal",
+          "url": "https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3"
+        },
+        {
+          "name": "Postirol",
+          "url": "https://open.spotify.com/artist/2MdRJ4qSgSQk9uA95FITj3"
+        },
+        {
+          "name": "ogmarceli",
+          "url": "https://open.spotify.com/artist/69yDrgVi1EMLPH9NdXwfAg"
+        },
+        {
+          "name": "Suzan",
+          "url": "https://open.spotify.com/artist/3FctlAzLuCbI9SZGSmICfg"
+        },
+        {
+          "name": "Daniel Koszczuk",
+          "url": "https://open.spotify.com/artist/33TjfGH5T4xBcDr7nCP1mX"
+        },
+        {
+          "name": "Kwolczi",
+          "url": "https://open.spotify.com/artist/2ixtjqXDvLMk4FzMoQQK6C"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "Stuku Puku",
+      "url": "https://open.spotify.com/track/5eiCAgVKVIGjcAgj9Zy1JS"
     },
     {
       "album": {

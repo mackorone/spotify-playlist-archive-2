@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 86757,
+  "num_followers": 86786,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAADhCs7aCmw2rsejG0/9YNtQ",
+  "snapshot_id": "an5agAAAAAByF2Q+R2km9NnVrmB8q6vC",
   "tracks": [
     {
       "added_at": null,
@@ -779,6 +779,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Di",
+        "url": "https://open.spotify.com/album/0dSB2LstksZRA0adSfyTbV"
+      },
+      "artists": [
+        {
+          "name": "Mykyle",
+          "url": "https://open.spotify.com/artist/3EdCT2bYR55ySYU7hwbmcG"
+        },
+        {
+          "name": "Si Xiazi",
+          "url": "https://open.spotify.com/artist/0DhzfTcgpek8kkWvNJKwtB"
+        },
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 249909,
+      "name": "La Di",
+      "url": "https://open.spotify.com/track/4OCK9za3Z06Oqj4HaKBE2S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THATA USHAKA",
         "url": "https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL"
       },
@@ -807,34 +835,6 @@
       "duration_ms": 373821,
       "name": "Thata Ahh (feat. Young Stunna, Madumane & Tyla)",
       "url": "https://open.spotify.com/track/1lp3GifJS4r6hE6vUCfBzS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Di",
-        "url": "https://open.spotify.com/album/0dSB2LstksZRA0adSfyTbV"
-      },
-      "artists": [
-        {
-          "name": "Mykyle",
-          "url": "https://open.spotify.com/artist/3EdCT2bYR55ySYU7hwbmcG"
-        },
-        {
-          "name": "Si Xiazi",
-          "url": "https://open.spotify.com/artist/0DhzfTcgpek8kkWvNJKwtB"
-        },
-        {
-          "name": "Lucasraps",
-          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 249909,
-      "name": "La Di",
-      "url": "https://open.spotify.com/track/4OCK9za3Z06Oqj4HaKBE2S"
     }
   ],
   "unique_name": "This Is Tyla",

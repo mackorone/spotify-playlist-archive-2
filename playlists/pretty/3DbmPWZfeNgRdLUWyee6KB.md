@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,331 likes - 94 songs - 5 hr 34 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 99 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 92 | [Princess](https://open.spotify.com/track/2K7s6WVnborN8RINi9gAH4) | [LIZZIE JEAN](https://open.spotify.com/artist/1b6HJ3q8AGKxk3Ujvum9JA) | [Princess](https://open.spotify.com/album/2tYBRxofdsdxWkjwubPGdR) | 3:45 |
 | 93 | [Better Than This](https://open.spotify.com/track/7Idbp14EBaAC3LYhj68tWq) | [Emily Gray](https://open.spotify.com/artist/02s2pHJ0TIns6EsWRw2YM3) | [Better Than This](https://open.spotify.com/album/0WrS9xN9HbSwVTvlZgHEQL) | 2:54 |
 | 94 | [Lover](https://open.spotify.com/track/5OascNxBcGQPokRrdVy5zB) | [TsarKastic](https://open.spotify.com/artist/5mOXCKrpfgjhlo0esvsniS) | [You're the Flower](https://open.spotify.com/album/5DtsPiD9Jf9HqnFWmM3VRr) | 4:30 |
+| 95 | [Mute The Crowds](https://open.spotify.com/track/6tMAIkS40UonUjzI1AeIi6) | [N.A.S.P.](https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl) | [Mute The Crowds](https://open.spotify.com/album/4PwUHfvDmg5coCATtbUUeo) | 4:14 |
+| 96 | [Coraçãozinho](https://open.spotify.com/track/3YFFlrg1mqjV8AXIggAaSs) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7) | [Coraçãozinho](https://open.spotify.com/album/5K1paUkK21JkVFiX409bV9) | 3:51 |
+| 97 | [Chris](https://open.spotify.com/track/1Nefj4hzD1o6kLHygse9px) | [Zaré](https://open.spotify.com/artist/7bSj4WmjeZYWoUnRSG8yz1) | [Chris](https://open.spotify.com/album/6yz1csN8aXWVufZ8ZpeeSk) | 2:59 |
+| 98 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 |
+| 99 | [By your side](https://open.spotify.com/track/2PhjsfyyqYKfgwC5LEaFjv) | [Sara Ek](https://open.spotify.com/artist/3a5j3QOGkjno2pwwztoxVG) | [By your side](https://open.spotify.com/album/0PUSyahfMWDhAJyzG3Ep7v) | 3:26 |
 
-Snapshot ID: `AAAXF7w4IX5u444qYdHoRE45bYqA5V8C`
+Snapshot ID: `AAAXHObmLfOSgp/gCFQKJYyCmUnkqLh1`

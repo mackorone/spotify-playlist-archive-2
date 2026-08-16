@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 171692,
       "name": "BOSZORK\u00c1NY",
       "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
@@ -11439,6 +11439,28 @@
     },
     {
       "album": {
+        "name": "FLESS",
+        "url": "https://open.spotify.com/album/261KMZNJIPk6fZnhokAu7U"
+      },
+      "artists": [
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170967,
+      "name": "FLESS",
+      "url": "https://open.spotify.com/track/2SYOjGmLH8lGvlE85oNX3Y"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -16456,7 +16478,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -32570,7 +32592,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 146808,
       "name": "Talpra cig\u00e1nyok",
       "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
@@ -34356,7 +34378,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 187245,
       "name": "tokio",
       "url": "https://open.spotify.com/track/052xnp9xQg6FZyUEoXC5P7"
@@ -38998,7 +39020,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 160768,
       "name": "\u00cdgy sem k\u00f6nnyebb",
       "url": "https://open.spotify.com/track/4WjtNR5fqgtMSstBY3yvPN"

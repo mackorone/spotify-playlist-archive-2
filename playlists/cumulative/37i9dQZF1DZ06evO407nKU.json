@@ -712,7 +712,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 163430,
       "name": "Destino Ingrato",
       "url": "https://open.spotify.com/track/67dgLHhhZH1PoujCv3siyO"
@@ -2430,6 +2430,28 @@
       "duration_ms": 235052,
       "name": "Por Mujeres Como Tu - En Vivo",
       "url": "https://open.spotify.com/track/6elOa8abV7QCEOZ36GrS4t"
+    },
+    {
+      "album": {
+        "name": "Por Que Te Marchaste",
+        "url": "https://open.spotify.com/album/5F0zK17rXmB48SKu6fUZjW"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Erik Alexander",
+          "url": "https://open.spotify.com/artist/1wcGLR6zJivtVU0LHUu4o9"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177840,
+      "name": "Por Que Te Marchaste",
+      "url": "https://open.spotify.com/track/42JF017uIQ0zZ2kvK6yeKb"
     },
     {
       "album": {

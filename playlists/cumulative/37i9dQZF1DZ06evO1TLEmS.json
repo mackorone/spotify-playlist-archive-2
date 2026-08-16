@@ -1739,6 +1739,28 @@
     },
     {
       "album": {
+        "name": "Sorry, Kid",
+        "url": "https://open.spotify.com/album/2BYdFpwcIUWLQCcVgFTtrK"
+      },
+      "artists": [
+        {
+          "name": "Johanna Samuels",
+          "url": "https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206997,
+      "name": "Rare (The Runner Song)",
+      "url": "https://open.spotify.com/track/2LXFWcV15XY5QfGFgTpVbu"
+    },
+    {
+      "album": {
         "name": "Glory Song",
         "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
       },

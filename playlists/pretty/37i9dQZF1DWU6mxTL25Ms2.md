@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 
 > Enjoy music from "<br/>Umamusume: Pretty Derby! © Cygames, Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,137 likes - 75 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,160 likes - 75 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 | 74 | [光の後ろ姿](https://open.spotify.com/track/0jrGkXVNYtZEKrE0Zi8IBf) | [シュヴァルグラン \(CV\. 夏吉ゆうこ\)](https://open.spotify.com/artist/2xgEy3RyCYHdv0nydyx8G5) | [TVアニメ『ウマ娘 プリティーダービー Season 3』ANIMATION DERBY Season 3 vol.3 Original Sound Track](https://open.spotify.com/album/7vBuUrXhZgRAY94mszxsud) | 5:23 |
 | 75 | [奇跡を信じて！ \- 2021 Remastered Version](https://open.spotify.com/track/6hBMq427uQ8vzcR1xmbiCm) | [タイキシャトル \(CV\. 大坪由佳\)](https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz), [グラスワンダー \(CV\. 前田玲奈\)](https://open.spotify.com/artist/613a940AwltjxfJv9vqBgG), [ヒシアマゾン \(CV\. 巽 悠衣子\)](https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG) | [スマホゲーム『ウマ娘 プリティーダービー』STARTING GATE 04 \(2021 Remastered Version\)](https://open.spotify.com/album/3rtJYpIavHah5Qqf8dfcQ4) | 4:11 |
 
-Snapshot ID: `AAAAAKYpS8iZs/Mlmdx5BxGRGUhcxR2m`
+Snapshot ID: `AAAAAJZUStv6sDGH1bER+SKCBNFGNCTS`

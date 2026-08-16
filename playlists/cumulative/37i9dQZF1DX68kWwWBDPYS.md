@@ -4,7 +4,7 @@
 
 > morrxs chidxs haciendo música chida\. Milkmanen portada.
 
-397 songs - 20 hr 41 min
+397 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Si No Nos Dejan](https://open.spotify.com/track/0PHBBmzBnMref1AnnPtacI) | [LEZ](https://open.spotify.com/artist/0lRFpCZjD0HuFYJIOND5xh) | [Si No Nos Dejan](https://open.spotify.com/album/2sDUHUNZb8NsHTE30cqxo7) | 4:18 | 2023-07-21 | 2023-10-21 |
 | [SI SALTAS YO SALTO](https://open.spotify.com/track/6Q7DpZhQV7gT0vWQF4haez) | [FAZ](https://open.spotify.com/artist/4xUSrhyHFt2cjzOPqWoJM7) | [SI SALTAS YO SALTO](https://open.spotify.com/album/0Lj7mIDsspYxegJlZ4d3BC) | 2:51 | 2025-05-23 | 2025-09-20 |
 | [Sid & Nancy](https://open.spotify.com/track/791drWVgeXPnAbs02qVg4o) | [GRBR](https://open.spotify.com/artist/5wYPbUoEPm8ZuFQ3ERsctg) | [Sid & Nancy](https://open.spotify.com/album/34HJPRnYX7OBNgcfmyNuGZ) | 3:03 | 2025-12-05 |  |
+| [Siempre fui yo](https://open.spotify.com/track/169P8NIfYeGOvaDVUpA3DT) | [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [POST\-APOCALIPSIS](https://open.spotify.com/album/4txk4iDLgcKqxCqpCRIg2u) | 4:08 | 2026-08-14 |  |
 | [Siempre tarde](https://open.spotify.com/track/52scSVRVCEoNgIxSyraHAC) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Magic Classic](https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM) | [Siempre tarde](https://open.spotify.com/album/584hp7buZV9LYY2t3fy1Wh) | 3:01 | 2023-07-21 | 2024-04-27 |
 | [Siete](https://open.spotify.com/track/6MQpMUIrJK4z7hMM0ykffN) | [Lizi Lay](https://open.spotify.com/artist/1ePXokISu6GVKdSaw5XWic) | [Siete](https://open.spotify.com/album/15MH3Mp6C5ykKjk0MNGOcq) | 3:19 | 2024-10-18 | 2025-02-08 |
 | [sin equipaje](https://open.spotify.com/track/3aazu3Zz04wGp39V0Ij8cK) | [Azul Aimé](https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY) | [sin equipaje](https://open.spotify.com/album/09ditbrAb865G5Ea1pdL78) | 2:14 | 2025-04-11 | 2025-07-05 |
@@ -362,7 +363,6 @@
 | [TODOTERRENO](https://open.spotify.com/track/57bczw09mhiwNz2kpX7yJb) | [Santi Casas](https://open.spotify.com/artist/4YprdodXx3yev6WoZw0cG1), [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l) | [CUATROx4](https://open.spotify.com/album/5GAuHz0X8mVvNCSUpwfCWz) | 3:17 | 2026-07-24 |  |
 | [Tormento](https://open.spotify.com/track/7luTItMWT5N84eLmo9une9) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Tormento](https://open.spotify.com/album/70h7L4J38OMRLpkxM5aK7B) | 2:50 | 2024-06-28 | 2024-09-21 |
 | [Tout Détruire](https://open.spotify.com/track/02cQX9YmUkuqSHhDhulr88) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Tout Détruire](https://open.spotify.com/album/6MZnW2IAFWZ8kC2qyZkFar) | 4:05 | 2024-11-22 | 2025-02-01 |
-| [Track 2](https://open.spotify.com/track/169P8NIfYeGOvaDVUpA3DT) | [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [POST\-APOCALIPSIS](https://open.spotify.com/album/4txk4iDLgcKqxCqpCRIg2u) | 0:00 | 2026-08-14 |  |
 | [Trascender](https://open.spotify.com/track/63gzmNhguCWsloiEk8Celz) | [Japonica](https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD) | [Trascender](https://open.spotify.com/album/4sq9nJebxkrBvLUke1qyJJ) | 2:54 | 2024-10-25 | 2025-03-15 |
 | [TRISTE](https://open.spotify.com/track/1g90E7Uimdv0Ft8WpS6Kcu) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [PRECIOSA](https://open.spotify.com/album/2mPXRTtgpADnUhUtO7YvsT) | 3:08 | 2025-09-26 | 2026-07-25 |
 | [Tropezar](https://open.spotify.com/track/1rUv7qNQOT6Ak0eCWPITNg) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Tropezar](https://open.spotify.com/album/5y39t1EugMgkZWHKJFqXvZ) | 2:44 | 2025-02-07 | 2025-06-28 |

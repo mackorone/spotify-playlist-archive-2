@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 95 songs - 5 hr 37 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 101 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,5 +103,11 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 93 | [Disney Princess](https://open.spotify.com/track/2DgX8mPMcz7DbIZPYaYSQl) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [Disney Princess](https://open.spotify.com/album/4guOJjMBtA0nQEo9xVpC4F) | 4:15 |
 | 94 | [Blodwyn](https://open.spotify.com/track/5UFmMdHSFqbWXQJoAbppSm) | [Moss Meredith](https://open.spotify.com/artist/3DL8xk1UlC6kPkrlbTHA56) | [Blodwyn](https://open.spotify.com/album/6UUxFXo46hihB0aOxV5kPq) | 3:20 |
 | 95 | [1AM \(okay?\)](https://open.spotify.com/track/4H4fEmpLjtbQFO0W8paX3W) | [AT2AM](https://open.spotify.com/artist/2xU3yMdBTq8VWl2zEVjfQy) | [1AM \(okay?\)](https://open.spotify.com/album/0lzkhu2xCpdb1TeR4t0E90) | 2:12 |
+| 96 | [O Rio](https://open.spotify.com/track/12aIlEloDf9WXhQVKqrfjz) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [No Jardim dos Acasos](https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i) | 4:42 |
+| 97 | [know u](https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [know u](https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK) | 4:14 |
+| 98 | [Know Me Better](https://open.spotify.com/track/1mk6YMbaXHSdsumYWEl2tt) | [Miss the Heart](https://open.spotify.com/artist/3X6LelOSzqJ8SyazncvEyv) | [Know Me Better](https://open.spotify.com/album/5W8kFlj1r6VM1lz2rB9UvI) | 3:13 |
+| 99 | [Upside Down](https://open.spotify.com/track/0Qr1SJI2KiE6LgPf7AUECd) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Upside Down](https://open.spotify.com/album/6PYulOmBCJBpqTYlbjE6hG) | 2:36 |
+| 100 | [ダウンタウンを離れれば](https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [ダウンタウンを離れれば](https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK) | 4:00 |
+| 101 | [Heartbeats](https://open.spotify.com/track/0LVS42F6kSnhVknhBQemJM) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [Embers](https://open.spotify.com/album/7jeNenCbmKhLBEjCAqnRIc) | 3:52 |
 
-Snapshot ID: `AAAPy02+Z7a6due4FurX/0DR3EneW0v5`
+Snapshot ID: `AAAP0XDmPfAZv15mvCvBp7eScg1A+EhJ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 197516,
+  "num_followers": 197603,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAACODXToIqb5SFw1BdLp2YcC",
+  "snapshot_id": "an5agAAAAAAR5SmqyYcJJLtyNBhVmTLb",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playball",
         "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 214840,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/0wnSZFhtJPNPXUDCDcgwVb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 182299,
-      "name": "Delante De Mi",
-      "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Proveedor",
         "url": "https://open.spotify.com/album/0RFanvIBk0DNvJ1yxEFX4e"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 231471,
       "name": "El Proveedor",
       "url": "https://open.spotify.com/track/2Gkth1SvX92CZSjofDFTrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 182299,
+      "name": "Delante De Mi",
+      "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/4FxPlZ5Sj1gz2hZnDQxAqq"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "S\u00f3lo T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/11TIPsRs6xpSAqlYkttZq1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Posada Especial",
         "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 185750,
       "name": "Joven Bragado",
       "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/4FxPlZ5Sj1gz2hZnDQxAqq"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/11TIPsRs6xpSAqlYkttZq1"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primer Tiempo",
-        "url": "https://open.spotify.com/album/0A4OediUQq2lXiFq0OB7gX"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 212074,
-      "name": "Primer Tiempo",
-      "url": "https://open.spotify.com/track/0FEniDA74LuWEScdiQRmpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chico (En Vivo)",
         "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 147609,
       "name": "El Chico - En Vivo",
       "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primer Tiempo",
+        "url": "https://open.spotify.com/album/0A4OediUQq2lXiFq0OB7gX"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 212074,
+      "name": "Primer Tiempo",
+      "url": "https://open.spotify.com/track/0FEniDA74LuWEScdiQRmpI"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 229584,
-      "name": "Nestor (El Nini)",
-      "url": "https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/4KL4KUntyx980R5Lix6Jc5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 219147,
       "name": "El 3",
       "url": "https://open.spotify.com/track/4rTn8d1MKx0306cqiKrOlM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 229584,
+      "name": "Nestor (El Nini)",
+      "url": "https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,769 songs - 6 day 0 hr 49 min
+2,770 songs - 6 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [BIGLAF](https://open.spotify.com/track/5irK6xxnLIgC0KVzqII4O8) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [BIGLAF](https://open.spotify.com/album/1TDKG6UHfzhfH2JKdqkBCg) | 1:36 | 2024-09-07 | 2024-09-09 |
 | [Bikini Bottom](https://open.spotify.com/track/2HdMfuPAVAEzp7nQ58H4t9) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 2:42 | 2024-01-27 | 2024-02-02 |
 | [Bill Clinton](https://open.spotify.com/track/7ebeLiT7gklzZkqM17e2VC) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:29 | 2023-09-12 | 2023-09-25 |
-| [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 | 2026-04-24 | 2026-08-15 |
+| [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 | 2026-04-24 |  |
 | [Bimbo](https://open.spotify.com/track/3ieLcaMIyl1Avm7JtHSk0d) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Again](https://open.spotify.com/album/2BiGqGlzHFZ7KdYuKI1riz) | 2:43 | 2021-06-03 | 2021-08-21 |
 | [Binks to Binks 7](https://open.spotify.com/track/3jJB4kVDO6k77JnErb57JY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Binks to Binks 7](https://open.spotify.com/album/1dY6hViGRg867Abd5NzinS) | 4:05 | 2021-12-02 | 2021-12-06 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-18 | 2025-04-13 |
@@ -555,6 +555,7 @@
 | [Clair de Lune](https://open.spotify.com/track/06nINF77rvsY7Nkxjc1hD3) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:41 | 2025-04-12 | 2025-04-14 |
 | [Clap Your Hands](https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 3:09 | 2022-04-03 | 2023-01-03 |
 | [Clic clic pan pan](https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [Pays des merveilles](https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe) | 2:43 | 2022-02-08 | 2023-01-03 |
+| [Coachella](https://open.spotify.com/track/5GW0Vh78Qa8aEVHByOCuYn) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Coachella](https://open.spotify.com/album/3EGnqt7FAO1CbifmJx7a1a) | 2:41 | 2026-08-15 |  |
 | [Cocktail](https://open.spotify.com/track/2jH0AqIwoPWMtG1d5z1J6a) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 2:43 | 2023-10-29 | 2023-11-02 |
 | [Coco](https://open.spotify.com/track/3bebSZHbfRCrQIFcNc4HkA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 2:33 | 2023-06-10 | 2023-06-24 |
 | [Coco](https://open.spotify.com/track/6hfkqvPACVG4l4qtY7xDgG) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:44 | 2022-12-07 | 2023-01-25 |
@@ -1469,7 +1470,7 @@
 | [Lorenzo](https://open.spotify.com/track/1QCfgZoxEqZs2ag5qcLGN7) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:34 | 2022-12-09 | 2022-12-11 |
 | [Los Angeles](https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Los Angeles](https://open.spotify.com/album/0Kzc5Q79RKy9q77FO6v1hP) | 3:05 | 2025-05-11 | 2025-08-10 |
 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2023-11-18 | 2025-01-12 |
-| [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 | 2026-08-11 |  |
+| [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 | 2026-08-11 | 2026-08-16 |
 | [LOST FOREST](https://open.spotify.com/track/1SWNxL41LgHnQNu9hFkHGY) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 4:35 | 2021-07-18 | 2021-07-23 |
 | [LOST FOREVER](https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:43 | 2023-07-29 | 2023-07-31 |
 | [Louis V](https://open.spotify.com/track/0PuQvRclIp1bN8et2lVA4d) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 3:04 | 2021-09-12 | 2021-10-10 |
@@ -1656,7 +1657,7 @@
 | [MIRAGE \(feat\. Ozuna, GIMS & Sfera Ebbasta\)](https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MIRAGE \(feat\. Ozuna, Sfera Ebbasta & GIMS\)](https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH) | 3:26 | 2023-06-18 | 2023-07-12 |
 | [Miroirs](https://open.spotify.com/track/7nRCeBY3Oyqu94Nav3ViTT) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 3:06 | 2024-12-07 | 2024-12-15 |
 | [Misaotra \- Nouvelle École](https://open.spotify.com/track/1E1sFUwobQopymfKEQpC66) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:04 | 2024-07-23 | 2024-07-25 |
-| [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 | 2026-03-14 |  |
+| [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 | 2026-03-14 | 2026-08-16 |
 | [MISS LILY'S](https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 3:19 | 2024-12-03 | 2024-12-08 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-13 | 2023-03-10 |
 | [Missiles](https://open.spotify.com/track/6rZ8Y8JTBZXIBwr78abvEw) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 4:16 | 2024-12-07 | 2024-12-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Kunmie, 6uff, Bella Shmurda, Famous Pluto, Juls, Ayjaybobo and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,314 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,448 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 10 | [Can You Stay](https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:54 |
 | 11 | [Gut Genug \(with Omah Lay, Blumengarten & 255\)](https://open.spotify.com/track/6c7ao7QiLH0kT6wd0xHUCV) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Gut Genug \(with Omah Lay, Blumengarten & 255\)](https://open.spotify.com/album/0gszF1GZYyI0D0qc4ez0r9) | 2:28 |
 | 12 | [DJ](https://open.spotify.com/track/4l8JVJZKAjvCd4Uo45ueiY) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [DJ](https://open.spotify.com/album/3g0J73UzqE9DmNVqbJ0p9a) | 2:29 |
-| 13 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [On My Birthday](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
+| 13 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
 | 14 | [WHATS POPPING?¿](https://open.spotify.com/track/2jfUN624xpgD4GujBHQ75v) | [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx), [DaveTheOracle](https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z) | [Bobo Want 2 Sobobo](https://open.spotify.com/album/6YJtY2W1oHB1FMDXLIeeOT) | 2:12 |
 | 15 | [Track 2](https://open.spotify.com/track/4nCA8dhXAuD80xTz8dc3Ae) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Becoming HIM](https://open.spotify.com/album/1erEEuBMh1nDXJQb9sAcen) | 0:00 |
 | 16 | [40 DAYS](https://open.spotify.com/track/3PrvPMMmVi5HfPDbqiiC0j) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [40 DAYS](https://open.spotify.com/album/4pjgXRTrkI5MVMg52rXLt8) | 2:41 |

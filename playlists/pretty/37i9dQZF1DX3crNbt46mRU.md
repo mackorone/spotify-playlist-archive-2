@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ayra Starr, ZAYN, Shirin David, Summer Cem, GIMS, Luis Fonsi & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,978 likes - 96 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,981 likes - 96 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 30 | [Pastillitas De Color](https://open.spotify.com/track/4UuQQZByT87tFl5k7BMBcZ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Pastillitas De Color](https://open.spotify.com/album/4xfoXhc3fiFaAK6FFoZRW3) | 3:28 |
 | 31 | [I Lied, You Lied](https://open.spotify.com/track/0bDxiYRjox3caOYTlYKgDF) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [I Lied, You Lied](https://open.spotify.com/album/5QoH6LoBofBaurQ5TK5EYn) | 3:23 |
 | 32 | [Take It Slow \(Bullit\)](https://open.spotify.com/track/3d4xP3sUrLslwXjGsGdgSv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Take It Slow \(Bullit\)](https://open.spotify.com/album/3Pd6Q22lKUjKnJ3Tysz26h) | 2:56 |
-| 33 | [MANIQUI \(feat\. Jay Wheeler & iZaak\)](https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 4:59 |
+| 33 | [MANIQUI](https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 4:59 |
 | 34 | [Dass es hier so schön ist](https://open.spotify.com/track/1HGb9YabpkJHq6i8A1HY6n) | [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Dass es hier so schön ist](https://open.spotify.com/album/5HDCW78dFU4Hm8yk6h3EEl) | 3:42 |
 | 35 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 |
 | 36 | [4AM](https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [4AM](https://open.spotify.com/album/1Z0nnNdSO57sk7ENh7EHY7) | 2:35 |

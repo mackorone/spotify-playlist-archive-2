@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24576,
+  "num_followers": 24583,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an0JAAAAAAAAAT1VZhGwlmHNDCUOIXWK",
+  "snapshot_id": "an5agAAAAACWQ+QC9zpLHxk6rloLD0D5",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Kiss Me Like You Miss Me",
-      "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANGER BOY",
         "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 165600,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Kiss Me Like You Miss Me",
+      "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "NDA",
+      "url": "https://open.spotify.com/track/4UijNUSyQ3b7XehryTR7jf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 200869,
       "name": "Shakara",
       "url": "https://open.spotify.com/track/5XeMITYsLdefeCB0Q1RVOU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "NDA",
-      "url": "https://open.spotify.com/track/4UijNUSyQ3b7XehryTR7jf"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "PARA",
+      "url": "https://open.spotify.com/track/10pjc5OzTnqCwzVQLuDtqi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "love nwantiti x dumebi (Mid\u00e9 Naike Remix)",
         "url": "https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j"
       },
@@ -623,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 203894,
-      "name": "PARA",
-      "url": "https://open.spotify.com/track/10pjc5OzTnqCwzVQLuDtqi"
+      "duration_ms": 196713,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
     },
     {
       "added_at": null,
@@ -663,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
       "artists": [
         {
@@ -672,9 +688,9 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 196713,
-      "name": "mmadu",
-      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
+      "duration_ms": 142500,
+      "name": "RABA",
+      "url": "https://open.spotify.com/track/1bhywSiaWYWRJR9gIhFaHv"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 122346,
       "name": "Show My Side (feat. Amaarae)",
       "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "RABA",
-      "url": "https://open.spotify.com/track/1bhywSiaWYWRJR9gIhFaHv"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "PPOWER",
+      "url": "https://open.spotify.com/track/5PCs0fCPcLM5spCGgNVwYE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 172653,
       "name": "oliver kahn (feat. Boj)",
       "url": "https://open.spotify.com/track/3eUi4fK8AxqpuAt086XBUv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "PPOWER",
-      "url": "https://open.spotify.com/track/5PCs0fCPcLM5spCGgNVwYE"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 159813,
-      "name": "kalakuta",
-      "url": "https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANGER BOY",
         "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 151698,
       "name": "SEXY",
       "url": "https://open.spotify.com/track/6pLBB7DYuYBDu2cVVDz3AL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "kalakuta",
+      "url": "https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU"
     },
     {
       "added_at": null,

@@ -9115,6 +9115,32 @@
     },
     {
       "album": {
+        "name": "LIQUID CRACK",
+        "url": "https://open.spotify.com/album/12WhGBOmAadtfeGiP22oBN"
+      },
+      "artists": [
+        {
+          "name": "FLVR",
+          "url": "https://open.spotify.com/artist/0leKSEjHxsp5fYvQB67kEH"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/4kwslS4Kknwe0BU19XIUnz"
+    },
+    {
+      "album": {
         "name": "Boomer Rang",
         "url": "https://open.spotify.com/album/1uiP6NwEsXavVWZuw2bzFH"
       },
@@ -24652,7 +24678,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 209480,
       "name": "Four In One - Alternate Take",
       "url": "https://open.spotify.com/track/0bHx49sOlTCZTtDCsFYuXr"
@@ -33332,7 +33358,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 182520,
       "name": "I Should Care - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6sYnAVOEFBajsC1kawg9yd"
@@ -73932,7 +73958,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-16",
       "duration_ms": 154105,
       "name": "Troops",
       "url": "https://open.spotify.com/track/0FgNxa93rGYLHU9awN14LG"

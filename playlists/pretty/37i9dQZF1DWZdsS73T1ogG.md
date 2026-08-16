@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: LIT killah
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,713 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,762 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 6 | [Mentira](https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mentira](https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6) | 2:36 |
 | 7 | [Como Un Sueño](https://open.spotify.com/track/5EnCwwoIQgCjuBQEZHQJsB) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Como Un Sueño](https://open.spotify.com/album/0varpl3NpubIoDI75lXT6S) | 2:43 |
 | 8 | [Estoy Pa' Ti](https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Estoy Pa' Ti](https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu) | 3:10 |
-| 9 | [MANIQUI \(feat\. Jay Wheeler & iZaak\)](https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 4:59 |
+| 9 | [MANIQUI](https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 4:59 |
 | 10 | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe) | 5:24 |
 | 11 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 |
 | 12 | [GOZALO QUE TU MARIDO ESTA PRESO \- REMIX](https://open.spotify.com/track/6Z4ccTpgl11HGQ0FWPXeqI) | [Zelcok Kp](https://open.spotify.com/artist/34KCWdUCHMLKkx3sFb06zr), [Luis Malave](https://open.spotify.com/artist/27FuautCwBe6cBpghICnH2), [J\-Lit](https://open.spotify.com/artist/7dUBKGHcRsialvNetw2H6v), [Kiddy Fount](https://open.spotify.com/artist/0pF2lydgnGUlz4s1Zzhxra) | [GOZALO QUE TU MARIDO ESTA PRESO \(REMIX\)](https://open.spotify.com/album/5zR0OGxVRFzMXf4P3Ey37d) | 3:18 |

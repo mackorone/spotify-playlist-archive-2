@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Nemzzz 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,883 likes - 99 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,940 likes - 99 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
