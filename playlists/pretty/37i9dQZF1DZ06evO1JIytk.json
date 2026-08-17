@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16656,
+  "num_followers": 16657,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAD/vsxdfpNwVwlnSyop5dAu",
+  "snapshot_id": "an+sAAAAAADFtLdFkanXHgXrHyHcoEoh",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Stars And Stripes",
+      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A New Kind of Army",
         "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 153991,
       "name": "Captain Anarchy",
       "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 98120,
-      "name": "This Machine Kills Fascists",
-      "url": "https://open.spotify.com/track/0QROJn3UK5EoA7BzvDTRGq"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 98120,
+      "name": "This Machine Kills Fascists",
+      "url": "https://open.spotify.com/track/0QROJn3UK5EoA7BzvDTRGq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Terror State",
         "url": "https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Stars And Stripes",
-      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The General Strike",
         "url": "https://open.spotify.com/album/0ezxuUTs49NyqdB7Z5ns3j"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 148514,
       "name": "The Ranks of the Masses Rising",
       "url": "https://open.spotify.com/track/2YXkq18FeC5urvPpxraQ7c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "It Went Off Like A Bomb",
+      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 153093,
       "name": "You Can Kill The Protester, But You Can't Kill The Protest",
       "url": "https://open.spotify.com/track/5z92wWwolpshtOe27xrdHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "It Went Off Like A Bomb",
-      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hooligans United a Tribute to Rancid",
-        "url": "https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 77992,
-      "name": "Maxwell Murder",
-      "url": "https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underground Network",
         "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 134893,
       "name": "Bring Out Your Dead",
       "url": "https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hooligans United a Tribute to Rancid",
+        "url": "https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 77992,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Terror State",
-        "url": "https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 136773,
-      "name": "Sold As Freedom",
-      "url": "https://open.spotify.com/track/4aWMR6vD0wxCqP76DmCc8M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Fall",
         "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 169426,
       "name": "Finish What We Started",
       "url": "https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Terror State",
+        "url": "https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 136773,
+      "name": "Sold As Freedom",
+      "url": "https://open.spotify.com/track/4aWMR6vD0wxCqP76DmCc8M"
     }
   ],
   "unique_name": "This Is Anti-Flag",

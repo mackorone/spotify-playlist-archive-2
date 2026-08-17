@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIXiKcKm21cbI>Pearl Jam</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIYMvS0ATLpnT>The Smiths</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIViYkelREWYq>Surf Curse</a>, <a href=spotify:playlist:37i9dQZF1EIZlNy1eYPptu>Shawn Mendes</a>, <a href=spotify:playlist:37i9dQZF1EIZdd6v2TrO2y>Juice WRLD</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Black](https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:42 |
-| 2 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 |
-| 3 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 |
+| 1 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
+| 2 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
+| 3 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 |
 | 4 | [Life is Beautiful](https://open.spotify.com/track/5rYpwP1dHWGVMrSZbTmt3e) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:27 |
 | 5 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
 | 6 | [Im Doing Fine](https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG) | [Im Doing Fine](https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb) | 1:39 |
@@ -34,18 +34,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 24 | [Never Be Alright](https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ) | [Seon](https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8) | [Never Be Alright](https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0) | 2:48 |
 | 25 | [Sto Bene](https://open.spotify.com/track/7yDWlv3NjJLXG17O9bgr48) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Sto Bene](https://open.spotify.com/album/4zbd74XYn6lGfY8EXcjdXI) | 2:36 |
 | 26 | [Uncomparable](https://open.spotify.com/track/5GToLrexykJHVIedB2W5QT) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Uncomparable](https://open.spotify.com/album/1UHjX5iIanOMTSYu9YE8vl) | 1:45 |
-| 27 | [Una cotta per te](https://open.spotify.com/track/4VQiyfLMWzryiGAE2FpqTh) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [⁠Una cotta per te](https://open.spotify.com/album/2IB0IjVScOJPiz7FY7T7hm) | 3:06 |
-| 28 | [Roto](https://open.spotify.com/track/3YIU0OFB9ejJxu3eWgb7sU) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Roto](https://open.spotify.com/album/7tepmOQT0a7CUE5TpLJzpf) | 3:12 |
+| 27 | [Roto](https://open.spotify.com/track/3YIU0OFB9ejJxu3eWgb7sU) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Roto](https://open.spotify.com/album/7tepmOQT0a7CUE5TpLJzpf) | 3:12 |
+| 28 | [Una cotta per te](https://open.spotify.com/track/4VQiyfLMWzryiGAE2FpqTh) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [⁠Una cotta per te](https://open.spotify.com/album/2IB0IjVScOJPiz7FY7T7hm) | 3:06 |
 | 29 | [PIETÀ \(feat\. Kid Yugi\)](https://open.spotify.com/track/0IkOUXIMztRh6yBAPD1OzF) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 3:28 |
 | 30 | [16 Lines](https://open.spotify.com/track/6akBF8JWM8lrpqejdwIfYI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 4:04 |
 | 31 | [F\*ck Love](https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [F\*ck Love](https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg) | 3:17 |
 | 32 | [Dead Eyes](https://open.spotify.com/track/1iV5yIJimMf9pWfaDdf0UR) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Dead Eyes](https://open.spotify.com/album/5u5Qg7UanpKdnQa2Izf2cc) | 3:39 |
 | 33 | [MISTAKE](https://open.spotify.com/track/0rc9XLNs7KZXu2ASA3LbL8) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 3:35 |
 | 34 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 |
-| 35 | [Paranoie](https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Io Sono](https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK) | 2:43 |
+| 35 | [starcrossed girl](https://open.spotify.com/track/0rJ9ON5rJZMUb3jn8PidOX) | [Josiah MacCartney](https://open.spotify.com/artist/6Wm8af6tWJ7XAJ1poDozwY), [SadSky](https://open.spotify.com/artist/2ooLhcOE3idTK2H1rRrcGl) | [starcrossed girl](https://open.spotify.com/album/00OwCcHsBOjWMiJx5ltVp6) | 2:32 |
 | 36 | [Midnight Thoughts](https://open.spotify.com/track/2lbl6RWx8acFsyvYcasK0H) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Midnight Thoughts](https://open.spotify.com/album/3ODCSQwtxXdSYXkWovDdTb) | 2:04 |
 | 37 | [WHO I AM](https://open.spotify.com/track/06rpIOxnQoXUAcJHBV0u3k) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [WHO I AM](https://open.spotify.com/album/025DsQ1VwWqpqavTpyXnkd) | 2:30 |
-| 38 | [starcrossed girl](https://open.spotify.com/track/0rJ9ON5rJZMUb3jn8PidOX) | [Josiah MacCartney](https://open.spotify.com/artist/6Wm8af6tWJ7XAJ1poDozwY), [SadSky](https://open.spotify.com/artist/2ooLhcOE3idTK2H1rRrcGl) | [starcrossed girl](https://open.spotify.com/album/00OwCcHsBOjWMiJx5ltVp6) | 2:32 |
+| 38 | [Paranoie](https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Io Sono](https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK) | 2:43 |
 | 39 | [Pensando en Ti](https://open.spotify.com/track/69pVdg4uAzb5Zvtj1UogPH) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Vida](https://open.spotify.com/album/3C7BcxFvWDqoso5Z2mNTim) | 4:04 |
 | 40 | [Hate Me!](https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 2:34 |
 | 41 | [Guardian angel](https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:48 |

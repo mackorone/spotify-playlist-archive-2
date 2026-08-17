@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hovvdy
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,277 likes - 164 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,306 likes - 164 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

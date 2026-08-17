@@ -35,6 +35,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1y0jny.md) - [plain]
 | 25 | [O Ukumehame](https://open.spotify.com/track/4Ys4eKlU4mKNE2l5N1qZTy) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Lei Nāhonoapiʻilani: Nā Mele Hou](https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5) | 3:22 |
 | 26 | [Ka Ua Noe o Kōloa](https://open.spotify.com/track/5AfsmGrCkrQ6mEgqW1FF7y) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:58 |
 | 27 | [Koni Au i ka Wai / Ka Ipo Lauaʻe](https://open.spotify.com/track/3NIoUqAtDrrLT8nFpndYmT) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:30 |
-| 28 | [Aloha Maunalua](https://open.spotify.com/track/7aJyIjBzgbnK88VNZXf6gO) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:43 |
+| 28 | [He Māmane Paha ʻOe](https://open.spotify.com/track/4sSdtXAPpiexrddxJdojY6) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:25 |
 
-Snapshot ID: `an5agAAAAAC9ms4M3zsNbE9P/hdCsQ0A`
+Snapshot ID: `an+sAAAAAAAn/Q4uKY6Cl7ZEPXiKZ0pb`

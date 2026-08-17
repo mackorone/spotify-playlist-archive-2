@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJsJYb7LOhJix5vap3cnSeB0d9GpO9",
+  "snapshot_id": "AAAJtRwzjnMM1BWZaN6lcf2PcR6uF6jt",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -1007,22 +1007,6 @@
       "duration_ms": 195513,
       "name": "Toxic Eyes",
       "url": "https://open.spotify.com/track/6baNKpr9Yn4yIzaDxbRvWT"
-    },
-    {
-      "added_at": "2026-01-04 16:44:28",
-      "album": {
-        "name": "Rise Above",
-        "url": "https://open.spotify.com/album/4Nm3fCI7iK5YCHWZ8IMiP3"
-      },
-      "artists": [
-        {
-          "name": "Fra",
-          "url": "https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct"
-        }
-      ],
-      "duration_ms": 226037,
-      "name": "Rise Above",
-      "url": "https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC"
     },
     {
       "added_at": "2026-01-04 16:44:27",
@@ -57565,22 +57549,6 @@
       "url": "https://open.spotify.com/track/76VK3MYmRGRvka2LYLVhHM"
     },
     {
-      "added_at": "2025-10-21 00:01:52",
-      "album": {
-        "name": "Rise Above",
-        "url": "https://open.spotify.com/album/4Nm3fCI7iK5YCHWZ8IMiP3"
-      },
-      "artists": [
-        {
-          "name": "Fra",
-          "url": "https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct"
-        }
-      ],
-      "duration_ms": 226037,
-      "name": "Rise Above",
-      "url": "https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC"
-    },
-    {
       "added_at": "2025-10-22 21:26:57",
       "album": {
         "name": "Solaris",
@@ -76651,6 +76619,54 @@
       "duration_ms": 172000,
       "name": "Ausente",
       "url": "https://open.spotify.com/track/36PcSX4cg6YHzAIw3pDrgA"
+    },
+    {
+      "added_at": "2026-08-16 16:08:06",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2RoAIGWZrbvdBMqPC6WGhx"
+      },
+      "artists": [
+        {
+          "name": "Dark Shadow",
+          "url": "https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q"
+        }
+      ],
+      "duration_ms": 257822,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7gXg6Sf8me6GHEBiBcoOl5"
+    },
+    {
+      "added_at": "2026-08-16 16:08:16",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2RoAIGWZrbvdBMqPC6WGhx"
+      },
+      "artists": [
+        {
+          "name": "Dark Shadow",
+          "url": "https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q"
+        }
+      ],
+      "duration_ms": 257822,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7gXg6Sf8me6GHEBiBcoOl5"
+    },
+    {
+      "added_at": "2026-08-16 23:01:42",
+      "album": {
+        "name": "DON'T LET YOU GO (Special Version Live)",
+        "url": "https://open.spotify.com/album/7kXFFaWb7ukg9VVgFkp08Q"
+      },
+      "artists": [
+        {
+          "name": "GIACOMO CAMARDA",
+          "url": "https://open.spotify.com/artist/0MhCaSAPRt64ircobpELfi"
+        }
+      ],
+      "duration_ms": 139885,
+      "name": "DON'T LET YOU GO - Special Version Live",
+      "url": "https://open.spotify.com/track/17zT71yHtIr4hEGrLNcdno"
     }
   ],
   "unique_name": "playlist spotify free",

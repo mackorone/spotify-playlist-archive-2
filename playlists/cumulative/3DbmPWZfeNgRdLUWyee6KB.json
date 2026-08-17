@@ -3233,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "Caffeine Me",
+        "url": "https://open.spotify.com/album/5MiwbuT50w6i4jvY93iizh"
+      },
+      "artists": [
+        {
+          "name": "Tim Dean",
+          "url": "https://open.spotify.com/artist/6ljXhNnXoYGVHFwaUt77OP"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174825,
+      "name": "Caffeine Me",
+      "url": "https://open.spotify.com/track/52XPRFSTLxdrsPkPKScvCv"
+    },
+    {
+      "album": {
         "name": "Call Me Anytime",
         "url": "https://open.spotify.com/album/3nKQvXcf2VZh9PCNuN1uAb"
       },
@@ -15694,6 +15712,24 @@
       "duration_ms": 174000,
       "name": "Nothing to Say",
       "url": "https://open.spotify.com/track/6QUVddM9HIqNr2PoFL9z0j"
+    },
+    {
+      "album": {
+        "name": "NOUS VS",
+        "url": "https://open.spotify.com/album/1xT3qNjK0YEhgdzcGC1mwS"
+      },
+      "artists": [
+        {
+          "name": "Nous VS",
+          "url": "https://open.spotify.com/artist/20Dm5BMSCH5unIgew8WVwA"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137874,
+      "name": "NOUS VS",
+      "url": "https://open.spotify.com/track/5SDmLZ1sHna4BaDGOYFPry"
     },
     {
       "album": {

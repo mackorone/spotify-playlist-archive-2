@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9708,
+  "num_followers": 9710,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACOoJAlKub4YMJ20q+o1uqs",
+  "snapshot_id": "an+sAAAAAAAe4gWiwlrrGkmTwAF7/LIN",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution (Remix)",
-        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+        "name": "KARPEH",
+        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
       "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Qais Essar",
-          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+          "name": "Kai Eckhardt",
+          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
         }
       ],
-      "duration_ms": 635805,
-      "name": "Dil Jalaney Ki Baat",
-      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
+      "duration_ms": 197474,
+      "name": "Glass Face",
+      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
     },
     {
       "added_at": null,
@@ -775,26 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KARPEH",
-        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
+        "name": "Revolution (Remix)",
+        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
       },
       "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Kai Eckhardt",
-          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
+          "name": "Qais Essar",
+          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
         }
       ],
-      "duration_ms": 197474,
-      "name": "Glass Face",
-      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
+      "duration_ms": 635805,
+      "name": "Dil Jalaney Ki Baat",
+      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
     },
     {
       "added_at": null,

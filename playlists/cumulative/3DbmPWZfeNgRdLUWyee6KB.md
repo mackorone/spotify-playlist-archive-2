@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,395 songs - 3 day 9 hr 9 min
+1,397 songs - 3 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [By your side](https://open.spotify.com/track/2PhjsfyyqYKfgwC5LEaFjv) | [Sara Ek](https://open.spotify.com/artist/3a5j3QOGkjno2pwwztoxVG) | [By your side](https://open.spotify.com/album/0PUSyahfMWDhAJyzG3Ep7v) | 3:26 | 2026-08-15 |  |
 | [Bye Bye](https://open.spotify.com/track/6YyaeaYdMHPUU8ccujMuln) | [VOOVANT](https://open.spotify.com/artist/1NssdMrNeczZv8ZhjXlCFW) | [Bye Bye](https://open.spotify.com/album/5rD8SBGMNQldKfmlpYFqdt) | 3:13 | 2026-07-18 |  |
 | [Caballito de arena](https://open.spotify.com/track/4MbmHQqmrbA3jyaUGDiHyw) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Caballito de arena](https://open.spotify.com/album/3YMi7sNqtCHUBY1hk5l0Zm) | 2:59 | 2025-11-14 | 2025-12-21 |
+| [Caffeine Me](https://open.spotify.com/track/52XPRFSTLxdrsPkPKScvCv) | [Tim Dean](https://open.spotify.com/artist/6ljXhNnXoYGVHFwaUt77OP) | [Caffeine Me](https://open.spotify.com/album/5MiwbuT50w6i4jvY93iizh) | 2:54 | 2026-08-16 |  |
 | [Call Me Anytime](https://open.spotify.com/track/3SQIF5HhACrt8EeUE3eE4G) | [Apryll Aileen](https://open.spotify.com/artist/7HiM3bTnI54m340lbhpODC) | [Call Me Anytime](https://open.spotify.com/album/3nKQvXcf2VZh9PCNuN1uAb) | 3:55 | 2026-05-06 | 2026-06-05 |
 | [Call Out](https://open.spotify.com/track/7Lsb1QA4VjOFo0zla7PX3K) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Call Out](https://open.spotify.com/album/6YFMBhR7A3WMVREp2ATCdv) | 3:45 | 2026-01-06 | 2026-02-03 |
 | [Camminando con Astor](https://open.spotify.com/track/2GZdQm0vyiIGW5DQgyrQHH) | [Alejandro Fernandez Lecce](https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re) | [Buenos Aires Lounge Deluxe Vol\. 1](https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G) | 4:03 | 2024-09-19 | 2025-12-21 |
@@ -834,6 +835,7 @@
 | [Nothing but a Memory](https://open.spotify.com/track/68tcsrNM7NoCbRE0EW4x9A) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [Nothing but a Memory](https://open.spotify.com/album/3SWH29p4dFHzyY9fAbboOy) | 3:06 | 2025-12-17 | 2026-01-15 |
 | [nothing serious](https://open.spotify.com/track/41PEEcuyR4NNf3FBNphO95) | [Italia Larios](https://open.spotify.com/artist/10N336x5jfP6sE5ayTIrjZ) | [nothing serious](https://open.spotify.com/album/2YGjzOwoBr0xxfRGXSU79s) | 2:43 | 2026-06-01 | 2026-07-19 |
 | [Nothing to Say](https://open.spotify.com/track/6QUVddM9HIqNr2PoFL9z0j) | [Qatijaa](https://open.spotify.com/artist/6z3zwg3wiIAJ8VaU22XdHl) | [Nothing to Say](https://open.spotify.com/album/6JyDx9wI3OSBHvUKJqI55w) | 2:54 | 2026-02-18 | 2026-03-25 |
+| [NOUS VS](https://open.spotify.com/track/5SDmLZ1sHna4BaDGOYFPry) | [Nous VS](https://open.spotify.com/artist/20Dm5BMSCH5unIgew8WVwA) | [NOUS VS](https://open.spotify.com/album/1xT3qNjK0YEhgdzcGC1mwS) | 2:17 | 2026-08-16 |  |
 | [Now I Am the Sea](https://open.spotify.com/track/74htNqThe1QfAatZa7zWBT) | [Destiny Now](https://open.spotify.com/artist/2TyusiCeuCiPUac6SZht5q) | [Now I Am the Sea](https://open.spotify.com/album/6kZZr6XYHfKFv1HwFosZ0D) | 3:59 | 2026-07-02 | 2026-08-10 |
 | [Now I Know](https://open.spotify.com/track/2W1ix9JZO6vKc4Jmkjl4BR) | [Sillen](https://open.spotify.com/artist/5oa5r5NlMFHCD4FeJAdEJv) | [Now I Know](https://open.spotify.com/album/3U1ch3aqPmHSeBaRFiI1hh) | 4:09 | 2025-09-22 | 2025-11-29 |
 | [Nowhere](https://open.spotify.com/track/051yjsV0DXVGtKsTqmRgl0) | [GIUCA](https://open.spotify.com/artist/2b96cZLLX1g9UKa9ivOUOh), [Annalena](https://open.spotify.com/artist/1fDbDvS7xBPktEEt078Oww) | [Fragments Of A Broken Wing](https://open.spotify.com/album/1vsRiM9vIaylQNtgKurzLP) | 4:23 | 2026-07-22 |  |

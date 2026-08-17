@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308658,
+  "num_followers": 1308668,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACRNFmNcC+zU0Ev4G4MBnFs",
+  "snapshot_id": "an+sAAAAAADYCehruD5aqHac2sULlgaS",
   "tracks": [
     {
       "added_at": null,
@@ -739,46 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashbacks | CROSSOVER #9",
-        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 182871,
-      "name": "Flashbacks | CROSSOVER #9",
-      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 158497,
-      "name": "MI VERSI\u00d3N",
-      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No la Puedo Olvidar",
         "url": "https://open.spotify.com/album/6jG4udBvQmoHWbDnCPOncZ"
       },
@@ -803,6 +763,46 @@
       "duration_ms": 207600,
       "name": "No la Puedo Olvidar",
       "url": "https://open.spotify.com/track/0DAAUZcROuFcGSWMyiWnkv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 158497,
+      "name": "MI VERSI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flashbacks | CROSSOVER #9",
+        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 182871,
+      "name": "Flashbacks | CROSSOVER #9",
+      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party en el Barrio (feat. Duki)",
-        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 236143,
-      "name": "Party en el Barrio (feat. Duki)",
-      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Itamambuca",
         "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 243793,
       "name": "Itamambuca",
       "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
     },
     {
       "added_at": null,

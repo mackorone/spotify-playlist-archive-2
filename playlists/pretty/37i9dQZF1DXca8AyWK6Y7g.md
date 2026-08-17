@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > just trying our best 📸 ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,532,448 likes - 102 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,532,240 likes - 102 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

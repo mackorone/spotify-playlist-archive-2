@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 50870,
+  "num_followers": 50873,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAADZuwBPr/M9Plx4C/hQrJNu",
+  "snapshot_id": "an+sAAAAAAAPXXZMDn7F6dU1E4FzTXJj",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 131960,
-      "name": "Honor Is All We Know",
-      "url": "https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 89666,
       "name": "It's Quite Alright",
       "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 131960,
+      "name": "Honor Is All We Know",
+      "url": "https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 251260,
-      "name": "Arrested in Shanghai",
-      "url": "https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 78733,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 251260,
+      "name": "Arrested in Shanghai",
+      "url": "https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 129973,
-      "name": "Evil's My Friend",
-      "url": "https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 193437,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 129973,
+      "name": "Evil's My Friend",
+      "url": "https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Detroit",
-      "url": "https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 70933,
       "name": "Antennas",
       "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5"
     },
     {
       "added_at": null,

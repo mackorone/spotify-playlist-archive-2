@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > È una Geolier summer🩸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,613 likes - 55 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,585 likes - 55 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 54 | [La violenza Necessaria \(feat\. Shiva\)](https://open.spotify.com/track/4gYOPsRynx7hXQm5q47o04) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 2:43 |
 | 55 | [+ FORTE](https://open.spotify.com/track/6L1RGHjUjpxf3y2xUl9BSw) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [+ FORTE](https://open.spotify.com/album/0fFTufxbeegpl7egX0ugxa) | 3:26 |
 
-Snapshot ID: `AAAAAAtShYoQLOuklo+Zcag7uNS97rtK`
+Snapshot ID: `AAAAABVdzVnwa9BcQldDdRUmPpUo9RDz`

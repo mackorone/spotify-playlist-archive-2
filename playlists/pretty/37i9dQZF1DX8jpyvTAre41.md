@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Rise Against
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,610 likes - 144 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,602 likes - 144 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

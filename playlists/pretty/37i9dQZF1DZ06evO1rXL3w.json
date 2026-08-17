@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAD5Rg53969VpPBM6pIeHgP9",
+  "snapshot_id": "an+sAAAAAADmMXfy2VWKDbxiMzceh3Vh",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 187206,
-      "name": "I Could Use a Boost",
-      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
+      "duration_ms": 129468,
+      "name": "I Love You Charlotte - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt"
     },
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "I Could Use a Boost",
+      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 82002,
       "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/60tThvmnpVzWnYkPNYMJzV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 129468,
-      "name": "I Love You Charlotte - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 98622,
-      "name": "Happy Endings Don't Exist - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/398ed7LmIlpfvgaNQMcd8D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 65078,
       "name": "Main Title - from the Netflix Series \"Queen Charlotte\"",
       "url": "https://open.spotify.com/track/79tCf5okCzsoZh8bhXXrJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 98622,
+      "name": "Happy Endings Don't Exist - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/398ed7LmIlpfvgaNQMcd8D"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 47072,
-      "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 152429,
       "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
       "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 47072,
+      "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 61321,
-      "name": "A Gift For Edwina - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
@@ -339,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bridgerton (Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/4I2MrWkzR21FzzciyCEPKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte"
       },
@@ -364,9 +332,25 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 126960,
-      "name": "I Love You - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/5oc5ZvJpEVHlxgOJYjnUr7"
+      "duration_ms": 61321,
+      "name": "A Gift For Edwina - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 166746,
+      "name": "When You Are Alone",
+      "url": "https://open.spotify.com/track/2c44MBYwfnRj7WvSVlcM48"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
       "duration_ms": 95465,
       "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
       "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "I Love You - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/5oc5ZvJpEVHlxgOJYjnUr7"
     },
     {
       "added_at": null,

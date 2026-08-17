@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-98 songs - 4 hr 25 min
+99 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Met Mij Zijn](https://open.spotify.com/track/1EOSFJC2w4LvFaInJr9G4T) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Met Mij Zijn](https://open.spotify.com/album/2slIoPsgmDzAcvkF5g2Uyt) | 2:33 | 2026-08-04 |  |
 | [Onderwater](https://open.spotify.com/track/2RRtg1bO2s3leId02DD13n) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Onderwater](https://open.spotify.com/album/60C4sQv0Lv1XicSs1uP94y) | 2:14 | 2025-09-26 |  |
 | [Ongelofelijk](https://open.spotify.com/track/09xShRjUnJyJe1nFm0qS14) | [Aliyah](https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD) | [Ongelofelijk](https://open.spotify.com/album/1b34dfAabmWlwMT9U7mqH5) | 3:39 | 2022-05-25 |  |
-| [Piet Pyama Party](https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA) | [De Club van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/1czwYtZdav91HjwNmppicN) | 2:05 | 2022-05-25 |  |
+| [Piet Pyama Party](https://open.spotify.com/track/199q0O0xyH6dkY2J1OetUV) | [De Club van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/4hpb4w333XIqa3GFsv41O8) | 2:05 | 2026-08-16 |  |
+| [Piet Pyama Party](https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA) | [De Club van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/1czwYtZdav91HjwNmppicN) | 2:05 | 2022-05-25 | 2026-08-17 |
 | [Regular Girls](https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Regular Girls](https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A) | 2:23 | 2025-09-26 |  |
 | [Rückwärtsgang](https://open.spotify.com/track/0PeqjPMkg5az7s5PNiymXV) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [Rückwärtsgang](https://open.spotify.com/album/3FQ7WItUVApunygLj4btX7) | 2:27 | 2022-06-30 |  |
 | [Samen Blijven](https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Samen Blijven](https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o) | 2:38 | 2026-06-18 |  |

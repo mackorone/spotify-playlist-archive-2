@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/1zPpQABUmm6RzLAC7X4DB2"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD"
@@ -2550,7 +2550,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 173648,
       "name": "Sounds Like Heaven",
       "url": "https://open.spotify.com/track/1z4QbzCghIrGeYrnGJhmyQ"
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 173648,
       "name": "Sounds Like Heaven",
       "url": "https://open.spotify.com/track/6fBZTiPCdbbjLIwdkaOFQA"
@@ -3166,10 +3166,28 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 167152,
       "name": "Want For Nothing",
       "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
+    },
+    {
+      "album": {
+        "name": "The Hard Way (Complete Edition)",
+        "url": "https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167152,
+      "name": "Want For Nothing",
+      "url": "https://open.spotify.com/track/62FoSy5jJ0m06S1uMIPhw1"
     },
     {
       "album": {
@@ -3394,7 +3412,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 166173,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/28nPr6sGBMZF5kJbAf825B"
@@ -3412,7 +3430,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 166173,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/2hFvdR77j0TCQDYc9BftDb"

@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 123772,
+  "num_followers": 123811,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACiN8KqOrXXrbH1efTTiChC",
+  "snapshot_id": "an+sAAAAAAA3QnI2kYAAWlyAuPKV5dQc",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185421,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 152946,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/6z2qa2dnJDXgVTngG4gFu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185421,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "Turpentine",
+      "url": "https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 291533,
       "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
       "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "Turpentine",
-      "url": "https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL"
     },
     {
       "added_at": null,
@@ -915,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+        "name": "Brandy Clark",
+        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
       },
       "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 247133,
-      "name": "Whatever You Do",
-      "url": "https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY"
+      "duration_ms": 276146,
+      "name": "Dear Insecurity (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
     },
     {
       "added_at": null,
@@ -947,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saturn Return",
         "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 207600,
       "name": "Water Witch",
       "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brandy Clark",
-        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 276146,
-      "name": "Dear Insecurity (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
     }
   ],
   "unique_name": "This Is Brandi Carlile",

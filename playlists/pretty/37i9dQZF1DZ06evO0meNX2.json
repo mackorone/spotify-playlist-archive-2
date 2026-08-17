@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 45431,
+  "num_followers": 45505,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAADMjdLc7SjAoxAGVevcyral",
+  "snapshot_id": "an+sAAAAAAC9f+TQfai+Y+hDIvV6exUa",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D.M.8.",
-        "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Miguel Comando",
-          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
-        }
-      ],
-      "duration_ms": 271541,
-      "name": "D.M.8.",
-      "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni\u00f1o De Oro",
         "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 177704,
       "name": "Relojito Adiamantado",
       "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D.M.8.",
+        "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Miguel Comando",
+          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
+        }
+      ],
+      "duration_ms": 271541,
+      "name": "D.M.8.",
+      "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
     },
     {
       "added_at": null,

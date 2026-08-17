@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Bury Tomorrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,159 likes - 200 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,173 likes - 200 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

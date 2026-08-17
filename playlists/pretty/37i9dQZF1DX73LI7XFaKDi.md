@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain]
 
 > Descendants: Wicked Wonderland is available now! Listen to music from the movie alongside all your Descendants favorites on the official playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,753 likes - 88 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,966 likes - 88 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

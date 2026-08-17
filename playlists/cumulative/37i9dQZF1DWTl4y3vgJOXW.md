@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Russell Westbrook
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Claressa Shields
 
 934 songs - 1 day 23 hr 22 min
 

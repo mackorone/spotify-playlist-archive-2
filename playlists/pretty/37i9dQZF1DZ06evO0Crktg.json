@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 343535,
+  "num_followers": 343555,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAbV+x+DBQ1l4JHd7+R8Ojq",
+  "snapshot_id": "an+sAAAAAADGCMR4C1U7G0EzOqp3LLR/",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lonely Road (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 189356,
-      "name": "Lonely Road (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE"
     },
     {
       "added_at": null,
@@ -131,22 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 197403,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE"
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
       "added_at": null,
@@ -383,26 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+        "name": "SINS OF THE FATHER",
+        "url": "https://open.spotify.com/album/0pvGVyHiRMgYy8NSA6GmxT"
       },
       "artists": [
         {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Krizz Kaliko",
-          "url": "https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9"
         }
       ],
-      "duration_ms": 239592,
-      "name": "Creature",
-      "url": "https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT"
+      "duration_ms": 215453,
+      "name": "BEGGING FOR CHANGE (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/6CaSjezkMHIsiWeLj5gsce"
     },
     {
       "added_at": null,
@@ -423,22 +419,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SINS OF THE FATHER",
-        "url": "https://open.spotify.com/album/0pvGVyHiRMgYy8NSA6GmxT"
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Krizz Kaliko",
+          "url": "https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9"
         }
       ],
-      "duration_ms": 215453,
-      "name": "BEGGING FOR CHANGE (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/6CaSjezkMHIsiWeLj5gsce"
+      "duration_ms": 239592,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/0PnpzSoWGvZxURnBRYT0Uu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 206285,
+      "name": "Same Asshole",
+      "url": "https://open.spotify.com/track/4fPF8I4P041i7KYVcPcs15"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/2lNvvHWi0K3J6KSpmUUPKn"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 192969,
       "name": "Cowboys",
       "url": "https://open.spotify.com/track/6VhJjazWLRpXMNjT3AAEON"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crosses and Crossroads",
-        "url": "https://open.spotify.com/album/0PnpzSoWGvZxURnBRYT0Uu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 206285,
-      "name": "Same Asshole",
-      "url": "https://open.spotify.com/track/4fPF8I4P041i7KYVcPcs15"
     },
     {
       "added_at": null,

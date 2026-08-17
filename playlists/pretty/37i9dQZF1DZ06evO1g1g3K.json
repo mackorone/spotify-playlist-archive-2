@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7634,
+  "num_followers": 7640,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAD9UtgJPXGAO3gfcueKZ7dL",
+  "snapshot_id": "an+sAAAAAAB2Byp03TIjfFKHKalDAMbu",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "baby, can we?",
-        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
       "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 246422,
-      "name": "baby, can we?",
-      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
+      "duration_ms": 353242,
+      "name": "Leveled",
+      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+        "name": "baby, can we?",
+        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
       },
       "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 353242,
-      "name": "Leveled",
-      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
+      "duration_ms": 246422,
+      "name": "baby, can we?",
+      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
     },
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip 2 Hip Hypnosis",
-        "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
       "artists": [
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 193880,
-      "name": "Hip 2 Hip Hypnosis",
-      "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
     },
     {
       "added_at": null,
@@ -743,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If I Fail Are We Still Cool?",
         "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 229558,
       "name": "Whisper (Want My Luv)",
       "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hip 2 Hip Hypnosis",
+        "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Hip 2 Hip Hypnosis",
+      "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
     },
     {
       "added_at": null,

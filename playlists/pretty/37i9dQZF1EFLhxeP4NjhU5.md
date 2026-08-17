@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131 likes - 217 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130 likes - 217 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 125 | [Escape](https://open.spotify.com/track/1PPHqTL7IpYToKeIuA5pi9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:10 |
 | 126 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 |
 | 127 | [Si, Ajá](https://open.spotify.com/track/4HMQhQl6bVTyzWjjzt7wuj) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [SOLO](https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0) | 3:18 |
-| 128 | [Bugatti](https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Bugatti](https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j) | 2:50 |
-| 129 | [NETFLIX AND CHILL](https://open.spotify.com/track/7i0jnaHh4ZLQmtux4qTxXV) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [NETFLIX AND CHILL](https://open.spotify.com/album/7F1YcZQm1HvLwPFNEpdRpR) | 3:40 |
+| 128 | [NETFLIX AND CHILL](https://open.spotify.com/track/7i0jnaHh4ZLQmtux4qTxXV) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [NETFLIX AND CHILL](https://open.spotify.com/album/7F1YcZQm1HvLwPFNEpdRpR) | 3:40 |
+| 129 | [Bugatti](https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Bugatti](https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j) | 2:50 |
 | 130 | [Sin Ropa](https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Sin Ropa](https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX) | 2:35 |
 | 131 | [Pa' Pasar El Rato](https://open.spotify.com/track/4IeAihIO5X4koJjvtWJJfj) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [La Oscuridad](https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb) | 3:15 |
 | 132 | [Pide Lo Que Tú Quieras](https://open.spotify.com/track/7IteHlPcwD5mzvkXZmimLI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 216 | [bad guy / Taki Taki \- X Factor Recording](https://open.spotify.com/track/1Rv2K9eIcpL2ELwcmXIZn0) | [V5](https://open.spotify.com/artist/1roSWM1RIG9K5RzA9Kde42) | [bad guy / Taki Taki \(X Factor Recording\)](https://open.spotify.com/album/1sjDnvyBzs92Pz1KMXbPhb) | 2:36 |
 | 217 | [Arrástratre](https://open.spotify.com/track/0GqjbBwlMlVmL46UuEHfn3) | [Naldo](https://open.spotify.com/artist/6DRt41Pol3BrSYwsbiO3Fo), [Negro 3Mil](https://open.spotify.com/artist/3YeAwK3vA1KBV6MMH0U2yH) | [Sangre Nueva 2](https://open.spotify.com/album/0mHhTsYHn8VBPpong8vcQv) | 4:21 |
 
-Snapshot ID: `AcZq+gAAAADpG9Za9Y33dz/Mil8LJgbn`
+Snapshot ID: `AcZw1gAAAAA9u0qETyyPrpAMqZ/mKhyw`

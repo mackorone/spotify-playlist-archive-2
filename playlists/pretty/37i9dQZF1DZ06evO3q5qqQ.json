@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118291,
+  "num_followers": 118298,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAA5mklrzJ8ySSJmZ3/2whjD",
+  "snapshot_id": "an+sAAAAAABgR+gO+obMb1cEvVaih56z",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 189738,
-      "name": "Chuyito y el Mayo (En Vivo)",
-      "url": "https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2"
+      "duration_ms": 221504,
+      "name": "Coraz\u00f3n Ranchero (En Vivo)",
+      "url": "https://open.spotify.com/track/5Y7ph3ZXDOOAShgLyKLsHb"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 221504,
-      "name": "Coraz\u00f3n Ranchero (En Vivo)",
-      "url": "https://open.spotify.com/track/5Y7ph3ZXDOOAShgLyKLsHb"
+      "duration_ms": 189738,
+      "name": "Chuyito y el Mayo (En Vivo)",
+      "url": "https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras De Servando ZL (En Vivo)",
-        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "Ismael (En Vivo)",
-      "url": "https://open.spotify.com/track/76ykOZkFwSlRNsTyQ8hib0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Aqui Soy",
         "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 168317,
       "name": "De Aqui Soy",
       "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras De Servando ZL (En Vivo)",
+        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "Ismael (En Vivo)",
+      "url": "https://open.spotify.com/track/76ykOZkFwSlRNsTyQ8hib0"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Benjam\u00edn",
-        "url": "https://open.spotify.com/album/51rDwORHTvCR9kcStvUGWe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 180990,
-      "name": "Soy Benjam\u00edn",
-      "url": "https://open.spotify.com/track/4lnuw5DZ6nDWvwpMteP3Al"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 185973,
       "name": "El Mas Poderoso (En Vivo)",
       "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Benjam\u00edn",
+        "url": "https://open.spotify.com/album/51rDwORHTvCR9kcStvUGWe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 180990,
+      "name": "Soy Benjam\u00edn",
+      "url": "https://open.spotify.com/track/4lnuw5DZ6nDWvwpMteP3Al"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 164690,
-      "name": "El H",
-      "url": "https://open.spotify.com/track/1ipRWFeVZQ449C0HL8K8kS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 170410,
       "name": "El Chivo Tatemado (En Vivo)",
       "url": "https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 164690,
+      "name": "El H",
+      "url": "https://open.spotify.com/track/1ipRWFeVZQ449C0HL8K8kS"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179171,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Puedo Con Esto",
         "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 149952,
       "name": "Ya No Puedo Con Esto",
       "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179171,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP"
     },
     {
       "added_at": null,
@@ -855,18 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv"
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
         }
       ],
-      "duration_ms": 169318,
-      "name": "La Muchacha Del Salado",
-      "url": "https://open.spotify.com/track/1Udcd4xgzWNli9mKrtZKbW"
+      "duration_ms": 184343,
+      "name": "En La Cima (En vivo)",
+      "url": "https://open.spotify.com/track/3u91mTsR3Wo0GxiWZGhCl8"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

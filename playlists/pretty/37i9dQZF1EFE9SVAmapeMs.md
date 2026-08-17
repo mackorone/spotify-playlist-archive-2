@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2x9Uy8yoJIWxOslfC3vYCq">Wondagurl</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,259 likes - 72 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,260 likes - 72 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 37 | [Candy](https://open.spotify.com/track/6Ms3n5sUl0Bzg3bMCtUEAw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:56 |
 | 38 | [Skin and Bones](https://open.spotify.com/track/4CZgQq8KJYWGh1bM3sqGmd) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:34 |
 | 39 | [Crown](https://open.spotify.com/track/2tcatycPdcN1gMxA1V4heS) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 4:34 |
-| 40 | [Blowing Smoke](https://open.spotify.com/track/4B2OmQGLBVB51aYNgUvXeM) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 3:00 |
-| 41 | [Somewhere to Fly \(with Don Toliver\)](https://open.spotify.com/track/1irXetrpIyLUtvkNw2F2tu) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 2:56 |
+| 40 | [Somewhere to Fly \(with Don Toliver\)](https://open.spotify.com/track/1irXetrpIyLUtvkNw2F2tu) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 2:56 |
+| 41 | [Blowing Smoke](https://open.spotify.com/track/4B2OmQGLBVB51aYNgUvXeM) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 3:00 |
 | 42 | [I'm Ready](https://open.spotify.com/track/0zVDNjVPGARqeYN7tOHd9C) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 2:54 |
 | 43 | [Bout Mine](https://open.spotify.com/track/4gqrnAtKytouenQdFRW14x) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:27 |
 | 44 | [Made A Way](https://open.spotify.com/track/5zdL7AdFUQJ4oRkUOdzhY4) | [Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Made A Way](https://open.spotify.com/album/1buZ09kj1vKLQg2SDBQwiC) | 3:15 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 71 | [Found](https://open.spotify.com/track/2mUoBl035v3VDYJ6YDOXqF) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Circles](https://open.spotify.com/album/4qnV1lETL7Q41TaqiKqSiN) | 2:54 |
 | 72 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `AcZrBAAAAACLM9170F30s3arl07dJeZQ`
+Snapshot ID: `AcZwpAAAAAATBHmuGJ1aACoU02WCyD1D`

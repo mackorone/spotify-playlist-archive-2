@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 628700,
+  "num_followers": 628793,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACN3ryiTbwY/B4GIJiEkoTR",
+  "snapshot_id": "an+sAAAAAAC1iZbKc8W6NDVlE8eEJuVK",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
-        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 166733,
-      "name": "Man Overboard",
-      "url": "https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV"
+      "duration_ms": 30213,
+      "name": "Brohemian Rhapsody",
+      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
+        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 30213,
-      "name": "Brohemian Rhapsody",
-      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
+      "duration_ms": 166733,
+      "name": "Man Overboard",
+      "url": "https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV"
     },
     {
       "added_at": null,

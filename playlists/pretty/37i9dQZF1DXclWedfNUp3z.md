@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,889 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,921 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [Two Halves Touching](https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 3:50 |
 | 100 | [Pure](https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5) | [Marc Van Mourik](https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H) | [Pure](https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG) | 4:19 |
 
-Snapshot ID: `AAAAAFa9RsryGOXKkcjC0y4bjAbLrjhM`
+Snapshot ID: `AAAAADMYi0VdjdIi/kVhG/n8ZjcDm9gh`

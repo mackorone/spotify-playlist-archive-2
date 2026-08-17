@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 378364,
+  "num_followers": 378395,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACOvnOoeAGb+rdBTRSYJrNX",
+  "snapshot_id": "an+sAAAAAAC0mt6j0129/a8DazcLWsLN",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigue La Magia Dando",
+        "url": "https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 245478,
+      "name": "El Comerciante",
+      "url": "https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MU\u00d1EQUITA",
         "url": "https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 166132,
       "name": "MU\u00d1EQUITA",
       "url": "https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigue La Magia Dando",
-        "url": "https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 245478,
-      "name": "El Comerciante",
-      "url": "https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub"
     },
     {
       "added_at": null,

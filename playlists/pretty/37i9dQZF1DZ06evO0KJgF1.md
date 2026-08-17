@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 
 > This is Siouxsie and the Banshees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,441 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,456 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 8 | [Arabian Knights](https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:05 |
 | 9 | [Christine](https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 2:59 |
 | 10 | [Peek\-A\-Boo](https://open.spotify.com/track/3VkyKA0iCT1ABwaSjb0kpf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 3:12 |
-| 11 | [Forever](https://open.spotify.com/track/2kXK4q7xTS7Bn3HqXWShoN) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Rapture \(Remastered / Expanded\)](https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ) | 4:05 |
+| 11 | [Sweetest Chill](https://open.spotify.com/track/6TfbfKfIZhNY28UBrdP1mf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 4:07 |
 | 12 | [Monitor](https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 5:34 |
-| 13 | [Sweetest Chill](https://open.spotify.com/track/6TfbfKfIZhNY28UBrdP1mf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 4:07 |
+| 13 | [Forever](https://open.spotify.com/track/2kXK4q7xTS7Bn3HqXWShoN) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Rapture \(Remastered / Expanded\)](https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ) | 4:05 |
 | 14 | [Cascade](https://open.spotify.com/track/5OlUDa8cRbDqw9f5A0OKRA) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 4:25 |
 | 15 | [Dazzle](https://open.spotify.com/track/7bnCNRtPeex7J5vU7gWJ7t) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 5:31 |
 | 16 | [Into The Light](https://open.spotify.com/track/01V0Tau0s8AQkUm6ae1rEF) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 4:13 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 39 | [Jigsaw Feeling](https://open.spotify.com/track/6Mg9BV9tuZyBwKzxx2rHVS) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 4:38 |
 | 40 | [Shadowtime](https://open.spotify.com/track/1tf394pxbmBkyJ37AUVWXi) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Superstition \(Expanded Edition\)](https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP) | 4:28 |
 | 41 | [This Wheel's On Fire](https://open.spotify.com/track/1JRDjdUYViUZPGDue1CENL) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 5:42 |
-| 42 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 3:08 |
+| 42 | [The Last Beat Of My Heart](https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 4:30 |
 | 43 | [Carcass](https://open.spotify.com/track/2OwRRgr6rGkO0qYPwkUaoN) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 3:49 |
-| 44 | [The Last Beat Of My Heart](https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 4:30 |
+| 44 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 3:08 |
 | 45 | [Dizzy](https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:10 |
 | 46 | [Swimming Horses](https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 4:04 |
-| 47 | [Trust In Me](https://open.spotify.com/track/3I3A3OSbPD04tzkc62iYqq) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 4:06 |
-| 48 | [Metal Postcard \(Mittageisen\)](https://open.spotify.com/track/58JjV3gddrK1BLNsz5Qzez) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 4:14 |
+| 47 | [Metal Postcard \(Mittageisen\)](https://open.spotify.com/track/58JjV3gddrK1BLNsz5Qzez) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 4:14 |
+| 48 | [Trust In Me](https://open.spotify.com/track/3I3A3OSbPD04tzkc62iYqq) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 4:06 |
 | 49 | [Placebo Effect](https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Join Hands](https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj) | 4:37 |
 | 50 | [Fireworks \- 12" Version](https://open.spotify.com/track/7MyA3s6o5MnoneWELTjW9J) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 4:30 |
 
-Snapshot ID: `an5agAAAAACkbee9LojAJkVkNibSqVZe`
+Snapshot ID: `an+sAAAAAAA72SBuwhSnO2ciCaJpAiAM`

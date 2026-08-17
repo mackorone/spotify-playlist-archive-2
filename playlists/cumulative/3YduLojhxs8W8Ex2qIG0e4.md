@@ -4,10 +4,11 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-77 songs - 4 hr 42 min
+78 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Alone](https://open.spotify.com/track/5qtFvwy63Pls8Vhio66vsy) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Alone](https://open.spotify.com/album/1Nwyo3MYDGSBcWNPShf41Y) | 8:09 | 2026-08-16 |  |
 | [As I Wonder](https://open.spotify.com/track/7BmxmNrjFuw85xXqJPLC56) | [The Neon Sea](https://open.spotify.com/artist/7LG84JR1KbXdZEghSvaNs9) | [As I Wonder](https://open.spotify.com/album/1emHyRtonKEkdP1izH1Qmw) | 4:19 | 2025-10-09 |  |
 | [Ashes to Ashes](https://open.spotify.com/track/0tGGJikXOs4W6ZJpnJi9mP) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Ashes to Ashes](https://open.spotify.com/album/2nyG2TIHPYl9XCWgEUnSge) | 3:51 | 2025-08-04 |  |
 | [Believe It or Not.](https://open.spotify.com/track/2YsrmcQwsoHwVoAurRwp2G) | [juii](https://open.spotify.com/artist/7rJOU9thBiM4SmA6vSwHYw) | [Believe It or Not.](https://open.spotify.com/album/4fdmVbZydYO6LIzwPv6MsX) | 5:05 | 2025-11-16 |  |

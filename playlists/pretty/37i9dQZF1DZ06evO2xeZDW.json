@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18524,
+  "num_followers": 18526,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACbqnCHtu+tmbaDDt8y/Rzl",
+  "snapshot_id": "an+sAAAAAACbOQcjHtHFiDNB8ebQ5WbI",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inside Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
+        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 219293,
-      "name": "Tears of Joy",
-      "url": "https://open.spotify.com/track/3vQO2vRV9PVbwU3BtHkppI"
+      "duration_ms": 91680,
+      "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+        "name": "Inside Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 213240,
-      "name": "Carl Goes Up",
-      "url": "https://open.spotify.com/track/42ZSOGIZ8AuQBFgyyicone"
+      "duration_ms": 219293,
+      "name": "Tears of Joy",
+      "url": "https://open.spotify.com/track/3vQO2vRV9PVbwU3BtHkppI"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 91680,
-      "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"
+      "duration_ms": 213240,
+      "name": "Carl Goes Up",
+      "url": "https://open.spotify.com/track/42ZSOGIZ8AuQBFgyyicone"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
       "duration_ms": 55093,
       "name": "Zootopening",
       "url": "https://open.spotify.com/track/38cxPonZ8DehreKbDEGctW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 458933,
-      "name": "Up With End Credits",
-      "url": "https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
       "duration_ms": 159653,
       "name": "Enterprising Young Men",
       "url": "https://open.spotify.com/track/0NGVyXhUkqE3MRN6TmSzuG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 458933,
+      "name": "Up With End Credits",
+      "url": "https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Him Go (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 109466,
+      "name": "The Break Of Dawn",
+      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 175026,
       "name": "Hot Fursuit",
       "url": "https://open.spotify.com/track/7AstzUKILlxTDESo09PLKG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Him Go (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 109466,
-      "name": "The Break Of Dawn",
-      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
     },
     {
       "added_at": null,

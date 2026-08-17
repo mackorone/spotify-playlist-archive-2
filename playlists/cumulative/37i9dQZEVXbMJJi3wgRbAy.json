@@ -5800,7 +5800,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 131908,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/4C1GR4t5ZVMtmbnLgKukgG"
@@ -7725,6 +7725,24 @@
     },
     {
       "album": {
+        "name": "Donde Hubo Fuego Cenizas Quedan",
+        "url": "https://open.spotify.com/album/6hyjCpbJz8IQAvIU13xbiL"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208894,
+      "name": "Donde Hubo Fuego Cenizas Quedan",
+      "url": "https://open.spotify.com/track/2ffXkUDtPJ29jZulZjPqqJ"
+    },
+    {
+      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -9196,7 +9214,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 148574,
       "name": "En Mis Sue\u00f1os Est\u00e1s",
       "url": "https://open.spotify.com/track/6MKewq4KCkbj2TP8gm9voX"
@@ -14694,7 +14712,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 201706,
       "name": "Los Mayores",
       "url": "https://open.spotify.com/track/595GxxymShUzSRVGgDrkGI"
@@ -18548,7 +18566,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 266840,
       "name": "Obsesionario en La Mayor",
       "url": "https://open.spotify.com/track/5EGVGkRRJ2udpRnVGpx8LM"
@@ -25314,7 +25332,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 158408,
       "name": "Te vi",
       "url": "https://open.spotify.com/track/02gRSpvCv9BjnTxirDeFcX"
@@ -27166,7 +27184,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/3NlHH9zJ9uGXkm6NJDbLnO"
@@ -29376,7 +29394,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

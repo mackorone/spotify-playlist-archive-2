@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Sub Urban
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,260 likes - 108 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,230 likes - 108 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

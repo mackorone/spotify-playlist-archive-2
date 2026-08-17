@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 15113,
+  "num_followers": 15117,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACNcw/3RCfSjHIm4Fw6gD1L",
+  "snapshot_id": "an+sAAAAAACug/Kj5qHV15/jEBHiOXL8",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 394552,
+      "name": "Excess Love",
+      "url": "https://open.spotify.com/track/0rybuLvGmGWAbdKQGZMlSp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oil on My Head (Remix)",
         "url": "https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 217391,
       "name": "Oil on My Head (Remix)",
       "url": "https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 394552,
-      "name": "Excess Love",
-      "url": "https://open.spotify.com/track/0rybuLvGmGWAbdKQGZMlSp"
     },
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 334393,
-      "name": "More Than Gold (feat. Mercy Chinwo)",
-      "url": "https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okemmuo (The Spirit of the Spirit)",
         "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 354986,
       "name": "Okemmuo (The Spirit of the Spirit)",
       "url": "https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 334393,
+      "name": "More Than Gold (feat. Mercy Chinwo)",
+      "url": "https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
+      "duration_ms": 249673,
+      "name": "You No Let Them",
+      "url": "https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 249673,
-      "name": "You No Let Them",
-      "url": "https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc"
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 251201,
+      "name": "Heaven and Earth Adore You",
+      "url": "https://open.spotify.com/track/7FhCncQfoYG99q2nJkt2en"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eze (feat. Preye Odede)",
         "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 356063,
       "name": "Eze (feat. Preye Odede)",
       "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 251201,
-      "name": "Heaven and Earth Adore You",
-      "url": "https://open.spotify.com/track/7FhCncQfoYG99q2nJkt2en"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onyeoma (Good God)",
-        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 265538,
-      "name": "Onyeoma (Good God)",
-      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In His Will",
         "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 361389,
       "name": "None Like You Lord",
       "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onyeoma (Good God)",
+        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 265538,
+      "name": "Onyeoma (Good God)",
+      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
     },
     {
       "added_at": null,

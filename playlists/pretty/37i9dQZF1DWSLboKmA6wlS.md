@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: Jduck\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,393 likes - 55 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,394 likes - 55 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

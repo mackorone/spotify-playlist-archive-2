@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,946 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,955 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 23 | [Una Vez Más](https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:08 |
 | 24 | [A Tu Manera \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [A Tu Manera \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe) | 3:10 |
 | 25 | [La Sábana y los Pies](https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:06 |
-| 26 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
-| 27 | [Si Tú Me Lo Pides \(feat\. Kany García\)](https://open.spotify.com/track/3es7XP3HS7TqZqC9Z6cdmd) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Pedro Capó](https://open.spotify.com/album/09WFxztbheRZxTiUZezCiz) | 4:12 |
+| 26 | [Si Tú Me Lo Pides \(feat\. Kany García\)](https://open.spotify.com/track/3es7XP3HS7TqZqC9Z6cdmd) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Pedro Capó](https://open.spotify.com/album/09WFxztbheRZxTiUZezCiz) | 4:12 |
+| 27 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
 | 28 | [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 |
 | 29 | [Estoy Enamorado](https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [En Letra de Otro](https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n) | 3:56 |
 | 30 | [Sin Haber Dormido](https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hasta El Alma](https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 49 | [Besos Escondíos \(feat\. Pedro Capó\)](https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Palmeras](https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL) | 2:42 |
 | 50 | [Estoy Enamorado \- En Vivo](https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Estoy Enamorado \(En Vivo\)](https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw) | 3:03 |
 
-Snapshot ID: `an5agAAAAABblA6GdEIdzJv3PJmKDiBi`
+Snapshot ID: `an+sAAAAAACrUNMjCQGDUy0LktBsNL0d`

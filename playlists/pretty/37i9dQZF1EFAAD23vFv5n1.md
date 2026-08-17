@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071 likes - 183 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071 likes - 184 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 43 | [ok </3](https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz) | 3:24 |
 | 44 | [pupille](https://open.spotify.com/track/6MgC13CJNquIg6ptAhk6QF) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 2:49 |
 | 45 | [Nulla di stupefacente](https://open.spotify.com/track/6StTn7TmydEEw4co0QFei5) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 3:40 |
-| 46 | [Spacca](https://open.spotify.com/track/0L1VR8gxF69DYpwV2CLtNY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/25xh26FmCXPFgnCXLvTS5Q) | 2:41 |
-| 47 | [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 |
+| 46 | [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 |
+| 47 | [Spacca](https://open.spotify.com/track/0L1VR8gxF69DYpwV2CLtNY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/25xh26FmCXPFgnCXLvTS5Q) | 2:41 |
 | 48 | [Maremoto](https://open.spotify.com/track/7FGx98tYHKGabYTTf5rMjd) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ), [See Maw](https://open.spotify.com/artist/6EpzsiQuQ3dJas4vA6drGQ) | [Maremoto](https://open.spotify.com/album/5qiLpQpRR0eF2fkV3qTJP4) | 2:49 |
 | 49 | [Draghi](https://open.spotify.com/track/6L3KJV18NMuSz9QLoamsZQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Draghi](https://open.spotify.com/album/5C2FXB6ueDnXQnrZTgQ61J) | 3:32 |
 | 50 | [Farò Più Rumore Del Ratatata](https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t), [Toomaj](https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx) | [Farò Più Rumore Del Ratatata](https://open.spotify.com/album/69SXGkqk4Q5PXr1S2brFPO) | 2:46 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 87 | [Meme](https://open.spotify.com/track/0HDd2Dr0EgG4OTscPj0j8b) | [Pit](https://open.spotify.com/artist/1XYLhPfCgCrK5pwlWw0yv5) | [Meme](https://open.spotify.com/album/3rMPypJTVchGYNBUdu7kJM) | 2:27 |
 | 88 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 |
 | 89 | [ILY](https://open.spotify.com/track/3xNSenRNckAgpYwgUmCraR) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/208QVntLWsx44R2Eb0Hm81) | 2:50 |
-| 90 | [martedì](https://open.spotify.com/track/2f1LyxVZISl8aXB6qUuhHb) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:42 |
-| 91 | [ok \*\_\*](https://open.spotify.com/track/34Cy5XsCmZCRY1kV1muEPu) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 2:42 |
+| 90 | [ok \*\_\*](https://open.spotify.com/track/34Cy5XsCmZCRY1kV1muEPu) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 2:42 |
+| 91 | [martedì](https://open.spotify.com/track/2f1LyxVZISl8aXB6qUuhHb) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:42 |
 | 92 | [ko musica](https://open.spotify.com/track/4PHNOUxmjBotWtAlaFVaZd) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:11 |
 | 93 | [Persi da un po’](https://open.spotify.com/track/4Gzp0NEQyFu41MmC2ig7EG) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 4:33 |
 | 94 | [ko ciao](https://open.spotify.com/track/1CUs6u897fBIY6obRQjTvi) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:17 |
@@ -191,5 +191,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 181 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 |
 | 182 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 183 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
+| 184 | [Pastello bianco](https://open.spotify.com/track/7z26QB5QCd4YS376p9rW34) | [Lorenzo Molignoni](https://open.spotify.com/artist/3bELGsvNpxsRcrUGZwWzgr), [Stefano Gennara](https://open.spotify.com/artist/3fVbckwRznLNTOqjbyWCCW) | [In Duetto](https://open.spotify.com/album/0zKe90fs9HKIvx2Hjf0bnE) | 4:00 |
 
-Snapshot ID: `AcZq+gAAAACxmULO6/xqTkbB2OZcNJfo`
+Snapshot ID: `AcZwmgAAAADI4tJs6xJXo6tieq1dTMBj`

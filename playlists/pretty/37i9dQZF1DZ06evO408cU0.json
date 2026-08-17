@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 64911,
+  "num_followers": 64919,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACQwR8HWpn/XAIKKjW7oOLy",
+  "snapshot_id": "an+sAAAAAAAy3J5y5Y+O8C3z/fLT2Sky",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero 1",
-        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Olvidarte No Ser\u00e1 Sencillo",
-      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Vueltas De La Vida",
         "url": "https://open.spotify.com/album/0C9n9K785fkiXtR584JcOg"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 223920,
       "name": "Y Te Vas",
       "url": "https://open.spotify.com/track/4ZD7Np5r6s211dhZHospvV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Olvidarte No Ser\u00e1 Sencillo",
+      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "P\u00eddeme",
-      "url": "https://open.spotify.com/track/47dgKdqRE5zuAa7yESoKCj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Vueltas De La Vida",
         "url": "https://open.spotify.com/album/0C9n9K785fkiXtR584JcOg"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 214706,
       "name": "La Doble Cara",
       "url": "https://open.spotify.com/track/2uwqirVqRqfvheLbsizzAW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "P\u00eddeme",
+      "url": "https://open.spotify.com/track/47dgKdqRE5zuAa7yESoKCj"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fibras Sensibles",
-        "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "Fibras Sensibles",
-      "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Consentidos De Don Chuy",
         "url": "https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 224801,
       "name": "Los Consentidos De Don Chuy",
       "url": "https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fibras Sensibles",
+        "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "Fibras Sensibles",
+      "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
     },
     {
       "added_at": null,

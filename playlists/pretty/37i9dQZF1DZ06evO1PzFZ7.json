@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 151291,
+  "num_followers": 151288,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABm7FlHXNiSSHH6aAagmqkE",
+  "snapshot_id": "an+sAAAAAADZSGFPIzjCHno1Oukx3mAp",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "China De Los Ojos Negros",
-        "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 154835,
-      "name": "China De Los Ojos Negros",
-      "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brillante Sobre el Mic - EADDA9223",
         "url": "https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh"
       },
@@ -751,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BALA PERDIDA",
-        "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
+        "name": "China De Los Ojos Negros",
+        "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
       },
       "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 224000,
-      "name": "BALA PERDIDA",
-      "url": "https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH"
+      "duration_ms": 154835,
+      "name": "China De Los Ojos Negros",
+      "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BALA PERDIDA",
+        "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "BALA PERDIDA",
+      "url": "https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Solamente Una Vez",
+      "url": "https://open.spotify.com/track/1kRvQGxP8fjgRgxOAMiHch"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tributo al Rey Con Banda (Grandes Duetos Vol. 1)",
         "url": "https://open.spotify.com/album/2RSWtgg7UBSu2YuKI02Oug"
       },
@@ -839,18 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/3f8PsF3D3BxxQJGvN2nqXC"
       },
       "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Solamente Una Vez",
-      "url": "https://open.spotify.com/track/1kRvQGxP8fjgRgxOAMiHch"
+      "duration_ms": 186840,
+      "name": "Nada M\u00e1s Dec\u00eddete",
+      "url": "https://open.spotify.com/track/7reIkem0M3QFwqNpCZ2pSN"
     },
     {
       "added_at": null,
@@ -871,26 +891,6 @@
       "duration_ms": 226032,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/3f8PsF3D3BxxQJGvN2nqXC"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Nada M\u00e1s Dec\u00eddete",
-      "url": "https://open.spotify.com/track/7reIkem0M3QFwqNpCZ2pSN"
     },
     {
       "added_at": null,

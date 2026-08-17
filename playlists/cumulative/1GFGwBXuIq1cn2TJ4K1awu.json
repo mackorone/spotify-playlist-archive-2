@@ -2862,7 +2862,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 433750,
       "name": "Continuum 1",
       "url": "https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I"
@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 181922,
       "name": "Dragonball Durag",
       "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
@@ -4319,6 +4319,24 @@
     },
     {
       "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391268,
+      "name": "Fabienk",
+      "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
+    },
+    {
+      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
       },
@@ -4656,6 +4674,24 @@
       "duration_ms": 119813,
       "name": "For No One - Remastered 2009",
       "url": "https://open.spotify.com/track/1kDkaFlmkdEZiVUogaP9OZ"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162293,
+      "name": "Forever - Remastered 2009",
+      "url": "https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH"
     },
     {
       "album": {
@@ -6754,7 +6790,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu"
@@ -6826,7 +6862,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 131536,
       "name": "Ice In My OJ",
       "url": "https://open.spotify.com/track/21cbaIB8ks3dag4cqiG4zz"
@@ -7462,7 +7498,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 201103,
       "name": "Kathy's Song",
       "url": "https://open.spotify.com/track/4Acofe9hICRvyBTP5hFNk0"
@@ -7682,7 +7718,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 223186,
       "name": "Left of the Dial - 2008 Remaster",
       "url": "https://open.spotify.com/track/7nL0nuLhX6ItOoEq9RpkOO"
@@ -7932,6 +7968,24 @@
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "album": {
+        "name": "pom pom",
+        "url": "https://open.spotify.com/album/4UhaqAS8V23KozB3dzLMax"
+      },
+      "artists": [
+        {
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/2i1nmBnMkDGFTTjeGGIOTm"
     },
     {
       "album": {
@@ -8394,7 +8448,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 202320,
       "name": "Luna - 2011 Remaster",
       "url": "https://open.spotify.com/track/20Y0ZANdyEI52MfQs6DddK"
@@ -8972,7 +9026,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 355402,
       "name": "Monte Carlo / No Limits",
       "url": "https://open.spotify.com/track/2JvkviCAcHxwoFHolGaHLC"
@@ -9969,6 +10023,24 @@
     },
     {
       "album": {
+        "name": "Willis",
+        "url": "https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY"
+      },
+      "artists": [
+        {
+          "name": "The Pietasters",
+          "url": "https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/4noSzze1g7g9wGMzumJDT8"
+    },
+    {
+      "album": {
         "name": "dont smile at me",
         "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
       },
@@ -10146,7 +10218,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 371146,
       "name": "Orange Sky",
       "url": "https://open.spotify.com/track/6lIEdLD8n56ItZy7pCEYSs"
@@ -10731,6 +10803,32 @@
     },
     {
       "album": {
+        "name": "Preservation",
+        "url": "https://open.spotify.com/album/3rtivE127HwnoeDg1UtMde"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        },
+        {
+          "name": "Aesop Rock",
+          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146533,
+      "name": "Preservation",
+      "url": "https://open.spotify.com/track/124DjfCOxrqEXpHD04Hk8i"
+    },
+    {
+      "album": {
         "name": "Middle Cyclone",
         "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
       },
@@ -11234,7 +11332,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 202285,
       "name": "Rich Spirit",
       "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
@@ -11573,6 +11671,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405324,
+      "name": "S.W.I.M.",
+      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
+    },
+    {
+      "album": {
         "name": "Give 'Em Enough Rope (Remastered)",
         "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
       },
@@ -11704,6 +11820,24 @@
       "duration_ms": 189040,
       "name": "Sea, Swallow Me",
       "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
+    },
+    {
+      "album": {
+        "name": "Alessi",
+        "url": "https://open.spotify.com/album/5uKaFrP17fAKuMF6xSAMEx"
+      },
+      "artists": [
+        {
+          "name": "Alessi Brothers",
+          "url": "https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188866,
+      "name": "Seabird",
+      "url": "https://open.spotify.com/track/1iUpSRmgnbTRqU0Pb217qI"
     },
     {
       "album": {
@@ -12679,6 +12813,24 @@
     },
     {
       "album": {
+        "name": "Love At First Sting",
+        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387000,
+      "name": "Still Loving You",
+      "url": "https://open.spotify.com/track/7kjsCbksOZotNNHOvKsJJh"
+    },
+    {
+      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -12690,7 +12842,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 195533,
       "name": "Stompin At The Savoy",
       "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
@@ -13063,6 +13215,24 @@
     },
     {
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
+    },
+    {
+      "album": {
         "name": "Monsters Of Folk",
         "url": "https://open.spotify.com/album/0S0PP3XHUjfCQwnBnTYOLL"
       },
@@ -13078,6 +13248,24 @@
       "duration_ms": 229440,
       "name": "Temazcal",
       "url": "https://open.spotify.com/track/0jyTX6cBjj6dVGJJx8zN6d"
+    },
+    {
+      "album": {
+        "name": "ALL-AMERIKKKAN BADA$$",
+        "url": "https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244197,
+      "name": "TEMPTATION",
+      "url": "https://open.spotify.com/track/3gJDgenxLephg09x86IxPs"
     },
     {
       "album": {
@@ -14940,6 +15128,24 @@
       "duration_ms": 242000,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
+    },
+    {
+      "album": {
+        "name": "This Fire",
+        "url": "https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs"
+      },
+      "artists": [
+        {
+          "name": "Paula Cole",
+          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263653,
+      "name": "Where Have All the Cowboys Gone?",
+      "url": "https://open.spotify.com/track/2ck13qfgRZ1msyEJlDqzvk"
     },
     {
       "album": {

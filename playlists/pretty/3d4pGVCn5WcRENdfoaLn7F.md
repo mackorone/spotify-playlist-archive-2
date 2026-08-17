@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 827 likes - 58 songs - 3 hr 16 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 828 likes - 59 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 56 | [Popcorn and Candyfloss](https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Popcorn and Candyfloss](https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD) | 4:58 |
 | 57 | [Don't Call](https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 2:18 |
 | 58 | [Lloyd Dobler](https://open.spotify.com/track/5H59SgewBgxf43cOiT6Y7L) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [SOREN'S HOME II](https://open.spotify.com/album/7HpquLyhvRVx1YjoPWl5t0) | 2:40 |
+| 59 | [if there's nothing \(Hectic remix\)](https://open.spotify.com/track/6MPGzh7e28n4zcglTZ0YLD) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [if there's nothing \(Hectic remix\)](https://open.spotify.com/album/2Lor3cYUlpeYXYm3ehGSOo) | 3:44 |
 
-Snapshot ID: `AAAD5HO4+ksuEW31Rmt5D58mb5B78zVu`
+Snapshot ID: `AAAD5aEJJtWiBCG/v1Qc7SIcnp8zq9ji`

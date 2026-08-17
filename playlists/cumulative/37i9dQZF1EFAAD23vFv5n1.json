@@ -2723,6 +2723,28 @@
     },
     {
       "album": {
+        "name": "In Duetto",
+        "url": "https://open.spotify.com/album/0zKe90fs9HKIvx2Hjf0bnE"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Molignoni",
+          "url": "https://open.spotify.com/artist/3bELGsvNpxsRcrUGZwWzgr"
+        },
+        {
+          "name": "Stefano Gennara",
+          "url": "https://open.spotify.com/artist/3fVbckwRznLNTOqjbyWCCW"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240383,
+      "name": "Pastello bianco",
+      "url": "https://open.spotify.com/track/7z26QB5QCd4YS376p9rW34"
+    },
+    {
+      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },

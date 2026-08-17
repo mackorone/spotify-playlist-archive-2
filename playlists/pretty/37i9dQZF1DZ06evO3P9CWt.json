@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279850,
+  "num_followers": 279838,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACCVv3LI2ISbWn7zg4PlV9x",
+  "snapshot_id": "an+sAAAAAAAbTlXIQLL+aqxVSI7CyWfu",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "que del\u00edcia o ver\u00e3o",
-        "url": "https://open.spotify.com/album/6CkP6Rf62M3QtNVtQlgt7z"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 154416,
-      "name": "que del\u00edcia o ver\u00e3o",
-      "url": "https://open.spotify.com/track/2yHWE0r9mqlLnIIMtASg7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FREQU\u00caNCIA LUNAR",
         "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 170073,
       "name": "VAMPIRA",
       "url": "https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "que del\u00edcia o ver\u00e3o",
+        "url": "https://open.spotify.com/album/6CkP6Rf62M3QtNVtQlgt7z"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 154416,
+      "name": "que del\u00edcia o ver\u00e3o",
+      "url": "https://open.spotify.com/track/2yHWE0r9mqlLnIIMtASg7o"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 167502,
+      "name": "Zap Zum",
+      "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIA CLARK",
         "url": "https://open.spotify.com/album/4rrmFsCIpXicqb0UL0ledx"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 167502,
-      "name": "Zap Zum",
-      "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 206736,
       "name": "Pra Te Esquecer",
       "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 162464,
-      "name": "Problema Seu",
-      "url": "https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28"
     },
     {
       "added_at": null,
@@ -663,42 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
-      },
-      "artists": [
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
       "artists": [
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
         }
       ],
-      "duration_ms": 157492,
-      "name": "Falta Coragem",
-      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
+      "duration_ms": 162464,
+      "name": "Problema Seu",
+      "url": "https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28"
     },
     {
       "added_at": null,
@@ -727,6 +687,46 @@
       "duration_ms": 247037,
       "name": "Descontrolada - Cyberkills Remix",
       "url": "https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
+        }
+      ],
+      "duration_ms": 157492,
+      "name": "Falta Coragem",
+      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
     },
     {
       "added_at": null,

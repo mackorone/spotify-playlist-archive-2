@@ -2,9 +2,9 @@
 
 ### [Sad Bops](https://open.spotify.com/playlist/37i9dQZF1DWZUAeYvs88zc)
 
-> When you're a bop, but you're sad
+> For all of us dancing on our own.
 
-628 songs - 1 day 11 hr 10 min
+629 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:47 | 2022-01-27 | 2025-02-04 |
 | [Crash](https://open.spotify.com/track/3U5m1uUit3g5WSAZvA5xiA) | [Matthew Chaim](https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk) | [Crash](https://open.spotify.com/album/57olYVHFEL6K4mse8nRMva) | 4:16 | 2019-05-26\* | 2021-05-28 |
 | [Crave You](https://open.spotify.com/track/66rhCtfhQ3VyVVNjsiVwhC) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Crave You](https://open.spotify.com/album/4jOAkOUMDEDy4BvR8KJuui) | 3:51 | 2019-05-26\* | 2021-05-27 |
-| [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 | 2026-03-13 |  |
+| [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 | 2026-03-13 | 2026-08-17 |
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-02-14 | 2022-04-21 |
 | [Cry For Help](https://open.spotify.com/track/58ctTqTg9BGubdUKJNW9aK) | [Macy Kate](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Cry For Help](https://open.spotify.com/album/1hz3ASIMqdwdidoLkGcD1f) | 3:17 | 2019-11-09 | 2019-11-18 |
 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 | 2019-07-30 | 2019-08-10 |
@@ -557,6 +557,7 @@
 | [The Old Me](https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Therapy](https://open.spotify.com/album/6mzxiA4wsf2FEDjWaIUjuo) | 2:56 | 2022-03-25 | 2022-04-21 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-11-07 | 2024-08-24 |
 | [The One That Got Away](https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Katy Perry \- Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2019-05-26\* | 2021-10-02 |
+| [The Pavement](https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [The Pavement](https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ) | 3:04 | 2026-08-16 |  |
 | [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 | 2022-09-18 | 2022-12-29 |
 | [THE WAY IT WAS](https://open.spotify.com/track/7i6ICmeDCSHQGZpoc4cdVZ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [THE WAY IT WAS](https://open.spotify.com/album/4kxBEZwgUVSYc0F1KfTDzT) | 3:17 | 2021-10-23 | 2022-07-29 |
 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 | 2019-05-26\* | 2021-07-16 |

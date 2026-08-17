@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAJ3j5v1jqxyAIXNrLZ4l6N",
+  "snapshot_id": "an+sAAAAAAAS2x1nNrYl0ByEKyrJc2fa",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 87608,
-      "name": "Le temps",
-      "url": "https://open.spotify.com/track/1dzVjOWPeEwUrjBrcoIWpZ"
+      "duration_ms": 48433,
+      "name": "Le soleil",
+      "url": "https://open.spotify.com/track/5iFT5Xi0wixMPmBw8PI0Lh"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 48433,
-      "name": "Le soleil",
-      "url": "https://open.spotify.com/track/5iFT5Xi0wixMPmBw8PI0Lh"
+      "duration_ms": 87608,
+      "name": "Le temps",
+      "url": "https://open.spotify.com/track/1dzVjOWPeEwUrjBrcoIWpZ"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 96557,
-      "name": "La note",
-      "url": "https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P"
+      "duration_ms": 101362,
+      "name": "Le synth\u00e9tiseur",
+      "url": "https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

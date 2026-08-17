@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/78m3qQF3Q7KRGIsXzQkREU">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-55 songs - 2 hr 43 min
+57 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,9 @@
 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2024-01-27 | 2024-03-20 |
 | [congrats! u did it!](https://open.spotify.com/track/1bUxz5fnnlXbNDTfPQcQhU) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 3:23 | 2024-11-18 |  |
 | [congrats! u did it!](https://open.spotify.com/track/5bp8CvtJ8pbh2OK2HSfTwE) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [summerovlove setlist](https://open.spotify.com/album/2A9wBQHtFOO9j0U0v6NXZ1) | 3:23 | 2025-05-16 | 2025-06-27 |
-| [Dance To This](https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Dance To This](https://open.spotify.com/album/7cxNzqHMqDlojW7WilPoUN) | 2:54 | 2026-04-26 |  |
+| [Cooler](https://open.spotify.com/track/5qgCGL1lwqx0aAkAVq0pFa) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 2:30 | 2026-08-16 |  |
+| [Dance To This](https://open.spotify.com/track/1jPJXu6XaoxVCm3WW3h7NJ) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 2:54 | 2026-08-16 |  |
+| [Dance To This](https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Dance To This](https://open.spotify.com/album/7cxNzqHMqDlojW7WilPoUN) | 2:54 | 2026-04-26 | 2026-08-17 |
 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 | 2024-03-12 |  |
 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 | 2023-04-03 |  |
 | [Freezing](https://open.spotify.com/track/61ypmrpI4Duo6Sn2Tbr3jo) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Freezing \(Official Music Video\)](https://open.spotify.com/album/13xmSqE74BOPfYj6VEAdPg) | 2:57 | 2023-12-13 | 2024-02-02 |

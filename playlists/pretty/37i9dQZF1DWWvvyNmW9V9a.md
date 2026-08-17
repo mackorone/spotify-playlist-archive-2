@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > a never ending midnight somb
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,087,203 likes - 114 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,087,080 likes - 114 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2399,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "My Room",
+        "url": "https://open.spotify.com/album/23Lzbw6EO7apHOP0Kq8rYP"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Souls",
+          "url": "https://open.spotify.com/artist/21khCytzgwhF3crY0ifDoC"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254608,
+      "name": "My Room",
+      "url": "https://open.spotify.com/track/0Ap0BqPnkWbVR8EJUqriR8"
+    },
+    {
+      "album": {
         "name": "Hide This World 2: Red Moon",
         "url": "https://open.spotify.com/album/7csiRtW5azYuzH1r7TcYVG"
       },

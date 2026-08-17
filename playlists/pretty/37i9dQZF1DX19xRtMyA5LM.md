@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> De beste tracks in WS❗️Cover: OYSTER <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier meer zomer aanbevelingen!</a>
+> De beste tracks in WS❗️Cover: Jack\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier meer zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,346 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,323 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Droom Soms](https://open.spotify.com/track/1mp44FAkM8LBrQGwsUUgqu) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Rode Kaart](https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54) | 2:57 |
 | 60 | [Wagyu](https://open.spotify.com/track/0rVikiFqhfjczF3a9aATLf) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Wagyu](https://open.spotify.com/album/1MPKG1OXRsr3hjqsesGo77) | 2:48 |
 
-Snapshot ID: `AAAAAJ+wTWfFFHtrhH55L5OPQJngxLVa`
+Snapshot ID: `AAAAAIX5nliDhZgacuXJjWVL5JiUCXri`

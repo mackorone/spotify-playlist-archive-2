@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Lo más nuevo de tus artistas favoritos, en un solo lugar\. Edgardo Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,309 likes - 83 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,284 likes - 83 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥  featuring Crankdat + Wooli
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,068 likes - 200 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,033 likes - 200 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

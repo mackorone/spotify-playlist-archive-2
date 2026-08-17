@@ -4,7 +4,7 @@
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 36 min
+87 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,12 +39,13 @@
 | [Gonna Be Strong](https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:46 | 2022-05-25 |  |
 | [Good for Me Girl](https://open.spotify.com/track/6G35hmpi3ArSvW1RXud03x) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:46 | 2022-05-30 | 2026-05-24 |
 | [GOOD FOR MY GIRL](https://open.spotify.com/track/0gBcaBNoLS2XUVv806jZPr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [ザ・イントゥルーダーズ・アー・トゥゲザー](https://open.spotify.com/album/5OcIlk2jXD9ikgWwlmMqsa) | 2:41 | 2025-07-03 | 2025-07-04 |
+| [GoodNight](https://open.spotify.com/track/6TH07eiStWBXtn396kktlz) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [GoodNight](https://open.spotify.com/album/0PNXBWW0CKIG9OjEzsAE83) | 2:25 | 2026-08-17 |  |
 | [Guess Who Loves Me](https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:37 | 2022-05-25 |  |
 | [Hang on in There](https://open.spotify.com/track/2pSDtSXHyVSnwxldfujarc) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Best Of The Intruders: Cowboys To Girls](https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3) | 3:22 | 2022-05-25 | 2024-11-23 |
 | [Hang on in There](https://open.spotify.com/track/1TiOhjk5WfR30VXbDplcdr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 3:22 | 2024-11-23 |  |
 | [Harold Melvin's Blue Notes Band Introduction With MC \- Live](https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 1:56 | 2022-05-25 | 2026-02-16 |
 | [Hocus Pocus](https://open.spotify.com/track/5JEQk6XNtyQrNqAu0o3I2i) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:07 | 2024-10-21 | 2024-10-22 |
-| [I Didn't Know](https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:46 | 2022-05-26 |  |
+| [I Didn't Know](https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:46 | 2022-05-26 | 2026-08-17 |
 | [I Hope That We Can Be Together Soon \- Live](https://open.spotify.com/track/3lOtLeKb5DSyOROzldhUTz) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 4:48 | 2022-05-25 | 2026-04-14 |
 | [I Wanna Know Your Name](https://open.spotify.com/track/3sAJJewqiwGKo9du51dSWk) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 5:49 | 2022-05-25 |  |
 | [I'll Always Love My Mama](https://open.spotify.com/track/5ZBTTuqouJbiC1wtCSJamG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 6:37 | 2022-05-25 |  |
@@ -60,7 +61,7 @@
 | [Jefferies Rock](https://open.spotify.com/track/7nunGSSMVd4wx8GnKAckXr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/1affb9CK5rnqn1ntuxd5dB) | 2:31 | 2022-05-25 | 2023-05-12 |
 | [Just to Be](https://open.spotify.com/track/0UzMNUO5s1YBIfeobxBN3R) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/1CVQxatqRY5So32JciECld) | 2:19 | 2026-07-18 |  |
 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 | 2022-05-25 | 2026-07-18 |
-| [Let Me In Your Mind](https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:10 | 2022-08-13 | 2026-07-26 |
+| [Let Me In Your Mind](https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:10 | 2022-08-13 |  |
 | [Let's Try It Again](https://open.spotify.com/track/2aPvrQet8EzBFwwO1RZsg1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:24 | 2022-10-30 | 2023-09-26 |
 | [Lonely Lonely](https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:18 | 2022-07-21 | 2026-03-09 |
 | [Me Tarzan, You Jane](https://open.spotify.com/track/0009Q7nGlWjFzSjQIo9PmK) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:19 | 2022-05-25 |  |

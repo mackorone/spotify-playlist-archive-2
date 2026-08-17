@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 204941,
+  "num_followers": 204946,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABRSGNmlPCNuNdZEkyeAgC7",
+  "snapshot_id": "an+sAAAAAABsEkb4oy2V+IMx7fBXROdO",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City Of New Orleans",
+        "url": "https://open.spotify.com/album/7sZ5lfnlyqmnlcInnKf3o3"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 291857,
+      "name": "City of New Orleans",
+      "url": "https://open.spotify.com/track/15qBdyeOsal1QJvB3ysW9g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 244249,
       "name": "Born and Raised in Black and White",
       "url": "https://open.spotify.com/track/6AEPHlvR4jgwXe2J0vM1Sl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City Of New Orleans",
-        "url": "https://open.spotify.com/album/7sZ5lfnlyqmnlcInnKf3o3"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 291857,
-      "name": "City of New Orleans",
-      "url": "https://open.spotify.com/track/15qBdyeOsal1QJvB3ysW9g"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To All The Girls...",
+        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Paula Nelson",
+          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
+        }
+      ],
+      "duration_ms": 279328,
+      "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
+      "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire & Brimstone",
         "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 181173,
       "name": "Welcome To Hazeville",
       "url": "https://open.spotify.com/track/39TYRr1lPpurfYPXzsOiBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To All The Girls...",
-        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Paula Nelson",
-          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
-        }
-      ],
-      "duration_ms": 279328,
-      "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
-      "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
     },
     {
       "added_at": null,

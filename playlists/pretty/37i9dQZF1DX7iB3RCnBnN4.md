@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Celebrating all the songs with over a Billion streams on Spotify\. Cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,625 likes - 1,349 songs - 3 day 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,930 likes - 1,349 songs - 3 day 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

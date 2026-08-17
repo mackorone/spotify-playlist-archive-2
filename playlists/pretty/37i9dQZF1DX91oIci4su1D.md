@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,526 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,604 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

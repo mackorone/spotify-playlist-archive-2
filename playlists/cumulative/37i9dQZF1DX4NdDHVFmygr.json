@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Les hits marocains du moment. Cover: Draganov, Hajib",
+  "description": "Les hits marocains du moment. Cover: Stormy",
   "name": "Hit Maghribi",
   "tracks": [
     {
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 191020,
       "name": "CAMEMBERT",
       "url": "https://open.spotify.com/track/088zj85nwV8AC7sDpPDhu9"
@@ -4702,6 +4702,24 @@
       "duration_ms": 227826,
       "name": "KIF KIF",
       "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
+    },
+    {
+      "album": {
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "KILOWAT",
+      "url": "https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0"
     },
     {
       "album": {

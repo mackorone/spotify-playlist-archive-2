@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,342 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,344 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 44 | [Flow Like Water](https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Last Airbender \(Music from the Motion Picture\)](https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S) | 6:32 |
 | 45 | [Introduce a Little Anarchy](https://open.spotify.com/track/2LfWRXYCr1jM3RkEDOY8Dj) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 3:41 |
 | 46 | [12 Years Later \- From "Treasure Planet"/Score](https://open.spotify.com/track/491SgTfng3iwBZlubejYxL) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Treasure Planet](https://open.spotify.com/album/6TCIP0qIaMYXYAFejY59cC) | 2:44 |
-| 47 | [I Need You](https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Catching Fire \(Original Motion Picture Score\)](https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow) | 3:57 |
-| 48 | [What Are You Asking Me? \- Score](https://open.spotify.com/track/7uwfXNvdJjqUVt8oMDF181) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 6:01 |
+| 47 | [I Cannot See His Color \- Score](https://open.spotify.com/track/1kah7CwP1lws4gMPbopnPe) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 1:31 |
+| 48 | [I Need You](https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Catching Fire \(Original Motion Picture Score\)](https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow) | 3:57 |
 | 49 | [And I Thought My Jokes Were Bad](https://open.spotify.com/track/3QRK9jOyP2qQ9ZaYdO3QCn) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 2:28 |
-| 50 | [Fantastic Beasts Theme \- Solo Piano](https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 1:37 |
+| 50 | [I Do Believe In Fairies](https://open.spotify.com/track/5uP6WHqBgeZwHZNY6p3zfs) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Peter Pan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zGkIyUeYV5NVS8z3MUGE8) | 2:44 |
 
-Snapshot ID: `an5agAAAAAB/uqEdzsf2Ljwycabvv2Cu`
+Snapshot ID: `an+sAAAAAADCWEPCqOuVUjJehUCqARkK`

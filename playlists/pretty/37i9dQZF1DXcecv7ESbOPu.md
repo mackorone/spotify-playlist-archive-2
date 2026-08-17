@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Icona Pop, Yasin och Yung Lean med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,429 likes - 81 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,405 likes - 81 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

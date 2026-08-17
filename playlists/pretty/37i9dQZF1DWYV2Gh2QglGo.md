@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Hailey Benedict
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,203 likes - 200 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,211 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

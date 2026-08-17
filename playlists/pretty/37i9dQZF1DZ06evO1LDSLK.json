@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 75132,
+  "num_followers": 75137,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACmrYczfaG0y4eicpDQExYY",
+  "snapshot_id": "an+sAAAAAACww7n9udGlhE1t8upMouk4",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 314186,
-      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 219831,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 314186,
+      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 221374,
+      "name": "Some Weird Sin",
+      "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God\u2019s Lonely Man",
         "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 163120,
       "name": "God's Lonely Man",
       "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 221374,
-      "name": "Some Weird Sin",
-      "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 269506,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frenchy",
         "url": "https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 269506,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 392160,
       "name": "Fall In Love With Me",
       "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 308927,
+      "name": "China Girl",
+      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
       "duration_ms": 202226,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6o9YhJHVfjEikv4lHAt8ef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 308927,
-      "name": "China Girl",
-      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
     },
     {
       "added_at": null,
@@ -863,26 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oneohtrix Point Never - Collaborations",
-        "url": "https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI"
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        },
-        {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Daniel Lopatin",
-          "url": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
         }
       ],
-      "duration_ms": 182000,
-      "name": "TP&TD",
-      "url": "https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg"
+      "duration_ms": 172880,
+      "name": "I Want To Go To The Beach",
+      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
     }
   ],
   "unique_name": "This Is Iggy Pop",

@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5772,
+  "num_followers": 5773,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACW8DSAZnin73Jl0lKtUmuf",
+  "snapshot_id": "an+sAAAAAACY83WKIELcFdVLMEB7fIbi",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUN IT BACK",
-        "url": "https://open.spotify.com/album/3WjWc81c69QEUPMojf5Tpy"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 137860,
-      "name": "RUN IT BACK",
-      "url": "https://open.spotify.com/track/52VGJRZyGPmgvDfGVWWllk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moovie! 2: The Yeequel",
         "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 135163,
       "name": "MARDI GRAS (GO CRAZY)",
       "url": "https://open.spotify.com/track/5W6NELOFUgcZYvsR1tKe9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUN IT BACK",
+        "url": "https://open.spotify.com/album/3WjWc81c69QEUPMojf5Tpy"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 137860,
+      "name": "RUN IT BACK",
+      "url": "https://open.spotify.com/track/52VGJRZyGPmgvDfGVWWllk"
     },
     {
       "added_at": null,
@@ -439,6 +439,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "1 Umbrella",
+          "url": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl"
+        },
+        {
+          "name": "SOB X RBE",
+          "url": "https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h"
+        }
+      ],
+      "duration_ms": 178888,
+      "name": "HUH ALRIGHT (feat. SOB X RBE & 1 Umbrella)",
+      "url": "https://open.spotify.com/track/1Wq1g1du9cYC8wnrRFaQRu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S/O ALYSA LIU",
         "url": "https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH"
       },
@@ -543,6 +567,22 @@
       "duration_ms": 205480,
       "name": "On One",
       "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140708,
+      "name": "AWW YEAH",
+      "url": "https://open.spotify.com/track/4eWfppMhjvuxsHE96UMsRB"
     },
     {
       "added_at": null,
@@ -659,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "10 OUTTA 10 (feat. Karri)",
+      "url": "https://open.spotify.com/track/2ZwQF2GwNrftvhKnrQm3pp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feel Me?",
         "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
       },
@@ -683,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going To Work - Single",
-        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 197187,
-      "name": "Going To Work",
-      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -719,6 +763,22 @@
       "duration_ms": 169566,
       "name": "WHO ELSE YOU KNOW!?",
       "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going To Work - Single",
+        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 197187,
+      "name": "Going To Work",
+      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
     },
     {
       "added_at": null,
@@ -752,37 +812,13 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "1 Umbrella",
-          "url": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl"
-        },
-        {
-          "name": "SOB X RBE",
-          "url": "https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
-      "duration_ms": 178888,
-      "name": "HUH ALRIGHT (feat. SOB X RBE & 1 Umbrella)",
-      "url": "https://open.spotify.com/track/1Wq1g1du9cYC8wnrRFaQRu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
+      "duration_ms": 220160,
+      "name": "FXCKIN HATER (feat. Killer Mike)",
+      "url": "https://open.spotify.com/track/1ffYjtf97k2iKoSNGWxkTH"
     },
     {
       "added_at": null,
@@ -811,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The Soil",
         "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
       },
@@ -831,6 +887,34 @@
       "duration_ms": 217710,
       "name": "Suede",
       "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Clyde Carson",
+          "url": "https://open.spotify.com/artist/0FJpfR5Bq5EBl2xi0LAp1v"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        },
+        {
+          "name": "Ezale",
+          "url": "https://open.spotify.com/artist/3aQfxjMj5uxPLW4RCgIaSL"
+        }
+      ],
+      "duration_ms": 242203,
+      "name": "BAY BOYZ 4EVER (feat. Clyde Carson, Iamsu! & Ezale)",
+      "url": "https://open.spotify.com/track/6WxDe7zjxPleg5MAfNAzOm"
     },
     {
       "added_at": null,
@@ -939,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OUT THE BOX",
-        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140708,
-      "name": "AWW YEAH",
-      "url": "https://open.spotify.com/track/4eWfppMhjvuxsHE96UMsRB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Before Anything - EP",
         "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
       },
@@ -975,30 +1043,6 @@
       "duration_ms": 243226,
       "name": "Light This Bitch Up",
       "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Lose Your Head",
-        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Zion I",
-          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Don't Lose Your Head",
-      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
     },
     {
       "added_at": null,
@@ -1027,62 +1071,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOOD NIGHT ROPPONGI (feat. P-Lo)",
-        "url": "https://open.spotify.com/album/3wde8GF8IA2S0j7PyqtTtl"
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
       },
       "artists": [
         {
-          "name": "MIYACHI",
-          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
         },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 178541,
-      "name": "GOOD NIGHT ROPPONGI (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/4yb0wKdIoLkdLiLmSkebHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OUT THE BOX",
-        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
-      },
-      "artists": [
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+          "name": "Zion I",
+          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
         }
       ],
-      "duration_ms": 198786,
-      "name": "10 OUTTA 10 (feat. Karri)",
-      "url": "https://open.spotify.com/track/2ZwQF2GwNrftvhKnrQm3pp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Ain't Nothin",
-        "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
-      },
-      "artists": [
-        {
-          "name": "ATM Danny",
-          "url": "https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "It Ain't Nothin",
-      "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
+      "duration_ms": 161250,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
     }
   ],
   "unique_name": "This Is P-Lo",

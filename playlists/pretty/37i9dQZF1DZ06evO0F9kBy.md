@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,786 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,785 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [As It Is In Heaven](https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Empty And Beautiful](https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs) | 4:09 |
 | 50 | [I'll Lift Up My Eyes \- English version](https://open.spotify.com/track/2RbcK8JM7fMxWz7P9egqSu) | [VIVAFE](https://open.spotify.com/artist/0CsdWJuo52qt8ZTGcKY2Cz), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Lala Maher](https://open.spotify.com/artist/5NVzOIT4zKYSkWqAixtmgF), [John Finch](https://open.spotify.com/artist/1mImDYSR7mM7wvH3dewoG3), [Simon Dumas](https://open.spotify.com/artist/217ig6NvB8SVOuz4eXAChJ), [Katia del Cid](https://open.spotify.com/artist/5ML7735ozpAWSOqaEA35NB), [Vale Montes](https://open.spotify.com/artist/260NzhUBhOUDlt99vUhJYK), [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8), [Dana Catherine](https://open.spotify.com/artist/7KyHfhz6Z3MYJYiMpHYkfS), [Jon Carlo](https://open.spotify.com/artist/78Xx1nGRbBHmfwtx2arZZK) | [I'll Lift Up My Eyes \(English version\)](https://open.spotify.com/album/5ZzXvWBVuZZ0T61hvkzKmo) | 4:53 |
 
-Snapshot ID: `an5agAAAAABL/b2pcxHmoJLrLflsMl9u`
+Snapshot ID: `an+sAAAAAAAfSoSRRDbBlaEN6pV519Bo`

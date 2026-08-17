@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: CHICO CARLITO \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,213 likes - 107 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,233 likes - 107 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 110714,
+  "num_followers": 110765,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAArpeq//zU9P6OerSsGfB4e",
+  "snapshot_id": "an+sAAAAAADKUSYZbjHZA66WyY3wRkKH",
   "tracks": [
     {
       "added_at": null,
@@ -555,34 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes dos Gigantes Chegarem, Vol. 2",
-        "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
-        }
-      ],
-      "duration_ms": 305002,
-      "name": "Antes dos Gigantes Chegarem",
-      "url": "https://open.spotify.com/track/6Q2NfBPqVv0AVYGSHyG3gX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -607,6 +579,34 @@
       "duration_ms": 258782,
       "name": "KGL's",
       "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes dos Gigantes Chegarem, Vol. 2",
+        "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
+        }
+      ],
+      "duration_ms": 305002,
+      "name": "Antes dos Gigantes Chegarem",
+      "url": "https://open.spotify.com/track/6Q2NfBPqVv0AVYGSHyG3gX"
     },
     {
       "added_at": null,
@@ -1055,26 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 294314,
-      "name": "Tit\u00e3s",
-      "url": "https://open.spotify.com/track/180D7ddndoKuifsdIthUPW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/09xyu9e9oEq8n8rmImtHmc"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 240055,
       "name": "HOTEL ZONA SUL",
       "url": "https://open.spotify.com/track/4pKgrER7iEnznCLkRb8oTl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 294314,
+      "name": "Tit\u00e3s",
+      "url": "https://open.spotify.com/track/180D7ddndoKuifsdIthUPW"
     },
     {
       "added_at": null,
@@ -1143,30 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 148738,
-      "name": "Deus do Furdun\u00e7o",
-      "url": "https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cidade do Pecado",
         "url": "https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx"
       },
@@ -1187,6 +1163,30 @@
       "duration_ms": 217647,
       "name": "Para\u00edso Que Me Cerca",
       "url": "https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 148738,
+      "name": "Deus do Furdun\u00e7o",
+      "url": "https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr"
     },
     {
       "added_at": null,

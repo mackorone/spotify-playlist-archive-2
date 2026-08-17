@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 145814,
+  "num_followers": 145833,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAKeI1XnhsWrLD7yLr2f0/a",
+  "snapshot_id": "an+sAAAAAABnEkJhSQMvdG32WkkAEPxj",
   "tracks": [
     {
       "added_at": null,
@@ -690,15 +690,11 @@
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "Jamey Jasta",
-          "url": "https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL"
         }
       ],
-      "duration_ms": 297713,
-      "name": "Poison Dream",
-      "url": "https://open.spotify.com/track/6CSdZhtJ2hmsp5OyEfzTz2"
+      "duration_ms": 270508,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy"
     },
     {
       "added_at": null,
@@ -742,11 +738,15 @@
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Jamey Jasta",
+          "url": "https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL"
         }
       ],
-      "duration_ms": 270508,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy"
+      "duration_ms": 297713,
+      "name": "Poison Dream",
+      "url": "https://open.spotify.com/track/6CSdZhtJ2hmsp5OyEfzTz2"
     },
     {
       "added_at": null,

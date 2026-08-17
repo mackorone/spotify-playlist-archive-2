@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,616,775 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,616,794 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [Love Shop](https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX) | [Love Shop](https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26) | 3:31 |
 | 100 | [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 |
 
-Snapshot ID: `AAAAANBmvZdg5ga3xxclndUrIRoegzJS`
+Snapshot ID: `AAAAAFZkZpiZNfq/hiZeq/kWh70hL/XC`

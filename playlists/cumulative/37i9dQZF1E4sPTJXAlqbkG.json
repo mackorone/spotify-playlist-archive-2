@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-30",
-  "description": "",
+  "description": "With Drake, Sonder, Jhen\u00e9 Aiko and more",
   "name": "PARTYNEXTDOOR Radio",
   "tracks": [
     {
@@ -568,7 +568,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 297506,
       "name": "All I Want Is You (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 164488,
       "name": "Care",
       "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
@@ -4118,7 +4118,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 219346,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/2GBgiuXwY1KzJMA0gSAr9J"
@@ -4820,7 +4820,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 222374,
       "name": "Girls Need Love (with Drake) - Remix",
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
@@ -5393,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "How Many Drinks?",
+      "url": "https://open.spotify.com/track/6Q8nmDj0JIu0uxhugcIpBw"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope Dream (Deluxe Version)",
         "url": "https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4"
       },
@@ -5404,7 +5422,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 273111,
       "name": "How Many Drinks?",
       "url": "https://open.spotify.com/track/4LiQ8uAynrXFWY0vimnAa1"
@@ -5596,7 +5614,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 319973,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH"
@@ -7282,7 +7300,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 291448,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
@@ -7486,7 +7504,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 116129,
       "name": "Mad Riches",
       "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
@@ -9378,7 +9396,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 268813,
       "name": "Pink Matter",
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
@@ -10106,7 +10124,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 249318,
       "name": "Right My Wrongs",
       "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
@@ -11888,7 +11906,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 254493,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
@@ -12576,7 +12594,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco4ODkIraMD.md) - [plain]
 
 > Esos éxitos que todavía quieres seguir escuchando\. Foto: Zion & Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,271 likes - 125 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,305 likes - 125 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

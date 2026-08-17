@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > In this house we celebrate Australian music\. Cover: daine
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,426 likes - 99 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,417 likes - 99 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

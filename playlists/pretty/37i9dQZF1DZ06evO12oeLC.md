@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,932 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,931 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 21 | [TUNING](https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:42 |
 | 22 | [SEXE](https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 6:55 |
 | 23 | [Alibi Pt\. 3 \(with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult\)](https://open.spotify.com/track/6hMU7eUsEX5HWVRLTIGw6Y) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Alibi Pt\. 3 \(with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult\)](https://open.spotify.com/album/1Ha2M1Be1iDXtWOfAPBxhp) | 3:07 |
-| 24 | [Rien à prouver](https://open.spotify.com/track/1cdlIbmkHBpQpOEQRHLlKT) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rien à prouver](https://open.spotify.com/album/0obywN6ixOQ0z4yaNWCPPR) | 4:02 |
-| 25 | [Lost Child](https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Radio Kitchen EP](https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5) | 3:25 |
+| 24 | [Lost Child](https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Radio Kitchen EP](https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5) | 3:25 |
+| 25 | [Rien à prouver](https://open.spotify.com/track/1cdlIbmkHBpQpOEQRHLlKT) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rien à prouver](https://open.spotify.com/album/0obywN6ixOQ0z4yaNWCPPR) | 4:02 |
 | 26 | [BB](https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:33 |
 | 27 | [Blanche](https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:36 |
 | 28 | [MTV](https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:34 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 37 | [NÉON ROUGE](https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:50 |
 | 38 | [+ Mélange](https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Encore + pour de vrai](https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy) | 3:03 |
 | 39 | [It’s A Man’s Man’s Man’s World](https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [It's A Man's Man's Man's World](https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu) | 3:19 |
-| 40 | [FUCK ME](https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 0:42 |
+| 40 | [PETIT <3](https://open.spotify.com/track/6f0gMyXWn8vd4sDwA9xlNg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:12 |
 | 41 | [Summer Love](https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:00 |
 | 42 | [Rouge](https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL) | 3:06 |
 | 43 | [Diego](https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [La mamma](https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 4:03 |
 | 50 | [Te Amo](https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 3:02 |
 
-Snapshot ID: `an5agAAAAAATEq5klaVdmY3R6kDjzbnB`
+Snapshot ID: `an+sAAAAAAAUBoV5g/PikDCiDXhFp7bw`

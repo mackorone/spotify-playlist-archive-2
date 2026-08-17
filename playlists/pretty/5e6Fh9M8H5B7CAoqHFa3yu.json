@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 350,
+  "num_followers": 351,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKzxvffNMUMr2cMAowX1tBnephlEym",
+  "snapshot_id": "AAAK1e62wgZqrjWlw7CHDm/XOrW4faKb",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -1523,22 +1523,6 @@
       "duration_ms": 162237,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/0muGUh8IlNxu6uiYzon870"
-    },
-    {
-      "added_at": "2025-10-15 08:12:27",
-      "album": {
-        "name": "Rise Above",
-        "url": "https://open.spotify.com/album/4Nm3fCI7iK5YCHWZ8IMiP3"
-      },
-      "artists": [
-        {
-          "name": "Fra",
-          "url": "https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct"
-        }
-      ],
-      "duration_ms": 226037,
-      "name": "Rise Above",
-      "url": "https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC"
     },
     {
       "added_at": "2025-10-10 09:17:53",
@@ -43243,6 +43227,70 @@
       "duration_ms": 264437,
       "name": "heaven in a wild flower",
       "url": "https://open.spotify.com/track/41Lm3GNicliYsJbCgYsEVP"
+    },
+    {
+      "added_at": "2026-08-15 20:48:00",
+      "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/3sgLltelIpW7NVS36Vdug3"
+      },
+      "artists": [
+        {
+          "name": "Chris Garner",
+          "url": "https://open.spotify.com/artist/5mFsB0s0Rusyrrxo1kGN8o"
+        }
+      ],
+      "duration_ms": 158975,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/14rjzEn4Rza8tpIXny6Wno"
+    },
+    {
+      "added_at": "2026-08-16 10:31:22",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4fP2OCd9IEgSxVBg5153av"
+      },
+      "artists": [
+        {
+          "name": "Beau Audio",
+          "url": "https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0"
+        }
+      ],
+      "duration_ms": 181833,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4AUYrKOFthHYiUtDQ8zGFY"
+    },
+    {
+      "added_at": "2026-08-16 10:31:29",
+      "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/3ugLThsefNvx96vqsIxRkz"
+      },
+      "artists": [
+        {
+          "name": "Edren",
+          "url": "https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG"
+        }
+      ],
+      "duration_ms": 149416,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/7BsjpAyf895DsnKwJRgVCz"
+    },
+    {
+      "added_at": "2026-08-16 23:05:50",
+      "album": {
+        "name": "Riempimi la vita",
+        "url": "https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Urbani",
+          "url": "https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN"
+        }
+      ],
+      "duration_ms": 260625,
+      "name": "Riempimi la vita",
+      "url": "https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

@@ -1,6 +1,6 @@
 {
   "description": "Help the band set-up and get ready for the best live performances from your favorite artists.",
-  "num_followers": 7895,
+  "num_followers": 7894,
   "original_name": "Backstage",
   "owner": {
     "name": "Spotify",
@@ -378,6 +378,10 @@
         {
           "name": "Owl City",
           "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        },
+        {
+          "name": "Sandy Smallens",
+          "url": "https://open.spotify.com/artist/7JIdXaCRI1OTNjszIjMYTr"
         }
       ],
       "duration_ms": 293506,

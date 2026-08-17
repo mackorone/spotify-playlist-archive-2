@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 694834,
+  "num_followers": 694846,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAoRUA/v5L0SkLPKAY48DLA",
+  "snapshot_id": "an+sAAAAAACDOxpgXQlxumcXBjW3kQTn",
   "tracks": [
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 104066,
-      "name": "Bodega Baddie",
-      "url": "https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z"
+      "duration_ms": 121546,
+      "name": "Check Please",
+      "url": "https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 121546,
-      "name": "Check Please",
-      "url": "https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE"
+      "duration_ms": 104066,
+      "name": "Bodega Baddie",
+      "url": "https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z"
     },
     {
       "added_at": null,
@@ -991,26 +991,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
+        "name": "PROLIFIC",
+        "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         },
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
+      "duration_ms": 226185,
+      "name": "I Just Wanna Know (feat. Ty Dolla $ign & Cardi B)",
+      "url": "https://open.spotify.com/track/5eD5JBetKz2JdeGlIBIPvh"
     }
   ],
   "unique_name": "This Is Cardi B",

@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 304595,
+  "num_followers": 304596,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAMDELH68iG/GOXEA3E3mv/",
+  "snapshot_id": "an+sAAAAAAChRDig5/oYWCuc0EA8wq1C",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 222362,
+      "name": "Cigana - Ao Vivo",
+      "url": "https://open.spotify.com/track/58RnbwfvEYB8VS5JHrUwc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Se N\u00e3o Chorar com Pagode - Ao Vivo",
+      "url": "https://open.spotify.com/track/4BB3adxRhL1lTK5WpB1eo1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -335,42 +371,6 @@
       "duration_ms": 682816,
       "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
       "url": "https://open.spotify.com/track/2F2f4Bg37EB6vCoRIcyzCl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Se N\u00e3o Chorar com Pagode - Ao Vivo",
-      "url": "https://open.spotify.com/track/4BB3adxRhL1lTK5WpB1eo1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 222362,
-      "name": "Cigana - Ao Vivo",
-      "url": "https://open.spotify.com/track/58RnbwfvEYB8VS5JHrUwc8"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 220004,
-      "name": "Amor Dif\u00edcil - Ao vivo",
-      "url": "https://open.spotify.com/track/7vzfaxzAl0YNLBp2xA7T0b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numanice #2 (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
       },
@@ -471,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
       "artists": [
         {
@@ -480,13 +460,33 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "T\u00e1 Na Mente",
-          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 231283,
-      "name": "Dorme com Deus / Fica - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK"
+      "duration_ms": 220004,
+      "name": "Amor Dif\u00edcil - Ao vivo",
+      "url": "https://open.spotify.com/track/7vzfaxzAl0YNLBp2xA7T0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 233637,
+      "name": "Paci\u00eancia (Participa\u00e7\u00e3o especial de Ludmilla) - Ao vivo",
+      "url": "https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD"
     },
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "T\u00e1 Na Mente",
+          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
         }
       ],
-      "duration_ms": 233637,
-      "name": "Paci\u00eancia (Participa\u00e7\u00e3o especial de Ludmilla) - Ao vivo",
-      "url": "https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD"
+      "duration_ms": 231283,
+      "name": "Dorme com Deus / Fica - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dia de Fluxo",
         "url": "https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 133610,
       "name": "Dia de Fluxo",
       "url": "https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Whine",
-      "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
     },
     {
       "added_at": null,
@@ -991,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 156511,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/7jji4uvYD5QCa0qdlg0nUo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 232941,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 156511,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/7jji4uvYD5QCa0qdlg0nUo"
     }
   ],
   "unique_name": "This Is LUDMILLA",

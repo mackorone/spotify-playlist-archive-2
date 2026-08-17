@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: wave to earth\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,726 songs - 39 day 15 hr 48 min
+16,727 songs - 39 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10000,6 +10000,7 @@
 | [One](https://open.spotify.com/track/420CEW5diE4ulkdbUxtg2w) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [One](https://open.spotify.com/album/6JfMCmlRcKbd07cj3GDPEG) | 2:48 | 2025-05-14 | 2025-05-23 |
 | [One & Only](https://open.spotify.com/track/0kwttQkLxci6m9SU7XelgM) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Delphinium](https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T) | 2:42 | 2024-08-01 | 2024-09-20 |
 | [one \(feat\. Paul Blanco, Kim Seungmin\)](https://open.spotify.com/track/6AWXGKo1zTjMV1WNjIpwhx) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [김승민](https://open.spotify.com/artist/1h8ZqUlVEXd1qvOjXVuFg2) | [one & ashes](https://open.spotify.com/album/2LpbGE8qfrCjYykxO7v3of) | 3:16 | 2022-06-13 | 2022-06-19 |
+| [One \- Spotify Singles](https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [One \- Spotify Singles](https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj) | 2:45 | 2026-08-16 |  |
 | [ONE AND A HALF](https://open.spotify.com/track/0yfhVon5XPlCRYNihFIUwu) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [ONE AND A HALF](https://open.spotify.com/album/1JcWNzQIdI3hbCfWbH4Sib) | 3:29 | 2022-09-06 | 2022-10-15 |
 | [One and Only](https://open.spotify.com/track/4a8Z1Ry5qxq1ZJH8B9rTRw) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [One and Only](https://open.spotify.com/album/0hz5g77EFmFYDlnV6pXB0c) | 2:38 | 2024-07-22 | 2024-08-09 |
 | [One and Only \(Feat\. KURO\)](https://open.spotify.com/track/0GpK80YpKjNLA37FQ1JvDt) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [One and Only \(Feat\. KURO\)](https://open.spotify.com/album/16LKnqi5TwNEidWTXxbHLA) | 2:31 | 2023-06-13 | 2023-08-10 |

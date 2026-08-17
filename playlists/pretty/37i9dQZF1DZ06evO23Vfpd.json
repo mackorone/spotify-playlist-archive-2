@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 70070,
+  "num_followers": 70128,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABu/C04rGTEnoY6NlMiCdXQ",
+  "snapshot_id": "an+sAAAAAACkgWljpUZGA+cdOmjQmVQ+",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 195676,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6hXdDiZeoe2r6qspLCjMoZ"
+      "duration_ms": 140128,
+      "name": "Tall Boy",
+      "url": "https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 140128,
-      "name": "Tall Boy",
-      "url": "https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H"
+      "duration_ms": 195676,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6hXdDiZeoe2r6qspLCjMoZ"
     },
     {
       "added_at": null,

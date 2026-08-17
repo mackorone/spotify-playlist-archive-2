@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-186 songs - 9 hr 31 min
+187 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,9 +93,9 @@
 | [Jumping the Gun](https://open.spotify.com/track/0wm6hUCmRnpwzWZIuUj8E1) | [Kayla DiVenere](https://open.spotify.com/artist/6LmymAfsFtt2CaJSj9hdCn) | [Jumping the Gun](https://open.spotify.com/album/3XZlHg18kz5Z4mKiKp31cr) | 2:16 | 2026-04-06 |  |
 | [King For A Day](https://open.spotify.com/track/0sibWY7yGsr4UO7lxrKy1M) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 3:11 | 2026-04-06 |  |
 | [King For A Day](https://open.spotify.com/track/5Q39oHOgovvnZFw72AItJe) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 3:11 | 2026-08-06 | 2026-08-10 |
-| [Kingdom of Fear](https://open.spotify.com/track/1zPpQABUmm6RzLAC7X4DB2) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:41 | 2026-08-03 |  |
+| [Kingdom of Fear](https://open.spotify.com/track/1zPpQABUmm6RzLAC7X4DB2) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:41 | 2026-08-03 | 2026-08-17 |
 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 | 2026-04-06 | 2026-08-04 |
-| [Kingdom of Fear](https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:41 | 2026-08-06 | 2026-08-10 |
+| [Kingdom of Fear](https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:41 | 2026-08-06 |  |
 | [Last Call](https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Last Call](https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l) | 2:31 | 2026-04-06 |  |
 | [Last Night](https://open.spotify.com/track/3WfreEZXsEDUcI01Eaj9w9) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:53 | 2026-04-06 |  |
 | [Last Year](https://open.spotify.com/track/3aJAfi6cfPNBaXZtpRbdKE) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/3MmEb9UgXMbg02WG29sE3a) | 2:51 | 2026-04-06 |  |
@@ -145,8 +145,8 @@
 | [So Cal](https://open.spotify.com/track/5QGGaFNMEVLiA6MGAzSvP6) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/0frneG4jiVupF47MCKJR4I) | 2:44 | 2026-04-06 |  |
 | [Somebody Gon Get It](https://open.spotify.com/track/4A1rRMHAJ7ZXmJynGTiZQE) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [After Hours](https://open.spotify.com/album/7612v2NCnEexfvOHwK0Ttr) | 3:32 | 2026-04-06 |  |
 | [Something Wrong](https://open.spotify.com/track/0Ja3yxAzAOpWKKj4zoFL2A) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Something Wrong](https://open.spotify.com/album/18t52qwg1kaNw2YGBOixnG) | 3:54 | 2026-04-06 |  |
-| [Sounds Like Heaven](https://open.spotify.com/track/1z4QbzCghIrGeYrnGJhmyQ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:53 | 2026-08-03 |  |
-| [Sounds Like Heaven](https://open.spotify.com/track/6fBZTiPCdbbjLIwdkaOFQA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:53 | 2026-08-06 | 2026-08-10 |
+| [Sounds Like Heaven](https://open.spotify.com/track/1z4QbzCghIrGeYrnGJhmyQ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:53 | 2026-08-03 | 2026-08-17 |
+| [Sounds Like Heaven](https://open.spotify.com/track/6fBZTiPCdbbjLIwdkaOFQA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:53 | 2026-08-06 |  |
 | [Sounds Like Heaven](https://open.spotify.com/track/6oPW5eZePLKr2mzPNfHR7L) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:53 | 2026-04-30 | 2026-08-04 |
 | [Spend Some Money](https://open.spotify.com/track/3TcqRZ82oECJnwU9CDoQ1w) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:14 | 2026-04-06 |  |
 | [Stained](https://open.spotify.com/track/0J1IJsMbKWb5g2sJArTkGF) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:05 | 2026-04-06 |  |
@@ -179,7 +179,8 @@
 | [Until the Sunrise](https://open.spotify.com/track/79sLEAkkvv4Ogc67PkhBWR) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 7:02 | 2026-04-06 |  |
 | [Vanilla](https://open.spotify.com/track/59NeIpbOXs6AD0aUOQW6TL) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Vanilla](https://open.spotify.com/album/6FWMthYz9WrnWAmqm7n1fR) | 2:51 | 2026-04-06 |  |
 | [Wallpaper](https://open.spotify.com/track/37WMcMd9RlzLsXlnY0SCeV) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [NONE of this has been about you](https://open.spotify.com/album/6IPFdWeE5ENZflPgu3fs6z) | 2:48 | 2026-04-06 |  |
-| [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 | 2026-08-14 |  |
+| [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 | 2026-08-14 | 2026-08-17 |
+| [Want For Nothing](https://open.spotify.com/track/62FoSy5jJ0m06S1uMIPhw1) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:47 | 2026-08-16 |  |
 | [Way It Was](https://open.spotify.com/track/5DeYzhFraf23cUaakwghkP) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Way It Was](https://open.spotify.com/album/1XtPqp4pKKRTOi5hc5oWIW) | 3:19 | 2026-04-06 |  |
 | [What Are We Doing?](https://open.spotify.com/track/6OULrQzZLKOWVabImee0Kc) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [part two](https://open.spotify.com/album/4OjPS5vLPuCFoQyROzjFlK) | 2:12 | 2026-04-06 |  |
 | [Who I Am](https://open.spotify.com/track/4z3EmveE8ibhBVKBlZvmjp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:22 | 2026-04-06 |  |
@@ -191,8 +192,8 @@
 | [Worth It](https://open.spotify.com/track/6e1RWRpPVERYkprIsSr1UM) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [One Night EP](https://open.spotify.com/album/04xXTzwHFjgXj7KH26U1aQ) | 2:47 | 2026-04-06 |  |
 | [Yeah](https://open.spotify.com/track/7H4VU04Xw54HtErX68kymy) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:37 | 2026-04-06 |  |
 | [You and Me](https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [You and Me](https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo) | 2:46 | 2026-04-06 | 2026-08-04 |
-| [You and Me](https://open.spotify.com/track/28nPr6sGBMZF5kJbAf825B) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:46 | 2026-08-06 | 2026-08-10 |
-| [You and Me](https://open.spotify.com/track/2hFvdR77j0TCQDYc9BftDb) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:46 | 2026-08-03 |  |
+| [You and Me](https://open.spotify.com/track/28nPr6sGBMZF5kJbAf825B) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:46 | 2026-08-06 |  |
+| [You and Me](https://open.spotify.com/track/2hFvdR77j0TCQDYc9BftDb) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:46 | 2026-08-03 | 2026-08-17 |
 | [You Can't Stop This](https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 | 2026-04-06 |  |
 
 \*This playlist was first scraped on 2026-04-07. Prior content cannot be recovered.

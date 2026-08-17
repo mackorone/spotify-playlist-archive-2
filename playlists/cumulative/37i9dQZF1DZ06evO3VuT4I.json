@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 234200,
       "name": "'til Time and Times Are Done",
       "url": "https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4"
@@ -1332,10 +1332,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 312186,
       "name": "L'Azzuro",
       "url": "https://open.spotify.com/track/7icrlwHpkpnxEL2tVrdOxV"
+    },
+    {
+      "album": {
+        "name": "Hotel Luna",
+        "url": "https://open.spotify.com/album/0G8creHfNsCIKBOd95QG8y"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311240,
+      "name": "L'Azzurro",
+      "url": "https://open.spotify.com/track/4CcJJ5smGgA9ZITndtMFaY"
     },
     {
       "album": {
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 229466,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd"
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 342760,
       "name": "Sailing To Byzantium - (New)",
       "url": "https://open.spotify.com/track/4VujPCSGU7lUU6QOIpxAs8"
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 608168,
       "name": "Section 7: White Noise",
       "url": "https://open.spotify.com/track/2bWVNK6p6cBg7rE0t2Bx1O"

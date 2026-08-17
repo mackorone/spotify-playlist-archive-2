@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,609 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,613 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 27 | [Yo Lloraré Por Ti](https://open.spotify.com/track/4n01Y1FkuhXPRFnbP9YOjV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:50 |
 | 28 | [Adios](https://open.spotify.com/track/6Zd7gXBKgMXPXW2ds3Krah) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:53 |
 | 29 | [El espacio](https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:38 |
-| 30 | [Cuando la vida se vuelve real](https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 3:04 |
+| 30 | [Hazme Algo](https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 5:50 |
 | 31 | [Antídoto](https://open.spotify.com/track/6UpFofjmS8vuKUq7POAote) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:47 |
-| 32 | [Hazme Algo](https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 5:50 |
+| 32 | [Cuando la vida se vuelve real](https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 3:04 |
 | 33 | [Mar de nubes](https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:04 |
-| 34 | [Sufriendo de más](https://open.spotify.com/track/0GJvW0BOrxlPcm7IbBzv4t) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 3:53 |
+| 34 | [Verdad](https://open.spotify.com/track/07jQohp4cfhXkaKHAErPh4) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 4:46 |
 | 35 | [Delicada Violencia](https://open.spotify.com/track/7D0wYJazZXiHzCza7yMhqR) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:55 |
-| 36 | [Verdad](https://open.spotify.com/track/07jQohp4cfhXkaKHAErPh4) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 4:46 |
+| 36 | [Sufriendo de más](https://open.spotify.com/track/0GJvW0BOrxlPcm7IbBzv4t) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 3:53 |
 | 37 | [Mi Corazón](https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:23 |
 | 38 | [Esfumar](https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:29 |
 | 39 | [Extrañarte](https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 49 | [Carne \- En Vivo](https://open.spotify.com/track/0DWKN008tO0MAwil7cVSDE) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En Vivo\)](https://open.spotify.com/album/5xT4omRJmTehWIb1y9LT4e) | 5:59 |
 | 50 | [Brígida](https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:35 |
 
-Snapshot ID: `an5agAAAAAAarNFJt5VhtOyAxPQfYiBr`
+Snapshot ID: `an+sAAAAAAANLllZSqSSOiq9ZiChsQBA`

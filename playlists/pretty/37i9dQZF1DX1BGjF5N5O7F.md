@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > emotionally destroyed by yet another hockey show
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,335 likes - 104 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,305 likes - 104 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35362,
+  "num_followers": 35365,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAiGi+28NiE/o98h1rkpw4o",
+  "snapshot_id": "an+sAAAAAABZ29FpT8v9vjlwjN9/bPNq",
   "tracks": [
     {
       "added_at": null,
@@ -831,6 +831,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cheirinho Do Body Splash",
+        "url": "https://open.spotify.com/album/1zYGigssLV3WhnN9OWzgGu"
+      },
+      "artists": [
+        {
+          "name": "AUGEBOYS",
+          "url": "https://open.spotify.com/artist/5UUfd7FZZlGhuO5eLMsluR"
+        },
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Cheirinho Do Body Splash",
+      "url": "https://open.spotify.com/track/3lZwLVd1NMaVN42gMI2z6e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
         "url": "https://open.spotify.com/album/6SYKU2YKvPcBslCHjnFtKU"
       },
@@ -915,38 +947,6 @@
       "duration_ms": 136615,
       "name": "Vida do Crime",
       "url": "https://open.spotify.com/track/2zo4C4eJ9yjBjT34j8r156"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheirinho Do Body Splash",
-        "url": "https://open.spotify.com/album/1zYGigssLV3WhnN9OWzgGu"
-      },
-      "artists": [
-        {
-          "name": "AUGEBOYS",
-          "url": "https://open.spotify.com/artist/5UUfd7FZZlGhuO5eLMsluR"
-        },
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Nuzio Medeiros",
-          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
-        },
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Cheirinho Do Body Splash",
-      "url": "https://open.spotify.com/track/3lZwLVd1NMaVN42gMI2z6e"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casal Mandrake",
         "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 139826,
       "name": "Casal Mandrake",
       "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -1387,26 +1387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PO2054AZ (Vol.II)",
-        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Llorando x 1",
-      "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De 38 Carregado Arrochadeira",
         "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 108387,
       "name": "De 38 Carregado Arrochadeira",
       "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PO2054AZ (Vol.II)",
+        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Llorando x 1",
+      "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
     },
     {
       "added_at": null,

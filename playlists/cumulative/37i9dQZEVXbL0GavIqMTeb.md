@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,716 songs - 3 day 22 hr 49 min
+1,717 songs - 3 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2021-12-13 | 2021-12-22 |
 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:04 | 2026-05-03 | 2026-07-03 |
 | [Donde Estas Ma](https://open.spotify.com/track/1LWwhv4djfdyJMNi7utR3C) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [LAS FILTRADAS](https://open.spotify.com/album/4AL3l5qn3kF1FMBUoW5AKq) | 2:39 | 2025-12-26 | 2026-01-02 |
+| [Donde Hubo Fuego Cenizas Quedan](https://open.spotify.com/track/2ffXkUDtPJ29jZulZjPqqJ) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Donde Hubo Fuego Cenizas Quedan](https://open.spotify.com/album/6hyjCpbJz8IQAvIU13xbiL) | 3:28 | 2026-08-16 |  |
 | [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 | 2023-08-30 | 2023-10-14 |
 | [Donde?](https://open.spotify.com/track/2ZV9wvj6gu8C0oB16aD0vR) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO) | 2:42 | 2023-09-08 | 2023-09-12 |
 | [Donde?](https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:42 | 2023-03-07 | 2023-09-09 |
@@ -1662,7 +1663,7 @@
 | [Whyme?](https://open.spotify.com/track/1EQS03IcXvp738j0S4rEfO) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 3:29 | 2025-06-13 | 2025-06-15 |
 | [Wi$h Li$t](https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:27 | 2025-10-04 | 2025-10-06 |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2024-12-26 | 2024-12-28 |
-| [WO OH OH](https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:29 | 2026-02-24 |  |
+| [WO OH OH](https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:29 | 2026-02-24 | 2026-08-17 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-07 | 2021-10-11 |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2026-07-07 | 2026-08-09 |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2026-07-24 | 2026-08-01 |

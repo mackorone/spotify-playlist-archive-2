@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,467 songs - 6 day 1 hr 10 min
+2,471 songs - 6 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Atlantis](https://open.spotify.com/track/4MP0SgPbAIn5ha78vJklQF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Atlantis](https://open.spotify.com/album/0GVBEDtchsOWV4hoKom8dC) | 1:50 | 2026-02-18 |  |
 | [Attraction](https://open.spotify.com/track/6ZtwN8RKfWBC7SXAse5Myb) | [Ausvin King](https://open.spotify.com/artist/4K2gNf5IYG6wO4tadQ6z9k) | [Attraction](https://open.spotify.com/album/2h7LFTP3XolyekXifqhSAw) | 3:59 | 2025-09-03 |  |
 | [Aunque no Sobre Nada](https://open.spotify.com/track/3gzsPdpwoYOt1k5csRZXRi) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Aunque no Sobre Nada](https://open.spotify.com/album/5GdkEMt3dvIiHfGR9tvkCm) | 2:04 | 2026-03-12 |  |
+| [Aura](https://open.spotify.com/track/4AUYrKOFthHYiUtDQ8zGFY) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Aura](https://open.spotify.com/album/4fP2OCd9IEgSxVBg5153av) | 3:01 | 2026-08-16 |  |
 | [Ausente](https://open.spotify.com/track/36PcSX4cg6YHzAIw3pDrgA) | [AarǿnViz](https://open.spotify.com/artist/6ciNCF1EJNLtnruJM3eySb) | [Ausente](https://open.spotify.com/album/0SPOT5pwB1OkBCttVu9TQp) | 2:52 | 2026-08-11 |  |
 | [Autoblues](https://open.spotify.com/track/5la9je5kc5G5DAdG9y4SVm) | [David Garrido Guil](https://open.spotify.com/artist/2Jln0dQ7HTBiWDjaTAORO3), [María Barrio Insausti](https://open.spotify.com/artist/7iF1mujsOuDUJe0wUoJNU8), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM), [Carlos Beceiro](https://open.spotify.com/artist/3u32J7uST7l92X909YikOy), [Joaquín Pardinilla](https://open.spotify.com/artist/1cWiX6hWca9tLhKQpatHzw) | [Autoblues](https://open.spotify.com/album/0ChR9vm2le1g7U7e4cdGai) | 3:53 | 2025-12-07 |  |
 | [Avocado Face](https://open.spotify.com/track/2QmDLGr82ouVDgyF3LAXrE) | [Paper Bagg Band](https://open.spotify.com/artist/1hHk52TIe6t4KW443P0iuq) | [Avocado Face](https://open.spotify.com/album/0gfsmZYVu1qwTFxlVLLOKk) | 2:36 | 2026-05-29 |  |
@@ -1467,9 +1468,11 @@
 | [Never Let It Loose](https://open.spotify.com/track/4H1XryI3AQSI1qmBJihT49) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Never Let It Loose](https://open.spotify.com/album/0Hu7KcSdawQtwuF1lUMusr) | 2:57 | 2025-10-18 |  |
 | [Never Let It Loose](https://open.spotify.com/track/6rBb0xui7iO1KctH7iX4Rm) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:57 | 2025-12-01 |  |
 | [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 | 2026-08-08 |  |
+| [New Beginnings](https://open.spotify.com/track/7BsjpAyf895DsnKwJRgVCz) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [New Beginnings](https://open.spotify.com/album/3ugLThsefNvx96vqsIxRkz) | 2:29 | 2026-08-16 |  |
 | [New You](https://open.spotify.com/track/6yBbrJTELv33sNGSqg5ipe) | [Springworks](https://open.spotify.com/artist/351ok85APWNYv1RcU0UMcn) | [New You](https://open.spotify.com/album/7feMMk06r83T7zZUyYUuch) | 4:53 | 2025-05-06 |  |
 | [News From The World](https://open.spotify.com/track/4TxooFhkj2B1i4jqNuYM9V) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [News From The World](https://open.spotify.com/album/0K2QmHIMelMxMVbLVeA0XQ) | 4:22 | 2025-04-25 |  |
 | [Next 2 U](https://open.spotify.com/track/1EfnmdAQzEKy5L6fRqZFyw) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 3:51 | 2025-07-02 |  |
+| [Next to Me](https://open.spotify.com/track/14rjzEn4Rza8tpIXny6Wno) | [Chris Garner](https://open.spotify.com/artist/5mFsB0s0Rusyrrxo1kGN8o) | [Next to Me](https://open.spotify.com/album/3sgLltelIpW7NVS36Vdug3) | 2:38 | 2026-08-15 |  |
 | [Ngelajau Dub](https://open.spotify.com/track/6rYszpjw99oRatMWmaOcXV) | [Roadblock Dub Collective](https://open.spotify.com/artist/64UADSwMK2E5Nj3vh7QEkb) | [Suwarnadub](https://open.spotify.com/album/0ywrdUv7aP9Fw8LrN8kawz) | 4:02 | 2024-04-01 |  |
 | [Ngelajau Dub \- Tahtim Live Dub Mix](https://open.spotify.com/track/4zhd00bsEfbDQZhQTlW2tm) | [Roadblock Dub Collective](https://open.spotify.com/artist/64UADSwMK2E5Nj3vh7QEkb), [Sub Conscious Dub](https://open.spotify.com/artist/2POBxX9p6HlWitXFbhWAEl) | [Suwarnadub](https://open.spotify.com/album/0ywrdUv7aP9Fw8LrN8kawz) | 4:43 | 2024-05-01 |  |
 | [Ngelajau Dub \- Tahtim Mix](https://open.spotify.com/track/66GVvBHXFT8hAEG96l95AS) | [Roadblock Dub Collective](https://open.spotify.com/artist/64UADSwMK2E5Nj3vh7QEkb) | [Suwarnadub](https://open.spotify.com/album/0ywrdUv7aP9Fw8LrN8kawz) | 4:45 | 2024-05-01 |  |
@@ -1752,10 +1755,11 @@
 | [Rider](https://open.spotify.com/track/3jwAwVzOQWy4v2DBvQOFzw) | [Mixdy](https://open.spotify.com/artist/45Aq6zFmD3OEHtOIYzuYnR) | [Rider](https://open.spotify.com/album/0KEsf3kLP3TF7RF2CvtJO0) | 3:08 | 2025-05-09 |  |
 | [Riding Dinamite](https://open.spotify.com/track/2nPGjtFpy5OLgRYNXvGIHm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Riding Dinamite](https://open.spotify.com/album/58J3xXeAPkerRCmJez9Evx) | 3:36 | 2026-01-06 |  |
 | [Riding Dinamite](https://open.spotify.com/track/5tJNvlN9W3yH6xDAad0ilT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:36 | 2026-05-20 |  |
+| [Riempimi la vita](https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Riempimi la vita](https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH) | 4:20 | 2026-08-16 |  |
 | [Right Foot](https://open.spotify.com/track/6n2oGIs0n0O97RLXRBy0py) | [TheOtherGuyz](https://open.spotify.com/artist/7JYdSgTEAuN5lW87o8y0QZ) | [Right Foot](https://open.spotify.com/album/2XSyRXxcqK4RHDm7ziTraM) | 5:06 | 2025-08-18 |  |
 | [Righteous](https://open.spotify.com/track/5AUnDwphuvS3Zs13moCL9P) | [Tramaine Long](https://open.spotify.com/artist/4aBzae3WDd2VRn1s0AeKIg) | [LEGENDARY](https://open.spotify.com/album/6D4pdKcl4AAdiyMA2HrPYm) | 3:07 | 2025-10-07 |  |
 | [Rise](https://open.spotify.com/track/5ux9eQyaSNIce8B84TyIWm) | [Ibel Campbell](https://open.spotify.com/artist/72RCv4B70FMnVlQtmfuwEC) | [Love Fi Life](https://open.spotify.com/album/610frbuTA9LoRbTSN8HCb5) | 4:04 | 2024-05-03 |  |
-| [Rise Above](https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Rise Above](https://open.spotify.com/album/4Nm3fCI7iK5YCHWZ8IMiP3) | 3:46 | 2025-10-15 |  |
+| [Rise Above](https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Rise Above](https://open.spotify.com/album/4Nm3fCI7iK5YCHWZ8IMiP3) | 3:46 | 2025-10-15 | 2026-08-17 |
 | [Rise Up](https://open.spotify.com/track/5xHGQaOTHvTr1xEX5s6foL) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 4:11 | 2024-03-10 |  |
 | [Rise Up Dub](https://open.spotify.com/track/7obiR9dcFKgRvJ4tMER0XV) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [King Love Dub Sessions](https://open.spotify.com/album/6eOZY5jTwk9FQxUdWTBRRZ) | 6:17 | 2024-05-04 |  |
 | [Risk](https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:38 | 2024-03-04 |  |

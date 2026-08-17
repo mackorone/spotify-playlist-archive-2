@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-684 songs - 1 day 18 hr 31 min
+687 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [I Need You](https://open.spotify.com/track/3meKJA7QwTiHdTu0k5TWoH) | [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Covers Pt\. 1](https://open.spotify.com/album/6Lv3vu9yod1CdBzOHiwaNP) | 2:32 | 2026-08-11 |  |
 | [I Think They Call This Love](https://open.spotify.com/track/6YHGbYKvy86vX2AQgFkEHj) | [Luke Buwalda](https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ) | [I Think They Call This Love](https://open.spotify.com/album/7CD8kGEMKuOvoSkZSVVyNj) | 3:11 | 2025-12-26 | 2026-03-18 |
 | [I Want You](https://open.spotify.com/track/6LvHkTsHjLcunW7v2PuWzQ) | [Vic Polsom](https://open.spotify.com/artist/2FTkR9fGunEdYPeqNo19CN) | [Rise Up](https://open.spotify.com/album/5VydD9TvVBxsJsnaHmaXCm) | 2:46 | 2025-10-22 | 2025-11-28 |
+| [I'm Gonna Live](https://open.spotify.com/track/4uYt7IA77IDaBuNRjRefIX) | [Stu White](https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ) | [I'm Gonna Live](https://open.spotify.com/album/3vLxSsCmYV4ndoklyWM7qP) | 3:40 | 2026-08-16 |  |
 | [I'm In Love With The Way \(You Breathe My Name\)](https://open.spotify.com/track/2BKkiZsIn81BlnNSIm2NEb) | [Paper Satellite](https://open.spotify.com/artist/4nfaau5xtDWVVwCTxkjZrN) | [Turbulence](https://open.spotify.com/album/42b2E8vOKrh5XBI8rGG1Fz) | 5:48 | 2026-07-13 | 2026-08-01 |
 | [I'm On Fire](https://open.spotify.com/track/2YkStnBSMoFi5lNyub4xRd) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 2:38 | 2026-03-16 | 2026-04-21 |
 | [I've Got No Fear](https://open.spotify.com/track/0Aj2Zv5gEcj4ndcDpvy9WQ) | [Mays Hounds](https://open.spotify.com/artist/0uyaofsOLmzcYezAAKtYkj) | [I've Got No Fear](https://open.spotify.com/album/557Qq6MMDSAzL75W5qfeDw) | 2:23 | 2025-10-22 | 2025-11-28 |
@@ -614,6 +615,7 @@
 | [Thrift Store Girl](https://open.spotify.com/track/2jq9HoHfKXEJJR3noL0DQM) | [Idan Altman](https://open.spotify.com/artist/7MomsgGtMu3PUg3dRGleQQ) | [It all works out in the ☰nd](https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw) | 3:45 | 2025-12-22 | 2026-04-21 |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-01-27 | 2026-03-18 |
 | [To blues tis monaksias](https://open.spotify.com/track/0i1sZjx82aJ1rOe6bPqWqy) | [Giorgos Martos](https://open.spotify.com/artist/3P8DI56L3cFZ7rEzoCoCVl) | [Psaks'to vathia](https://open.spotify.com/album/5fYs3dSNay0mHopgunjVXq) | 3:57 | 2026-06-21 | 2026-07-12 |
+| [Today's the Day](https://open.spotify.com/track/2kKvre1JHMqrifYhnY8jOj) | [Royal Blunder](https://open.spotify.com/artist/6NxDMqnU1OdPgQhy3o3Gu2) | [Today's the Day](https://open.spotify.com/album/5ugUKIntUb435RWxwy3ksp) | 3:21 | 2026-08-16 |  |
 | [Tonight](https://open.spotify.com/track/5WeH9AfJ8rXgojFe2Ljgpf) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Tonight](https://open.spotify.com/album/1je3MKYL9fqv0leNc02zfr) | 3:05 | 2025-10-28 | 2025-12-17 |
 | [Too Good To Ignore](https://open.spotify.com/track/1oTPNzxF7XROhYe6AEvTfz) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Too Good To Ignore](https://open.spotify.com/album/42CINCmx63mfUPpe1floNp) | 6:43 | 2026-03-14 | 2026-04-21 |
 | [Too Late](https://open.spotify.com/track/13MB9XtESMGSWZfwpo4Z3G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 3:44 | 2025-09-21 | 2026-07-03 |
@@ -643,6 +645,7 @@
 | [Walk Between Worlds \- Alternate Version](https://open.spotify.com/track/411jnbOzg92EcSY9cN85ln) | [Rose Dunn Music](https://open.spotify.com/artist/0VWOHUs4vZqLNyLe8I4Oa9) | [Walk Between Worlds \(Alternate Version\)](https://open.spotify.com/album/4ZPjQXpMhqmb36DewkF08D) | 3:43 | 2026-03-14 | 2026-04-21 |
 | [Walk Through Quicksand](https://open.spotify.com/track/5Pr5NTcu6bgkcQgNabBM3b) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Walk Through Quicksand](https://open.spotify.com/album/2oxRmthCj3nUYYmx7xliaE) | 3:31 | 2025-10-19 | 2026-07-12 |
 | [Waltz of the Ghosts \- New Mix 2026](https://open.spotify.com/track/7fGRrfantyLYbQu1BeebhP) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Waltz of the Ghosts \(New Mix 2026\)](https://open.spotify.com/album/4VC8SAbA8EtjUzNfqPfnpm) | 6:09 | 2026-04-20 | 2026-06-25 |
+| [Wanda's Leather Skirt](https://open.spotify.com/track/4zfg969Jfm9jFLdlw75TXx) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Wanda's Leather Skirt](https://open.spotify.com/album/0Qjnk0C9VfjNad08HrAvtU) | 3:17 | 2026-08-16 |  |
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2025-11-03 | 2025-12-17 |
 | [Wasting My Time](https://open.spotify.com/track/09b5kXOEsKtC42qD5AJNcA) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Wasting My Time](https://open.spotify.com/album/0V4qWW8XqxvGrEFttE3Bus) | 2:52 | 2025-11-27 |  |
 | [We Always Lie](https://open.spotify.com/track/79fDWHvwxHnX64TWVuWqej) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Everyday Revolt](https://open.spotify.com/album/0rrZYzBjRlMdbTErbrkqdq) | 3:28 | 2025-12-24 | 2026-04-21 |

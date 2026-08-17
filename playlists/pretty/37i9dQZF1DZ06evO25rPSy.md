@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,226 likes - 38 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,228 likes - 38 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 24 | [Recuéstame](https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 3:55 |
 | 25 | [Tema del Adiós](https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy) | 4:11 |
 | 26 | [Hay un modo](https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 |
-| 27 | [Cuando El Sol Va A Salir](https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:33 |
+| 27 | [Tren Sexual](https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:08 |
 | 28 | [Qué Oscuridad](https://open.spotify.com/track/6dxz8sm7n7tQhHqwolLdWs) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 4:28 |
 | 29 | [Cuando Pienses en Volver \- Versión Cumbia\- Salsa](https://open.spotify.com/track/7wAVxo1CSjGlxWSXAp53OM) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Ezio Oliva](https://open.spotify.com/artist/13VQn367NHwGWe1vQbDawm), [Lucho Quequezana](https://open.spotify.com/artist/6RZw6Uxm1JgLuI293XA2Y7), [Sonia Morales](https://open.spotify.com/artist/2Ygsf1reW7mIhmiO0X2I0y), [Bartola](https://open.spotify.com/artist/2IGcePH75Tnvk4TDVsQq2A), [Christian Yaipén](https://open.spotify.com/artist/68h9Hwsl5HjA62EAPjZ4pw), [Renata Flores](https://open.spotify.com/artist/1EAJb8brwi1kaoOkIwvrLJ), [Guillermo Bussinger](https://open.spotify.com/artist/6RikhFPOTZtU9sDL55VQn3) | [Cuando Pienses en Volver \(Versión Cumbia\- Salsa\)](https://open.spotify.com/album/3fk92m0deWHsUlkDeySzTa) | 4:12 |
 | 30 | [Amazonas](https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:56 |
-| 31 | [Tren Sexual](https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:08 |
+| 31 | [Cuando El Sol Va A Salir](https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:33 |
 | 32 | [Bailar](https://open.spotify.com/track/52YFzji6kJVzC4UqZrsPKT) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 4:19 |
 | 33 | [Rara Soledad](https://open.spotify.com/track/2WNlzawBfFAf0iTrlkt9E1) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 2:16 |
 | 34 | [Ella y él](https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:57 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 37 | [El Triunfo Tan Soñado](https://open.spotify.com/track/0sY6nOI7cfuMlmm1z8PY6j) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 4:22 |
 | 38 | [Túnel del Tiempo](https://open.spotify.com/track/1znPffZgcfKikzMwcAPYWD) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:16 |
 
-Snapshot ID: `an5agAAAAABMgrJ1UPhC6+f3J5D/7x5X`
+Snapshot ID: `an+sAAAAAADcih8xE7pXq3yeMfopNPst`

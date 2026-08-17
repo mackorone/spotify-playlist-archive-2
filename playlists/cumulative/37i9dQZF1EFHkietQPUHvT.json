@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Outlaw in Love",
+        "url": "https://open.spotify.com/album/5NRkJYAKmV8VojGaDBmbby"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205879,
+      "name": "Hiding on the Highway",
+      "url": "https://open.spotify.com/track/2gkAI6XS9SZyznLE3AdHz6"
+    },
+    {
+      "album": {
         "name": "Holding My Breath",
         "url": "https://open.spotify.com/album/58uJcAMB0DC2GgLYWjfqMI"
       },

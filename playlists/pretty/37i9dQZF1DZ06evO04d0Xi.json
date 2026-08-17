@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAA9ewmcAn6EbbDi6JkJu2to",
+  "snapshot_id": "an+sAAAAAABlvYjvEPUj2MKbOkpMGgJ3",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 496640,
+      "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rastros de Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 250666,
       "name": "H\u00e1 Muito Mais - Ao Vivo",
       "url": "https://open.spotify.com/track/6W4iAMbZCXSG4ixmZG1A5b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 496640,
-      "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
     },
     {
       "added_at": null,

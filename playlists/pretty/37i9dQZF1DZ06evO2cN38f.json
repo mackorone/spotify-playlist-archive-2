@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1704,
+  "num_followers": 1708,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABdRy9JhoDQbGm475WiuJPI",
+  "snapshot_id": "an+sAAAAAAADoubva1wW8bNgCNdUQdyp",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 237929,
-      "name": "Already",
-      "url": "https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What You Done",
         "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 174048,
       "name": "What You Done",
       "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 237929,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: TOM LECHEF
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,068 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,092 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 69 | [Not Ready For This Love](https://open.spotify.com/track/3QOxwuNQHpLjJZLROh71yh) | [Swoush](https://open.spotify.com/artist/2eFQDzvOlswU3yO7GTcoEm) | [Not Ready For This Love](https://open.spotify.com/album/0O9uSsvRFrp54f3s48cTLZ) | 3:19 |
 | 70 | [The Sign](https://open.spotify.com/track/21tvog0dPrmzmIqRTKFYG9) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA) | [The Sign](https://open.spotify.com/album/0I7SWNmu6IRJ58aekoxlbt) | 3:19 |
 
-Snapshot ID: `AAAAAJ1I3fSI1Oi8XDZawEglBGloKbEa`
+Snapshot ID: `AAAAAPJ9vDtburs+wavWjQ1ATM6vlXuf`

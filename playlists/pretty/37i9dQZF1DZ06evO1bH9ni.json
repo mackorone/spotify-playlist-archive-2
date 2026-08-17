@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 354167,
+  "num_followers": 354186,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACp+8JQn9IHabVfft84awn/",
+  "snapshot_id": "an+sAAAAAABJiAur616MdkQcaw9MgL1s",
   "tracks": [
     {
       "added_at": null,
@@ -667,30 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Hierba, Polvo y Plomo",
-        "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 215594,
-      "name": "Entre Hierba, Polvo y Plomo",
-      "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Claro y Recio",
         "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 165820,
       "name": "\u2060Claro y Recio",
       "url": "https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Hierba, Polvo y Plomo",
+        "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 215594,
+      "name": "Entre Hierba, Polvo y Plomo",
+      "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+        "name": "No Estar\u00e9 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 166038,
-      "name": "En Fin",
-      "url": "https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo"
+      "duration_ms": 146233,
+      "name": "No Estar\u00e9 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Estar\u00e9 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 146233,
-      "name": "No Estar\u00e9 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
+      "duration_ms": 166038,
+      "name": "En Fin",
+      "url": "https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo"
     }
   ],
   "unique_name": "This Is Los Dos Carnales",

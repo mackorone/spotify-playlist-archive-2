@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,786 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,791 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 23 | [Do It Like This](https://open.spotify.com/track/45O1FqujO4aNZjcX1stSLw) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4A4hmu0p8DWp10Nf85BraJ) | 3:37 |
 | 24 | [Ninja](https://open.spotify.com/track/4GIUFeR69DbXlHwbOSG0AO) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 4:31 |
 | 25 | [Big Tings](https://open.spotify.com/track/3ddLVqFzW2KVnfOenMXsGS) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:34 |
-| 26 | [Set It Off](https://open.spotify.com/track/4IKslwj0xYFfJmWb1yQQxM) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(U.S\. Version\)](https://open.spotify.com/album/6OZIaKS03Zn8B7Ov7F2Rx4) | 3:03 |
-| 27 | [Trouble](https://open.spotify.com/track/4LuZJyz6VWCPioOSpDSnyk) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:49 |
+| 26 | [Trouble](https://open.spotify.com/track/4LuZJyz6VWCPioOSpDSnyk) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:49 |
+| 27 | [Set It Off](https://open.spotify.com/track/4IKslwj0xYFfJmWb1yQQxM) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(U.S\. Version\)](https://open.spotify.com/album/6OZIaKS03Zn8B7Ov7F2Rx4) | 3:03 |
 | 28 | [Proceed With Caution](https://open.spotify.com/track/2XBszkWUCGp98STdL0BS1c) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 3:18 |
 | 29 | [Doom Riff](https://open.spotify.com/track/1bFpr9RuXPpIw7dbFAlLgC) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:48 |
 | 30 | [Alive](https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 49 | [Bad Man Ah Bad Man](https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:30 |
 | 50 | [Days Like These](https://open.spotify.com/track/5XdFU7eQHlD2nqv2VnncVP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:36 |
 
-Snapshot ID: `an5agAAAAACOKdMUGCadhXLFzgfYIxGm`
+Snapshot ID: `an+sAAAAAACaDxjp7rRK7jGzf655Z3y0`

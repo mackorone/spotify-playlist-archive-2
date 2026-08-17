@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,688 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,690 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 25 | [Trouble](https://open.spotify.com/track/716irYdOvfRgpu3HeelScT) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Horoscopes](https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF) | 2:43 |
 | 26 | [Gaga Shuffle](https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gaga Shuffle](https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO) | 3:41 |
 | 27 | [Be There](https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY) | 3:11 |
-| 28 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 |
-| 29 | [Enter the Place \(feat\. Sound Sultan\)](https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:21 |
-| 30 | [We Must Groove \(feat\. Burna Boy\)](https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:45 |
-| 31 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
+| 28 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
+| 29 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 |
+| 30 | [Enter the Place \(feat\. Sound Sultan\)](https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:21 |
+| 31 | [We Must Groove \(feat\. Burna Boy\)](https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:45 |
 | 32 | [Iworiwo](https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Iworiwo](https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel) | 4:02 |
 | 33 | [Rainbow](https://open.spotify.com/track/1Jumeazvmns8NKaqs2aCfS) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 4:18 |
 | 34 | [Oya Come Make We Go](https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Oya Come Make We Go](https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1) | 4:19 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 48 | [Feeling You](https://open.spotify.com/track/1l8UZotTBOynkYGEPW0WEa) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:22 |
 | 49 | [Human Being \(feat\. 2Face & Sound Sultan\)](https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [The Chairman](https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM) | 5:47 |
 
-Snapshot ID: `an5agAAAAAD4DyPilsEepY9Eot8GXwxG`
+Snapshot ID: `an+sAAAAAACwpIbGQPlfaQ7Ajw0X9Htq`

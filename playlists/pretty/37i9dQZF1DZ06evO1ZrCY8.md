@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,345 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,367 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 13 | [La herida](https://open.spotify.com/track/5puKIFMq9smVFhOWGpG93y) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 6:54 |
 | 14 | [Con nombre de guerra](https://open.spotify.com/track/2W0SOlPRDSxLLbMNR9tR7P) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 4:16 |
 | 15 | [Senda](https://open.spotify.com/track/1sgk7dkImoLiq4XZU8JZE2) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 3:53 |
-| 16 | [Flor venenosa](https://open.spotify.com/track/2pCDBt25PUzgxAiWgjJ7kS) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:08 |
-| 17 | [El estanque \- Live](https://open.spotify.com/track/2vrVlidqD4TPASvwqlBztv) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 4:40 |
+| 16 | [El estanque \- Live](https://open.spotify.com/track/2vrVlidqD4TPASvwqlBztv) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 4:40 |
+| 17 | [Flor venenosa](https://open.spotify.com/track/2pCDBt25PUzgxAiWgjJ7kS) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:08 |
 | 18 | [Opio](https://open.spotify.com/track/1OEwlQgfS6Jwfwl9LwI4uj) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha\- Edición Especial](https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4) | 6:18 |
 | 19 | [Despertar](https://open.spotify.com/track/5nteRi2u2D46hYxA79LPqA) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 2:52 |
-| 20 | [Tesoro \- 2012 Remastered Version](https://open.spotify.com/track/3TmK0x5ARV18SQQa1dwreR) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 2:18 |
-| 21 | [Agosto \- Live](https://open.spotify.com/track/2UDS1eIYjO5iAuggMGQTbo) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 4:31 |
+| 20 | [Agosto \- Live](https://open.spotify.com/track/2UDS1eIYjO5iAuggMGQTbo) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 4:31 |
+| 21 | [Tesoro \- 2012 Remastered Version](https://open.spotify.com/track/3TmK0x5ARV18SQQa1dwreR) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 2:18 |
 | 22 | [En brazos de la fiebre](https://open.spotify.com/track/7LGH6CjdyJAFxzuqcGF381) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 4:45 |
 | 23 | [Fuente esperanza \- Nueva mezcla; 2000 Remastered Version](https://open.spotify.com/track/3O0WzGt1szXy5rv97wv41O) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT), [Phil Manzanera](https://open.spotify.com/artist/7okyczV3XPmMsbCFcuaxPz) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:39 |
-| 24 | [Bendecida 2 \- 2012 Remastered Version](https://open.spotify.com/track/4J0HROC9pT8Wdahp2M6gHO) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 0:36 |
-| 25 | [Bendecida](https://open.spotify.com/track/6VvWFKYrRyvlfz4ddteFqv) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 5:59 |
+| 24 | [Bendecida](https://open.spotify.com/track/6VvWFKYrRyvlfz4ddteFqv) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 5:59 |
+| 25 | [Bendecida 2 \- 2012 Remastered Version](https://open.spotify.com/track/4J0HROC9pT8Wdahp2M6gHO) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 0:36 |
 | 26 | [Avalancha](https://open.spotify.com/track/2QWiLP3WiFMtmJ08nUTWUC) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 5:58 |
 | 27 | [Decadencia](https://open.spotify.com/track/5Uqw9M6tKMWka2pmMcWGoE) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 4:16 |
 | 28 | [Juan Valdivia y Entre dos tierras \- Interludio](https://open.spotify.com/track/4wkROZAHQ0E8L71rnbtlPz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Héroes: Silencio y Rock & Roll](https://open.spotify.com/album/6c3S9kBmbQJ50qQRwKuYuV) | 0:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 49 | [Olvidado](https://open.spotify.com/track/7zk3hfoyY091DiGRET3vfN) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:30 |
 | 50 | [Hologramas](https://open.spotify.com/track/3elCmMsrZX2mCuXVzHKbmJ) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 2:17 |
 
-Snapshot ID: `an5agAAAAAB7SulLCKPXy5VZRmDhn5j4`
+Snapshot ID: `an+sAAAAAADHeBBofFIW4nRXMya7nHeq`

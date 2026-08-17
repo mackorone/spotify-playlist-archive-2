@@ -4,7 +4,7 @@
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-164 songs - 8 hr 28 min
+165 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/0612bpbpVUQX7mwYNO36xj) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/album/56ZmDRD0prasmcVlSJwQNS) | 3:26 | 2024-01-29 | 2024-08-22 |
 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR) | 3:26 | 2025-03-08 |  |
 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/7qpl6cleWADFbhMifTBkPg) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/1pivskZf20uDpQV21sjkN3) | 3:26 | 2024-08-22 | 2025-03-08 |
-| [La Güera](https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Güera](https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY) | 2:38 | 2026-06-21 |  |
+| [La Güera](https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Güera](https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY) | 2:38 | 2026-06-21 | 2026-08-17 |
 | [La Hija Del Señor](https://open.spotify.com/track/2DMb5Q3RcI8fR12AKbtMPH) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Calmados y No Dejados](https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d) | 3:13 | 2026-04-19 | 2026-06-21 |
 | [La Número 20 \- En Vivo](https://open.spotify.com/track/7IgCrY5WUgwzL2MxUzzLTF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Número 20 \(En Vivo\)](https://open.spotify.com/album/4apHcPQV70jZg475MOOh9B) | 3:10 | 2024-09-30 | 2025-02-26 |
 | [La Payasa](https://open.spotify.com/track/0L5wKmUHRWelBy19r86lGJ) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Payasa](https://open.spotify.com/album/4ERHeig5r52yomQqdYOVKC) | 3:26 | 2024-12-31 | 2025-03-08 |
@@ -140,6 +140,7 @@
 | [Puro Pa’ Delante](https://open.spotify.com/track/7LB36Pf828QzWhZ4F33wXK) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Géminis](https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T) | 2:38 | 2025-06-22 | 2026-03-28 |
 | [Que Chulada \- En Vivo](https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:02 | 2024-12-26 |  |
 | [Renacer](https://open.spotify.com/track/3xu6gF8R4fa0ghzvj67aI6) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:46 | 2026-08-16 |  |
+| [Rey León](https://open.spotify.com/track/5ikzjvLe1zsAJkgimIz1ev) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:07 | 2026-08-17 |  |
 | [Se Cansó \- En Vivo](https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Se Cansó \(En Vivo\)](https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM) | 3:14 | 2024-09-15 | 2025-09-16 |
 | [Sentimientos De Carton \- En Vivo](https://open.spotify.com/track/13bpCkdwpBycK88vHzbnIM) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \- En Vivo](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 3:21 | 2024-01-29 | 2024-08-24 |
 | [Sentimientos De Carton \- En Vivo](https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 3:21 | 2024-08-24 |  |

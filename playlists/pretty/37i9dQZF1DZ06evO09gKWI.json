@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACuGEVQcs3nyjWyxs1DuAeq",
+  "snapshot_id": "an+sAAAAAADTthmXQq24OY3qUmS1VZ1z",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papo Reto (Deluxe)",
-        "url": "https://open.spotify.com/album/7whN3qlp1F3hlb0JWoDHkR"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 192499,
-      "name": "Papo Reto",
-      "url": "https://open.spotify.com/track/38uPYjSA9RhTV42nmSAaV2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alvinegro Praiano",
         "url": "https://open.spotify.com/album/35qVvVRuTpudHAmjXoF4Ru"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 238080,
       "name": "Alvinegro Praiano",
       "url": "https://open.spotify.com/track/06koM9lsbR0OEdbv8GgL4j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papo Reto (Deluxe)",
+        "url": "https://open.spotify.com/album/7whN3qlp1F3hlb0JWoDHkR"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 192499,
+      "name": "Papo Reto",
+      "url": "https://open.spotify.com/track/38uPYjSA9RhTV42nmSAaV2"
     },
     {
       "added_at": null,
@@ -1067,26 +1067,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bivolt no Est\u00fadio Showlivre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Showlivre",
-          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
-        }
-      ],
-      "duration_ms": 119159,
-      "name": "Sem Sentido - Ao Vivo",
-      "url": "https://open.spotify.com/track/0cC2UyWd7ygvCoyvT1LfnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ela",
         "url": "https://open.spotify.com/album/6hgMAiw5faQUZgStrv3EDg"
       },
@@ -1111,34 +1091,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ta\u00e7as",
-        "url": "https://open.spotify.com/album/3PoTz4bC2YUyPr24yT7zGz"
+        "name": "Bivolt no Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65"
       },
       "artists": [
         {
-          "name": "Guxta",
-          "url": "https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy"
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "LOUD",
-          "url": "https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS"
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "duration_ms": 119159,
+      "name": "Sem Sentido - Ao Vivo",
+      "url": "https://open.spotify.com/track/0cC2UyWd7ygvCoyvT1LfnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 156353,
-      "name": "Ta\u00e7as",
-      "url": "https://open.spotify.com/track/43wU9QMeq9jJrCxAvpCEXP"
+      "duration_ms": 185884,
+      "name": "Imaginei",
+      "url": "https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL"
     },
     {
       "added_at": null,
@@ -1175,26 +1167,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q"
+        "name": "Ta\u00e7as",
+        "url": "https://open.spotify.com/album/3PoTz4bC2YUyPr24yT7zGz"
       },
       "artists": [
         {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+          "name": "Guxta",
+          "url": "https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "LOUD",
+          "url": "https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 185884,
-      "name": "Imaginei",
-      "url": "https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL"
+      "duration_ms": 156353,
+      "name": "Ta\u00e7as",
+      "url": "https://open.spotify.com/track/43wU9QMeq9jJrCxAvpCEXP"
     },
     {
       "added_at": null,

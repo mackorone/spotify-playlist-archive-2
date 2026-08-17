@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACX0hlOY32iZxOd1wVfzNvx",
+  "snapshot_id": "an+sAAAAAAC7GBgeEnrAhLm8za0izzRB",
   "tracks": [
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 182454,
-      "name": "Fire / Water",
-      "url": "https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD"
+      "duration_ms": 155294,
+      "name": "Earth / Air",
+      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 438000,
-      "name": "Dense Dusk",
-      "url": "https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN"
+      "duration_ms": 267522,
+      "name": "Simple Walk",
+      "url": "https://open.spotify.com/track/3BZ0sNMJa1LRNGz6tpkZGS"
     },
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 155294,
-      "name": "Earth / Air",
-      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
+      "duration_ms": 182454,
+      "name": "Fire / Water",
+      "url": "https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD"
     },
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 267522,
-      "name": "Simple Walk",
-      "url": "https://open.spotify.com/track/3BZ0sNMJa1LRNGz6tpkZGS"
+      "duration_ms": 438000,
+      "name": "Dense Dusk",
+      "url": "https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN"
     },
     {
       "added_at": null,
@@ -263,70 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recent Futures",
-        "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 229625,
-      "name": "Vacant & Encouraging My Trophy Houseplant",
-      "url": "https://open.spotify.com/track/2ofVGkLXke0899o5TmbWUk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Draft",
-        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 344500,
-      "name": "2nd Wind",
-      "url": "https://open.spotify.com/track/12ywSB3U66OMMHE23p57uK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timekeeper",
-        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "4:36 PM",
-      "url": "https://open.spotify.com/track/6BcXA332jXYmK0xC1SGk7E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 80888,
-      "name": "Air / Air",
-      "url": "https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unexpected Music II",
         "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
       },
@@ -372,9 +308,73 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 97000,
-      "name": "6:33 AM",
-      "url": "https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s"
+      "duration_ms": 178250,
+      "name": "4:36 PM",
+      "url": "https://open.spotify.com/track/6BcXA332jXYmK0xC1SGk7E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 80888,
+      "name": "Air / Air",
+      "url": "https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recent Futures",
+        "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 229625,
+      "name": "Vacant & Encouraging My Trophy Houseplant",
+      "url": "https://open.spotify.com/track/2ofVGkLXke0899o5TmbWUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2nd Draft",
+        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 33000,
+      "name": "Receiver",
+      "url": "https://open.spotify.com/track/631lOOn4M2iU8MhVM6zChC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timekeeper",
+        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 74000,
+      "name": "1:23 AM",
+      "url": "https://open.spotify.com/track/12hd2wt0VMJuurnKaCdALe"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,431 likes - 43 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,432 likes - 43 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 42 | [No Bailes Asi \- Remix](https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe) | [Santos Jaguar](https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [No Bailes Asi \(Remix\)](https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD) | 2:33 |
 | 43 | [25 Lighters](https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:22 |
 
-Snapshot ID: `an5agAAAAACW3ELqyvBa+c7mGIi2yALw`
+Snapshot ID: `an+sAAAAAACSiuuOta6EeAtglmIgVdjD`

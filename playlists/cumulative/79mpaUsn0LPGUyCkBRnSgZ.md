@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,195 songs - 3 day 5 hr 7 min
+1,196 songs - 3 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Hegemonic](https://open.spotify.com/track/79qKtKFvTWYoLYVcJnBCVh) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Insatiable](https://open.spotify.com/album/5174DaPHbMVAzmnWR1CQ0b) | 2:29 | 2026-03-03 |  |
 | [Hello](https://open.spotify.com/track/4qYlBtzkmby4r1N7etPnUv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 3:23 | 2025-06-20 |  |
 | [Hello, There](https://open.spotify.com/track/6Hm0mU868o8cPVkQ7tOmFa) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Vintage Violence](https://open.spotify.com/album/2o7YjekcSP7yiLXfuSy0ly) | 2:44 | 2025-12-14 |  |
+| [Hercules](https://open.spotify.com/track/15bg8bsx2AoqHu7hgRK6PU) | [Tracey Nelson](https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J) | [Hercules](https://open.spotify.com/album/5QWEWV25nYifxXjOYPkxjA) | 4:05 | 2026-08-17 |  |
 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2022-04-23 | 2023-08-06 |
 | [Hey Mr\. Dogman!](https://open.spotify.com/track/1poEehfJMN4lQqSsXcBxNQ) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [People in the Sun](https://open.spotify.com/album/28Oa0IXZyGHw0GpSLdkyk1) | 2:42 | 2026-01-15 |  |
 | [Hidden Place](https://open.spotify.com/track/5bnX0zhTVV1H5gNVjVhgaL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:28 | 2022-09-30 | 2023-12-14 |

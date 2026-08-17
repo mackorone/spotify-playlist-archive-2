@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 
 > The best hits from the biggest shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,128 likes - 49 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,125 likes - 49 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

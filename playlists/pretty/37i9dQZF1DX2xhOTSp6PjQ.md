@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Remembering <a href="https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=kpQ4ETLwSE2ofuDnVGnZaQ">Inkos'yamagcokama</a>\. Lala ngoxolo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,349 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,606 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

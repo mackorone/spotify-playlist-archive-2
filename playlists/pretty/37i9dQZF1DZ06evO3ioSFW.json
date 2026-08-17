@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 533010,
+  "num_followers": 533085,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAB5nZ5cXRQ3XN63DL/xdTXg",
+  "snapshot_id": "an+sAAAAAADMZXSfsrV01HUSWT68MBZA",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Mariposas",
-        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "En Su Lugar",
-      "url": "https://open.spotify.com/track/4w5F6hkJO5Gr1h0tDDPbg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Voz de un \u00c1ngel",
         "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 255520,
       "name": "\u00c1ngel (Angels)",
       "url": "https://open.spotify.com/track/0oxpihgVSWeYrPoLVZ4udk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Mariposas",
+        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "En Su Lugar",
+      "url": "https://open.spotify.com/track/4w5F6hkJO5Gr1h0tDDPbg1"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Mariposas",
-        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Yo por \u00c9l",
-      "url": "https://open.spotify.com/track/4Wf7GYRnkySl3s9h5uKlhd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Voz de un \u00c1ngel",
         "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 185653,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Mariposas",
+        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Yo por \u00c9l",
+      "url": "https://open.spotify.com/track/4Wf7GYRnkySl3s9h5uKlhd"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
-        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 180096,
-      "name": "Para Que Seas Feliz - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/1sQ9566ugBDsUmwyYTvZxN"
+      "duration_ms": 239626,
+      "name": "No Me Preguntes M\u00e1s",
+      "url": "https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
       "duration_ms": 163419,
       "name": "Ev\u00edtame la Pena",
       "url": "https://open.spotify.com/track/5iit5JfhTCIXmTcxDYk3kG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Es Color De Rosa",
-        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "No Me Preguntes M\u00e1s",
-      "url": "https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k"
     },
     {
       "added_at": null,
@@ -859,6 +843,26 @@
       "duration_ms": 225720,
       "name": "Quererte a Ti",
       "url": "https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Habla el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Patricio Borghetti",
+          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
+        }
+      ],
+      "duration_ms": 324493,
+      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
+      "url": "https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2"
     }
   ],
   "unique_name": "This Is Yuridia",

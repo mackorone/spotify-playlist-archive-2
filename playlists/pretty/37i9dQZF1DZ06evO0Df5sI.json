@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 24283,
+  "num_followers": 24289,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAADB0NkFwjsrY6PCTMGqTZne",
+  "snapshot_id": "an+sAAAAAAAGrPOhI+Skr159qEpV1/Iv",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Continental",
-      "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood, Hair, And Eyeballs",
         "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 180573,
       "name": "Blood, Hair, And Eyeballs",
       "url": "https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Is This Thing Cursed?",
-      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goddamnit!",
         "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 143893,
       "name": "Cringe",
       "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Is This Thing Cursed?",
+      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
     },
     {
       "added_at": null,

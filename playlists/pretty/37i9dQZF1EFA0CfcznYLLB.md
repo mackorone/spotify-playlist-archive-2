@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,829 likes - 309 songs - 15 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,828 likes - 309 songs - 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,8 +262,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 252 | [Fill The Room Up \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/78HbzVfqkxZQkv4o735amV) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Deadstar 2](https://open.spotify.com/album/1pPpRk6AF8EL19sgm2MkSD) | 2:23 |
 | 253 | [Hood Bitch Aesthetic](https://open.spotify.com/track/2rVMvrKpFmnpVRxRNWIywy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Hood Bitch Aesthetic](https://open.spotify.com/album/6am3JP04WcRJlPeqIYJJVj) | 3:14 |
 | 254 | [Khalil Story](https://open.spotify.com/track/2qo3sb2eqX5jSd4klUhGej) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 1:26 |
-| 255 | [Snow](https://open.spotify.com/track/5bs1qEaneeIRXGoZzZroPu) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Struggle Before Glory](https://open.spotify.com/album/6cguupMoW9kXgg6Nbuk6fC) | 2:51 |
-| 256 | [Maybach](https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Maybach](https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB) | 2:45 |
+| 255 | [Maybach](https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Maybach](https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB) | 2:45 |
+| 256 | [Snow](https://open.spotify.com/track/5bs1qEaneeIRXGoZzZroPu) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Struggle Before Glory](https://open.spotify.com/album/6cguupMoW9kXgg6Nbuk6fC) | 2:51 |
 | 257 | [Drink](https://open.spotify.com/track/6GMIL1PfCZwsEG1QaP7ewz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:26 |
 | 258 | [Pop 1 \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5mQCWOVOD3cbNZwN8Tt41t) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Deadstar 2](https://open.spotify.com/album/1pPpRk6AF8EL19sgm2MkSD) | 2:40 |
 | 259 | [Hood Politics](https://open.spotify.com/track/7lOFSXxqxVhSuu7lgL85sj) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hood Politics](https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU) | 3:14 |
@@ -285,8 +285,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 275 | [WYO \(feat\. BlakeIANA\)](https://open.spotify.com/track/1bh0NqcTg6oaqpSEMWSWW4) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:36 |
 | 276 | [Here We Go Again](https://open.spotify.com/track/0UjreU6H687kMaZd6Vl3jo) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [MOTIONS](https://open.spotify.com/album/7aWTt4WJJdlObKHDWjH8x8) | 2:37 |
 | 277 | [Humana \(feat\. Donnie & Smoke Dawg\)](https://open.spotify.com/track/5Rsz2OB6mMEZuUbnrZfdpg) | [Jimmy Prime](https://open.spotify.com/artist/4FtU90cHXNvErDdCM5ibqi), [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS), [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Humana \(feat\. Donnie & Smoke Dawg\)](https://open.spotify.com/album/782EfY56wSjLrBndf5u4X5) | 3:13 |
-| 278 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
-| 279 | [まーいいや](https://open.spotify.com/track/7dtY6CoVdmqXtiLwjL20xi) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [まーいいや](https://open.spotify.com/album/7anhdzDVk7v6z8VR6nV3cf) | 3:13 |
+| 278 | [まーいいや](https://open.spotify.com/track/7dtY6CoVdmqXtiLwjL20xi) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [まーいいや](https://open.spotify.com/album/7anhdzDVk7v6z8VR6nV3cf) | 3:13 |
+| 279 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 | 280 | [Pop a Perc](https://open.spotify.com/track/64eOzETJF1AFOzYOrdZEEe) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Pop a Perc](https://open.spotify.com/album/2i0WhNLcP8fbFmCD20AIjk) | 3:22 |
 | 281 | [tarmac](https://open.spotify.com/track/5j7FkMakactsB2IGYqaVd2) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [c r e a t u r e s](https://open.spotify.com/album/3iTHx4S0UyjWtpJmU40Jko) | 3:47 |
 | 282 | [I Promise](https://open.spotify.com/track/44zhUOvoGWRsV7D8hN1upZ) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Playoff](https://open.spotify.com/album/75U77vLys6DqabxF9abLAp) | 2:26 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 308 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 309 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `AcZrBAAAAACSb9iZtQzQYC/zRyc8lXuw`
+Snapshot ID: `AcZwpAAAAAD0u0i8Ca1qTTqqDIk30f4n`

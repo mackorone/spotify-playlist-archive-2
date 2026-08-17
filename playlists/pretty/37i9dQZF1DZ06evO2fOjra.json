@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 576401,
+  "num_followers": 576457,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAADOojrkRC6zJMOBGJUE0z4R",
+  "snapshot_id": "an+sAAAAAABA9Z2IsUcwAsiBCcxf65Xe",
   "tracks": [
     {
       "added_at": null,
@@ -287,30 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Path of Totality (Special Edition)",
-        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Narcissistic Cannibal (feat. Skrillex & Kill the Noise)",
-      "url": "https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take A Look In The Mirror",
         "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 272920,
       "name": "Thoughtless",
       "url": "https://open.spotify.com/track/6HlFxHQ5nn6HYGxOOYIrLm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Path of Totality (Special Edition)",
+        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Narcissistic Cannibal (feat. Skrillex & Kill the Noise)",
+      "url": "https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE"
     },
     {
       "added_at": null,

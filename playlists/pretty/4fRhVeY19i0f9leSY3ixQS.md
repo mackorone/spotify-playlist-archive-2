@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,699 likes - 257 songs - 14 hr 16 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,707 likes - 261 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,5 +265,9 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 255 | [New York Mermaid \- 2026 Version](https://open.spotify.com/track/6ly5FxX46k0vFqhKojvUsQ) | [Elevator Operator](https://open.spotify.com/artist/146hY314HEGttVHczyZf8T) | [New York Mermaid \(2026 Version\)](https://open.spotify.com/album/563tsKOLJGz6Es7AT8bsAS) | 6:04 |
 | 256 | [Addict](https://open.spotify.com/track/4SDYXj45uDJIUggF0YfVti) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [Addict](https://open.spotify.com/album/2s7fhsqefwPD2nvA8JmX5D) | 3:21 |
 | 257 | [Stuck in 1984](https://open.spotify.com/track/5ks6aRzbC1GfulUzZwAVls) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Stuck in 1984](https://open.spotify.com/album/1Je322zy14RJJegt6Ofv2N) | 3:28 |
+| 258 | [I Got It Right](https://open.spotify.com/track/6A0drWxC6rSShogDB8voIo) | [Short Dogs Grow](https://open.spotify.com/artist/60ImQE9woiQIWKle6AdhbS) | [Self\-Entitled](https://open.spotify.com/album/19Tkp4IzY8DCpAtDWNzCjf) | 2:57 |
+| 259 | [Get It Right](https://open.spotify.com/track/4GLtHUo06IzyqC3TBTMur1) | [Alex Hellcat](https://open.spotify.com/artist/0Ucc4c5tJDgp23eZyrwlei) | [Get It Right](https://open.spotify.com/album/4KzqqjQwdkqQofJm1RS7is) | 2:48 |
+| 260 | [SPORTS CAR](https://open.spotify.com/track/7Illb7mvXtkMHfd20Px8D3) | [Ben Jarvis](https://open.spotify.com/artist/47L0IXN10HwDA8hJy5vc3d) | [SPORTS CAR](https://open.spotify.com/album/2H2paMeno2qRxOGx3TBZb6) | 2:44 |
+| 261 | [On My Mind](https://open.spotify.com/track/7I95mM1PLUrBxGfavggQKj) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z) | [On My Mind](https://open.spotify.com/album/4HsKRVxrVL1a3BRpryNzg0) | 3:39 |
 
-Snapshot ID: `AAATFhpwzxt2a3s0V/P+dIxtmPygUO8Q`
+Snapshot ID: `AAATGsSBdS8I+VTLNEVeySFw/RLH3Fgp`

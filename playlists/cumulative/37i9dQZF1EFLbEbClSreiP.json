@@ -413,6 +413,42 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/48kNSC9VNag007n2cdI374"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150242,
+      "name": "Cooler",
+      "url": "https://open.spotify.com/track/5qgCGL1lwqx0aAkAVq0pFa"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/48kNSC9VNag007n2cdI374"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174712,
+      "name": "Dance To This",
+      "url": "https://open.spotify.com/track/1jPJXu6XaoxVCm3WW3h7NJ"
+    },
+    {
+      "album": {
         "name": "Dance To This",
         "url": "https://open.spotify.com/album/7cxNzqHMqDlojW7WilPoUN"
       },
@@ -424,7 +460,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 174712,
       "name": "Dance To This",
       "url": "https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC"

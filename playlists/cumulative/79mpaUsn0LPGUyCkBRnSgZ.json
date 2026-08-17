@@ -7903,6 +7903,24 @@
     },
     {
       "album": {
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/5QWEWV25nYifxXjOYPkxjA"
+      },
+      "artists": [
+        {
+          "name": "Tracey Nelson",
+          "url": "https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245225,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/15bg8bsx2AoqHu7hgRK6PU"
+    },
+    {
+      "album": {
         "name": "Smiley Smile (Remastered)",
         "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
       },

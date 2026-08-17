@@ -2,9 +2,9 @@
 
 ### [Sexy Drill](https://open.spotify.com/playlist/37i9dQZF1DX75NPukNKIss)
 
-> Way 2 Slizzy\. Cover: Lil Yachty
+> Way 2 Slizzy\. Cover: Jacquees
 
-169 songs - 7 hr 46 min
+170 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Grippy](https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Grippy](https://open.spotify.com/album/0ZcdublGhe4iQEyqCDxLCt) | 3:54 | 2024-10-25 |  |
 | [GYN](https://open.spotify.com/track/11uFNK7jwFcuss2rUGYTgu) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GYN](https://open.spotify.com/album/4WbIcsTfdM8kVA0lRkY9vK) | 2:27 | 2025-08-27 |  |
 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 | 2024-10-25 |  |
-| [He Kant](https://open.spotify.com/track/4DjaEteBLN6f13XuF8f4CO) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [He Kant](https://open.spotify.com/album/53eBLt3qAQcnf2Hg5k4Uhq) | 2:37 | 2025-07-25 |  |
+| [He Kant](https://open.spotify.com/track/3ZI6TCQiXdzVEUp7QcZVuY) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Mood 2](https://open.spotify.com/album/2x4Hsr0LNdwJWXKo9Li0IY) | 2:30 | 2026-08-16 |  |
+| [He Kant](https://open.spotify.com/track/4DjaEteBLN6f13XuF8f4CO) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [He Kant](https://open.spotify.com/album/53eBLt3qAQcnf2Hg5k4Uhq) | 2:37 | 2025-07-25 | 2026-08-17 |
 | [Heavenly pt3](https://open.spotify.com/track/7wLWyvTZbhkoDHj7xX4d6C) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Heavenly pt3](https://open.spotify.com/album/2ZVSpquFwdo2Hz4et5ULEn) | 2:53 | 2025-05-23 | 2025-06-07 |
 | [Hood Love Story](https://open.spotify.com/track/6YqllTrCzrCJQghRu4vdtS) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Hood Love Story](https://open.spotify.com/album/3jPCWncrNMtE7eJRHEkGNP) | 2:36 | 2024-11-22 | 2024-11-30 |
 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/444z1jv3wI93INDpIMJcX7) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/7v3EosXU86nuE9Z8BZXc1O) | 3:11 | 2026-07-06 |  |

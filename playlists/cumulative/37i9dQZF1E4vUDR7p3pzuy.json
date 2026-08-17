@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -4632,7 +4632,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 217173,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/6xMoVtv5mx5IAMmtLvehA1"
@@ -4980,7 +4980,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 230693,
       "name": "Distressed",
       "url": "https://open.spotify.com/track/0LgZPpxVpr4bEM7EoctSNT"
@@ -5376,7 +5376,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 93409,
       "name": "El Guardi\u00e1n del Equilibrio",
       "url": "https://open.spotify.com/track/07IKnUvTgGULbfLJ6emblG"
@@ -8491,6 +8491,24 @@
     },
     {
       "album": {
+        "name": "I Will Run",
+        "url": "https://open.spotify.com/album/0cWb6OzT0hmE1VyflTCpec"
+      },
+      "artists": [
+        {
+          "name": "WVM",
+          "url": "https://open.spotify.com/artist/25c3OWKZOyl3hDJHTJe3ui"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179292,
+      "name": "I Will Run",
+      "url": "https://open.spotify.com/track/2mhcWtEf6pDXm5TNo1llKH"
+    },
+    {
+      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
       },
@@ -8978,7 +8996,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 236843,
       "name": "Interval",
       "url": "https://open.spotify.com/track/42DhpGWoPU1cPjoK0usfTK"
@@ -9450,7 +9468,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 186677,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/2dAquQRgANWIXDqgAcHhMF"
@@ -10428,7 +10446,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 123376,
       "name": "Little Green Dots",
       "url": "https://open.spotify.com/track/50ers5l5Zlk6mOZone9KVv"
@@ -11504,7 +11522,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -11562,6 +11580,24 @@
       "duration_ms": 154000,
       "name": "Murderous Intent",
       "url": "https://open.spotify.com/track/6mPJzhaki4fXKuFVm4k4ID"
+    },
+    {
+      "album": {
+        "name": "My Eyes",
+        "url": "https://open.spotify.com/album/0WvzNwqZS7WwCsg4653RtL"
+      },
+      "artists": [
+        {
+          "name": "Moon Destroys",
+          "url": "https://open.spotify.com/artist/0D6RVpw4LAC3XyRlianqq0"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183524,
+      "name": "My Eyes",
+      "url": "https://open.spotify.com/track/6zockqopBFey2GojwAb3Kt"
     },
     {
       "album": {
@@ -12360,7 +12396,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -13938,7 +13974,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 153250,
       "name": "running joke",
       "url": "https://open.spotify.com/track/61tQINMAv7Kix961SOwGbd"
@@ -17170,7 +17206,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -18707,6 +18743,24 @@
     },
     {
       "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1sNaR4WhBAPETTUQLKR7iP"
+      },
+      "artists": [
+        {
+          "name": "Reign Of The Hated",
+          "url": "https://open.spotify.com/artist/6PRzp0yP4k9ithyVDU0lhk"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204904,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/3XxBrO10PWfyHVR7AbaypL"
+    },
+    {
+      "album": {
         "name": "Twist",
         "url": "https://open.spotify.com/album/1LTh6foNyfn07XQ3K8KOZV"
       },
@@ -19202,7 +19256,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -19686,7 +19740,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 205641,
       "name": "We're At War",
       "url": "https://open.spotify.com/track/5dTeFjoEh1c9tULMPa1aWz"
@@ -19798,7 +19852,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 220024,
       "name": "What Hope",
       "url": "https://open.spotify.com/track/6OW1MgjMNI7mzW0JD1vSQS"
@@ -20434,6 +20488,24 @@
       "duration_ms": 223908,
       "name": "Wrong People",
       "url": "https://open.spotify.com/track/2Lb6h6dpnd0StC9lUtLn4h"
+    },
+    {
+      "album": {
+        "name": "X-Sized",
+        "url": "https://open.spotify.com/album/0M87eGnFDM1v2njz4UvXR6"
+      },
+      "artists": [
+        {
+          "name": "Dead On A Sunday",
+          "url": "https://open.spotify.com/artist/2y19rzmHIF4YOLHm7AW0pl"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "X-Sized",
+      "url": "https://open.spotify.com/track/63RQckPbqdMR5PmiIdOLbI"
     },
     {
       "album": {

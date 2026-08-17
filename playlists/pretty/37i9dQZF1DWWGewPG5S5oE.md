@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 石川紅奈
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,587 likes - 154 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,597 likes - 154 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 60903,
+  "num_followers": 60926,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAB6ejojCEpYfUL6EDJjQsqd",
+  "snapshot_id": "an+sAAAAAAAy7i8+ekjt3fWXNxr7sFmi",
   "tracks": [
     {
       "added_at": null,
@@ -282,15 +282,11 @@
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 173361,
-      "name": "Dirty (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4"
+      "duration_ms": 155983,
+      "name": "Son of a Bitch",
+      "url": "https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX"
     },
     {
       "added_at": null,
@@ -350,11 +346,15 @@
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 155983,
-      "name": "Son of a Bitch",
-      "url": "https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX"
+      "duration_ms": 173361,
+      "name": "Dirty (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4"
     },
     {
       "added_at": null,

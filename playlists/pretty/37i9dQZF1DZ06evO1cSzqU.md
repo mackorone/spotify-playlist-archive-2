@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,080 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,107 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 34 | [Dust in the Wind \- Live](https://open.spotify.com/track/2goTjpiBRV0qd2gZrAtpIZ) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 3:49 |
 | 35 | [Ruby Tuesday](https://open.spotify.com/track/7utyUj2Clh0t5M77IA78u0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:55 |
 | 36 | [The Future Never Dies](https://open.spotify.com/track/5bTEYXUQLLQzjIurNtP1Ib) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \- Hour I](https://open.spotify.com/album/1XjYFFyWcK17Pqm03PnNss) | 4:03 |
-| 37 | [Don't Believe Her](https://open.spotify.com/track/6mPsYhcy0UIScC4YyekLr0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:55 |
-| 38 | [I'm Leaving You](https://open.spotify.com/track/2fRsjOJmVATsGho7UD6GJw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:17 |
+| 37 | [I'm Leaving You](https://open.spotify.com/track/2fRsjOJmVATsGho7UD6GJw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:17 |
+| 38 | [Don't Believe Her](https://open.spotify.com/track/6mPsYhcy0UIScC4YyekLr0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:55 |
 | 39 | [Tainted Love](https://open.spotify.com/track/1abFEUbbAk8kQNOzy301Qt) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:27 |
 | 40 | [The Sails of Charon \- 2015 \- Remaster](https://open.spotify.com/track/6J6riyv0pGpXETSiHrjrzF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/5r7Ock0N9gVyq7t15jRV7S) | 5:11 |
 | 41 | [We Built This House](https://open.spotify.com/track/3A4IneIM1MdcmW0ZuV8ZYg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [Viento De Cambio](https://open.spotify.com/track/54bvGj5P8X4yK6E2zvMhCW) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Las Rolas Acústicas Favoritas de Papá](https://open.spotify.com/album/4dC6fwtkeS2sxWMr7Bloid) | 5:08 |
 | 50 | [SLY](https://open.spotify.com/track/251NWV5NpXsGQJ6OR2YjVi) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 5:16 |
 
-Snapshot ID: `an5agAAAAAB2al0RHvvK8O53Pd5uxPnT`
+Snapshot ID: `an+sAAAAAAA1jR8jojidrEzEzH5wh9Pr`

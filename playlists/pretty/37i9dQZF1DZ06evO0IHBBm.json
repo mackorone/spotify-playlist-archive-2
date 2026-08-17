@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACCbXbMsg00fOoRsvac+vjh",
+  "snapshot_id": "an+sAAAAAACXwIzTbH6TlK6YwhJhz6si",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
+        "name": "Damares 2011 (ao vivo)",
+        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 261466,
-      "name": "Adore a Ele (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1thGZNa63LWVsMzX9hOd0C"
+      "duration_ms": 401213,
+      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
     },
     {
       "added_at": null,
@@ -623,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares 2011 (ao vivo)",
-        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
+        "name": "Damares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 401213,
-      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
+      "duration_ms": 261466,
+      "name": "Adore a Ele (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1thGZNa63LWVsMzX9hOd0C"
     },
     {
       "added_at": null,
@@ -651,42 +651,6 @@
       "duration_ms": 334840,
       "name": "Obra Prima",
       "url": "https://open.spotify.com/track/3928bnwtme1mZo7NV0kYpf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 540720,
-      "name": "O Deus que Faz (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5QLgebw9fQi8YI4OeZqXxW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 316159,
-      "name": "O Processo",
-      "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
     },
     {
       "added_at": null,
@@ -711,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
       "artists": [
         {
@@ -720,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 328106,
-      "name": "Ouve Senhor",
-      "url": "https://open.spotify.com/track/5P8Qk47rzGjMyfAMSkyc8x"
+      "duration_ms": 316159,
+      "name": "O Processo",
+      "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
     },
     {
       "added_at": null,
@@ -740,9 +704,41 @@
           "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 358640,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
+      "duration_ms": 540720,
+      "name": "O Deus que Faz (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5QLgebw9fQi8YI4OeZqXxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 328106,
+      "name": "Ouve Senhor",
+      "url": "https://open.spotify.com/track/5P8Qk47rzGjMyfAMSkyc8x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Maior Trof\u00e9u (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 396173,
+      "name": "Maranata - (Abertura) [Ao Vivo]",
+      "url": "https://open.spotify.com/track/7E0RMYUpQp0gJfUUmS2EQC"
     },
     {
       "added_at": null,
@@ -763,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi"
+        "name": "Damares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 396173,
-      "name": "Maranata - (Abertura) [Ao Vivo]",
-      "url": "https://open.spotify.com/track/7E0RMYUpQp0gJfUUmS2EQC"
+      "duration_ms": 358640,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
     },
     {
       "added_at": null,

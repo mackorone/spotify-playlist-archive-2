@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,546 likes - 50 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,552 likes - 50 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 43 | [Adonai \- En Vivo](https://open.spotify.com/track/0Dd7gc3pVumkdrC6oUA7WP) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8), [Lorena Gamba Castellanos](https://open.spotify.com/artist/2BbfuuUGnzw9r4BFTN7iT6), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi) | [Obra de Tu Amor](https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2) | 5:51 |
 | 44 | [Eres Santo](https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK) | 6:51 |
 | 45 | [Una Nueva Historia \- En Vivo](https://open.spotify.com/track/50XcGSPZ78F7XSxT76WOMH) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás \(En Vivo\)](https://open.spotify.com/album/3ozR24cLOUrH4snwEt2mbN) | 6:03 |
-| 46 | [Hacedor De Milagros](https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:42 |
-| 47 | [Despierta Mi Corazón](https://open.spotify.com/track/7fgqsWioC0PvFZCbZvz4sY) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU) | 7:44 |
+| 46 | [Despierta Mi Corazón](https://open.spotify.com/track/7fgqsWioC0PvFZCbZvz4sY) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU) | 7:44 |
+| 47 | [Hacedor De Milagros](https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:42 |
 | 48 | [Cantar de Tu Amor \- En Vivo](https://open.spotify.com/track/1x6LGbZbGFm8PYl8QDuVC1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ) | [Obra de Tu Amor](https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2) | 4:36 |
 | 49 | [Permaneceré En Tí](https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 4:18 |
 | 50 | [El Hijo De Dios](https://open.spotify.com/track/2CsDJMbMwyS4JvpfoWcj5F) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [El Hijo De Dios](https://open.spotify.com/album/3K7duNwXAJJSVfFCudKEaw) | 5:47 |
 
-Snapshot ID: `an5agAAAAADJXvZGCxR7mQApansGMm2N`
+Snapshot ID: `an+sAAAAAAAfB5a1Bckkh0aGWmIVMGl3`

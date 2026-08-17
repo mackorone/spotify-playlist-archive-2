@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,078 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,076 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 | 17 | [Hypnotized](https://open.spotify.com/track/12nbpyxZJ1WZW4KYXRD0Jk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [HANA \(Deluxe\)](https://open.spotify.com/album/7qLSaa8bECEnHabElnugub) | 3:02 |
 | 18 | [Stay On Me](https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Stay On Me](https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC) | 3:07 |
 | 19 | [Relentless Love](https://open.spotify.com/track/24REwt3hGvBJVsUrWEMYJo) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 4:03 |
-| 20 | [Mixed Up World](https://open.spotify.com/track/2MnVheZCrPYpS42HaCEY2t) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Shoot From The Hip](https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P) | 3:43 |
-| 21 | [Fuck With You](https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Gilbere Forté](https://open.spotify.com/artist/6w9oNSpsNuLOwu2XVbQPGK) | [Disco Crash](https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv) | 3:11 |
+| 20 | [Fuck With You](https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Gilbere Forté](https://open.spotify.com/artist/6w9oNSpsNuLOwu2XVbQPGK) | [Disco Crash](https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv) | 3:11 |
+| 21 | [Mixed Up World](https://open.spotify.com/track/2MnVheZCrPYpS42HaCEY2t) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Shoot From The Hip](https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P) | 3:43 |
 | 22 | [If I Can't Dance](https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:23 |
 | 23 | [Young Blood](https://open.spotify.com/track/26wfj0NDkkO2NIx1jPplPA) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 4:28 |
-| 24 | [I Won't Change You](https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Shoot From The Hip](https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P) | 3:39 |
-| 25 | [Off & On](https://open.spotify.com/track/4nGknlKl2vIymvVOs7TOBZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 3:31 |
+| 24 | [Off & On](https://open.spotify.com/track/4nGknlKl2vIymvVOs7TOBZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 3:31 |
+| 25 | [I Won't Change You](https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Shoot From The Hip](https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P) | 3:39 |
 | 26 | [Catch You](https://open.spotify.com/track/1LjXn0nG37aBWPPnDOq1nQ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:18 |
 | 27 | [True Faith \- BBC Session](https://open.spotify.com/track/22p4EDZmtQjkS2wYq0jYjH) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [True Faith \(BBC Session\)](https://open.spotify.com/album/25ay5Qj85HqQ6eTHHecpVY) | 5:02 |
 | 28 | [Taste](https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Taste](https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 | 49 | [Magic](https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 4:33 |
 | 50 | [If You Go](https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:25 |
 
-Snapshot ID: `an5agAAAAACUmP6NmSPUAszFxdcH8ukQ`
+Snapshot ID: `an+sAAAAAABcZ1JWvth2iGsTrpS+3e8i`

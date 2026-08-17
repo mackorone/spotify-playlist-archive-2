@@ -223,6 +223,36 @@
     },
     {
       "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Clyde Carson",
+          "url": "https://open.spotify.com/artist/0FJpfR5Bq5EBl2xi0LAp1v"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        },
+        {
+          "name": "Ezale",
+          "url": "https://open.spotify.com/artist/3aQfxjMj5uxPLW4RCgIaSL"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242203,
+      "name": "BAY BOYZ 4EVER (feat. Clyde Carson, Iamsu! & Ezale)",
+      "url": "https://open.spotify.com/track/6WxDe7zjxPleg5MAfNAzOm"
+    },
+    {
+      "album": {
         "name": "Practice Makes Paper",
         "url": "https://open.spotify.com/album/6M0cDJmctZ3NyVGcQWY95P"
       },
@@ -765,6 +795,28 @@
     },
     {
       "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "FXCKIN HATER (feat. Killer Mike)",
+      "url": "https://open.spotify.com/track/1ffYjtf97k2iKoSNGWxkTH"
+    },
+    {
+      "album": {
         "name": "Moovie! 2: The Yeequel",
         "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
       },
@@ -974,7 +1026,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 178541,
       "name": "GOOD NIGHT ROPPONGI (feat. P-Lo)",
       "url": "https://open.spotify.com/track/4yb0wKdIoLkdLiLmSkebHQ"
@@ -1358,7 +1410,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 147169,
       "name": "It Ain't Nothin",
       "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"

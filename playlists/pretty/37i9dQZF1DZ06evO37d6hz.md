@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 
 > This is Laurie Spiegel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509 likes - 20 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 509 likes - 20 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 16 | [Sparks](https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 3:38 |
 | 17 | [The Hollows](https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:51 |
 | 18 | [Drums](https://open.spotify.com/track/7sagDXY3Pdl5A5EPUgimZn) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:09 |
-| 19 | [Three Sonic Spaces II](https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:22 |
+| 19 | [Sound Zones](https://open.spotify.com/track/50pWJW05DHMomQDanrB0V9) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 8:07 |
 | 20 | [Pentachrome](https://open.spotify.com/track/4PD6tbRB8w1F4Jnc08CTzw) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:18 |
 
-Snapshot ID: `an5agAAAAABX3eqSp4+efkqhsGqyVrtV`
+Snapshot ID: `an+sAAAAAAB7SvSQQ9lLZtsWz4VouqWW`

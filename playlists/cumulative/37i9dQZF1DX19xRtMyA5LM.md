@@ -2,7 +2,7 @@
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> De beste tracks in WS❗️Cover: OYSTER <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier meer zomer aanbevelingen!</a>
+> De beste tracks in WS❗️Cover: Jack\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier meer zomer aanbevelingen!</a>
 
 532 songs - 1 day 0 hr 1 min
 

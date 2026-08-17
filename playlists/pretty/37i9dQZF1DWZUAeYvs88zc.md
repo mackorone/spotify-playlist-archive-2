@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 ### [Sad Bops](https://open.spotify.com/playlist/37i9dQZF1DWZUAeYvs88zc)
 
-> When you're a bop, but you're sad
+> For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,118 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,099 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 |
+| 1 | [The Pavement](https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [The Pavement](https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ) | 3:04 |
 | 2 | [White Noise](https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:45 |
-| 3 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 |
-| 4 | [Sex, Etc.](https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 3:40 |
-| 5 | [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 |
-| 6 | [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 |
-| 7 | [rewrite](https://open.spotify.com/track/555f2FXKrip1OyXSMKURlS) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [darling, darling](https://open.spotify.com/album/0ImFz7IdveBPqcsKL2I02W) | 3:26 |
-| 8 | [Time to Time \(Annie\)](https://open.spotify.com/track/6w1uqluhcV4Q8aNMDnZlIZ) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Time to Time \(Annie\)](https://open.spotify.com/album/05USGegWxbTPtVePsT3oru) | 2:52 |
-| 9 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
+| 3 | [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 |
+| 4 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 |
+| 5 | [Sex, Etc.](https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 3:40 |
+| 6 | [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 |
+| 7 | [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 |
+| 8 | [rewrite](https://open.spotify.com/track/555f2FXKrip1OyXSMKURlS) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [darling, darling](https://open.spotify.com/album/0ImFz7IdveBPqcsKL2I02W) | 3:26 |
+| 9 | [Time to Time \(Annie\)](https://open.spotify.com/track/6w1uqluhcV4Q8aNMDnZlIZ) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Time to Time \(Annie\)](https://open.spotify.com/album/05USGegWxbTPtVePsT3oru) | 2:52 |
 | 10 | [Angelina](https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Angelina](https://open.spotify.com/album/200LAacp5mXwgFAr490iKq) | 3:43 |
 | 11 | [Is It Fun Or Is It Over?](https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Is It Fun Or Is It Over?](https://open.spotify.com/album/54N4dAkractT6mUBC0a48b) | 2:40 |
 | 12 | [GO](https://open.spotify.com/track/1KAV8Xo95JU3eNwmvW2imc) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [GO](https://open.spotify.com/album/6H1P4U7vkFCorLUxgoOAlt) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 99 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
 | 100 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
 
-Snapshot ID: `AAAAAEiyxuQv7NnI2GBVIOIQrnTNUcdx`
+Snapshot ID: `AAAAAKSwx6uKZUbvRlJerZLdeokRxrLT`

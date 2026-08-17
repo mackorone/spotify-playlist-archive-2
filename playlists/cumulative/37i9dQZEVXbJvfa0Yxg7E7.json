@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 145733,
       "name": "Alle vil til himmelen",
       "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
@@ -15977,6 +15977,24 @@
     },
     {
       "album": {
+        "name": "Kom S\u00e5 Tok F\u00e6rdiih",
+        "url": "https://open.spotify.com/album/5goLpJ7iebLFLYJXO27Khh"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354772,
+      "name": "Flexnes",
+      "url": "https://open.spotify.com/track/5MFBAkwrYag4P6LBWtuAk5"
+    },
+    {
+      "album": {
         "name": "Hver Gang Vi M\u00f8tes 2023",
         "url": "https://open.spotify.com/album/272tAO2vDpKaaD1FjHTeRY"
       },
@@ -21792,7 +21810,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
@@ -34848,7 +34866,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 160632,
       "name": "Ni til fem",
       "url": "https://open.spotify.com/track/4EIjb2ePj6YYm2a4ZQYOYd"
@@ -45238,7 +45256,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 184800,
       "name": "Spis din syvende sans - cover",
       "url": "https://open.spotify.com/track/1MJy59Y0nppwYBji4i2J6J"
@@ -52358,7 +52376,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 139875,
       "name": "VI SKAL ALDRI G\u00c5 HJEM F\u00d8R SOLOPPGANG",
       "url": "https://open.spotify.com/track/24lr0kqxMnxNf4CZMC2Mf2"

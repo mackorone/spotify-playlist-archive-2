@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,439 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,443 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 26 | [Tell Me What I've Done](https://open.spotify.com/track/1dlYLGZSK8ONMQxJWxB04m) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:48 |
 | 27 | [I'm The Wolf](https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:54 |
 | 28 | [My Life \- Single Version](https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Ain't Gonna Be Your Dog: Chess Collectibles Vol\. 2](https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61) | 3:01 |
-| 29 | [You Turn Slick On Me](https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 4:53 |
-| 30 | [California Blues](https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n) | 2:58 |
+| 29 | [California Blues](https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n) | 2:58 |
+| 30 | [You Turn Slick On Me](https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 4:53 |
 | 31 | [You Gonna Wreck My Life](https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:54 |
 | 32 | [I've Been Abused \- Single Version](https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:14 |
 | 33 | [Long Distance Call](https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 9:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 49 | [Wolf Is At Your Door](https://open.spotify.com/track/2UiNUUvCdmSJvy8ghyUehS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:55 |
 | 50 | [Dust My Broom \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/4a0NdfY3aWOlZCB3nWz0vS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:02 |
 
-Snapshot ID: `an5agAAAAAC35S83Qn6YceYtMhsZdQGt`
+Snapshot ID: `an+sAAAAAADvFPBUdD7FIZYlxl0X94pe`

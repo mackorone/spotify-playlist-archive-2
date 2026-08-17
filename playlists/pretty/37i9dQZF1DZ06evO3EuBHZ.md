@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,797 likes - 47 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,801 likes - 47 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 | 27 | [I Need Your Love](https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:19 |
 | 28 | [How Come](https://open.spotify.com/track/6dK7dauEMDvJhc2jkhJxbD) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog \- The Essential Collection](https://open.spotify.com/album/7AX4dOBsgMfBeNewikf2X4) | 2:31 |
 | 29 | [That Lucky Old Sun](https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:37 |
-| 30 | [Sweet Little Angel / 3 O'Clock In The Mornin' \- Live](https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Roots Of Rock & Roll](https://open.spotify.com/album/361U0QdVGbCscARmmFWU40) | 6:06 |
-| 31 | [Sheriff O.E\. & Me](https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 3:25 |
-| 32 | [Mixed Up Feeling](https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hangover Blues](https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk) | 9:28 |
-| 33 | [Early One Mornin’ Blues \- Live](https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Early One Mornin’ Blues \(Live\)](https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz) | 4:14 |
-| 34 | [Tell Me Baby \- Live](https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Roots Of Rock & Roll](https://open.spotify.com/album/361U0QdVGbCscARmmFWU40) | 4:58 |
-| 35 | [Rock Me Baby](https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 6:45 |
+| 30 | [Rock Me Baby](https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 6:45 |
+| 31 | [Tell Me Baby \- Live](https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Roots Of Rock & Roll](https://open.spotify.com/album/361U0QdVGbCscARmmFWU40) | 4:58 |
+| 32 | [Sheriff O.E\. & Me](https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 3:25 |
+| 33 | [Mixed Up Feeling](https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hangover Blues](https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk) | 9:28 |
+| 34 | [Early One Mornin’ Blues \- Live](https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Early One Mornin’ Blues \(Live\)](https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz) | 4:14 |
+| 35 | [Sweet Little Angel / 3 O'Clock In The Mornin' \- Live](https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Roots Of Rock & Roll](https://open.spotify.com/album/361U0QdVGbCscARmmFWU40) | 6:06 |
 | 36 | [I Smell A Rat](https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 1:45 |
 | 37 | [Oh Happy Day](https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 4:03 |
 | 38 | [Chauffeur Blues](https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:07 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 | 46 | [No Jody for Me](https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Bill Harvey Orchestra](https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:46 |
 | 47 | [Walking Blues](https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 3:01 |
 
-Snapshot ID: `an5agAAAAABhman027ShlsNPx5QlD9/J`
+Snapshot ID: `an+sAAAAAAB1C9m5MISg8+lYLh84+GRe`

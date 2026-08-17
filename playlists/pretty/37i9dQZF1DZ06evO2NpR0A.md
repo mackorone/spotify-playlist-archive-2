@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,835 likes - 47 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,851 likes - 47 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 46 | [715 \- CR∑∑KS](https://open.spotify.com/track/4fLfKKoIWroefEjqpMDid7) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 2:12 |
 | 47 | [JELMORE \- Tennis Indoor Senayan, Jakarta, ID\. Jan 19 2020](https://open.spotify.com/track/3Me34NBrQFIBsVV5MZAPrm) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [VOLUMES: ONE \(SELECTIONS FROM MUSIC CONCERTS 2019\-2023 BON IVER 6 PIECE BAND\)](https://open.spotify.com/album/2tV8MeptqoxJcuwQbh6Khr) | 4:05 |
 
-Snapshot ID: `an5agAAAAADC79Lijou7COQZXcxDTgdI`
+Snapshot ID: `an+sAAAAAAA+JNDQDZAmksDk8uni7ma8`

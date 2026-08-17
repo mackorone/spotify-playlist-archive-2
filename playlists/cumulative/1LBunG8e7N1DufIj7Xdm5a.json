@@ -20031,6 +20031,24 @@
     },
     {
       "album": {
+        "name": "DON'T LET YOU GO (Special Version Live)",
+        "url": "https://open.spotify.com/album/7kXFFaWb7ukg9VVgFkp08Q"
+      },
+      "artists": [
+        {
+          "name": "GIACOMO CAMARDA",
+          "url": "https://open.spotify.com/artist/0MhCaSAPRt64ircobpELfi"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139885,
+      "name": "DON'T LET YOU GO - Special Version Live",
+      "url": "https://open.spotify.com/track/17zT71yHtIr4hEGrLNcdno"
+    },
+    {
+      "album": {
         "name": "Don't Look Back into the Sun",
         "url": "https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI"
       },
@@ -60354,7 +60372,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 226037,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC"
@@ -66872,6 +66890,24 @@
       "duration_ms": 114320,
       "name": "Sole d\u2019Italia (another)",
       "url": "https://open.spotify.com/track/79po6HezkEmHXnKW31tzBr"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2RoAIGWZrbvdBMqPC6WGhx"
+      },
+      "artists": [
+        {
+          "name": "Dark Shadow",
+          "url": "https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257822,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7gXg6Sf8me6GHEBiBcoOl5"
     },
     {
       "album": {

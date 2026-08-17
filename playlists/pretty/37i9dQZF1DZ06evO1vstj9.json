@@ -1,33 +1,13 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 10806,
+  "num_followers": 10828,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAA23XNDbghlHbpgjBVeFbR1",
+  "snapshot_id": "an+sAAAAAAChOyaED25/y1DHzK4izwZU",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comets + Gold",
-        "url": "https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 188432,
-      "name": "Comets + Gold",
-      "url": "https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 207082,
       "name": "Overthink (feat. Elmiene)",
       "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comets + Gold",
+        "url": "https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 188432,
+      "name": "Comets + Gold",
+      "url": "https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f"
     },
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heat The Streets Some Mo'",
-        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 167965,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweetness (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 251326,
       "name": "Sweetness (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heat The Streets Some Mo'",
+        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 167965,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From 525",
-        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 110293,
-      "name": "Sideways - Live From 525",
-      "url": "https://open.spotify.com/track/0qmBd2ZTwxcDap98ukEUu2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Brussels",
         "url": "https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 140929,
       "name": "Ribbon In The Sky - Live From Brussels",
       "url": "https://open.spotify.com/track/6xA1xHUaD3tNNsHWpYoPKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From 525",
+        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 110293,
+      "name": "Sideways - Live From 525",
+      "url": "https://open.spotify.com/track/0qmBd2ZTwxcDap98ukEUu2"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From 525",
-        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Slow Jam - Live From 525",
-      "url": "https://open.spotify.com/track/5SKBx2ULYmZxC9rurVTyxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Brussels",
         "url": "https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 113978,
       "name": "So Into You - Live From Brussels",
       "url": "https://open.spotify.com/track/6apr5EWxitEo8Kecwc9mCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From 525",
+        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Slow Jam - Live From 525",
+      "url": "https://open.spotify.com/track/5SKBx2ULYmZxC9rurVTyxW"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From 525",
-        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
+        "name": "Live From Brussels",
+        "url": "https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 170333,
-      "name": "Coraline - Live From 525",
-      "url": "https://open.spotify.com/track/3K5n6dkpyYLlqWuEWiGz20"
+      "duration_ms": 64074,
+      "name": "Insecure - Live From Brussels",
+      "url": "https://open.spotify.com/track/5Xh9Nc74EfH17kcbgAW4hS"
     }
   ],
   "unique_name": "This Is Elmiene",

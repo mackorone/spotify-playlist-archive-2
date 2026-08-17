@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAA/0JzipO41TuDy4TjSnxoV",
+  "snapshot_id": "an+sAAAAAAA7V8Pe0U0DdzG+e/adabpB",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Maverick Way Reimagined",
+        "url": "https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 177345,
+      "name": "God Problems (Not By Power) [feat. Miles Minnick]",
+      "url": "https://open.spotify.com/track/2GGhJzqZG04f99FnOoIdyL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Made A Way",
         "url": "https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 150038,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/2Bkh2dlIHqSbPbJhlja3xw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Maverick Way Reimagined",
-        "url": "https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 177345,
-      "name": "God Problems (Not By Power) [feat. Miles Minnick]",
-      "url": "https://open.spotify.com/track/2GGhJzqZG04f99FnOoIdyL"
     },
     {
       "added_at": null,

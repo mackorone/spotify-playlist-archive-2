@@ -3613,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "Journey to Voltus B",
+        "url": "https://open.spotify.com/album/4EyOqCekFh9eo81mgeXMgH"
+      },
+      "artists": [
+        {
+          "name": "HENGE",
+          "url": "https://open.spotify.com/artist/5R09pajxQjiwdUH6Fw4yM5"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334960,
+      "name": "Welcome To Voltus",
+      "url": "https://open.spotify.com/track/0kTITl59lp4vgZONiQbscP"
+    },
+    {
+      "album": {
         "name": "What\u2019s Going On?!",
         "url": "https://open.spotify.com/album/1wQ7VxnsFQC75cuF3k6VtO"
       },

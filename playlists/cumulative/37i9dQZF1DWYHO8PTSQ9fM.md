@@ -4,7 +4,7 @@
 
 > The hottest hits right now\. Cover: Douaa Lahyaoui
 
-572 songs - 1 day 6 hr 15 min
+573 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Moulaga](https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Moulaga](https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt) | 2:52 | 2022-09-15 | 2022-09-20 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-03 | 2025-04-29 |
 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-07-07 | 2024-11-28 |
-| [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 | 2025-08-29 |  |
+| [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 | 2025-08-29 | 2026-08-17 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-08-18 | 2024-08-23 |
 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-04-28 | 2026-02-09 |
 | [My Darling \- Habibti](https://open.spotify.com/track/5oflgQFgT6gmPsNGfLzvCI) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [My Darling](https://open.spotify.com/album/6HXLr6yIRp4iLM7XViRcTn) | 2:40 | 2025-05-19 | 2025-07-04 |
@@ -398,6 +398,7 @@
 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 | 2024-07-18 | 2025-01-21 |
 | [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 | 2025-06-16 | 2025-09-02 |
 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 | 2025-04-21 | 2025-06-20 |
+| [PILLAVE](https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [PILLAVE](https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6) | 2:33 | 2026-08-16 |  |
 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-06-12 |  |
 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 | 2025-01-19 | 2026-01-25 |
 | [Poney](https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:50 | 2025-04-17 | 2025-06-20 |

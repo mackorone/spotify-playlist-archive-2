@@ -192285,6 +192285,24 @@
     },
     {
       "album": {
+        "name": "One - Spotify Singles",
+        "url": "https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj"
+      },
+      "artists": [
+        {
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "One - Spotify Singles",
+      "url": "https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf"
+    },
+    {
+      "album": {
         "name": "ONE AND A HALF",
         "url": "https://open.spotify.com/album/1JcWNzQIdI3hbCfWbH4Sib"
       },

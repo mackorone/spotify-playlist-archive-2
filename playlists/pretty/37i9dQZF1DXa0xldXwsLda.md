@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > Música vibrante para encender tu verano 🍹 Santos Bravos 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,515 likes - 35 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,499 likes - 35 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

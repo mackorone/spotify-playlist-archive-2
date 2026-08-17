@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4591,
+  "num_followers": 4592,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAFXiw9ybA27dCQZf2YrGBf",
+  "snapshot_id": "an+sAAAAAACWq1+OgbeEwrWt4AO5WX1X",
   "tracks": [
     {
       "added_at": null,
@@ -407,30 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap God",
-        "url": "https://open.spotify.com/album/6SiRYxE07klRSLa8uyDQzt"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Yung Fresh",
-          "url": "https://open.spotify.com/artist/0ldQL0icSoMz9OOZcWG8Zt"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "Shooter (feat. Young Scooter & Yung Fresh)",
-      "url": "https://open.spotify.com/track/07ybMGXgr3pe4YJWzafg1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Class Street Music 3: Trappin' out a Mansion",
         "url": "https://open.spotify.com/album/11qFqK39bAL6MRegFESHPB"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 261546,
       "name": "Grew Up",
       "url": "https://open.spotify.com/track/0GE9xF6B72abnhLBrp60ri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trap God",
+        "url": "https://open.spotify.com/album/6SiRYxE07klRSLa8uyDQzt"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Yung Fresh",
+          "url": "https://open.spotify.com/artist/0ldQL0icSoMz9OOZcWG8Zt"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Shooter (feat. Young Scooter & Yung Fresh)",
+      "url": "https://open.spotify.com/track/07ybMGXgr3pe4YJWzafg1Z"
     },
     {
       "added_at": null,
@@ -495,30 +495,6 @@
       "duration_ms": 248926,
       "name": "Dope Talk (feat. 2 Chainz & Young Scooter)",
       "url": "https://open.spotify.com/track/7GoyN3847Blqv2y3osZR6l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zaystreet",
-        "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Zaytoven",
-          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 209099,
-      "name": "Black Migo",
-      "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
     },
     {
       "added_at": null,
@@ -587,6 +563,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zaystreet",
+        "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 209099,
+      "name": "Black Migo",
+      "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Streetz Krazy",
         "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jugg King",
+        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "WAKA FLACKA",
+          "url": "https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm"
+        }
+      ],
+      "duration_ms": 149420,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Astronaut Status",
         "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
       },
@@ -651,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugg King",
-        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "WAKA FLACKA",
-          "url": "https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm"
-        }
-      ],
-      "duration_ms": 149420,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Pledge Allegiance to the Trap, Vol. 5",
         "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
       },
@@ -687,30 +687,6 @@
       "duration_ms": 185077,
       "name": "Imma Ball Forever",
       "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 267867,
-      "name": "Both Sides (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
     },
     {
       "added_at": null,
@@ -747,6 +723,30 @@
       "duration_ms": 238728,
       "name": "How Can I Not (feat. Young Scooter)",
       "url": "https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 267867,
+      "name": "Both Sides (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Free Bricks 2",
+        "url": "https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "Re Up",
+      "url": "https://open.spotify.com/track/7BHt2zee786p8zTtL6ZzaV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "80's Baby",
         "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
       },
@@ -883,22 +903,6 @@
       "duration_ms": 187063,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 190824,
-      "name": "Drug Deals",
-      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
     },
     {
       "added_at": null,
@@ -919,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Bricks 2",
-        "url": "https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2"
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
       "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 223946,
-      "name": "Re Up",
-      "url": "https://open.spotify.com/track/7BHt2zee786p8zTtL6ZzaV"
+      "duration_ms": 190824,
+      "name": "Drug Deals",
+      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
     },
     {
       "added_at": null,

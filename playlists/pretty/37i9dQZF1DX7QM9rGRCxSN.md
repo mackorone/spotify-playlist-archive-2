@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,199 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,206 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
 | 50 | [No nos van a callar](https://open.spotify.com/track/3Y56kpqQAS7BflTNUG6mLA) | [Veritas](https://open.spotify.com/artist/43Nm1V8WR2FRJXkKC7KEYP) | [Marinero](https://open.spotify.com/album/1drhNMm9fWNwt94H5o0c6n) | 5:23 |
 
-Snapshot ID: `AAAAACyzbZSeBTZxNunQFTZ7sidCpuXz`
+Snapshot ID: `AAAAAJGtbEDUorEaTlvRp4ZiEwrPZsCo`

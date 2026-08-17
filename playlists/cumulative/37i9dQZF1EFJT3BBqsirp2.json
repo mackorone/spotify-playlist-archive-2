@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162663,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/5cjHmPORwtgNG55ZCDpgee"
+    },
+    {
+      "album": {
         "name": "Apps",
         "url": "https://open.spotify.com/album/5F8Ym9NVDD6XcTquQIYa6O"
       },
@@ -1832,7 +1854,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"

@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 116405,
+  "num_followers": 116459,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACpYfhFglkmZPVTaOFLqF2d",
+  "snapshot_id": "an+sAAAAAAAcd9/77/fiF5srqZLnc6sA",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 192459,
-      "name": "Nosedive (Feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NASHVILLE, TENNESSEE",
         "url": "https://open.spotify.com/album/0fbS7loVI8hh7T06iymFU8"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 202434,
       "name": "Would If I Could (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/26o6A0vDrmjiaM0bgP5BH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 192459,
+      "name": "Nosedive (Feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
     },
     {
       "added_at": null,

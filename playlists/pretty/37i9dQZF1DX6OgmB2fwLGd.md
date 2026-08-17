@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > eeeee\_\_ooooo.ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢.zip.hyper\_sleaze.electro\_glitch\_\[FINAL\]\_\[REAL\]\_\_coverartist.ronyrex
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,665 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,368,569 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 36692,
+  "num_followers": 36700,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAR8tg9jmLvdCG+bbKSPkg9",
+  "snapshot_id": "an+sAAAAAABwEXxTc5Hdm2Sxd+7f1CIr",
   "tracks": [
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 133866,
-      "name": "Les yeux noirs (Dark Eyes)",
-      "url": "https://open.spotify.com/track/4cOhTQgJqBtnIws8Il92Ww"
+      "duration_ms": 140786,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/0aDbWBBoa2rkCImzeLugcE"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 140786,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/0aDbWBBoa2rkCImzeLugcE"
+      "duration_ms": 133866,
+      "name": "Les yeux noirs (Dark Eyes)",
+      "url": "https://open.spotify.com/track/4cOhTQgJqBtnIws8Il92Ww"
     },
     {
       "added_at": null,

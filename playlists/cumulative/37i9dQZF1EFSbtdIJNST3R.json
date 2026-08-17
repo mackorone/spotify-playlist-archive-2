@@ -1290,6 +1290,28 @@
     {
       "album": {
         "name": "De Leukste Liedjes 2021",
+        "url": "https://open.spotify.com/album/4hpb4w333XIqa3GFsv41O8"
+      },
+      "artists": [
+        {
+          "name": "De Club van Sinterklaas",
+          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
+        },
+        {
+          "name": "KADO",
+          "url": "https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Piet Pyama Party",
+      "url": "https://open.spotify.com/track/199q0O0xyH6dkY2J1OetUV"
+    },
+    {
+      "album": {
+        "name": "De Leukste Liedjes 2021",
         "url": "https://open.spotify.com/album/1czwYtZdav91HjwNmppicN"
       },
       "artists": [
@@ -1304,7 +1326,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 125624,
       "name": "Piet Pyama Party",
       "url": "https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA"

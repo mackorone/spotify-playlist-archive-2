@@ -2,9 +2,9 @@
 
 ### [Ethereal](https://open.spotify.com/playlist/37i9dQZF1DXao0JEaClQq9)
 
-> Modern heavenly sounds\. Cover: Not For Radio
+> Modern heavenly sounds\. Cover: L'Rain
 
-753 songs - 1 day 23 hr 38 min
+754 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Coma Salv](https://open.spotify.com/track/48Ya48bknzZh6cMFdwWDyB) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Dennis](https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s) | 4:32 | 2024-10-21 | 2024-11-02 |
 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 | 2022-03-07 | 2022-04-20 |
 | [Come To Me](https://open.spotify.com/track/2z0IvBi4B2HOV1PEhiiowj) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Made By Desire](https://open.spotify.com/album/0c2Dijuv3MYUkgMKzXyGcz) | 2:50 | 2022-02-10 | 2022-04-18 |
-| [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 | 2022-11-21 |  |
+| [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 | 2022-11-21 | 2026-08-17 |
 | [Concrete Angel](https://open.spotify.com/track/33om1peLEWLBZimmmjpfxH) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:58 | 2021-10-08 | 2022-04-14 |
 | [Concrete Over Water](https://open.spotify.com/track/4EGMLBvaIIHNYuTQ3vyJmd) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [Concrete Over Water](https://open.spotify.com/album/2yvTYZAs8hfm3p8bStCBLR) | 6:09 | 2022-04-22 | 2022-07-29 |
 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-21 | 2023-01-26 |
@@ -220,6 +220,7 @@
 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 | 2025-10-24 |  |
 | [Dying](https://open.spotify.com/track/60kl9blMLz8yl3akeh6sXe) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jonny](https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0) | 3:39 | 2023-10-13 | 2023-11-16 |
 | [Elevating](https://open.spotify.com/track/7fkEMMSyajfzHz3fBPoQvA) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Elevating](https://open.spotify.com/album/5ewAXFvMgQvO9QhQH9Z8lw) | 3:02 | 2024-10-21 | 2025-05-31 |
+| [elmyra](https://open.spotify.com/track/5nXBMoWougORhcgX60YoZC) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [fata morgana](https://open.spotify.com/album/6jqiV5zozY66Gaw6YiFW2g) | 4:43 | 2026-08-16 |  |
 | [Embarrassed Dog](https://open.spotify.com/track/5rsMJbGg6IqniuGPaCFXd9) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Embarrassed Dog](https://open.spotify.com/album/4WQJQbKm9POFMDat9js98A) | 2:00 | 2024-03-15 | 2024-04-19 |
 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 | 2021-10-08 | 2022-04-19 |
 | [Energy](https://open.spotify.com/track/11i3GDVb1hGPWrPSoZ5xGf) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Ydegirl](https://open.spotify.com/album/0tDt3NI9DX0ivOd15RljWg) | 4:32 | 2021-10-22 | 2022-01-23 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 64865,
+  "num_followers": 64874,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACv+5Il9B3KIDtaK80OqHnW",
+  "snapshot_id": "an+sAAAAAAD3627GloxshBv1x3rBgqeg",
   "tracks": [
     {
       "added_at": null,
@@ -52,13 +52,13 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Jeronimo",
-          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Medellificaci\u00f3n",
-      "url": "https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE"
+      "duration_ms": 244137,
+      "name": "El Remate",
+      "url": "https://open.spotify.com/track/5YQmvLdcJ7HrAt31eU4jBc"
     },
     {
       "added_at": null,
@@ -120,13 +120,13 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         },
         {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+          "name": "Jeronimo",
+          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
         }
       ],
-      "duration_ms": 244137,
-      "name": "El Remate",
-      "url": "https://open.spotify.com/track/5YQmvLdcJ7HrAt31eU4jBc"
+      "duration_ms": 232000,
+      "name": "Medellificaci\u00f3n",
+      "url": "https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ba\u00f1o de Ruda",
-        "url": "https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 189318,
-      "name": "Ba\u00f1o de Ruda",
-      "url": "https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sancocho en Le\u00f1a",
         "url": "https://open.spotify.com/album/0TgM0NVtPWfm1aPCYrbWaa"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 176000,
       "name": "Sancocho en Le\u00f1a",
       "url": "https://open.spotify.com/track/1QUqKGKN1GvzA2qvAYi2cp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ba\u00f1o de Ruda",
+        "url": "https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 189318,
+      "name": "Ba\u00f1o de Ruda",
+      "url": "https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ"
     },
     {
       "added_at": null,

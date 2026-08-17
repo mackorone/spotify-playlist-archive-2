@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-126 songs - 6 hr 22 min
+127 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 | 2024-11-24 |  |
 | [Here to Stay](https://open.spotify.com/track/3ByAouukHhrz3koxrKKG3L) | [Brendan Murray](https://open.spotify.com/artist/7vXVpxnqu4GYer1u9eNvLw) | [Here to Stay](https://open.spotify.com/album/3J9wxDOwgdBIf3gyAeuHSK) | 2:59 | 2024-03-15 |  |
 | [hiatus](https://open.spotify.com/track/7cbvHeOb1SjNxkbqDuilw2) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [hiatus](https://open.spotify.com/album/1xpdm7VyOyj3QlfyyfASyP) | 2:22 | 2024-02-26 |  |
+| [Hiding on the Highway](https://open.spotify.com/track/2gkAI6XS9SZyznLE3AdHz6) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Outlaw in Love](https://open.spotify.com/album/5NRkJYAKmV8VojGaDBmbby) | 3:25 | 2026-08-16 |  |
 | [Holding My Breath](https://open.spotify.com/track/3NwXV3xKXD0RaxvvtvRrdL) | [Ryan O'Shaughnessy](https://open.spotify.com/artist/5xxkw4ElO0WX3v4i1W5kAQ) | [Holding My Breath](https://open.spotify.com/album/58uJcAMB0DC2GgLYWjfqMI) | 2:46 | 2024-02-26 |  |
 | [Hope](https://open.spotify.com/track/2578bme2WY6JktfQyFCsX3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 4:39 | 2025-04-20 |  |
 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 | 2024-10-04 | 2025-04-21 |

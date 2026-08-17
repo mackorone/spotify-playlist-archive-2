@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 611994,
+  "num_followers": 612326,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAB/jA4KyqBE/e/+2kkmMooz",
+  "snapshot_id": "an+sAAAAAAAjVZGYHjFbgEHlxbd9QCz1",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hecha Pa' Mi",
+        "url": "https://open.spotify.com/album/0Nlac12HchvCla00JkCnls"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Hecha Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/3AIVCSqTfDX9NxStqhi80S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 209492,
       "name": "POR QU\u00c9 SER\u00c1",
       "url": "https://open.spotify.com/track/6ixu1oNYZMckKdMPvf5vEO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hecha Pa' Mi",
-        "url": "https://open.spotify.com/album/0Nlac12HchvCla00JkCnls"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Hecha Pa' M\u00ed",
-      "url": "https://open.spotify.com/track/3AIVCSqTfDX9NxStqhi80S"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALA M\u00cdA",
-        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 169020,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 168896,
       "name": "(Entre Par\u00e9ntesis)",
       "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 169020,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc"
     },
     {
       "added_at": null,

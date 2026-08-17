@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 33 | [Straitjacket \- Bonus Track](https://open.spotify.com/track/318jRYcDGfYdKHFaQRwMIC) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:40 |
 | 34 | [Faccio un casino](https://open.spotify.com/track/02Nlg4nlYcjCrbpbb0EnjL) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Faccio un casino](https://open.spotify.com/album/5J34Sii8VACcv7xISev3rO) | 2:53 |
 | 35 | [Gemini](https://open.spotify.com/track/5pmafQfCSF9y6jVUhiaR7I) | [Brynn](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 3:11 |
-| 36 | [Talk Of The Town](https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Talk Of The Town](https://open.spotify.com/album/02Azszdh3FeMdvKOwWRiS9) | 3:05 |
+| 36 | [Talk Of The Town](https://open.spotify.com/track/4um31MUXi9Ba2cwG9FjXMp) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus](https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG) | 3:05 |
 | 37 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 |
 | 38 | [American Adrenaline](https://open.spotify.com/track/5UFAGUdeoNHlm0Y6nLH8Fo) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [KAWALA Collection](https://open.spotify.com/album/2Pv5jT6q20fLACpKLLZpIt) | 2:43 |
 | 39 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 78 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 | 79 | [Girlhood](https://open.spotify.com/track/7cE4EHYaGzD2UB1U3bGGA5) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 2:23 |
 
-Snapshot ID: `AcZrBAAAAAAM9adk1JT+ItSF1JOE7+3R`
+Snapshot ID: `AcZwpAAAAAATckAkb5v1Qv/K72f9+33N`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,692 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,700 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 29 | [Moonglow](https://open.spotify.com/track/4Xd6tNggPuGqq6DMdwymCp) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 3:04 |
 | 30 | [Menilmontant \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/6ZiZFzYHPKeNO6i98ubnqa) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 3:02 |
 | 31 | [Montmartre](https://open.spotify.com/track/0XX4H46p4ahalPWzLz1zrr) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Rex Stewart](https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:25 |
-| 32 | [Les yeux noirs \(Dark Eyes\)](https://open.spotify.com/track/4cOhTQgJqBtnIws8Il92Ww) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 2:13 |
+| 32 | [Scatterbrain](https://open.spotify.com/track/0aDbWBBoa2rkCImzeLugcE) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:20 |
 | 33 | [It Was So Beautiful](https://open.spotify.com/track/23MCn1hqzitd00ctBSofv5) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:53 |
-| 34 | [Scatterbrain](https://open.spotify.com/track/0aDbWBBoa2rkCImzeLugcE) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:20 |
+| 34 | [Les yeux noirs \(Dark Eyes\)](https://open.spotify.com/track/4cOhTQgJqBtnIws8Il92Ww) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 2:13 |
 | 35 | [Ol' Man River](https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:37 |
 | 36 | [Just One Of Those Things](https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stephane Grappelli](https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z) | [Limitless Jazz, Vol\. 31](https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur) | 2:54 |
 | 37 | [Honeysuckle Rose](https://open.spotify.com/track/50gUKvSt2vFvxq84SX5ZXi) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 49 | [Georgia on My Mind](https://open.spotify.com/track/0mKssLelwP7ymDV7HQLYlm) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [l'inoubliable](https://open.spotify.com/album/3yG7WbpgWrgPTg6zZV7amc) | 3:14 |
 | 50 | [The Sheik of Araby](https://open.spotify.com/track/6RKY7AM4QBgUM8KTVm6wXl) | [Ted Snyder](https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Hot Club de France Quintet](https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj) | [Reinhardt, Django: Swingin' With Django \(1937\)](https://open.spotify.com/album/0bpNyv4X1eyYKRSnbtkpX3) | 3:08 |
 
-Snapshot ID: `an5agAAAAAAR8tg9jmLvdCG+bbKSPkg9`
+Snapshot ID: `an+sAAAAAABwEXxTc5Hdm2Sxd+7f1CIr`

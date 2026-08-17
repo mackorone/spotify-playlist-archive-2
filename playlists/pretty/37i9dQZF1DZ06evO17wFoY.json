@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 30065,
+  "num_followers": 30069,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAC4Wxe7bggs5PRrME85ec+v",
+  "snapshot_id": "an+sAAAAAADJ7dmTY+JjQmu+7wlilLK0",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Gina Alice",
+          "url": "https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "Hunting Cantata, BWV 208: No. 9. Sheep May Safely Graze (Transc. Duck for 4 Hands)",
+      "url": "https://open.spotify.com/track/6XMIUEpp8McfEetWKMuuyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Book 2",
         "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 31493,
       "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 1",
       "url": "https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        },
-        {
-          "name": "Gina Alice",
-          "url": "https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb"
-        }
-      ],
-      "duration_ms": 290613,
-      "name": "Hunting Cantata, BWV 208: No. 9. Sheep May Safely Graze (Transc. Duck for 4 Hands)",
-      "url": "https://open.spotify.com/track/6XMIUEpp8McfEetWKMuuyQ"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 33453,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
-      "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Book (Encore Edition)",
         "url": "https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 404426,
       "name": "Jasmine Flower (Arr. Schindler for Piano)",
       "url": "https://open.spotify.com/track/5e1AEXbrepdeMVB8YuRtNQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 33453,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
+      "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
     },
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Tekla B\u0105darzewska-Baranowska",
-          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "The Maiden's Prayer, Op. 4",
-      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gran Turismo 5 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 268613,
       "name": "Herz und Mund und Tat und Leben, BWV 147: Chorale. Jesus bleibet meine Freude (Arr. for Piano)",
       "url": "https://open.spotify.com/track/2R0vxgZ5SJUD6dLjkgOx5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Tekla B\u0105darzewska-Baranowska",
+          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "The Maiden's Prayer, Op. 4",
+      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
     },
     {
       "added_at": null,

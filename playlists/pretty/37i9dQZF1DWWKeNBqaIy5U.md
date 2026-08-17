@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKeNBqaIy5U.md) - [plain]
 
 > Soft Jazz vocals and smooth instrumentals to soundtrack your dinner \- perfect for cooking, hosting a dinner party, or a relaxed evening at home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,377 likes - 122 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,412 likes - 122 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

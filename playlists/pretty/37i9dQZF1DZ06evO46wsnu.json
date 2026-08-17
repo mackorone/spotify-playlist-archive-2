@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 178791,
+  "num_followers": 178809,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAph6VUR4/xpsZiYwB74pgS",
+  "snapshot_id": "an+sAAAAAADEO8Y+OmDnQQE3APoAVoC7",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Katy Bar the Door / Living Undercover",
+        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 229751,
+      "name": "Living Undercover",
+      "url": "https://open.spotify.com/track/6Zjfj6AYFAZICf0gbWTcqG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
-        "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/0hpo6LuKFOGzXYald8qr9m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/0oVGfCae0v0ygXbYklG5fk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
+        "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/0hpo6LuKFOGzXYald8qr9m"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Note Symphonies, Vol.1",
-        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 142892,
-      "name": "Faint Resemblance - Ghost Note Symphonies",
-      "url": "https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 221093,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/2VQEHtJBOPqfqQ6i9m6OQq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ghost Note Symphonies, Vol.1",
+        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 142892,
+      "name": "Faint Resemblance - Ghost Note Symphonies",
+      "url": "https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry"
     },
     {
       "added_at": null,
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Katy Bar the Door / Living Undercover",
-        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 229751,
-      "name": "Living Undercover",
-      "url": "https://open.spotify.com/track/6Zjfj6AYFAZICf0gbWTcqG"
+      "duration_ms": 228480,
+      "name": "Blood To Bleed",
+      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 233553,
       "name": "Far From Perfect - Ghost Note Symphonies",
       "url": "https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Blood To Bleed",
-      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
     },
     {
       "added_at": null,

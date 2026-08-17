@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-166 songs - 8 hr 0 min
+167 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [El Yuko \(En vivo\)](https://open.spotify.com/track/2lc60LnmhcgHEPkEabgmMs) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 3:09 | 2024-01-29 | 2026-04-21 |
 | [El Yuko \(En vivo\)](https://open.spotify.com/track/2Q7WUNDbsHITZO54t9JSUZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM) | 3:15 | 2026-05-19 |  |
 | [El Yuko \- En Vivo](https://open.spotify.com/track/386hM12o9OJYMZhZ5yfS8l) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/2afRqawHtnyPriVtiMlMed) | 3:09 | 2026-04-21 | 2026-05-19 |
+| [En La Cima \(En vivo\)](https://open.spotify.com/track/3u91mTsR3Wo0GxiWZGhCl8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E) | 3:04 | 2026-08-17 |  |
 | [En La Cima \(En vivo\)](https://open.spotify.com/track/3SCJI8X7N0RYHcCaivNa1P) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 3:06 | 2024-01-29 | 2026-04-11 |
 | [En La Cima \(feat\. Los Populares del Llano\) \- En Vivo](https://open.spotify.com/track/0WhZSuX5NPDFhNKNM79dC0) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(feat\. Los Populares del Llano\) \[En Vivo\]](https://open.spotify.com/album/73JejPFzvxbgBDxUAH54Z0) | 3:06 | 2026-04-24 | 2026-04-28 |
 | [Enloquecido](https://open.spotify.com/track/2BFkgLkT6KZcq8mmzL29FQ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/0EJAIyji48E8bZssj8PW5X) | 3:32 | 2026-04-19 | 2026-05-19 |
@@ -115,7 +116,7 @@
 | [La Linea Directa \- En Vivo](https://open.spotify.com/track/2YqVZ6GhEoX84XhOTDH60Y) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX) | 2:33 | 2026-04-19 | 2026-05-19 |
 | [La Mayiza \(En Vivo\)](https://open.spotify.com/track/61DoSrusOFwx5rpA44V4yC) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Arbol \(En Vivo\)](https://open.spotify.com/album/12HiHnraE8IDA3SKv18rNm) | 2:10 | 2024-01-29 | 2024-05-28 |
 | [La Muchacha Del Salado](https://open.spotify.com/track/0KtZnndye3zmRId4bhxEAl) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/0EJAIyji48E8bZssj8PW5X) | 2:49 | 2026-04-26 | 2026-05-10 |
-| [La Muchacha Del Salado](https://open.spotify.com/track/1Udcd4xgzWNli9mKrtZKbW) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv) | 2:49 | 2026-05-27 |  |
+| [La Muchacha Del Salado](https://open.spotify.com/track/1Udcd4xgzWNli9mKrtZKbW) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv) | 2:49 | 2026-05-27 | 2026-08-17 |
 | [La Muchacha Del Salado](https://open.spotify.com/track/7IADccjzF0mDn1du1wLZbC) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 2:49 | 2024-01-29 | 2026-04-26 |
 | [La Muchacha Del Salado "La Nicholette" \(En vivo\)](https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:44 | 2024-01-29 | 2026-04-20 |
 | [La Muchacha Del Salado "La Nicholette" \(En vivo\)](https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM) | 2:44 | 2026-05-19 |  |

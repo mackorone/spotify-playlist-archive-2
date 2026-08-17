@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,858 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,867 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 49 | [Stack It Up \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 2:45 |
 | 50 | [Foreigner](https://open.spotify.com/track/1xBOg9FFena72UENSE8SDK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H) | 2:41 |
 
-Snapshot ID: `an5agAAAAACBADdHFBsNJ3aGW3jP2gwB`
+Snapshot ID: `an+sAAAAAAAH2XDr3XJUR1hJhVnqaQfN`

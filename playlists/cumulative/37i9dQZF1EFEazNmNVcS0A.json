@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa"
+      },
+      "artists": [
+        {
+          "name": "Kid Harpoon",
+          "url": "https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1Jfl0IXNH6aJgNWSpBNqN2"
+    },
+    {
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/71cwuXguuLIwMhJZ1LGPBR"
       },

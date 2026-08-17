@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Instrumental beats to lock\-in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,885 likes - 200 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,011 likes - 200 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3h0GYVBJE64.md) - [plain]
 
 > wat waren dat heerlijke zomers\. <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,393 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,384 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

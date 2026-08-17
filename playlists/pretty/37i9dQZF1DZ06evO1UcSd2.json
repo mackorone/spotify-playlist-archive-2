@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 88569,
+  "num_followers": 88602,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAYY7ZvdHA/p4jvPkTw2YIg",
+  "snapshot_id": "an+sAAAAAADmAToBhrtMXvxTJT5yKt4u",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pecado",
-        "url": "https://open.spotify.com/album/2Gn6fUHACYgkXDospTdO1z"
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 168085,
-      "name": "Pecado",
-      "url": "https://open.spotify.com/track/2fN9jKhvXOotH3k0Dx12Ma"
+      "duration_ms": 200703,
+      "name": "Vuelve por Favor",
+      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
     },
     {
       "added_at": null,
@@ -387,38 +387,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+        "name": "Pecado",
+        "url": "https://open.spotify.com/album/2Gn6fUHACYgkXDospTdO1z"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 200703,
-      "name": "Vuelve por Favor",
-      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
+      "duration_ms": 168085,
+      "name": "Pecado",
+      "url": "https://open.spotify.com/track/2fN9jKhvXOotH3k0Dx12Ma"
     },
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Que Nos Toco",
-        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 174615,
-      "name": "Si Tu Jalas Yo Jalo",
-      "url": "https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG"
+      "duration_ms": 188040,
+      "name": "Aquiles el de Tijuana (En Vivo)",
+      "url": "https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4"
     },
     {
       "added_at": null,
@@ -455,22 +459,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
+        "name": "La Vida Que Nos Toco",
+        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 188040,
-      "name": "Aquiles el de Tijuana (En Vivo)",
-      "url": "https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4"
+      "duration_ms": 174615,
+      "name": "Si Tu Jalas Yo Jalo",
+      "url": "https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HD",
+        "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 193295,
+      "name": "HD",
+      "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
     },
     {
       "added_at": null,
@@ -571,26 +591,6 @@
       "duration_ms": 195242,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HD",
-        "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 193295,
-      "name": "HD",
-      "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eso Es La Riqueza",
-        "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Eso Es La Riqueza",
-      "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Positivo",
         "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
@@ -767,22 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+        "name": "Eso Es La Riqueza",
+        "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         },
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 198582,
-      "name": "C\u00f3mo Los Vaqueros",
-      "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
+      "duration_ms": 174693,
+      "name": "Eso Es La Riqueza",
+      "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
     },
     {
       "added_at": null,
@@ -803,6 +783,26 @@
       "duration_ms": 179905,
       "name": "The King of Ice",
       "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "C\u00f3mo Los Vaqueros",
+      "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Adelante",
-        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 155730,
-      "name": "Estas Ganas de Tomar",
-      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Positivo",
         "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 139668,
       "name": "Cuando Andaba Recio (El Cholo)",
       "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguimos Adelante",
+        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 155730,
+      "name": "Estas Ganas de Tomar",
+      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
     },
     {
       "added_at": null,

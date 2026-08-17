@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 572814,
+  "num_followers": 572833,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAJW71A8knv8xIkQym7qHr6",
+  "snapshot_id": "an+sAAAAAAD1HKSJYlv+oK0zmyxdJ/Ji",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Oppresso Liber",
-        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
+        "name": "And Justice for None",
+        "url": "https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 240208,
-      "name": "De Oppresso Liber",
-      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
+      "duration_ms": 274615,
+      "name": "Blue on Black",
+      "url": "https://open.spotify.com/track/6azM3nHT9j8ZeZIHhsuWEs"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Justice for None",
-        "url": "https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr"
+        "name": "De Oppresso Liber",
+        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 274615,
-      "name": "Blue on Black",
-      "url": "https://open.spotify.com/track/6azM3nHT9j8ZeZIHhsuWEs"
+      "duration_ms": 240208,
+      "name": "De Oppresso Liber",
+      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F8",
-        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 281803,
-      "name": "Darkness Settles In",
-      "url": "https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Justice for None",
         "url": "https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 275212,
       "name": "Gone Away",
       "url": "https://open.spotify.com/track/6MgiIcvk3dmUwOskpeiUCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 281803,
+      "name": "Darkness Settles In",
+      "url": "https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "Cradle to the Grave",
+      "url": "https://open.spotify.com/track/1w0xrvkbggPkTdZPDPNPFn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 227309,
       "name": "When the Seasons Change",
       "url": "https://open.spotify.com/track/7w0VXWwbgA2a7si5E3k7Yp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
-        "url": "https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "Cradle to the Grave",
-      "url": "https://open.spotify.com/track/1w0xrvkbggPkTdZPDPNPFn"
     },
     {
       "added_at": null,

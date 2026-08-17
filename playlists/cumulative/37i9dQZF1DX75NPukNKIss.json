@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-26",
-  "description": "Way 2 Slizzy. Cover: Lil Yachty",
+  "description": "Way 2 Slizzy. Cover: Jacquees",
   "name": "Sexy Drill",
   "tracks": [
     {
@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Mood 2",
+        "url": "https://open.spotify.com/album/2x4Hsr0LNdwJWXKo9Li0IY"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150152,
+      "name": "He Kant",
+      "url": "https://open.spotify.com/track/3ZI6TCQiXdzVEUp7QcZVuY"
+    },
+    {
+      "album": {
         "name": "He Kant",
         "url": "https://open.spotify.com/album/53eBLt3qAQcnf2Hg5k4Uhq"
       },
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 157500,
       "name": "He Kant",
       "url": "https://open.spotify.com/track/4DjaEteBLN6f13XuF8f4CO"

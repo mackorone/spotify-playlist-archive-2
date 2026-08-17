@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 
 > This is Ludwig Göransson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,965 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,982 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,5 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 | 23 | [Go Kid](https://open.spotify.com/track/0c5ySgApQVeR06Bey6D7Gy) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Star Wars: The Mandalorian and Grogu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn) | 3:00 |
 | 24 | [Smokestack Twins](https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 3:28 |
 | 25 | [Lord Knows / Fighting Stronger](https://open.spotify.com/track/767T5vqvDToZ8LtqT8iZx9) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [CREED: Original Motion Picture Soundtrack](https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA) | 4:54 |
+| 26 | [BETRAYAL](https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 3:55 |
+| 27 | [WINDMILLS](https://open.spotify.com/track/0WBa6rf5NCpkAbvhgWgmEE) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 5:16 |
 
-Snapshot ID: `an5agAAAAAAdRIlpOik7y1L9Oj6+89Lg`
+Snapshot ID: `an+sAAAAAAA5LqK2sCJv432WSnUry/zV`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAADhFUc8KpUHuJn0YxUEgf+T",
+  "snapshot_id": "an+sAAAAAADaThmoOfUkwudLghwsoMrH",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+        "name": "Dazed (2025 Remaster)",
+        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 247181,
+      "name": "Mirror Talk (Remastered)",
+      "url": "https://open.spotify.com/track/2TsbVN60ED9QQTTwV3H0TJ"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed (2025 Remaster)",
-        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 247181,
-      "name": "Mirror Talk (Remastered)",
-      "url": "https://open.spotify.com/track/2TsbVN60ED9QQTTwV3H0TJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
@@ -284,9 +268,25 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dazed (2025 Remaster)",
+        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 246325,
+      "name": "Outside of Love (Remastered)",
+      "url": "https://open.spotify.com/track/1rBuKBRo2euDWbzv6JBnrd"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed (2025 Remaster)",
-        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 246325,
-      "name": "Outside of Love (Remastered)",
-      "url": "https://open.spotify.com/track/1rBuKBRo2euDWbzv6JBnrd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
@@ -346,15 +330,27 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Believe In The Wrong Things",
+      "url": "https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5"
     },
     {
       "added_at": null,
@@ -391,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "Believe In The Wrong Things",
-      "url": "https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
@@ -416,13 +396,29 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         },
         {
-          "name": "S.A. Martinez",
-          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 191323,
-      "name": "Dark Sky",
-      "url": "https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx"
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 339212,
+      "name": "Sparkle / Fade",
+      "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
     },
     {
       "added_at": null,
@@ -443,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
       "artists": [
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "S.A. Martinez",
+          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
         }
       ],
-      "duration_ms": 339212,
-      "name": "Sparkle / Fade",
-      "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
+      "duration_ms": 191323,
+      "name": "Dark Sky",
+      "url": "https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx"
     },
     {
       "added_at": null,

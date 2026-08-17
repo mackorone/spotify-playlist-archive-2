@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 17797,
+  "num_followers": 17801,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABhman027ShlsNPx5QlD9/J",
+  "snapshot_id": "an+sAAAAAAB1C9m5MISg8+lYLh84+GRe",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 405146,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roots Of Rock & Roll",
         "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
       },
@@ -508,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 366693,
-      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
-      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
+      "duration_ms": 298666,
+      "name": "Tell Me Baby - Live",
+      "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
     },
     {
       "added_at": null,
@@ -572,25 +588,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 298666,
-      "name": "Tell Me Baby - Live",
-      "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 405146,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp"
+      "duration_ms": 366693,
+      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
+      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
     },
     {
       "added_at": null,

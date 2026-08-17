@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 39103,
+  "num_followers": 39116,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAADA+d/ITpMOlnWfVzXxAhmZ",
+  "snapshot_id": "an+sAAAAAAB1FBE8/Y9+K+H+AUHhEXlD",
   "tracks": [
     {
       "added_at": null,
@@ -103,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nu Nation Project",
-        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 368440,
-      "name": "Something About the Name Jesus",
-      "url": "https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 340133,
       "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 368440,
+      "name": "Something About the Name Jesus",
+      "url": "https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 355160,
-      "name": "Why We Sing - Live",
-      "url": "https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -211,22 +195,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
       },
       "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 287573,
-      "name": "Take Me to the King (feat. Kirk Franklin)",
-      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
+      "duration_ms": 355160,
+      "name": "Why We Sing - Live",
+      "url": "https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 265225,
+      "name": "Wanna Be Happy?",
+      "url": "https://open.spotify.com/track/7f3mNFQ9ue2uCWA8qmgEJo"
     },
     {
       "added_at": null,
@@ -247,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
       "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 265225,
-      "name": "Wanna Be Happy?",
-      "url": "https://open.spotify.com/track/7f3mNFQ9ue2uCWA8qmgEJo"
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": null,

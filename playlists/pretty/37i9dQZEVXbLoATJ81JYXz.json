@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 620473,
+  "num_followers": 620475,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MhPFuAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MhUXOAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -29,27 +29,7 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "T\u00e4nk om",
-        "url": "https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        },
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "T\u00e4nk om",
-      "url": "https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -69,7 +49,27 @@
       "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "T\u00e4nk om",
+        "url": "https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        },
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "T\u00e4nk om",
+      "url": "https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Olyckligt k\u00e4r",
         "url": "https://open.spotify.com/album/2VgYjUvf5XT6ImNuZewOUf"
@@ -85,23 +85,7 @@
       "url": "https://open.spotify.com/track/4t3Z4EvM0oDjSEegEXSpJO"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Best Friends",
-        "url": "https://open.spotify.com/album/2jf5kVVZ6JIqZYvdt6vdVJ"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 143880,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/3fbp3OvNkSeKrBW12F0tCm"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -117,39 +101,7 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 173975,
-      "name": "Great Expectation",
-      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Upp och ner och hit och dit med Babblarna",
         "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
@@ -165,27 +117,39 @@
       "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "SLICKAR P\u00c5 SN\u00d6RET (Uptempo Remix)",
-        "url": "https://open.spotify.com/album/7Ft1TocWXF0BXjEsurgFgh"
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
       },
       "artists": [
         {
-          "name": "R\u00f6k Liza",
-          "url": "https://open.spotify.com/artist/7bCWtYN5W1RwYKHsAmL7LF"
-        },
-        {
-          "name": "Mio Johansson",
-          "url": "https://open.spotify.com/artist/5bjIL9sahiK44CHakMI6U5"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 127413,
-      "name": "SLICKAR P\u00c5 SN\u00d6RET - Uptempo Remix",
-      "url": "https://open.spotify.com/track/0kxaf26PYA6ZDccRfndlY3"
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -205,23 +169,7 @@
       "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Matadoren",
-        "url": "https://open.spotify.com/album/0gpZBMK8pkrJwk6mhAItG2"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 121133,
-      "name": "Matadoren",
-      "url": "https://open.spotify.com/track/7rorbMNPjLsuK2kNA8gVw3"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Sov med Humlan Djojj",
         "url": "https://open.spotify.com/album/6K3aPGyRCE1EgmcTyftjxu"
@@ -241,27 +189,7 @@
       "url": "https://open.spotify.com/track/6F0EAXG5D1iFZU57wfa0Ys"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Atom",
-        "url": "https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB"
-      },
-      "artists": [
-        {
-          "name": "Lovet",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        },
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Atom",
-      "url": "https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -281,7 +209,27 @@
       "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "SLICKAR P\u00c5 SN\u00d6RET (Uptempo Remix)",
+        "url": "https://open.spotify.com/album/7Ft1TocWXF0BXjEsurgFgh"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6k Liza",
+          "url": "https://open.spotify.com/artist/7bCWtYN5W1RwYKHsAmL7LF"
+        },
+        {
+          "name": "Mio Johansson",
+          "url": "https://open.spotify.com/artist/5bjIL9sahiK44CHakMI6U5"
+        }
+      ],
+      "duration_ms": 127413,
+      "name": "SLICKAR P\u00c5 SN\u00d6RET - Uptempo Remix",
+      "url": "https://open.spotify.com/track/0kxaf26PYA6ZDccRfndlY3"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
@@ -297,23 +245,47 @@
       "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Atom",
+        "url": "https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        },
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+      "duration_ms": 161500,
+      "name": "Atom",
+      "url": "https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 161481,
+      "name": "Nu s\u00e4ger vi godnatt",
+      "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "S\u00e5 l\u00e4nge som mitt hj\u00e4rta sl\u00e5r (feat Jimmie \u00c5kesson)",
         "url": "https://open.spotify.com/album/3b81zxISEBDyw4Ebty81kv"
@@ -341,43 +313,23 @@
       "url": "https://open.spotify.com/track/6BwhApp1qW8t3WLw1aN2Mc"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 161481,
-      "name": "Nu s\u00e4ger vi godnatt",
-      "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -393,7 +345,39 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Matadoren",
+        "url": "https://open.spotify.com/album/0gpZBMK8pkrJwk6mhAItG2"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 121133,
+      "name": "Matadoren",
+      "url": "https://open.spotify.com/track/7rorbMNPjLsuK2kNA8gVw3"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Det ligger n\u00e5t i luften",
+        "url": "https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Det ligger n\u00e5t i luften",
+      "url": "https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
@@ -409,43 +393,23 @@
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "Tusen sp\u00e4nn",
-        "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        },
-        {
-          "name": "Fanny Avonne",
-          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Tusen sp\u00e4nn",
-      "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -465,62 +429,26 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "Happiness Is So Sad",
-        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+        "name": "Best Friends",
+        "url": "https://open.spotify.com/album/2jf5kVVZ6JIqZYvdt6vdVJ"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 232835,
-      "name": "Happiness Is So Sad",
-      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+      "duration_ms": 143880,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/3fbp3OvNkSeKrBW12F0tCm"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Det ligger n\u00e5t i luften",
-        "url": "https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE"
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
       },
       "artists": [
         {
@@ -528,68 +456,48 @@
           "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Det ligger n\u00e5t i luften",
-      "url": "https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw"
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+        "name": "Tusen sp\u00e4nn",
+        "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
         },
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+      "duration_ms": 190344,
+      "name": "Tusen sp\u00e4nn",
+      "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "SN\u00c4LLA STELLA (UPTEMPO REMIX)",
-        "url": "https://open.spotify.com/album/12syxAlClReL2QdUoJrvpI"
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
       },
       "artists": [
         {
-          "name": "R\u00f6k Liza",
-          "url": "https://open.spotify.com/artist/7bCWtYN5W1RwYKHsAmL7LF"
-        },
-        {
-          "name": "KLNH",
-          "url": "https://open.spotify.com/artist/41AtkwDkRz4FZ9hcdsuAIF"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 93787,
-      "name": "SN\u00c4LLA STELLA - UPTEMPO REMIX",
-      "url": "https://open.spotify.com/track/5SK98gb3V4Y7duCfYUzOgf"
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 140720,
-      "name": "Hootie Frutti",
-      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -609,23 +517,7 @@
       "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 278080,
-      "name": "Dancing On My Own - Radio Edit",
-      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Escape (2022 Remaster)",
         "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
@@ -641,7 +533,59 @@
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Superlim & silvertejp",
         "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
@@ -661,23 +605,7 @@
       "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Livet kommer d\u00f6da oss, vi lever det \u00e4nd\u00e5",
-        "url": "https://open.spotify.com/album/0Go4LuZjdNYuwmyT7S3VlO"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 187076,
-      "name": "Svagare \u00e4n jag",
-      "url": "https://open.spotify.com/track/63kBt6KKF2qGoPwhNXdZnv"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "\u00c4r det h\u00e4r det \u00e4r party",
         "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
@@ -693,7 +621,23 @@
       "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 285853,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -709,43 +653,75 @@
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "Pil\u00e9 (Gospel)",
-        "url": "https://open.spotify.com/album/5ASuHiYQYuQU8VemaHSRNq"
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
       "artists": [
         {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Kano Choir",
-          "url": "https://open.spotify.com/artist/2i04Yoaa4wV8J75w8aPX1G"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 123720,
-      "name": "Pil\u00e9 - Gospel",
-      "url": "https://open.spotify.com/track/1yOrvnfHb2t8CmMdfcBHTl"
+      "duration_ms": 232835,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "bloodstream",
+        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
@@ -769,119 +745,43 @@
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "bloodstream",
-        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
+        "name": "Satan i gatan (Bonus Version)",
+        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
       },
       "artists": [
         {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
         }
       ],
-      "duration_ms": 177428,
-      "name": "bloodstream",
-      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
+      "duration_ms": 212453,
+      "name": "V\u00e4lkommen in",
+      "url": "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "SN\u00c4LLA STELLA (UPTEMPO REMIX)",
+        "url": "https://open.spotify.com/album/12syxAlClReL2QdUoJrvpI"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
+          "name": "R\u00f6k Liza",
+          "url": "https://open.spotify.com/artist/7bCWtYN5W1RwYKHsAmL7LF"
+        },
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "KLNH",
+          "url": "https://open.spotify.com/artist/41AtkwDkRz4FZ9hcdsuAIF"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+      "duration_ms": 93787,
+      "name": "SN\u00c4LLA STELLA - UPTEMPO REMIX",
+      "url": "https://open.spotify.com/track/5SK98gb3V4Y7duCfYUzOgf"
     },
     {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
-      "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
-    },
-    {
-      "added_at": "2026-08-15 15:59:54",
+      "added_at": "2026-08-16 14:38:11",
       "album": {
         "name": "Sov med Humlan Djojj",
         "url": "https://open.spotify.com/album/6K3aPGyRCE1EgmcTyftjxu"
@@ -899,6 +799,106 @@
       "duration_ms": 138947,
       "name": "Vila med mig",
       "url": "https://open.spotify.com/track/5JxKpEkR3Gqvf4OA8VLrBR"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Babblarnas vaggvisa",
+        "url": "https://open.spotify.com/album/3byd3r0bluk22eusc6uth3"
+      },
+      "artists": [
+        {
+          "name": "Vintergatan",
+          "url": "https://open.spotify.com/artist/2bl9NxlK21JgGjP5HkNi5o"
+        }
+      ],
+      "duration_ms": 305765,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/4lQfnSLKKSKlep9ASNoTbo"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Pil\u00e9 (Gospel)",
+        "url": "https://open.spotify.com/album/5ASuHiYQYuQU8VemaHSRNq"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kano Choir",
+          "url": "https://open.spotify.com/artist/2i04Yoaa4wV8J75w8aPX1G"
+        }
+      ],
+      "duration_ms": 123720,
+      "name": "Pil\u00e9 - Gospel",
+      "url": "https://open.spotify.com/track/1yOrvnfHb2t8CmMdfcBHTl"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Livet kommer d\u00f6da oss, vi lever det \u00e4nd\u00e5",
+        "url": "https://open.spotify.com/album/0Go4LuZjdNYuwmyT7S3VlO"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 187076,
+      "name": "Svagare \u00e4n jag",
+      "url": "https://open.spotify.com/track/63kBt6KKF2qGoPwhNXdZnv"
+    },
+    {
+      "added_at": "2026-08-16 14:38:11",
+      "album": {
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
     }
   ],
   "unique_name": "Top 50 - Sweden",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The official playlist for the 57th <a href="https://doveawards.com/">Dove Awards.</a> Watch the show Fri, Oct\. 9 at 7:30pm & 10pm ET on TBN & the TBN+ app\. Cover \(Host\): Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,764 likes - 115 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,767 likes - 115 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

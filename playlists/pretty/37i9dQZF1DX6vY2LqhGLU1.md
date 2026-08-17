@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,145 likes - 150 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,140 likes - 150 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

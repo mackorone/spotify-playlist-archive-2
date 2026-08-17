@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ayra Starr, ZAYN, Shirin David, Summer Cem, GIMS, Luis Fonsi & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,981 likes - 96 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,977 likes - 96 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

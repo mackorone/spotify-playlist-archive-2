@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 152273,
+  "num_followers": 152272,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAB58BTFmolVr5FTZDli7uaI",
+  "snapshot_id": "an+sAAAAAAARA3KgSmumlgXLKtCfyxyZ",
   "tracks": [
     {
       "added_at": null,
@@ -835,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
       "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 196694,
-      "name": "Look at Me",
-      "url": "https://open.spotify.com/track/30vfmE5gZLW1VtghknFwTn"
+      "duration_ms": 228853,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

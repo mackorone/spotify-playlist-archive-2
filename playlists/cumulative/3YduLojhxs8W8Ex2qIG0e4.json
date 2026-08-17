@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1Nwyo3MYDGSBcWNPShf41Y"
+      },
+      "artists": [
+        {
+          "name": "The Dark Wave",
+          "url": "https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489770,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5qtFvwy63Pls8Vhio66vsy"
+    },
+    {
+      "album": {
         "name": "As I Wonder",
         "url": "https://open.spotify.com/album/1emHyRtonKEkdP1izH1Qmw"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,342 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,347 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 31 | [Niets Dan Dit](https://open.spotify.com/track/644xmVsj6GLfnuTtYyLWQx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 3:50 |
 | 32 | [Wereld Van Verschil \(feat\. Typhoon\)](https://open.spotify.com/track/1iAWatZzKkLOEarFBs8Fmt) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 4:09 |
 | 33 | [Donker Hart](https://open.spotify.com/track/7slPUKikfw8lG5s5GvUd6K) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 4:07 |
-| 34 | [Bitterzoet](https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Bitterzoet](https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB) | 3:47 |
-| 35 | [Was Je Maar Hier](https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 6:05 |
+| 34 | [Was Je Maar Hier](https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 6:05 |
+| 35 | [Bitterzoet](https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Bitterzoet](https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB) | 3:47 |
 | 36 | [Vandaag](https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [April](https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete) | 3:25 |
 | 37 | [Hemingway](https://open.spotify.com/track/783dXZcVk8s888KgelZpWi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 3:41 |
 | 38 | [Misschien Niet De Eeuwigheid](https://open.spotify.com/track/2yKrrSrt9PTVqDcBCedsoD) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 49 | [Vallende Engel](https://open.spotify.com/track/1zK2P4mDjEPrWQPnwAISv1) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Oktober](https://open.spotify.com/album/3Lz7PoKa3KzYBsP12TI9I0) | 4:40 |
 | 50 | [Regen](https://open.spotify.com/track/46V1YQy4dwmVG9zB5PkawO) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Francis](https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2) | 3:26 |
 
-Snapshot ID: `an5agAAAAAD3f2wwyhOodIWg5ibWyw7B`
+Snapshot ID: `an+sAAAAAAAJyaqYAvosWoMBEyv8rCfJ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 70733,
+  "num_followers": 70744,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACQvMR667f4S6wqhIqS9RnR",
+  "snapshot_id": "an+sAAAAAADbf2+mDR7jHY17LaFAksRG",
   "tracks": [
     {
       "added_at": null,
@@ -207,18 +207,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amo del Imperio",
-        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
+        "name": "PALOMAZO NORTE\u00d1O (En Vivo Desde El Domo Care)",
+        "url": "https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX"
       },
       "artists": [
         {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Si Llego a Viejo",
-      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
+      "duration_ms": 217568,
+      "name": "Ramiro Sierra (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/4sllQRtNemwCtqBVdD2j6s"
     },
     {
       "added_at": null,
@@ -255,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Amo del Imperio",
+        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Si Llego a Viejo",
+      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PALOMAZO NORTE\u00d1O (En Vivo Desde El Domo Care)",
         "url": "https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX"
       },
@@ -264,17 +288,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
         },
         {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 217568,
-      "name": "Ramiro Sierra (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/4sllQRtNemwCtqBVdD2j6s"
+      "duration_ms": 206222,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/4naABEeBszR3S5X8duJby0"
     },
     {
       "added_at": null,
@@ -340,17 +364,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         }
       ],
-      "duration_ms": 206222,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/4naABEeBszR3S5X8duJby0"
+      "duration_ms": 240277,
+      "name": "Reproches Del Viento (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/6AZu9krOGsV9spLU4GkA1G"
     },
     {
       "added_at": null,
@@ -412,17 +436,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
           "name": "Ra\u00fal Hern\u00e1ndez",
           "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 240277,
-      "name": "Reproches Del Viento (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/6AZu9krOGsV9spLU4GkA1G"
+      "duration_ms": 229133,
+      "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
     },
     {
       "added_at": null,
@@ -487,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PALOMAZO NORTE\u00d1O (En Vivo Desde El Domo Care)",
-        "url": "https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX"
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
       "artists": [
         {
@@ -496,17 +520,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
         },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
+      "duration_ms": 174290,
+      "name": "El Rog\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
     },
     {
       "added_at": null,
@@ -531,30 +555,6 @@
       "duration_ms": 211890,
       "name": "La Venganza De Mar\u00eda (En Vivo)",
       "url": "https://open.spotify.com/track/5aegXVh7saWjhrISeDOcIe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
-      },
-      "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 174290,
-      "name": "El Rog\u00f3n (En Vivo)",
-      "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 235260,
+      "name": "El Rey De Mil Coronas (En Vivo)",
+      "url": "https://open.spotify.com/track/0UkRiOu4M2iiKgl6qFRRUn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Borrachera Perfecta El After (En Vivo)",
         "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 190976,
       "name": "Pu\u00f1o De Tierra (En Vivo)",
       "url": "https://open.spotify.com/track/6WqfubEFVfbpTDYFdADOTc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
-      },
-      "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 235260,
-      "name": "El Rey De Mil Coronas (En Vivo)",
-      "url": "https://open.spotify.com/track/0UkRiOu4M2iiKgl6qFRRUn"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Corrido De Los P\u00e9rez",
-      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 204653,
       "name": "Me Refiero A Ti (En Vivo)",
       "url": "https://open.spotify.com/track/3LXayTO1C92VZRdBz7VGxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Corrido De Los P\u00e9rez",
+      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
-      },
-      "artists": [
-        {
-          "name": "Carlo Mora",
-          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -803,8 +783,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
+      },
+      "artists": [
+        {
+          "name": "Carlo Mora",
+          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
+      "duration_ms": 160493,
+      "name": "Ojitos a Mi Gusto",
+      "url": "https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Ojitos a Mi Gusto",
-      "url": "https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc"
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
     },
     {
       "added_at": null,

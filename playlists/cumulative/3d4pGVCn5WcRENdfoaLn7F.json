@@ -2979,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "if there's nothing (Hectic remix)",
+        "url": "https://open.spotify.com/album/2Lor3cYUlpeYXYm3ehGSOo"
+      },
+      "artists": [
+        {
+          "name": "Shel Khan",
+          "url": "https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "if there's nothing (Hectic remix)",
+      "url": "https://open.spotify.com/track/6MPGzh7e28n4zcglTZ0YLD"
+    },
+    {
+      "album": {
         "name": "Ignite Devil",
         "url": "https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5"
       },

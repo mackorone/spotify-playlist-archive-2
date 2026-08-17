@@ -4,11 +4,11 @@
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-113 songs - 5 hr 34 min
+114 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3AM \- TE 100PRE](https://open.spotify.com/track/36VDFqRKppSVbrCo23SC6p) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [ESA NOCHE TERMINÓ DE DÍA](https://open.spotify.com/album/685PBfRH0QRFMf7ieMAOYv) | 2:41 | 2025-12-16 |  |
+| [3AM \- TE 100PRE](https://open.spotify.com/track/36VDFqRKppSVbrCo23SC6p) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [ESA NOCHE TERMINÓ DE DÍA](https://open.spotify.com/album/685PBfRH0QRFMf7ieMAOYv) | 2:41 | 2025-12-16 | 2026-08-17 |
 | [4:22](https://open.spotify.com/track/1TRnIxwWeJoE6MVimzjw2w) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:13 | 2023-11-10 | 2025-08-14 |
 | [???](https://open.spotify.com/track/6yng30OK3qqZWW2DJCiMCt) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 3:23 | 2024-06-18 | 2024-06-19 |
 | [a mi también me duele](https://open.spotify.com/track/443NlczMsHNzZuTX3cTQtz) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:50 | 2024-07-21 | 2025-04-15 |
@@ -60,6 +60,7 @@
 | [Ferrari](https://open.spotify.com/track/4kT2Jw1LlqYEWev9JpIExG) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:14 | 2024-05-07 | 2024-06-01 |
 | [Fino](https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:25 | 2023-11-10 | 2025-08-08 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2023-11-10 |  |
+| [Hot Body \(feat\. Danny Ocean\) \- Remix](https://open.spotify.com/track/0fErhKMUoUGmQ9bBitUwAV) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 3:01 | 2026-08-17 |  |
 | [HOY ES TU CUMPLEAÑOS](https://open.spotify.com/track/4gQUdvZbxu7G9G7NlREw21) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:22 | 2025-06-01 |  |
 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 | 2024-11-10 | 2025-10-03 |
 | [Imagínate](https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:50 | 2025-10-03 |  |

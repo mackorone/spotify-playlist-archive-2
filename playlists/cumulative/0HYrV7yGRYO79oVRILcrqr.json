@@ -5111,6 +5111,24 @@
     },
     {
       "album": {
+        "name": "I'm Gonna Live",
+        "url": "https://open.spotify.com/album/3vLxSsCmYV4ndoklyWM7qP"
+      },
+      "artists": [
+        {
+          "name": "Stu White",
+          "url": "https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "I'm Gonna Live",
+      "url": "https://open.spotify.com/track/4uYt7IA77IDaBuNRjRefIX"
+    },
+    {
+      "album": {
         "name": "Turbulence",
         "url": "https://open.spotify.com/album/42b2E8vOKrh5XBI8rGG1Fz"
       },
@@ -11197,6 +11215,24 @@
     },
     {
       "album": {
+        "name": "Today's the Day",
+        "url": "https://open.spotify.com/album/5ugUKIntUb435RWxwy3ksp"
+      },
+      "artists": [
+        {
+          "name": "Royal Blunder",
+          "url": "https://open.spotify.com/artist/6NxDMqnU1OdPgQhy3o3Gu2"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201981,
+      "name": "Today's the Day",
+      "url": "https://open.spotify.com/track/2kKvre1JHMqrifYhnY8jOj"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/1je3MKYL9fqv0leNc02zfr"
       },
@@ -11736,6 +11772,24 @@
       "duration_ms": 369257,
       "name": "Waltz of the Ghosts - New Mix 2026",
       "url": "https://open.spotify.com/track/7fGRrfantyLYbQu1BeebhP"
+    },
+    {
+      "album": {
+        "name": "Wanda's Leather Skirt",
+        "url": "https://open.spotify.com/album/0Qjnk0C9VfjNad08HrAvtU"
+      },
+      "artists": [
+        {
+          "name": "Echo Boulevard",
+          "url": "https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197111,
+      "name": "Wanda's Leather Skirt",
+      "url": "https://open.spotify.com/track/4zfg969Jfm9jFLdlw75TXx"
     },
     {
       "album": {

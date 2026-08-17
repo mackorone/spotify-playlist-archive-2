@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11247,
+  "num_followers": 11248,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACRshnv739a/Xh3qRlfk6O2",
+  "snapshot_id": "an+sAAAAAACU4rn8zrEsOy6fu2Bvi02r",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 114633,
-      "name": "Perfect Balance",
-      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Love",
         "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 206880,
       "name": "My Lady's Chords",
       "url": "https://open.spotify.com/track/24CF1RQhwSyyrH14v9vtFG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 114633,
+      "name": "Perfect Balance",
+      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le R\u00eave d'une note",
-        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 1354080,
-      "name": "Meditation 22",
-      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Love",
         "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 231773,
       "name": "Age of Aquarius",
       "url": "https://open.spotify.com/track/1uevF8gTF0bmeCThFqKB5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le R\u00eave d'une note",
+        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 1354080,
+      "name": "Meditation 22",
+      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
     },
     {
       "added_at": null,

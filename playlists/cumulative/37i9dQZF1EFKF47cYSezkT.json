@@ -1612,10 +1612,28 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 185346,
       "name": "Talk Of The Town",
       "url": "https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz"
+    },
+    {
+      "album": {
+        "name": "Jeans, Boys & Jesus",
+        "url": "https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/4um31MUXi9Ba2cwG9FjXMp"
     },
     {
       "album": {

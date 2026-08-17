@@ -2,9 +2,9 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: Draganov, Hajib
+> Les hits marocains du moment\. Cover: Stormy
 
-538 songs - 1 day 4 hr 33 min
+539 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 | 2023-06-04 | 2023-12-19 |
 | [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-05-18 | 2025-06-13 |
 | [CABARET](https://open.spotify.com/track/3XugphjZV5ITxjG06dQzbO) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CABARET](https://open.spotify.com/album/4jv4SeF1W29Sae15O0JC3P) | 3:16 | 2024-09-13 | 2024-10-23 |
-| [CAMEMBERT](https://open.spotify.com/track/088zj85nwV8AC7sDpPDhu9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:11 | 2026-05-28 |  |
+| [CAMEMBERT](https://open.spotify.com/track/088zj85nwV8AC7sDpPDhu9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:11 | 2026-05-28 | 2026-08-17 |
 | [Campeónes](https://open.spotify.com/track/7ECCF1vFZ97wnYukjbUYsO) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G), [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [ElMarocchino](https://open.spotify.com/album/252TA0tbVv9K773Z33o8W2) | 2:44 | 2022-06-27 | 2022-09-27 |
 | [Carabina](https://open.spotify.com/track/2fxWooJ4Mymjo0nVk2HqFo) | [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [Carabina](https://open.spotify.com/album/2jio9hp6RxAu5WKupaBZdV) | 3:03 | 2025-09-24 |  |
 | [Cariño](https://open.spotify.com/track/43WGG3jUSVGStwAByFIKkC) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Cariño](https://open.spotify.com/album/2mLtZR6hCt81DOYsiWkniJ) | 3:02 | 2021-12-25 | 2022-01-25 |
@@ -248,6 +248,7 @@
 | [Khssara](https://open.spotify.com/track/3XouPSvnWkkepjdbjyFW8i) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/1svd34TFBJ8ZfDFtuJZqUJ) | 2:32 | 2024-02-03 | 2024-04-19 |
 | [Kida](https://open.spotify.com/track/5kWDoxO6nZWPTaTEEXPcQW) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [Kida](https://open.spotify.com/album/3mEltufWAiHRCDI2WvplCK) | 3:15 | 2022-03-03 | 2022-04-12 |
 | [KIF KIF](https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KIF KIF](https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF) | 3:47 | 2023-07-22 | 2024-10-12 |
+| [KILOWAT](https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:44 | 2026-08-16 |  |
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2023-01-06 | 2023-02-25 |
 | [KIYA](https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [KIYA](https://open.spotify.com/album/2ifKpv86aGp7T5k5fxUmPW) | 3:18 | 2026-01-27 |  |
 | [Kolla Sa3a](https://open.spotify.com/track/1oQadPm2panJK4zXWmeqYG) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Kolla Sa3a](https://open.spotify.com/album/785SSEHwMU8CaP8qhR5UfV) | 2:31 | 2025-02-16 | 2025-04-02 |

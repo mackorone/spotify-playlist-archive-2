@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,629 songs - 10 day 9 hr 7 min
+4,631 songs - 10 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1101,6 +1101,7 @@
 | [Dominates The Wall](https://open.spotify.com/track/0jnYNKIWcNnDTPxngafl0h) | [Ric art](https://open.spotify.com/artist/0lcbVRdnBooIR3KjqwfNRe), [RR!!c,..](https://open.spotify.com/artist/7B6wiQehIFEiAWbH4Fwi39) | [Dominates The Wall](https://open.spotify.com/album/5kvY47dNW2AiqkVclxcZ7R) | 2:11 | 2025-06-05 |  |
 | [Don Deh A Road](https://open.spotify.com/track/33J5KroFkhgdetNgKRcJeq) | [Qraig Voicemail](https://open.spotify.com/artist/5ZJvCyMFWQMdEBlUtkIdMt) | [Don Deh A Road](https://open.spotify.com/album/2gveZvysZ7yucLWmHIMIip) | 2:24 | 2025-06-04 |  |
 | [Don't Give Up](https://open.spotify.com/track/54QiBT5ROTpOtg0yJPxpIv) | [Os Astronautas](https://open.spotify.com/artist/3abqf13NRm1hC93MQ583lI) | [Don't Give Up](https://open.spotify.com/album/33DVJwJNSulyJ1YoaiuAVf) | 2:40 | 2025-06-12 |  |
+| [DON'T LET YOU GO \- Special Version Live](https://open.spotify.com/track/17zT71yHtIr4hEGrLNcdno) | [GIACOMO CAMARDA](https://open.spotify.com/artist/0MhCaSAPRt64ircobpELfi) | [DON'T LET YOU GO \(Special Version Live\)](https://open.spotify.com/album/7kXFFaWb7ukg9VVgFkp08Q) | 2:19 | 2026-08-16 |  |
 | [Don't Look Back into the Sun](https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Don't Look Back into the Sun](https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI) | 3:00 | 2025-11-05 |  |
 | [Don't Make Me Feel](https://open.spotify.com/track/4nyEN26vOEZ5V03oTDOCJD) | [Lara Strieder](https://open.spotify.com/artist/4FNp6aWDqqigyul6I0Torj) | [My Feelings](https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku) | 2:40 | 2025-06-05 |  |
 | [don't you take it far too slow](https://open.spotify.com/track/0IHI9njHfpNnuCK4k5Piu7) | [decede](https://open.spotify.com/artist/4qEnQNYFL7DxFeAqYEoTcc) | [don't you take it far too slow](https://open.spotify.com/album/5WveWAsWPlNaJGXBpzch8u) | 4:09 | 2026-01-04 |  |
@@ -3297,7 +3298,7 @@
 | [RISCATTO](https://open.spotify.com/track/1DmMNq0VTcQ1pawg9ImfMK) | [LOLLO](https://open.spotify.com/artist/22Q9CasI1LBdGFUIPaQku6) | [RISCATTO](https://open.spotify.com/album/4GTWmuOh2XSaIrQplNctZa) | 2:50 | 2025-04-27 |  |
 | [Rise](https://open.spotify.com/track/3vv1RmRGvC324ppQj2mGu0) | [FLYMODE](https://open.spotify.com/artist/25ujYSkNS0XwgxSXNEeKOn) | [Rise](https://open.spotify.com/album/47rqF5qO8Os4HvIF8aGVNg) | 2:14 | 2025-07-25 |  |
 | [Rise Above](https://open.spotify.com/track/5FkWrayklJFcmbq4MdZ2C6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Powerful Energy Pop Electricity](https://open.spotify.com/album/5dMZ4odMNv3qx6UVBoDZ2e) | 2:14 | 2025-09-19 |  |
-| [Rise Above](https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Rise Above](https://open.spotify.com/album/4Nm3fCI7iK5YCHWZ8IMiP3) | 3:46 | 2025-10-21 |  |
+| [Rise Above](https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Rise Above](https://open.spotify.com/album/4Nm3fCI7iK5YCHWZ8IMiP3) | 3:46 | 2025-10-21 | 2026-08-17 |
 | [Rise Above \(another\)](https://open.spotify.com/track/5lEtO5wgAJH7djs0oCVRqj) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Powerful Energy Pop Electricity](https://open.spotify.com/album/5dMZ4odMNv3qx6UVBoDZ2e) | 2:30 | 2025-09-19 |  |
 | [Rise and Shatter](https://open.spotify.com/track/2yJCOGORsMYbn1ZYHH5Y2C) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Epic rock music](https://open.spotify.com/album/79c248en6LDJwweGZK1sn5) | 4:24 | 2025-09-10 |  |
 | [Rise and Shine](https://open.spotify.com/track/61sh2yjQjwThfT3m30JDYY) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 2:44 | 2025-09-19 |  |
@@ -3655,6 +3656,7 @@
 | [Sole di Carta \(another\)](https://open.spotify.com/track/7CMs69Y8bIrgLOAlaqwIVp) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 3:03 | 2025-09-15 |  |
 | [Sole d’Italia](https://open.spotify.com/track/1ciuQW6zfhaC5YnhJPt22p) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music](https://open.spotify.com/album/0P7EboV1NMbmK6iX5ALFyS) | 2:55 | 2025-09-18 |  |
 | [Sole d’Italia \(another\)](https://open.spotify.com/track/79po6HezkEmHXnKW31tzBr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music](https://open.spotify.com/album/0P7EboV1NMbmK6iX5ALFyS) | 1:54 | 2025-09-18 |  |
+| [Solitude](https://open.spotify.com/track/7gXg6Sf8me6GHEBiBcoOl5) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Solitude](https://open.spotify.com/album/2RoAIGWZrbvdBMqPC6WGhx) | 4:17 | 2026-08-16 |  |
 | [Solo Estoy Para Ti](https://open.spotify.com/track/6f54RpP1UrlAYwxRFmclB0) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Solo Estoy Para Ti](https://open.spotify.com/album/2H1PsCjskQvfHdA6uTohid) | 1:41 | 2026-02-13 |  |
 | [Solo Matriarch](https://open.spotify.com/track/4mTPAInXv433Lqt2vch85x) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:32 | 2026-04-13 |  |
 | [Solo Matriarch \(fomo mode\)](https://open.spotify.com/track/3wCAprvkSAlbwDv7Vruchg) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 3:11 | 2026-04-13 |  |

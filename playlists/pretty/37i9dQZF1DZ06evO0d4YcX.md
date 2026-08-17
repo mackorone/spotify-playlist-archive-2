@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 
 > This is Amber Mark\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,592 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,596 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 23 | [All The Work](https://open.spotify.com/track/0otNHRpPXLB3IEscMNpooH) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:49 |
 | 24 | [Stop Calling Me](https://open.spotify.com/track/6SXLH5379TcMvuWp1RVsnt) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:31 |
 | 25 | [Worth It](https://open.spotify.com/track/7AQRpyFBYQqtWfkmlqkw4l) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 4:18 |
-| 26 | [JUMP \(feat\. Steve Vai & Travis Barker\) \- PEDRO SAMPAIO Remix / Coca\-Cola Anthem for the FIFA World Cup 26™](https://open.spotify.com/track/2t2IgVB1PN54dXzIq0k3EW) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [JUMP \(feat\. Steve Vai & Travis Barker\) \[PEDRO SAMPAIO Remix / Coca\-Cola Anthem for the FIFA World Cup 26™\]](https://open.spotify.com/album/0w12oT9jXYqaOUofQByQsg) | 2:39 |
-| 27 | [Way Back](https://open.spotify.com/track/15ahKSfjvqH5hfsnjyoASJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:28 |
+| 26 | [Way Back](https://open.spotify.com/track/15ahKSfjvqH5hfsnjyoASJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:28 |
+| 27 | [JUMP \(feat\. Steve Vai & Travis Barker\) \- PEDRO SAMPAIO Remix / Coca\-Cola Anthem for the FIFA World Cup 26™](https://open.spotify.com/track/2t2IgVB1PN54dXzIq0k3EW) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [JUMP \(feat\. Steve Vai & Travis Barker\) \[PEDRO SAMPAIO Remix / Coca\-Cola Anthem for the FIFA World Cup 26™\]](https://open.spotify.com/album/0w12oT9jXYqaOUofQByQsg) | 2:39 |
 | 28 | [A Little More](https://open.spotify.com/track/5VvMjagk1oBlUG1yQ9lXKJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:13 |
-| 29 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
-| 30 | [Like A Hunger](https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA) | [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Like A Hunger](https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3) | 4:32 |
+| 29 | [Like A Hunger](https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA) | [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Like A Hunger](https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3) | 4:32 |
+| 30 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
 | 31 | [Monsoon](https://open.spotify.com/track/04G8U1rkNbiiLNsWo2doW2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Mia Mark](https://open.spotify.com/artist/6p0LCYIWaoyyUGdwra3DF1) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 4:37 |
 | 32 | [City Starlight](https://open.spotify.com/track/6MgnX2FYtJCP61pjl8tj0D) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:31 |
 | 33 | [Put You On](https://open.spotify.com/track/59nJ265OcQ7Rrms09xk8LO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Put You On](https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 49 | [GODDESS REIGN](https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:29 |
 | 50 | [Regret](https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:23 |
 
-Snapshot ID: `an5agAAAAAClOEA6hmyX25NimJWeiSvY`
+Snapshot ID: `an+sAAAAAADUymFQbLbr+ZAHt+KPgiXX`

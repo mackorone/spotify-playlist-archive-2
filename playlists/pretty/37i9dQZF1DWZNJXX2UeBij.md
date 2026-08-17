@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 
 > Bollywood songs that ruled hearts in the Y2K decade\. Cover \- Om Shanti Om
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,855,679 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,856,042 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

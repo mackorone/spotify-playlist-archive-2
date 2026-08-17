@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Luis Fonsi, Anuel AA, benny blanco x Mora x Ovy On The Drums, Al Safir x Omar Montes y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,426 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,442 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

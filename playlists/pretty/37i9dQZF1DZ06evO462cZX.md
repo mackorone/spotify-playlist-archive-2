@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,700 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,706 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 26 | [Camaron Pelao](https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Camaron Pelao](https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF) | 3:30 |
 | 27 | [Derecha la Flecha](https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Derecha la Flecha](https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp) | 3:20 |
 | 28 | [SAKUDELO](https://open.spotify.com/track/2iGrZCkaOdmRgB4AtuGXU6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 2:36 |
-| 29 | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv) | 2:45 |
-| 30 | [Belicosa](https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Belicosa](https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD) | 2:58 |
-| 31 | [Deli](https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 3:05 |
+| 29 | [Belicosa](https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Belicosa](https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD) | 2:58 |
+| 30 | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv) | 2:45 |
+| 31 | [Bootie in Your Face \- No Rock Drop](https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Bootie in Your Face \(No Rock Drop\)](https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9) | 3:41 |
 | 32 | [ZAPATEADO ELECTRÓNICO](https://open.spotify.com/track/1WUTvWkKnI3DGiovrL4lxD) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 3:43 |
-| 33 | [Bootie in Your Face \- No Rock Drop](https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Bootie in Your Face \(No Rock Drop\)](https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9) | 3:41 |
+| 33 | [Deli](https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 3:05 |
 | 34 | [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 |
 | 35 | [Tranki](https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Tranki](https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh) | 4:16 |
 | 36 | [EL TOMATE](https://open.spotify.com/track/7v9AJ3O6wedDJ4zSnlTQSB) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [Dime](https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:49 |
 | 50 | [When The Funk Drops](https://open.spotify.com/track/6qPCcyAHEEvPp1QDCcMpPn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Uberjack'd](https://open.spotify.com/artist/0UyHJ2JEmDdl7xpVnF0r3H), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [When The Funk Drops](https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl) | 3:58 |
 
-Snapshot ID: `an5agAAAAADzXnyenW4aH5+3fkwXcWcw`
+Snapshot ID: `an+sAAAAAAA2BQsWx87VuRQ8u1KnV9+1`

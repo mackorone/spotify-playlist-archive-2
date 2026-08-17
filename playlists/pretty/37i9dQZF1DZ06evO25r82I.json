@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 50581,
+  "num_followers": 50601,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAB9+6pLuBGOaC6srHQD7gcH",
+  "snapshot_id": "an+sAAAAAAAxmxAdVx0Gsaxyvh1flTRD",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chase This Light",
-        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/5xn1j6DBs769Kn3BvGQWDA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something Loud",
         "url": "https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 196618,
       "name": "Something Loud",
       "url": "https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/5xn1j6DBs769Kn3BvGQWDA"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 246560,
-      "name": "For Me This Is Heaven",
-      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
+      "duration_ms": 160560,
+      "name": "Your New Aesthetic",
+      "url": "https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu"
     },
     {
       "added_at": null,
@@ -440,25 +440,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Your New Aesthetic",
-      "url": "https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "All The Way (Stay)",
-      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
+      "duration_ms": 246560,
+      "name": "For Me This Is Heaven",
+      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 464200,
       "name": "Disintegration",
       "url": "https://open.spotify.com/track/7jqlpEgPLAYpj7ZfESA294"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "All The Way (Stay)",
+      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
+      "duration_ms": 154666,
+      "name": "What Would I Say To You Now",
+      "url": "https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static Prevails (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
       },
       "artists": [
         {
@@ -760,25 +760,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 154666,
-      "name": "What Would I Say To You Now",
-      "url": "https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 318382,
-      "name": "You With Me",
-      "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
+      "duration_ms": 187800,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 250320,
       "name": "(Splash) Turn Twist",
       "url": "https://open.spotify.com/track/1gTxd0qlKXntIjENSRHofF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 318382,
+      "name": "You With Me",
+      "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,097 songs - 4 day 21 hr 26 min
+2,100 songs - 4 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,7 +688,7 @@
 | [GENERAL SCALES](https://open.spotify.com/track/1ax7t9TDxt4SkY846zooFC) | [Terrordactyl](https://open.spotify.com/artist/1HyeCpiQo97DkXpSjHBMW0) | [TRIASSIC TERROR](https://open.spotify.com/album/3QV8gQLzI1pEYvz4AyQska) | 2:05 | 2026-03-16 | 2026-04-17 |
 | [GERONIMO!](https://open.spotify.com/track/4Hu0khZpnnXjLIJL4fXoh2) | [Skelly!](https://open.spotify.com/artist/3KLs2izL6KM67D3tfilxFH) | [GERONIMO!](https://open.spotify.com/album/2hUWXVskUloqtGlM6qp3OL) | 2:18 | 2026-04-16 | 2026-05-18 |
 | [Get A Rest](https://open.spotify.com/track/0vwFrQW6eUCiHkBkqR70S6) | [Bossanova Frankenstein](https://open.spotify.com/artist/2yQ0J1WgbctS10HDt8YJHt) | [Heavy Relic](https://open.spotify.com/album/31ElNEDESrDVscJ6ybOoGK) | 3:21 | 2026-03-30 | 2026-05-01 |
-| [Get It Right](https://open.spotify.com/track/4GLtHUo06IzyqC3TBTMur1) | [Alex Hellcat](https://open.spotify.com/artist/0Ucc4c5tJDgp23eZyrwlei) | [Get It Right](https://open.spotify.com/album/4KzqqjQwdkqQofJm1RS7is) | 2:48 | 2026-05-20 | 2026-06-11 |
+| [Get It Right](https://open.spotify.com/track/4GLtHUo06IzyqC3TBTMur1) | [Alex Hellcat](https://open.spotify.com/artist/0Ucc4c5tJDgp23eZyrwlei) | [Get It Right](https://open.spotify.com/album/4KzqqjQwdkqQofJm1RS7is) | 2:48 | 2026-05-20 |  |
 | [Get Motivated](https://open.spotify.com/track/3kravhCwMvloxttZIygnMo) | [Deaf Romero](https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a) | [Get Motivated](https://open.spotify.com/album/4Zkqq0Dwp7SXSFx23VdWpT) | 3:52 | 2026-04-22 | 2026-07-31 |
 | [Get Motivated](https://open.spotify.com/track/3mwZriX0HfiqRUXQ518FNO) | [Deaf Romero](https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a) | [Get Motivated](https://open.spotify.com/album/3cuGOU96eQvKBCgYDZzpVQ) | 3:52 | 2026-07-30 |  |
 | [Get off of Me](https://open.spotify.com/track/7tSfhvC4tNAezWhJHnCrWp) | [All Coasted](https://open.spotify.com/artist/5v3VyJ81s4oLEqTPnHEtD6) | [Get off of Me](https://open.spotify.com/album/79uzQzdrwRWmYVe2noqyAC) | 2:27 | 2026-04-16 | 2026-05-18 |
@@ -842,6 +842,7 @@
 | [I Feel You](https://open.spotify.com/track/4JAfiXyqwnC7w8dx2K5drd) | [ARTFK](https://open.spotify.com/artist/3n89t3VgPLxwEiHeB8yRIO) | [I Feel You](https://open.spotify.com/album/2rCFeCl5GMh2f9t7KcAbOV) | 4:34 | 2025-12-19 | 2026-01-15 |
 | [I Found You](https://open.spotify.com/track/7xxNwwgRCzgTnBmYxiF2ab) | [Eden Roze](https://open.spotify.com/artist/4GghHLohPHrzB04jas3TIr) | [I Found You](https://open.spotify.com/album/5DnNGtxQXpvv4Hr6QOkCeL) | 3:12 | 2026-08-12 |  |
 | [I Found You](https://open.spotify.com/track/0464ymz6EOlW9e55NUzQCU) | [Mack Sampson](https://open.spotify.com/artist/1daNtPPG7aGgdSfpEtsBxj) | [I Found You](https://open.spotify.com/album/4rTba1ppriPUGEnQu7usSE) | 2:44 | 2026-01-15 | 2026-02-03 |
+| [I Got It Right](https://open.spotify.com/track/6A0drWxC6rSShogDB8voIo) | [Short Dogs Grow](https://open.spotify.com/artist/60ImQE9woiQIWKle6AdhbS) | [Self\-Entitled](https://open.spotify.com/album/19Tkp4IzY8DCpAtDWNzCjf) | 2:57 | 2026-08-16 |  |
 | [I Hate My Boss](https://open.spotify.com/track/0ZJV1djLMg5sSPzRAEjyPB) | [Jonathan Panetta](https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2), [javy kane](https://open.spotify.com/artist/37kqFI7nNKymyF7y8i6xff) | [I Hate My Boss](https://open.spotify.com/album/1PNI9QATW58PVTv8S0wFg7) | 3:00 | 2025-12-11 | 2026-01-06 |
 | [I Heard You Had a Quiet Night](https://open.spotify.com/track/1H8oylSDltIDg6LsEEXYyy) | [Enjoy Less](https://open.spotify.com/artist/4ghXiXTuhVBizmDdrR7W5x) | [I Heard You Had a Quiet Night](https://open.spotify.com/album/68BN5cBQoAOPZRRjaxlSSv) | 4:00 | 2026-04-25 | 2026-05-22 |
 | [I look more like Jesus than Jesus himself](https://open.spotify.com/track/3FTnUDnw3IXXEW3gRkUUk1) | [tellmeboutyourmom](https://open.spotify.com/artist/7KhaGvc7XahniHlArRy30r) | [Projector 4/6](https://open.spotify.com/album/2PYaka3cG2R27tih6tzDtm) | 2:21 | 2026-07-09 | 2026-08-10 |
@@ -1271,6 +1272,7 @@
 | [Off\-Balance](https://open.spotify.com/track/7aGnonNso2XkqqtLHoUskP) | [midwest ten](https://open.spotify.com/artist/7uitz62Nf1CjLB2mLg8P6S) | [Off\-Balance](https://open.spotify.com/album/0lw6nc5UyTRXBk32Ypb2Rg) | 2:28 | 2026-06-18 | 2026-07-18 |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-10 | 2026-01-06 |
 | [OMDs](https://open.spotify.com/track/7g9ydOiV6tTccXO3GE1zqJ) | [Lop3z](https://open.spotify.com/artist/6TEycOYjOevjKnp5WN1UjI) | [OMDs](https://open.spotify.com/album/1Tq2wNcWEJOvKbOBbg1SpH) | 2:44 | 2026-07-28 |  |
+| [On My Mind](https://open.spotify.com/track/7I95mM1PLUrBxGfavggQKj) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z) | [On My Mind](https://open.spotify.com/album/4HsKRVxrVL1a3BRpryNzg0) | 3:39 | 2026-08-16 |  |
 | [On My Pillow](https://open.spotify.com/track/10m0O7p7kyyHFnHNkIylxc) | [Coach House](https://open.spotify.com/artist/2kscwfnOwtsutSIX8VcGzg) | [Suggestion of the Sea](https://open.spotify.com/album/4LsJwPkCYa93uLSziNl2Pz) | 2:16 | 2026-02-25 | 2026-03-17 |
 | [on the mend](https://open.spotify.com/track/1dIHISHteCYUFGhEj6bDAP) | [poor rich](https://open.spotify.com/artist/787dA1tXr4OhNH6pQgsoKi) | [on the mend](https://open.spotify.com/album/2V11BbLkEJHFHPhVwc0BL5) | 3:44 | 2026-02-23 | 2026-03-27 |
 | [On The Run](https://open.spotify.com/track/182G73eUtTppSaqS7X9Tv2) | [XXX Smut](https://open.spotify.com/artist/1eusvoPqnUbdL0nNgQ4hgv), [Todd Hogan](https://open.spotify.com/artist/11t6B3gdxHdRCS6kUHH7Mf) | [Fuck Milk Got Beer](https://open.spotify.com/album/4w00V58UjpWPN7WtByA5Ea) | 2:23 | 2025-11-29 | 2025-12-24 |
@@ -1633,6 +1635,7 @@
 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 | 2025-12-15 | 2026-01-15 |
 | [Split My Head](https://open.spotify.com/track/5mo6uSX9XyT0lPuJbwa1gi) | [Off Wing](https://open.spotify.com/artist/0kjIZRyDptIqkPCvruV4Ew) | [Split My Head](https://open.spotify.com/album/5esLfxa6lMuXNEC5Vp9Sv0) | 2:23 | 2026-03-05 | 2026-04-06 |
 | [Spooky bass](https://open.spotify.com/track/35WsAwdMlQD1S9ySFGfd4C) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 1:31 | 2025-08-03 |  |
+| [SPORTS CAR](https://open.spotify.com/track/7Illb7mvXtkMHfd20Px8D3) | [Ben Jarvis](https://open.spotify.com/artist/47L0IXN10HwDA8hJy5vc3d) | [SPORTS CAR](https://open.spotify.com/album/2H2paMeno2qRxOGx3TBZb6) | 2:44 | 2026-08-16 |  |
 | [Spring Is Ours](https://open.spotify.com/track/1C0VVpowQLC7FyTHh9wJpW) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Spring Is Ours](https://open.spotify.com/album/5qtk1Bb4EVSExQEEZrGYjh) | 3:18 | 2026-05-29 | 2026-07-04 |
 | [St Patrick's Day](https://open.spotify.com/track/6irv9xXRLdp7TcBN9dm7tg) | [Self Run Will](https://open.spotify.com/artist/61cCvSNvulFrIZ0vATYK7j) | [St Patrick's Day](https://open.spotify.com/album/2SVYi5z0fE8fs5TNN47qnY) | 2:42 | 2026-03-14 | 2026-04-15 |
 | [Stable](https://open.spotify.com/track/0CRTqZix3nBo3vSra6O3os) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Stable](https://open.spotify.com/album/67rLBbv9JEBAdydHQxUJlP) | 3:45 | 2025-11-19 | 2025-12-10 |

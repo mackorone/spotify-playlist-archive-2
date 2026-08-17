@@ -4550,7 +4550,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -5670,7 +5670,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -6228,7 +6228,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 201000,
       "name": "Bezdarbnieks",
       "url": "https://open.spotify.com/track/3LpgRnosHNXRpLRrUn0ua2"
@@ -7630,7 +7630,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 212689,
       "name": "Br\u012bni\u0161\u0137\u012bga diena",
       "url": "https://open.spotify.com/track/33M3gEXNLGoDzyvDHxWRfQ"
@@ -11396,7 +11396,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 196946,
       "name": "Debesjums",
       "url": "https://open.spotify.com/track/4TLLBNN9i8bwbmQEihTKWp"
@@ -12459,6 +12459,24 @@
     },
     {
       "album": {
+        "name": "Laiks",
+        "url": "https://open.spotify.com/album/2fK6LjryDgpLJ8xGnUzzVh"
+      },
+      "artists": [
+        {
+          "name": "Dons",
+          "url": "https://open.spotify.com/artist/3DjJiiOy3bJ9JFn81mxbWS"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184554,
+      "name": "Divat\u0101",
+      "url": "https://open.spotify.com/track/1Tpb7ho5AvvWCovERQuRku"
+    },
+    {
+      "album": {
         "name": "Divat\u0101",
         "url": "https://open.spotify.com/album/2C6WdgBxV3Y64J0n5BSyCe"
       },
@@ -13262,7 +13280,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -14152,7 +14170,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 217440,
       "name": "dz\u012bve t\u0101da",
       "url": "https://open.spotify.com/track/1N2FoJeaXf4bXeHf6NjKlx"
@@ -26354,7 +26372,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Kur ir t\u0101 j\u016bra?",
       "url": "https://open.spotify.com/track/2ezQhiqDnJYRQNpFVKIvdy"
@@ -27160,7 +27178,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 194906,
       "name": "Laternas",
       "url": "https://open.spotify.com/track/3YUpElHV3qtXmraZXkbeaB"
@@ -27222,7 +27240,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 252000,
       "name": "Laup\u012b\u0161ana",
       "url": "https://open.spotify.com/track/4T11T9Xug937CWy5esFT7N"
@@ -29328,7 +29346,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -35796,7 +35814,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 265500,
       "name": "Nomaina R\u012bti",
       "url": "https://open.spotify.com/track/2rsAcD6CBAWL0aPFaDj48W"
@@ -37424,7 +37442,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 227266,
       "name": "Outside (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
@@ -37810,7 +37828,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 239729,
       "name": "Pa Celam",
       "url": "https://open.spotify.com/track/2k3ZavMtTvGSPiImx1cDxE"
@@ -41104,7 +41122,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -43892,7 +43910,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 210810,
       "name": "Salauzta Sirds (feat. Ozols)",
       "url": "https://open.spotify.com/track/4KV9h3YlxjISNYPKw8vpkw"
@@ -45036,7 +45054,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
@@ -45814,7 +45832,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 189843,
       "name": "Siltas vasaras \u0113n\u0101",
       "url": "https://open.spotify.com/track/5KTvP7vKLc09rT3fhQDMzz"
@@ -50482,7 +50500,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 193034,
       "name": "Tavs piesk\u0101riens",
       "url": "https://open.spotify.com/track/0K6GuYHnKQnYJwbHUSNQcw"
@@ -56262,7 +56280,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 264545,
       "name": "V\u0113lvienreiz",
       "url": "https://open.spotify.com/track/5DzO7UTlmA6O6J0GLsTxGy"
@@ -56986,7 +57004,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/1zv3WFUbZ5vPxFq9I2jAU1"

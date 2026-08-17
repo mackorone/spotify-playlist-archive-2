@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55891,
+  "num_followers": 55904,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAhAOBPCrsVrzdi42AxNcCB",
+  "snapshot_id": "an+sAAAAAABBPXoQnTDdYExDJBPJkMTk",
   "tracks": [
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 190133,
-      "name": "De Cristal O De Papel",
-      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
+      "duration_ms": 198720,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eran De Azucar Sus Labios (Version Banda)",
-        "url": "https://open.spotify.com/album/5QRqe9qEXaIW5gBHz9HlEC"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 182688,
-      "name": "Eran De Azucar Sus Labios (Version Banda)",
-      "url": "https://open.spotify.com/track/7jsGsunLEK73UPhdaMssYV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eran De Azucar Sus Labios (Version Banda)",
+        "url": "https://open.spotify.com/album/5QRqe9qEXaIW5gBHz9HlEC"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 182688,
+      "name": "Eran De Azucar Sus Labios (Version Banda)",
+      "url": "https://open.spotify.com/track/7jsGsunLEK73UPhdaMssYV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Va A Gustar",
         "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
       },
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 198720,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc"
+      "duration_ms": 190133,
+      "name": "De Cristal O De Papel",
+      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
     },
     {
       "added_at": null,

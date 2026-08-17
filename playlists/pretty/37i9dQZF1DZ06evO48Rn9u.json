@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 156833,
+  "num_followers": 156855,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAC+4tov1RRgNl/6mbtiljaX",
+  "snapshot_id": "an+sAAAAAADPC0Z/TZhG3pi501YsT0IB",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 190973,
-      "name": "Giver / Taker",
-      "url": "https://open.spotify.com/track/7aWAahCNnOyF1yP547S9fv"
+      "duration_ms": 177293,
+      "name": "The Architect",
+      "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
       "duration_ms": 241600,
       "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
       "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apologize + See You Again (Acoustic)",
-        "url": "https://open.spotify.com/album/74OL4hEPYhlA7k8iWOlcxF"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "Apologize - Acoustic Version",
-      "url": "https://open.spotify.com/track/3NSdgXx0p5mcQTjcs50n9C"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apologize + See You Again (Acoustic)",
+        "url": "https://open.spotify.com/album/74OL4hEPYhlA7k8iWOlcxF"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "Apologize - Acoustic Version",
+      "url": "https://open.spotify.com/track/3NSdgXx0p5mcQTjcs50n9C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 177293,
-      "name": "The Architect",
-      "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
+      "duration_ms": 190973,
+      "name": "Giver / Taker",
+      "url": "https://open.spotify.com/track/7aWAahCNnOyF1yP547S9fv"
     },
     {
       "added_at": null,
@@ -679,74 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "justified",
-      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost In Translation",
-        "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 196197,
-      "name": "Lost In Translation",
-      "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -835,6 +767,74 @@
       "duration_ms": 95746,
       "name": "Okie From Muskogee - Live",
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "justified",
+      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 196197,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
     },
     {
       "added_at": null,

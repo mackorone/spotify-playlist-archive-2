@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58225,
+  "num_followers": 58226,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAC2NNAN04xl6hHBPr8DOiRh",
+  "snapshot_id": "an+sAAAAAADEzA3jbVfuIS8KRm0uwuu7",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Ser\u00eda Un Placer",
-      "url": "https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 262720,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Ser\u00eda Un Placer",
+      "url": "https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN"
     },
     {
       "added_at": null,
@@ -491,58 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alzypher Alzada x Rich Vagos",
-        "url": "https://open.spotify.com/album/31SzZE3MAZdYuGwv9gBkLt"
-      },
-      "artists": [
-        {
-          "name": "Alzada",
-          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
-        },
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        }
-      ],
-      "duration_ms": 396705,
-      "name": "Alzypher Alzada x Rich Vagos",
-      "url": "https://open.spotify.com/track/71EefoxxHKdjSQ33bOoLSN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fobia",
         "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
       },
@@ -591,6 +539,58 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alzypher Alzada x Rich Vagos",
+        "url": "https://open.spotify.com/album/31SzZE3MAZdYuGwv9gBkLt"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 396705,
+      "name": "Alzypher Alzada x Rich Vagos",
+      "url": "https://open.spotify.com/track/71EefoxxHKdjSQ33bOoLSN"
     },
     {
       "added_at": null,
@@ -687,30 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Junta",
-        "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 174289,
-      "name": "Mala Junta",
-      "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alzypher Vol. 1",
         "url": "https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 288000,
       "name": "Alzypher Vol. 1",
       "url": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mala Junta",
+        "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 174289,
+      "name": "Mala Junta",
+      "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
     },
     {
       "added_at": null,
@@ -883,34 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Juanos",
-        "url": "https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "La Bruja en el Beat",
-          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Los Juanos",
-      "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -971,6 +943,34 @@
       "duration_ms": 236800,
       "name": "Compas X Vida",
       "url": "https://open.spotify.com/track/6UU8pebY7jf2F6n52bqnui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Juanos",
+        "url": "https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "La Bruja en el Beat",
+          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Los Juanos",
+      "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
     },
     {
       "added_at": null,

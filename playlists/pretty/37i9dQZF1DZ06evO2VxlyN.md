@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2VxlyN.md) - [plain]
 
 > This is Bella Kay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,939 likes - 17 songs - 54 min 6 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,965 likes - 17 songs - 54 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2VxlyN.md) - [plain]
 | 16 | [georgia](https://open.spotify.com/track/58h1pJQkym9CRAt5Ubc4tG) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:54 |
 | 17 | [karaoke](https://open.spotify.com/track/2iLaE22r3gShJyFfJ8Zzbc) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:45 |
 
-Snapshot ID: `an5agAAAAAAe4UjgnFo7j02lK5vYxfc0`
+Snapshot ID: `an+sAAAAAABfNW/vxqMiSBwDY2UEJdEq`

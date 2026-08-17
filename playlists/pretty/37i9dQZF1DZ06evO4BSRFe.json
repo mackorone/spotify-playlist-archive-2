@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 70617,
+  "num_followers": 70628,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACRzO0ImMVYERppH3TVW31A",
+  "snapshot_id": "an+sAAAAAAAFZo8YKE+1NEr3e+n0IVo8",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi chica ideal (Lo B\u00e1sico)",
-        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 154546,
-      "name": "Mi chica ideal",
-      "url": "https://open.spotify.com/track/34JErr9kKYsVRoqNlXDqVT"
+      "duration_ms": 185146,
+      "name": "No soy monedita de oro",
+      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
-        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+        "name": "Mi chica ideal (Lo B\u00e1sico)",
+        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 185146,
-      "name": "No soy monedita de oro",
-      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
+      "duration_ms": 154546,
+      "name": "Mi chica ideal",
+      "url": "https://open.spotify.com/track/34JErr9kKYsVRoqNlXDqVT"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi chica ideal (Lo B\u00e1sico)",
-        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Te lo debo a ti",
-      "url": "https://open.spotify.com/track/24RmszriFqvujOsycO1NID"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 155400,
       "name": "Y la quiere Paco",
       "url": "https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi chica ideal (Lo B\u00e1sico)",
+        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Te lo debo a ti",
+      "url": "https://open.spotify.com/track/24RmszriFqvujOsycO1NID"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi chica ideal (Lo B\u00e1sico)",
-        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Tu otro dios - Tu dios de poder",
-      "url": "https://open.spotify.com/track/0kOxeSLejNmxpuPEcjbRaa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 Bandazos de Machos (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 158080,
       "name": "El viejo joven",
       "url": "https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi chica ideal (Lo B\u00e1sico)",
+        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Tu otro dios - Tu dios de poder",
+      "url": "https://open.spotify.com/track/0kOxeSLejNmxpuPEcjbRaa"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra de machos",
-        "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Se lo dejo a Dios",
-      "url": "https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los machos tambi\u00e9n lloran",
         "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 148120,
       "name": "Los machos tambi\u00e9n lloran",
       "url": "https://open.spotify.com/track/2nBl6V42VMmSKV9kZ7zWWY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palabra de machos",
+        "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Se lo dejo a Dios",
+      "url": "https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs"
     },
     {
       "added_at": null,

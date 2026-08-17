@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 239122,
+  "num_followers": 239156,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABxkCWTv6UKjnoMgzy41bcJ",
+  "snapshot_id": "an+sAAAAAACqHlw9nwguiOkSQci05i8l",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romanticas",
-        "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
+        "name": "Yo Me Quiero Mas",
+        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 207804,
-      "name": "Prohibida",
-      "url": "https://open.spotify.com/track/5eTZAT5QRihrI2EPmm7dXb"
+      "duration_ms": 190129,
+      "name": "Yo Me Quiero Mas",
+      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Me Quiero Mas",
-        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
+        "name": "Romanticas",
+        "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 190129,
-      "name": "Yo Me Quiero Mas",
-      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
+      "duration_ms": 207804,
+      "name": "Prohibida",
+      "url": "https://open.spotify.com/track/5eTZAT5QRihrI2EPmm7dXb"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Quitaron la Vida a mi Padre",
-        "url": "https://open.spotify.com/album/4YA2RajdZVcFnrg2VQykF7"
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 162661,
-      "name": "Le Quitaron la Vida a mi Padre",
-      "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
+      "duration_ms": 117560,
+      "name": "Nom\u00e1s Por Ser Sinaloense",
+      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+        "name": "Le Quitaron la Vida a mi Padre",
+        "url": "https://open.spotify.com/album/4YA2RajdZVcFnrg2VQykF7"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 117560,
-      "name": "Nom\u00e1s Por Ser Sinaloense",
-      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
+      "duration_ms": 162661,
+      "name": "Le Quitaron la Vida a mi Padre",
+      "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 182212,
+      "name": "Fuga Pa Maza",
+      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Romanticas",
         "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 207517,
       "name": "Como Tu (feat. Kenia Rios)",
       "url": "https://open.spotify.com/track/69WJE0HTS9acF3WOq5q4gF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 182212,
-      "name": "Fuga Pa Maza",
-      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "El Movimiento Alterado",
-          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Carteles Unidos",
-      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 180436,
       "name": "Le Pas\u00e9 a la Plebe",
       "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Carteles Unidos",
+      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
     },
     {
       "added_at": null,

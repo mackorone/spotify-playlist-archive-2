@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98447,
+  "num_followers": 98456,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABxjWXjuUd0eMCEo9X3v3OI",
+  "snapshot_id": "an+sAAAAAADh8bttgcir+l1ay5ZIN4vp",
   "tracks": [
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 260022,
-      "name": "A Ti",
-      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
+      "duration_ms": 380342,
+      "name": "Ex\u00e1ltate",
+      "url": "https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 380342,
-      "name": "Ex\u00e1ltate",
-      "url": "https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj"
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proyecto AA",
-        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 165147,
-      "name": "Porque T\u00fa Eres bueno",
-      "url": "https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dios de Pactos",
         "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 651080,
       "name": "Dios de Pactos",
       "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proyecto AA",
+        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 165147,
+      "name": "Porque T\u00fa Eres bueno",
+      "url": "https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sana Nuestra Tierra (En Vivo)",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 358086,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 298942,
       "name": "Escucharte Hablar / Dios Ha Sido Bueno",
       "url": "https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sana Nuestra Tierra (En Vivo)",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 358086,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Tierra (En Vivo)",
         "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 412708,
       "name": "S\u00e1nanos",
       "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 93826,
+  "num_followers": 93829,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABrpBYNldoVeh26w3DIif1t",
+  "snapshot_id": "an+sAAAAAAAzy4qXD/Dzi5SGuT811HoE",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 216146,
-      "name": "72 Hookers",
-      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
+      "duration_ms": 122746,
+      "name": "Cell Out",
+      "url": "https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 160706,
-      "name": "The Brews",
-      "url": "https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 160706,
+      "name": "The Brews",
+      "url": "https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Self Entitled",
         "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
       },
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 122746,
-      "name": "Cell Out",
-      "url": "https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb"
+      "duration_ms": 216146,
+      "name": "72 Hookers",
+      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 Years Of Fuckin' Up",
-        "url": "https://open.spotify.com/album/40GqQCxBnK9IUqLgNNrAsC"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 215038,
-      "name": "40 Years Of Fuckin' Up",
-      "url": "https://open.spotify.com/track/3RHysDr2ioGYFKJUh5waWE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 140333,
       "name": "Bottles To The Ground",
       "url": "https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 Years Of Fuckin' Up",
+        "url": "https://open.spotify.com/album/40GqQCxBnK9IUqLgNNrAsC"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 215038,
+      "name": "40 Years Of Fuckin' Up",
+      "url": "https://open.spotify.com/track/3RHysDr2ioGYFKJUh5waWE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,058 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,066 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 45 | [El Polvorete](https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 2:11 |
 | 46 | [La Caída de un Monarca](https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [25 Corridos Explosivos](https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM) | 3:07 |
 | 47 | [Me Caíste del Cielo](https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:36 |
-| 48 | [Lo Aprendí De Ti](https://open.spotify.com/track/5WkUprNDEOrPMYTCpzzuir) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Lo Aprendí De Ti](https://open.spotify.com/album/07sitgYs86t5ls9loG6N9R) | 2:57 |
+| 48 | [Día De Suerte](https://open.spotify.com/track/1QCbkfmLBKZp1BnwKGF1vM) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Día De Suerte](https://open.spotify.com/album/733jqZeytcCzcVvzQacnZS) | 2:30 |
 | 49 | [La Feria de San Marcos](https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 2:46 |
 | 50 | [Vida Prestada](https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 2:54 |
 
-Snapshot ID: `an5agAAAAABIWhBMfGV/Z8+cR6NiKEWu`
+Snapshot ID: `an+sAAAAAADt9rSoRnJur4UAMBY83hQJ`

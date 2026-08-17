@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Senna kiest 20 hits voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,949 likes - 90 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,979 likes - 90 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

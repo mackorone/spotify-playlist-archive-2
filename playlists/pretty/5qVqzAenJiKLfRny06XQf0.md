@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 
 > Help the band set\-up and get ready for the best live performances from your favorite artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,895 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,894 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 | 20 | [Next To Me \- Live From Spotify NYC, USA/2012](https://open.spotify.com/track/4Y1ZvAbetcpZsmedL9uhmR) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Spotify Sessions \- Live From Spotify NYC, USA/2012](https://open.spotify.com/album/23NSEnpwoyErSZ3FXXPx4N) | 3:40 |
 | 21 | [Otherside Remix \[Live\]](https://open.spotify.com/track/6utFILEuJQrqa9GO5o3sRx) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC) | [Otherside Remix \[Live\]](https://open.spotify.com/album/3tajPqQm9zfdA6gIHAV5zV) | 6:10 |
 | 22 | [My Kind Of Love \- Live From Spotify NYC, USA/2012](https://open.spotify.com/track/0HL5quLMoSE3uWA12wnhsY) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Spotify Sessions \- Live From Spotify NYC, USA/2012](https://open.spotify.com/album/23NSEnpwoyErSZ3FXXPx4N) | 3:59 |
-| 23 | [Fireflies \- Live From Spotify NYC](https://open.spotify.com/track/1KqpIQGNINpG0hDdbB9Pif) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Spotify Sessions](https://open.spotify.com/album/4CBXCmYz1Rc5MAN6aAwjZy) | 4:53 |
+| 23 | [Fireflies \- Live From Spotify NYC](https://open.spotify.com/track/1KqpIQGNINpG0hDdbB9Pif) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Sandy Smallens](https://open.spotify.com/artist/7JIdXaCRI1OTNjszIjMYTr) | [Spotify Sessions](https://open.spotify.com/album/4CBXCmYz1Rc5MAN6aAwjZy) | 4:53 |
 | 24 | [Fall \- Live](https://open.spotify.com/track/3OXesBdYcfKqUUgCzNH5Lg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/1RMfz6rbIyrQYChfcCoiJ4) | 3:40 |
 | 25 | [Amen \- Live From Spotify NYC](https://open.spotify.com/track/63GnRsA54dnZ49zNrLdjAS) | [Edens Edge](https://open.spotify.com/artist/6KAwb5D0KanI575XxOucMt) | [Spotify Sessions](https://open.spotify.com/album/4DveGLVEnhWSMhhPgrYLOT) | 4:26 |
 | 26 | [Petition \(Spotify Sessions Curated by Jim Eno\)](https://open.spotify.com/track/3J8QBKBSJYyHhCqOBWywN2) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Spotify Sessions \(Curated by Jim Eno\)](https://open.spotify.com/album/4OF1mpaf1cWMhQgXVDLSP6) | 3:16 |

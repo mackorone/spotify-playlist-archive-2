@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,778 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,780 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 47 | [Need To Know \(feat\. Chance The Rapper\)](https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:52 |
 | 48 | [Star Side Intro](https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:43 |
 | 49 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 |
-| 50 | [Bad Boys 2](https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [Bad Boys 2](https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW) | 2:13 |
+| 50 | [I Love You \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [A Love Letter To You 4 \(Deluxe\)](https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9) | 3:49 |
 
-Snapshot ID: `an5agAAAAAATXKIEnwlouGwpf4GipoT3`
+Snapshot ID: `an+sAAAAAADv/nHMPDTFMESWUs3roD+o`

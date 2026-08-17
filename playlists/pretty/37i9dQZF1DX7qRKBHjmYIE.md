@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Girl Ultra & Buscabulla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,153 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,074 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 99 | [Cenizas En El Desierto](https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Cenizas En El Desierto](https://open.spotify.com/album/0EST70rsJHUzaSJEpcb32B) | 3:24 |
 | 100 | [Latemotiv](https://open.spotify.com/track/6IGQh05TwmwfQOCel2dSP8) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [El único ser sin talento](https://open.spotify.com/album/0lFP1nPPMPfuKzVZeOvBRH) | 3:08 |
 
-Snapshot ID: `AAAAAIEXLASAEpVGSjpEDRKWQ/g5gfwv`
+Snapshot ID: `AAAAAPSuRO41jy0slAP5RroryTeaCaWx`

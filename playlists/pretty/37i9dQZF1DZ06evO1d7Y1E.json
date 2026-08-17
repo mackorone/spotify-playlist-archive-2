@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117403,
+  "num_followers": 117410,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACaG+ygpXT4cmZ7mYQMO2DH",
+  "snapshot_id": "an+sAAAAAACOx3DYu/2fK6kG/6hXOsWK",
   "tracks": [
     {
       "added_at": null,
@@ -1179,34 +1179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 202434,
-      "name": "To de P\u00e9",
-      "url": "https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorrisin de Canto",
         "url": "https://open.spotify.com/album/4sIFl65wyn2kooQMj1lBFK"
       },
@@ -1259,6 +1231,34 @@
       "duration_ms": 259512,
       "name": "Sorrisin de Canto",
       "url": "https://open.spotify.com/track/0rFetX4a8pvro5p0K0Inna"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "duration_ms": 202434,
+      "name": "To de P\u00e9",
+      "url": "https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9"
     },
     {
       "added_at": null,
@@ -1435,6 +1435,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Assault (Joias no Pulso)",
+        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "duration_ms": 274015,
+      "name": "Assault (Joias no Pulso)",
+      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XEQUE MATE",
         "url": "https://open.spotify.com/album/1YNqyFODkZFmei0q1a2Yps"
       },
@@ -1471,38 +1503,6 @@
       "duration_ms": 324919,
       "name": "\u00daltima Forma",
       "url": "https://open.spotify.com/track/1EIPpD1XZb1TCDr1jmxEoj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Assault (Joias no Pulso)",
-        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        }
-      ],
-      "duration_ms": 274015,
-      "name": "Assault (Joias no Pulso)",
-      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
     },
     {
       "added_at": null,
@@ -1563,6 +1563,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/52rjSQGfI5meOWu0YFdNsu"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 142564,
+      "name": "Metflix - Remix",
+      "url": "https://open.spotify.com/track/5pCJL7iUT48OC56cAyWtuz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XEQUE MATE",
         "url": "https://open.spotify.com/album/1YNqyFODkZFmei0q1a2Yps"
       },
@@ -1587,30 +1611,6 @@
       "duration_ms": 132975,
       "name": "Quando Come\u00e7a",
       "url": "https://open.spotify.com/track/4Krzqp47f1OVJjGUOcumTf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/52rjSQGfI5meOWu0YFdNsu"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 142564,
-      "name": "Metflix - Remix",
-      "url": "https://open.spotify.com/track/5pCJL7iUT48OC56cAyWtuz"
     },
     {
       "added_at": null,

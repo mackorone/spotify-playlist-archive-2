@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-211 songs - 11 hr 45 min
+212 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Wearing Black](https://open.spotify.com/track/4uhwC8YZ0JIujAXQtML7Cm) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 3:00 | 2025-07-30 |  |
 | [Weight of the World](https://open.spotify.com/track/3mBzmGcvEytNUsPHmpqtXZ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:13 | 2023-03-23 |  |
 | [Weird Science](https://open.spotify.com/track/03AhYPRQeOqG2j54Tdg94E) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 6:08 | 2023-07-17 |  |
+| [Welcome To Voltus](https://open.spotify.com/track/0kTITl59lp4vgZONiQbscP) | [HENGE](https://open.spotify.com/artist/5R09pajxQjiwdUH6Fw4yM5) | [Journey to Voltus B](https://open.spotify.com/album/4EyOqCekFh9eo81mgeXMgH) | 5:34 | 2026-08-16 |  |
 | [What’s Going On?!](https://open.spotify.com/track/5s7nzC5NOwTo61L1NBGH26) | [Elio Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [What’s Going On?!](https://open.spotify.com/album/1wQ7VxnsFQC75cuF3k6VtO) | 4:03 | 2025-07-09 |  |
 | [Wheels Spinnin'](https://open.spotify.com/track/4ex4M0cUGAItldHZcBo0KE) | [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA) | [Good Company](https://open.spotify.com/album/1NR5naRbGSmMqV4ui1GQ67) | 3:49 | 2026-03-05 |  |
 | [Where We Belong](https://open.spotify.com/track/3bn7nqO1SDLLYNEnaW8Sjx) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:18 | 2023-03-23 |  |

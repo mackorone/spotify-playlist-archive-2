@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 827,
+  "num_followers": 828,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD5HO4+ksuEW31Rmt5D58mb5B78zVu",
+  "snapshot_id": "AAAD5aEJJtWiBCG/v1Qc7SIcnp8zq9ji",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -943,6 +943,22 @@
       "duration_ms": 160682,
       "name": "Lloyd Dobler",
       "url": "https://open.spotify.com/track/5H59SgewBgxf43cOiT6Y7L"
+    },
+    {
+      "added_at": "2026-08-17 02:25:33",
+      "album": {
+        "name": "if there's nothing (Hectic remix)",
+        "url": "https://open.spotify.com/album/2Lor3cYUlpeYXYm3ehGSOo"
+      },
+      "artists": [
+        {
+          "name": "Shel Khan",
+          "url": "https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "if there's nothing (Hectic remix)",
+      "url": "https://open.spotify.com/track/6MPGzh7e28n4zcglTZ0YLD"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

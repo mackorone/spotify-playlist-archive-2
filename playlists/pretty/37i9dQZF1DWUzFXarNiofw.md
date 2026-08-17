@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Erykah Badu & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,999 likes - 275 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,991 likes - 275 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

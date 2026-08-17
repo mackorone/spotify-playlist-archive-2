@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70241,
+  "num_followers": 70242,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAADqTMJFH4wA4DP9ms9c6mf+",
+  "snapshot_id": "an+sAAAAAAAqncC08KonDyotEMurrT64",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primer Dia de Clases",
-        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Cuando Sera",
-      "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevo",
         "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 139350,
       "name": "Nuevo",
       "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primer Dia de Clases",
+        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cuando Sera",
+      "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
     },
     {
       "added_at": null,
@@ -1091,6 +1091,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Top Gone (with Lunay)",
+        "url": "https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Top Gone (with Lunay)",
+      "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 232813,
       "name": "Condado",
       "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Top Gone (with Lunay)",
-        "url": "https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Top Gone (with Lunay)",
-      "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"
     },
     {
       "added_at": null,

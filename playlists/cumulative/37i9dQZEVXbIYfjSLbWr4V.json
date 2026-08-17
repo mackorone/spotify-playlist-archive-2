@@ -6940,7 +6940,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 166401,
       "name": "misery.",
       "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
@@ -7632,7 +7632,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -8378,7 +8378,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -10262,7 +10262,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 164241,
       "name": "they don\u2019t know \u2019bout us",
       "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
@@ -11872,6 +11872,24 @@
       "duration_ms": 233827,
       "name": "\u0411\u0435\u0441\u043f\u0435\u0447\u043d\u044b\u0439 \u0440\u044b\u0446\u0430\u0440\u044c \u0442\u044c\u043c\u044b",
       "url": "https://open.spotify.com/track/2FSfCJu8tac61GwgjGLDZK"
+    },
+    {
+      "album": {
+        "name": "PAYCHECK",
+        "url": "https://open.spotify.com/album/62iiHIIzp0PwureC2D17ud"
+      },
+      "artists": [
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233827,
+      "name": "\u0411\u0435\u0441\u043f\u0435\u0447\u043d\u044b\u0439 \u0440\u044b\u0446\u0430\u0440\u044c \u0442\u044c\u043c\u044b",
+      "url": "https://open.spotify.com/track/2ZqAhOPCeE3t4MbRzdybEA"
     },
     {
       "album": {
@@ -14156,7 +14174,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 149343,
       "name": "\u0417\u041f\u041f\u041f",
       "url": "https://open.spotify.com/track/4mOL5V2LZzDhAxmsHvjZzv"
@@ -19492,7 +19510,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 144761,
       "name": "\u0422\u0435\u043b\u043e \u043f\u043e\u0445\u0443\u0434\u0435\u043b\u043e",
       "url": "https://open.spotify.com/track/4N3IBdnUsYkY5gcaJ4LpWR"
@@ -21102,7 +21120,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 146008,
       "name": "\u0428\u0451\u043b\u043a",
       "url": "https://open.spotify.com/track/3chb0SAouU1FtBPR5NPHWX"

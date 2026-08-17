@@ -4,7 +4,7 @@
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 32 min
+114 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [La Negrita](https://open.spotify.com/track/2siuIOyoD8BPb3UB754kJP) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 3:21 | 2022-06-01 |  |
 | [La Niña Quiere Cerveza \- En Vivo](https://open.spotify.com/track/5IEsq0MLLm7NE61IryGDxj) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [La Niña Quiere Cerveza \- En Vivo](https://open.spotify.com/album/0Ew74PwPRd1mIefKhLdibE) | 3:32 | 2022-06-01 | 2024-06-12 |
 | [La Parabólica](https://open.spotify.com/track/7eOmUxKXqGoRCghz1EJQ77) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Colección De Oro, Vol\. 2: Ramito De Violetas](https://open.spotify.com/album/75CJBFLaA4JeVWzLXTRMN6) | 3:15 | 2025-06-30 | 2026-03-09 |
-| [La Parabólica \- Remastered 2025](https://open.spotify.com/track/1yq9tpJXnl7Oi44D52KeGc) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Cumbias Ya Llegó..\. \(Remastered 2025\)](https://open.spotify.com/album/3eoxXKcNCOco45P0fqoakR) | 3:19 | 2026-04-05 |  |
+| [La Parabólica \- Remastered 2025](https://open.spotify.com/track/1yq9tpJXnl7Oi44D52KeGc) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Cumbias Ya Llegó..\. \(Remastered 2025\)](https://open.spotify.com/album/3eoxXKcNCOco45P0fqoakR) | 3:19 | 2026-04-05 | 2026-08-17 |
 | [Las Nachas](https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 2:40 | 2022-06-01 |  |
 | [Libro Abierto](https://open.spotify.com/track/2NtCzG7rsTeDjeFUVqcF4D) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [El Hijo Desobediente](https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J) | 2:30 | 2022-06-01 | 2022-11-21 |
 | [Lupe](https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:08 | 2022-06-01 | 2025-06-16 |
@@ -115,6 +115,7 @@
 | [Ramito de Violetas 2.0](https://open.spotify.com/track/7rfgRQJHAaKvMtJJveP8Yv) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [JOS BRAHAM](https://open.spotify.com/artist/1vRhcBEENG0mzx8UzTIH9x), [Banda La Fugitiva De Mike Miramontes](https://open.spotify.com/artist/20lftkHSXXaaNVpe3Y2W2J) | [Ramito de Violetas 2.0](https://open.spotify.com/album/67ANX7NhtANRGsg4iS4cNh) | 4:21 | 2023-06-17 | 2024-06-12 |
 | [Sin Suerte](https://open.spotify.com/track/1nhbT0U1BIT6htPjZb4PVc) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 2:53 | 2025-05-07 | 2025-05-11 |
 | [Sin Suerte](https://open.spotify.com/track/4JsvoDByUDdD3jcEcfgYOn) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad con Ustedes](https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y) | 2:55 | 2023-12-22 | 2025-04-26 |
+| [Sombrero Vaquero](https://open.spotify.com/track/4qB4EeLblKJS97nNrhVqDx) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Sombrero Vaquero](https://open.spotify.com/album/3bb6JJOYua8dBvKeX5qFQt) | 3:29 | 2026-08-17 |  |
 | [Sueño](https://open.spotify.com/track/5wvzzRY88HCuzbNfYJX4Dn) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 4:37 | 2022-06-01 | 2025-05-07 |
 | [Tu Y Las Nubes](https://open.spotify.com/track/4PG9xHq6APPuMPcqREe9ql) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [El Hijo Desobediente](https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J) | 2:54 | 2022-06-01 | 2025-05-07 |
 | [Ven A Bailar](https://open.spotify.com/track/1asf9bx1OzvE8NaTXijT6V) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Ven A Bailar](https://open.spotify.com/album/4KHIwbQeJNifJj64VaVNso) | 3:39 | 2022-06-01 | 2024-06-12 |

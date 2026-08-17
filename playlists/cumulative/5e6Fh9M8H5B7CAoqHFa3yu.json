@@ -2991,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4fP2OCd9IEgSxVBg5153av"
+      },
+      "artists": [
+        {
+          "name": "Beau Audio",
+          "url": "https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181833,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4AUYrKOFthHYiUtDQ8zGFY"
+    },
+    {
+      "album": {
         "name": "Ausente",
         "url": "https://open.spotify.com/album/0SPOT5pwB1OkBCttVu9TQp"
       },
@@ -27795,6 +27813,24 @@
     },
     {
       "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/3ugLThsefNvx96vqsIxRkz"
+      },
+      "artists": [
+        {
+          "name": "Edren",
+          "url": "https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149416,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/7BsjpAyf895DsnKwJRgVCz"
+    },
+    {
+      "album": {
         "name": "New You",
         "url": "https://open.spotify.com/album/7feMMk06r83T7zZUyYUuch"
       },
@@ -27854,6 +27890,24 @@
       "duration_ms": 231830,
       "name": "Next 2 U",
       "url": "https://open.spotify.com/track/1EfnmdAQzEKy5L6fRqZFyw"
+    },
+    {
+      "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/3sgLltelIpW7NVS36Vdug3"
+      },
+      "artists": [
+        {
+          "name": "Chris Garner",
+          "url": "https://open.spotify.com/artist/5mFsB0s0Rusyrrxo1kGN8o"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158975,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/14rjzEn4Rza8tpIXny6Wno"
     },
     {
       "album": {
@@ -33189,6 +33243,24 @@
     },
     {
       "album": {
+        "name": "Riempimi la vita",
+        "url": "https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Urbani",
+          "url": "https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260625,
+      "name": "Riempimi la vita",
+      "url": "https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ"
+    },
+    {
+      "album": {
         "name": "Right Foot",
         "url": "https://open.spotify.com/album/2XSyRXxcqK4RHDm7ziTraM"
       },
@@ -33254,7 +33326,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 226037,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC"

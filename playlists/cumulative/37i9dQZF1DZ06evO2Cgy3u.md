@@ -4,7 +4,7 @@
 
 > This is The Raincoats\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 46 min
+46 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,5 +53,6 @@
 | [We Smile](https://open.spotify.com/track/6xiSUqGrrHHGt1EqHEN2QQ) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Extended Play](https://open.spotify.com/album/0EJrFovu6DatDZfwGbMFgG) | 3:17 | 2026-03-07 |  |
 | [You Ask Why](https://open.spotify.com/track/3bu7gq8IUdQddACLYOMbQH) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 | 2026-06-25 | 2026-07-10 |
 | [You Kill Me](https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 | 2026-03-07 | 2026-08-07 |
+| [Your leader](https://open.spotify.com/track/3yJvQspuOdeGmPLsuYoayM) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Your leader](https://open.spotify.com/album/3O618fdA6K2GGZwmuuAN1r) | 3:21 | 2026-08-17 |  |
 
 \*This playlist was first scraped on 2026-03-07. Prior content cannot be recovered.

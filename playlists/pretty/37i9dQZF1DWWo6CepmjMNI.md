@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Memories can wait
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,131 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,132 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 |
 | 50 | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/track/40iWwQzs0TALQaTPu8L2lc) | [SOUNDSLEEP](https://open.spotify.com/artist/6s1SgkazTTQy1i0fs6ZIGw) | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/album/3yEhe0j7XHRHJEAuhoj7Rj) | 4:52 |
 
-Snapshot ID: `AAAAAN6zHG1fiEsJKGTYIf1gu6YJNkLg`
+Snapshot ID: `AAAAANKaS9p/5zjKRbT9zpr7rpgYNVWR`

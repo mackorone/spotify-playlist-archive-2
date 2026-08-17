@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7482,
+  "num_followers": 7483,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAADKXtnbyNLcEbF38WBXd8BU",
+  "snapshot_id": "an+sAAAAAACh+vu+qwHfiPOLe8ey75cX",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Rock y Banda",
-      "url": "https://open.spotify.com/track/4LKI5igzAwYmoI6dpIG4yV"
+      "duration_ms": 168200,
+      "name": "Me Esta Esperando Mar\u00eda",
+      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 200426,
-      "name": "La Banda Rock",
-      "url": "https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn"
+      "duration_ms": 137000,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Me Esta Esperando Mar\u00eda",
-      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
+      "duration_ms": 217133,
+      "name": "Rock y Banda",
+      "url": "https://open.spotify.com/track/4LKI5igzAwYmoI6dpIG4yV"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
+      "duration_ms": 200426,
+      "name": "La Banda Rock",
+      "url": "https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn"
     },
     {
       "added_at": null,

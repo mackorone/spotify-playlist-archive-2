@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 2054,
+  "num_followers": 2056,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAACgY1n70nWHnY41vHFWzmes",
+  "snapshot_id": "an+sAAAAAAAk5cenGfFQhwu5YzCkrRoP",
   "tracks": [
     {
       "added_at": null,
@@ -760,12 +760,16 @@
       },
       "artists": [
         {
-          "name": "Jules Massenet",
-          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Deborah Nemtanu",
+          "url": "https://open.spotify.com/artist/1BLxBnBUSEneDphT03qpRC"
         },
         {
           "name": "Douglas Boyd",
@@ -776,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 372066,
-      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
-      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
+      "duration_ms": 164960,
+      "name": "Elgar: Salut d'amour, Op. 12 (Orch. Walter)",
+      "url": "https://open.spotify.com/track/0MQbb3rWI0eJUMXf2r84mV"
     },
     {
       "added_at": null,
@@ -872,16 +876,12 @@
       },
       "artists": [
         {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Deborah Nemtanu",
-          "url": "https://open.spotify.com/artist/1BLxBnBUSEneDphT03qpRC"
         },
         {
           "name": "Douglas Boyd",
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 164960,
-      "name": "Elgar: Salut d'amour, Op. 12 (Orch. Walter)",
-      "url": "https://open.spotify.com/track/0MQbb3rWI0eJUMXf2r84mV"
+      "duration_ms": 372066,
+      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
+      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
     },
     {
       "added_at": null,
@@ -1091,6 +1091,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Sequence for Ga\u00efa",
+      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -1115,30 +1139,6 @@
       "duration_ms": 207746,
       "name": "Faur\u00e9: 3 M\u00e9lodies, Op. 7: No. 1, Apr\u00e8s un r\u00eave (Orch. B\u00fcsser)",
       "url": "https://open.spotify.com/track/5ibriUkbLukCioQsy9ryEX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Sequence for Ga\u00efa",
-      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
     },
     {
       "added_at": null,

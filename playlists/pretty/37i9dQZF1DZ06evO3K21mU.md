@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,942 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,988 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 49 | [Red Leather](https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 6:54 |
 | 50 | [99 Build Freestyle](https://open.spotify.com/track/62tMGw9ce46XFOroYM0hrt) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Birthday Blizzard ‘26](https://open.spotify.com/album/5jydEh8Ck5yNP92arzgntO) | 3:53 |
 
-Snapshot ID: `an5agAAAAAD2s01feS3oP3DLa6qaprl1`
+Snapshot ID: `an+sAAAAAACikbs0bme0gipuX/yFR5hj`

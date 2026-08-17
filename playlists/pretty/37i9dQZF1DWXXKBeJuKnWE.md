@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The sound of the underground\. Cover: Northlane
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,711 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,669 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [A Dead Language for a Dying Lady](https://open.spotify.com/track/4WAFtkCvX6S76MF886qsTT) | [Vanna](https://open.spotify.com/artist/7cXUCar1BPOeMI2qza9oa1) | [A Dead Language for a Dying Lady](https://open.spotify.com/album/656Mcmqfpkqd2PWAQSQk0X) | 4:12 |
 | 100 | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf), [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH) | 2:45 |
 
-Snapshot ID: `AAAAAF/HwHrJIgkS/uNMttJXBOO1v6EH`
+Snapshot ID: `AAAAAAj3NsHF3CIc1QxrLEoGsmVFXBnw`

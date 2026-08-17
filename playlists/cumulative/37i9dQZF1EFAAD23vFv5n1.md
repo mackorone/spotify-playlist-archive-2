@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-209 songs - 10 hr 13 min
+210 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Paradiso](https://open.spotify.com/track/3xoTmAPceMAHGRFe9HKV4m) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Paradiso](https://open.spotify.com/album/7E4Wy23cEvWIrJZOjjX5h0) | 3:35 | 2024-04-29 |  |
 | [Paranoie](https://open.spotify.com/track/6pRSnQ7NxpB9eCIa3N0Gqg) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Paranoie](https://open.spotify.com/album/0Xmz1F6dcfJ8mRpZyJhPZT) | 2:30 | 2024-04-29 |  |
 | [parquet](https://open.spotify.com/track/5SCqOU0YAOMn3MiopPrddY) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:31 | 2025-06-19 |  |
+| [Pastello bianco](https://open.spotify.com/track/7z26QB5QCd4YS376p9rW34) | [Lorenzo Molignoni](https://open.spotify.com/artist/3bELGsvNpxsRcrUGZwWzgr), [Stefano Gennara](https://open.spotify.com/artist/3fVbckwRznLNTOqjbyWCCW) | [In Duetto](https://open.spotify.com/album/0zKe90fs9HKIvx2Hjf0bnE) | 4:00 | 2026-08-16 |  |
 | [Pastello Bianco](https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:56 | 2024-04-29 |  |
 | [PASTIGLIA v7](https://open.spotify.com/track/4Vp13e77ads0KmyLkV9XLj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:38 | 2024-04-29 |  |
 | [PAZZIA v1](https://open.spotify.com/track/2Frf3hOEjo3PpbKtH5ige5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:51 | 2024-04-29 |  |

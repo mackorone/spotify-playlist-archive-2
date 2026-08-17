@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 
 > This is kwn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,373 likes - 27 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,388 likes - 27 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 | 4 | [Sex In Peace \(ft\. kwn\)](https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:25 |
 | 5 | [good girl](https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:01 |
 | 6 | [do what i say](https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:08 |
-| 7 | [Clothes Off \(feat\. kwn\)](https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:49 |
-| 8 | [Amazing \(feat\. kwn\)](https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:44 |
+| 7 | [Amazing \(feat\. kwn\)](https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:44 |
+| 8 | [Clothes Off \(feat\. kwn\)](https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:49 |
 | 9 | [touch myself](https://open.spotify.com/track/3tyDv1Qwsr7MSZB45ywgj7) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 4:09 |
 | 10 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:33 |
 | 11 | [five more](https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [five more](https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m) | 2:45 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 | 26 | [making love](https://open.spotify.com/track/5RWaq2ntMWdC2j4yM30j58) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:35 |
 | 27 | [went wrong](https://open.spotify.com/track/51U1KMRcqBnpt4pUJyU22b) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:13 |
 
-Snapshot ID: `an5agAAAAAD3Cq5qgTq499X7rxkrZTrY`
+Snapshot ID: `an+sAAAAAADCyW/wkDDBjBrD3yi3FzKz`

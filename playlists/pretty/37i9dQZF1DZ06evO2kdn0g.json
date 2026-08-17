@@ -1,12 +1,12 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 5926,
+  "num_followers": 5932,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABqnnhWgE+YA9Yny9XBVAoy",
+  "snapshot_id": "an+sAAAAAACCHmOCA3cx1fve7/RUPprZ",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFTER HOURS",
         "url": "https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 173026,
       "name": "AFTER HOURS",
       "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NOIRE",
+        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D4U - Spotify Singles",
         "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 149253,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/5as974bpTDV3CJGZYbK6kJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOIRE",
-        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "DIFFERENT",
-      "url": "https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 145120,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/69ms7KvY7nETPn8mYwTahK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 182906,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 145120,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/69ms7KvY7nETPn8mYwTahK"
     },
     {
       "added_at": null,

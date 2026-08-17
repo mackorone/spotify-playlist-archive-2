@@ -2151,6 +2151,32 @@
     },
     {
       "album": {
+        "name": "Camp Rock 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
+      },
+      "artists": [
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        },
+        {
+          "name": "Camp Rock \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169922,
+      "name": "One Beat Away",
+      "url": "https://open.spotify.com/track/3DUpidac5G2faRayaksqMq"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },

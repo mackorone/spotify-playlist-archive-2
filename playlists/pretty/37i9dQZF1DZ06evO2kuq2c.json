@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 90821,
+  "num_followers": 90835,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAD6Yw6uWVvs1rEs8ZcXLj18",
+  "snapshot_id": "an+sAAAAAACQNmNsnJRaNcaeB+Fkj5SS",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Death Is Not Defeat",
-      "url": "https://open.spotify.com/track/7xpfgUe2sxoBx7CFygbTPg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Our Gods Have Abandoned Us",
         "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 198097,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Death Is Not Defeat",
+      "url": "https://open.spotify.com/track/7xpfgUe2sxoBx7CFygbTPg"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "Mortal After All",
-      "url": "https://open.spotify.com/track/1rMGbnh7zWGs8ME0mbuVai"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Our Gods Have Abandoned Us",
         "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 232614,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "Mortal After All",
+      "url": "https://open.spotify.com/track/1rMGbnh7zWGs8ME0mbuVai"
     },
     {
       "added_at": null,

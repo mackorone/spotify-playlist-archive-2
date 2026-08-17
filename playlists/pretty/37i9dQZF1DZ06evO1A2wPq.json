@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 22373,
+  "num_followers": 22388,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAD3Cq5qgTq499X7rxkrZTrY",
+  "snapshot_id": "an+sAAAAAADCyW/wkDDBjBrD3yi3FzKz",
   "tracks": [
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait 2",
-        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 229736,
-      "name": "Clothes Off (feat. kwn)",
-      "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 164718,
       "name": "Amazing (feat. kwn)",
       "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 229736,
+      "name": "Clothes Off (feat. kwn)",
+      "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
     },
     {
       "added_at": null,

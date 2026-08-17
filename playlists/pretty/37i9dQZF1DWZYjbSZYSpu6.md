@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: DAYOUNG, Jay Park\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,896 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,876 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Be Your Enemy](https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:35 |
 | 50 | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV) | 2:34 |
 
-Snapshot ID: `AAAAAHAjJlfTztckncraiSRteeI40mLj`
+Snapshot ID: `AAAAAB4fMuiY6n3kNHNQV1fq5NM24W88`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 
 > De Nachtwacht kiest 20 songs voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,943 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,939 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

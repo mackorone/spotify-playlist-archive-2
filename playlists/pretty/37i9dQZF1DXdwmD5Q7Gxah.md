@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > art takes time, six long years worth the wait\. Phoebe Bridgers on the cover\. <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,928 likes - 132 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,922 likes - 132 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > copos pro alto, cada um com o seu\. Foto: MC Vinny, MC Leozinho ZS, Ryu, the Runner, Bomfino
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,993 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,070 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

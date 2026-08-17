@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,146 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,160 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 74 | [Home](https://open.spotify.com/track/5WOKwfCJmwbu46UX75Hgps) | [Keyla Richardson](https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW) | [Home](https://open.spotify.com/album/7iLY9qLmJN2Wq4q9hgwPqN) | 4:22 |
 | 75 | [Speak to the Mountain](https://open.spotify.com/track/1CE3Q5aLGdqreI7rnLPV0C) | [Angela Moss Poole](https://open.spotify.com/artist/703jiLLQUIFP7fmC1UZtox) | [Angela Moss Poole](https://open.spotify.com/album/2mRhKxYagOrfePiLCoLSqm) | 3:48 |
 
-Snapshot ID: `AAAAAHAxWIGleveEMwIQPwzZrAom3lei`
+Snapshot ID: `AAAAAOJLLrvSdx1AjCV9dW/Wn8Qbe/w4`

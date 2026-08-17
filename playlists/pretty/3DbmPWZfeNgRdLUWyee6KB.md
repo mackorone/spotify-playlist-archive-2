@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 99 songs - 5 hr 51 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 101 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 97 | [Chris](https://open.spotify.com/track/1Nefj4hzD1o6kLHygse9px) | [Zaré](https://open.spotify.com/artist/7bSj4WmjeZYWoUnRSG8yz1) | [Chris](https://open.spotify.com/album/6yz1csN8aXWVufZ8ZpeeSk) | 2:59 |
 | 98 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 |
 | 99 | [By your side](https://open.spotify.com/track/2PhjsfyyqYKfgwC5LEaFjv) | [Sara Ek](https://open.spotify.com/artist/3a5j3QOGkjno2pwwztoxVG) | [By your side](https://open.spotify.com/album/0PUSyahfMWDhAJyzG3Ep7v) | 3:26 |
+| 100 | [NOUS VS](https://open.spotify.com/track/5SDmLZ1sHna4BaDGOYFPry) | [Nous VS](https://open.spotify.com/artist/20Dm5BMSCH5unIgew8WVwA) | [NOUS VS](https://open.spotify.com/album/1xT3qNjK0YEhgdzcGC1mwS) | 2:17 |
+| 101 | [Caffeine Me](https://open.spotify.com/track/52XPRFSTLxdrsPkPKScvCv) | [Tim Dean](https://open.spotify.com/artist/6ljXhNnXoYGVHFwaUt77OP) | [Caffeine Me](https://open.spotify.com/album/5MiwbuT50w6i4jvY93iizh) | 2:54 |
 
-Snapshot ID: `AAAXHObmLfOSgp/gCFQKJYyCmUnkqLh1`
+Snapshot ID: `AAAXHtDJg0kWHh5ZPrc1M6M7BfO9tqPo`

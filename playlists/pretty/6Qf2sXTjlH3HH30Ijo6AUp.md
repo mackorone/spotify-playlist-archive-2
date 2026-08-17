@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower! An affirmation song collection full of heartfelt, lovely moments, high vibrational energy and strong songs that make you feel unstoppable.
 
-[Topsify](https://open.spotify.com/user/topsify) - 466,187 likes - 100 songs - 5 hr 52 min
+[Topsify](https://open.spotify.com/user/topsify) - 466,143 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

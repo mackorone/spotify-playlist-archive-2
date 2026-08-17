@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 127480,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/3ZcVGhvL3aBpi1xOEXQOCf"
@@ -6955,6 +6955,28 @@
     },
     {
       "album": {
+        "name": "Dream Of You",
+        "url": "https://open.spotify.com/album/5nnkaQnAHRpTxVwfokqTjN"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Horbatso",
+          "url": "https://open.spotify.com/artist/3NiLiVrm3T8AQysXn54ALH"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151352,
+      "name": "Dream Of You",
+      "url": "https://open.spotify.com/track/0wBnQbF6gQIPHYsj182yn2"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/4h1MhRm00BhSZGlM6dUAaY"
       },
@@ -7440,6 +7462,28 @@
       "duration_ms": 110545,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/7nwjJeHzjp1b5rkRJhS3nt"
+    },
+    {
+      "album": {
+        "name": "Embrace The Sun",
+        "url": "https://open.spotify.com/album/3dAllXEKA6CXrlMTIeA2J4"
+      },
+      "artists": [
+        {
+          "name": "BLANCE",
+          "url": "https://open.spotify.com/artist/6evlfkHSHNx1mUQwDuZFXW"
+        },
+        {
+          "name": "Levi From Space",
+          "url": "https://open.spotify.com/artist/27xQgK4tfoUirlu1rBhxYP"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163243,
+      "name": "Embrace The Sun",
+      "url": "https://open.spotify.com/track/4EFwKxf6rlftFAMjpsxfxZ"
     },
     {
       "album": {
@@ -10860,7 +10904,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 114206,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3TZKWyW7fJzQ5o9JOX4C62"
@@ -28926,7 +28970,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 133548,
       "name": "Tide",
       "url": "https://open.spotify.com/track/1ylZ3oKGwvhqQElyZBc8M0"

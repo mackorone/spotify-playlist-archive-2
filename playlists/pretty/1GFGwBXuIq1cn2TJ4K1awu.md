@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 36 likes - 11 songs - 44 min 45 sec
+[royva06](https://open.spotify.com/user/royva06) - 37 likes - 11 songs - 47 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [My Soft Machine \(Deluxe\)](https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt) | 3:07 |
-| 2 | [Rich Spirit](https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:22 |
-| 3 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 |
-| 4 | [Kathy's Song](https://open.spotify.com/track/4Acofe9hICRvyBTP5hFNk0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 3:21 |
-| 5 | [Monte Carlo / No Limits](https://open.spotify.com/track/2JvkviCAcHxwoFHolGaHLC) | [Ryan Davis & the Roadhouse Band](https://open.spotify.com/artist/7Ah0xZVyWfAL3Vd7OVvKuo) | [New Threats From The Soul](https://open.spotify.com/album/1R8Dy3DirAm01NLphuAGjM) | 5:55 |
-| 6 | [Ice In My OJ](https://open.spotify.com/track/21cbaIB8ks3dag4cqiG4zz) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 2:11 |
-| 7 | [Luna \- 2011 Remaster](https://open.spotify.com/track/20Y0ZANdyEI52MfQs6DddK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0) | 3:22 |
-| 8 | [Left of the Dial \- 2008 Remaster](https://open.spotify.com/track/7nL0nuLhX6ItOoEq9RpkOO) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 3:43 |
-| 9 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 |
-| 10 | [Continuum 1](https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:13 |
-| 11 | [Orange Sky](https://open.spotify.com/track/6lIEdLD8n56ItZy7pCEYSs) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 6:11 |
+| 1 | [Seabird](https://open.spotify.com/track/1iUpSRmgnbTRqU0Pb217qI) | [Alessi Brothers](https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1) | [Alessi](https://open.spotify.com/album/5uKaFrP17fAKuMF6xSAMEx) | 3:08 |
+| 2 | [Ocean](https://open.spotify.com/track/4noSzze1g7g9wGMzumJDT8) | [The Pietasters](https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn) | [Willis](https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY) | 3:38 |
+| 3 | [Still Loving You](https://open.spotify.com/track/7kjsCbksOZotNNHOvKsJJh) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 6:27 |
+| 4 | [TEMPTATION](https://open.spotify.com/track/3gJDgenxLephg09x86IxPs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 4:04 |
+| 5 | [Preservation](https://open.spotify.com/track/124DjfCOxrqEXpHD04Hk8i) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Preservation](https://open.spotify.com/album/3rtivE127HwnoeDg1UtMde) | 2:26 |
+| 6 | [S.W.I.M.](https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Forever](https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ) | 6:45 |
+| 7 | [Lipstick](https://open.spotify.com/track/2i1nmBnMkDGFTTjeGGIOTm) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [pom pom](https://open.spotify.com/album/4UhaqAS8V23KozB3dzLMax) | 3:20 |
+| 8 | [Fabienk](https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 6:31 |
+| 9 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 10 | [Where Have All the Cowboys Gone?](https://open.spotify.com/track/2ck13qfgRZ1msyEJlDqzvk) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 4:23 |
+| 11 | [Forever \- Remastered 2009](https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:42 |
 
-Snapshot ID: `AAALv2LNekxWC66rQr1ACE/QwbOTLxW0`
+Snapshot ID: `AAAL1UIrgHnYSnVx78q+PNKxdes217z6`

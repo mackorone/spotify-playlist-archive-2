@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAB8Jb0lsSqKty5JseD3BuiK",
+  "snapshot_id": "an+sAAAAAABL95u7tcXvBOz3ERCg6tKw",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Guitar Instrumentals: '50s & '60s",
-        "url": "https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "Jefferies Rock",
-      "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ben-Lee Recordings 1963-65",
         "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
@@ -564,9 +548,25 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 133413,
-      "name": "Dance Boy",
-      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
+      "duration_ms": 134373,
+      "name": "You're My One & Only Baby",
+      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/1CVQxatqRY5So32JciECld"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 148991,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1YRGkekv3wu6cn5RcTio6t"
     },
     {
       "added_at": null,
@@ -596,9 +596,41 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 166126,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
+      "duration_ms": 130957,
+      "name": "Let Me In Your Mind",
+      "url": "https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 133413,
+      "name": "Dance Boy",
+      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Guitar Instrumentals: '50s & '60s",
+        "url": "https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Jefferies Rock",
+      "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
     },
     {
       "added_at": null,
@@ -615,6 +647,22 @@
       "duration_ms": 117933,
       "name": "Fried Eggs",
       "url": "https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "Tender (Was The Love We Knew)",
+      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
     },
     {
       "added_at": null,
@@ -644,25 +692,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 148991,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1YRGkekv3wu6cn5RcTio6t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 161413,
-      "name": "Tender (Was The Love We Knew)",
-      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
+      "duration_ms": 139726,
+      "name": "Just to Be",
+      "url": "https://open.spotify.com/track/0UzMNUO5s1YBIfeobxBN3R"
     },
     {
       "added_at": null,
@@ -683,38 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 134373,
-      "name": "You're My One & Only Baby",
-      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/1CVQxatqRY5So32JciECld"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "Just to Be",
-      "url": "https://open.spotify.com/track/0UzMNUO5s1YBIfeobxBN3R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When We Get Married",
         "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 169201,
       "name": "Best Days of My Life",
       "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 136986,
+      "name": "I've Got Love for You",
+      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
     },
     {
       "added_at": null,
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+        "name": "GoodNight",
+        "url": "https://open.spotify.com/album/0PNXBWW0CKIG9OjEzsAE83"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 165813,
-      "name": "I'm Glad Your're My Girl",
-      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
+      "duration_ms": 145128,
+      "name": "GoodNight",
+      "url": "https://open.spotify.com/track/6TH07eiStWBXtn396kktlz"
     },
     {
       "added_at": null,
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 136986,
-      "name": "I've Got Love for You",
-      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
+      "duration_ms": 165813,
+      "name": "I'm Glad Your're My Girl",
+      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
     }
   ],
   "unique_name": "This Is The Intruders",

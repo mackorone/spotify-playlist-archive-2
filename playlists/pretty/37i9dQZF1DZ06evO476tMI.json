@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 643184,
+  "num_followers": 643195,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAX7+2eLRDxgy7xQS66O4Cd",
+  "snapshot_id": "an+sAAAAAACGECe6Ekt9PCQA7GuvrhAT",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 277186,
-      "name": "So Emotional",
-      "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 276822,
       "name": "You Give Good Love",
       "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 277186,
+      "name": "So Emotional",
+      "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
       },
       "artists": [
         {
@@ -708,13 +708,13 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         },
         {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 298106,
-      "name": "Same Script, Different Cast",
-      "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
+      "duration_ms": 245533,
+      "name": "If I Told You That (feat. George Michael) - Radio Edit",
+      "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
       },
       "artists": [
         {
@@ -748,13 +748,13 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         },
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
         }
       ],
-      "duration_ms": 245533,
-      "name": "If I Told You That (feat. George Michael) - Radio Edit",
-      "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
+      "duration_ms": 298106,
+      "name": "Same Script, Different Cast",
+      "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Whitney",
         "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 255733,
       "name": "One Of Those Days",
       "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt"
     },
     {
       "added_at": null,
@@ -863,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Jermaine Jackson",
-          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
         }
       ],
-      "duration_ms": 260000,
-      "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
-      "url": "https://open.spotify.com/track/0xUUGElClB0LXZgdmavavN"
+      "duration_ms": 288203,
+      "name": "Lover for Life",
+      "url": "https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ"
     }
   ],
   "unique_name": "This Is Whitney Houston",

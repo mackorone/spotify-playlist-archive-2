@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABQnrKzx1Ax94bEIAvMy+8p",
+  "snapshot_id": "an+sAAAAAACCIDAT2JLdthpKJBcgqUEh",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 240943,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/5jikbiarPYHC9fc3lYrHfV"
+      "duration_ms": 222840,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp"
+      "duration_ms": 240943,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/5jikbiarPYHC9fc3lYrHfV"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Failure's Not Flattering",
-      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
+      "duration_ms": 182066,
+      "name": "Truth Of My Youth",
+      "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 182066,
-      "name": "Truth Of My Youth",
-      "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
+      "duration_ms": 231240,
+      "name": "Failure's Not Flattering",
+      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 204972,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
+      "duration_ms": 178810,
+      "name": "Accidentally in Love",
+      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 178810,
-      "name": "Accidentally in Love",
-      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
+      "duration_ms": 204972,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
     },
     {
       "added_at": null,

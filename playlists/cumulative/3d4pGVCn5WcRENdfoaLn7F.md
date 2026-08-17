@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-422 songs - 1 day 1 hr 18 min
+423 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [I'm Only Sleeping](https://open.spotify.com/track/5uXA2Ss4v2WaqujWoTTmsT) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 3:43 | 2026-02-07 |  |
 | [I\`m Still Looking for a New](https://open.spotify.com/track/7aOGEyJKESkGR8KdplKg6W) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw), [Loraina](https://open.spotify.com/artist/21ryc1NWbYt1KSDAaRmS09) | [I\`m Still Looking for a New](https://open.spotify.com/album/1eknF6dP75bRcUgAlSitRs) | 4:52 | 2025-12-29 | 2026-01-21 |
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-02-19 | 2026-03-27 |
+| [if there's nothing \(Hectic remix\)](https://open.spotify.com/track/6MPGzh7e28n4zcglTZ0YLD) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [if there's nothing \(Hectic remix\)](https://open.spotify.com/album/2Lor3cYUlpeYXYm3ehGSOo) | 3:44 | 2026-08-17 |  |
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2026-05-12 | 2026-06-11 |
 | [In Between](https://open.spotify.com/track/731yOFHgSDzlZ1OgcpnpCL) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [In Between](https://open.spotify.com/album/0BealWuN7y2KG3ephHKcun) | 2:27 | 2026-07-21 |  |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |

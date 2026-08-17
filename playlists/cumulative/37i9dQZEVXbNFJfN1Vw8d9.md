@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,840 songs - 4 day 5 hr 2 min
+1,841 songs - 4 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,7 @@
 | [DE 1 BESO A 2 BESOS](https://open.spotify.com/track/63a6R7yKGh6M1jDgZjZBcE) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:17 | 2025-05-31 | 2025-06-02 |
 | [DE INMEDIATO](https://open.spotify.com/track/7zeycG8xQEr8JnAFI1IYUn) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:13 | 2025-05-20 | 2025-05-25 |
 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 | 2026-04-11 | 2026-05-30 |
-| [De Lejitos](https://open.spotify.com/track/4kJQ6oM2mAj7HIXmxphHEs) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 3:27 | 2026-05-30 |  |
+| [De Lejitos](https://open.spotify.com/track/4kJQ6oM2mAj7HIXmxphHEs) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 3:27 | 2026-05-30 | 2026-08-17 |
 | [De Lejitos \- Remix](https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 4:36 | 2026-05-31 |  |
 | [De Madrugá](https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 1:44 | 2025-11-08 | 2025-11-30 |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-07-08 | 2021-07-13 |
@@ -486,6 +486,7 @@
 | [Dominicana](https://open.spotify.com/track/0xCRFfgIHOsmovVZzrFCoT) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Pablo Mas](https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy) | [Dominicana](https://open.spotify.com/album/0xBy8mlkeW6KOPuzt5xikF) | 3:36 | 2022-12-03 | 2023-03-26 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-10-16 | 2021-11-14 |
 | [don't liE](https://open.spotify.com/track/6e46jZKoeaOCShrVJK1XzN) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 3:33 | 2023-06-24 | 2023-06-30 |
+| [Donde Hubo Fuego Cenizas Quedan](https://open.spotify.com/track/2ffXkUDtPJ29jZulZjPqqJ) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Donde Hubo Fuego Cenizas Quedan](https://open.spotify.com/album/6hyjCpbJz8IQAvIU13xbiL) | 3:28 | 2026-08-16 |  |
 | [DONDE QUIERO ESTAR](https://open.spotify.com/track/7rJ1eWSl8VIoKW9Qj7ImSU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:20 | 2023-01-21 | 2023-02-06 |
 | [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 | 2023-08-30 | 2024-02-18 |
 | [DONDE TE ESCONDES?](https://open.spotify.com/track/7DiNJqM6uyiYqqWX1wsqxG) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn) | [DONDE TE ESCONDES?](https://open.spotify.com/album/1vrAnAX1vy8ALSS9l25aGE) | 2:14 | 2025-01-18 | 2025-05-13 |

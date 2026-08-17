@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 1026113,
+  "num_followers": 1026278,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAB8fVOBwEhoxcQqCn1Fybm+",
+  "snapshot_id": "an+sAAAAAAD/ntJzAZMC+jFL1eApCpkl",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 278058,
-      "name": "Manuel Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 162584,
       "name": "Inv\u00edtame Un Cigarro",
       "url": "https://open.spotify.com/track/3SNOoNcM4sHo7TdeUJX1PL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 278058,
+      "name": "Manuel Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con El Mariachi Vargas",
-        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 188917,
       "name": "Maracas",
       "url": "https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian Con El Mariachi Vargas",
+        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
     },
     {
       "added_at": null,

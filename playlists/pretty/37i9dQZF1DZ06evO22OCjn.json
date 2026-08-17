@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 346114,
+  "num_followers": 346161,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAKb7KfAjMC/8sh/0qmTBc6",
+  "snapshot_id": "an+sAAAAAAAfSKtXep01bbsrmXBWijgB",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 187609,
-      "name": "Gbona",
-      "url": "https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Want It All",
         "url": "https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj"
       },
@@ -507,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
       },
       "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 286866,
-      "name": "Only You (with Burna Boy)",
-      "url": "https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE"
+      "duration_ms": 187609,
+      "name": "Gbona",
+      "url": "https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9"
     },
     {
       "added_at": null,
@@ -543,6 +523,26 @@
       "duration_ms": 179485,
       "name": "Giza (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 286866,
+      "name": "Only You (with Burna Boy)",
+      "url": "https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/56lLDMppfyKqUaUJWr0Ld4"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 276536,
+      "name": "Bank On It",
+      "url": "https://open.spotify.com/track/22kcexb32KF5zr9UIWijC7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tshwala Bam",
         "url": "https://open.spotify.com/album/4qYfV3DTCJeB83hqco5JfR"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/1AU9i0OPKywwrrpKJpV5ZG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/56lLDMppfyKqUaUJWr0Ld4"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 276536,
-      "name": "Bank On It",
-      "url": "https://open.spotify.com/track/22kcexb32KF5zr9UIWijC7"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 328548,
+  "num_followers": 328583,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAABF+zS6ADH3hFhSFPMo1oBA",
+  "snapshot_id": "an+sAAAAAAAfUhA70vCNL/6KEKAPmR/K",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 457600,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
         "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 145146,
       "name": "Mercy, Mercy - Single/LP Version",
       "url": "https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 457600,
-      "name": "Born Under a Bad Sign",
-      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
     },
     {
       "added_at": null,

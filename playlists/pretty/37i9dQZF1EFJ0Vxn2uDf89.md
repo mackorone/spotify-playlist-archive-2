@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367 likes - 182 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 368 likes - 182 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 19 | [Downfall](https://open.spotify.com/track/5tGnphp8D9Doa2ZULhJSMx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:15 |
 | 20 | [Blue Banisters](https://open.spotify.com/track/4U9ACZETPOqGuJkWtjkjLF) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:53 |
 | 21 | [Son of a Bitch](https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:35 |
-| 22 | [Damn Near Normal](https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:44 |
-| 23 | [Deny Deny Deny](https://open.spotify.com/track/6OICC2Us0JVbUgGXFJJOzZ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:50 |
+| 22 | [Deny Deny Deny](https://open.spotify.com/track/6OICC2Us0JVbUgGXFJJOzZ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:50 |
+| 23 | [Damn Near Normal](https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:44 |
 | 24 | [Text Book](https://open.spotify.com/track/4brdb8L2Cy3e9AN8IfV9l8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 5:03 |
 | 25 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/18SpqEz3lD71A6JReAYCVF) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 3:23 |
 | 26 | [Starlight](https://open.spotify.com/track/1xgbcqiTSVYe2JubnkLpo0) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/2J1ptakRwAfGrYKEuJJzXy) | 3:43 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 74 | [Don't Need A Hero](https://open.spotify.com/track/22S4rNFZzGcpDLo0Oqnnay) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Last Legends](https://open.spotify.com/album/6v2mSLE5CO0qXmxdIEAnLq) | 2:33 |
 | 75 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 |
 | 76 | [Dressed to Kill](https://open.spotify.com/track/6j7s4efnQGF19g6Jp2HE9D) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/2YoatZbkNsBRrfmX0pq9Ay) | 2:52 |
-| 77 | [Flip Me Upside Down](https://open.spotify.com/track/3aHgTNM3PKYuTJt1zCFpJP) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not The World](https://open.spotify.com/album/50hkPbORARa25Wv8h0E1i7) | 3:13 |
-| 78 | [Endless](https://open.spotify.com/track/3klRimZjMu1YVi10hEXcyP) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:46 |
+| 77 | [Endless](https://open.spotify.com/track/3klRimZjMu1YVi10hEXcyP) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:46 |
+| 78 | [Flip Me Upside Down](https://open.spotify.com/track/3aHgTNM3PKYuTJt1zCFpJP) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not The World](https://open.spotify.com/album/50hkPbORARa25Wv8h0E1i7) | 3:13 |
 | 79 | [First High](https://open.spotify.com/track/1zDomzzT6h0Sa2BAzMxvma) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 3:07 |
 | 80 | [SET YOURSELF ON FIRE](https://open.spotify.com/track/51seeZMWB9XvLl1jl8p6EP) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/6SW7IIrlj6LoWxDPinGeQp) | 2:51 |
 | 81 | [Often, Lately](https://open.spotify.com/track/6wpPY2tlgKSMXvuiXRU7Fk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:19 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 181 | [Own The Night](https://open.spotify.com/track/0BorUElU7vFO51qKnAx8kM) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Own The Night](https://open.spotify.com/album/5Ph15urX6DYg3XRrw3Zw3X) | 3:34 |
 | 182 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 
-Snapshot ID: `AcZrBAAAAACxvHbEPFdG5G++1Myjd264`
+Snapshot ID: `AcZwpAAAAABDhlpxxiZOFffdzaT69FI7`

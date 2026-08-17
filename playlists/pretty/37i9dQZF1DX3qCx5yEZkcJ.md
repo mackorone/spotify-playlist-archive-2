@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,466,851 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,466,790 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 |
 | 80 | [ZENSORIUM](https://open.spotify.com/track/5Y5g5KeujSAI3CTpLw9ff8) | [Nujakasha](https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI) | [ZENSORIUM](https://open.spotify.com/album/54vkQDOsaTJXoRMhB8nApP) | 1:52 |
 
-Snapshot ID: `AAAAAEqOrPsq6oJMGB22nERqUMEeg8KM`
+Snapshot ID: `AAAAAC8YT531J6v/gtoxtQOsd7CiG0Gx`

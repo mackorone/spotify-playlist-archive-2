@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 135 | [Before We Were Us](https://open.spotify.com/track/04ag2eala9ZAxtmDCCWNxx) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [Before We Were Us](https://open.spotify.com/album/0VqPBtd4Jr05sOiZkNYeEK) | 2:57 |
 | 136 | [Venus](https://open.spotify.com/track/4kZj7dHGWSfnP34LSEHLQl) | [Symphani Soto](https://open.spotify.com/artist/5N2lZ3f6pIpMTnpfVV4Adg) | [Under The Sun](https://open.spotify.com/album/0d5s5Jp5BJ6S7arBPAnfyg) | 3:03 |
 | 137 | [Live It Up](https://open.spotify.com/track/5dZKshIBLX3U9JprsR75mV) | [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX) | [Popular Loner](https://open.spotify.com/album/7KiThVa9aW0ggvxbLMcTE5) | 2:21 |
-| 138 | [\(RAP SH\*T\)](https://open.spotify.com/track/59VbLC5AZPKDn5HKRPkCpQ) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:57 |
-| 139 | [All My Love](https://open.spotify.com/track/64Vt6857ya0Bf5f7T5Ycoo) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [YEARNALISM](https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta) | 3:12 |
+| 138 | [All My Love](https://open.spotify.com/track/64Vt6857ya0Bf5f7T5Ycoo) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [YEARNALISM](https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta) | 3:12 |
+| 139 | [\(RAP SH\*T\)](https://open.spotify.com/track/59VbLC5AZPKDn5HKRPkCpQ) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:57 |
 | 140 | [DO OVER](https://open.spotify.com/track/5QsvwpZpAFZr3mZSiUfyJz) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:31 |
 | 141 | [Norf Gun](https://open.spotify.com/track/5bFgVgHbZkatgRhI8LPgd4) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:00 |
 | 142 | [Swim](https://open.spotify.com/track/4eSGI45RAwuRGtKxg0IYSz) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:22 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 148 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 149 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcZq+gAAAAAyDJx7vPrURKWbkmr//Hdu`
+Snapshot ID: `AcZwmgAAAABGKYaDTT04GuKIZT9xFhcK`

@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40874,
+  "num_followers": 40877,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAAqHNIpHdSrNA/aVxMdesDO",
+  "snapshot_id": "an+sAAAAAADf1cGNRwNiIqPEQmCd2koG",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Love... (Her Fault) [feat. Bryson Tiller]",
-      "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Album About Nothing",
         "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 395950,
       "name": "The Matrimony (feat. Usher)",
       "url": "https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Love... (Her Fault) [feat. Bryson Tiller]",
+      "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 209182,
-      "name": "FEELINGS ON SILENT (feat. Wale)",
-      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Album About Nothing",
         "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 232661,
       "name": "The Body (feat. Jeremih)",
       "url": "https://open.spotify.com/track/1cOi4OoRlpOznxiRa8FfHf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 209182,
+      "name": "FEELINGS ON SILENT (feat. Wale)",
+      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
     },
     {
       "added_at": null,
@@ -795,30 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Of Mind (feat. Wale & J'TA)",
-        "url": "https://open.spotify.com/album/04IK5ajZvrJ2oAt9VqBLSX"
-      },
-      "artists": [
-        {
-          "name": "Nino Paid",
-          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "J'TA",
-          "url": "https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct"
-        }
-      ],
-      "duration_ms": 217731,
-      "name": "Peace Of Mind (feat. Wale & J'TA)",
-      "url": "https://open.spotify.com/track/7miRYKcr0lYSb0zCRVKc5d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Never Visit Me (feat. Wale & Enny)",
         "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 264000,
       "name": "You Never Visit Me (feat. Wale & Enny)",
       "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Of Mind (feat. Wale & J'TA)",
+        "url": "https://open.spotify.com/album/04IK5ajZvrJ2oAt9VqBLSX"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "J'TA",
+          "url": "https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct"
+        }
+      ],
+      "duration_ms": 217731,
+      "name": "Peace Of Mind (feat. Wale & J'TA)",
+      "url": "https://open.spotify.com/track/7miRYKcr0lYSb0zCRVKc5d"
     },
     {
       "added_at": null,
@@ -967,6 +967,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Friday Night Lights",
         "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 286900,
       "name": "You Got It (feat. Wale)",
       "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
     },
     {
       "added_at": null,
@@ -1043,30 +1043,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MMG Presents: Self Made, Vol. 2 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6i5RM49EP7GbJiHX7D2eV6"
+        "name": "Drew Barrymore (feat. Wale)",
+        "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
       },
       "artists": [
         {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        },
+        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 249066,
-      "name": "This Thing of Ours (feat. Rick Ross & Nas)",
-      "url": "https://open.spotify.com/track/4Izv8YcbPkIXOZW76h68hG"
+      "duration_ms": 216246,
+      "name": "Drew Barrymore (feat. Wale)",
+      "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
     }
   ],
   "unique_name": "This Is Wale",

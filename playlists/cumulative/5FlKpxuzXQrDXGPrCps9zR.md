@@ -4,7 +4,7 @@
 
 > 
 
-190 songs - 10 hr 0 min
+191 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [ocean eyes](https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Ocean Eyes](https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9) | 3:20 | 2025-10-15 | 2025-11-13 |
 | [OMG What's Happening](https://open.spotify.com/track/11OPriDpmUrTMTji52ta17) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:59 | 2026-01-31 | 2026-04-08 |
 | [On My Soul](https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:54 | 2026-03-03 | 2026-03-23 |
+| [One Beat Away](https://open.spotify.com/track/3DUpidac5G2faRayaksqMq) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v), [Camp Rock – Cast](https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 2:49 | 2026-08-16 |  |
 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2025-10-04 | 2026-01-29 |
 | [Opening](https://open.spotify.com/track/5CdeOC9tjjv8ufFt8aG88l) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 4:00 | 2025-09-14 | 2025-10-05 |
 | [Piano](https://open.spotify.com/track/1FSfCzJd8aSQ0nqTSbN4PO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:54 | 2026-01-19 | 2026-03-03 |

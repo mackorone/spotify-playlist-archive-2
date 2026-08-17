@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 336679,
+  "num_followers": 336747,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an5agAAAAAB5/wFK8xR+IDJdoxw8/e+J",
+  "snapshot_id": "an+sAAAAAAB8EzYkKokpWK5dK3w4wM0j",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Official FIFA World Cup 2026\u2122 Album",
-        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 142863,
-      "name": "Partidazo",
-      "url": "https://open.spotify.com/track/09xBXD2xw44iIrhZekMsaN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
       },
@@ -599,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANAIMA",
-        "url": "https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX"
+        "name": "Official FIFA World Cup 2026\u2122 Album",
+        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
       },
       "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 151967,
-      "name": "CANAIMA",
-      "url": "https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs"
+      "duration_ms": 142863,
+      "name": "Partidazo",
+      "url": "https://open.spotify.com/track/09xBXD2xw44iIrhZekMsaN"
     },
     {
       "added_at": null,
@@ -635,6 +615,26 @@
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANAIMA",
+        "url": "https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 151967,
+      "name": "CANAIMA",
+      "url": "https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs"
     },
     {
       "added_at": null,
@@ -911,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 181694,
+      "name": "Hot Body (feat. Danny Ocean) - Remix",
+      "url": "https://open.spotify.com/track/0fErhKMUoUGmQ9bBitUwAV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "venequia.",
         "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 132336,
       "name": "escala en Panam\u00e1",
       "url": "https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ESA NOCHE TERMIN\u00d3 DE D\u00cdA",
-        "url": "https://open.spotify.com/album/685PBfRH0QRFMf7ieMAOYv"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "3AM - TE 100PRE",
-      "url": "https://open.spotify.com/track/36VDFqRKppSVbrCo23SC6p"
     }
   ],
   "unique_name": "This Is Danny Ocean",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-168 songs - 9 hr 58 min
+169 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Grateful](https://open.spotify.com/track/1QFLNvJEwuPfvuZxG6cZfm) | [Plan B](https://open.spotify.com/artist/7qlh1IM1XMeQXA9ukp59au) | [Heaven Before All Hell Breaks Loose](https://open.spotify.com/album/2qdRHBPTAehjTckw9H3x0F) | 3:37 | 2026-05-19 |  |
 | [Gravity \- Peaches Remix](https://open.spotify.com/track/4qyWox0c3KW3Wi7MHIUY8Y) | [Simonne Jones](https://open.spotify.com/artist/0dMXglEw2nK3tkOH2hakyx), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Gravity \(Peaches Remix\)](https://open.spotify.com/album/53ikCXAAtUsCIRoAfu3gsK) | 4:24 | 2026-05-19 |  |
 | [Higher](https://open.spotify.com/track/39lxs02zC9wpqB0sxufKKI) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Higher](https://open.spotify.com/album/3qIJqbxuiYCwwGVLkLSZ1P) | 3:01 | 2026-05-19 |  |
+| [Hold On](https://open.spotify.com/track/1Jfl0IXNH6aJgNWSpBNqN2) | [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Once](https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa) | 3:15 | 2026-08-16 |  |
 | [Holding On](https://open.spotify.com/track/6Nhn9VcdNtKBPvtSa2LXcg) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz), [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Holding On](https://open.spotify.com/album/71cwuXguuLIwMhJZ1LGPBR) | 4:59 | 2026-05-19 |  |
 | [Home](https://open.spotify.com/track/1gfHj93cgcy7Qbwdj7UHcr) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 3:32 | 2026-05-19 |  |
 | [Honey](https://open.spotify.com/track/1zoPdnExrABr51QDrEoZUQ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:42 | 2026-05-19 |  |

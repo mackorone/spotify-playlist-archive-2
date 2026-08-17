@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 361813,
       "name": "14",
       "url": "https://open.spotify.com/track/7KD8oUUpidul2ROxTIhPAw"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 217161,
       "name": "1990",
       "url": "https://open.spotify.com/track/5iSyPFZyJUh6Dedbg6Gpvq"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 228571,
       "name": "4:AM",
       "url": "https://open.spotify.com/track/0iq4IOcuvSXP3VNTjOLBf1"
@@ -12365,6 +12365,24 @@
     },
     {
       "album": {
+        "name": "Mahal Magmahal",
+        "url": "https://open.spotify.com/album/7FMzUetRt2XYjFEq1T5R0r"
+      },
+      "artists": [
+        {
+          "name": "Esremborak",
+          "url": "https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP"
+        }
+      ],
+      "date_added": "2026-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294816,
+      "name": "Mahal Magmahal",
+      "url": "https://open.spotify.com/track/0D5huw4lFGtUfCkf91rGvQ"
+    },
+    {
+      "album": {
         "name": "Senaryo",
         "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
       },
@@ -15030,7 +15048,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 280828,
       "name": "Pag-ibig ng Ikaw at Ako",
       "url": "https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4"
@@ -17874,7 +17892,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 280426,
       "name": "Sino",
       "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
@@ -20492,7 +20510,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -20510,7 +20528,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -20708,7 +20726,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 246410,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/3c9LVPh3MpeFoaAL5DBDK5"
@@ -20726,7 +20744,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 246410,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6"
@@ -21156,7 +21174,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -21966,7 +21984,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-17",
       "duration_ms": 337580,
       "name": "Waltz of Four Left Feet",
       "url": "https://open.spotify.com/track/29eiVZ3R6iJcXB01dOAl6H"

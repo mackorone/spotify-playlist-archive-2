@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-575 songs - 1 day 7 hr 41 min
+576 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 | 2022-12-15 |  |
 | [In The Kitchen](https://open.spotify.com/track/2CgfOhS0asWMKo1R1yybNQ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/59NRSAaIARSG6fJPaLIg5e) | 4:11 | 2023-12-17 | 2024-02-01 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-05-11 | 2024-04-08 |
-| [In The Stars](https://open.spotify.com/track/315aBOUD3xtj7sUMXtRgMV) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:36 | 2024-04-07 | 2026-08-16 |
+| [In The Stars](https://open.spotify.com/track/315aBOUD3xtj7sUMXtRgMV) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:36 | 2024-04-07 |  |
 | [In The Stars](https://open.spotify.com/track/6lIuGFc0Db8qazO9gEpnni) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/2qUrVoIAcPTfxc65pxXfTq) | 3:38 | 2023-12-13 | 2024-01-29 |
 | [In The Stars \(Benson Boone\) \- Sped Up Version](https://open.spotify.com/track/0nkpidxRN9kSxxEs0bxwvc) | [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [In The Stars \(Benson Boone\) \[Sped Up Version\]](https://open.spotify.com/album/7FKjCS2zIVGBnMrl9z4pl6) | 3:03 | 2023-06-22 | 2023-12-14 |
 | [In The Stars \- French Version](https://open.spotify.com/track/0GucRM0BPRGxuzYPN3tF6T) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET), [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [In The Stars \(French Version\)](https://open.spotify.com/album/2VmbPgtq2R4rqZbZQjWD3u) | 2:56 | 2024-03-12 |  |
@@ -315,7 +315,7 @@
 | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF) | 3:07 | 2023-06-22 | 2023-12-14 |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-24 |  |
 | [Love The Hell Out Of You](https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:25 | 2023-05-23 |  |
-| [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-12-13 | 2026-08-16 |
+| [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-12-13 |  |
 | [Love U Like That \- Korean Version](https://open.spotify.com/track/1UlZonvtUSOVu9awdMe7UL) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That \(Korean Version\)](https://open.spotify.com/album/3PqBpsYW12oNRbwiqCk2T3) | 3:31 | 2025-05-31 |  |
 | [Loving Nobody](https://open.spotify.com/track/4FnrwHQLcbOwhUjb983ifW) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Loving Nobody](https://open.spotify.com/album/10uNdRKtd9wW6SlXRlRFyo) | 3:03 | 2023-06-22 | 2025-06-28 |
 | [Low Key \- Dominican Remix](https://open.spotify.com/track/57XbHgOZaGu326GHFu4YCM) | [Deivi\-N](https://open.spotify.com/artist/26eQkZeNsJBzxrlcqUKJfi) | [Low Key \(Dominican Remix\)](https://open.spotify.com/album/3CU1TlhFf20U31J0vhOd1B) | 2:42 | 2023-12-13 | 2025-07-10 |
@@ -513,6 +513,7 @@
 | [Terrified](https://open.spotify.com/track/0tCD4um9Mbqli92icIS3Jo) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Unfortunately, Terror Jr](https://open.spotify.com/album/6b2KfLOzzs3nOKKaPbi47J) | 2:58 | 2022-12-15 |  |
 | [Thank U](https://open.spotify.com/track/2FqZjsvLrqiQF5CpCOSY7i) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR \- The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 | 2025-01-15 | 2025-04-12 |
 | [Thanks to U](https://open.spotify.com/track/0fJwGPIvrNpl02dk3lrwx4) | [Vog](https://open.spotify.com/artist/5ukt8aeApkMyluGHRS7oqy) | [Thanks to U](https://open.spotify.com/album/7L1WhX14BK3JG07HDRKTc9) | 4:57 | 2023-12-13 | 2025-06-28 |
+| [That Way](https://open.spotify.com/track/2Pv93rSb7vy3yVOWkLQ7h4) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:56 | 2026-08-16 |  |
 | [That's The Kind Of Woman](https://open.spotify.com/track/3LS7eIJfb4eajXcqbnlN2b) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:14 | 2021-12-27 |  |
 | [That's What I Get](https://open.spotify.com/track/0koOtMGSYQSbaUpSCoL9Kh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:30 | 2024-08-25 |  |
 | [That's What I Get](https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [That's What I Get](https://open.spotify.com/album/2ot1e7ExW9qF6G82rIJc1f) | 2:30 | 2023-02-10 | 2024-08-26 |
