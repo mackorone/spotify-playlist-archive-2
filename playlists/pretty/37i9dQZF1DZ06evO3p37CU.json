@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABnkVgv8aZbaF8QR+L6UCU6",
+  "snapshot_id": "aoD9gAAAAAB3Xzd3v+iut0DQ8NqDZ24r",
   "tracks": [
     {
       "added_at": null,
@@ -880,17 +880,21 @@
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Jurdan Bryant",
+          "url": "https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1"
         }
       ],
-      "duration_ms": 290035,
-      "name": "Mecca (with JID & EARTHGANG)",
-      "url": "https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1"
+      "duration_ms": 242099,
+      "name": "Oshun (with EARTHGANG & 6LACK feat. Jurdan Bryant)",
+      "url": "https://open.spotify.com/track/1ohxmwWvLNWIlt0kUo8kZF"
     },
     {
       "added_at": null,
@@ -972,21 +976,17 @@
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
         },
         {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Jurdan Bryant",
-          "url": "https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1"
         }
       ],
-      "duration_ms": 242099,
-      "name": "Oshun (with EARTHGANG & 6LACK feat. Jurdan Bryant)",
-      "url": "https://open.spotify.com/track/1ohxmwWvLNWIlt0kUo8kZF"
+      "duration_ms": 290035,
+      "name": "Mecca (with JID & EARTHGANG)",
+      "url": "https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1"
     },
     {
       "added_at": null,
@@ -1031,36 +1031,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge Of The Dreamers III: Director's Cut",
-        "url": "https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AHHCade",
-        "url": "https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/3IFIDcn1OpA40MxMPrDxM7"
       },
       "artists": [
         {
@@ -1074,11 +1046,15 @@
         {
           "name": "sadMONTH",
           "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
         }
       ],
-      "duration_ms": 178204,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/0zbVUavSPx1L6KdlTEKxZO"
+      "duration_ms": 165230,
+      "name": "Nirvana - Benny Benassi Remix",
+      "url": "https://open.spotify.com/track/3QW1NlUehukxZb1YBGBbml"
     },
     {
       "added_at": null,
@@ -1119,6 +1095,34 @@
       "duration_ms": 146715,
       "name": "Jupiter (with Mereba & JID feat. EARTHGANG, Jurdan Bryant, Hollywood JB & Benji.)",
       "url": "https://open.spotify.com/track/0je2CwkO13cSNRJzastZKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge Of The Dreamers III: Director's Cut",
+        "url": "https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D"
     },
     {
       "added_at": null,
@@ -1167,6 +1171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 240288,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strays with Rabies",
         "url": "https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb"
       },
@@ -1183,22 +1203,6 @@
       "duration_ms": 296586,
       "name": "Liquor Sto'",
       "url": "https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 240288,
-      "name": "ALL EYES ON ME",
-      "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
     }
   ],
   "unique_name": "This Is EARTHGANG",

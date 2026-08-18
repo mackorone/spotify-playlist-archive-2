@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > canciones que duran lo mismo \(o menos\) que la pausa en el partido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,225 likes - 30 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,248 likes - 30 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

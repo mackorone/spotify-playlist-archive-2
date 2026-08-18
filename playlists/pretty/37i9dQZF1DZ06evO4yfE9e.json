@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2929,
+  "num_followers": 2932,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAD9eLMbVJ76s9wP9XSNytB4",
+  "snapshot_id": "aoD9gAAAAADPKFk5mITfDmNl+5cUPW2o",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "nympho",
+        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167291,
+      "name": "2 boys",
+      "url": "https://open.spotify.com/track/6fx0GG75TjPdW8gSW1GrDW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOYS BOYS BOYS",
         "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
       },
@@ -400,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 167291,
-      "name": "2 boys",
-      "url": "https://open.spotify.com/track/6fx0GG75TjPdW8gSW1GrDW"
+      "duration_ms": 156578,
+      "name": "would you ever?",
+      "url": "https://open.spotify.com/track/4wzwrE1M4cFGWgZ0Hm8Xy9"
     },
     {
       "added_at": null,
@@ -480,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 156578,
-      "name": "would you ever?",
-      "url": "https://open.spotify.com/track/4wzwrE1M4cFGWgZ0Hm8Xy9"
+      "duration_ms": 152418,
+      "name": "bubblegum pink",
+      "url": "https://open.spotify.com/track/6rRXZ8p3c7fMrayNYz296C"
     },
     {
       "added_at": null,
@@ -551,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "nympho",
-        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
+        "name": "Moonwater",
+        "url": "https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv"
       },
       "artists": [
         {
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 152418,
-      "name": "bubblegum pink",
-      "url": "https://open.spotify.com/track/6rRXZ8p3c7fMrayNYz296C"
+      "duration_ms": 112566,
+      "name": "Moonwater",
+      "url": "https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 123681,
       "name": "Trillion$ (feat. bludnymph)",
       "url": "https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moonwater",
-        "url": "https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 112566,
-      "name": "Moonwater",
-      "url": "https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Crusin' is not a crime, it's a lifestyle!
 
-192 songs - 11 hr 14 min
+193 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,12 +188,13 @@
 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 | 2023-05-01 |  |
 | [Wish I Said I Love You](https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m) | [Nick Wilkins](https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI), [meka maraschino](https://open.spotify.com/artist/2CF7xMG5rTOrrNotNG49Dn) | [Wish I Said I Love You](https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy) | 2:34 | 2023-08-29 |  |
 | [Yes, I'm Ready](https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 3:04 | 2023-05-01 |  |
+| [Yes, I'm Ready](https://open.spotify.com/track/0qXgoCTlUHIP8p7jgG9vit) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Oh, How It Hurts](https://open.spotify.com/album/3B8CKlu14qGRUsJsVYNHWF) | 3:09 | 2025-05-23 |  |
 | [You Are Everything](https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Very Best of the Stylistics ..\. And More!](https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk) | 2:55 | 2024-01-05 |  |
 | [You Are Everything](https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 2:55 | 2023-05-01 | 2024-04-19 |
 | [You Beat Me To The Punch](https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:45 | 2023-05-01 |  |
 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 | 2023-05-01 |  |
 | [You'll Lose A Good Thing](https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:39 | 2023-05-01 |  |
-| [You'll Lose a Good Thing \(Rerecorded\)](https://open.spotify.com/track/6Iqd5wxINx22rdhfBYc3vl) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [The Love Album](https://open.spotify.com/album/6OvMYEEqX0kJhUab0G591A) | 2:36 | 2023-05-01 |  |
+| [You'll Lose a Good Thing \(Rerecorded\)](https://open.spotify.com/track/6Iqd5wxINx22rdhfBYc3vl) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [The Love Album](https://open.spotify.com/album/6OvMYEEqX0kJhUab0G591A) | 2:36 | 2023-05-01 | 2026-08-18 |
 | [You're Still a Young Man](https://open.spotify.com/track/0LDauNxnqI5nsyCa2Xsc5W) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Bump City](https://open.spotify.com/album/4LXDYSJXbPftFYawbEMMLI) | 5:37 | 2023-05-01 |  |
 | [You've Really Got A Hold On Me](https://open.spotify.com/track/2tpOcRwFsv51JxUJmbtVOm) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Definitive Collection](https://open.spotify.com/album/2Wbsn92Jn7DRKQFu7HOzuo) | 3:14 | 2024-01-05 |  |
 | [You've Really Got A Hold On Me](https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W) | 2:57 | 2023-05-01 |  |

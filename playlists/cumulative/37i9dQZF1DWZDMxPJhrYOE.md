@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,209 songs - 2 day 15 hr 5 min
+1,210 songs - 2 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Alt Ved Dig](https://open.spotify.com/track/6DpGj9bttRgHoT1vk8ezgj) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Alt Ved Dig](https://open.spotify.com/album/0XkYs4ds1GxWOg2ghL07fY) | 2:21 | 2024-07-31 | 2024-08-17 |
 | [alt vind og vejr \(feat\. ozzy\)](https://open.spotify.com/track/4FLlSOADhh9yiBNGs144zs) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [\(over\)lever](https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN) | 2:37 | 2026-02-12 | 2026-03-15 |
 | [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 | 2026-02-13 | 2026-05-08 |
+| [Always on Your Side](https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Always on Your Side](https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0) | 3:28 | 2026-08-13 |  |
 | [AMERICAN BEAUTY](https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:16 | 2025-02-06 | 2025-04-20 |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-05 | 2026-05-08 |
 | [announcements](https://open.spotify.com/track/3t3hSIPu9jCZ3Qy9m5x8Dz) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [announcements](https://open.spotify.com/album/1iT03F2biHT5gNT9rCw7Fs) | 2:21 | 2025-11-27 | 2025-12-05 |
@@ -470,7 +471,7 @@
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-07-11 |
 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 | 2025-09-11 | 2025-12-10 |
 | [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 | 2024-07-25 | 2024-09-27 |
-| [Here With Me Now](https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Here With Me Now](https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf) | 4:20 | 2026-06-15 |  |
+| [Here With Me Now](https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Here With Me Now](https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf) | 4:20 | 2026-06-15 | 2026-08-18 |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-07-01 | 2024-09-07 |
 | [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 | 2024-07-01 | 2024-08-17 |
 | [Heroin eller hvad \(feat\. Tobias Rahim\)](https://open.spotify.com/track/0tVnHL7caHro4WYqFIi0co) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Heroin eller hvad \(feat\. Tobias Rahim\)](https://open.spotify.com/album/2IYaImluRx2km6CilDQNL8) | 3:17 | 2026-05-07 | 2026-05-14 |

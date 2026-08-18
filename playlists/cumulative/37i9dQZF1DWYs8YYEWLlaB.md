@@ -4,16 +4,18 @@
 
 > viral, trend ve yükselenler\. Kapak: Asil Gök
 
-311 songs - 15 hr 46 min
+313 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#işbirliği](https://open.spotify.com/track/7pY0EgXq4SAl0dHjtkxdUe) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [valiz](https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7) | 1:59 | 2026-04-27 | 2026-06-25 |
 | [10 NUMARA II](https://open.spotify.com/track/7al6zpPFXu6fU5cnoNy87N) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:03 | 2026-05-18 | 2026-06-05 |
+| [5 YILDIZ](https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [5 YILDIZ](https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw) | 1:30 | 2026-08-17 |  |
 | [6.4 MM](https://open.spotify.com/track/5pMOWB4gdjuAamxubkMDFt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | [6.4 MM](https://open.spotify.com/album/36fv58YTKRDS8gZS6Nqfjo) | 3:23 | 2025-08-28 | 2025-09-23 |
 | [Acıtır gibi severek](https://open.spotify.com/track/4EC9KUi9fXKFzK17Or0A1a) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Acıtır gibi severek](https://open.spotify.com/album/4CiPRmoqI7UVRc4EfBqozH) | 3:45 | 2024-12-16 | 2025-04-08 |
 | [Adı İntikamdı \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:32 | 2026-05-18 |  |
 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 | 2025-06-30 | 2025-07-23 |
+| [Ah Be Manolya](https://open.spotify.com/track/6jufCZrWWPnuL8ozXjMqIp) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ah Be Manolya](https://open.spotify.com/album/0w21vGqaC3h0KLyXsNSAb8) | 2:54 | 2026-08-17 |  |
 | [Ait Hissetmiyorum](https://open.spotify.com/track/5XQ1eD5Esz1CzdjH9bzbzn) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 1:50 | 2024-10-17 | 2024-12-05 |
 | [Akşamüstü](https://open.spotify.com/track/2DuqHDhcgQJ4Rz8noWFsgR) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Akşamüstü](https://open.spotify.com/album/1d5ajC5UEApJAtlA8zKZ2h) | 2:52 | 2026-06-24 |  |
 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 | 2025-03-13 | 2026-08-06 |
@@ -81,7 +83,7 @@
 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 | 2024-07-08 | 2024-09-27 |
 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 | 2024-07-02 | 2025-02-19 |
 | [Dillere Destan](https://open.spotify.com/track/7qRFc0aYUISbJTDCPWLfTH) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Dillere Destan](https://open.spotify.com/album/3th6qaFc54UGTWGnV6Ixcm) | 5:11 | 2025-04-01 | 2025-05-02 |
-| [Diva](https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Diva](https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu) | 2:07 | 2026-07-23 |  |
+| [Diva](https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Diva](https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu) | 2:07 | 2026-07-23 | 2026-08-18 |
 | [Diva Yorgun](https://open.spotify.com/track/006oGnrSZevqZTimsD2oh4) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Diva Yorgun](https://open.spotify.com/album/1CmMKVtTFW7yG4k6PlfWzQ) | 4:19 | 2024-10-07 | 2025-01-23 |
 | [Doldum](https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Doldum](https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav) | 2:26 | 2024-12-04 | 2025-04-04 |
 | [DOMDOM](https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [DOMDOM](https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X) | 2:13 | 2024-07-25 | 2024-08-08 |
@@ -196,7 +198,7 @@
 | [Merhametsiz](https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Merhametsiz](https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X) | 4:06 | 2024-07-03 | 2025-05-13 |
 | [MERMER](https://open.spotify.com/track/4UzAPluTbjdlyyhfE00REO) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [SÖZDE KİMSELER SEVMİYOR](https://open.spotify.com/album/5ifZ1o8QqQVdtcXkuxrwhS) | 1:18 | 2025-06-18 | 2025-10-22 |
 | [Mevzu Derin](https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Mevzu Derin](https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7) | 3:29 | 2024-11-27 | 2025-04-04 |
-| [Misafir](https://open.spotify.com/track/71rwEX50AtpDKdGTRguRLs) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yeni Çıktı](https://open.spotify.com/album/1dXa3OLrAab1cYhKfBa5mZ) | 3:23 | 2026-04-16 |  |
+| [Misafir](https://open.spotify.com/track/71rwEX50AtpDKdGTRguRLs) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yeni Çıktı](https://open.spotify.com/album/1dXa3OLrAab1cYhKfBa5mZ) | 3:23 | 2026-04-16 | 2026-08-18 |
 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 | 2025-06-04 | 2025-12-25 |
 | [muamma \- ulubatlı](https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [muamma \(ulubatlı\)](https://open.spotify.com/album/6eZNFmDx1hVjp3mweyiTEO) | 3:08 | 2026-04-27 | 2026-05-19 |
 | [NALAKA](https://open.spotify.com/track/5h5QPBDmsxIGuH55zsBgRU) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [NALAKA](https://open.spotify.com/album/7sE9isq4Y1SbEVHdaR6Gmb) | 1:46 | 2026-04-16 | 2026-07-07 |

@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-153 songs - 7 hr 42 min
+154 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Kadar](https://open.spotify.com/track/6dJ3qICD3mFsPpaGAXVme9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 3:09 | 2023-06-22 | 2025-01-09 |
 | [Kala Chashma](https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Amar Arshi](https://open.spotify.com/artist/3f7Qfkua3IcRpUFzUaUnrX), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Indeep Bakshi](https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ), [Amrik Singh](https://open.spotify.com/artist/1Sqacm1VMROsVrDOUwxS5G) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:07 | 2025-01-08 | 2025-02-08 |
 | [Kamli](https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Kamli \(Original\)](https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms) | 3:21 | 2023-06-22 |  |
-| [Kehnde Kahaunde](https://open.spotify.com/track/5IJxi90YOM3suyzVXH2ywL) | [Surjit Khan](https://open.spotify.com/artist/2NCZYytsjPe7RsYwCblxyl) | [Kehnde Kahaunde](https://open.spotify.com/album/0hRhdn8zZNk9VtwBFeIQFi) | 2:30 | 2026-08-05 |  |
+| [Kehnde Kahaunde](https://open.spotify.com/track/5IJxi90YOM3suyzVXH2ywL) | [Surjit Khan](https://open.spotify.com/artist/2NCZYytsjPe7RsYwCblxyl) | [Kehnde Kahaunde](https://open.spotify.com/album/0hRhdn8zZNk9VtwBFeIQFi) | 2:30 | 2026-08-05 | 2026-08-18 |
 | [Kharche](https://open.spotify.com/track/2pBt3jQ4rO6XddVsst9oNX) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Kharche](https://open.spotify.com/album/6ui4AuZSIzUVgmSshimbey) | 4:10 | 2023-06-22 | 2025-01-09 |
 | [Laembadgini](https://open.spotify.com/track/6Zp8T8QuT8XK1gPPs68zRz) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 3:06 | 2023-06-22 | 2025-01-09 |
 | [Lakk Shake](https://open.spotify.com/track/0HLOJXIweMIAJZCRu1aVcX) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v), [Veen Ranjha](https://open.spotify.com/artist/0ZjEqhO82XGFs8LTXpySVK) | [Lakk Shake \- Single](https://open.spotify.com/album/2gRmUaxZuhpf7rzJun22ho) | 3:27 | 2023-06-22 | 2025-01-09 |
@@ -142,6 +142,7 @@
 | [Sohniye](https://open.spotify.com/track/4rL0ikdBsPgGF4QkOkX9YC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sohniye](https://open.spotify.com/album/0SQKVfRe9nUS9ULfGQ0fOo) | 2:34 | 2026-07-10 |  |
 | [Stubborn](https://open.spotify.com/track/0UXQN4UL4LW1IeMczufzsF) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Pagga](https://open.spotify.com/artist/4tGqWmZl3fRvb0QMCb0yxg), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E) | [ROMEO](https://open.spotify.com/album/3BdbcwuZ24zF60YcQrL3NV) | 2:17 | 2025-11-17 |  |
 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 | 2025-01-08 | 2025-02-08 |
+| [Sun Bae](https://open.spotify.com/track/1jahde3ydmkbYI8meSepXs) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT) | [Sun Bae](https://open.spotify.com/album/4WXsuNALXzHqp6bzqqxWvj) | 2:16 | 2026-08-17 |  |
 | [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 | 2023-06-22 | 2026-02-16 |
 | [Tankha](https://open.spotify.com/track/0L4uTenn6ln6mVxz1hr2co) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Tankha \- Single](https://open.spotify.com/album/6646YdKCiWNHAtqBvccQGW) | 2:58 | 2023-06-22 | 2025-01-09 |
 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 | 2025-01-08 | 2025-02-08 |

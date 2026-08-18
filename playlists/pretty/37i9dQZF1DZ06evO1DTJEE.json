@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 78198,
+  "num_followers": 78250,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADtzNMsWrkLgOEyR7ICJLPH",
+  "snapshot_id": "aoD9gAAAAABinP5un/ACN69jL7UBzKUK",
   "tracks": [
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+        "name": "Midtown Sessions",
+        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 188426,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
+      "duration_ms": 193534,
+      "name": "Bartender In Destin - Acoustic",
+      "url": "https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midtown Sessions",
-        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 193534,
-      "name": "Bartender In Destin - Acoustic",
-      "url": "https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ"
+      "duration_ms": 188426,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
     },
     {
       "added_at": null,

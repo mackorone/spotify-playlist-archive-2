@@ -3699,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Happy-fi Compilaci\u00f3n Vol. 5 Coyote Nights",
+        "url": "https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F"
+      },
+      "artists": [
+        {
+          "name": "Quiero Club",
+          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277626,
+      "name": "Minutos de Aire (feat. Jorge Gonzalez)",
+      "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
+    },
+    {
+      "album": {
         "name": "Detroit",
         "url": "https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT"
       },
@@ -4684,7 +4702,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 230437,
       "name": "Que No",
       "url": "https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif"

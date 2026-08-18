@@ -1,6 +1,6 @@
 {
   "description": "Cuddle up and relax with these country tunes.",
-  "num_followers": 144452,
+  "num_followers": 144507,
   "original_name": "Cozy Country",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,18 @@
     {
       "added_at": "2026-05-25 23:53:27",
       "album": {
-        "name": "Madeline (feat. Gabriella Rose)",
-        "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
+        "name": "Out of Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Gabriella Rose",
-          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 145146,
-      "name": "Madeline (feat. Gabriella Rose)",
-      "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
+      "duration_ms": 208266,
+      "name": "Out of Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
     },
     {
       "added_at": "2026-05-25 23:53:27",
@@ -707,18 +703,22 @@
     {
       "added_at": "2026-05-25 23:53:27",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "Madeline (feat. Gabriella Rose)",
+        "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
         }
       ],
-      "duration_ms": 224866,
-      "name": "American Honey",
-      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
+      "duration_ms": 145146,
+      "name": "Madeline (feat. Gabriella Rose)",
+      "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
     },
     {
       "added_at": "2026-05-25 23:53:27",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-05-25 23:53:27",
       "album": {
-        "name": "Out of Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Out of Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
+      "duration_ms": 224866,
+      "name": "American Honey",
+      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
     },
     {
       "added_at": "2026-05-25 23:53:27",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-25 23:53:27",
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "More Hearts Than Mine",
-      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
-    },
-    {
-      "added_at": "2026-05-25 23:53:27",
-      "album": {
         "name": "Next Thing You Know",
         "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 175237,
       "name": "Next Thing You Know",
       "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
+    },
+    {
+      "added_at": "2026-05-25 23:53:27",
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "More Hearts Than Mine",
+      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
       "added_at": "2026-05-25 23:53:27",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2026-05-25 23:53:27",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/4PcyS3Xjjq2G4zUuPcVhmI"
+        "name": "I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9"
       },
       "artists": [
         {
           "name": "Cody Johnson",
           "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 190933,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/12c5b7YmtMPxWnAgSql0sb"
+      "duration_ms": 188106,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC"
     },
     {
       "added_at": "2026-05-25 23:53:27",
@@ -1215,22 +1219,18 @@
     {
       "added_at": "2026-05-25 23:53:27",
       "album": {
-        "name": "I'm Gonna Love You",
-        "url": "https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/4PcyS3Xjjq2G4zUuPcVhmI"
       },
       "artists": [
         {
           "name": "Cody Johnson",
           "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 188106,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC"
+      "duration_ms": 190933,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/12c5b7YmtMPxWnAgSql0sb"
     },
     {
       "added_at": "2026-05-25 23:53:27",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-05-25 23:53:27",
       "album": {
+        "name": "Brett Eldredge",
+        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 208720,
+      "name": "The Long Way",
+      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
+    },
+    {
+      "added_at": "2026-05-25 23:53:27",
+      "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
         "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2026-05-25 23:53:27",
-      "album": {
-        "name": "Brett Eldredge",
-        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 208720,
-      "name": "The Long Way",
-      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
     },
     {
       "added_at": "2026-05-25 23:53:27",

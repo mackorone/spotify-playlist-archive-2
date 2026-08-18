@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 188883,
+  "num_followers": 188926,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 242678,
-      "name": "Nothing's Gonna Change My Love for You",
-      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Midnight Love",
         "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 238600,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 242678,
+      "name": "Nothing's Gonna Change My Love for You",
+      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "In The Groove",
         "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 194293,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "I Feel for You",
-        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Through the Fire",
-      "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 193573,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Rock Me Tonight",
         "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 284119,
       "name": "You Are My Lady",
       "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -607,18 +607,18 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Hot Space (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+        "name": "Extension of a Man",
+        "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 209106,
-      "name": "Cool Cat - Remastered 2011",
-      "url": "https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ"
+      "duration_ms": 202066,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Extension of a Man",
-        "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 352586,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -687,18 +687,18 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+        "name": "Hot Space (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+      "duration_ms": 209106,
+      "name": "Cool Cat - Remastered 2011",
+      "url": "https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
+        "name": "The Jones Girls",
+        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Who Can I Run To",
+      "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
         "name": "Extension of a Man",
         "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "The Jones Girls",
-        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Who Can I Run To",
-      "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "I'm In Love Again",
         "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Rhythm Nation 1814",
-        "url": "https://open.spotify.com/album/7jtBAkD6DL5yn7komrFTxE"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 332840,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/5EBWCGlCn65HM8Hglrc5V1"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Betty Wright Live",
         "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 498866,
       "name": "Tonight Is the Night - Live",
       "url": "https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Rhythm Nation 1814",
+        "url": "https://open.spotify.com/album/7jtBAkD6DL5yn7komrFTxE"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 332840,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/5EBWCGlCn65HM8Hglrc5V1"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Giving You the Best That I Got",
-        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Naughty",
         "url": "https://open.spotify.com/album/0LPZFn25Bxg4zIT47SYVNC"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 265800,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/1opSxQP8KkdKOGvbvlmuIV"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Giving You the Best That I Got",
+        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 333533,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
     },
     {
       "added_at": "2025-06-03 20:18:35",

@@ -4,7 +4,7 @@
 
 > 来日希望！ライブで観たい注目の海外アーティストを特集。cover: Troye Sivan
 
-854 songs - 1 day 23 hr 31 min
+855 songs - 1 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,7 @@
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-05 |  |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2023-03-15 | 2023-05-19 |
 | [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-03-28 | 2024-04-05 |
-| [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-05-15 |  |
+| [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-05-15 | 2026-08-18 |
 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 | 2023-05-18 | 2023-06-09 |
 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-15 | 2026-02-13 |
 | [MERCEDES \(with TisaKorean\)](https://open.spotify.com/track/0exdrmcxbTDeBeMbJQthnY) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [MERCEDES \(with TisaKorean\)](https://open.spotify.com/album/4moWSq3NSg9yWzJKM6RBbb) | 2:54 | 2024-10-24 | 2024-11-01 |
@@ -497,6 +497,7 @@
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-13 | 2024-07-13 |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-08 | 2025-05-16 |
 | [Moon](https://open.spotify.com/track/2jAIpYibcgTSvcchEenQwN) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5F9611VbnzXzsLALMquXbe) | 5:17 | 2025-09-25 | 2025-10-11 |
+| [MOTION \(feat\. Juicy J\)](https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp) | 2:37 | 2026-08-14 |  |
 | [Mourning](https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Mourning](https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX) | 2:27 | 2023-05-18 | 2023-07-22 |
 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 | 2025-06-20 | 2025-10-11 |
 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-03 | 2023-09-29 |

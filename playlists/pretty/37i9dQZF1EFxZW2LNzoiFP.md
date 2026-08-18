@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 28 | [have a great day](https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:22 |
 | 29 | [Super Sad Generation](https://open.spotify.com/track/6uAGJqaLlsxezaQ4CDfi2G) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Super Sad Generation](https://open.spotify.com/album/1AuQrIqK3sAdNcsGtdNulg) | 2:46 |
 | 30 | [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 |
-| 31 | [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 |
-| 32 | [Water On Your Nose](https://open.spotify.com/track/6kANnmncuAdpwzd2Pcz0VS) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:15 |
+| 31 | [Water On Your Nose](https://open.spotify.com/track/6kANnmncuAdpwzd2Pcz0VS) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:15 |
+| 32 | [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 |
 | 33 | [Slip](https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:32 |
 | 34 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 |
 | 35 | [Magnet](https://open.spotify.com/track/2fgawGARU29VQIf8jb26fl) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:55 |
@@ -186,8 +186,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 176 | [Shoes in a Glasshouse](https://open.spotify.com/track/46iD05N1ZmG3putXiUPrBg) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:52 |
 | 177 | [Your Party](https://open.spotify.com/track/2mV56orItkQuNIcNB3oyoW) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:11 |
 | 178 | [The Heat](https://open.spotify.com/track/7sWG0VcHMYPmwSEIFCBkHe) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:11 |
-| 179 | [Take It Easy](https://open.spotify.com/track/2S2a6NriPBl7miM6VQg3MO) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [Take It Easy](https://open.spotify.com/album/02XImxL6rc0tesxatMjY5t) | 3:44 |
-| 180 | [Bathroom Floor](https://open.spotify.com/track/1q7bdWE77gGMJuJkUE8fNr) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:31 |
+| 179 | [Bathroom Floor](https://open.spotify.com/track/1q7bdWE77gGMJuJkUE8fNr) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:31 |
+| 180 | [Take It Easy](https://open.spotify.com/track/2S2a6NriPBl7miM6VQg3MO) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [Take It Easy](https://open.spotify.com/album/02XImxL6rc0tesxatMjY5t) | 3:44 |
 | 181 | [Tomboy](https://open.spotify.com/track/5tXDZ6bye9mxgWAG6jgQ3v) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Yellerkin](https://open.spotify.com/album/7cl5vDncATpcdebhi8hDZ5) | 3:13 |
 | 182 | [Vines](https://open.spotify.com/track/6HjzcRvJrPCPb9Sm4EhKwk) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Vines](https://open.spotify.com/album/7zjWTxQoonrrKIpls4TFaS) | 3:51 |
 | 183 | [Demons](https://open.spotify.com/track/0dZ7VZnKG6QBxBEcVSEMou) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 1:44 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 287 | [Shame](https://open.spotify.com/track/7CtHfnRGEwcbN0aGr8WIJn) | [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [Shame](https://open.spotify.com/album/4q7m1vMzZ3vzjXUm13R6gf) | 4:23 |
 | 288 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AcZwpAAAAADOgWkkVUYF6zmOX+rGm4h1`
+Snapshot ID: `AcZ2RAAAAADOw8A/9wUVvWRyFdU8Bpi0`

@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-587 songs - 1 day 10 hr 35 min
+588 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [On My Mind \- Enzo is Burning Remix](https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [On My Mind \(Enzo is Burning Remix\)](https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN) | 2:42 | 2024-06-28 | 2026-04-11 |
 | [One Question](https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [One Question](https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU) | 3:04 | 2026-04-30 |  |
 | [Only You](https://open.spotify.com/track/26EARfSu4b4dUhNDkfCRbP) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Only You](https://open.spotify.com/album/75IwgNsbTf2zWuhhOXI480) | 3:47 | 2026-04-30 | 2026-07-18 |
-| [Only Your Love](https://open.spotify.com/track/62oKn35uLJGrAX2lq2iUyW) | [Melon Bomb](https://open.spotify.com/artist/349BkyqZ2AuEDoloKq9EFS) | [Only Your Love](https://open.spotify.com/album/23Gkr6LOZgROphfsh7pIki) | 3:01 | 2026-07-23 |  |
+| [Only Your Love](https://open.spotify.com/track/62oKn35uLJGrAX2lq2iUyW) | [Melon Bomb](https://open.spotify.com/artist/349BkyqZ2AuEDoloKq9EFS) | [Only Your Love](https://open.spotify.com/album/23Gkr6LOZgROphfsh7pIki) | 3:01 | 2026-07-23 | 2026-08-18 |
 | [Oracle](https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Oracle](https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D) | 3:37 | 2026-07-16 |  |
 | [Out of My Mind](https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU) | 3:24 | 2026-04-10 |  |
 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 | 2024-04-19 | 2024-06-14 |
@@ -555,6 +555,7 @@
 | [Wait](https://open.spotify.com/track/0xRflBVc8IbRXvuCMtAOpX) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [Fritz Helder](https://open.spotify.com/artist/4GZe67NHX5PVbVsLcR65Qc) | [Wait EP](https://open.spotify.com/album/2ZwZWiZLS9dEFUS08IZR6O) | 6:31 | 2022-08-26 | 2023-03-11 |
 | [Wait feat\. Fritz Helder](https://open.spotify.com/track/6UDlAXM5IdygV4YzGb37T3) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [Fritz Helder](https://open.spotify.com/artist/4GZe67NHX5PVbVsLcR65Qc) | [Wait EP](https://open.spotify.com/album/6ar2JvS2nst9YFwJ5td3cw) | 6:31 | 2022-08-26 | 2023-04-05 |
 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 | 2023-04-04 | 2024-04-20 |
+| [Want To Know](https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [Want To Know](https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK) | 3:02 | 2026-08-13 |  |
 | [Warning Signs \- CamelPhat Remix](https://open.spotify.com/track/7h3nba8wF1zxpiOQc9reFR) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Machine Therapy \(Remixed\)](https://open.spotify.com/album/62EyKPoEDKP4R0zgq5JyzB) | 3:14 | 2024-05-17 | 2024-05-19 |
 | [Watch Out Now](https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Watch Out Now](https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY) | 2:43 | 2026-04-30 |  |
 | [We Are](https://open.spotify.com/track/1VRtFiC2jmfXzhbjA1PDZW) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Dodi](https://open.spotify.com/artist/4EnqNMAlxI4dewzlGdBCTE) | [We Are](https://open.spotify.com/album/5sKUassx36dd58XdIp7GEP) | 3:33 | 2026-05-14 |  |

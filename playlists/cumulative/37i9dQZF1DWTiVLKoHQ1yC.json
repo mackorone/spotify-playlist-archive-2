@@ -1308,6 +1308,10 @@
       },
       "artists": [
         {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
           "name": "LSR/CITY",
           "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
         },
@@ -1560,7 +1564,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 164409,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/6UtHUN0O9W3WC34L5NpT5I"
@@ -6740,7 +6744,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 229733,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/1gZKuzj9GsuFl0IshqPPom"

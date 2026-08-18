@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,628 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,736 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 25 | [In My Arms](https://open.spotify.com/track/4y2sxvKpViUac3VXi02wki) | [SUMMER ALONE](https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek) | [In My Arms](https://open.spotify.com/album/50YuSk822CQPTg38BJTJcX) | 3:41 |
 | 26 | [Untitled \#13](https://open.spotify.com/track/1YXV3fSpNgxXSfhsEgRmtb) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13](https://open.spotify.com/album/3449NOB1pcTEYaGwg7E4Dh) | 1:55 |
 | 27 | [Kotshena](https://open.spotify.com/track/3qaV5Tj4wYD6PYPbDDehv1) | [Kiss Facility](https://open.spotify.com/artist/5gHuonqo1YwbLPKQAl7jD5) | [KHAZNA](https://open.spotify.com/album/1e6TOfQPLEkZG03XHkY3s3) | 3:57 |
-| 28 | [Thin Flesh](https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4) | [TRAITRS](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Butcher's Coin](https://open.spotify.com/album/5zif8VwNMkLGO0lUvnBHFf) | 3:38 |
-| 29 | [Marian \- Version](https://open.spotify.com/track/4wBLUjwy4lFXNWzCuxDqfZ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always Collection](https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh) | 5:43 |
+| 28 | [Marian \- Version](https://open.spotify.com/track/4wBLUjwy4lFXNWzCuxDqfZ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always Collection](https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh) | 5:43 |
+| 29 | [Thin Flesh](https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4) | [TRAITRS](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Butcher's Coin](https://open.spotify.com/album/5zif8VwNMkLGO0lUvnBHFf) | 3:38 |
 | 30 | [Not All Are Real](https://open.spotify.com/track/4XtR1RgLRyY6WJmbH1nyRK) | [Bragolin](https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD) | [This Presence Like a Breeze](https://open.spotify.com/album/1eKRuP1xOrCBLpyoWEbcmQ) | 3:57 |
 | 31 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 32 | [This Love](https://open.spotify.com/track/11WExd5tfFgg31WPNHNQnm) | [Hallows](https://open.spotify.com/artist/4pw10fTRjfQtjRhy25G5W6) | [This Love](https://open.spotify.com/album/4bQqCTyZTng6pqZagtuoTD) | 3:44 |
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 39 | [Gallowdance \- Slowed](https://open.spotify.com/track/6wmsU8dzx0vvrzR635WpTM) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Gallowdance \- Slowed](https://open.spotify.com/album/7MfXO0FB6bZVtvM45ausJI) | 1:30 |
 | 40 | [Entropy](https://open.spotify.com/track/6gvrPobbaMrvWywWq7SLmj) | [Khton](https://open.spotify.com/artist/45fFAOx67wXDQR2WA6SoKF), [Mos Elian](https://open.spotify.com/artist/0eJvYZgMek9gulGp2yIVfk) | [Entropy](https://open.spotify.com/album/4595rkCbSii9A84XqITn0P) | 3:57 |
 | 41 | [This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 3:39 |
-| 42 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
-| 43 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
-| 44 | [Sapphire](https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY) | [juhvahn](https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ), [Perpetualll](https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB) | [Sapphire](https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug) | 2:34 |
+| 42 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
+| 43 | [Sapphire](https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY) | [juhvahn](https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ), [Perpetualll](https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB) | [Sapphire](https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug) | 2:34 |
+| 44 | [The Others](https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:40 |
 | 45 | [Lost](https://open.spotify.com/track/44cuIdT06T3f5mIIDldv6z) | [Vandal Moon](https://open.spotify.com/artist/0b0HjXjfkApMcVJqsH8wYX) | [Lost](https://open.spotify.com/album/7y0Wt3nBmFUn7Ser3MuMCd) | 3:40 |
-| 46 | [The Others](https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:40 |
-| 47 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 |
+| 46 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 |
+| 47 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
 | 48 | [Too Soon to Tell](https://open.spotify.com/track/25rY3GbeeHIBRwyouz9jZT) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 4:07 |
 | 49 | [Durdu Dunya](https://open.spotify.com/track/2OzRao3wILud6BTrsT2cnI) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/2ErVLQ217KC5srxpS3tQz9) | 4:49 |
 | 50 | [Please Stay](https://open.spotify.com/track/7vIFHpoofIaZuh3CsdTuTT) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [Please Stay](https://open.spotify.com/album/2vh1IK3UdV1EpQpwj8I0Lz) | 3:50 |

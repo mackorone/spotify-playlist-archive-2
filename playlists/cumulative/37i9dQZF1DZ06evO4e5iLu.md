@@ -4,7 +4,7 @@
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 8 min
+96 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Ella](https://open.spotify.com/track/1pkMzGqBBS10nDiiYrNGGJ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Unstoppable](https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR) | 3:18 | 2023-09-21 |  |
 | [Ahora Me Llama](https://open.spotify.com/track/0alSPoUfrGb0RdVVG4Lf3n) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Unstoppable](https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR) | 3:55 | 2023-09-21 | 2026-08-11 |
 | [Ahí](https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:56 | 2026-08-09 |  |
+| [Alguien que te amaba](https://open.spotify.com/track/1ODtEk90QyddQlslqHkjAJ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:14 | 2026-08-18 |  |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2023-09-21 |  |
 | [Amiga Mía](https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:44 | 2025-06-23 | 2025-09-20 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 | 2024-06-19 | 2026-08-11 |
@@ -60,7 +61,7 @@
 | [Lo Sabe Dios](https://open.spotify.com/track/3lbSlSHXPFThany9iJxRrV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Unstoppable](https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR) | 2:27 | 2023-09-21 | 2025-06-25 |
 | [MAMIII](https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:46 | 2023-09-21 |  |
 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 | 2026-07-27 |  |
-| [Maybe](https://open.spotify.com/track/3Ly42p2mL3JFP3rXaOqJrT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:24 | 2026-08-09 |  |
+| [Maybe](https://open.spotify.com/track/3Ly42p2mL3JFP3rXaOqJrT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:24 | 2026-08-09 | 2026-08-18 |
 | [MAÑANA SERÁ BONITO](https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:30 | 2024-06-23 | 2024-06-26 |
 | [Mi Cama](https://open.spotify.com/track/3fFMAZtSAK5YQ3Zdl3EE4Q) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:29 | 2024-05-10 | 2025-01-10 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-09-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,870 likes - 116 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,012 likes - 116 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 14 | [Pressure \(feat\. Leon Thomas\)](https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:24 |
 | 15 | [WAHALA RIDDIM](https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [WAHALA RIDDIM](https://open.spotify.com/album/0SciOReSTeXfZT3hTo59kO) | 3:22 |
 | 16 | [PRETTY MAMI](https://open.spotify.com/track/0A8Gp4646Xwh3s3w2OvUJ7) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [BADDIES <3 MOLIY](https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l) | 2:57 |
-| 17 | [Private Chef \(feat\. MC Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
+| 17 | [Private Chef \(feat\. Mc Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
 | 18 | [Emotional High](https://open.spotify.com/track/0wCK6mBuDPJpNUFBK6HfRE) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [The Game Needs Us](https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be) | 3:22 |
 | 19 | [MCBH](https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:50 |
 | 20 | [Ms\. Paper \(feat\. Theodora\)](https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,662 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,664 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 34 | [Buenas Vibras](https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 3:11 |
 | 35 | [Sin Hacer Ruido](https://open.spotify.com/track/3jAVdwO7ycWZOJl76vn3c9) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Sin Hacer Ruido](https://open.spotify.com/album/6wWICPpm8uk6FkPO9kGObs) | 2:35 |
 | 36 | [Caravana de Carros](https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Caravana de Carros](https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2) | 3:40 |
-| 37 | [El Pinky](https://open.spotify.com/track/0M7rgwIeogKvMzzpHbRqmJ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Pinky](https://open.spotify.com/album/3fcnlKU8TRjOmpsvVgEhrD) | 3:05 |
-| 38 | [Según Te Extraño](https://open.spotify.com/track/6nI8ZKphg3xJ6k3Nm69XE8) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:45 |
+| 37 | [Según Te Extraño](https://open.spotify.com/track/6nI8ZKphg3xJ6k3Nm69XE8) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:45 |
+| 38 | [El Pinky](https://open.spotify.com/track/0M7rgwIeogKvMzzpHbRqmJ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Pinky](https://open.spotify.com/album/3fcnlKU8TRjOmpsvVgEhrD) | 3:05 |
 | 39 | [Porte Fino \- En Vivo](https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:10 |
 | 40 | [El Fabi](https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Fabi](https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic) | 2:40 |
 | 41 | [Diez Mandamientos](https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Diez Mandamientos](https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 49 | [Mi Círculo Vicioso](https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Mi Círculo Vicioso](https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw) | 3:39 |
 | 50 | [Ying Yang](https://open.spotify.com/track/1OYg0a4gAgjcACM7Rl1BnB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:36 |
 
-Snapshot ID: `an+sAAAAAADaLHwyqR8l/zuAX5F4WSmB`
+Snapshot ID: `aoD9gAAAAACqoCunyCb6lM6Ks3oRiy1J`

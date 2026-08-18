@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más placosas y llegadoras de nuestra música! Al millón con Grupo Firme y Los Angeles De Charly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,858,568 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,858,572 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Amor Secreto \- \(En Vivo\)](https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [En Vivo Desde El Estadio GNP](https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt) | 3:08 |
+| 1 | [Amor Secreto \- En Vivo](https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [En Vivo Desde El Estadio GNP](https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt) | 3:08 |
 | 2 | [Renacer](https://open.spotify.com/track/3xu6gF8R4fa0ghzvj67aI6) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:46 |
 | 3 | [MAYDAY](https://open.spotify.com/track/5tpoc6yo7yjxQEnAOPbs0B) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [MAYDAY](https://open.spotify.com/album/3CzFEoSPC9MDTwaQZR2ap3) | 3:38 |
 | 4 | [Yo y La Luna](https://open.spotify.com/track/4FiYVoZVwofrD5sAPm19kl) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Yo y La Luna](https://open.spotify.com/album/3qXzZAgoFihs94yboDzhn9) | 3:07 |

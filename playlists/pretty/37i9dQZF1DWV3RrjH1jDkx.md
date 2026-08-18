@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Madeléne, Troye Sivan, Nessi og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,862 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,859 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ni til fem](https://open.spotify.com/track/4EIjb2ePj6YYm2a4ZQYOYd) | [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Ni til fem](https://open.spotify.com/album/1kJK5Lve7sp1pvCmA4mliN) | 2:40 |
 | 2 | [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 |
 | 3 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
-| 4 | [Spis din syvende sans \- cover](https://open.spotify.com/track/1MJy59Y0nppwYBji4i2J6J) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Spis din syvende sans \(cover\)](https://open.spotify.com/album/7B1OAVrW3sgf9gazdH0CNw) | 3:04 |
+| 4 | [Spis din syvende sans \- Cover](https://open.spotify.com/track/1MJy59Y0nppwYBji4i2J6J) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Spis din syvende sans \(Cover\)](https://open.spotify.com/album/7B1OAVrW3sgf9gazdH0CNw) | 3:04 |
 | 5 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 |
 | 6 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 |
 | 7 | [Bordeaux & Deauville](https://open.spotify.com/track/5BnXdURD493zS5nYY3kUdt) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Bordeaux & Deauville](https://open.spotify.com/album/63uJB63MumGfRcX8porN9C) | 2:27 |

@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-438 songs - 23 hr 23 min
+439 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Agria](https://open.spotify.com/track/7nSmRv5o9XRQ1ZZfrcrAXF) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Agria](https://open.spotify.com/album/2GcTomwrthJ7v5Aw2PYcnV) | 1:52 | 2024-07-02 | 2025-07-21 |
 | [All That Jazz](https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:58 | 2022-05-03 | 2024-07-03 |
 | [Amaya Village](https://open.spotify.com/track/6U4Xdh9UKjAOGMOCbAFo3B) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Gaijin prelude 1](https://open.spotify.com/album/27cU4fUh2MRvVX4KXDDNY9) | 3:28 | 2025-06-13 | 2025-07-05 |
+| [Amber Forest](https://open.spotify.com/track/1ACUDFOxXMUL6F9xpp6IlY) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Amber Forest](https://open.spotify.com/album/0nDkcjaDEc8WIdysmNiRbf) | 2:24 | 2026-06-29 |  |
 | [AmoneThat'sCapone \(Feat\. Sunwoojunga\)](https://open.spotify.com/track/4uUKu2XgCqX6YzM5vrqT0q) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:59 | 2022-05-03 | 2022-07-24 |
 | [Anata](https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:19 | 2024-07-02 |  |
 | [Ancient Bond](https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Ancient Bond](https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5) | 2:44 | 2025-05-23 |  |
@@ -169,7 +170,7 @@
 | [In the Roses](https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Moonlit Tales](https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h) | 3:18 | 2024-07-02 |  |
 | [in your arms](https://open.spotify.com/track/4fgIoBKHzO7YO5eATyYbMl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/5nNs8PotoPHT8MDTHD9wD5) | 4:37 | 2024-07-02 | 2025-05-02 |
 | [Inevitability](https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R) | [Tido Kang](https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE) | [Flying Petals](https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A) | 3:04 | 2025-05-09 |  |
-| [Into the Reverie](https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Blissful Dreams](https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd) | 2:36 | 2024-07-02 |  |
+| [Into the Reverie](https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Blissful Dreams](https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd) | 2:36 | 2024-07-02 | 2026-08-18 |
 | [Ishi](https://open.spotify.com/track/0kD4DaTdwjJdpnLs0Jl7Mb) | [Maiso Linua](https://open.spotify.com/artist/5xtRy4a2R7tyIVuFv9lGwd) | [Ishi](https://open.spotify.com/album/7qLb3Qj6ziLGjFMtzgpLg1) | 1:53 | 2025-05-02 | 2025-05-16 |
 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-30 | 2022-07-28 |
 | [It's so hot outside](https://open.spotify.com/track/6nVARL36I0FPJKkAXEfivk) | [ANEUKAM POP](https://open.spotify.com/artist/4ZGuGTFnsHMR7TfrMJDQEH) | [summer Dawn](https://open.spotify.com/album/2u0zDu9mQiIOH6gZ6SG0UK) | 2:00 | 2026-06-29 |  |
@@ -269,7 +270,7 @@
 | [Only we know](https://open.spotify.com/track/4LHIbkYLKKdyprbcnISj6m) | [YONGZOO](https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb) | [THE FAN 2ROUND Part.2](https://open.spotify.com/album/5e5G38kHDIZvygpIoOnbLf) | 4:09 | 2022-05-03 | 2024-07-03 |
 | [Only you](https://open.spotify.com/track/5hzZl2FVuN2auomlHFV47r) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [9X9th](https://open.spotify.com/album/2hDuNdZj6kdZMU4SnJSu7s) | 4:30 | 2022-05-03 | 2022-07-25 |
 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-24 | 2024-07-03 |
-| [Osaka](https://open.spotify.com/track/5043oZixtvqcPwbfpQnNo3) | [oxinym](https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3), [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai) | [Osaka & Kyoto](https://open.spotify.com/album/6hINe6GkfIr33X4frUtnLd) | 1:54 | 2026-02-06 | 2026-05-18 |
+| [Osaka](https://open.spotify.com/track/5043oZixtvqcPwbfpQnNo3) | [oxinym](https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3), [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai) | [Osaka & Kyoto](https://open.spotify.com/album/6hINe6GkfIr33X4frUtnLd) | 1:54 | 2026-02-06 |  |
 | [Our Cinema \#1 \- Someone Special](https://open.spotify.com/track/5ZDyD7L5khCYry5X8JAb9s) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#1 \- Someone Special](https://open.spotify.com/album/1xn2D8pK6x33cOM8jXKlzS) | 3:21 | 2022-05-03 | 2024-07-03 |
 | [Our Cinema \#2 \- Dancing](https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#2 \- Dancing](https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC) | 3:30 | 2022-05-03 | 2023-05-01 |
 | [Overthinking](https://open.spotify.com/track/1JWufQk3gNEExqG4BmfSw1) | [Ky akasha](https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk) | [Memory Within A Dream](https://open.spotify.com/album/5ExpE7QngmNtvMKrTS1dlc) | 3:14 | 2026-04-27 |  |
@@ -317,7 +318,7 @@
 | [Shangri\-la](https://open.spotify.com/track/3qVG7xejiok5tjEVguRbra) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:18 | 2024-07-02 | 2025-08-28 |
 | [Shinjuku](https://open.spotify.com/track/7LBO0230RXsB371lZmWKrv) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [Shinjuku](https://open.spotify.com/album/4KaWvtsalcd0fMEbval9dO) | 2:48 | 2026-03-06 |  |
 | [Shinjuku](https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [The Legend of Shirokuro](https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr) | 2:05 | 2024-07-02 | 2026-03-07 |
-| [Shinra](https://open.spotify.com/track/1gz1uyqrIvrUXLIE8CG4jY) | [oxinym](https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3), [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l) | [Shinra](https://open.spotify.com/album/4nf6qaran8NGdZn7AuSWyR) | 2:17 | 2026-03-27 |  |
+| [Shinra](https://open.spotify.com/track/1gz1uyqrIvrUXLIE8CG4jY) | [oxinym](https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3), [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l) | [Shinra](https://open.spotify.com/album/4nf6qaran8NGdZn7AuSWyR) | 2:17 | 2026-03-27 | 2026-08-18 |
 | [Shinrin](https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Peace of Mind](https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd) | 3:15 | 2024-07-02 |  |
 | [Shower duty](https://open.spotify.com/track/3vCbwbAIRB1vkQAGbNXO3F) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:33 | 2022-05-03 | 2022-09-09 |
 | [Shukumei](https://open.spotify.com/track/5Yh6bCE7FhGAXpa1cLhIc3) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Shukumei](https://open.spotify.com/album/67IP6RzANksSy3VH6XKfKg) | 3:18 | 2025-05-23 | 2025-06-10 |

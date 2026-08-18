@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,946 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,005 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 15 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 |
 | 16 | [OPERA MINI](https://open.spotify.com/track/41SH4tiHf1tblXPqQKujG9) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [OPERA MINI](https://open.spotify.com/album/4XZ3Ls59KQA8sM6XRjTfHi) | 2:31 |
 | 17 | [Hushpuppi](https://open.spotify.com/track/0e0kV3cnEHS721PoDYxQyk) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8) | 2:42 |
-| 18 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:48 |
-| 19 | [Realize](https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Trench Kid \(Deluxe Edition\)](https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2) | 2:55 |
+| 18 | [Realize](https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Trench Kid \(Deluxe Edition\)](https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2) | 2:55 |
+| 19 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:48 |
 | 20 | [247](https://open.spotify.com/track/4IBFL0LGePPUtRt6trsAvE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Billion Solar](https://open.spotify.com/artist/34939zwBQsClP6Jo194PVo), [Nerryckole](https://open.spotify.com/artist/4q5MWh4frjCKoqo9OJBWSG) | [247](https://open.spotify.com/album/5ByH5b4vGuYOH3g6UmjM0Z) | 2:39 |
 | 21 | [Pressure](https://open.spotify.com/track/0yLPupVmWzIthRHesuR5Wt) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:39 |
 | 22 | [Set Up](https://open.spotify.com/track/7dTEOkCQWc8YuHjuaSolSX) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:04 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 43 | [Billion Dollar](https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:24 |
 | 44 | [HOW ARE YOU](https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:38 |
 | 45 | [Lagos](https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:25 |
-| 46 | [Goated](https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Goated](https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4) | 2:18 |
+| 46 | [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 |
 | 47 | [BD Baby](https://open.spotify.com/track/4aXHVmtQgLSk9sQFTVm2g4) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:12 |
-| 48 | [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 |
+| 48 | [Goated](https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Goated](https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4) | 2:18 |
 | 49 | [Richer](https://open.spotify.com/track/0gi0hs7oBAfFt8ux8yyczu) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Richer](https://open.spotify.com/album/45rYDdhaBSxKsm5iMSHnqH) | 2:29 |
 | 50 | [UP](https://open.spotify.com/track/3txOxWfFWDxo5e8mxqIdgL) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:43 |
 
-Snapshot ID: `an+sAAAAAABAAjV2LDJ2h7GUfEUf2Hpo`
+Snapshot ID: `aoD9gAAAAADgVy+zkQDQNABpK7cdUokL`

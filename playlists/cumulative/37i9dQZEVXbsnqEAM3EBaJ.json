@@ -787,6 +787,28 @@
     },
     {
       "album": {
+        "name": "Mozart: Piano Concerto No. 24 in C Minor \u2014 Beethoven: Piano Concerto No. 3 in C Minor; 32 Variations in C Minor",
+        "url": "https://open.spotify.com/album/1H2f1NcNMFQm9jxpQiAn2x"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Rafal Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58840,
+      "name": "32 Variations in C Minor, WoO 80: Variations 28-30",
+      "url": "https://open.spotify.com/track/4LwTJoQq9oAX4HSDKCdpWi"
+    },
+    {
+      "album": {
         "name": "Placebo RE:CREATED",
         "url": "https://open.spotify.com/album/2R4e6wcFiPcEPFnFUkz13c"
       },
@@ -7260,7 +7282,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 259232,
       "name": "Bed Of Nails (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/6WxqrgXopMcZ4dURmdFTan"
@@ -9636,7 +9658,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 164200,
       "name": "Bring On The Psychics",
       "url": "https://open.spotify.com/track/1NxMIykscSdcZNI2BeJSoq"
@@ -12178,7 +12200,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 271872,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4y8GmSvRn26bR7TTp4qhWW"
@@ -13926,7 +13948,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 219000,
       "name": "Dangerous Lyfe",
       "url": "https://open.spotify.com/track/5XHvTYBEKPUdeoIgQZ9kJC"
@@ -16558,7 +16580,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 266550,
       "name": "Dot Com - 2026 Remix",
       "url": "https://open.spotify.com/track/1FZOb6POJUAxkSbXMvWTrS"
@@ -17352,7 +17374,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 45945,
       "name": "Easy Sonata in C Major - Rondo",
       "url": "https://open.spotify.com/track/1lcZv0kK3WA3q5Jbill2Ct"
@@ -19826,7 +19848,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 71785,
       "name": "Etude - Backing Track",
       "url": "https://open.spotify.com/track/3VJ1guYwZq1O7byfnUnQ1m"
@@ -21200,7 +21222,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 207746,
       "name": "Feral Future",
       "url": "https://open.spotify.com/track/0AmyPpn22TpxWoICGNdXB4"
@@ -21276,7 +21298,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 189989,
       "name": "Fight Like Hell",
       "url": "https://open.spotify.com/track/0lqTl2dkALzHPioFF0tLoU"
@@ -21316,7 +21338,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 230698,
       "name": "Fighting (2026)",
       "url": "https://open.spotify.com/track/5BRtWuEgDdgmSUUTHRpKqh"
@@ -23312,7 +23334,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 238644,
       "name": "Geneletion (feat. Brand New & G- Zulu)",
       "url": "https://open.spotify.com/track/3Ug2CLX01Y5LoMZqemQBFx"
@@ -23742,7 +23764,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 242341,
       "name": "Gigante - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03QlAtjQCaDM051hJ7qgD7"
@@ -23844,7 +23866,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 314200,
       "name": "Gjallarhorn",
       "url": "https://open.spotify.com/track/1rouZuMqJonxGcQcM1ZFRT"
@@ -27958,7 +27980,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 219473,
       "name": "Hoy Por T\u00ed",
       "url": "https://open.spotify.com/track/6Is5B68FgkaP62PrmOVnrb"
@@ -30992,7 +31014,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 207360,
       "name": "In Too Deep - Remastered 2026",
       "url": "https://open.spotify.com/track/1ZKvmSOiTYdhapC4eGu7Yq"
@@ -31630,6 +31652,28 @@
       "duration_ms": 136842,
       "name": "Internet - Interlude",
       "url": "https://open.spotify.com/track/5rGEEmYm3kiRcqT25J6OQK"
+    },
+    {
+      "album": {
+        "name": "INTERSTICE (2026)",
+        "url": "https://open.spotify.com/album/22d98RgsjIvcomi4720kPS"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        },
+        {
+          "name": "SunoAI",
+          "url": "https://open.spotify.com/artist/20LgVzi8mg8qf9JKyDbauU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239424,
+      "name": "INTERSTICE (2026)",
+      "url": "https://open.spotify.com/track/0dBs50Yg4J7CgfBbNDgCDg"
     },
     {
       "album": {
@@ -32870,7 +32914,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 228093,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/0cQ3KZjxNADpJAL38IXmDx"
@@ -38398,7 +38442,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 242703,
       "name": "Lullabye",
       "url": "https://open.spotify.com/track/3vzSFTvCMq2z0wNFa3eOAf"
@@ -39550,7 +39594,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 194677,
       "name": "Me Tiene Enamorao",
       "url": "https://open.spotify.com/track/1oL5pW7Kq6NhoJI8VXt3A9"
@@ -43292,7 +43336,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 271013,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/0AjDJkdo6jYpHlkXFuipsE"
@@ -43538,7 +43582,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 189031,
       "name": "Nobody Wants To Die",
       "url": "https://open.spotify.com/track/0oq0Ru7NAgS8IeyS2azl6p"
@@ -43618,7 +43662,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 384613,
       "name": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",
       "url": "https://open.spotify.com/track/4tr7NeQYGvvGGyxjhh5QyX"
@@ -44544,7 +44588,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 215967,
       "name": "Olias of Sunhillow (Excerpt) - Live at Roosevelt Stadium, Jersey City, NJ, 6/17/1976",
       "url": "https://open.spotify.com/track/57a6igA99PzVtahpvxhZ9X"
@@ -44876,7 +44920,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 569281,
       "name": "One by One (Dark-Side Mix)",
       "url": "https://open.spotify.com/track/6sjYvjEkT6X6PZS6Agrozt"
@@ -44920,6 +44964,24 @@
       "duration_ms": 577970,
       "name": "One by One - Bright-Side Mix",
       "url": "https://open.spotify.com/track/3GvZPjuZbPMOSeLqMEf9Pn"
+    },
+    {
+      "album": {
+        "name": "One by One (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/1mgpFMrjkDQ58MzEJEHfJh"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569281,
+      "name": "One by One - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/0ZNutJ8BAQvq1u7PoO2djA"
     },
     {
       "album": {
@@ -46207,6 +46269,28 @@
     },
     {
       "album": {
+        "name": "OSTINATO",
+        "url": "https://open.spotify.com/album/0nK6eMcJoY6J8DFnGz8yoj"
+      },
+      "artists": [
+        {
+          "name": "Pol Del Sur",
+          "url": "https://open.spotify.com/artist/7wduhj5WCAihFD8vugCZtZ"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233631,
+      "name": "Pacto",
+      "url": "https://open.spotify.com/track/04ZsXb34AaL4nT69ynu4b4"
+    },
+    {
+      "album": {
         "name": "King of a Land",
         "url": "https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj"
       },
@@ -47094,7 +47178,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 206769,
       "name": "PERRRAS",
       "url": "https://open.spotify.com/track/4QgrzJmefIePU3m8NBsMte"
@@ -47112,7 +47196,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 107266,
       "name": "Personae Non Gratae - 2026 Remastered",
       "url": "https://open.spotify.com/track/0SEF13cHML68dc0xao074a"
@@ -47330,7 +47414,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 501866,
       "name": "Piano Concerto No. 24 in C Minor, K. 491: III. Allegretto",
       "url": "https://open.spotify.com/track/721z2C71L30pljlzJLGcFl"
@@ -47360,7 +47444,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 536493,
       "name": "Piano Concerto No. 3 in C Minor, Op. 37: II. Largo",
       "url": "https://open.spotify.com/track/7HctY4t430gXK358KQDruZ"
@@ -47876,7 +47960,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 319521,
       "name": "Poison (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/6bqOcNllT9zCPmTyY2HCtQ"
@@ -53424,7 +53508,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 260746,
       "name": "Schwarzer Engel - Ghostbells Remix",
       "url": "https://open.spotify.com/track/4LSkov1d2Jjj3pizZMqHnT"
@@ -57746,7 +57830,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 90495,
       "name": "Spirits (Summoned To Another World)",
       "url": "https://open.spotify.com/track/6PNLn35uJFIhVjDaLsGjbI"
@@ -58086,7 +58170,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 334431,
       "name": "STATICA",
       "url": "https://open.spotify.com/track/4c8HSe1ak7v6zoUb13oLdA"
@@ -58196,6 +58280,24 @@
       "duration_ms": 240154,
       "name": "Steven Flowe (Theme Song)",
       "url": "https://open.spotify.com/track/2dFjsxfjZp8oiyiGXMlx21"
+    },
+    {
+      "album": {
+        "name": "J-Tull Dot Com: Another Cast Of The Net (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nwO76WUbWilSxXUgE5IJ7"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250991,
+      "name": "Stigmata",
+      "url": "https://open.spotify.com/track/04i7a30LQjxyCznM2F2bJs"
     },
     {
       "album": {
@@ -60286,7 +60388,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 246767,
       "name": "TAPDAT",
       "url": "https://open.spotify.com/track/0pQ9gtLMkVhioRBVl5yCHs"
@@ -61054,7 +61156,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 404030,
       "name": "Thank You America (John Robie Dub Mix)",
       "url": "https://open.spotify.com/track/6eHKhbmvJE2cEYThVmASQY"
@@ -65946,7 +66048,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 189289,
       "name": "Todos Los Barcos, Todos Los P\u00e1jaros",
       "url": "https://open.spotify.com/track/1K96cknJZlPJ8J8XvCgd7Q"
@@ -74394,7 +74496,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 295726,
       "name": "\u0421\u043e\u043b\u0434\u0430\u0442\u0441\u043a\u0438\u0439 \u0442\u0430\u043d\u0435\u0446 (1965)",
       "url": "https://open.spotify.com/track/0I0dABpjKsN1VfkYwK2u5E"
@@ -74602,7 +74704,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 634503,
       "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c9\u30ec\u30fc\uff08Ambitious ver.\uff09 - Little Glee Monster Live Tour 2025 \"Ambitious\" - 2025.07.21",
       "url": "https://open.spotify.com/track/6P9uVpEokjPXIgf4dkjahc"

@@ -2233,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "BLUE CURACAO",
+        "url": "https://open.spotify.com/album/4jntlpAqQrzRmhjfUMK4zr"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152368,
+      "name": "BLUE CURACAO",
+      "url": "https://open.spotify.com/track/5tLBF4O1yatzdf8lQeQibM"
+    },
+    {
+      "album": {
         "name": "Bobby Shmurda",
         "url": "https://open.spotify.com/album/11JZbK67w7sT7Zph8C0yGh"
       },

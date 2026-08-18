@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 103785,
+  "num_followers": 103810,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Que Suene Mexico, Vol. 3",
-        "url": "https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3"
+        "name": "\u00c1frica",
+        "url": "https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq"
       },
       "artists": [
         {
-          "name": "DJ TETRIS",
-          "url": "https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA"
+          "name": "Clap Freckles",
+          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
         }
       ],
-      "duration_ms": 195226,
-      "name": "Costars",
-      "url": "https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o"
+      "duration_ms": 191115,
+      "name": "\u00c1frica",
+      "url": "https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "\u00c1frica",
-        "url": "https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq"
+        "name": "Que Suene Mexico, Vol. 3",
+        "url": "https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3"
       },
       "artists": [
         {
-          "name": "Clap Freckles",
-          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
+          "name": "DJ TETRIS",
+          "url": "https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA"
         }
       ],
-      "duration_ms": 191115,
-      "name": "\u00c1frica",
-      "url": "https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7"
+      "duration_ms": 195226,
+      "name": "Costars",
+      "url": "https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -795,6 +795,46 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Baila Conmigo (feat. Kelly Ruiz)",
+        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Kelly Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+        }
+      ],
+      "duration_ms": 189817,
+      "name": "Baila Conmigo (feat. Kelly Ruiz)",
+      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Obscure Tribal",
+        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
+      },
+      "artists": [
+        {
+          "name": "Syztema",
+          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+        }
+      ],
+      "duration_ms": 168829,
+      "name": "Tambor Azteca",
+      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "The Virus (Alan Rosales Remix)",
         "url": "https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA"
       },
@@ -823,46 +863,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Obscure Tribal",
-        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
-      },
-      "artists": [
-        {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
-        }
-      ],
-      "duration_ms": 168829,
-      "name": "Tambor Azteca",
-      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Baila Conmigo (feat. Kelly Ruiz)",
-        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
-      },
-      "artists": [
-        {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Kelly Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
-        }
-      ],
-      "duration_ms": 189817,
-      "name": "Baila Conmigo (feat. Kelly Ruiz)",
-      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Zapatear",
         "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
       },
@@ -879,8 +879,8 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Club Negro",
-        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
+        "name": "Mala Hierba",
+        "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
         }
       ],
-      "duration_ms": 298697,
-      "name": "Violentao (Feat. Sheeqo Beat)",
-      "url": "https://open.spotify.com/track/1pFruucew24311dJNbcjMZ"
+      "duration_ms": 215111,
+      "name": "Mala Hierba",
+      "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -927,22 +927,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "El \u00daltimo",
-        "url": "https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p"
+        "name": "Jeffree's Volume 2",
+        "url": "https://open.spotify.com/album/04Gb3cC1KZ25W0u2NJMadx"
       },
       "artists": [
         {
-          "name": "El Catorce",
-          "url": "https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc"
-        },
-        {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+          "name": "Joelito",
+          "url": "https://open.spotify.com/artist/0XWWsuP4oeVCSaQyiter7E"
         }
       ],
-      "duration_ms": 300522,
-      "name": "Kombat",
-      "url": "https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax"
+      "duration_ms": 240000,
+      "name": "Sickhead",
+      "url": "https://open.spotify.com/track/7HhnDS97yjtsGgvTYWM5Bc"
     }
   ],
   "unique_name": "Fiesta Tribal",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 35397,
+  "num_followers": 35398,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACczEMyHaCQ9HX211qU+yEX",
+  "snapshot_id": "aoD9gAAAAADKeoozUbJDgUS6Eu6VYewd",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Racism Is A Killa",
-      "url": "https://open.spotify.com/track/2TpdzL5x1f98YtopeLu3Lt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playing for Change (Live)",
         "url": "https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 250720,
       "name": "Love Is My Religion (Live)",
       "url": "https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Racism Is A Killa",
+      "url": "https://open.spotify.com/track/2TpdzL5x1f98YtopeLu3Lt"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "dellali",
+        "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
+      },
+      "artists": [
+        {
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 235306,
+      "name": "Madanite",
+      "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -755,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dellali",
-        "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
-      },
-      "artists": [
-        {
-          "name": "Cheb Mami",
-          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 235306,
-      "name": "Madanite",
-      "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
       },
@@ -791,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
       },
       "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 238253,
-      "name": "See Dem Fake Leaders",
-      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
+      "duration_ms": 225595,
+      "name": "There's A Reward",
+      "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
     },
     {
       "added_at": null,
@@ -827,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
       },
       "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 225595,
-      "name": "There's A Reward",
-      "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
+      "duration_ms": 238253,
+      "name": "See Dem Fake Leaders",
+      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
     },
     {
       "added_at": null,

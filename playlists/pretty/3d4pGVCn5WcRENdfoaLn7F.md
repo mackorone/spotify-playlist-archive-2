@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 828 likes - 59 songs - 3 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 829 likes - 59 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

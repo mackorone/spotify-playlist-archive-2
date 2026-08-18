@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oVzuo0LbVg.md) - [plain]
 
 > Pop Anglo para acompañar tus mejores momentos\. Foto: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,401 likes - 104 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,392 likes - 104 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

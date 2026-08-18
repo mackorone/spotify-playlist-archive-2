@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,323 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,328 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt) | 3:48 |
 | 50 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
 
-Snapshot ID: `an+sAAAAAAC1Yg2AkNEDOMFrqz5A4azd`
+Snapshot ID: `aoD9gAAAAAB2dyevFH1/YI+MNZ/e/Tko`

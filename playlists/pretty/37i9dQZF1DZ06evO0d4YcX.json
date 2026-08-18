@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 16596,
+  "num_followers": 16600,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADUymFQbLbr+ZAHt+KPgiXX",
+  "snapshot_id": "aoD9gAAAAAB8iqC4JO40RlIJLo6uZ60+",
   "tracks": [
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Justice",
-        "url": "https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        },
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Out of Luck",
-      "url": "https://open.spotify.com/track/5vwBdLidaM8UEE6Hcn7zu7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Wave More Fire",
         "url": "https://open.spotify.com/album/30tc5b5AulEnOeyKTT9Cz3"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 226537,
       "name": "Trees On Fire (ft. Amber Mark and Marco McKinnis)",
       "url": "https://open.spotify.com/track/5xoWa1jhbcg8i0Z2cRtphe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Justice",
+        "url": "https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Out of Luck",
+      "url": "https://open.spotify.com/track/5vwBdLidaM8UEE6Hcn7zu7"
     },
     {
       "added_at": null,

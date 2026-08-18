@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-687 songs - 1 day 18 hr 42 min
+688 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Dandelion](https://open.spotify.com/track/3PHi0kUawFptkqvvKhhMb6) | [The Multides](https://open.spotify.com/artist/7HqgbkLWNLbSNK7BjCU6Sq) | [Dark Skies](https://open.spotify.com/album/2f1rOpD32zEodoeo2a9B3d) | 3:10 | 2025-11-08 | 2025-12-17 |
 | [Dans l'ombre des heures](https://open.spotify.com/track/6siro0UcA1DAOiHGxpMYCb) | [Zaré](https://open.spotify.com/artist/7bSj4WmjeZYWoUnRSG8yz1) | [Dans l'ombre des heures](https://open.spotify.com/album/69LAwjnFepT1M6CKhXd4KK) | 2:52 | 2026-04-23 | 2026-06-25 |
 | [Dark Days](https://open.spotify.com/track/3oiCerWvwdIlHTND7tswor) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX) | [Dark Days](https://open.spotify.com/album/2q5KW0Gr7oOsnBU3adcj3A) | 4:10 | 2026-08-13 |  |
+| [Day 1](https://open.spotify.com/track/6BdpRsiLiH1To91cVlsHrX) | [Jacky Allmaier](https://open.spotify.com/artist/7GmSHcmbgwvCbppnB0cJWl) | [Day 1](https://open.spotify.com/album/7mDgY829FEFXFUXZIhbtJF) | 2:39 | 2026-08-17 |  |
 | [Day After Day](https://open.spotify.com/track/6JqRwcxebRnLzJBxaqNxcS) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 5:50 | 2025-09-21 | 2026-07-03 |
 | [Day by Day](https://open.spotify.com/track/2X8QZIyTwBxrrdDJBCcK9q) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [Home \(10 Years\)](https://open.spotify.com/album/2IGD8K4B7qiREEIJFLaJ0j) | 4:44 | 2025-09-21 |  |
 | [De sol a sol](https://open.spotify.com/track/6zthGcyvorLaeLgfIhxVvM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:47 | 2025-10-04 | 2025-11-28 |

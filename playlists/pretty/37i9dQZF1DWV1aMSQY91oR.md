@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: SonReal
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,530 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,535 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Girl's Best Friend \- Radio Edit](https://open.spotify.com/track/0JtyvqODYwBUHtUErkqnjs) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Girl's Best Friend](https://open.spotify.com/album/7H5qM8fiFTwxURNLEDw0HE) | 3:59 |
 | 2 | [Meet The Redds \(feat\. Sexyy Red\)](https://open.spotify.com/track/0kR917YFVsHsZKzPIXzi0X) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Meet The Redds \(feat\. Sexyy Red\)](https://open.spotify.com/album/0OO0QKjySSi86LkZaOarHc) | 2:10 |
-| 3 | [Simple Man](https://open.spotify.com/track/0IKkgsrvHfJmnmfY16Mp52) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [Here Goes Nothing](https://open.spotify.com/album/0SxfRe1Fuv0P3s7DoWBsA8) | 2:44 |
+| 3 | [Simple Man \(feat\. Pertinence\)](https://open.spotify.com/track/0IKkgsrvHfJmnmfY16Mp52) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [Here Goes Nothing](https://open.spotify.com/album/0SxfRe1Fuv0P3s7DoWBsA8) | 2:44 |
 | 4 | [MORNING DEW \(DONK\) REMIX FEAT JAŸ\-Z](https://open.spotify.com/track/5sTOQbZvUnrX7lFfLRmpFw) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [MORNING DEW \(DONK\) REMIX PACK](https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl) | 3:37 |
 | 5 | [Trance \(Walk It Down\)](https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trance \(Walk It Down\)](https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40) | 2:41 |
 | 6 | [Too Bo$$y](https://open.spotify.com/track/1IFK4fgCXVzl2WmrcXO7J5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Too Bo$$y](https://open.spotify.com/album/1qcQBEA1u6UOMjbpNp99So) | 2:33 |

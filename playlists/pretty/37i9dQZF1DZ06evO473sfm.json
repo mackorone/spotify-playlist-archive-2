@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 612326,
+  "num_followers": 612579,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAjVZGYHjFbgEHlxbd9QCz1",
+  "snapshot_id": "aoD9gAAAAADTeeb740m/cJKMW7ZXmkYO",
   "tracks": [
     {
       "added_at": null,
@@ -846,15 +846,11 @@
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 167954,
-      "name": "mi droga",
-      "url": "https://open.spotify.com/track/1l9X3eyb8ZV4MQvUubYtFF"
+      "duration_ms": 190730,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/18xsbKZzR4MDG39Hv8bcNO"
     },
     {
       "added_at": null,
@@ -922,11 +918,15 @@
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 190730,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/18xsbKZzR4MDG39Hv8bcNO"
+      "duration_ms": 167954,
+      "name": "mi droga",
+      "url": "https://open.spotify.com/track/1l9X3eyb8ZV4MQvUubYtFF"
     },
     {
       "added_at": null,

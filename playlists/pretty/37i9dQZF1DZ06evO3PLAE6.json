@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABGb7JIGQQqeY4U2687MmM7",
+  "snapshot_id": "aoD9gAAAAABcR+8KweoU8xDUvKRQwGcf",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4"
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 199773,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh"
+      "duration_ms": 240906,
+      "name": "Cry Like A Baby",
+      "url": "https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 240906,
-      "name": "Cry Like A Baby",
-      "url": "https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR"
+      "duration_ms": 199773,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh"
     },
     {
       "added_at": null,

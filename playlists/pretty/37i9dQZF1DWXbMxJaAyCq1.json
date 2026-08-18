@@ -1,6 +1,6 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Kybba, Ryan Castro, Busy Signal",
-  "num_followers": 480519,
+  "num_followers": 480546,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
@@ -611,38 +611,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Hola (Remix)",
-        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Hola - Remix",
-      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "Vaquero (Remix)",
         "url": "https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt"
       },
@@ -675,6 +643,38 @@
       "duration_ms": 300000,
       "name": "Vaquero - Remix",
       "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1131,34 +1131,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 240365,
-      "name": "Miss Lonely - Dimelo Flow Remix",
-      "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "No Fue (feat. Brray, Feid) [Remix]",
         "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
       },
@@ -1187,6 +1159,58 @@
       "duration_ms": 317789,
       "name": "No Fue - Remix",
       "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 240365,
+      "name": "Miss Lonely - Dimelo Flow Remix",
+      "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Parte & Choke (with Ryan Castro) [Remix]",
+        "url": "https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Alex Krack",
+          "url": "https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m"
+        }
+      ],
+      "duration_ms": 218591,
+      "name": "Parte & Choke (with Ryan Castro) - Remix",
+      "url": "https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1279,6 +1303,26 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
+        "name": "El Clavo (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/6pNMBUiyQfqtRMceyAy7i5"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 171337,
+      "name": "El Clavo (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6bI00brFpeprqCDqKouEJS"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
@@ -1303,26 +1347,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "El Clavo (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/6pNMBUiyQfqtRMceyAy7i5"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 171337,
-      "name": "El Clavo (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6bI00brFpeprqCDqKouEJS"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "BBY BOO (REMIX)",
         "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
       },
@@ -1343,50 +1367,6 @@
       "duration_ms": 275862,
       "name": "BBY BOO - REMIX",
       "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
-        "name": "Parte & Choke (with Ryan Castro) [Remix]",
-        "url": "https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO"
-      },
-      "artists": [
-        {
-          "name": "Jombriel",
-          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Alex Krack",
-          "url": "https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m"
-        }
-      ],
-      "duration_ms": 218591,
-      "name": "Parte & Choke (with Ryan Castro) - Remix",
-      "url": "https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
-        "name": "Tattoo (Remix with Camilo)",
-        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Tattoo - Remix with Camilo",
-      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1419,6 +1399,26 @@
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Tattoo (Remix with Camilo)",
+        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Tattoo - Remix with Camilo",
+      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1655,34 +1655,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Palabras Sobran (Remix)",
-        "url": "https://open.spotify.com/album/4sqkoyyQKAmoIgYZypfLn9"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "PALABRAS SOBRAN - REMIX",
-      "url": "https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "Bellaquita (Remix)",
         "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
       },
@@ -1715,6 +1687,34 @@
       "duration_ms": 304733,
       "name": "Bellaquita - Remix",
       "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Palabras Sobran (Remix)",
+        "url": "https://open.spotify.com/album/4sqkoyyQKAmoIgYZypfLn9"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "PALABRAS SOBRAN - REMIX",
+      "url": "https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1955,30 +1955,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Pr\u00e9stame (Remix)",
-        "url": "https://open.spotify.com/album/6pLgFmSrejC3SLJ9uojWkv"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 234820,
-      "name": "Pr\u00e9stame - Remix",
-      "url": "https://open.spotify.com/track/6zltLA09hCYa1UI39WjE4b"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "Tranquilo (Remix Oficial) feat. Kris R., iZaak",
         "url": "https://open.spotify.com/album/3LeGGkBbGf7iSw9PmAaMsf"
       },
@@ -2015,22 +1991,26 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Frente al Mar (Ozuna Remix)",
-        "url": "https://open.spotify.com/album/1ZDgXBIziCIo2RarcIeM7Y"
+        "name": "Pr\u00e9stame (Remix)",
+        "url": "https://open.spotify.com/album/6pLgFmSrejC3SLJ9uojWkv"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 196280,
-      "name": "Frente al Mar - Ozuna Remix",
-      "url": "https://open.spotify.com/track/1gFri8sTiJFOBK8tlLck43"
+      "duration_ms": 234820,
+      "name": "Pr\u00e9stame - Remix",
+      "url": "https://open.spotify.com/track/6zltLA09hCYa1UI39WjE4b"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -2067,6 +2047,26 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
+        "name": "Frente al Mar (Ozuna Remix)",
+        "url": "https://open.spotify.com/album/1ZDgXBIziCIo2RarcIeM7Y"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Frente al Mar - Ozuna Remix",
+      "url": "https://open.spotify.com/track/1gFri8sTiJFOBK8tlLck43"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
         "name": "Singapur (Remix)",
         "url": "https://open.spotify.com/album/14aKCMITcHqD5xYDwhng5z"
       },
@@ -2099,22 +2099,26 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Tuenti (Remix)",
-        "url": "https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd"
+        "name": "2:50 Remix",
+        "url": "https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d"
       },
       "artists": [
         {
-          "name": "Raul Clyde",
-          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 184276,
-      "name": "Tuenti - Remix",
-      "url": "https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5"
+      "duration_ms": 231708,
+      "name": "2:50 Remix",
+      "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
     }
   ],
   "unique_name": "Remixes Urbanos",

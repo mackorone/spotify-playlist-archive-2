@@ -4,7 +4,7 @@
 
 > This is Gregory Alan Isakov\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 29 min
+40 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Dark, Dark, Dark](https://open.spotify.com/track/6QAH2Ji6xjUOJDUoIq6gab) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 2:59 | 2026-05-16 |  |
 | [Fade Into You](https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt), [Sylvan Esso](https://open.spotify.com/artist/2dKZgCySeNFVTVNm4iORr8) | [Fade Into You](https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV) | 4:29 | 2026-05-16 |  |
 | [Flowers](https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Flowers](https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv) | 4:00 | 2026-05-16 |  |
-| [Highway Blood \(feat\. Shook Twins & Gregory Alan Isakov\)](https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose \(Vinyl\)](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 4:26 | 2026-05-16 |  |
+| [Highway Blood](https://open.spotify.com/track/7vTNOsVw99CjBeniyjJzqC) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D) | 4:26 | 2026-08-18 |  |
+| [Highway Blood \(feat\. Shook Twins & Gregory Alan Isakov\)](https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose \(Vinyl\)](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 4:26 | 2026-05-16 | 2026-08-18 |
 | [Honey, It's Alright](https://open.spotify.com/track/5BTHMC1yaJGHmUi2nRpXfq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:11 | 2026-05-16 |  |
 | [I Am California \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose \(Vinyl\)](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 | 2026-05-16 |  |
 | [If I Go, I'm Goin](https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:27 | 2026-05-16 |  |

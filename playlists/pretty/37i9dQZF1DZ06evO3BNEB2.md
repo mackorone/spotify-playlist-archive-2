@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,877 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,886 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 13 | [Fly Away](https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:55 |
 | 14 | [Respect That You Earn \(feat\. Ne\-Yo & Wale\)](https://open.spotify.com/track/0zV8HiTQ2MHlgCkDfq9Ak6) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [I Am](https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74) | 4:22 |
 | 15 | [Again \- Remix](https://open.spotify.com/track/1YFc3bSctJKakFx6hHEdPX) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 3:11 |
-| 16 | [Ambition \(feat\. Meek Mill & Rick Ross\)](https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 5:02 |
+| 16 | [The Matrimony \(feat\. Usher\)](https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 6:35 |
 | 17 | [Where To Start](https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:33 |
-| 18 | [The Matrimony \(feat\. Usher\)](https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 6:35 |
+| 18 | [Ambition \(feat\. Meek Mill & Rick Ross\)](https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 5:02 |
 | 19 | [Love..\. \(Her Fault\) \[feat\. Bryson Tiller\]](https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:32 |
 | 20 | [Dearly Beloved \(feat\. Jamie Foxx\)](https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Folarin II](https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9) | 1:49 |
 | 21 | [City On Fire](https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 49 | [Feel the Love \(feat\. Wale\)](https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 3:56 |
 | 50 | [Drew Barrymore \(feat\. Wale\)](https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Drew Barrymore \(feat\. Wale\)](https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha) | 3:36 |
 
-Snapshot ID: `an+sAAAAAADf1cGNRwNiIqPEQmCd2koG`
+Snapshot ID: `aoD9gAAAAACP8hHq2vADiRKQlZK9TZgQ`

@@ -1,6 +1,6 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1398583,
+  "num_followers": 1398588,
   "original_name": "Gym Latino",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-04-10 15:26:03",
       "album": {
-        "name": "En Privado",
-        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 199399,
-      "name": "En Privado",
-      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
-    },
-    {
-      "added_at": "2026-04-10 15:26:03",
-      "album": {
         "name": "QLOO*",
         "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 146460,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
+    },
+    {
+      "added_at": "2026-04-10 15:26:03",
+      "album": {
+        "name": "En Privado",
+        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 199399,
+      "name": "En Privado",
+      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
     },
     {
       "added_at": "2026-04-10 15:26:03",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-04-10 15:26:03",
       "album": {
-        "name": "Cosas Pendientes",
-        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 184462,
-      "name": "Cosas Pendientes",
-      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
-    },
-    {
-      "added_at": "2026-04-10 15:26:03",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 186521,
       "name": "Loco",
       "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+    },
+    {
+      "added_at": "2026-04-10 15:26:03",
+      "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 184462,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
     },
     {
       "added_at": "2026-04-10 15:26:03",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2026-04-10 15:26:03",
       "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
-    },
-    {
-      "added_at": "2026-04-10 15:26:03",
-      "album": {
         "name": "Vagabundo",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -1167,6 +1143,30 @@
     {
       "added_at": "2026-04-10 15:26:03",
       "album": {
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+    },
+    {
+      "added_at": "2026-04-10 15:26:03",
+      "album": {
         "name": "Dura",
         "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
       },
@@ -1179,26 +1179,6 @@
       "duration_ms": 200480,
       "name": "Dura",
       "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
-    },
-    {
-      "added_at": "2026-04-10 15:26:03",
-      "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 170365,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
       "added_at": "2026-04-10 15:26:03",
@@ -1223,6 +1203,26 @@
       "duration_ms": 205264,
       "name": "Parte & Choke",
       "url": "https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6"
+    },
+    {
+      "added_at": "2026-04-10 15:26:03",
+      "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
       "added_at": "2026-04-10 15:26:03",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-04-10 15:26:03",
       "album": {
-        "name": "QUE HACES",
-        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "QUE HACES",
-      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
-    },
-    {
-      "added_at": "2026-04-10 15:26:03",
-      "album": {
         "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
         "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
+    },
+    {
+      "added_at": "2026-04-10 15:26:03",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2026-04-10 15:26:03",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-04-10 15:26:03",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2026-04-10 15:26:03",
-      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
+    },
+    {
+      "added_at": "2026-04-10 15:26:03",
+      "album": {
+        "name": "QUE HACES",
+        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "QUE HACES",
+      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
     },
     {
       "added_at": "2026-04-10 15:26:03",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-04-10 15:26:03",
       "album": {
-        "name": "Sonr\u00edele",
-        "url": "https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 178117,
-      "name": "Sonr\u00edele",
-      "url": "https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX"
-    },
-    {
-      "added_at": "2026-04-10 15:26:03",
-      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "added_at": "2026-04-10 15:26:03",
+      "album": {
+        "name": "Sonr\u00edele",
+        "url": "https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 178117,
+      "name": "Sonr\u00edele",
+      "url": "https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX"
     },
     {
       "added_at": "2026-04-10 15:26:03",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-04-10 15:26:03",
       "album": {
-        "name": "Sigueme Besando Asi",
-        "url": "https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Sigueme Besando Asi",
-      "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
-    },
-    {
-      "added_at": "2026-04-10 15:26:03",
-      "album": {
         "name": "Perdonarte \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 193933,
       "name": "Perdonarte \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy"
+    },
+    {
+      "added_at": "2026-04-10 15:26:03",
+      "album": {
+        "name": "Sigueme Besando Asi",
+        "url": "https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Sigueme Besando Asi",
+      "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
     },
     {
       "added_at": "2026-04-10 15:26:03",

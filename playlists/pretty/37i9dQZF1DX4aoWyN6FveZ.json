@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 24642,
+  "num_followers": 24641,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 451826,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Bloody Samaritan",
-      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 388226,
       "name": "Last Night (feat. Keyshia Cole)",
       "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
     },
     {
       "added_at": "2022-10-01 20:09:45",

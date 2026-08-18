@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57724,
+  "num_followers": 57728,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAD/Jii9UgMuoh6SYrSWPXHr",
+  "snapshot_id": "aoD9gAAAAAA+xfvAZzMGEAiUz+FGF1kH",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This is Acoustic (Live Session / Acoustic Version)",
-        "url": "https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Renegades - Live Session / Acoustic Version",
-      "url": "https://open.spotify.com/track/1G3aUus1vknwZhl3CrsbUp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORION",
         "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 197933,
       "name": "HOLD YOU DOWN",
       "url": "https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This is Acoustic (Live Session / Acoustic Version)",
+        "url": "https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Renegades - Live Session / Acoustic Version",
+      "url": "https://open.spotify.com/track/1G3aUus1vknwZhl3CrsbUp"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 287893,
-      "name": "Bad Husband (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -483,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS 2.0",
-        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
       "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 233013,
-      "name": "Kerosene Dreams",
-      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
+      "duration_ms": 287893,
+      "name": "Bad Husband (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 210773,
       "name": "Friend For Life (with Medium Build)",
       "url": "https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS 2.0",
+        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Kerosene Dreams",
+      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 280813,
       "name": "Low Life",
       "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Astronomical",
-        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 153957,
-      "name": "Razor's Edge (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "torture (with Earl St. Clair)",
         "url": "https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 161669,
       "name": "torture (with Earl St. Clair)",
       "url": "https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Astronomical",
+        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 153957,
+      "name": "Razor's Edge (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
     },
     {
       "added_at": null,

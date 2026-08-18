@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,260 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,309 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 21 | [History \(feat\. James Blake\)](https://open.spotify.com/track/6OakIaj4T039vJ8V2AJiWa) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 4:06 |
 | 22 | [the people that saved me](https://open.spotify.com/track/4T9hQ3glnJKtH8uWr0MBm9) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV) | 2:46 |
 | 23 | [System \(feat\. WizKid\)](https://open.spotify.com/track/0McUpkmKSZI5JYbgOYwxPu) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:01 |
-| 24 | [3x](https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:40 |
+| 24 | [Special](https://open.spotify.com/track/3JxIovCFZgnQHnZsTTISvH) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT) | 4:07 |
 | 25 | [Marvellous](https://open.spotify.com/track/0BiXEKLDn6bG3OgZcwNYuM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:01 |
-| 26 | [Special](https://open.spotify.com/track/3JxIovCFZgnQHnZsTTISvH) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT) | 4:07 |
+| 26 | [3x](https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:40 |
 | 27 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/1vdP5l03rrRobswkVke5qP) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:24 |
 | 28 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:42 |
 | 29 | [Selfish \(feat\. James Blake\)](https://open.spotify.com/track/4lhOzoYujY5YD3anyw68hp) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [My 19th Birthday](https://open.spotify.com/track/4KCfCctnZQd5mem6S3HhKi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 8:58 |
 | 50 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
 
-Snapshot ID: `an+sAAAAAAAEgyf+BlLD+hat2M3dQUeq`
+Snapshot ID: `aoD9gAAAAADCVZ9MqpesPxj9G4iNE0NL`

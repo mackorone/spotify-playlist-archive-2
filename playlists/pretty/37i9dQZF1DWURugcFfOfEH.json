@@ -1,6 +1,6 @@
 {
   "description": "good vibes, all the time",
-  "num_followers": 453984,
+  "num_followers": 454006,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
         "name": "STORM",
         "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 173433,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Life Will Be",
+      "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -777,20 +793,20 @@
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
-      "added_at": "2026-06-18 20:32:33",
+      "added_at": "2026-08-14 15:37:09",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 198200,
-      "name": "Life Will Be",
-      "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -845,22 +861,6 @@
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
     },
     {
-      "added_at": "2026-08-14 15:37:09",
-      "album": {
-        "name": "Twiggy",
-        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 209258,
-      "name": "Twiggy",
-      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
-    },
-    {
       "added_at": "2026-06-18 20:32:33",
       "album": {
         "name": "Fancy That",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-08-14 15:37:09",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
+    },
+    {
+      "added_at": "2026-08-14 15:37:09",
+      "album": {
         "name": "Whatever You Wanna",
         "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 271969,
-      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 229444,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 271969,
+      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 237952,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/4qpOmcLuLFjaSvmbQIq4ft"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 177520,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/4qpOmcLuLFjaSvmbQIq4ft"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1123,6 +1139,26 @@
       "duration_ms": 233600,
       "name": "Day 1 \u25d1",
       "url": "https://open.spotify.com/track/6ZzYETKetIfNUsZUb23jgG"
+    },
+    {
+      "added_at": "2026-08-14 15:37:09",
+      "album": {
+        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1175,22 +1211,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Eastside Girls",
-      "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "The Drums",
         "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
       },
@@ -1203,6 +1223,22 @@
       "duration_ms": 174306,
       "name": "Lets Go Surfing",
       "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Eastside Girls",
+      "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1221,26 +1257,6 @@
       "url": "https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7"
     },
     {
-      "added_at": "2026-08-14 15:37:09",
-      "album": {
-        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
-        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
-      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
-    },
-    {
       "added_at": "2026-06-18 20:32:33",
       "album": {
         "name": "Feels Right",
@@ -1255,38 +1271,6 @@
       "duration_ms": 199006,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
-        "name": "breaking news",
-        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "breaking news",
-      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1309,20 +1293,52 @@
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
-      "added_at": "2026-06-18 20:32:33",
+      "added_at": "2026-08-14 15:37:09",
       "album": {
-        "name": "The Afterparty",
-        "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
+        "name": "I Lied, You Lied",
+        "url": "https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
+      "duration_ms": 203192,
+      "name": "I Lied, You Lied",
+      "url": "https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "breaking news",
+        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "breaking news",
+      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1339,6 +1355,22 @@
       "duration_ms": 157333,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "The Afterparty",
+        "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1379,18 +1411,18 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
       },
       "artists": [
         {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+      "duration_ms": 246761,
+      "name": "Summer Sweat",
+      "url": "https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1411,18 +1443,18 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 246761,
-      "name": "Summer Sweat",
-      "url": "https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF"
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1491,38 +1523,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "East Village",
-      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
-        "name": "Women In Music Pt III (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Now I'm In It - Bonus Track",
-      "url": "https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "XY",
         "url": "https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV"
       },
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Can we talk about Isaac?",
-        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
+        "name": "Women In Music Pt III (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 243203,
-      "name": "Can we talk about Isaac?",
-      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1587,22 +1587,34 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Baxter (these are my friends)",
-        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baxter Dury",
-          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 244034,
-      "name": "Baxter (these are my friends)",
-      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+      "duration_ms": 211233,
+      "name": "East Village",
+      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Can we talk about Isaac?",
+        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 243203,
+      "name": "Can we talk about Isaac?",
+      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1623,34 +1635,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+        "name": "Baxter (these are my friends)",
+        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
-        "name": "Go Fuck Urself",
-        "url": "https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK"
-      },
-      "artists": [
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
         {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+          "name": "Baxter Dury",
+          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
         }
       ],
-      "duration_ms": 185998,
-      "name": "Go Fuck Urself",
-      "url": "https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP"
+      "duration_ms": 244034,
+      "name": "Baxter (these are my friends)",
+      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
     }
   ],
   "unique_name": "good energy",

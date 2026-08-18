@@ -4,7 +4,7 @@
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-80 songs - 3 hr 26 min
+81 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Gas Station Love \- remix](https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gas Station Love \(remix\)](https://open.spotify.com/album/7raN9uFr6FwxhFB1R6R0D3) | 4:05 | 2026-02-11 | 2026-05-08 |
 | [Gift & a Curse \(interlude\)](https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 0:41 | 2025-09-04 | 2025-12-05 |
 | [Gone \(interlude\)](https://open.spotify.com/track/2z7vD5cJfwXaOU5D6mLAvg) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 0:40 | 2025-09-04 | 2025-09-11 |
+| [Good Chance \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 2:04 | 2026-08-18 |  |
 | [Good To Me](https://open.spotify.com/track/09fNbO1PnafsvOIANvJCZS) | [Mykfresh](https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR), [2RawQua](https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Good To Me](https://open.spotify.com/album/3ITvNAnHd2Ub45NyQLmZ2k) | 3:28 | 2026-06-20 |  |
 | [Good To Me](https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O) | [Mykfresh](https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR), [2RawQua](https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Good To Me](https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3) | 3:28 | 2025-09-04 | 2026-06-19 |
 | [Hell At Night \(feat\. Ella Langley\)](https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Hell At Night \(feat\. Ella Langley\)](https://open.spotify.com/album/1Nn0cOJPNZqKJlkq4AgY2V) | 2:59 | 2025-09-04 | 2025-11-26 |
@@ -77,7 +78,7 @@
 | [Rich Off Rap](https://open.spotify.com/track/0NjuL8WPfpZsp6WoG1M9SZ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:00 | 2026-05-23 |  |
 | [SAFE TO SAY](https://open.spotify.com/track/3LiKjOCPBdHptHFuVByheV) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 2:59 | 2026-03-28 |  |
 | [Safehouse](https://open.spotify.com/track/260XeZ5B5iyXTxVmSpks4K) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:16 | 2025-09-04 | 2025-12-22 |
-| [Say Please \(Don't Leave Me Lonely\) \(feat\. BigXthaPlug\)](https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Say Please \(Don't Leave Me Lonely\) \[feat\. BigXthaPlug\]](https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF) | 3:14 | 2026-05-08 |  |
+| [Say Please \(Don't Leave Me Lonely\) \(feat\. BigXthaPlug\)](https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Say Please \(Don't Leave Me Lonely\) \[feat\. BigXthaPlug\]](https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF) | 3:14 | 2026-05-08 | 2026-08-18 |
 | [Soul Cry](https://open.spotify.com/track/5c3PqlUjVvTwGaDwVniUNb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ybgrone](https://open.spotify.com/artist/1jS1tBLLmg296l2k3fmSoC) | [Soul Cry](https://open.spotify.com/album/0upNHj3gRdlyZVC7mDpTYm) | 2:56 | 2026-01-15 | 2026-03-22 |
 | [Take Care](https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:29 | 2025-09-04 |  |
 | [Texas](https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:26 | 2025-09-04 |  |

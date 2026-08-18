@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1573678,
+  "num_followers": 1573467,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 363586,
+      "name": "We'll Make It Through",
+      "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+        "name": "Pacific",
+        "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
         }
       ],
-      "duration_ms": 363586,
-      "name": "We'll Make It Through",
-      "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
+      "duration_ms": 368493,
+      "name": "There's A Place",
+      "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -723,22 +739,6 @@
       "duration_ms": 287333,
       "name": "Wedding Ring",
       "url": "https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
-        "name": "Pacific",
-        "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 368493,
-      "name": "There's A Place",
-      "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Venus (Acoustic)",
-        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 175120,
-      "name": "Sweet Love of Mine (Acoustic)",
-      "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 193972,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "Venus (Acoustic)",
+        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 175120,
+      "name": "Sweet Love of Mine (Acoustic)",
+      "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "All the Beds I've Made (Acoustic)",
-        "url": "https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "All the Beds I've Made (Acoustic)",
-      "url": "https://open.spotify.com/track/10jrqgyC1u81RhIgtLUfdR"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 227493,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "All the Beds I've Made (Acoustic)",
+        "url": "https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "All the Beds I've Made (Acoustic)",
+      "url": "https://open.spotify.com/track/10jrqgyC1u81RhIgtLUfdR"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1075,26 +1075,6 @@
       "duration_ms": 230773,
       "name": "I Like to Be With Me When I'm With You",
       "url": "https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
-        "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
-        "url": "https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        },
-        {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
-        }
-      ],
-      "duration_ms": 238298,
-      "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
-      "url": "https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1315,22 +1295,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "That Spell",
-        "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Wedding Song",
-      "url": "https://open.spotify.com/track/0jncXf6jewaysWY90QkzNV"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Who Saved Who",
         "url": "https://open.spotify.com/album/50Ddcp9wVHb6ZRNkJ5WbbX"
       },
@@ -1347,6 +1311,22 @@
       "duration_ms": 245840,
       "name": "Who Saved Who",
       "url": "https://open.spotify.com/track/3xQMRlwBgqvYWJX8TsOOgq"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "That Spell",
+        "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Wedding Song",
+      "url": "https://open.spotify.com/track/0jncXf6jewaysWY90QkzNV"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1447,6 +1427,22 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
+        "name": "Swim the River",
+        "url": "https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb"
+      },
+      "artists": [
+        {
+          "name": "Christian Lopez",
+          "url": "https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "Swim the River",
+      "url": "https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1479,18 +1475,18 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Swim the River",
-        "url": "https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb"
+        "name": "All Night Pharmacy",
+        "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
       },
       "artists": [
         {
-          "name": "Christian Lopez",
-          "url": "https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc"
+          "name": "Nathan Reich",
+          "url": "https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf"
         }
       ],
-      "duration_ms": 175946,
-      "name": "Swim the River",
-      "url": "https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ"
+      "duration_ms": 263880,
+      "name": "Chandelier Love",
+      "url": "https://open.spotify.com/track/1ct2wAU6FAIIGhfw8EsnKA"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1511,22 +1507,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "All Night Pharmacy",
-        "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
-      },
-      "artists": [
-        {
-          "name": "Nathan Reich",
-          "url": "https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "Chandelier Love",
-      "url": "https://open.spotify.com/track/1ct2wAU6FAIIGhfw8EsnKA"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Marry Me",
         "url": "https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD"
       },
@@ -1539,22 +1519,6 @@
       "duration_ms": 181279,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
-        "name": "Me and the Fool I've Been (Set 2)",
-        "url": "https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN"
-      },
-      "artists": [
-        {
-          "name": "Robby Hecht",
-          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "The Ones I Love",
-      "url": "https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1587,6 +1551,22 @@
       "duration_ms": 171680,
       "name": "In Good Times",
       "url": "https://open.spotify.com/track/3gCZCyMbMK0jHCRDQfpKrX"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "Me and the Fool I've Been (Set 2)",
+        "url": "https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN"
+      },
+      "artists": [
+        {
+          "name": "Robby Hecht",
+          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "The Ones I Love",
+      "url": "https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1651,6 +1631,22 @@
       "duration_ms": 357584,
       "name": "The Future",
       "url": "https://open.spotify.com/track/2OVqYcvadhEjes5Rql8vvt"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "When We Fall",
+        "url": "https://open.spotify.com/album/5mhoyzo8SnB09QVeJtiwlm"
+      },
+      "artists": [
+        {
+          "name": "All Our Exes Live in Texas",
+          "url": "https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "When the Sun Comes Up",
+      "url": "https://open.spotify.com/track/1xijgB270GQezhBIDmlCz8"
     }
   ],
   "unique_name": "Acoustic Love",

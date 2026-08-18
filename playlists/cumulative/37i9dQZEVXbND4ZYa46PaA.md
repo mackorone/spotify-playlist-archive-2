@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-750 songs - 1 day 16 hr 28 min
+751 songs - 1 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,8 @@
 | [J’crois qu’ils ont pas compris](https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:10 | 2024-08-23 | 2024-10-05 |
 | [KAKI](https://open.spotify.com/track/2vtSwaexfs2efL7MIh4mMn) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 2:48 | 2025-06-06 | 2025-06-14 |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-08-16 | 2024-08-31 |
-| [Kingdom of Fear](https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:41 | 2026-08-07 |  |
+| [Kingdom of Fear](https://open.spotify.com/track/1zPpQABUmm6RzLAC7X4DB2) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:41 | 2026-08-14 |  |
+| [Kingdom of Fear](https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:41 | 2026-08-07 | 2026-08-18 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-09-06 | 2024-12-21 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3XzlRX9BQTzU97GFnorCE7) | 2:18 | 2024-12-20 | 2025-08-09 |
 | [Koning minimaliseren](https://open.spotify.com/track/4wDWjMDpPd4E4qgrfER6wk) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Gedoe](https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R) | 2:55 | 2025-10-10 | 2025-11-08 |

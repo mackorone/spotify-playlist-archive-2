@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 757 songs - 2 day 0 hr 29 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 761 songs - 2 day 0 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -765,5 +765,9 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 755 | [Disco Infiltrator](https://open.spotify.com/track/6omXPpAJH4ap2jMGPqjv0C) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 4:56 |
 | 756 | [Great Release](https://open.spotify.com/track/4xJrlkbNajNQ5v7jEc4VbU) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 6:35 |
 | 757 | [Losing My Edge](https://open.spotify.com/track/1XlDNpWy8dyEljyRd0RC2J) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 7:53 |
+| 758 | [Beat Connection](https://open.spotify.com/track/7rHWWHXB9TDNwivu6bTSwQ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 8:07 |
+| 759 | [Give It Up](https://open.spotify.com/track/12ETjGIhfZnlNocWEOGpMO) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 3:55 |
+| 760 | [Yr City's a Sucker](https://open.spotify.com/track/4lL35nfQSgSvDsVFQtJ4Wp) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 9:22 |
+| 761 | [Slowdive \- XFM Session](https://open.spotify.com/track/5Cux3rsN6IjuhVF8fs99mG) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Introns](https://open.spotify.com/album/1COpEJLhNViHDdh2fRn72r) | 4:10 |
 
-Snapshot ID: `AAAr+d20P9LHVyRS81zmVo3SeBsYFJA9`
+Snapshot ID: `AAAr/cEDKpEvyta8HcB+yGgr2znIh9DO`

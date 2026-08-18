@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 
 > This is Infinity Song\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,945 likes - 46 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,946 likes - 45 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 11 | [I Want You Back](https://open.spotify.com/track/3wk5UPZ5cVFD6rBpQsFQyD) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 3:02 |
 | 12 | [Slow Burn](https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 3:21 |
 | 13 | [American Love Song](https://open.spotify.com/track/76KJbphpLSGbZTtWodvWiv) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 3:21 |
-| 14 | [Stranger Danger](https://open.spotify.com/track/3B4Bt4Ygb8TfosDDfE9Cdu) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 3:46 |
+| 14 | [Deja Vu](https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 3:08 |
 | 15 | [London Foxes](https://open.spotify.com/track/66QxAmSRT2GKceep57uq2q) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [London Foxes](https://open.spotify.com/album/68TxnBCELiRWaCauc7NWgg) | 2:35 |
 | 16 | [Dreams \- Live](https://open.spotify.com/track/1zCrGe8QtFRb8yPapiHJxF) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 10:29 |
 | 17 | [Strong](https://open.spotify.com/track/6MJXj7Wt2UTB7JZLUNaT8g) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:36 |
-| 18 | [Deja Vu](https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 3:08 |
+| 18 | [Stranger Danger](https://open.spotify.com/track/3B4Bt4Ygb8TfosDDfE9Cdu) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 3:46 |
 | 19 | [The Sunshine](https://open.spotify.com/track/6iefEnldbME0ecUsWYgbgC) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 3:54 |
 | 20 | [Mad Love](https://open.spotify.com/track/77gxBuREXp2aJI6FmqjaeC) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:02 |
 | 21 | [She's A Sweetheart](https://open.spotify.com/track/7atvuaadSawmTPCDLUkYcR) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 3:35 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 31 | [I Don't Feel No Ways Tired](https://open.spotify.com/track/1Um40cA0dv4sWBEBV0ErWm) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Peter Collins](https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:15 |
 | 32 | [Mad Love Remix ft\. Tobe Nwigwe, Rapsody \- Remix](https://open.spotify.com/track/57aYK12Z6JuvqXg3n16683) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 3:05 |
 | 33 | [Ride Or Die](https://open.spotify.com/track/6buSeaKiMT7DYkwZxRGtFY) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:53 |
-| 34 | [Don’t You Ever](https://open.spotify.com/track/4QBeaYQMz6cx1Np9XNsprp) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [The Broken Instrument](https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG) | 5:01 |
-| 35 | [Hater's Reprise \- Live](https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 1:29 |
+| 34 | [Hater's Reprise \- Live](https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 1:29 |
+| 35 | [Don’t You Ever](https://open.spotify.com/track/4QBeaYQMz6cx1Np9XNsprp) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [The Broken Instrument](https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG) | 5:01 |
 | 36 | [Outside Myself](https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 4:04 |
 | 37 | [Just Loving Me](https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:48 |
 | 38 | [Hater's Anthem \- Sped Up](https://open.spotify.com/track/7IfFgAh3A3mUBgbo6Lx2Rk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem \(Sped Up\)](https://open.spotify.com/album/7Jm3OI7cJLCCn22qe43lw9) | 2:35 |
@@ -53,6 +53,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 43 | [Dream Fighter](https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 6:06 |
 | 44 | [We Are The Light](https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:27 |
 | 45 | [Beautiful](https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 4:05 |
-| 46 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 3:54 |
 
-Snapshot ID: `an+sAAAAAACHT3DGdoHbUM/KAlRymqzr`
+Snapshot ID: `aoD9gAAAAACRhw7lKJIGiAVLlOkPvmqT`

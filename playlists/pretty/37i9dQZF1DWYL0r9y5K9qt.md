@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 
 > time to strike a couple of poses\. cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,753 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,725 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 22 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 |
 | 23 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
 | 24 | [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 |
-| 25 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
-| 26 | [Little Miss](https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Little Miss](https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6) | 2:23 |
+| 25 | [Little Miss](https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Little Miss](https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6) | 2:23 |
+| 26 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
 | 27 | [Vivarium](https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Vivarium](https://open.spotify.com/album/3oyndt1RMCFGQLnZMYPmML) | 4:03 |
 | 28 | [Toki Yo Tomare](https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP) | 3:08 |
 | 29 | [Bad Girl](https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Bad Girl](https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH) | 3:34 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 34 | [ALL IN](https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 2:32 |
 | 35 | [work](https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [work](https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza) | 2:25 |
 | 36 | [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 |
-| 37 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 |
-| 38 | [Cosmic](https://open.spotify.com/track/7dTVx630q32E7NBBylFnfG) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Cosmic](https://open.spotify.com/album/272qI1H4Qxy3z1qPGa4tpR) | 2:31 |
-| 39 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
-| 40 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
-| 41 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
+| 37 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
+| 38 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
+| 39 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
+| 40 | [Cosmic](https://open.spotify.com/track/7dTVx630q32E7NBBylFnfG) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Cosmic](https://open.spotify.com/album/272qI1H4Qxy3z1qPGa4tpR) | 2:31 |
+| 41 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 |
 | 42 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
-| 43 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 |
-| 44 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
-| 45 | [Forever July](https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Forever July](https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl) | 2:41 |
-| 46 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 |
+| 43 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
+| 44 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 |
+| 45 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 |
+| 46 | [Forever July](https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Forever July](https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl) | 2:41 |
 | 47 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
-| 48 | [Stuck in Between](https://open.spotify.com/track/6qoPv5gXmFX3yHCp1cU0s2) | [Rebecca Armstrong](https://open.spotify.com/artist/2ePmGYViXoQ3Ku4z7Pk78y) | [Stuck in Between](https://open.spotify.com/album/59brawft7S2HJ4eY2GYPUx) | 3:20 |
-| 49 | [You and I](https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [You and I](https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv) | 3:38 |
-| 50 | [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 |
+| 48 | [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 |
+| 49 | [Stuck in Between](https://open.spotify.com/track/6qoPv5gXmFX3yHCp1cU0s2) | [Rebecca Armstrong](https://open.spotify.com/artist/2ePmGYViXoQ3Ku4z7Pk78y) | [Stuck in Between](https://open.spotify.com/album/59brawft7S2HJ4eY2GYPUx) | 3:20 |
+| 50 | [You and I](https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [You and I](https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv) | 3:38 |
 
 Snapshot ID: `AAAAADaKVYh2IDt0avydHTaLNG3cOLNL`

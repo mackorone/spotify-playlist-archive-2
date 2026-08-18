@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-504 songs - 1 day 3 hr 41 min
+505 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Can't Be Bothered](https://open.spotify.com/track/4sreGeUOTW90DXLh4rwtK8) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [HAVE A NICE DAY!](https://open.spotify.com/album/1I9S6JjC6OtSiNXGNiLMLL) | 2:35 | 2023-11-23 | 2024-03-15 |
 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 | 2025-01-09 | 2025-04-18 |
 | [Carousel](https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Everything Glows](https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr) | 3:36 | 2026-03-26 |  |
-| [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 | 2026-03-26 |  |
+| [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 | 2026-03-26 | 2026-08-18 |
 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-10-24 | 2025-03-28 |
 | [Chamallow](https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Carrossel Do Tempo](https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90) | 4:00 | 2023-10-05 | 2024-01-26 |
 | [Cherry Lips](https://open.spotify.com/track/2vfcLK0mU3JhMC6vscawrM) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Cherry Lips](https://open.spotify.com/album/4MjHMcTvVgqGFuXVejbpXc) | 2:51 | 2024-02-08 | 2024-05-10 |
@@ -424,6 +424,7 @@
 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 | 2023-10-12 | 2024-01-05 |
 | [Sunday Stitches](https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Sunday Stitches](https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK) | 3:03 | 2024-09-05 | 2025-01-17 |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-05-22 | 2025-10-03 |
+| [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 | 2026-08-17 |  |
 | [Sunshine In The Room \(feat\. Jon Batiste\)](https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Sunshine In The Room](https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW) | 3:02 | 2025-01-30 | 2025-04-25 |
 | [Superstar](https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Superstar](https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5) | 2:40 | 2026-06-26 |  |
 | [Sweet Dream](https://open.spotify.com/track/4cHl5lAbgUja4k0qrpMVx7) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Sweet Dream](https://open.spotify.com/album/60Y0qxOOoSDLCy82y0uD5C) | 2:40 | 2024-03-07 | 2024-05-24 |

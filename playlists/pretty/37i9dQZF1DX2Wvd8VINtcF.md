@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Yung Lean✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,954 likes - 278 songs - 15 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,968 likes - 278 songs - 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

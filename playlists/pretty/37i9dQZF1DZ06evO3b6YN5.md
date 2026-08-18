@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 
 > This is Little Jesus\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,294 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,293 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 12 | [Un Plan Espectacular](https://open.spotify.com/track/3m604iEEnJrXDRBPXhzTL7) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 3:25 |
 | 13 | [Rey Del Glam](https://open.spotify.com/track/0SeIoEjhexEvtCxkQ0rQn1) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Rey Del Glam](https://open.spotify.com/album/5woIUUe3VHDtI8L054tejM) | 4:08 |
 | 14 | [Copa del Mundo](https://open.spotify.com/track/63pqKVbcr55rwQ8QZ0NyQJ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Copa del Mundo](https://open.spotify.com/album/1SU5CtGk3nZPssEAXHRDXr) | 4:25 |
-| 15 | [La Historia Sin Fin](https://open.spotify.com/track/6dEN7xu4YO1WmHP0J2Of5a) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:55 |
-| 16 | [Químicos](https://open.spotify.com/track/0XSN5gjS49IiIzNejxMUlz) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:26 |
+| 15 | [Químicos](https://open.spotify.com/track/0XSN5gjS49IiIzNejxMUlz) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:26 |
+| 16 | [La Historia Sin Fin](https://open.spotify.com/track/6dEN7xu4YO1WmHP0J2Of5a) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:55 |
 | 17 | [Parada del Bus](https://open.spotify.com/track/5y7canQKRa5VpBBx2QnC6j) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Amor Compartido](https://open.spotify.com/album/5iNKAEiXpsvzu1Q9NyoVSy) | 2:39 |
 | 18 | [Norte \- Bonus](https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:03 |
 | 19 | [Los Años Maravillosos](https://open.spotify.com/track/1996GjeJ5X2eekrXatFiYF) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:23 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 41 | [Cruel](https://open.spotify.com/track/5WB0z3fy5pcngGdLbI8Ayt) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:16 |
 | 42 | [Cine Permanencia Voluntaria](https://open.spotify.com/track/5gPXLYNb9XRFHgRfcUKiHA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 1:34 |
 | 43 | [Mal \- Bonus](https://open.spotify.com/track/42wlc3UbSdk68Ngweo5ZBX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 3:57 |
-| 44 | [Fútbol Rock](https://open.spotify.com/track/1jfxfNyqMb9vtI7vX42pUR) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Radio Kono](https://open.spotify.com/album/172XfCgIw7Xo1oVZCV22gG) | 4:13 |
+| 44 | [Solo](https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Solo](https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm) | 4:48 |
 | 45 | [Color](https://open.spotify.com/track/515zwoNCwMBalcn4041HkQ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:18 |
-| 46 | [Solo](https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Solo](https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm) | 4:48 |
+| 46 | [Fútbol Rock](https://open.spotify.com/track/1jfxfNyqMb9vtI7vX42pUR) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Radio Kono](https://open.spotify.com/album/172XfCgIw7Xo1oVZCV22gG) | 4:13 |
 | 47 | [Jóvenes \- Bonus](https://open.spotify.com/track/1Del9GKHyafG0uliX83jY2) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 4:21 |
 | 48 | [Hermoso](https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Hermoso](https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA) | 3:27 |
 | 49 | [llorandoenelclub\_100625\_v2](https://open.spotify.com/track/4a122VZ6nteagEdv1pVwGV) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [llorandoenelclub\_100625\_v2](https://open.spotify.com/album/73FHDk1GU3EhTYlFCM2qDU) | 2:28 |
 | 50 | [Video Club Amores](https://open.spotify.com/track/0KgiNELjv8XGVU7vnR2Mcm) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Video Club Amores](https://open.spotify.com/album/31tvW54Y2gBxdjJ7Gw8lNX) | 3:17 |
 
-Snapshot ID: `an+sAAAAAACDEEjYHfAXas10eVHiQtUz`
+Snapshot ID: `aoD9gAAAAAAvwGEUb2IKPTKMzN/gCDlY`

@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-441 songs - 1 day 2 hr 8 min
+443 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Company Car](https://open.spotify.com/track/5OPrsdGZ8H15gW6oZMzHsB) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Cubicle](https://open.spotify.com/album/2BtiXLXQ6dNgJQDytbATXq) | 3:02 | 2022-04-08 | 2022-07-29 |
 | [Corduroy](https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Corduroy](https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH) | 3:15 | 2024-01-26 | 2024-05-15 |
 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 | 2025-06-06 | 2026-08-15 |
-| [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 | 2024-04-29 |  |
+| [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 | 2024-04-29 | 2026-08-18 |
 | [Danny](https://open.spotify.com/track/0SodyCDKktmOihlKE7jL9p) | [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [Danny](https://open.spotify.com/album/25ffmsqPglf3Mx2WqBEn1z) | 4:38 | 2026-01-30 | 2026-03-10 |
 | [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 | 2024-04-29 | 2024-10-07 |
 | [Dark Eyed Sailor](https://open.spotify.com/track/5dzk2Upt3yF2uDThmsqeJX) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [Dark Eyed Sailor](https://open.spotify.com/album/1R4KuR0eEdoQH6c9SokpsH) | 5:10 | 2026-03-04 |  |
@@ -98,7 +98,7 @@
 | [Dream Of Mine](https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Dream Of Mine](https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8) | 4:03 | 2026-01-16 | 2026-04-05 |
 | [Dream State](https://open.spotify.com/track/7dzzw8NQttXdPpEFrwrHKG) | [Luke De\-Sciscio](https://open.spotify.com/artist/41RGqF0I6xFG0GzQmLKDgb) | [Dream State](https://open.spotify.com/album/6cdULH9wOqEHIfsOVcJkPX) | 3:27 | 2022-04-08 | 2022-11-19 |
 | [Drive You Home](https://open.spotify.com/track/1xUTQQKrTrGc7JPUi5gWPg) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Drive You Home](https://open.spotify.com/album/3uu5fit1E8Oa6Vv2bVwz8c) | 2:49 | 2022-08-26 | 2023-05-20 |
-| [Drug Dealer](https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Drug Dealer](https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5) | 3:58 | 2025-06-06 |  |
+| [Drug Dealer](https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Drug Dealer](https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5) | 3:58 | 2025-06-06 | 2026-08-18 |
 | [Easily](https://open.spotify.com/track/5JqEXcyNdBfhFiQAiEzqKz) | [Fiona O' Connell](https://open.spotify.com/artist/0EycwYy6PGKtlZntaQThjr) | [Easily](https://open.spotify.com/album/0i5INz3vtaN57kNLYj4gg2) | 3:21 | 2023-02-24 | 2024-02-16 |
 | [Easy To Learn](https://open.spotify.com/track/09IkwbEsp24Wb3YEUB2GJl) | [Zoe Konez](https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu) | [Easy To Learn](https://open.spotify.com/album/6r0cyoVgZWJzTPLVS2bR0V) | 3:58 | 2023-05-19 | 2024-07-20 |
 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-06-06 | 2025-12-09 |
@@ -268,6 +268,7 @@
 | [Necking](https://open.spotify.com/track/3h51UW08rH9dbdU8uV24WS) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Necking](https://open.spotify.com/album/5MUh83LAA2EFO6eXSU24Ah) | 5:44 | 2022-04-08 | 2022-07-02 |
 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 | 2025-06-06 | 2025-11-12 |
 | [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 | 2024-10-06 |  |
+| [Never Going Back!](https://open.spotify.com/track/7tQxEN6xSkPvnL1kPFB9Bj) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 1:42 | 2026-08-14 |  |
 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 | 2024-07-19 |  |
 | [Next To Me](https://open.spotify.com/track/49x1GZ66GEXQkdXD8Bc7LR) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Next To Me](https://open.spotify.com/album/4dyNIU75ppnJATmOF1QPbC) | 3:50 | 2025-09-11 |  |
 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 | 2024-06-07 | 2026-06-16 |
@@ -347,6 +348,7 @@
 | [Spill](https://open.spotify.com/track/6dQ1kKbYJJU27LvYdaGe9G) | [SELK](https://open.spotify.com/artist/2XQEmjq2NVlPxAhjRanGY6) | [Spill](https://open.spotify.com/album/6MgF6PkDOI2rGW5t882Nk8) | 4:21 | 2022-10-07 | 2022-11-19 |
 | [Spill](https://open.spotify.com/track/7dypjDl8BjW7DZTuPHdk53) | [SELK](https://open.spotify.com/artist/2XQEmjq2NVlPxAhjRanGY6) | [Spill](https://open.spotify.com/album/5xT0WOgcXxOTYHvNY9TwtU) | 4:21 | 2022-08-26 | 2022-11-14 |
 | [stepping outside](https://open.spotify.com/track/6i7QPGVpVmltzVDNDnRhPV) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [stepping outside](https://open.spotify.com/album/5G8KyEddu62U8Vxabk4cuG) | 4:25 | 2026-07-23 |  |
+| [Still Standing](https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:56 | 2026-08-14 |  |
 | [Stow Brae](https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Stow Brae](https://open.spotify.com/album/0CbHExiIeCAhFeOVxH8D1T) | 2:42 | 2022-05-20 | 2024-07-20 |
 | [strawberries for two](https://open.spotify.com/track/33AqMQTISnP1daTHunLVKO) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [strawberries for two](https://open.spotify.com/album/1kMlsA7I3l7LiskTVSlRNX) | 2:41 | 2022-08-26 | 2024-10-07 |
 | [Strawberry Wine](https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:45 | 2024-01-26 | 2026-04-15 |

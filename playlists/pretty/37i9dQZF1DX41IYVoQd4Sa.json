@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05dc\u05de\u05d4 \u05d2\u05d5\u05d1",
-  "num_followers": 34272,
+  "num_followers": 34275,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,22 @@
     {
       "added_at": "2026-08-13 21:00:24",
       "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05e0\u05d9\u05e0\u05d4",
-        "url": "https://open.spotify.com/album/1BtYEQGPMG5ich1PCAR7rB"
+        "name": "\u05d4\u05e2\u05d5\u05dc\u05dd \u05d6\u05d4 \u05dc\u05d0 \u05de\u05e1\u05e4\u05d9\u05e7",
+        "url": "https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X"
       },
       "artists": [
         {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+          "name": "ATAR MAYNER",
+          "url": "https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm"
+        },
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
         }
       ],
-      "duration_ms": 247783,
-      "name": "\u05d7'\u05ea \u05e9\u05ea\u05d9\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/7FfYo7iCiFyfXKCQbpaXtT"
+      "duration_ms": 204255,
+      "name": "\u05e0\u05e9\u05de\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2"
     },
     {
       "added_at": "2026-08-13 21:00:24",
@@ -567,22 +571,18 @@
     {
       "added_at": "2026-08-13 21:00:24",
       "album": {
-        "name": "\u05d4\u05e2\u05d5\u05dc\u05dd \u05d6\u05d4 \u05dc\u05d0 \u05de\u05e1\u05e4\u05d9\u05e7",
-        "url": "https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X"
+        "name": "\u05d0\u05e0\u05d9 \u05e0\u05d9\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/1BtYEQGPMG5ich1PCAR7rB"
       },
       "artists": [
         {
-          "name": "ATAR MAYNER",
-          "url": "https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm"
-        },
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
         }
       ],
-      "duration_ms": 204255,
-      "name": "\u05e0\u05e9\u05de\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2"
+      "duration_ms": 247783,
+      "name": "\u05d7'\u05ea \u05e9\u05ea\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/7FfYo7iCiFyfXKCQbpaXtT"
     },
     {
       "added_at": "2026-08-13 21:00:24",
@@ -651,6 +651,42 @@
     {
       "added_at": "2026-08-13 21:00:24",
       "album": {
+        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 197045,
+      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+    },
+    {
+      "added_at": "2026-08-13 21:00:24",
+      "album": {
+        "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
+        "url": "https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z"
+      },
+      "artists": [
+        {
+          "name": "Girafot",
+          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
+        },
+        {
+          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
+      "url": "https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2"
+    },
+    {
+      "added_at": "2026-08-13 21:00:24",
+      "album": {
         "name": "African Coast",
         "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
       },
@@ -679,22 +715,18 @@
     {
       "added_at": "2026-08-13 21:00:24",
       "album": {
-        "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
-        "url": "https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z"
+        "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
+        "url": "https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI"
       },
       "artists": [
         {
-          "name": "Girafot",
-          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
-        },
-        {
-          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
-          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
         }
       ],
-      "duration_ms": 176400,
-      "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
-      "url": "https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2"
+      "duration_ms": 216000,
+      "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
+      "url": "https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco"
     },
     {
       "added_at": "2026-08-13 21:00:24",
@@ -715,38 +747,6 @@
       "duration_ms": 217560,
       "name": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05d9\u05d0 \u05d1\u05e0\u05d9 \u05d6\u05d5\u05e0\u05d5\u05ea",
       "url": "https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020"
-    },
-    {
-      "added_at": "2026-08-13 21:00:24",
-      "album": {
-        "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
-        "url": "https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI"
-      },
-      "artists": [
-        {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
-      "url": "https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco"
-    },
-    {
-      "added_at": "2026-08-13 21:00:24",
-      "album": {
-        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 197045,
-      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
     },
     {
       "added_at": "2026-08-13 21:00:24",
@@ -783,18 +783,22 @@
     {
       "added_at": "2026-08-13 21:00:24",
       "album": {
-        "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
-        "url": "https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC"
+        "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
+        "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
       },
       "artists": [
         {
-          "name": "Dana Berger",
-          "url": "https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH"
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        },
+        {
+          "name": "Ravid Plotnik",
+          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
         }
       ],
-      "duration_ms": 213000,
-      "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
-      "url": "https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG"
+      "duration_ms": 304400,
+      "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
+      "url": "https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH"
     },
     {
       "added_at": "2026-08-13 21:00:24",
@@ -819,6 +823,22 @@
     {
       "added_at": "2026-08-13 21:00:24",
       "album": {
+        "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
+        "url": "https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC"
+      },
+      "artists": [
+        {
+          "name": "Dana Berger",
+          "url": "https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
+      "url": "https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG"
+    },
+    {
+      "added_at": "2026-08-13 21:00:24",
+      "album": {
         "name": "\u05e9\u05d7\u05d5\u05e8 \u05d6\u05d5\u05d4\u05e8",
         "url": "https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB"
       },
@@ -835,22 +855,18 @@
     {
       "added_at": "2026-08-13 21:00:24",
       "album": {
-        "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
-        "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q"
       },
       "artists": [
         {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        },
-        {
-          "name": "Ravid Plotnik",
-          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
+          "name": "Omer Netzer",
+          "url": "https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d"
         }
       ],
-      "duration_ms": 304400,
-      "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
-      "url": "https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH"
+      "duration_ms": 229099,
+      "name": "Midnight Blue",
+      "url": "https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T"
     },
     {
       "added_at": "2026-08-13 21:00:24",
@@ -871,22 +887,6 @@
       "duration_ms": 222325,
       "name": "\u05d6\u05d4 \u05dc\u05d6\u05d4",
       "url": "https://open.spotify.com/track/2LBujQB6VtcFuR172QYYUF"
-    },
-    {
-      "added_at": "2026-08-13 21:00:24",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL"
-      },
-      "artists": [
-        {
-          "name": "Asaf Avidan",
-          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
-        }
-      ],
-      "duration_ms": 238838,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

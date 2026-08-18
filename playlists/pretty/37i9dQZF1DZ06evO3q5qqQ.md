@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,298 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,305 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 21 | [Nunca Me Quisiste](https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Quisiste](https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL) | 2:32 |
 | 22 | [Chuyito y el Mayo \(En Vivo\)](https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1XBHkino209lUqg5yra3wO) | 3:09 |
 | 23 | [Alumno Y Maestro](https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Alumno Y Maestro](https://open.spotify.com/album/3G37quZRXG46KePSj4uMat) | 2:59 |
-| 24 | [El Pato Nada](https://open.spotify.com/track/79ODiZgprtTlyPhRfIlcBl) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Jando Cartagena](https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW) | [El Pato Nada](https://open.spotify.com/album/0OhyD2tALC8PZSFLRydDfJ) | 2:44 |
-| 25 | [San Lucas](https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [San Lucas](https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU) | 3:34 |
+| 24 | [San Lucas](https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [San Lucas](https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU) | 3:34 |
+| 25 | [El Pato Nada](https://open.spotify.com/track/79ODiZgprtTlyPhRfIlcBl) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Jando Cartagena](https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW) | [El Pato Nada](https://open.spotify.com/album/0OhyD2tALC8PZSFLRydDfJ) | 2:44 |
 | 26 | [La Linea Directa \(En Vivo\)](https://open.spotify.com/track/6xvbYCizfFTX6tn3N7iRbL) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1XBHkino209lUqg5yra3wO) | 2:33 |
 | 27 | [Solo Por Bonita](https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Solo Por Bonita](https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI) | 2:12 |
 | 28 | [Mi Nueva Versión](https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Mi Nueva Versión](https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L) | 2:43 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 45 | [Ya No Puedo Con Esto](https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs) | 2:29 |
 | 46 | [Que las Cuartitos No Falten](https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V) | 2:59 |
 | 47 | [Gustoso Y Contento \(En Vivo\)](https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Gustoso Y Contento \(En Vivo\)](https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE) | 2:33 |
-| 48 | [El Rey Del Desierto](https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Rey Del Desierto](https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2) | 2:59 |
-| 49 | [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/4mTwrsBsii8ZgwhmhAHxrP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS) | 2:12 |
-| 50 | [En La Cima \(En vivo\)](https://open.spotify.com/track/3u91mTsR3Wo0GxiWZGhCl8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E) | 3:04 |
+| 48 | [En La Cima \(En vivo\)](https://open.spotify.com/track/3u91mTsR3Wo0GxiWZGhCl8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E) | 3:04 |
+| 49 | [El Rey Del Desierto](https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Rey Del Desierto](https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2) | 2:59 |
+| 50 | [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/4mTwrsBsii8ZgwhmhAHxrP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS) | 2:12 |
 
-Snapshot ID: `an+sAAAAAABgR+gO+obMb1cEvVaih56z`
+Snapshot ID: `aoD9gAAAAAAKJXsDv0MfyVHYZi3D+yl7`

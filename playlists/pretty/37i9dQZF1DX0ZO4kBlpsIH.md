@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture ☕️ jazz for slow mornings, sunny terraces, and long afternoons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,369 likes - 62 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,574 likes - 62 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

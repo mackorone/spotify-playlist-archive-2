@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,749 likes - 48 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,765 likes - 48 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 47 | [Beef](https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH) | [Ethereal](https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Beef](https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR) | 3:33 |
 | 48 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
 
-Snapshot ID: `an+sAAAAAACc4PT8zo8XBRJo7w9AzDts`
+Snapshot ID: `aoD9gAAAAAC3WxMvl16FKy0SHDdUIGtr`

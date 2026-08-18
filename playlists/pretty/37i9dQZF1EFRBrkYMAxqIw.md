@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 111 | [Funeral](https://open.spotify.com/track/5OnpQJvF3btoiNmupKRTR0) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:26 |
 | 112 | [When I'm Alone](https://open.spotify.com/track/7iuTXQqbKwfaMaTBSDV7JE) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/7nedt7ZF8elRrALiVF59hv) | 2:28 |
 | 113 | [Not Now Kids](https://open.spotify.com/track/5QJbZk6ieUNlOiKXv4nHx5) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:04 |
-| 114 | [Up for Love \(with Camidoh\)](https://open.spotify.com/track/31y8tN8uY5KVp8Z6rUwoJg) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Up for Love \(with Camidoh\)](https://open.spotify.com/album/00G8A8CXRkg9PPTIHmrsIn) | 2:38 |
-| 115 | [No Mercy](https://open.spotify.com/track/3WKaMWuVBDfb0fBXdpsZfY) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [No Mercy](https://open.spotify.com/album/2O5VnN5s1stWeAqnIGsDxV) | 2:56 |
+| 114 | [No Mercy](https://open.spotify.com/track/3WKaMWuVBDfb0fBXdpsZfY) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [No Mercy](https://open.spotify.com/album/2O5VnN5s1stWeAqnIGsDxV) | 2:56 |
+| 115 | [Up for Love \(with Camidoh\)](https://open.spotify.com/track/31y8tN8uY5KVp8Z6rUwoJg) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Up for Love \(with Camidoh\)](https://open.spotify.com/album/00G8A8CXRkg9PPTIHmrsIn) | 2:38 |
 | 116 | [Perfect People](https://open.spotify.com/track/6jN3D2VW4f7DQVNGLbmgsu) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [Robin Grubert](https://open.spotify.com/artist/2iv63DstBtfPKPOq7vL7cS) | [Perfect People](https://open.spotify.com/album/5HLbNPO9y18zYws3ve0Bfr) | 3:29 |
 | 117 | [Start of Something](https://open.spotify.com/track/00Kg79l6oqxYjnJXCuzt48) | [Rachael O'Connor](https://open.spotify.com/artist/33b9NGd3gHIZbBfOwBMAHO) | [Start of Something](https://open.spotify.com/album/0QWwQEnegx6V4PuE98fvPX) | 2:47 |
 | 118 | [Give and Take](https://open.spotify.com/track/5d1DjzjzzCioNUDU8CJaey) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/1A80UhpC8KIRVJWhLSkcdI) | 2:45 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 149 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 | 150 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
 
-Snapshot ID: `AcZwpAAAAACu5S4cgpHAPX/+3RFWSjtj`
+Snapshot ID: `AcZ2RAAAAACiQME5B6/2ckHZ1H/L54oC`

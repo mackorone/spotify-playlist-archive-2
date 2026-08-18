@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1232,
+  "num_followers": 1234,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGyG5nNGaQGEM7ZU1NEkR5W6Se0Lac",
+  "snapshot_id": "AAAGy1TQbAumjggQLn3CZGY5z0T4jkYs",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1179,6 +1179,54 @@
       "duration_ms": 207424,
       "name": "Hit On Me",
       "url": "https://open.spotify.com/track/0gBFxAmc8lHJGVxN5Mafap"
+    },
+    {
+      "added_at": "2026-08-17 01:49:18",
+      "album": {
+        "name": "You Can Do The Impossible",
+        "url": "https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh"
+      },
+      "artists": [
+        {
+          "name": "The Render Line",
+          "url": "https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Searching For The Meaning Of Life",
+      "url": "https://open.spotify.com/track/2dDRJHzBOszwRqvi9m4xTh"
+    },
+    {
+      "added_at": "2026-08-17 02:21:01",
+      "album": {
+        "name": "Calm After The Storm",
+        "url": "https://open.spotify.com/album/5gsFwal4tWt1KHDChP4xBS"
+      },
+      "artists": [
+        {
+          "name": "Help Wanted",
+          "url": "https://open.spotify.com/artist/0omDhJzmgZ8tu73lHdwi5T"
+        }
+      ],
+      "duration_ms": 197455,
+      "name": "Calm After The Storm",
+      "url": "https://open.spotify.com/track/6HhTEmSzmipGU5O5EzBfqp"
+    },
+    {
+      "added_at": "2026-08-17 02:40:18",
+      "album": {
+        "name": "Once More Again",
+        "url": "https://open.spotify.com/album/2iK2jSzblXqV1SSozzXQU8"
+      },
+      "artists": [
+        {
+          "name": "Karyttah",
+          "url": "https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu"
+        }
+      ],
+      "duration_ms": 293893,
+      "name": "Once More Again (Alternative Version)",
+      "url": "https://open.spotify.com/track/0t7ydqOC1zuSjvidhHWWqB"
     }
   ],
   "unique_name": "Unsigned Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Xavi, Lenin Ramirez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,475 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,480 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 3 | [La Cherokee](https://open.spotify.com/track/286FxdzLxQJPzLDH6QQd5K) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Cherokee](https://open.spotify.com/album/1KoUyx6tosCXD7qidBRXae) | 2:55 |
 | 4 | [Qué Andas Haciendo](https://open.spotify.com/track/2Pv1g4OMtsdeQw3QF5v1it) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Qué Andas Haciendo](https://open.spotify.com/album/5aglfekM0ZJCRb83xKQ2Re) | 3:19 |
 | 5 | [Ponte Bonita](https://open.spotify.com/track/7i5KGCofSsgoU801R2wW8m) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Ponte Bonita](https://open.spotify.com/album/7MwgfDkiNM51w3v3gf145j) | 2:41 |
-| 6 | [Amor Secreto \- \(En Vivo\)](https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [En Vivo Desde El Estadio GNP](https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt) | 3:08 |
+| 6 | [Amor Secreto \- En Vivo](https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [En Vivo Desde El Estadio GNP](https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt) | 3:08 |
 | 7 | [La Cheyenne \- Remix](https://open.spotify.com/track/0DLug3prJskkyDJPK3sxvG) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [La Cheyenne \(Remix\)](https://open.spotify.com/album/2aYx5bILXACvHEaUXFJkc7) | 2:38 |
 | 8 | [Cero Miedo](https://open.spotify.com/track/45ehHeg9Kr5ZK3sFRnbjOv) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Cero Miedo](https://open.spotify.com/album/3VSPApAscAKQvMYgdGBzJK) | 2:24 |
 | 9 | [Un Poco Perdido \(with Neton Vega\)](https://open.spotify.com/track/5ioCKtQik9Fejgu2D0gHNY) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Hermoso](https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED) | 2:51 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 46 | [Tu Ingratitud](https://open.spotify.com/track/5GKStHhHU9ijiG6iOHPzh9) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Tu Ingratitud](https://open.spotify.com/album/1PoGIQe9RhU3EpZ3tDMxo8) | 4:14 |
 | 47 | [Tiempo Perdido](https://open.spotify.com/track/1KRPaPCMhXVBStGq7IXY5d) | [El Refuego](https://open.spotify.com/artist/2N8dOwWnOeXC4EyhhqrzQQ) | [Tiempo Perdido](https://open.spotify.com/album/5v4WHTkrXl7Sq8AI3zwlV5) | 2:45 |
 | 48 | [Protagonista](https://open.spotify.com/track/06tmJWo6RIsZQHd3BSFH7U) | [Luis Arturo](https://open.spotify.com/artist/04spoeZCYxGrgMEfLQUdhw) | [Protagonista](https://open.spotify.com/album/5y7DAs48iHGGn7Mn25les7) | 2:57 |
-| 49 | [SUIZA](https://open.spotify.com/track/4hqt4IjJOeEs1bvObzujuw) | [New Norte MX](https://open.spotify.com/artist/1ikU0TQsEjscHm5y8xU1BL) | [SUIZA](https://open.spotify.com/album/6tXXbHHlSUpogyEp1hjST1) | 2:31 |
+| 49 | [SUIZA](https://open.spotify.com/track/4hqt4IjJOeEs1bvObzujuw) | [New Norte MX](https://open.spotify.com/artist/1ikU0TQsEjscHm5y8xU1BL) | [SUIZA](https://open.spotify.com/album/6tXXbHHlSUpogyEp1hjST1) | 2:21 |
 | 50 | [Canelo](https://open.spotify.com/track/2Ex4BdWGuOi0VYlAZm6t3y) | [Erick TQ](https://open.spotify.com/artist/24GMgidxjexHlVZYIQAydZ) | [Canelo](https://open.spotify.com/album/4hrHiusflMPqDPCoLjb7CM) | 2:44 |
 
 Snapshot ID: `AAAAAIyUYP6lRYWhg5AgJMa3vow0Dm1Z`

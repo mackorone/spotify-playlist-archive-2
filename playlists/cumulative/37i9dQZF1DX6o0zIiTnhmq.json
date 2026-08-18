@@ -2035,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Om (108 Times)",
+        "url": "https://open.spotify.com/album/5QzfxsH70odAMuAAyuRTak"
+      },
+      "artists": [
+        {
+          "name": "Shatadru Kabir",
+          "url": "https://open.spotify.com/artist/5bb745rKiFbHL6P9wgm8GJ"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1303625,
+      "name": "Om (108 Times)",
+      "url": "https://open.spotify.com/track/0GNSiQSLW3prouiKYpBQP2"
+    },
+    {
+      "album": {
         "name": "9 Golden Mantras",
         "url": "https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1"
       },
@@ -2100,7 +2118,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 342360,
       "name": "Om Chakra Mantra To Find Your True Purpose",
       "url": "https://open.spotify.com/track/7JOIEkKNLcydn9p2BjlFZ6"

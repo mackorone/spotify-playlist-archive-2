@@ -850,7 +850,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
@@ -4776,6 +4776,24 @@
       "duration_ms": 185639,
       "name": "Por Que N\u00e3o",
       "url": "https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA"
+    },
+    {
+      "album": {
+        "name": "Sozinho e Bem Acompanhado",
+        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206445,
+      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
+      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
     },
     {
       "album": {

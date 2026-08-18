@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-195 songs - 13 hr 8 min
+196 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Amen](https://open.spotify.com/track/6AeCDWexqzKoNhfYt1GS7N) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Always With Us](https://open.spotify.com/album/0NP4VoQSMcTYoUxjl7SKJe) | 3:41 | 2021-12-28 | 2024-05-02 |
 | [ANCESTRAL CALL](https://open.spotify.com/track/5HowYlbTc3sSkpqj1mhcZ7) | [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [ANCESTRAL CALL](https://open.spotify.com/album/3HFjhGuXbIuZIML0Q49h0l) | 2:46 | 2023-09-18 | 2024-04-06 |
 | [Awu Wemadoda](https://open.spotify.com/track/1xitjCzTxasyA9WBZMuKV9) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 3:22 | 2021-12-28 | 2024-05-17 |
-| [Awu Wemadoda \- Club Mix](https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Awu Wemadoda](https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5) | 3:55 | 2023-08-03 |  |
+| [Awu Wemadoda \- Club Mix](https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Awu Wemadoda](https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5) | 3:55 | 2023-08-03 | 2026-08-18 |
 | [Ayikh' Indaw' Enjengekhaya \(Henrik Schwarz Rework\)](https://open.spotify.com/track/5GmYZKs60MPyyVySv6yQKF) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Ayikh' Indaw' Enjengekhaya \(Henrik Schwarz Rework\)](https://open.spotify.com/album/2uGCLaCAJ7EuKCrPZVxf8X) | 6:41 | 2022-07-02 | 2024-03-24 |
 | [Ayikh’ Indaw’ Enjengekhaya](https://open.spotify.com/track/4gjiWULubKgWGUWWeFIOGj) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ikhaya Nothando](https://open.spotify.com/album/2FROh0s0wCaWvJ4yM2Ym3V) | 3:34 | 2022-10-04 | 2022-10-13 |
 | [Bamnqobile](https://open.spotify.com/track/3FTyDZ9W072Lqq31ZM8zys) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezinkulu](https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh) | 4:51 | 2024-09-09 |  |
@@ -160,6 +160,7 @@
 | [Swing Low Sweet Chariot](https://open.spotify.com/track/5BujScz3tYp115DoioZUCs) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [CHINA BLACK](https://open.spotify.com/artist/2alEr1xfOACV589q7XCv7A) | [The Star and the Wiseman](https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng) | 3:52 | 2022-10-24 | 2025-10-19 |
 | [Thandiwe Wami](https://open.spotify.com/track/2dsDkaeatIyTbda5gr6iIF) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Isitimela](https://open.spotify.com/album/2sQk0d0DJltKIbsyAmYhC2) | 4:00 | 2025-10-12 |  |
 | [Thandiwe Wami](https://open.spotify.com/track/5UZFdcIvMIdCaNajKHBJIJ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Isitimela](https://open.spotify.com/album/6wVhMiTP7jYVZC7W44Z3bK) | 4:00 | 2024-05-05 | 2025-10-08 |
+| [The Honeyeater’s Song](https://open.spotify.com/track/2hH2xGkD9AxL7fZQTy7avE) | [Stornoway](https://open.spotify.com/artist/1UzKSuyOqKgUupcNNEtnF1), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Honeyeater’s Song](https://open.spotify.com/album/5X3ksxWPGMs450naH43i2P) | 3:46 | 2026-08-18 |  |
 | [There Come Our Mothers](https://open.spotify.com/track/1KRI6lKwEbd6u410wkagfv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [World Travels: World Music For Kids](https://open.spotify.com/album/11RNYbvO9tW4SDpzjGD3lT) | 2:06 | 2023-05-19 | 2023-05-26 |
 | [This Little Light of Mine \(Bonus Track\)](https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu Revisited: 30th Anniversary Celebration](https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X) | 3:41 | 2021-12-28 |  |
 | [This Town](https://open.spotify.com/track/4JJct5QXjrrAVw05RN5oQt) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:53 | 2022-09-10 |  |

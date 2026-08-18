@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 306847,
+  "num_followers": 307071,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,18 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 229866,
-      "name": "Run It! (feat. Juelz Santana)",
-      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -347,18 +343,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
         }
       ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+      "duration_ms": 229866,
+      "name": "Run It! (feat. Juelz Santana)",
+      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "It Ain't Safe No More. . .",
         "url": "https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8"
       },
@@ -579,22 +563,18 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Let Me Blow Ya Mind",
-      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
+      "duration_ms": 249093,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -627,6 +607,26 @@
       "duration_ms": 240973,
       "name": "Oye Mi Canto",
       "url": "https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "It Was Written",
-        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Ghetto Supastar",
         "url": "https://open.spotify.com/album/0bCx3zLZj4wezD07YFrLPM"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 261133,
       "name": "Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & M\u00fda)",
       "url": "https://open.spotify.com/track/31bf9SEOppLU6lQ85d8om6"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "No Holding Back",
-        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
-      },
-      "artists": [
-        {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Harlem World",
         "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 242946,
       "name": "What You Want (feat. Total)",
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "No Holding Back",
+        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 292400,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Who's That Girl?",
-      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Disturbing Tha Peace Presents Bobby Valentino",
         "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 260066,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6kLZ1DzSxBkNVvdQm6CX0N"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Who's That Girl?",
+      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Eve-Olution",
-        "url": "https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Gangsta Lovin'",
-      "url": "https://open.spotify.com/track/0WgLpgUdThEpA5L5K0SKq7"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Mr. Smith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 229373,
       "name": "Loungin (Who Do Ya Luv) - Remix",
       "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Eve-Olution",
+        "url": "https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Gangsta Lovin'",
+      "url": "https://open.spotify.com/track/0WgLpgUdThEpA5L5K0SKq7"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Leshaun",
+          "url": "https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Here Comes The Fuzz",
         "url": "https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 209626,
       "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
       "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Mr. Smith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        },
-        {
-          "name": "Leshaun",
-          "url": "https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Southern Hummingbird",
-        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
-      },
-      "artists": [
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Oops (Oh My) [feat. Missy Elliott]",
-      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "The Best Of Snoop Dogg",
         "url": "https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8"
       },
@@ -1663,6 +1643,26 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Southern Hummingbird",
+        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
+      },
+      "artists": [
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Oops (Oh My) [feat. Missy Elliott]",
+      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Street Dreams (Bonus Track)",
         "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
       },
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Fantasy EP",
-        "url": "https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 291355,
-      "name": "Fantasy (feat. O.D.B.) - Bad Boy Fantasy",
-      "url": "https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "And Then...",
         "url": "https://open.spotify.com/album/32jhKaGCt2obnOK6H6E4wD"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 251800,
       "name": "Ride wit U (feat. G-Unit)",
       "url": "https://open.spotify.com/track/6EhWEvgOrOfqMcnuwIkbiL"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Fantasy EP",
+        "url": "https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 291355,
+      "name": "Fantasy (feat. O.D.B.) - Bad Boy Fantasy",
+      "url": "https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Right Here - Human Nature Radio Mix",
+      "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "A Day in the Life",
         "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 280880,
       "name": "Georgy Porgy (feat. Faith Evans)",
       "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Right Here - Human Nature Radio Mix",
-      "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Dip It Low",
-        "url": "https://open.spotify.com/album/3xY1zD84VivPdS2JMY7IY5"
-      },
-      "artists": [
-        {
-          "name": "Christina Milian",
-          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "Dip It Low",
-      "url": "https://open.spotify.com/track/73JCugW0hKqzGYGwXHVzQ4"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Ideal",
         "url": "https://open.spotify.com/album/0sCYqD1xXtAvHiYETuTP0K"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 228159,
       "name": "Whatever - Radio Edit",
       "url": "https://open.spotify.com/track/3tHAB8FI4rfULUHHG1d2Ct"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Dip It Low",
+        "url": "https://open.spotify.com/album/3xY1zD84VivPdS2JMY7IY5"
+      },
+      "artists": [
+        {
+          "name": "Christina Milian",
+          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
+        }
+      ],
+      "duration_ms": 197186,
+      "name": "Dip It Low",
+      "url": "https://open.spotify.com/track/73JCugW0hKqzGYGwXHVzQ4"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1919,6 +1919,26 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/15tmDweVwISwJoMSLgvHpp"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/2B6LjS2KtNAa8xIW2b2tkv"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Miss E... So Addictive",
         "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
@@ -1939,26 +1959,6 @@
       "duration_ms": 275600,
       "name": "One Minute Man (feat. Jay-Z) - Remix",
       "url": "https://open.spotify.com/track/4Z1GSvE92RKsxjzrrBJAIT"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Pain Is Love",
-        "url": "https://open.spotify.com/album/15tmDweVwISwJoMSLgvHpp"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Put It On Me",
-      "url": "https://open.spotify.com/track/2B6LjS2KtNAa8xIW2b2tkv"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2083,42 +2083,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Life After Death (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Mase & Puff Daddy",
-          "url": "https://open.spotify.com/artist/096CxgjMbKJzhbYrTAHrVx"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "Mo Money Mo Problems (feat. Mase & Puff Daddy)",
-      "url": "https://open.spotify.com/track/3kG2YgxjYnnPBlo7H08Xt3"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "#1's",
-        "url": "https://open.spotify.com/album/01gnLdVDtDGFd8nmLL1U18"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Bootylicious",
-      "url": "https://open.spotify.com/track/2jZESuj23z92RqbooSsMqV"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/6nUnNpoLKWpb9qxhYiT98S"
       },
@@ -2143,6 +2107,42 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "#1's",
+        "url": "https://open.spotify.com/album/01gnLdVDtDGFd8nmLL1U18"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Bootylicious",
+      "url": "https://open.spotify.com/track/2jZESuj23z92RqbooSsMqV"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Life After Death (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Mase & Puff Daddy",
+          "url": "https://open.spotify.com/artist/096CxgjMbKJzhbYrTAHrVx"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "Mo Money Mo Problems (feat. Mase & Puff Daddy)",
+      "url": "https://open.spotify.com/track/3kG2YgxjYnnPBlo7H08Xt3"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz"
       },
@@ -2155,38 +2155,6 @@
       "duration_ms": 206106,
       "name": "Trick Me",
       "url": "https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Like Glue",
-      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Life After Death (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2211,6 +2179,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 225533,
       "name": "Get Right",
       "url": "https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Life After Death (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2243,18 +2243,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Fear Of Flying",
-        "url": "https://open.spotify.com/album/6DOrJ531pbcGf3ZkrfayPD"
+        "name": "Pain Is Love (International Version)",
+        "url": "https://open.spotify.com/album/4Xc3wBfUZ9yiszOrttoCXV"
       },
       "artists": [
         {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 236906,
-      "name": "Case Of The Ex (Whatcha Gonna Do)",
-      "url": "https://open.spotify.com/track/3G6hxSp260RzGw4sOiDOQ3"
+      "duration_ms": 245093,
+      "name": "Always On Time",
+      "url": "https://open.spotify.com/track/0zaWQBwkfh9OmK77CiDmRI"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2275,22 +2279,18 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Pain Is Love (International Version)",
-        "url": "https://open.spotify.com/album/4Xc3wBfUZ9yiszOrttoCXV"
+        "name": "Fear Of Flying",
+        "url": "https://open.spotify.com/album/6DOrJ531pbcGf3ZkrfayPD"
       },
       "artists": [
         {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
         }
       ],
-      "duration_ms": 245093,
-      "name": "Always On Time",
-      "url": "https://open.spotify.com/track/0zaWQBwkfh9OmK77CiDmRI"
+      "duration_ms": 236906,
+      "name": "Case Of The Ex (Whatcha Gonna Do)",
+      "url": "https://open.spotify.com/track/3G6hxSp260RzGw4sOiDOQ3"
     },
     {
       "added_at": "2024-07-15 07:37:26",

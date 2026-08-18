@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,811 likes - 46 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,830 likes - 46 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 34 | [Escober](https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP) | [HypemanDJ Pablo](https://open.spotify.com/artist/2FJPVro7Soj4xbUAg7TXdo), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Escober](https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK) | 3:03 |
 | 35 | [Ali \(Remix\)](https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg) | [Steven Adeoye](https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Ali \(Remix\)](https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv) | 3:22 |
 | 36 | [Alone \(feat\. Bella Shmurda\)](https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:24 |
-| 37 | [The Way \(Remix\)](https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Okanlawon, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t) | 3:32 |
-| 38 | [On D Low](https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 1:58 |
+| 37 | [On D Low](https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 1:58 |
+| 38 | [The Way \(Remix\)](https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Okanlawon, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t) | 3:32 |
 | 39 | [All Eyes On Me](https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Different Lane](https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F) | 2:12 |
 | 40 | [Adura](https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Adura](https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy) | 2:54 |
 | 41 | [Oba \(feat\. Barry Jhay\)](https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:08 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 45 | [Everyday](https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk) | [TMP Offisial](https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Everyday](https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG) | 3:10 |
 | 46 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
 
-Snapshot ID: `an+sAAAAAAAiThxxRx77Opbl4RoNudaq`
+Snapshot ID: `aoD9gAAAAAABVTp1QosvUG7b51LUj0j5`

@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 253861,
+  "num_followers": 253949,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 181661,
+      "name": "Non Abbiamo Et\u00e0",
+      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 162412,
       "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
       "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 181661,
-      "name": "Non Abbiamo Et\u00e0",
-      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Non Fare Cos\u00ec",
-      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "Santeria",
         "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
       },
@@ -351,6 +335,38 @@
       "duration_ms": 245197,
       "name": "Salvador Dal\u00ec",
       "url": "https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Non Fare Cos\u00ec",
+      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 133217,
+      "name": "Marocchino",
+      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -375,22 +391,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 133217,
-      "name": "Marocchino",
-      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -411,6 +411,38 @@
       "duration_ms": 176772,
       "name": "NUOVO RANGE (con SFERA EBBASTA)",
       "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
+        "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
+      },
+      "artists": [
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        }
+      ],
+      "duration_ms": 181611,
+      "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -459,38 +491,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
-        "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
-      },
-      "artists": [
-        {
-          "name": "Finesse",
-          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Drillionaire",
-          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
-        }
-      ],
-      "duration_ms": 181611,
-      "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
-      "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Uno squillo",
-      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/4nJJuilxSgfHHaaC7dwDfp"
       },
@@ -567,18 +551,38 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Uno squillo",
+      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
       },
       "artists": [
         {
           "name": "Artie 5ive",
           "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 176996,
-      "name": "FW/SS25 (Freestyle)",
-      "url": "https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60"
+      "duration_ms": 189015,
+      "name": "ANELLI E COLLANE (feat. ANNA)",
+      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -615,26 +619,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Santeria",
-        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 206805,
-      "name": "Insta Lova",
-      "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O"
       },
@@ -655,22 +639,38 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+        "name": "Santeria",
+        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 206805,
+      "name": "Insta Lova",
+      "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
       },
       "artists": [
         {
           "name": "Artie 5ive",
           "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 189015,
-      "name": "ANELLI E COLLANE (feat. ANNA)",
-      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
+      "duration_ms": 176996,
+      "name": "FW/SS25 (Freestyle)",
+      "url": "https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Baby Mama",
-        "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
-      },
-      "artists": [
-        {
-          "name": "Don Pero",
-          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
-        }
-      ],
-      "duration_ms": 151160,
-      "name": "Baby Mama",
-      "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 191999,
       "name": "I LOVE IT (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Baby Mama",
+        "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "duration_ms": 151160,
+      "name": "Baby Mama",
+      "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 192688,
-      "name": "CRAZY LOVE",
-      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 137098,
       "name": "Hoe (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 192688,
+      "name": "CRAZY LOVE",
+      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -915,22 +915,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "GIOVANE RONDO",
-        "url": "https://open.spotify.com/album/19go1SwCMtX80cSTF7C8Qf"
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
       },
       "artists": [
         {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 217443,
-      "name": "SLATT (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/1YvhcTM8aIRTg03AavA2HJ"
+      "duration_ms": 218695,
+      "name": "Che Dio Mi Benedica",
+      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -955,18 +951,22 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+        "name": "GIOVANE RONDO",
+        "url": "https://open.spotify.com/album/19go1SwCMtX80cSTF7C8Qf"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 218695,
-      "name": "Che Dio Mi Benedica",
-      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
+      "duration_ms": 217443,
+      "name": "SLATT (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1YvhcTM8aIRTg03AavA2HJ"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1011,26 +1011,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "T\u00caTE (feat. Medy & VillaBanks)",
-        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
       },
       "artists": [
         {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 180904,
-      "name": "T\u00caTE (feat. Medy & VillaBanks)",
-      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+      "duration_ms": 208506,
+      "name": "Bling Bling (Oro)",
+      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1051,18 +1043,26 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
+        "name": "T\u00caTE (feat. Medy & VillaBanks)",
+        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
         }
       ],
-      "duration_ms": 208506,
-      "name": "Bling Bling (Oro)",
-      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
+      "duration_ms": 180904,
+      "name": "T\u00caTE (feat. Medy & VillaBanks)",
+      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1103,6 +1103,30 @@
       "duration_ms": 198260,
       "name": "BBE (feat. Lazza)",
       "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 201845,
+      "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1151,30 +1175,6 @@
       "duration_ms": 160282,
       "name": "BIANCA (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 201845,
-      "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+        "name": "Cara Italia",
+        "url": "https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         }
       ],
-      "duration_ms": 231920,
-      "name": "90MIN",
-      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
+      "duration_ms": 244324,
+      "name": "Cara Italia",
+      "url": "https://open.spotify.com/track/3atDsUhlUgDlQQrI0XFh7I"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Cara Italia",
-        "url": "https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
       "artists": [
         {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 244324,
-      "name": "Cara Italia",
-      "url": "https://open.spotify.com/track/3atDsUhlUgDlQQrI0XFh7I"
+      "duration_ms": 231920,
+      "name": "90MIN",
+      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Come Uccidere Un Usignolo",
-        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 206510,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -1371,22 +1355,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "SOLO TUTTO",
-        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
+        "name": "Come Uccidere Un Usignolo",
+        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
       },
       "artists": [
         {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         }
       ],
-      "duration_ms": 187431,
-      "name": "STUPIDO",
-      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+      "duration_ms": 206510,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1427,6 +1407,26 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
+        "name": "SOLO TUTTO",
+        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "STUPIDO",
+      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
         "name": "Bellaria",
         "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 245292,
       "name": "In Italia 2024 (feat. Emma & Baby Gang)",
       "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Controcultura",
-        "url": "https://open.spotify.com/album/29ppT5JZzykgZd8pPhYxwY"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 236253,
-      "name": "Vip In Trip",
-      "url": "https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8"
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1603,6 +1587,22 @@
       "duration_ms": 228906,
       "name": "P.E.S.",
       "url": "https://open.spotify.com/track/4M8filny20Mwlc2gnvtcgU"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Controcultura",
+        "url": "https://open.spotify.com/album/29ppT5JZzykgZd8pPhYxwY"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 236253,
+      "name": "Vip In Trip",
+      "url": "https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Hellvisback",
-        "url": "https://open.spotify.com/album/6o2ipzLDelm6yXU0v4ZOIK"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 249613,
-      "name": "1984",
-      "url": "https://open.spotify.com/track/0OU4v07h5oT26f4zmxzddH"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
       },
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
+        "name": "Hellvisback",
+        "url": "https://open.spotify.com/album/6o2ipzLDelm6yXU0v4ZOIK"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 249613,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/0OU4v07h5oT26f4zmxzddH"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
         "name": "FSK TRAPSHIT REVENGE",
         "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
       },
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Che Bello Essere Noi",
-        "url": "https://open.spotify.com/album/0M2Q3OtMdDM9d2MUJ84zwE"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 269386,
-      "name": "All'Ultimo Respiro",
-      "url": "https://open.spotify.com/track/7F7h1FZ1bgST5JBExLnLdA"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 237701,
       "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Che Bello Essere Noi",
+        "url": "https://open.spotify.com/album/0M2Q3OtMdDM9d2MUJ84zwE"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 269386,
+      "name": "All'Ultimo Respiro",
+      "url": "https://open.spotify.com/track/7F7h1FZ1bgST5JBExLnLdA"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1939,26 +1939,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Cadillac (feat. Artie 5ive)",
-        "url": "https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz"
+        "name": "Album",
+        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
       },
       "artists": [
         {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Andry The Hitmaker",
-          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         }
       ],
-      "duration_ms": 155526,
-      "name": "Cadillac (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
+      "duration_ms": 171026,
+      "name": "Ricchi Dentro",
+      "url": "https://open.spotify.com/track/4thhwyZW9cnnFGKOBGNYcM"
     }
   ],
   "unique_name": "Hit Rap Italiane",

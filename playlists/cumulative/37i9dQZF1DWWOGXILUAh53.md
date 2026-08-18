@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Icona Pop
 
-2,205 songs - 4 day 12 hr 1 min
+2,206 songs - 4 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1917,7 +1917,7 @@
 | [The Feels \- Benny Benassi Remix](https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [The Feels](https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1) | 3:05 | 2022-02-04 | 2022-04-29 |
 | [The Final Countdown](https://open.spotify.com/track/1cxKBbE3LBPN1wjj8IOubd) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [The Final Countdown](https://open.spotify.com/album/07ERrps1zL3Rm7HuCEogCV) | 2:33 | 2023-12-22 | 2024-02-17 |
 | [The Finger \(feat\. Georgia Ku\)](https://open.spotify.com/track/7s5STnbx8NWbggIJDw1o9i) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Finger \(feat\. Georgia Ku\)](https://open.spotify.com/album/2IE8aTFgwS8s172Pi5x2zn) | 2:47 | 2022-04-01 | 2022-04-29 |
-| [The Girl](https://open.spotify.com/track/7c4Y1rjZZTAqCsETNQ7b8X) | [MNDR](https://open.spotify.com/artist/1oYs6zcjeVnOAd9x2Jpbc7) | [The Girl](https://open.spotify.com/album/6peKOe2jNmiqvLarnjQmhy) | 2:20 | 2026-08-07 |  |
+| [The Girl](https://open.spotify.com/track/7c4Y1rjZZTAqCsETNQ7b8X) | [MNDR](https://open.spotify.com/artist/1oYs6zcjeVnOAd9x2Jpbc7) | [The Girl](https://open.spotify.com/album/6peKOe2jNmiqvLarnjQmhy) | 2:20 | 2026-08-07 | 2026-08-18 |
 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-10 | 2023-06-03 |
 | [The Heat](https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [The Heat](https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4) | 2:30 | 2024-09-06 | 2024-11-16 |
 | [The Light](https://open.spotify.com/track/1L7jYz7GtD1lVGlqMlwvkd) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [The Light](https://open.spotify.com/album/3Tz1emJSdm25UIaw2pzkfH) | 3:19 | 2025-11-14 | 2026-01-24 |
@@ -2206,6 +2206,7 @@
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2021-11-12 | 2022-02-05 |
 | [Youngblood \(feat\. Josh Breaks\)](https://open.spotify.com/track/1FgMrAXjFDiTYf9uzoFYLg) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [Youngblood \(feat\. Josh Breaks\)](https://open.spotify.com/album/31LNPzSfHfwCyKqSEJr3KP) | 3:01 | 2024-05-10 | 2024-06-22 |
 | [Younger](https://open.spotify.com/track/7xIHOrZhIOwqF4byN4kq4Q) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [Younger](https://open.spotify.com/album/7r43fMg1w7Q8thasT0ZjEk) | 3:12 | 2021-12-31 | 2022-02-05 |
+| [Your Eyes](https://open.spotify.com/track/3HVWaByq4vURdqW7whTbEf) | [Pixie Lane](https://open.spotify.com/artist/3Br6ncRU4z030LyHPpfflF) | [Your Eyes](https://open.spotify.com/album/7EPiK4GsTGSxPnQnxptvln) | 3:02 | 2026-08-17 |  |
 | [Your Symphony \(feat\. Becky Smith\)](https://open.spotify.com/track/5X0LYMIqlHdODfelW1f66D) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Becky Smith](https://open.spotify.com/artist/27S7Je1MzN41dhBiMffYrA) | [Your Symphony \(feat\. Becky Smith\)](https://open.spotify.com/album/19B9pxRhOkYfNuEE1OtfKt) | 2:09 | 2024-03-01 | 2024-04-19 |
 | [YOUtopia](https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [YOUtopia](https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe) | 2:30 | 2026-07-07 |  |
 | [YoYo](https://open.spotify.com/track/2Buz2pUvqM5xT28KuCGZJ7) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 3:08 | 2025-06-06 | 2025-08-10 |

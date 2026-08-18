@@ -5503,6 +5503,24 @@
     },
     {
       "album": {
+        "name": "Everything New!",
+        "url": "https://open.spotify.com/album/6ZN8gMlt5JkJ0gH3i8A1PJ"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Everything New!",
+      "url": "https://open.spotify.com/track/5OjaxPok6yizxx08OnHGPV"
+    },
+    {
+      "album": {
         "name": "Let It Be",
         "url": "https://open.spotify.com/album/2suLK5jyqMOl7H8yezYJpC"
       },
@@ -9606,6 +9624,28 @@
       "duration_ms": 174216,
       "name": "HEY GOD",
       "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
+    },
+    {
+      "album": {
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/3KUX6F4InRKo4cn0F9QFIO"
+      },
+      "artists": [
+        {
+          "name": "Echo Harbor Worship",
+          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282567,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/6n0vpKNArOOadmGT1nSNGp"
     },
     {
       "album": {
@@ -23882,7 +23922,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 168000,
       "name": "The Love of God",
       "url": "https://open.spotify.com/track/4wGtkg4JTISnP2aOTge6Id"
@@ -24522,7 +24562,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 205000,
       "name": "This Is The Christ",
       "url": "https://open.spotify.com/track/11kpQtfgf4PUUqqLuZwZkP"

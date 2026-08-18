@@ -6,8 +6,40 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAO73HEGlyJsfURPsfC2fyyPI4UzDFu",
+  "snapshot_id": "AAAO8RuF7r389FbHfQIbVOt7TYW/xMQw",
   "tracks": [
+    {
+      "added_at": "2026-08-17 13:54:12",
+      "album": {
+        "name": "Quando Sorridi",
+        "url": "https://open.spotify.com/album/5dR0HWZxbT0b8ySI0Hve9s"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 217467,
+      "name": "Quando Sorridi",
+      "url": "https://open.spotify.com/track/0IfTiyMes24Nb7f2W3YTU1"
+    },
+    {
+      "added_at": "2026-08-17 07:23:15",
+      "album": {
+        "name": "A blaze of light",
+        "url": "https://open.spotify.com/album/2Re0mJ0x041tvrH1qlNRWr"
+      },
+      "artists": [
+        {
+          "name": "momo.wav",
+          "url": "https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "A blaze of light",
+      "url": "https://open.spotify.com/track/4tFLN0VdJ96FIawiBLSiI2"
+    },
     {
       "added_at": "2026-08-13 08:15:28",
       "album": {

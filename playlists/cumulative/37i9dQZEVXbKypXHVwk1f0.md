@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,951 songs - 4 day 13 hr 26 min
+1,952 songs - 4 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1006,7 +1006,7 @@
 | [Luces Tenues](https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Luces Tenues](https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM) | 3:10 | 2024-01-04 | 2024-01-30 |
 | [Luchas Mentales](https://open.spotify.com/track/1f70ywNtUyw4VgckqXeuOv) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:46 | 2024-01-20 | 2024-01-25 |
 | [Lujuria Favorita](https://open.spotify.com/track/5z6xis1rcEjjs7MuM4eL1x) | [Joshy Tripp](https://open.spotify.com/artist/04wutY93WvFHxFz1Y0kHoB) | [Lujuria Favorita](https://open.spotify.com/album/4ZlwFkoqPGd5xesy8jk4To) | 3:02 | 2023-10-12 | 2023-10-23 |
-| [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2023-12-07 |  |
+| [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2023-12-07 | 2026-08-18 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-06-09 |
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2025-02-11 | 2025-03-02 |
 | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-22 | 2025-03-24 |
@@ -1553,6 +1553,7 @@
 | [Segundos Platos](https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:04 | 2022-11-25 | 2022-11-28 |
 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 | 2023-09-23 | 2024-12-01 |
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2021-09-24 | 2022-06-23 |
+| [Sentimientos Dentro](https://open.spotify.com/track/4EDQmChfgqqNwAkS2wo67l) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [The Yeyo: Rennaissance](https://open.spotify.com/album/0rXdXqVJTozFdMHN9ApuVm) | 4:15 | 2026-08-17 |  |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-29 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 | 2024-09-04 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-11-05 |

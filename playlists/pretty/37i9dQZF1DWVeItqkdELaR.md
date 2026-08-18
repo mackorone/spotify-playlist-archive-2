@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > Ouve os hits do verão de 2026! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,930 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,989 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 28 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
 | 29 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
 | 30 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
-| 31 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
-| 32 | [I Just Might](https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:32 |
+| 31 | [I Just Might](https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:32 |
+| 32 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 | 33 | [Reliquia do 2T](https://open.spotify.com/track/6n9JMoXkXu4lDOu1k6MRpy) | [DJ Gu](https://open.spotify.com/artist/3Y4ODN6kIBNpQj6eWNT9xw), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Mc Dkziin](https://open.spotify.com/artist/06CW6ZcdRZc14gC6wr3bt6), [MC Fr da Norte](https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj) | [Reliquia do 2T](https://open.spotify.com/album/6ecRUuOdAsn1ROohWK7D2Z) | 5:06 |
 | 34 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 35 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 48 | [KISS ME](https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:03 |
 | 49 | [Leva Tudo](https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Leva Tudo](https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN) | 3:11 |
 | 50 | [YOU](https://open.spotify.com/track/67hRfkimnr96M2zPmcfrJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [YOU](https://open.spotify.com/album/7fR9AC0fV437sT5qBEWFhk) | 3:29 |
-| 51 | [Dona De Si](https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Dona De Si](https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ) | 2:47 |
+| 51 | [Carta De Despejo](https://open.spotify.com/track/5Y4F4vmrDh1OMfdBpUWm4G) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Carta De Despejo](https://open.spotify.com/album/48il9SDcT48up45p76yGzD) | 3:20 |
 | 52 | [Onde É Que Eu Tinha a Cabeça](https://open.spotify.com/track/78gj0hNtrkZITSudLFfJmF) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Só Se Estraga uma Casa](https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh) | 2:50 |
-| 53 | [Carta De Despejo](https://open.spotify.com/track/5Y4F4vmrDh1OMfdBpUWm4G) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Carta De Despejo](https://open.spotify.com/album/48il9SDcT48up45p76yGzD) | 3:20 |
+| 53 | [Dona De Si](https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Dona De Si](https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ) | 2:47 |
 | 54 | [Xê Dama](https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Xê Dama](https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J) | 2:40 |
 | 55 | [N'Essa Rua](https://open.spotify.com/track/5pLswAEkSlHzRG1tReA4Zt) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [N'Essa Rua](https://open.spotify.com/album/1tuRXXqeJYoMSNk2njecsT) | 2:45 |
 | 56 | [Rosa](https://open.spotify.com/track/6djCOY8krAnQw8JFK4fbYa) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Rosa](https://open.spotify.com/album/2HZk8OFg1Ua8yEQj2sj7Vx) | 2:59 |

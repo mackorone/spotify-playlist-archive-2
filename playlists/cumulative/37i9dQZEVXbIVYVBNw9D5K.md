@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,639 songs - 3 day 10 hr 14 min
+1,640 songs - 3 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [3 PARMAK](https://open.spotify.com/track/0xcGXOEEqflhk0tNs14G1w) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 2:26 | 2026-06-20 | 2026-06-26 |
 | [366](https://open.spotify.com/track/1P7hucmY71NTBep0kPwFsp) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:17 | 2025-01-18 | 2025-01-21 |
 | [5 NİSAN](https://open.spotify.com/track/1zWUJCxMNeGjJvbMwGMJ1h) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [BARIŞ](https://open.spotify.com/album/3KuhwFOdVZ8ufC3klz1X5y) | 2:36 | 2025-09-10 | 2025-09-28 |
+| [5 YILDIZ](https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [5 YILDIZ](https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw) | 1:30 | 2026-08-17 |  |
 | [50 Kilo](https://open.spotify.com/track/5w9eH1mVty5J0pRQJTkFr9) | [GRiNGO](https://open.spotify.com/artist/5Sjj30aHCmKcM9SdVX7PBK), [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [50 Kilo](https://open.spotify.com/album/3vaWPm5ofwyFRCGcnknmJF) | 3:00 | 2021-07-11 | 2021-07-17 |
 | [55\-53](https://open.spotify.com/track/1X2dVSqwG22eENVjazeAB2) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [55\-53](https://open.spotify.com/album/5zZ36nu81XoL3vA4VeZhn7) | 1:58 | 2025-05-10 | 2025-06-15 |
 | [56](https://open.spotify.com/track/2ZrYKuHi7Tv5e4rud3ekd4) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY) | [56](https://open.spotify.com/album/6OxDkH5QThyN1qLCIRubUM) | 1:36 | 2026-01-15 | 2026-03-23 |
@@ -156,7 +157,7 @@
 | [ATEŞ GİBİSİN](https://open.spotify.com/track/5JIfCgelBA50OLXAs3v90e) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Yung Kafa](https://open.spotify.com/artist/7hEWPEIXEplnXurxdE87b4) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 3:46 | 2026-06-20 | 2026-06-22 |
 | [Ateşe Düştüm](https://open.spotify.com/track/3auN910HHNYykQo8i9q5J1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ateşe Düştüm](https://open.spotify.com/album/1lvm6v5QA0VkNPw58h8Ezi) | 3:50 | 2023-10-04 | 2024-05-05 |
 | [Avaz Avaz](https://open.spotify.com/track/1bYbiK0GZbRoCw8S2nq4pw) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 2:22 | 2021-05-30 | 2021-05-31 |
-| [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 | 2025-01-25 | 2026-08-16 |
+| [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 | 2025-01-25 |  |
 | [Ayletme Beni](https://open.spotify.com/track/4N2cu2dVF4xUcqKFMr96hM) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [Lifor](https://open.spotify.com/album/795JBiwl8VPLQ4Et9ACD3f) | 4:09 | 2025-04-06 | 2025-04-08 |
 | [Aynalı Kemer](https://open.spotify.com/track/5kbX6QlSDGgprK3jVuxGt7) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Sarı Çizmeli Mehmet Ağa](https://open.spotify.com/album/4CTYIDfsIC4uSdzPaL9f4I) | 3:05 | 2024-08-04 | 2024-08-09 |
 | [Aynen](https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Hermano](https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4) | 3:06 | 2023-05-07 | 2023-09-24 |
@@ -442,7 +443,7 @@
 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 | 2024-07-05 | 2024-10-13 |
 | [Değişmene Rağmen](https://open.spotify.com/track/5pEpvR03HbLxkBtK73EeJw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:05 | 2024-10-12 | 2026-01-04 |
 | [Değişmene Rağmen](https://open.spotify.com/track/1czWk1T5x9q9PSPMgKuxza) | [yeixs](https://open.spotify.com/artist/51hQ28H5BjnESK2nUoloVC), [M4RLBORO](https://open.spotify.com/artist/7d4t6iQ96DSuN1JPhChNMd) | [Manifesto](https://open.spotify.com/album/0ic55RaWVgwBj3XYgEqAa7) | 3:05 | 2024-10-28 | 2024-10-31 |
-| [Değiştiremezsin Yazılmışsa](https://open.spotify.com/track/49a0nrWtmWU78F0itzjDJh) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 2:35 | 2026-06-06 |  |
+| [Değiştiremezsin Yazılmışsa](https://open.spotify.com/track/49a0nrWtmWU78F0itzjDJh) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 2:35 | 2026-06-06 | 2026-08-18 |
 | [Değmesin Ellerimiz](https://open.spotify.com/track/0RoQ5sk1Z9PH2xki3gv5hO) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Diğer Masallar](https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL) | 4:27 | 2025-03-04 | 2025-03-09 |
 | [Diabolico](https://open.spotify.com/track/4c2M8LTjJChc890Pr1I43h) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Diabolico](https://open.spotify.com/album/7t5MPt9ACpBHcWwXsx9AM7) | 3:09 | 2022-02-05 | 2022-02-09 |
 | [Dibine Kadar](https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Duman 1](https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C) | 3:48 | 2021-10-20 | 2022-02-13 |
@@ -1505,7 +1506,7 @@
 | [Yanlış](https://open.spotify.com/track/4syfTeyd4GqV2l8qAz7sEa) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Yanlış](https://open.spotify.com/album/7F5XFNNcmntqkZ7gAvEgqi) | 3:41 | 2023-02-16 | 2023-03-08 |
 | [Yanlışlarla Karşılaştım](https://open.spotify.com/track/1AL39PMHvgw979PFKiEOhb) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT), [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [Yanlışlarla Karşılaştım](https://open.spotify.com/album/4HSGfGY1KBz8xHYwSnja5K) | 2:06 | 2025-03-01 | 2025-05-31 |
 | [Yansıma](https://open.spotify.com/track/4T73JmNNhtkFBzjRfCeMzN) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj), [Asil Gök](https://open.spotify.com/artist/0d43Fqs68Oboh6XXo4ztgn) | [Nefes](https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS) | 2:53 | 2023-11-27 | 2024-09-25 |
-| [yanılmışım](https://open.spotify.com/track/4W445XWByCeN8CH6uexxLW) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA) | [valiz](https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7) | 2:05 | 2026-05-07 |  |
+| [yanılmışım](https://open.spotify.com/track/4W445XWByCeN8CH6uexxLW) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA) | [valiz](https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7) | 2:05 | 2026-05-07 | 2026-08-18 |
 | [Yap Bi Güzellik](https://open.spotify.com/track/5wZ4RzkwZhjbwRyA7Q29Zr) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Yap Bi Güzellik](https://open.spotify.com/album/3PnDqF9MGtLmxMgtdXYFmR) | 3:07 | 2022-07-23 | 2022-09-16 |
 | [YAPAMAM](https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:03 | 2022-03-20 | 2022-12-03 |
 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 | 2025-07-26 | 2026-02-12 |

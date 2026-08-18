@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 368914,
+  "num_followers": 368934,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Cut Deep \u2013 Stripped",
-        "url": "https://open.spotify.com/album/342ARypReHD498VmAtcIx9"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Cut Deep \u2013 Stripped",
-      "url": "https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'",
         "url": "https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 258706,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Cut Deep \u2013 Stripped",
+        "url": "https://open.spotify.com/album/342ARypReHD498VmAtcIx9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "Cut Deep \u2013 Stripped",
+      "url": "https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -875,18 +875,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "abcdefu (chill)",
-        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
+        "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) [Piano Version]",
+        "url": "https://open.spotify.com/album/62wf2rnKI9Tdet34h5jduw"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 176765,
-      "name": "abcdefu (chill)",
-      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
+      "duration_ms": 234876,
+      "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) - Piano Version",
+      "url": "https://open.spotify.com/track/4oFkgWU2B7rPqQsU66E5MG"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -915,26 +919,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) [Piano Version]",
-        "url": "https://open.spotify.com/album/62wf2rnKI9Tdet34h5jduw"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        },
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 234876,
-      "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) - Piano Version",
-      "url": "https://open.spotify.com/track/4oFkgWU2B7rPqQsU66E5MG"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Dallas Buyers Club (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/5Eq7NDVWgHCPnkLloTg36m"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
+        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
+      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "Behind Your Walls",
         "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
       },
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
-        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
+        "name": "abcdefu (chill)",
+        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
       },
       "artists": [
         {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
-      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
+      "duration_ms": 176765,
+      "name": "abcdefu (chill)",
+      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "The Steeple (Acoustic)",
-        "url": "https://open.spotify.com/album/6xxy6GXIGNVFsQ2Zu7CXqa"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207089,
-      "name": "The Steeple - Acoustic",
-      "url": "https://open.spotify.com/track/7FPvauwxWZbiB2Sako8ApN"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Feels Like Falling in Love (Alternate Version)",
         "url": "https://open.spotify.com/album/5mFDzpbFYmeiHKEEumKXyt"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 238796,
       "name": "Feels Like Falling in Love - Alternate Version",
       "url": "https://open.spotify.com/track/0pzeklIkrqOfc1eeleQ3px"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "The Steeple (Acoustic)",
+        "url": "https://open.spotify.com/album/6xxy6GXIGNVFsQ2Zu7CXqa"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207089,
+      "name": "The Steeple - Acoustic",
+      "url": "https://open.spotify.com/track/7FPvauwxWZbiB2Sako8ApN"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "The Liars Club (Acoustic)",
-        "url": "https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 252295,
-      "name": "The Liars Club - Acoustic",
-      "url": "https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Never Said Goodbye (Stripped)",
         "url": "https://open.spotify.com/album/072bnLe0hWtLgdMXYOi1Hj"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 202000,
       "name": "Never Said Goodbye - Stripped",
       "url": "https://open.spotify.com/track/06OkdeEz2JlAQi0K2oOZDN"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "The Liars Club (Acoustic)",
+        "url": "https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 252295,
+      "name": "The Liars Club - Acoustic",
+      "url": "https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4"
     },
     {
       "added_at": "2024-07-05 19:40:49",

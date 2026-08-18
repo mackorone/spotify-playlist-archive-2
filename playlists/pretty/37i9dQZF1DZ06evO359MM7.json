@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 450064,
+  "num_followers": 450118,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACKPbzgROOPfwGDazk7jSy6",
+  "snapshot_id": "aoD9gAAAAABIwBUNHpcnsQGx0N7mq7tf",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sold Out Dates (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 166368,
-      "name": "Sold Out Dates (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 235014,
       "name": "Rich Off Pain (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sold Out Dates (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 166368,
+      "name": "Sold Out Dates (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 188606,
-      "name": "No Sucker (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S.K.A.T.E.",
         "url": "https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 224137,
       "name": "Promises (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4JfHLSkVCxcJOq0179Se7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 188606,
+      "name": "No Sucker (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
     }
   ],
   "unique_name": "This Is Lil Baby",

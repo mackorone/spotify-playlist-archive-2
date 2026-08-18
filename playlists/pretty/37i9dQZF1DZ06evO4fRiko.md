@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fRiko.md) - [plain]
 
 > This is Chris Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,186 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,246 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fRiko.md) - [plain]
 | 40 | [Main Chick \(feat\. Chris Brown\)](https://open.spotify.com/track/2asIUjALYhUbH8hvLUhDWo) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My Own Lane \(Expanded Edition\)](https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11) | 3:17 |
 | 41 | [Deuces \(feat\. Tyga & Kevin McCall\)](https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Kevin McCall](https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:36 |
 | 42 | [Man On A Mission \(feat\. Wizkid\)](https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:52 |
-| 43 | [For The Moment](https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:26 |
-| 44 | [Gimme That](https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:06 |
+| 43 | [Gimme That](https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:06 |
+| 44 | [For The Moment](https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:26 |
 | 45 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:51 |
 | 46 | [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 |
-| 47 | [It's Not You It's Me](https://open.spotify.com/track/1Q7nndrSFXM7V5A3sYVDZ4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:07 |
-| 48 | [Wall To Wall](https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 3:43 |
-| 49 | [Wet The Bed \(feat\. Ludacris\)](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:26 |
+| 47 | [Wet The Bed \(feat\. Ludacris\)](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:26 |
+| 48 | [It's Not You It's Me](https://open.spotify.com/track/1Q7nndrSFXM7V5A3sYVDZ4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:07 |
+| 49 | [Wall To Wall](https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 3:43 |
 | 50 | [wgft \(Remix\) \[feat\. Chris Brown\]](https://open.spotify.com/track/4m4sk6NdP92HCvioRCo9BM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [wgft \(Remix\) \[feat\. Chris Brown\]](https://open.spotify.com/album/7w0YmeUJoZebUXDqhtzmuL) | 3:07 |
 
-Snapshot ID: `an+sAAAAAAAqCDxDR/TxdVVdbPxE8GGV`
+Snapshot ID: `aoD9gAAAAACXHGfEXUbcxjonJuhm9Q9C`

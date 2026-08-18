@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 760398,
+  "num_followers": 760605,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,22 @@
     {
       "added_at": "2026-08-13 23:00:16",
       "album": {
-        "name": "Fara",
-        "url": "https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd"
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
       "artists": [
         {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         }
       ],
-      "duration_ms": 182472,
-      "name": "Fara",
-      "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "added_at": "2026-08-13 23:00:16",
@@ -587,22 +591,38 @@
     {
       "added_at": "2026-08-13 23:00:16",
       "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+        "name": "Fara",
+        "url": "https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
         }
       ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+      "duration_ms": 182472,
+      "name": "Fara",
+      "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
+    },
+    {
+      "added_at": "2026-08-13 23:00:16",
+      "album": {
+        "name": "Return to Ojai",
+        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Return to Ojai",
+      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
     },
     {
       "added_at": "2026-08-13 23:00:16",
@@ -647,6 +667,22 @@
     {
       "added_at": "2026-08-13 23:00:16",
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+    },
+    {
+      "added_at": "2026-08-13 23:00:16",
+      "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
       },
@@ -667,38 +703,22 @@
     {
       "added_at": "2026-08-13 23:00:16",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+        "name": "Seasoning",
+        "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
-    },
-    {
-      "added_at": "2026-08-13 23:00:16",
-      "album": {
-        "name": "Return to Ojai",
-        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
         },
         {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "2b.Frank",
+          "url": "https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS"
         }
       ],
-      "duration_ms": 259480,
-      "name": "Return to Ojai",
-      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
+      "duration_ms": 203869,
+      "name": "Seasoning (feat. 2b.Frank)",
+      "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
     },
     {
       "added_at": "2026-08-13 23:00:16",
@@ -739,26 +759,6 @@
     {
       "added_at": "2026-08-13 23:00:16",
       "album": {
-        "name": "Feelings Gone (feat. London Grammar)",
-        "url": "https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 298030,
-      "name": "Feelings Gone (feat. London Grammar)",
-      "url": "https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi"
-    },
-    {
-      "added_at": "2026-08-13 23:00:16",
-      "album": {
         "name": "mr useless",
         "url": "https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ"
       },
@@ -783,38 +783,22 @@
     {
       "added_at": "2026-08-13 23:00:16",
       "album": {
-        "name": "She Waits",
-        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
+        "name": "Feelings Gone (feat. London Grammar)",
+        "url": "https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7"
       },
       "artists": [
         {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "She Waits",
-      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
-    },
-    {
-      "added_at": "2026-08-13 23:00:16",
-      "album": {
-        "name": "Seasoning",
-        "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
-      },
-      "artists": [
-        {
-          "name": "Antony Szmierek",
-          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         },
         {
-          "name": "2b.Frank",
-          "url": "https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 203869,
-      "name": "Seasoning (feat. 2b.Frank)",
-      "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
+      "duration_ms": 298030,
+      "name": "Feelings Gone (feat. London Grammar)",
+      "url": "https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi"
     },
     {
       "added_at": "2026-08-13 23:00:16",
@@ -835,6 +819,38 @@
     {
       "added_at": "2026-08-13 23:00:16",
       "album": {
+        "name": "She Waits",
+        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "She Waits",
+      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
+    },
+    {
+      "added_at": "2026-08-13 23:00:16",
+      "album": {
+        "name": "TANZPARTEI II (Mixtape)",
+        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 151599,
+      "name": "Friday (Alone Right Now)",
+      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
+    },
+    {
+      "added_at": "2026-08-13 23:00:16",
+      "album": {
         "name": "check check",
         "url": "https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 182326,
       "name": "check check",
       "url": "https://open.spotify.com/track/287TkTdofAFvXB4EaT160W"
-    },
-    {
-      "added_at": "2026-08-13 23:00:16",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 230465,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
     },
     {
       "added_at": "2026-08-13 23:00:16",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-08-13 23:00:16",
       "album": {
-        "name": "TANZPARTEI II (Mixtape)",
-        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
       },
       "artists": [
         {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
         }
       ],
-      "duration_ms": 151599,
-      "name": "Friday (Alone Right Now)",
-      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
+      "duration_ms": 230465,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
     },
     {
       "added_at": "2026-08-13 23:00:16",

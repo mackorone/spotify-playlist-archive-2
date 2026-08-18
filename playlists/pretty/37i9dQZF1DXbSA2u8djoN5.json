@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Cabron",
-  "num_followers": 23503,
+  "num_followers": 23502,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,22 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "SCRISOARE DE CARTIER",
-        "url": "https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP"
+        "name": "ANGELINA JOLIE",
+        "url": "https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ"
       },
       "artists": [
         {
-          "name": "DZWS",
-          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
         }
       ],
-      "duration_ms": 101015,
-      "name": "SCRISOARE DE CARTIER",
-      "url": "https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c"
+      "duration_ms": 187659,
+      "name": "ANGELINA JOLIE",
+      "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -271,22 +275,18 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "ANGELINA JOLIE",
-        "url": "https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ"
+        "name": "SCRISOARE DE CARTIER",
+        "url": "https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP"
       },
       "artists": [
         {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
         }
       ],
-      "duration_ms": 187659,
-      "name": "ANGELINA JOLIE",
-      "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
+      "duration_ms": 101015,
+      "name": "SCRISOARE DE CARTIER",
+      "url": "https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -419,22 +419,26 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "Voila",
-        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
+        "name": "Tot Ce E Frumos",
+        "url": "https://open.spotify.com/album/2D9miIckv84tT5AgdhFELE"
       },
       "artists": [
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "Grasu XXL",
+          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
         },
         {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+          "name": "Guess Who",
+          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Voila",
-      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
+      "duration_ms": 221981,
+      "name": "Tot Ce E Frumos",
+      "url": "https://open.spotify.com/track/7wCICSZ56p7bcU1ntyzeZs"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -459,6 +463,26 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
+        "name": "Voila",
+        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Voila",
+      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
         "name": "X6",
         "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
       },
@@ -471,22 +495,6 @@
       "duration_ms": 149000,
       "name": "X6",
       "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        }
-      ],
-      "duration_ms": 125317,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -507,6 +515,22 @@
       "duration_ms": 152144,
       "name": "Arunca-ma La Lei",
       "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "duration_ms": 125317,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -551,22 +575,6 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "mr. idcash",
-        "url": "https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "mr. idcash",
-      "url": "https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
         "name": "PLAYBOY CITY - THE ALBUM",
         "url": "https://open.spotify.com/album/6igCZUd9U3XiYYOCxoyWbt"
       },
@@ -579,30 +587,6 @@
       "duration_ms": 146400,
       "name": "FORME AI",
       "url": "https://open.spotify.com/track/6y3E05aCYm2nyQOneUXajU"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
-        "name": "Tot Ce E Frumos",
-        "url": "https://open.spotify.com/album/2D9miIckv84tT5AgdhFELE"
-      },
-      "artists": [
-        {
-          "name": "Grasu XXL",
-          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
-        },
-        {
-          "name": "Guess Who",
-          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        }
-      ],
-      "duration_ms": 221981,
-      "name": "Tot Ce E Frumos",
-      "url": "https://open.spotify.com/track/7wCICSZ56p7bcU1ntyzeZs"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -623,6 +607,22 @@
       "duration_ms": 166363,
       "name": "Antidot",
       "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
+        "name": "mr. idcash",
+        "url": "https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "mr. idcash",
+      "url": "https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -711,22 +711,38 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "CALIFORNIA",
-        "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
+        "name": "Ani \u0218i Ani La R\u00e2nd",
+        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
       },
       "artists": [
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
         },
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Ciresan",
+          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
         }
       ],
-      "duration_ms": 139354,
-      "name": "CALIFORNIA",
-      "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
+      "duration_ms": 200610,
+      "name": "Ani \u0218i Ani La R\u00e2nd",
+      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
+        "name": "Toata lumea moare",
+        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Operatiunea GhostGun",
+      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -755,38 +771,22 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "Toata lumea moare",
-        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
+        "name": "CALIFORNIA",
+        "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
       },
       "artists": [
         {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Operatiunea GhostGun",
-      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
-        "name": "Ani \u0218i Ani La R\u00e2nd",
-        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
-      },
-      "artists": [
-        {
-          "name": "Cabron",
-          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         },
         {
-          "name": "Ciresan",
-          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         }
       ],
-      "duration_ms": 200610,
-      "name": "Ani \u0218i Ani La R\u00e2nd",
-      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
+      "duration_ms": 139354,
+      "name": "CALIFORNIA",
+      "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -803,26 +803,6 @@
       "duration_ms": 166153,
       "name": "Vise La Plic",
       "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
-        "name": "Asta-i \u021aara Mea",
-        "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        },
-        {
-          "name": "Vasile Advahov",
-          "url": "https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn"
-        }
-      ],
-      "duration_ms": 169711,
-      "name": "Asta-i \u021aara Mea",
-      "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -863,6 +843,42 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
+        "name": "Asta-i \u021aara Mea",
+        "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        },
+        {
+          "name": "Vasile Advahov",
+          "url": "https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn"
+        }
+      ],
+      "duration_ms": 169711,
+      "name": "Asta-i \u021aara Mea",
+      "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
+        "name": "Morgana",
+        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
+      },
+      "artists": [
+        {
+          "name": "F.Charm",
+          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
+        }
+      ],
+      "duration_ms": 192890,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
         "name": "Copiii Care Am Fost",
         "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
       },
@@ -883,18 +899,22 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "MAROC",
-        "url": "https://open.spotify.com/album/2SWazH4hYRDoeNRYSkrCwe"
+        "name": "Corina",
+        "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
       },
       "artists": [
         {
-          "name": "Vali Miron",
-          "url": "https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU"
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
+        },
+        {
+          "name": "Lexi Cali",
+          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
         }
       ],
-      "duration_ms": 140625,
-      "name": "MAROC",
-      "url": "https://open.spotify.com/track/09ePeeqELKQhxRPED0Fakf"
+      "duration_ms": 221250,
+      "name": "Corina",
+      "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -923,38 +943,22 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "Corina",
-        "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
+        "name": "HE$OYAM",
+        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
       },
       "artists": [
         {
-          "name": "B.U.G. Mafia",
-          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         },
         {
-          "name": "Lexi Cali",
-          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
         }
       ],
-      "duration_ms": 221250,
-      "name": "Corina",
-      "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
-        "name": "Morgana",
-        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
-      },
-      "artists": [
-        {
-          "name": "F.Charm",
-          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
-        }
-      ],
-      "duration_ms": 192890,
-      "name": "Morgana",
-      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
+      "duration_ms": 183428,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
     }
   ],
   "unique_name": "Suflet + Sunet",

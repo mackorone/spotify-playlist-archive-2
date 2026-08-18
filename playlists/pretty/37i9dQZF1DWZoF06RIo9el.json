@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de agosto 2026. Cover: fred again.. & LATIN MAFIA",
-  "num_followers": 1544854,
+  "num_followers": 1544676,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -67,74 +67,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "MI BB",
-        "url": "https://open.spotify.com/album/2Jr3nTZOyITGzoZJ98LODA"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "MI BB",
-      "url": "https://open.spotify.com/track/6bmhecXBNupQjLC1QnvLxU"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
-        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 150944,
-      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
-      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "MILLONETA",
-        "url": "https://open.spotify.com/album/24GhQrJxVWIbnRNLCrvdLx"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Raven la R",
-          "url": "https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq"
-        }
-      ],
-      "duration_ms": 160987,
-      "name": "MILLONETA",
-      "url": "https://open.spotify.com/track/2DNN1f2MOdTYWY1GnST9kr"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "SI ME HICIERA EL DE LA LENGUA (REMIX) (feat. Luar La L)",
         "url": "https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe"
       },
@@ -163,6 +95,74 @@
       "duration_ms": 324000,
       "name": "SI ME HICIERA EL DE LA LENGUA (REMIX) (feat. Luar La L)",
       "url": "https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 150944,
+      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "MI BB",
+        "url": "https://open.spotify.com/album/2Jr3nTZOyITGzoZJ98LODA"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "MI BB",
+      "url": "https://open.spotify.com/track/6bmhecXBNupQjLC1QnvLxU"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "MILLONETA",
+        "url": "https://open.spotify.com/album/24GhQrJxVWIbnRNLCrvdLx"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Raven la R",
+          "url": "https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq"
+        }
+      ],
+      "duration_ms": 160987,
+      "name": "MILLONETA",
+      "url": "https://open.spotify.com/track/2DNN1f2MOdTYWY1GnST9kr"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 202817,
+      "name": "Azul (Vers\u00e3o Espanhol)",
+      "url": "https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt"
       },
@@ -231,18 +247,18 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "EQUILIBRIVM II",
-        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
         }
       ],
-      "duration_ms": 202817,
-      "name": "Azul (Vers\u00e3o Espanhol)",
-      "url": "https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw"
+      "duration_ms": 155294,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/2PZH6ktoRWCLlkbn49Z1xq"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -267,18 +283,18 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "Celosa",
-        "url": "https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc"
+        "name": "tokyo",
+        "url": "https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E"
       },
       "artists": [
         {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
         }
       ],
-      "duration_ms": 155294,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/2PZH6ktoRWCLlkbn49Z1xq"
+      "duration_ms": 206030,
+      "name": "tokyo",
+      "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -311,42 +327,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "tokyo",
-        "url": "https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 206030,
-      "name": "tokyo",
-      "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "SI SE ACABA EL MUNDO",
-        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 170812,
-      "name": "SI SE ACABA EL MUNDO",
-      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 126620,
       "name": "Millon Freestyle",
       "url": "https://open.spotify.com/track/6EHfLvGE2osEmEbdOOJlBT"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "SI SE ACABA EL MUNDO",
+        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 170812,
+      "name": "SI SE ACABA EL MUNDO",
+      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -467,42 +467,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "beam",
-        "url": "https://open.spotify.com/album/3TOKzHuUu9g8hddRZEamQm"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "beam",
-      "url": "https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "BESITO",
-        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "BESITO",
-      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "HABLAR DE TI (...)",
         "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
       },
@@ -523,18 +487,38 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "babylona blue",
-        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738"
+        "name": "BESITO",
+        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 112694,
-      "name": "Por qu\u00e9 dudas de mi?",
-      "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA"
+      "duration_ms": 179720,
+      "name": "BESITO",
+      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "beam",
+        "url": "https://open.spotify.com/album/3TOKzHuUu9g8hddRZEamQm"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "beam",
+      "url": "https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -555,6 +539,38 @@
       "duration_ms": 214000,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "partedemipartedeti",
+        "url": "https://open.spotify.com/album/2qm8KUb1VIkBXwgwHn7y4z"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "partedemipartedeti",
+      "url": "https://open.spotify.com/track/4idsvwxfLQuOr8PngnKhKx"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "babylona blue",
+        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 112694,
+      "name": "Por qu\u00e9 dudas de mi?",
+      "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -607,22 +623,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "partedemipartedeti",
-        "url": "https://open.spotify.com/album/2qm8KUb1VIkBXwgwHn7y4z"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "partedemipartedeti",
-      "url": "https://open.spotify.com/track/4idsvwxfLQuOr8PngnKhKx"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "En bucle",
         "url": "https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 166867,
       "name": "como un im\u00e1n",
       "url": "https://open.spotify.com/track/1WH1IXd0XeuubBL7BtC0b0"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "Mi Vicio Tu",
+        "url": "https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU"
+      },
+      "artists": [
+        {
+          "name": "Julian Solorzano",
+          "url": "https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D"
+        }
+      ],
+      "duration_ms": 293637,
+      "name": "Mi Vicio Tu",
+      "url": "https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -691,18 +707,22 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "Mi Vicio Tu",
-        "url": "https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU"
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/15d7AbyBktoIoZ6TdkH0Gx"
       },
       "artists": [
         {
-          "name": "Julian Solorzano",
-          "url": "https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D"
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "Chanela Clicka",
+          "url": "https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy"
         }
       ],
-      "duration_ms": 293637,
-      "name": "Mi Vicio Tu",
-      "url": "https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg"
+      "duration_ms": 140467,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/0Jh65GfYeOlGo6uoF9HUa5"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -723,26 +743,6 @@
       "duration_ms": 200250,
       "name": "TRX",
       "url": "https://open.spotify.com/track/26vQruwWC4spXD4rZl3ipC"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/15d7AbyBktoIoZ6TdkH0Gx"
-      },
-      "artists": [
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        },
-        {
-          "name": "Chanela Clicka",
-          "url": "https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy"
-        }
-      ],
-      "duration_ms": 140467,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/0Jh65GfYeOlGo6uoF9HUa5"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -787,26 +787,22 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "Sensaci\u00f3n de Calor",
-        "url": "https://open.spotify.com/album/3rl5uj72Aib7MSI3mkLQ4B"
+        "name": "Contacto Cero",
+        "url": "https://open.spotify.com/album/0HtzkHaFQzD4VBNV1EdPTW"
       },
       "artists": [
         {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
         },
         {
-          "name": "Juicy BAE",
-          "url": "https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN"
-        },
-        {
-          "name": "PMP",
-          "url": "https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK"
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Sensaci\u00f3n de Calor",
-      "url": "https://open.spotify.com/track/39XF6X4WfhPDoNxEV5Ybsb"
+      "duration_ms": 169859,
+      "name": "Contacto Cero",
+      "url": "https://open.spotify.com/track/06gWYDApdKpVOGz7fvoZoP"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -831,22 +827,26 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "Contacto Cero",
-        "url": "https://open.spotify.com/album/0HtzkHaFQzD4VBNV1EdPTW"
+        "name": "Sensaci\u00f3n de Calor",
+        "url": "https://open.spotify.com/album/3rl5uj72Aib7MSI3mkLQ4B"
       },
       "artists": [
         {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         },
         {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+          "name": "Juicy BAE",
+          "url": "https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN"
+        },
+        {
+          "name": "PMP",
+          "url": "https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK"
         }
       ],
-      "duration_ms": 169859,
-      "name": "Contacto Cero",
-      "url": "https://open.spotify.com/track/06gWYDApdKpVOGz7fvoZoP"
+      "duration_ms": 145000,
+      "name": "Sensaci\u00f3n de Calor",
+      "url": "https://open.spotify.com/track/39XF6X4WfhPDoNxEV5Ybsb"
     },
     {
       "added_at": "2026-08-07 04:01:54",

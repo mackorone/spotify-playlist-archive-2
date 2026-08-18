@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-357 songs - 20 hr 20 min
+358 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,8 +290,9 @@
 | [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 | 2025-12-26 |  |
 | [まなざしは光](https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [まなざしは光](https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC) | 3:27 | 2026-04-27 |  |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-10-12 | 2026-04-25 |
-| [アプローズ](https://open.spotify.com/track/1XDwra3xIpNDtiFK9Dgxhf) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [人生](https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY) | 3:31 | 2026-06-25 |  |
+| [アプローズ](https://open.spotify.com/track/1XDwra3xIpNDtiFK9Dgxhf) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [人生](https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY) | 3:31 | 2026-06-25 | 2026-08-18 |
 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 | 2024-12-14 | 2025-02-21 |
+| [アンリミテッド](https://open.spotify.com/track/0QduF3T8Sree7EtCzdcqQF) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [アンリミテッド](https://open.spotify.com/album/2gOUmm49oqLJEFpR14VxyU) | 3:33 | 2026-07-16 |  |
 | [イチブトゼンブ](https://open.spotify.com/track/3IYcbagYZ9z1Svaw8B33Pd) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [MAGIC](https://open.spotify.com/album/5VbMiMMnFcLAI64OY6kxJC) | 4:09 | 2026-04-27 |  |
 | [ウィスパー](https://open.spotify.com/track/3Pn8IhJ6tulPS4cmGEGZBs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ウィスパー](https://open.spotify.com/album/4cdpSmfFF2bkD4BlS8V7k6) | 4:10 | 2024-11-30 | 2025-01-14 |
 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 | 2025-01-13 | 2025-03-22 |

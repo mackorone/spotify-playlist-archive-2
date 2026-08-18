@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 136560,
       "name": "If Ye Love Me",
       "url": "https://open.spotify.com/track/4mB5sbWTQFLr3X2r4SbVjQ"
@@ -2657,6 +2657,36 @@
     },
     {
       "album": {
+        "name": "Faire Is the Heaven: Music Of the English Church",
+        "url": "https://open.spotify.com/album/4zJcR5Ui5KhpKvq1ClD7uz"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Mary Seers",
+          "url": "https://open.spotify.com/artist/5wdmZTC5NRErtArYNI9eUU"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82360,
+      "name": "O Taste and See",
+      "url": "https://open.spotify.com/track/50chWJTd27EeEgFqVduUuW"
+    },
+    {
+      "album": {
         "name": "The Sacred Flame",
         "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
       },
@@ -2822,10 +2852,48 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 214213,
       "name": "Requiem in D Minor, Op. 48: IV. Pie Jesu",
       "url": "https://open.spotify.com/track/5s5U9wkbRLgnsupyq3wFBc"
+    },
+    {
+      "album": {
+        "name": "Faur\u00e9: Requiem & Other Sacred Music",
+        "url": "https://open.spotify.com/album/1Kjx52r3MgXoYLwf5ZDUO0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Simon Standage",
+          "url": "https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "Requiem in D Minor, Op. 48: VII. In paradisum (Arr. for Choir & Orchestra by John Rutter)",
+      "url": "https://open.spotify.com/track/6KdyxUPfTgv8SmiGBx08vY"
     },
     {
       "album": {

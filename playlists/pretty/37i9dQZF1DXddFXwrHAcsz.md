@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,716 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,739 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 6 | [Je Loog Tegen Mij](https://open.spotify.com/track/53348QPO1Bhkd8oFABaGYK) | [Drukwerk](https://open.spotify.com/artist/5k1FBxAglBtDC8H26LOo4F) | [Drukwerk](https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL) | 3:26 |
 | 7 | [De Bom](https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 2:41 |
 | 8 | [Het Is Koud Zonder Jou](https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:06 |
-| 9 | [Deurdonderen](https://open.spotify.com/track/6U7rlAukeYVphgDWLc1yk6) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 3:53 |
-| 10 | [Comment ça va](https://open.spotify.com/track/7evg9DnEL9xmlZmv7qZ6QK) | [The Shorts](https://open.spotify.com/artist/40MX6ONfpMJwrWdTajaRUf) | [Comment Ça Va](https://open.spotify.com/album/7e2V4dXoFunyYJvYsoNU09) | 3:29 |
+| 9 | [Comment ça va](https://open.spotify.com/track/7evg9DnEL9xmlZmv7qZ6QK) | [The Shorts](https://open.spotify.com/artist/40MX6ONfpMJwrWdTajaRUf) | [Comment Ça Va](https://open.spotify.com/album/7e2V4dXoFunyYJvYsoNU09) | 3:29 |
+| 10 | [Deurdonderen](https://open.spotify.com/track/6U7rlAukeYVphgDWLc1yk6) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 3:53 |
 | 11 | [Annabel](https://open.spotify.com/track/41Wklq87430ovCkiHchbN2) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Annabel En Andere Grote Hits](https://open.spotify.com/album/5x0sWY505mKv9as3L2Caqf) | 3:32 |
 | 12 | [Is Dit Alles](https://open.spotify.com/track/4iUH4ksweue6iGqQUgSzhx) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doris Day en Andere Stukken](https://open.spotify.com/album/74D7apTRKmj8K2gIq4B5gK) | 5:23 |
 | 13 | [Alles Geprobeerd](https://open.spotify.com/track/3yBuEy5DmmV4tRL5ASRxlE) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Mooi En Onverslijtbaar](https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj) | 6:27 |
 | 14 | [O O Den Haag](https://open.spotify.com/track/2F5HbFGRgJNzLvSU17sw2N) | [Harry Klorkestein](https://open.spotify.com/artist/5DCksz2HeuBgf0g2fYHP8B) | [Alles](https://open.spotify.com/album/71uQhj11xtVa1H2yN4fDjq) | 4:01 |
-| 15 | [Mamma, woar is mien pils](https://open.spotify.com/track/3LSXZhstWrAdQZC8C8moU0) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 2:58 |
-| 16 | [Suzanne](https://open.spotify.com/track/3MrtadqfvO2VrIfiCCBVo6) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:45 |
+| 15 | [Suzanne](https://open.spotify.com/track/3MrtadqfvO2VrIfiCCBVo6) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:45 |
+| 16 | [Mamma, woar is mien pils](https://open.spotify.com/track/3LSXZhstWrAdQZC8C8moU0) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 2:58 |
 | 17 | [1 Nacht Alleen](https://open.spotify.com/track/7tV4oNcFWW85uwKL7JPOTV) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [4us](https://open.spotify.com/album/1d27T3U7K7WixFp0Ja6pLz) | 3:59 |
 | 18 | [Vriendschap](https://open.spotify.com/track/13mvLR1T0GesAY3jhM9lAw) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 4:07 |
 | 19 | [Toveren](https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Nu En Dan \- 30 Jaar Herman Van Veen](https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5) | 3:25 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 28 | [Adios Amor](https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:28 |
 | 29 | [Net\-as gisteren \- Live](https://open.spotify.com/track/4IwUhu03sPNuuPD2MZa2KA) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Springlèavend](https://open.spotify.com/album/4XP7ugRszl1yG6QbTFiTTw) | 3:51 |
 | 30 | [Ik Kan Het Niet Alleen](https://open.spotify.com/track/6ZdbwRhaM8H1PfyoyxVMNy) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [100 x De Dijk](https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL) | 3:59 |
-| 31 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |
+| 31 | [Winter in Hamburg](https://open.spotify.com/track/3WTD1NqmlaxaI00K2Q1B0Z) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Welkom In Utopia](https://open.spotify.com/album/5OeSXqF6Cp7qr7exlCiiAi) | 5:18 |
 | 32 | [Waarom Fluister Ik Je Naam Nog](https://open.spotify.com/track/1Mf4CXEX26bmzrr9n3nZ3W) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Allermooiste](https://open.spotify.com/album/6OJ5TevDAiuIwWw2c6xF89) | 3:45 |
 | 33 | [Kleine Jodeljongen](https://open.spotify.com/track/4aR8eGB5hisGkaK4kxGjvK) | [Manke Nelis](https://open.spotify.com/artist/7jGonUtfSFZgtQ6hKbqyBr) | [Hollands Glorie](https://open.spotify.com/album/7fLZFuAvpvpuuOfvDrdwY2) | 2:54 |
 | 34 | [Eenmaal Kom Jij Terug](https://open.spotify.com/track/1YhbDfUG3ydrwvFBHHdsJ6) | [Koos Alberts](https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29) | [De Top 10 Van](https://open.spotify.com/album/1ia0hACzZyGqzYEuIX9uLP) | 4:20 |
 | 35 | [Anne](https://open.spotify.com/track/073xKaUAkGFxOZ1aHWXel7) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Anne \(Deutsche Version\)](https://open.spotify.com/album/3TAwCzDg088pPwykWFOK3D) | 3:44 |
-| 36 | [Winter in Hamburg](https://open.spotify.com/track/3WTD1NqmlaxaI00K2Q1B0Z) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Welkom In Utopia](https://open.spotify.com/album/5OeSXqF6Cp7qr7exlCiiAi) | 5:18 |
+| 36 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |
 | 37 | [Een Tip Van De Sluier](https://open.spotify.com/track/2akTFtrsRuzFtdpDt4ItJz) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Collected \(1964 \- 2016\)](https://open.spotify.com/album/5bPH5FC8gRqCsVSgoUm5lD) | 4:55 |
 | 38 | [Stiekem Gedanst](https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Het Allerbeste Van Toontje Lager \(Top 20\)](https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf) | 3:37 |
 | 39 | [Geef Mij Je Angst](https://open.spotify.com/track/77Z1rV0BsUjd3hWNrO80B6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 4:20 |

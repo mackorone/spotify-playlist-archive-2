@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > La lista donde viven los hits más grandes de la Isla del Encanto\. Cover: Conep
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,274 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,334 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

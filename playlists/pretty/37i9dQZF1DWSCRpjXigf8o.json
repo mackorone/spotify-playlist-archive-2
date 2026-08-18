@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88641,
+  "num_followers": 88638,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Linger / Heading For The Door (Sirius XM Session)",
         "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 186000,
       "name": "Linger - SiriusXM Session",
       "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -793,26 +793,6 @@
       "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
     },
     {
-      "added_at": "2026-05-21 15:00:24",
-      "album": {
-        "name": "la misma piedra",
-        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
-      },
-      "artists": [
-        {
-          "name": "Ton Felices",
-          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 216996,
-      "name": "la misma piedra",
-      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
-    },
-    {
       "added_at": "2026-03-26 11:46:20",
       "album": {
         "name": "a plumber",
@@ -861,36 +841,24 @@
       "url": "https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2"
     },
     {
-      "added_at": "2026-05-14 15:00:30",
+      "added_at": "2026-05-21 15:00:24",
       "album": {
-        "name": "6 Years",
-        "url": "https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM"
+        "name": "la misma piedra",
+        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
       },
       "artists": [
         {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "6 Years",
-      "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
-    },
-    {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
-      },
-      "artists": [
+          "name": "Ton Felices",
+          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
+        },
         {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
         }
       ],
-      "duration_ms": 296282,
-      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
+      "duration_ms": 216996,
+      "name": "la misma piedra",
+      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -907,6 +875,22 @@
       "duration_ms": 195586,
       "name": "\u5149\u671d",
       "url": "https://open.spotify.com/track/09tkV5i4lWmAVSumsJIsEE"
+    },
+    {
+      "added_at": "2026-05-14 15:00:30",
+      "album": {
+        "name": "6 Years",
+        "url": "https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "6 Years",
+      "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -929,22 +913,6 @@
       "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
     },
     {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "You are Silence",
-        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "You are Silence",
-      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "Museum of My Mess",
@@ -959,6 +927,38 @@
       "duration_ms": 269048,
       "name": "Museum of My Mess",
       "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "duration_ms": 296282,
+      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
+    },
+    {
+      "added_at": "2026-07-16 15:00:53",
+      "album": {
+        "name": "You are Silence",
+        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "duration_ms": 361000,
+      "name": "You are Silence",
+      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Call It A Day",
-        "url": "https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2"
-      },
-      "artists": [
-        {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "Call It A Day",
-      "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
         "url": "https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 209899,
       "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
       "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Call It A Day",
+        "url": "https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Call It A Day",
+      "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1029,24 +1029,20 @@
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
+      "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "The other day,",
-        "url": "https://open.spotify.com/album/0C35I9pRllDfNNgZ24tzMB"
+        "name": "\u5504\u304c\u6b69\u304f\u6642",
+        "url": "https://open.spotify.com/album/4VAkCYiPGkPOPGdloGVZwY"
       },
       "artists": [
         {
-          "name": "\u3086\u3046\u3089\u3093\u8239",
-          "url": "https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm"
-        },
-        {
-          "name": "\u00c5lborg",
-          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Accord",
-      "url": "https://open.spotify.com/track/4YiSm3yWe57eX3ZDxhIzzO"
+      "duration_ms": 230571,
+      "name": "\u5504\u304c\u6b69\u304f\u6642",
+      "url": "https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1067,22 +1063,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u5504\u304c\u6b69\u304f\u6642",
-        "url": "https://open.spotify.com/album/4VAkCYiPGkPOPGdloGVZwY"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 230571,
-      "name": "\u5504\u304c\u6b69\u304f\u6642",
-      "url": "https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
         "url": "https://open.spotify.com/album/0GQmfz006T3QqIQ1bRMdVv"
       },
@@ -1095,6 +1075,22 @@
       "duration_ms": 265875,
       "name": "\u9ec4\u660f\u30e1\u30ed\u30a6",
       "url": "https://open.spotify.com/track/3QHjbtUyJkPhycNxnygPT0"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1113,20 +1109,24 @@
       "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
+      "added_at": "2026-07-09 15:00:41",
       "album": {
-        "name": "Apple",
-        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
+        "name": "The other day,",
+        "url": "https://open.spotify.com/album/0C35I9pRllDfNNgZ24tzMB"
       },
       "artists": [
         {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+          "name": "\u3086\u3046\u3089\u3093\u8239",
+          "url": "https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm"
+        },
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
+      "duration_ms": 312000,
+      "name": "Accord",
+      "url": "https://open.spotify.com/track/4YiSm3yWe57eX3ZDxhIzzO"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "FIVE",
-        "url": "https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 211855,
-      "name": "FIVE",
-      "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "TIME SLIP",
         "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 268060,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "FIVE",
+        "url": "https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 211855,
+      "name": "FIVE",
+      "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Love me tender",
-        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
-      },
-      "artists": [
-        {
-          "name": "Uniolla",
-          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "So am I",
-      "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Turntable in the Lift",
         "url": "https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 426250,
       "name": "Tunes for Suly",
       "url": "https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Love me tender",
+        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
+      },
+      "artists": [
+        {
+          "name": "Uniolla",
+          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "So am I",
+      "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1437,30 +1437,6 @@
       "url": "https://open.spotify.com/track/0oUwQhusb5Uzdf64Wf3R04"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "\u7af9\u5185\u7f8e\u5ba5",
-          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
-        },
-        {
-          "name": "MIYUMIYU",
-          "url": "https://open.spotify.com/artist/5lZiZQ5xaxp94Z9naAVKmg"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Sweet Lies (feat. Miyu Takeuchi)",
-      "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
-    },
-    {
       "added_at": "2026-05-14 15:00:30",
       "album": {
         "name": "I Love Me Now",
@@ -1491,6 +1467,30 @@
       "duration_ms": 276756,
       "name": "I Love Me Now",
       "url": "https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u7af9\u5185\u7f8e\u5ba5",
+          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
+        },
+        {
+          "name": "MIYUMIYU",
+          "url": "https://open.spotify.com/artist/5lZiZQ5xaxp94Z9naAVKmg"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Sweet Lies (feat. Miyu Takeuchi)",
+      "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
+        "url": "https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 245680,
+      "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
+      "url": "https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "burn blister",
         "url": "https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 243600,
       "name": "Here with me",
       "url": "https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
-        "url": "https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 245680,
-      "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
-      "url": "https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj"
     },
     {
       "added_at": "2026-02-19 15:16:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,637 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,680 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 15 | [Pray Hard \(feat\. Luke Combs\)](https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:06 |
 | 16 | [PISTOL PACCIN](https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 2:29 |
 | 17 | [Change Me](https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:16 |
-| 18 | [Change](https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:13 |
-| 19 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 |
+| 18 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 |
+| 19 | [Change](https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:13 |
 | 20 | [Box Me Up \(feat\. Jelly Roll\)](https://open.spotify.com/track/19DC6pFSlhbKG77yG40dQO) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:53 |
 | 21 | [Take Care](https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:29 |
 | 22 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 47 | [Meet The 6ixers](https://open.spotify.com/track/0Ta2fVj5VeLL49IZQ9JCO5) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [MEET THE 6IXERS](https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5) | 2:17 |
 | 48 | [Boy](https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Boy](https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe) | 2:12 |
 | 49 | ['02 Lakers \(feat\. Ro$ama\)](https://open.spotify.com/track/04IDH5UZTNO5RdWpPwebnv) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:43 |
-| 50 | [Say Please \(Don't Leave Me Lonely\) \(feat\. BigXthaPlug\)](https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Say Please \(Don't Leave Me Lonely\) \[feat\. BigXthaPlug\]](https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF) | 3:14 |
+| 50 | [Good Chance \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 2:04 |
 
-Snapshot ID: `an+sAAAAAADiGZspQRNFKqdoeJUvkZud`
+Snapshot ID: `aoD9gAAAAABvN87SOi0u2kI/k9r71S+M`

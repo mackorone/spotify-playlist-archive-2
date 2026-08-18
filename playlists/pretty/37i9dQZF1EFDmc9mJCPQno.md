@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 60 | [Latest Ghost \- Piano Version](https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World \(Piano Versions\)](https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T) | 2:51 |
 | 61 | [Priorities](https://open.spotify.com/track/74JMCtnIUVepy6Iz6FLqzx) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Priorities](https://open.spotify.com/album/2Jwz8d47Z1SjssxwYGMMEE) | 3:13 |
 | 62 | [Dreams](https://open.spotify.com/track/6qV4tSoKUstKvDUunRP8rJ) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 3:14 |
-| 63 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
-| 64 | [Hope Is a Scary Thing](https://open.spotify.com/track/2Pn8rE4he6Knz53X3RS896) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:48 |
+| 63 | [Hope Is a Scary Thing](https://open.spotify.com/track/2Pn8rE4he6Knz53X3RS896) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:48 |
+| 64 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
 | 65 | [Sodom & Gomorrah](https://open.spotify.com/track/3x3kYVMHdqwConilMGjZzi) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 3:09 |
 | 66 | [Fireworks](https://open.spotify.com/track/1UQDjhNSUJq1Qt02fdXzN3) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:00 |
 | 67 | [Natural at Disaster](https://open.spotify.com/track/65qXKpoW3V9B8o95DrdFCS) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:18 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 132 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
 | 133 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AcZwpAAAAAAn3QKZYx6RG45bCE7PGmk/`
+Snapshot ID: `AcZ2RAAAAAD1dkry0ByAMm+aCafYAgys`

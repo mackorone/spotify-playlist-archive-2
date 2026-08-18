@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 261474,
+  "num_followers": 261520,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,22 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
-        "name": "End Of Summer",
-        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+        "name": "7 Days",
+        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+      "duration_ms": 207187,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
     },
     {
       "added_at": "2026-08-13 23:00:04",
@@ -275,22 +279,18 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
-        "name": "7 Days",
-        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 207187,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
     },
     {
       "added_at": "2026-08-13 23:00:04",
@@ -331,6 +331,26 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
+        "name": "Caught Up In The Fire",
+        "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 223538,
+      "name": "Caught Up In The Fire",
+      "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
+    },
+    {
+      "added_at": "2026-08-13 23:00:04",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 219971,
       "name": "Is It Over Now?",
       "url": "https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC"
-    },
-    {
-      "added_at": "2026-08-13 23:00:04",
-      "album": {
-        "name": "Caught Up In The Fire",
-        "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 223538,
-      "name": "Caught Up In The Fire",
-      "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
     },
     {
       "added_at": "2026-08-13 23:00:04",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
+        "name": "Beyond Today",
+        "url": "https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Beyond Today",
+      "url": "https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR"
+    },
+    {
+      "added_at": "2026-08-13 23:00:04",
+      "album": {
         "name": "Spacer",
         "url": "https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 184505,
       "name": "Spacer",
       "url": "https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV"
-    },
-    {
-      "added_at": "2026-08-13 23:00:04",
-      "album": {
-        "name": "Beyond Today",
-        "url": "https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Beyond Today",
-      "url": "https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR"
     },
     {
       "added_at": "2026-08-13 23:00:04",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
-        "name": "Lost in translation...",
-        "url": "https://open.spotify.com/album/5xeZbPlJA518IqmiziGjxN"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Lost in translation...",
-      "url": "https://open.spotify.com/track/07GnVJ5t7lk8zckrY5zOUZ"
-    },
-    {
-      "added_at": "2026-08-13 23:00:04",
-      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 187283,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO"
+    },
+    {
+      "added_at": "2026-08-13 23:00:04",
+      "album": {
+        "name": "Lost in translation...",
+        "url": "https://open.spotify.com/album/5xeZbPlJA518IqmiziGjxN"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Lost in translation...",
+      "url": "https://open.spotify.com/track/07GnVJ5t7lk8zckrY5zOUZ"
     },
     {
       "added_at": "2026-08-13 23:00:04",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd"
+      },
+      "artists": [
+        {
+          "name": "Nohr",
+          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
+        }
+      ],
+      "duration_ms": 150879,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j"
+    },
+    {
+      "added_at": "2026-08-13 23:00:04",
+      "album": {
         "name": "Down For You (feat. Jyll)",
         "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
       },
@@ -667,26 +683,14 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd"
-      },
-      "artists": [
-        {
-          "name": "Nohr",
-          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
-        }
-      ],
-      "duration_ms": 150879,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j"
-    },
-    {
-      "added_at": "2026-08-13 23:00:04",
-      "album": {
         "name": "come home",
         "url": "https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap"
       },
       "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
         {
           "name": "LSR/CITY",
           "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
@@ -775,26 +779,18 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
-        "name": "Wander",
-        "url": "https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM"
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
       },
       "artists": [
         {
-          "name": "MXV",
-          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
-        },
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
         }
       ],
-      "duration_ms": 210967,
-      "name": "Wander",
-      "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-08-13 23:00:04",
@@ -835,18 +831,26 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM"
       },
       "artists": [
         {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+          "name": "MXV",
+          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
+        },
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+      "duration_ms": 210967,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
     },
     {
       "added_at": "2026-08-13 23:00:04",
@@ -895,26 +899,6 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
-        "name": "When I Look In Your Eyes",
-        "url": "https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Justine Suissa",
-          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
-        }
-      ],
-      "duration_ms": 213748,
-      "name": "When I Look In Your Eyes",
-      "url": "https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8"
-    },
-    {
-      "added_at": "2026-08-13 23:00:04",
-      "album": {
         "name": "set me free",
         "url": "https://open.spotify.com/album/2nuFBHPKFRwmVeegVGZKlH"
       },
@@ -939,6 +923,26 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
+        "name": "When I Look In Your Eyes",
+        "url": "https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Justine Suissa",
+          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+        }
+      ],
+      "duration_ms": 213748,
+      "name": "When I Look In Your Eyes",
+      "url": "https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8"
+    },
+    {
+      "added_at": "2026-08-13 23:00:04",
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0bsw6pMyquYTDMVO4BjV4e"
       },
@@ -955,26 +959,6 @@
       "duration_ms": 201376,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu"
-    },
-    {
-      "added_at": "2026-08-13 23:00:04",
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/3JxuBUvsMKKzDq3IWb7YNK"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        },
-        {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
-        }
-      ],
-      "duration_ms": 220157,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/3WqhLccL1MTExpYKoCQLQO"
     },
     {
       "added_at": "2026-08-13 23:00:04",
@@ -1023,6 +1007,26 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/3JxuBUvsMKKzDq3IWb7YNK"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        }
+      ],
+      "duration_ms": 220157,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/3WqhLccL1MTExpYKoCQLQO"
+    },
+    {
+      "added_at": "2026-08-13 23:00:04",
+      "album": {
         "name": "Diamonds (Further Than I Ever Was)",
         "url": "https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6"
       },
@@ -1043,22 +1047,6 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
-        "name": "Man On Fire",
-        "url": "https://open.spotify.com/album/00FLZ59B8FtGV9IVFuWKlj"
-      },
-      "artists": [
-        {
-          "name": "J Ribbon",
-          "url": "https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk"
-        }
-      ],
-      "duration_ms": 186785,
-      "name": "Man On Fire",
-      "url": "https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0"
-    },
-    {
-      "added_at": "2026-08-13 23:00:04",
-      "album": {
         "name": "Escapism",
         "url": "https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ"
       },
@@ -1071,22 +1059,6 @@
       "duration_ms": 222857,
       "name": "Escapism",
       "url": "https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX"
-    },
-    {
-      "added_at": "2026-08-13 23:00:04",
-      "album": {
-        "name": "I Never Want This To End EP",
-        "url": "https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw"
-      },
-      "artists": [
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        }
-      ],
-      "duration_ms": 178793,
-      "name": "I Never Want This To End",
-      "url": "https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe"
     },
     {
       "added_at": "2026-08-13 23:00:04",
@@ -1127,22 +1099,50 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
-        "name": "Bigger Than All Of Us",
-        "url": "https://open.spotify.com/album/0EovqHtUM3sLB0IqlS3Xkm"
+        "name": "I Never Want This To End EP",
+        "url": "https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
         }
       ],
-      "duration_ms": 229733,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/1gZKuzj9GsuFl0IshqPPom"
+      "duration_ms": 178793,
+      "name": "I Never Want This To End",
+      "url": "https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe"
+    },
+    {
+      "added_at": "2026-08-13 23:00:04",
+      "album": {
+        "name": "Thinkin' Bout You",
+        "url": "https://open.spotify.com/album/64RcVLjy4BzPOrHWFC526Q"
+      },
+      "artists": [
+        {
+          "name": "Because of Art",
+          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+        }
+      ],
+      "duration_ms": 235014,
+      "name": "Thinkin' Bout You",
+      "url": "https://open.spotify.com/track/3HCVUH2yntYEwkdCMSV7ao"
+    },
+    {
+      "added_at": "2026-08-13 23:00:04",
+      "album": {
+        "name": "Man On Fire",
+        "url": "https://open.spotify.com/album/00FLZ59B8FtGV9IVFuWKlj"
+      },
+      "artists": [
+        {
+          "name": "J Ribbon",
+          "url": "https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk"
+        }
+      ],
+      "duration_ms": 186785,
+      "name": "Man On Fire",
+      "url": "https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0"
     },
     {
       "added_at": "2026-08-13 23:00:04",
@@ -1167,18 +1167,22 @@
     {
       "added_at": "2026-08-13 23:00:04",
       "album": {
-        "name": "Thinkin' Bout You",
-        "url": "https://open.spotify.com/album/64RcVLjy4BzPOrHWFC526Q"
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/215WZfNf9jqBg9SDX0secV"
       },
       "artists": [
         {
-          "name": "Because of Art",
-          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+          "name": "Luv Foundation (UK)",
+          "url": "https://open.spotify.com/artist/7wZMEsvxuWBZiMAqcy5BOP"
+        },
+        {
+          "name": "Ruff Loaderz",
+          "url": "https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui"
         }
       ],
-      "duration_ms": 235014,
-      "name": "Thinkin' Bout You",
-      "url": "https://open.spotify.com/track/3HCVUH2yntYEwkdCMSV7ao"
+      "duration_ms": 164409,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6UtHUN0O9W3WC34L5NpT5I"
     }
   ],
   "unique_name": "Melodic & Euphoric",

@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1445060,
+  "num_followers": 1445283,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABEP8rdgTUwNhUiwNzqNT89",
+  "snapshot_id": "aoD9gAAAAACd33LopTVMPlj0vaTeaEc9",
   "tracks": [
     {
       "added_at": null,
@@ -139,18 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
       },
       "artists": [
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 154374,
-      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
-      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+      "duration_ms": 176568,
+      "name": "Ah\u00ed",
+      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
     },
     {
       "added_at": null,
@@ -191,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 176568,
-      "name": "Ah\u00ed",
-      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
@@ -218,15 +202,27 @@
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Si lo ven",
+      "url": "https://open.spotify.com/track/75KmkB7wmJnalp0sf4IdRD"
     },
     {
       "added_at": null,
@@ -267,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
       },
@@ -276,25 +292,9 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 162288,
-      "name": "Si lo ven",
-      "url": "https://open.spotify.com/track/75KmkB7wmJnalp0sf4IdRD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "EL BARCO",
-      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
+      "duration_ms": 180900,
+      "name": "Bebiendo L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2vsEAGuk1vvzDKmEqrK8jS"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
       "duration_ms": 222458,
       "name": "Ivonny Bonita",
       "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "EL BARCO",
+      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
     },
     {
       "added_at": null,
@@ -344,9 +360,25 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 180900,
-      "name": "Bebiendo L\u00e1grimas",
-      "url": "https://open.spotify.com/track/2vsEAGuk1vvzDKmEqrK8jS"
+      "duration_ms": 152786,
+      "name": "Te llevas To",
+      "url": "https://open.spotify.com/track/05P0CPgq8EH9yXOYWql17I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 167180,
+      "name": "Papasito",
+      "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
     },
     {
       "added_at": null,
@@ -367,22 +399,6 @@
       "duration_ms": 268996,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 167180,
-      "name": "Papasito",
-      "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
     },
     {
       "added_at": null,
@@ -412,9 +428,9 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 152786,
-      "name": "Te llevas To",
-      "url": "https://open.spotify.com/track/05P0CPgq8EH9yXOYWql17I"
+      "duration_ms": 194975,
+      "name": "Alguien que te amaba",
+      "url": "https://open.spotify.com/track/1ODtEk90QyddQlslqHkjAJ"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/3Ly42p2mL3JFP3rXaOqJrT"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": null,

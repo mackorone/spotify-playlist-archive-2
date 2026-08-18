@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 694846,
+  "num_followers": 694856,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACDOxpgXQlxumcXBjW3kQTn",
+  "snapshot_id": "aoD9gAAAAADScnR9H24Lfist1yA/BaU6",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 188523,
+      "name": "Thru Your Phone",
+      "url": "https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 255506,
       "name": "La Modelo",
       "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 188523,
-      "name": "Thru Your Phone",
-      "url": "https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Bodak Yellow",
-      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA? (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 183527,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/1ozkUXjTicFlTvrmdYmLDj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 210787,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM I THE DRAMA? (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 183527,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1ozkUXjTicFlTvrmdYmLDj"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA? (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/3j4AWNKYVeL9njKINCTzKm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 177139,
       "name": "Ring (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM I THE DRAMA? (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/3j4AWNKYVeL9njKINCTzKm"
     },
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158706,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wanna Be (Remix Alternate Versions)",
         "url": "https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6"
       },
@@ -507,42 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 158706,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM I THE DRAMA? (Beat Edition)",
-        "url": "https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "Pretty & Petty",
-      "url": "https://open.spotify.com/track/4qpqtd3FqIzZaFgHrDYExi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kehlani",
         "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 232574,
       "name": "Pocket (feat. Cardi B)",
       "url": "https://open.spotify.com/track/61WdhGJZSILRG11rRJP1gm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM I THE DRAMA? (Beat Edition)",
+        "url": "https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "Pretty & Petty",
+      "url": "https://open.spotify.com/track/4qpqtd3FqIzZaFgHrDYExi"
     },
     {
       "added_at": null,
@@ -903,94 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta (with Cardi B & Myke Towers)",
-        "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 180788,
-      "name": "Me Gusta (with Cardi B & Myke Towers)",
-      "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JEALOUSY (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "JEALOUSY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "What's Goin On (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/5RpGHqlGHRTGWzNPBKW08D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Shit (feat. Ye & Lil Durk)",
-        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 211649,
-      "name": "Hot Shit (feat. Ye & Lil Durk)",
-      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PROLIFIC",
         "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
       },
@@ -1015,6 +927,94 @@
       "duration_ms": 226185,
       "name": "I Just Wanna Know (feat. Ty Dolla $ign & Cardi B)",
       "url": "https://open.spotify.com/track/5eD5JBetKz2JdeGlIBIPvh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta (with Cardi B & Myke Towers)",
+        "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 180788,
+      "name": "Me Gusta (with Cardi B & Myke Towers)",
+      "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "What's Goin On (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/5RpGHqlGHRTGWzNPBKW08D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     }
   ],
   "unique_name": "This Is Cardi B",

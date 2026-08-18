@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375637,
+  "num_followers": 375641,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAA42zEZxLxl9oNVuiX8naVm",
+  "snapshot_id": "aoD9gAAAAAD9Sq0868lcjSokBRT6cvmW",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/3iIn06BOVJL8Hf7JEa0UfB"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 263146,
+      "name": "Spend the Night",
+      "url": "https://open.spotify.com/track/0HaRWfC7s1oKaUnBSwcK03"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Want My Love",
         "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 194373,
       "name": "You Want My Love",
       "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/3iIn06BOVJL8Hf7JEa0UfB"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 263146,
-      "name": "Spend the Night",
-      "url": "https://open.spotify.com/track/0HaRWfC7s1oKaUnBSwcK03"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Babel - Music From And Inspired By The Motion Picture",
+        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 389973,
+      "name": "September/The Joker",
+      "url": "https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babel - Music From And Inspired By The Motion Picture",
-        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 389973,
-      "name": "September/The Joker",
-      "url": "https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O"
     }
   ],
   "unique_name": "This Is Earth, Wind & Fire",

@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 380382,
+  "num_followers": 380397,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABDEGG44WcGMaUAinlpT/Q4",
+  "snapshot_id": "aoD9gAAAAAAT0bSTcglBWr9LMa7JzlJY",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORSA",
-        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 177662,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/7HzLGyZkbUtatOACuwO75x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primer Lugar",
         "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 245760,
       "name": "Primer Lugar",
       "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORSA",
+        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 177662,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/7HzLGyZkbUtatOACuwO75x"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORSA",
-        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 244166,
-      "name": "Impredecible",
-      "url": "https://open.spotify.com/track/6RlMyEKTup093DPweRgiSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 216338,
       "name": "Hey Lil Mama",
       "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORSA",
+        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 244166,
+      "name": "Impredecible",
+      "url": "https://open.spotify.com/track/6RlMyEKTup093DPweRgiSB"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORSA",
-        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 168659,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/6PnXTyFIJIW16j9ut633vJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DON KBRN",
         "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 206946,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORSA",
+        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 168659,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/6PnXTyFIJIW16j9ut633vJ"
     },
     {
       "added_at": null,
@@ -971,6 +971,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 224845,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Red Bull Espiral #05",
         "url": "https://open.spotify.com/album/5jjqKKckcNzqs8u8fCVKVB"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 208622,
       "name": "Red Bull Espiral #05",
       "url": "https://open.spotify.com/track/1nuVImTjVoRk7BBg7p2neV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 224845,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
     },
     {
       "added_at": null,

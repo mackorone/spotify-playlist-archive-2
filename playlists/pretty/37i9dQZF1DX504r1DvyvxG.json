@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2637663,
+  "num_followers": 2637604,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "Into the Mystic - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 276186,
       "name": "One",
       "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "Into the Mystic - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Never Going Back Again - 2004 Remaster",
-      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Still Crazy After All These Years",
         "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 217573,
       "name": "50 Ways to Leave Your Lover",
       "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Never Going Back Again - 2004 Remaster",
+      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Paul Simon",
         "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 164813,
       "name": "Me and Julio Down by the Schoolyard",
       "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Living With Ghosts",
-        "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Let Him Fly",
-      "url": "https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Rumor And Sigh",
         "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 283493,
       "name": "1952 Vincent Black Lightning",
       "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Living With Ghosts",
+        "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "Let Him Fly",
+      "url": "https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 185733,
       "name": "Here Comes The Sun - Remastered",
       "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Music For The Motion Picture Into The Wild",
         "url": "https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Songs Of Love And Hate",
-        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 310773,
-      "name": "Famous Blue Raincoat",
-      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1587,6 +1571,22 @@
       "duration_ms": 146333,
       "name": "In My Life - Remastered",
       "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Songs Of Love And Hate",
+        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 310773,
+      "name": "Famous Blue Raincoat",
+      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
     },
     {
       "added_at": "2026-01-26 17:08:09",

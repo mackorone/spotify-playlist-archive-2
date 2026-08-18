@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4962,
+  "num_followers": 4961,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAClrokeWbH6m6ra3EbYsvQj",
+  "snapshot_id": "aoD9gAAAAACcpDD8NdUciSP4ZsYFIOwL",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 219997,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2LVkd8rDYBYjZjzrhogYUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Mentira Tan Perfecta",
         "url": "https://open.spotify.com/album/1TldCO3Zg4Y5WhueVcV85Y"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 169000,
       "name": "Qu\u00e9 Mentira Tan Perfecta",
       "url": "https://open.spotify.com/track/5JANca2cKP0GEUH0YORHAN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevivente",
-        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 219997,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/2LVkd8rDYBYjZjzrhogYUQ"
     },
     {
       "added_at": null,
@@ -839,18 +839,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobrevivente",
-        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
+        "name": "For\u00e1neos",
+        "url": "https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq"
       },
       "artists": [
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
         }
       ],
-      "duration_ms": 200582,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/6ka4z78PDgF3mepKkY2W4o"
+      "duration_ms": 186106,
+      "name": "For\u00e1neos",
+      "url": "https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke"
     },
     {
       "added_at": null,
@@ -935,30 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For\u00e1neos",
-        "url": "https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        },
-        {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "For\u00e1neos",
-      "url": "https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -966,39 +950,11 @@
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Gambeta",
-          "url": "https://open.spotify.com/artist/0NondYskkFto74mrICHYR4"
-        },
-        {
-          "name": "Piel Roja",
-          "url": "https://open.spotify.com/artist/5kq2StjCFhee4kp48In3Mq"
         }
       ],
-      "duration_ms": 224071,
-      "name": "Colombianos World Wide",
-      "url": "https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universos Mixtape",
-        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
-        }
-      ],
-      "duration_ms": 229630,
-      "name": "Ahora Que Puedo",
-      "url": "https://open.spotify.com/track/5k0VGSqgmgV2YwedsyMaSb"
+      "duration_ms": 200582,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/6ka4z78PDgF3mepKkY2W4o"
     },
     {
       "added_at": null,
@@ -1019,42 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "AL1 Producer",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Las Cinco Rosas",
-      "url": "https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mestizo",
-        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "Mestizo",
-      "url": "https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Universos Mixtape",
         "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
       },
@@ -1064,33 +984,13 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Yoky Barrios",
-          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
         }
       ],
-      "duration_ms": 181120,
-      "name": "Mi Castigo",
-      "url": "https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevivente",
-        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Andrade A.K.A Doble A",
-          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
-        }
-      ],
-      "duration_ms": 187226,
-      "name": "Mi Ciudad Es Fresca",
-      "url": "https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX"
+      "duration_ms": 229630,
+      "name": "Ahora Que Puedo",
+      "url": "https://open.spotify.com/track/5k0VGSqgmgV2YwedsyMaSb"
     },
     {
       "added_at": null,
@@ -1119,8 +1019,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Up",
-        "url": "https://open.spotify.com/album/4PwTjGhgDJLfpTENMjxy76"
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
       "artists": [
         {
@@ -1128,17 +1028,93 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Gonzalo Genek",
-          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+          "name": "Gambeta",
+          "url": "https://open.spotify.com/artist/0NondYskkFto74mrICHYR4"
         },
         {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+          "name": "Piel Roja",
+          "url": "https://open.spotify.com/artist/5kq2StjCFhee4kp48In3Mq"
         }
       ],
-      "duration_ms": 149911,
-      "name": "Listen Up",
-      "url": "https://open.spotify.com/track/7KAkj1lp5elDoWvENK7pcc"
+      "duration_ms": 224071,
+      "name": "Colombianos World Wide",
+      "url": "https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rap Conciencia",
+        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "AL1 Producer",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Las Cinco Rosas",
+      "url": "https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universos Mixtape",
+        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Mi Castigo",
+      "url": "https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "Mestizo",
+      "url": "https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Andrade A.K.A Doble A",
+          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
+        }
+      ],
+      "duration_ms": 187226,
+      "name": "Mi Ciudad Es Fresca",
+      "url": "https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX"
     },
     {
       "added_at": null,
@@ -1159,6 +1135,30 @@
       "duration_ms": 184651,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Up",
+        "url": "https://open.spotify.com/album/4PwTjGhgDJLfpTENMjxy76"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        }
+      ],
+      "duration_ms": 149911,
+      "name": "Listen Up",
+      "url": "https://open.spotify.com/track/7KAkj1lp5elDoWvENK7pcc"
     },
     {
       "added_at": null,

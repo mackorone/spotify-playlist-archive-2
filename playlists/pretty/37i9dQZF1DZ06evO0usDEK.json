@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49676,
+  "num_followers": 49678,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACw3nDkmnUjgvFFWNsS8zLM",
+  "snapshot_id": "aoD9gAAAAAD2vHpXVrBQU5Ke0p/g/pvD",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
       "duration_ms": 201933,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2RcwUh5tvQz9VcDrmhp9fV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Very Best of Roberta Flack",
-        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 287853,
-      "name": "Killing Me Softly With His Song - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3WnyL57IzjD9nbSg293vTF"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm the One",
+        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "'Till the Morning Comes",
+      "url": "https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RENDEZVOUS (2017 Remaster)",
         "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 279920,
       "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm the One",
-        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "'Till the Morning Comes",
-      "url": "https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N"
     },
     {
       "added_at": null,
@@ -659,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta",
-        "url": "https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 602306,
-      "name": "It Might Be You",
-      "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiet Fire",
         "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
@@ -691,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roberta",
+        "url": "https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 602306,
+      "name": "It Might Be You",
+      "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -703,26 +687,6 @@
       "duration_ms": 420160,
       "name": "Ballad of the Sad Young Men",
       "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RENDEZVOUS (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
-      },
-      "artists": [
-        {
-          "name": "Sadao Watanabe",
-          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "IF I'M STILL AROUND TOMORROW (feat. ROBERTA FLACK)",
-      "url": "https://open.spotify.com/track/3VjGHCdwCJGCYXuRRnQZI5"
     },
     {
       "added_at": null,
@@ -759,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "RENDEZVOUS (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
+      },
+      "artists": [
+        {
+          "name": "Sadao Watanabe",
+          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "IF I'M STILL AROUND TOMORROW (feat. ROBERTA FLACK)",
+      "url": "https://open.spotify.com/track/3VjGHCdwCJGCYXuRRnQZI5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live & More",
         "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
       },
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Montreux Years (Live)",
-        "url": "https://open.spotify.com/album/73vbaUJKvJacWy8BMBxIaB"
+        "name": "I'm the One",
+        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
       },
       "artists": [
         {
@@ -788,9 +772,25 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 202093,
-      "name": "Soft and Gentle Rain - Live at Montreux, 2005",
-      "url": "https://open.spotify.com/track/5mwUVw3rcbNgThJ22U7S4U"
+      "duration_ms": 238506,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 403520,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 403520,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live & More",
         "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
       },
@@ -851,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm the One",
-        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
+        "name": "The Montreux Years (Live)",
+        "url": "https://open.spotify.com/album/73vbaUJKvJacWy8BMBxIaB"
       },
       "artists": [
         {
@@ -860,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 238506,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
+      "duration_ms": 202093,
+      "name": "Soft and Gentle Rain - Live at Montreux, 2005",
+      "url": "https://open.spotify.com/track/5mwUVw3rcbNgThJ22U7S4U"
     },
     {
       "added_at": null,
@@ -887,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Montreux Years (Live)",
-        "url": "https://open.spotify.com/album/73vbaUJKvJacWy8BMBxIaB"
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
       "artists": [
         {
@@ -896,9 +880,25 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 297640,
-      "name": "More Than You'll Ever Know - Live at Montreux, 1990",
-      "url": "https://open.spotify.com/track/0VJpSDHNUgjA2XZQvbFa4x"
+      "duration_ms": 234693,
+      "name": "Let Them Talk",
+      "url": "https://open.spotify.com/track/47jAgpZzxxJn0L4RhmnJnf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Until It's Time for You to Go",
+      "url": "https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv"
     }
   ],
   "unique_name": "This Is Roberta Flack",

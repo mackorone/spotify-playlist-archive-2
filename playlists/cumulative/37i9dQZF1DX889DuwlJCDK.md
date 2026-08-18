@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: reGretGirl
 
-1,908 songs - 4 day 19 hr 30 min
+1,909 songs - 4 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1006,6 +1006,7 @@
 | [ゆられり](https://open.spotify.com/track/5i0HAXe2g0a5B2NOWMDEIb) | [Umibare.](https://open.spotify.com/artist/2ikoEyDOZWiLMX01SSZLQO) | [ゆられり](https://open.spotify.com/album/4CTJDwfDxBQWIWAHU876e0) | 2:17 | 2023-09-05 | 2023-09-13 |
 | [らら](https://open.spotify.com/track/0UgT4PwGaBlxypqPEzoELa) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [らら](https://open.spotify.com/album/2IblqbjvNwJIXhxdHT82yd) | 3:22 | 2025-12-09 | 2025-12-17 |
 | [るてん](https://open.spotify.com/track/6nnlidVjXQpOVS8cfnr82o) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [るてん](https://open.spotify.com/album/43S0B2hwGw5F3BLjKAf3f1) | 3:33 | 2025-09-16 | 2026-02-12 |
+| [わかっていたとしても](https://open.spotify.com/track/15o6ZNBKYhDDTNex7LMcIe) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [わかっていたとしても](https://open.spotify.com/album/12aGjVVtGM5bu1XThqMatI) | 2:53 | 2026-08-11 |  |
 | [わけ](https://open.spotify.com/track/6rldGanuMgZ3V0RLbdT8UX) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [わけ](https://open.spotify.com/album/74qTktyEtmhOVj9a4OTyYv) | 2:35 | 2025-04-08 | 2025-04-23 |
 | [わすれもの](https://open.spotify.com/track/49j4ejBT1jMvaaS6QjUlWP) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [わすれもの](https://open.spotify.com/album/2dg6pyBJbbpStvZf2AjBuZ) | 3:59 | 2025-05-13 | 2025-07-13 |
 | [わたしたちへ](https://open.spotify.com/track/78XrrMFIEGU8yOUdkn5umM) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [わたしたちへ](https://open.spotify.com/album/6bi87bNy6rch5PTXdjW1I6) | 4:05 | 2023-07-27 | 2023-08-09 |
@@ -1131,7 +1132,7 @@
 | [ジャンクガール](https://open.spotify.com/track/3s2AFyWkmDCySsdtGKgjj4) | [ロイヤルギャル](https://open.spotify.com/artist/0JZRhfetZbcYPdP0HDLA2e) | [ジャンクガール](https://open.spotify.com/album/126mHkYms2PkYWDEzq9ArR) | 3:16 | 2025-02-11 | 2025-02-19 |
 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 | 2024-03-07 | 2024-10-09 |
 | [ジャーニー](https://open.spotify.com/track/4NsVI3vhKcTteWevJyyUJg) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [ジャーニー](https://open.spotify.com/album/4oOxROSve09XhpM01B6eO7) | 3:38 | 2024-12-03 | 2025-01-16 |
-| [ジ・アース](https://open.spotify.com/track/6zDQ6cRTse7o0exkdYXsnc) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [INNER SYNC](https://open.spotify.com/album/5eTI6gucXOgrnMjbBMgUm2) | 4:19 | 2026-06-30 |  |
+| [ジ・アース](https://open.spotify.com/track/6zDQ6cRTse7o0exkdYXsnc) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [INNER SYNC](https://open.spotify.com/album/5eTI6gucXOgrnMjbBMgUm2) | 4:19 | 2026-06-30 | 2026-08-18 |
 | [スイートピー](https://open.spotify.com/track/0K8YQCXjT5QCOJrdZFimG9) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [スイートピー](https://open.spotify.com/album/6Py14Bzgq3wiuUVdy6QGDS) | 4:12 | 2025-03-11 | 2025-07-09 |
 | [スウィートドリーム](https://open.spotify.com/track/49ftCkg2hu8c7dDVh62kr6) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [スウィートドリーム](https://open.spotify.com/album/6RbzjTeGmP0SzJKyIV4xt3) | 3:40 | 2024-04-23 | 2024-05-01 |
 | [スタンドバイミー](https://open.spotify.com/track/4nDUb6vNdcycEBNOGF18vz) | [kalmia](https://open.spotify.com/artist/3tAw0YnsL8aQRSJFL5YS6O) | [twilight](https://open.spotify.com/album/1QG1YIoLY5BNhVse41s6LD) | 4:07 | 2023-11-21 | 2023-11-29 |

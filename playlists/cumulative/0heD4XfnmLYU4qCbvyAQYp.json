@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A blaze of light",
+        "url": "https://open.spotify.com/album/2Re0mJ0x041tvrH1qlNRWr"
+      },
+      "artists": [
+        {
+          "name": "momo.wav",
+          "url": "https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "A blaze of light",
+      "url": "https://open.spotify.com/track/4tFLN0VdJ96FIawiBLSiI2"
+    },
+    {
+      "album": {
         "name": "A Ghost",
         "url": "https://open.spotify.com/album/1Q7KenxMx2VIjtfAIoZh1R"
       },

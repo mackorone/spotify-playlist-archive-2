@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 268800,
       "name": "Too Faded Remix",
       "url": "https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY"
@@ -3160,6 +3160,24 @@
       "duration_ms": 169566,
       "name": "WHO ELSE YOU KNOW!?",
       "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
+    },
+    {
+      "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147449,
+      "name": "WTD",
+      "url": "https://open.spotify.com/track/26wokRXpfiNADlqqNLSkMY"
     },
     {
       "album": {

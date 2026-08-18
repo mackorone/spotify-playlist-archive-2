@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of Lemonade. Cover: Beyonc\u00e9",
-  "num_followers": 1795215,
+  "num_followers": 1795271,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
@@ -365,6 +365,26 @@
       "url": "https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr"
     },
     {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "X (Expanded Edition)",
@@ -387,26 +407,6 @@
       "duration_ms": 264938,
       "name": "Loyal (feat. Lil Wayne & Tyga)",
       "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 297506,
-      "name": "All I Want Is You (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -515,6 +515,26 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 259334,
+      "name": "Sky Walker (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -531,22 +551,6 @@
       "duration_ms": 260645,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 102813,
-      "name": "Girl With The Tattoo Enter.lewd",
-      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -599,6 +603,22 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 102813,
+      "name": "Girl With The Tattoo Enter.lewd",
+      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 231257,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 259334,
-      "name": "Sky Walker (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -721,26 +721,6 @@
       "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 382760,
-      "name": "Stay Ready (What A Life)",
-      "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Ctrl",
@@ -759,6 +739,26 @@
       "duration_ms": 275085,
       "name": "Love Galore (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 382760,
+      "name": "Stay Ready (What A Life)",
+      "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
     },
     {
       "added_at": "2023-01-20 17:44:30",
@@ -811,6 +811,22 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 272193,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 323480,
       "name": "Drunk in Love (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272193,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Unapologetic (Deluxe)",
@@ -947,6 +931,22 @@
       "duration_ms": 256320,
       "name": "Loveeeeeee Song",
       "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 272986,
       "name": "How Many Drinks?",
       "url": "https://open.spotify.com/track/5ctk3VJoHoURSiwkCJn2bf"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "OTW",
@@ -1139,6 +1123,22 @@
       "duration_ms": 263013,
       "name": "OTW",
       "url": "https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Free Spirit",
-        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Talk (feat. Disclosure)",
-      "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Here I Am (Deluxe Version)",
         "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 230560,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Free Spirit",
+        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Talk (feat. Disclosure)",
+      "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "East Atlanta Love Letter",
         "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
       },
@@ -1361,22 +1377,6 @@
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "READY",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
     },
     {
-      "added_at": "2022-08-04 19:06:56",
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Sailing Soul(s)",
@@ -1423,6 +1407,22 @@
       "duration_ms": 262480,
       "name": "living room flow - Bonus",
       "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
+    },
+    {
+      "added_at": "2022-08-04 19:06:56",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 312426,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1557,6 +1557,22 @@
       "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
     },
     {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200140,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Over It",
@@ -1575,22 +1591,6 @@
       "duration_ms": 205733,
       "name": "Just Might (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200140,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1625,22 +1625,6 @@
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Ciara",
-        "url": "https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 234294,
-      "name": "Body Party",
-      "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
-    },
-    {
       "added_at": "2022-09-17 04:26:15",
       "album": {
         "name": "213",
@@ -1671,6 +1655,22 @@
       "duration_ms": 160172,
       "name": "Every Kind Of Way",
       "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Ciara",
+        "url": "https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 234294,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
     },
     {
       "added_at": "2020-10-02 17:39:19",

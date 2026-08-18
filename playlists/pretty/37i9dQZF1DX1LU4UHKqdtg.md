@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: KiiiKiii
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,417 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,530 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pop Off Pop Off](https://open.spotify.com/track/0USn5f2VZGbHjHkbjcijzU) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5JnGvbE42HzaqM6DT7u1SN) | 2:21 |
-| 2 | [Surfin' Boy](https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Velvet Summer \- Summer Mini Album](https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr) | 2:48 |
+| 2 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
 | 3 | [ICONIC HEART](https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [ICONIC HEART](https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW) | 3:09 |
-| 4 | [SWEAT](https://open.spotify.com/track/503e19tHN0QmaraGxAQzt7) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [SWEAT](https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq) | 2:53 |
-| 5 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 |
-| 6 | [LEMONADE \(feat\. Becky G\)](https://open.spotify.com/track/4X0AxVnhlkSd4ggu78Tir1) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB) | 3:07 |
-| 7 | [I Got Your Back](https://open.spotify.com/track/7rDleP2IpI5dpyzEcXcAUr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [I Got Your Back](https://open.spotify.com/album/6vw2GCTaDdPhzCvgMRcIjW) | 2:22 |
-| 8 | [Lemon Tang](https://open.spotify.com/track/4vaC50FUEn6H8pPalM6jVA) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/56gdysW7gCIKLKd1zpXpKK) | 2:43 |
-| 9 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 |
-| 10 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
+| 4 | [Surfin' Boy](https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Velvet Summer \- Summer Mini Album](https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr) | 2:48 |
+| 5 | [SWEAT](https://open.spotify.com/track/503e19tHN0QmaraGxAQzt7) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [SWEAT](https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq) | 2:53 |
+| 6 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 |
+| 7 | [LEMONADE \(feat\. Becky G\)](https://open.spotify.com/track/4X0AxVnhlkSd4ggu78Tir1) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB) | 3:07 |
+| 8 | [I Got Your Back](https://open.spotify.com/track/7rDleP2IpI5dpyzEcXcAUr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [I Got Your Back](https://open.spotify.com/album/6vw2GCTaDdPhzCvgMRcIjW) | 2:22 |
+| 9 | [Lemon Tang](https://open.spotify.com/track/4vaC50FUEn6H8pPalM6jVA) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/56gdysW7gCIKLKd1zpXpKK) | 2:43 |
+| 10 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 |
 | 11 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 | 12 | [KISS N TELL](https://open.spotify.com/track/3Fse9qXqMNey4TL5mLy8IF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [KISS N TELL](https://open.spotify.com/album/5pwhf4kv2qX10i6k2uJsFp) | 2:46 |
 | 13 | [LOVE ATTACK](https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 80 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 
-Snapshot ID: `AAAAAINOnx3whENd1m9mtN/sr1/kyj5B`
+Snapshot ID: `AAAAAMPTvUlptxMLFfa+SXqR19RoiL9l`

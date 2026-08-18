@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: مُسلِم
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,712 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,716 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,21 +19,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 9 | [Keda Keda](https://open.spotify.com/track/1svLqzWG6vKf00O8nbtRWO) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Judy Ahmed Saad](https://open.spotify.com/artist/3h2b6sDomoUhwGjvhHROF0) | [Keda Keda](https://open.spotify.com/album/7dJHHdpAT4X6XM40MgjklB) | 3:13 |
 | 10 | [ASHOUFEK TANY](https://open.spotify.com/track/7A4fyvqztBPYJ3YYfiXWJe) | [TAG](https://open.spotify.com/artist/5zLTKFtt1a3Ndt9p9i6Em2), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [ASHOUFEK TANY](https://open.spotify.com/album/7dON93Ih6jJchbNYmMaACq) | 2:53 |
 | 11 | [Getlak](https://open.spotify.com/track/2wBWtiIjpbKjIZGHHi00WY) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Habeitek](https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH) | 3:56 |
-| 12 | [اللي فاتو](https://open.spotify.com/track/3zh3tUG2TFjMIOk2FIUAzy) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [اللي فاتو](https://open.spotify.com/album/3WR8oBq4rQwVN6NqlowIet) | 3:14 |
-| 13 | [Leebat Al Ayam](https://open.spotify.com/track/2xpUFDmcokjBEx8zWDPJv8) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Leebat Al Ayam](https://open.spotify.com/album/32HaLHT6mqvleKQv8LrWYG) | 4:09 |
-| 14 | [Gada3](https://open.spotify.com/track/6jyUmXn5BZp4XpmiEoQhCV) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:50 |
-| 15 | [YA HABIBI](https://open.spotify.com/track/2Vom7CCbPlggBfQhSPGGlm) | [Soulphonic](https://open.spotify.com/artist/3QoLVZNmSNKRsjvrEFWqX9) | [YA HABIBI](https://open.spotify.com/album/2y696nhaFlMkrIA5Z2IZcn) | 2:48 |
-| 16 | [أول ما شوفتك](https://open.spotify.com/track/5WM5jLkz702UO40ptzIbpQ) | [Sara Mahgoub](https://open.spotify.com/artist/6pMTii9BBdgh8mZ7b0nTz6) | [أول ما شوفتك](https://open.spotify.com/album/1rj42ELyRLZysuVxm5YPhT) | 4:56 |
-| 17 | [كل كلام الحب](https://open.spotify.com/track/4pp622Q93BjAtPPgF5PNXN) | [JUNIOR](https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv) | [كل كلام الحب](https://open.spotify.com/album/4sWLdKF5HuuYCKiMGTG4wH) | 3:24 |
-| 18 | [مش مغرورة](https://open.spotify.com/track/0ypyxXgnE2V2QKO4qHv9Th) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [الحب ايه؟](https://open.spotify.com/album/41hx3ANA5kgT974fZRcpww) | 2:23 |
-| 19 | [MITSUBISHI / متسوبيشي](https://open.spotify.com/track/5vKPXdlcP46Jaf8Q6X4haV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [MITSUBISHI / متسوبيشي](https://open.spotify.com/album/04QMt1vLtMIvjuqPibU56o) | 2:34 |
-| 20 | [El Lazaza](https://open.spotify.com/track/7aFoVkwQUxxwhwcRG4eV3i) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [El Lazaza](https://open.spotify.com/album/1dCroOEz97iq3QptK2npvy) | 2:25 |
-| 21 | [Habeitek](https://open.spotify.com/track/6SBni17Jkrxzkc27ufK0Ec) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Habeitek](https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH) | 2:49 |
-| 22 | [Tamanyaty](https://open.spotify.com/track/4c9cPDSlFYCU3k1TLhuzEk) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:16 |
-| 23 | [زعلان](https://open.spotify.com/track/53vI3ZV7BVFclWeDYKfjxR) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [زعلان](https://open.spotify.com/album/1iPwuEKxqGitPHqmvn6zKY) | 4:18 |
-| 24 | [حب الحب](https://open.spotify.com/track/1PA8ZtkmCO3cjlLdd4Scfe) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [حب الحب](https://open.spotify.com/album/4xwpNKYi1MmGOvmiZbOgH4) | 3:35 |
-| 25 | [Garee2a Awy \- A COLORS SHOW](https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Garee2a Awy \- A COLORS SHOW](https://open.spotify.com/album/7MtphxcCsFNj5S9FY6H4d5) | 2:38 |
-| 26 | [Zay El Fol](https://open.spotify.com/track/3VW9yR3VmBwCYaookLhhNx) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Zay El Fol](https://open.spotify.com/album/1LpYeLFdve4nJmUubYDvz2) | 2:57 |
+| 12 | [EKDEB W OUL](https://open.spotify.com/track/160pEuFoT79CDoQf4q4MDv) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1) | [EKDEB W OUL](https://open.spotify.com/album/4ywsfJ6EGEtwg6TjmnY5MS) | 3:22 |
+| 13 | [اللي فاتو](https://open.spotify.com/track/3zh3tUG2TFjMIOk2FIUAzy) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [اللي فاتو](https://open.spotify.com/album/3WR8oBq4rQwVN6NqlowIet) | 3:14 |
+| 14 | [Leebat Al Ayam](https://open.spotify.com/track/2xpUFDmcokjBEx8zWDPJv8) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Leebat Al Ayam](https://open.spotify.com/album/32HaLHT6mqvleKQv8LrWYG) | 4:09 |
+| 15 | [Gada3](https://open.spotify.com/track/6jyUmXn5BZp4XpmiEoQhCV) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:50 |
+| 16 | [YA HABIBI](https://open.spotify.com/track/2Vom7CCbPlggBfQhSPGGlm) | [Soulphonic](https://open.spotify.com/artist/3QoLVZNmSNKRsjvrEFWqX9) | [YA HABIBI](https://open.spotify.com/album/2y696nhaFlMkrIA5Z2IZcn) | 2:48 |
+| 17 | [أول ما شوفتك](https://open.spotify.com/track/5WM5jLkz702UO40ptzIbpQ) | [Sara Mahgoub](https://open.spotify.com/artist/6pMTii9BBdgh8mZ7b0nTz6) | [أول ما شوفتك](https://open.spotify.com/album/1rj42ELyRLZysuVxm5YPhT) | 4:56 |
+| 18 | [كل كلام الحب](https://open.spotify.com/track/4pp622Q93BjAtPPgF5PNXN) | [JUNIOR](https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv) | [كل كلام الحب](https://open.spotify.com/album/4sWLdKF5HuuYCKiMGTG4wH) | 3:24 |
+| 19 | [مش مغرورة](https://open.spotify.com/track/0ypyxXgnE2V2QKO4qHv9Th) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [الحب ايه؟](https://open.spotify.com/album/41hx3ANA5kgT974fZRcpww) | 2:23 |
+| 20 | [MITSUBISHI / متسوبيشي](https://open.spotify.com/track/5vKPXdlcP46Jaf8Q6X4haV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [MITSUBISHI / متسوبيشي](https://open.spotify.com/album/04QMt1vLtMIvjuqPibU56o) | 2:34 |
+| 21 | [El Lazaza](https://open.spotify.com/track/7aFoVkwQUxxwhwcRG4eV3i) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [El Lazaza](https://open.spotify.com/album/1dCroOEz97iq3QptK2npvy) | 2:25 |
+| 22 | [Habeitek](https://open.spotify.com/track/6SBni17Jkrxzkc27ufK0Ec) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Habeitek](https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH) | 2:49 |
+| 23 | [Tamanyaty](https://open.spotify.com/track/4c9cPDSlFYCU3k1TLhuzEk) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:16 |
+| 24 | [زعلان](https://open.spotify.com/track/53vI3ZV7BVFclWeDYKfjxR) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [زعلان](https://open.spotify.com/album/1iPwuEKxqGitPHqmvn6zKY) | 4:18 |
+| 25 | [حب الحب](https://open.spotify.com/track/1PA8ZtkmCO3cjlLdd4Scfe) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [حب الحب](https://open.spotify.com/album/4xwpNKYi1MmGOvmiZbOgH4) | 3:35 |
+| 26 | [Garee2a Awy \- A COLORS SHOW](https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Garee2a Awy \- A COLORS SHOW](https://open.spotify.com/album/7MtphxcCsFNj5S9FY6H4d5) | 2:38 |
 | 27 | [LAHZA](https://open.spotify.com/track/4MCsxt5TCplI1UdojaOv3D) | [Nourine](https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K), [ALI DAHAB](https://open.spotify.com/artist/7nCxy06UepNDg37SsHVVnX) | [LAHZA](https://open.spotify.com/album/5AXnAWPE3aTfwxhWNmjs6X) | 2:02 |
 | 28 | [Subeh Wleil](https://open.spotify.com/track/4jklijPtfB2bWPsfGjC4TO) | [Manos](https://open.spotify.com/artist/25ujNYEb1uz1lja1YZJ9Gg) | [Subeh Wleil](https://open.spotify.com/album/5ZdsuCpAGvAvZUeHfNimej) | 2:24 |
 | 29 | [دي علامه](https://open.spotify.com/track/2LLJLDbjO97VZm01wPylYT) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [دي علامه](https://open.spotify.com/album/0LclRHLMrup7WnUiZ4ynyT) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 49 | [Aalo Anni Eih](https://open.spotify.com/track/5wWNCy79noqVF1Q7bYGme2) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Aalo Anni Eih](https://open.spotify.com/album/1FgIBotuC2fN2XktxG2LW2) | 5:00 |
 | 50 | [Wasalt Ma3ak](https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [THE SORROWS ALBUM](https://open.spotify.com/album/7gSawX3Lw4xbpFUj8ZRtiN) | 4:42 |
 
-Snapshot ID: `AAAAACtbgUfKZ5muLcVlihk/1IXOA40d`
+Snapshot ID: `AAAAALPHYb/GbyyPzA+H5/JX4sfy4xwV`

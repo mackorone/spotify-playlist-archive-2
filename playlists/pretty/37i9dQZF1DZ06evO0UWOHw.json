@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 18493,
+  "num_followers": 18525,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABvvDQV2PXb3U5LvfZLH9DC",
+  "snapshot_id": "aoD9gAAAAACtFkXZNcsgUYegaydCYaD8",
   "tracks": [
     {
       "added_at": null,
@@ -748,29 +748,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 174452,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bother Me (feat. Victony)",
-        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "Bother Me (feat. Victony)",
-      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
+      "duration_ms": 144592,
+      "name": "Gangsta Cry",
+      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
       "duration_ms": 193250,
       "name": "Like2 - Part II (with Skillibeng & Victony)",
       "url": "https://open.spotify.com/track/2nNenfkc5uv1b9zkLZ5rOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bother Me (feat. Victony)",
+        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "Bother Me (feat. Victony)",
+      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 144592,
-      "name": "Gangsta Cry",
-      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
+      "duration_ms": 174452,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
     },
     {
       "added_at": null,

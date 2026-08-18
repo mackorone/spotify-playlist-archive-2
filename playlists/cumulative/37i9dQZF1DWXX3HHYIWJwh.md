@@ -4,7 +4,7 @@
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-359 songs - 18 hr 5 min
+360 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 | 2024-12-12 | 2025-01-28 |
 | [Hollow](https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT) | 3:29 | 2025-06-12 | 2025-10-03 |
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-28 | 2025-06-13 |
+| [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 | 2026-08-14 |  |
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-20 | 2026-01-03 |
 | [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 | 2025-07-10 | 2025-10-03 |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-06-20 | 2025-07-11 |
@@ -196,7 +197,7 @@
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-05-24 | 2024-09-06 |
 | [MEOW](https://open.spotify.com/track/5LlUJ3HHI2dS0xowdMDXC5) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/5TLTBK7AZVvOkv8FvAn7le) | 2:52 | 2024-09-05 | 2024-11-29 |
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-22 | 2025-01-24 |
-| [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 | 2024-04-22 |  |
+| [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 | 2024-04-22 | 2026-08-18 |
 | [Midnight Sun](https://open.spotify.com/track/6q2YSturdfEzMpoUR5gq0R) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Midnight Sun](https://open.spotify.com/album/4JXdBmsjMFifrVQK8pu2rw) | 3:46 | 2026-01-22 | 2026-02-25 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-16 | 2024-09-20 |
 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-15 | 2025-09-19 |

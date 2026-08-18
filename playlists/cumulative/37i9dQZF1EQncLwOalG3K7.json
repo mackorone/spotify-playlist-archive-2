@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIYCDsUXTBScY>Michael Jackson</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWDgnPLtGtHW>Sean Paul</a>, <a href=spotify:playlist:37i9dQZF1EIXya8JbQtUVN>Gracie Abrams</a>, <a href=spotify:playlist:37i9dQZF1EIZAFAJb8SmrK>PinkPantheress</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 243880,
       "name": "(When You Gonna) Give It Up to Me - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 231013,
       "name": "Animals",
       "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
@@ -4070,7 +4070,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
@@ -4450,7 +4450,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-06",
+      "date_removed": null,
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
@@ -4878,7 +4878,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -5048,7 +5048,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 231173,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
@@ -5966,7 +5966,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
@@ -6508,7 +6508,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -6544,7 +6544,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"

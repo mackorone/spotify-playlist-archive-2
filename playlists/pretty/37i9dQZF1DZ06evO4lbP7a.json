@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 50260,
+  "num_followers": 50258,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAPpPYE4fcFf6AIUi3Q3x/I",
+  "snapshot_id": "aoD9gAAAAACisuguhgnUZmzCiu6vBnw/",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "slash",
+        "url": "https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 238833,
+      "name": "slash",
+      "url": "https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BURN",
         "url": "https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 136566,
       "name": "BURN",
       "url": "https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "slash",
-        "url": "https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 238833,
-      "name": "slash",
-      "url": "https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u4e00\u5bf8\u306e\u8d64",
-        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 231673,
-      "name": "\u4e00\u5bf8\u306e\u8d64",
-      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "; semicolon",
         "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
       },
@@ -695,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the meaning of life",
-        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+        "name": "\u4e00\u5bf8\u306e\u8d64",
+        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 274800,
-      "name": "\u5e0c\u671b\u8ad6",
-      "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
+      "duration_ms": 231673,
+      "name": "\u4e00\u5bf8\u306e\u8d64",
+      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the meaning of life",
+        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Sleepless Night",
+      "url": "https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
         "url": "https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 178000,
       "name": "shadow dance",
       "url": "https://open.spotify.com/track/1tyfDn2VPRvh336veB1ajh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
     },
     {
       "added_at": null,
@@ -768,15 +784,15 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 258866,
-      "name": "Sleepless Night",
-      "url": "https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G"
+      "duration_ms": 274800,
+      "name": "\u5e0c\u671b\u8ad6",
+      "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
     },
     {
       "added_at": null,
       "album": {
-        "name": "C.U.T - Studio Live -",
-        "url": "https://open.spotify.com/album/1IjFa85KpUrBEnnYPPKuGX"
+        "name": "\u58f0\u660e",
+        "url": "https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F"
       },
       "artists": [
         {
@@ -784,25 +800,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 189700,
-      "name": "UPSIDE DOWN - Studio Live -",
-      "url": "https://open.spotify.com/track/6HtgBBcdUjcuuEipDTD28K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Film",
-      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
+      "duration_ms": 215700,
+      "name": "\u58f0\u660e",
+      "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u58f0\u660e",
-        "url": "https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F"
+        "name": "C.U.T - Studio Live -",
+        "url": "https://open.spotify.com/album/1IjFa85KpUrBEnnYPPKuGX"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 215700,
-      "name": "\u58f0\u660e",
-      "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
+      "duration_ms": 189700,
+      "name": "UPSIDE DOWN - Studio Live -",
+      "url": "https://open.spotify.com/track/6HtgBBcdUjcuuEipDTD28K"
     },
     {
       "added_at": null,

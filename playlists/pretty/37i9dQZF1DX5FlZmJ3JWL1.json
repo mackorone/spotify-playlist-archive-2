@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 772331,
+  "num_followers": 772337,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,30 @@
     {
       "added_at": "2026-08-14 06:10:35",
       "album": {
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "added_at": "2026-08-14 06:10:35",
+      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -203,30 +227,6 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
-    },
-    {
-      "added_at": "2026-08-14 06:10:35",
-      "album": {
-        "name": "Boyz In Paris (with VINAI)",
-        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
-      },
-      "artists": [
-        {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 151589,
-      "name": "Boyz In Paris (with VINAI)",
-      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
     },
     {
       "added_at": "2026-08-14 06:10:35",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-08-14 06:10:35",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2026-08-14 06:10:35",
+      "album": {
         "name": "A New Day (feat. Celine Dion)",
         "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2026-08-14 06:10:35",
       "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
-    },
-    {
-      "added_at": "2026-08-14 06:10:35",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
       },
@@ -639,6 +639,26 @@
       "duration_ms": 236068,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
+    },
+    {
+      "added_at": "2026-08-14 06:10:35",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/5oB1a3IpezAWEtn35xEfok"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 157593,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91"
     },
     {
       "added_at": "2026-08-14 06:10:35",
@@ -683,26 +703,6 @@
       "duration_ms": 94344,
       "name": "tell you straight - Sped Up",
       "url": "https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"
-    },
-    {
-      "added_at": "2026-08-14 06:10:35",
-      "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/5oB1a3IpezAWEtn35xEfok"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 157593,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91"
     },
     {
       "added_at": "2026-08-14 06:10:35",
@@ -807,30 +807,6 @@
     {
       "added_at": "2026-08-14 06:10:35",
       "album": {
-        "name": "Turn The Tide (ft. Sylver)",
-        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
-        },
-        {
-          "name": "Pat B",
-          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
-        }
-      ],
-      "duration_ms": 135483,
-      "name": "Turn The Tide (ft. Sylver)",
-      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
-    },
-    {
-      "added_at": "2026-08-14 06:10:35",
-      "album": {
         "name": "Freak (Tricky Disco)",
         "url": "https://open.spotify.com/album/0HJh7Y7CtV8N9fnsT3gWWu"
       },
@@ -855,6 +831,26 @@
     {
       "added_at": "2026-08-14 06:10:35",
       "album": {
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
+    },
+    {
+      "added_at": "2026-08-14 06:10:35",
+      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -875,22 +871,26 @@
     {
       "added_at": "2026-08-14 06:10:35",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
+        "name": "Turn The Tide (ft. Sylver)",
+        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
         }
       ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
+      "duration_ms": 135483,
+      "name": "Turn The Tide (ft. Sylver)",
+      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
     },
     {
       "added_at": "2026-08-14 06:10:35",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-08-14 06:10:35",
       "album": {
-        "name": "It's My Life (Techno Remix)",
-        "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
-      },
-      "artists": [
-        {
-          "name": "Nic Johnston",
-          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
-        },
-        {
-          "name": "Jawny Sparklez",
-          "url": "https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "It's My Life - Techno Remix",
-      "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
-    },
-    {
-      "added_at": "2026-08-14 06:10:35",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
       },
@@ -979,22 +959,22 @@
     {
       "added_at": "2026-08-14 06:10:35",
       "album": {
-        "name": "Get Ur Freak On",
-        "url": "https://open.spotify.com/album/2kMhcYHEV94Q4iUmbhg5Mx"
+        "name": "It's My Life (Techno Remix)",
+        "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
       },
       "artists": [
         {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+          "name": "Nic Johnston",
+          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
         },
         {
-          "name": "Para\u00e7ek",
-          "url": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1"
+          "name": "Jawny Sparklez",
+          "url": "https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi"
         }
       ],
-      "duration_ms": 124203,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/5YqUFD4Nx1g6bNQJLjwVaz"
+      "duration_ms": 174545,
+      "name": "It's My Life - Techno Remix",
+      "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
     },
     {
       "added_at": "2026-08-14 06:10:35",
@@ -1055,6 +1035,26 @@
       "duration_ms": 129412,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
+    },
+    {
+      "added_at": "2026-08-14 06:10:35",
+      "album": {
+        "name": "Get Ur Freak On",
+        "url": "https://open.spotify.com/album/2kMhcYHEV94Q4iUmbhg5Mx"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        },
+        {
+          "name": "Para\u00e7ek",
+          "url": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1"
+        }
+      ],
+      "duration_ms": 124203,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/5YqUFD4Nx1g6bNQJLjwVaz"
     }
   ],
   "unique_name": "Fit Beats ",

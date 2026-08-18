@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 239156,
+  "num_followers": 239174,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACqHlw9nwguiOkSQci05i8l",
+  "snapshot_id": "aoD9gAAAAABlfgWx6DsaeCKzGmDBblmX",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 156908,
-      "name": "Malditas Ganas",
-      "url": "https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j"
+      "duration_ms": 187834,
+      "name": "El Papel Cambio",
+      "url": "https://open.spotify.com/track/1zLMW29lIROfh3Hq6ZvHCs"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 187834,
-      "name": "El Papel Cambio",
-      "url": "https://open.spotify.com/track/1zLMW29lIROfh3Hq6ZvHCs"
+      "duration_ms": 156908,
+      "name": "Malditas Ganas",
+      "url": "https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j"
     },
     {
       "added_at": null,
@@ -199,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
       },
       "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
+      "duration_ms": 168653,
+      "name": "Qu\u00e9 Tiene De Malo",
+      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
     },
     {
       "added_at": null,
@@ -231,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 168653,
-      "name": "Qu\u00e9 Tiene De Malo",
-      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 232881,
-      "name": "La Mafia Se Sienta En La Mesa",
-      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
+      "duration_ms": 146360,
+      "name": "Mafia Nueva",
+      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 232881,
+      "name": "La Mafia Se Sienta En La Mesa",
+      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -556,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Mafia Nueva",
-      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
+      "duration_ms": 137200,
+      "name": "El Corrido del Viejon",
+      "url": "https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Me Quiero Mas",
-        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "Yo Me Quiero Mas",
-      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Yo Me Quiero Mas",
+        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 137200,
-      "name": "El Corrido del Viejon",
-      "url": "https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD"
+      "duration_ms": 190129,
+      "name": "Yo Me Quiero Mas",
+      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 117560,
-      "name": "Nom\u00e1s Por Ser Sinaloense",
-      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -691,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Quitaron la Vida a mi Padre",
-        "url": "https://open.spotify.com/album/4YA2RajdZVcFnrg2VQykF7"
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
       "artists": [
         {
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 162661,
-      "name": "Le Quitaron la Vida a mi Padre",
-      "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
+      "duration_ms": 117560,
+      "name": "Nom\u00e1s Por Ser Sinaloense",
+      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
       "duration_ms": 152032,
       "name": "Recordando a Michoacan",
       "url": "https://open.spotify.com/track/3YRuSPcawwlpF4YcYtyClC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Quitaron la Vida a mi Padre",
+        "url": "https://open.spotify.com/album/4YA2RajdZVcFnrg2VQykF7"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 162661,
+      "name": "Le Quitaron la Vida a mi Padre",
+      "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
     },
     {
       "added_at": null,

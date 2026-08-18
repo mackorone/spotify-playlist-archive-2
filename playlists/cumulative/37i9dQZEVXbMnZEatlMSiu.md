@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,728 songs - 4 day 4 hr 26 min
+1,729 songs - 4 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,7 +842,7 @@
 | [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 | 2025-01-15 | 2025-01-25 |
 | [See that?](https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:02 | 2024-08-21 | 2024-08-26 |
 | [Seh Ah Seh](https://open.spotify.com/track/57sjJwJK8yltKdfR6HwlMu) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:25 | 2021-08-24 | 2021-08-27 |
-| [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 | 2026-08-15 | 2026-08-17 |
+| [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 | 2026-08-15 |  |
 | [SET ME FREE](https://open.spotify.com/track/1Zr1SoGePJ3iKKakmmZaMR) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7MSkU2pVl6Z3QxDNMJUn1T) | 3:01 | 2023-03-12 | 2023-03-25 |
 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-11 | 2023-03-13 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2024-06-20 |
@@ -1076,9 +1076,10 @@
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2024-09-08 | 2024-09-17 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-02 | 2022-05-02 |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-31 | 2024-02-21 |
-| [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 | 2024-10-22 |  |
+| [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 | 2024-10-22 | 2026-08-18 |
 | [Whiplash](https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:03 | 2024-11-01 | 2026-05-31 |
 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 | 2024-10-23 | 2026-03-15 |
+| [Whiplash \(English Version\)](https://open.spotify.com/track/4YHeXM7mgLvxpvaUGnybGK) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \(English Version\)](https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er) | 3:03 | 2026-08-17 |  |
 | [White Christmas \(Instrumental\)](https://open.spotify.com/track/3dUGPFdfFLueBtG4qyz67t) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas \(Instrumental\)](https://open.spotify.com/album/373Mef5nnU4jKUWntSY1lq) | 2:53 | 2024-12-13 | 2024-12-15 |
 | [White Christmas \(with V of BTS\)](https://open.spotify.com/track/7134tEHq45eL6am9oVazZU) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas \(with V of BTS\)](https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L) | 2:53 | 2024-12-07 | 2025-12-30 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-20 |  |
@@ -1673,7 +1674,7 @@
 | [這世界那麼多人 \- 電影《我要我們在一起》主題曲](https://open.spotify.com/track/7uupMVckq9ta7ei9ghX8q0) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [這世界那麼多人 \(電影《我要我們在一起》主題曲\)](https://open.spotify.com/album/5FnNKdAIdmlLIabRoAuL90) | 4:45 | 2021-05-14 | 2021-05-21 |
 | [這麼多年](https://open.spotify.com/track/4kmr3vOJq52QS7WUh3aRyc) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [在極度愛你的日子裡](https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt) | 4:12 | 2024-11-09 | 2025-02-15 |
 | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/album/2FNcaYMCTEtkEOugvt8PtG) | 4:12 | 2024-06-13 | 2024-11-10 |
-| [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 | 2025-11-14 |  |
+| [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 | 2025-11-14 | 2026-08-18 |
 | [連名帶姓](https://open.spotify.com/track/4a5FvWpFaCs3YOzEnnpgR0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 5:33 | 2024-12-30 | 2025-01-04 |
 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 | 2023-01-17 | 2026-08-13 |
 | [運轉人生 \- 影集《華麗計程車行》插曲](https://open.spotify.com/track/30slz6D2PtbwDimGJaEVsH) | [邱軍](https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW) | [情歌手](https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5) | 3:28 | 2024-05-22 | 2025-02-26 |

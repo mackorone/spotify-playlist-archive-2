@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 189547,
       "name": "Blues The World Forgot: Part 1",
       "url": "https://open.spotify.com/track/0Z6wPvrJQ26dQDlQU5EkhO"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 198146,
       "name": "Cell Bound Blues",
       "url": "https://open.spotify.com/track/2MkggW4t6Qnrru5H6RZr4u"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 187013,
       "name": "Down in the Basement",
       "url": "https://open.spotify.com/track/6W2lAYG8V3vQaKwMDG8BbG"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 165744,
       "name": "Dream Blues",
       "url": "https://open.spotify.com/track/7aj4OzROMRSbop2hvsfiqS"
@@ -3520,7 +3520,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 181106,
       "name": "Night Time Blues",
       "url": "https://open.spotify.com/track/1LAlTTH6AEK8zcL6WZAbCU"
@@ -3816,6 +3816,24 @@
       "duration_ms": 170199,
       "name": "Peddlin' Man",
       "url": "https://open.spotify.com/track/1Bjqeypa6LWnZFgJIPhXLO"
+    },
+    {
+      "album": {
+        "name": "Selections from Mother Of The Blues: The Complete Paramount Recordings 1923-1928",
+        "url": "https://open.spotify.com/album/15Fbfc13QGUNtAKkPX482R"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156908,
+      "name": "Prove It On Me (Matrix 20665-2)",
+      "url": "https://open.spotify.com/track/48coh3CJJ9k9OVzT3sahgW"
     },
     {
       "album": {

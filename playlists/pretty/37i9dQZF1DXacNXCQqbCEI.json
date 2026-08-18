@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 341719,
+  "num_followers": 341700,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+        "name": "Versus (EP)",
+        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
       "artists": [
         {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+          "name": "Palenke Soultribe",
+          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
         }
       ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+      "duration_ms": 266213,
+      "name": "El Makako",
+      "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -371,18 +367,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Versus (EP)",
-        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
       "artists": [
         {
-          "name": "Palenke Soultribe",
-          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
         }
       ],
-      "duration_ms": 266213,
-      "name": "El Makako",
-      "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Dub de Gaita",
+        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
+      },
+      "artists": [
+        {
+          "name": "Los Gaiteros de San Jacinto",
+          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
+      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Dub de Gaita",
-        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
-      },
-      "artists": [
-        {
-          "name": "Los Gaiteros de San Jacinto",
-          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
-      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "El Corredor Del Jaguar",
+        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Frio Severo",
+      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Remixeado a Lo Bien",
         "url": "https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Corredor Del Jaguar",
-        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Frio Severo",
-      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Siesta",
         "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
       },
@@ -855,6 +855,26 @@
       "duration_ms": 233739,
       "name": "Kalimba Nara",
       "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Trending Tropics",
+        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
+      },
+      "artists": [
+        {
+          "name": "Trending Tropics",
+          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 189430,
+      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
+      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -883,26 +903,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Trending Tropics",
-        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
-      },
-      "artists": [
-        {
-          "name": "Trending Tropics",
-          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 189430,
-      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
-      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Purna Mantra",
         "url": "https://open.spotify.com/album/1lifFdcLgIs13FWXsjKHDp"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 179634,
-      "name": "La Corriente",
-      "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Antares",
         "url": "https://open.spotify.com/album/4vgoQuq5sAPGOsHzlPCmaa"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 295605,
       "name": "Antares",
       "url": "https://open.spotify.com/track/5AtSxyPK3zcij0QjqvcmbE"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 179634,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 221298,
+      "name": "Austral",
+      "url": "https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "La A\u00f1oranza",
         "url": "https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 223207,
       "name": "La A\u00f1oranza - Original Version",
       "url": "https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
-      },
-      "artists": [
-        {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
-        }
-      ],
-      "duration_ms": 221298,
-      "name": "Austral",
-      "url": "https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B"
     },
     {
       "added_at": "2024-07-12 22:50:04",

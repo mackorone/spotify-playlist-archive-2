@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Genezio",
-  "num_followers": 23201,
+  "num_followers": 23225,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
+        "name": "Insolent",
+        "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
+      },
+      "artists": [
+        {
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
+        }
+      ],
+      "duration_ms": 262557,
+      "name": "Le Bon Samaritain",
+      "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
         "name": "BYAKUGAN",
         "url": "https://open.spotify.com/album/6HQt23uDVxzyucxDtqRSKI"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 205000,
       "name": "Savage",
       "url": "https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
-        "name": "Insolent",
-        "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
-      },
-      "artists": [
-        {
-          "name": "Mous-K",
-          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
-        }
-      ],
-      "duration_ms": 262557,
-      "name": "Le Bon Samaritain",
-      "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
     },
     {
       "added_at": "2026-08-14 04:03:21",
@@ -727,30 +727,6 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
-        "name": "FBI",
-        "url": "https://open.spotify.com/album/5yLNMwHht3aCEhDws0kWqB"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Play to Sky",
-          "url": "https://open.spotify.com/artist/5s3gS6C41Im37sn8Lh1DzW"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "FBI",
-      "url": "https://open.spotify.com/track/25LmqV3caGgXzyQqmCRYAz"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
         "name": "Pow Pow / Allo Doudou",
         "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 219583,
       "name": "Pow Pow / Allo Doudou",
       "url": "https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
+        "name": "FBI",
+        "url": "https://open.spotify.com/album/5yLNMwHht3aCEhDws0kWqB"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Play to Sky",
+          "url": "https://open.spotify.com/artist/5s3gS6C41Im37sn8Lh1DzW"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "FBI",
+      "url": "https://open.spotify.com/track/25LmqV3caGgXzyQqmCRYAz"
     },
     {
       "added_at": "2026-08-14 04:03:21",
@@ -947,38 +947,6 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
-        "name": "CH\u00c8VRE GOAT NTABA (GRM x yard)",
-        "url": "https://open.spotify.com/album/5RrVVBQd9Jle9ym3nw9yb3"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "CH\u00c8VRE GOAT NTABA - GRM x yard",
-      "url": "https://open.spotify.com/track/16MJYG3Bcljvh1Qm8prgyq"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 138247,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
         "name": "Allo Doudou",
         "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
       },
@@ -1023,6 +991,38 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
+        "name": "CH\u00c8VRE GOAT NTABA (GRM x yard)",
+        "url": "https://open.spotify.com/album/5RrVVBQd9Jle9ym3nw9yb3"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "CH\u00c8VRE GOAT NTABA - GRM x yard",
+      "url": "https://open.spotify.com/track/16MJYG3Bcljvh1Qm8prgyq"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 138247,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
         "name": "BEAUX GAR\u00c7ONS",
         "url": "https://open.spotify.com/album/5rstd8cBg9dbCzEpS2KxQw"
       },
@@ -1039,6 +1039,26 @@
       "duration_ms": 149120,
       "name": "BEAUX GAR\u00c7ONS",
       "url": "https://open.spotify.com/track/3Y0ZQODxCHm18NqJKaHrB5"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
+        "name": "En Attendant Int\u00e9gral 3",
+        "url": "https://open.spotify.com/album/3D0awOGU1eDPH0tTA21227"
+      },
+      "artists": [
+        {
+          "name": "Nahir",
+          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 166235,
+      "name": "Chocolat",
+      "url": "https://open.spotify.com/track/0FIaZBj6LZBC1e9iIFOhcD"
     },
     {
       "added_at": "2026-08-14 04:03:21",
@@ -1071,26 +1091,6 @@
       "duration_ms": 226666,
       "name": "MURDER #4",
       "url": "https://open.spotify.com/track/1XoMvAcsQprKifICAMmae3"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
-        "name": "En Attendant Int\u00e9gral 3",
-        "url": "https://open.spotify.com/album/3D0awOGU1eDPH0tTA21227"
-      },
-      "artists": [
-        {
-          "name": "Nahir",
-          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
-        },
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 166235,
-      "name": "Chocolat",
-      "url": "https://open.spotify.com/track/0FIaZBj6LZBC1e9iIFOhcD"
     },
     {
       "added_at": "2026-08-14 04:03:21",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/2jk1Dj2vqDnYXkNTS2qU0S"
+      },
+      "artists": [
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
+        },
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 160542,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5snMfEYZCwQBGsqlpB6cis"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
         "name": "Insolent",
         "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
       },
@@ -1187,6 +1207,22 @@
       "duration_ms": 174135,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/73ze5SmdVM4nzTtp9O37Jf"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
+        "name": "The cat",
+        "url": "https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "TENTATION",
+      "url": "https://open.spotify.com/track/4WqDVE0ilxE71vNeRJkirk"
     },
     {
       "added_at": "2026-08-14 04:03:21",
@@ -1211,22 +1247,6 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
-        "name": "The cat",
-        "url": "https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "TENTATION",
-      "url": "https://open.spotify.com/track/4WqDVE0ilxE71vNeRJkirk"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
         "name": "23 JPT EXTENDO +",
         "url": "https://open.spotify.com/album/3njbmPv3VW1wfBv5MrojCY"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 212636,
       "name": "FOKONKITTELEBANDO (feat. Josman)",
       "url": "https://open.spotify.com/track/2uXytsE3x3BIDHKmGQERNM"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/2jk1Dj2vqDnYXkNTS2qU0S"
-      },
-      "artists": [
-        {
-          "name": "ZEG P",
-          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
-        },
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 160542,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/5snMfEYZCwQBGsqlpB6cis"
     },
     {
       "added_at": "2026-08-14 04:03:21",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
-        "name": "FYL",
-        "url": "https://open.spotify.com/album/5qFTEABkPuMuy5pfmXpshM"
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/0KlUKaSSx57e4ealwtsNTp"
       },
       "artists": [
         {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
         }
       ],
-      "duration_ms": 135931,
-      "name": "FYL",
-      "url": "https://open.spotify.com/track/7FetoUd1SoaTlagkGND9QN"
+      "duration_ms": 142153,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/0WgP5mMrAcsntAw9pilJ5N"
     },
     {
       "added_at": "2026-08-14 04:03:21",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
-        "name": "\u00c0 la base",
-        "url": "https://open.spotify.com/album/5OPIWUXLwNq1rhYv9129qe"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 131578,
-      "name": "\u00c0 la base",
-      "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
         "name": "\u00c9CLAT BRUT",
         "url": "https://open.spotify.com/album/1aCcSNPPkxx5QXyt3rx92B"
       },
@@ -1379,18 +1359,38 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/0KlUKaSSx57e4ealwtsNTp"
+        "name": "FYL",
+        "url": "https://open.spotify.com/album/5qFTEABkPuMuy5pfmXpshM"
       },
       "artists": [
         {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
         }
       ],
-      "duration_ms": 142153,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/0WgP5mMrAcsntAw9pilJ5N"
+      "duration_ms": 135931,
+      "name": "FYL",
+      "url": "https://open.spotify.com/track/7FetoUd1SoaTlagkGND9QN"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
+        "name": "\u00c0 la base",
+        "url": "https://open.spotify.com/album/5OPIWUXLwNq1rhYv9129qe"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 131578,
+      "name": "\u00c0 la base",
+      "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"
     },
     {
       "added_at": "2026-08-14 04:03:21",

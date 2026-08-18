@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-339 songs - 19 hr 3 min
+340 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 | 2022-04-01 | 2022-04-20 |
 | [Asas](https://open.spotify.com/track/1lmcHmrnwCl21OcPRY3ZVb) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 4:34 | 2022-04-01 | 2022-04-20 |
 | [Até Outro Dia Amor](https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Até Outro Dia Amor](https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z) | 3:28 | 2026-08-14 |  |
-| [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 | 2025-07-18 |  |
+| [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 | 2025-07-18 | 2026-08-18 |
 | [Azul Piscina](https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Azul Piscina](https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW) | 3:19 | 2026-05-29 |  |
 | [Bahia](https://open.spotify.com/track/1aPcMCHhZKe7Q01We5t95u) | [Victor Cali](https://open.spotify.com/artist/2ZWCKKr8IDfkWL54yTLBVt) | [Bahia](https://open.spotify.com/album/3N0W10HmqZgRGSh7McYWCg) | 2:09 | 2025-02-07 | 2025-02-22 |
 | [Baiana](https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:53 | 2022-04-01 |  |
@@ -245,6 +245,7 @@
 | [Poeta](https://open.spotify.com/track/36Q1ny8Cn49aCcapMYZFO5) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Sessions \- Deb Ribeiro](https://open.spotify.com/album/5eJqY1VFQE7z7BsVKm1yOC) | 3:13 | 2022-04-01 | 2022-04-21 |
 | [Por Causa de Você](https://open.spotify.com/track/3N9TzvYRK1yNIE8yJc41Y9) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv), [Bia Siqueira](https://open.spotify.com/artist/5X5jyBjFtdl9vwBd6bEIqI), [Breno Duarte](https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG) | [Por Causa de Você](https://open.spotify.com/album/3ouwXPloR4FWOYb2b5fKA5) | 2:31 | 2025-12-05 |  |
 | [Por Que Não](https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA) | [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Por Que Não](https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA) | 3:05 | 2024-03-29 | 2026-04-08 |
+| [Por Você \- Sozinho e Bem Acompanhado](https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Sozinho e Bem Acompanhado](https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto) | 3:26 | 2026-08-14 |  |
 | [Pouca Bobagem](https://open.spotify.com/track/6HuTblOraBoMTQ6BCbLgiX) | [Dani Cruz](https://open.spotify.com/artist/0A1Etysucm5HMKnMG3ygrr), [Carol Porto](https://open.spotify.com/artist/7k2Nsq0KcaursuxcNcZis1), [Daniela Fernandes](https://open.spotify.com/artist/5G4w6QaAI9ARRHaPB3LJnJ) | [Pouca Bobagem](https://open.spotify.com/album/0ZCtDkmyUzI6rEqowlSwEq) | 3:05 | 2024-09-27 | 2024-10-19 |
 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 | 2022-02-18 |  |
 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3JsF6aWPsSUaGsGOq6kqAG) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Pra Você Guardei o Amor](https://open.spotify.com/album/7qOUwMmQjLBCzKYQszzNBT) | 4:34 | 2026-05-29 |  |

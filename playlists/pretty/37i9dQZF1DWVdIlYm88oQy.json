@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 70s! Cover: Julio Iglesias",
-  "num_followers": 99226,
+  "num_followers": 99260,
   "original_name": "Los 70s",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
+        "name": "Un Gato En La Oscuridad",
+        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "Detalles (Detalhes)",
+      "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
         "name": "Una Dimensi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "Un Gato En La Oscuridad",
-        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "Detalles (Detalhes)",
-      "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "15 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 401880,
       "name": "Pl\u00e1stico",
       "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "15 Exitos De Oro",
+        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Fruko el Grande",
-        "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Wilson \"Saoko\" Manyoma",
-          "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "El Preso",
-      "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 211400,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Fruko el Grande",
+        "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Wilson \"Saoko\" Manyoma",
+          "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "El Preso",
+      "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Confesiones De Invierno",
-        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
       },
       "artists": [
         {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 245333,
-      "name": "Confesiones de Invierno",
-      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
+      "duration_ms": 231146,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/3zurIMqOVQiriB1oJlZxA8"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+        "name": "Confesiones De Invierno",
+        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
         }
       ],
-      "duration_ms": 231146,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/3zurIMqOVQiriB1oJlZxA8"
+      "duration_ms": 245333,
+      "name": "Confesiones de Invierno",
+      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Confesiones De Invierno",
-        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
       },
       "artists": [
         {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 191226,
-      "name": "Rasgu\u00f1a las Piedras",
-      "url": "https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78"
+      "duration_ms": 207453,
+      "name": "Por un Amor",
+      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+        "name": "Confesiones De Invierno",
+        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
         }
       ],
-      "duration_ms": 207453,
-      "name": "Por un Amor",
-      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
+      "duration_ms": 191226,
+      "name": "Rasgu\u00f1a las Piedras",
+      "url": "https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -771,6 +771,22 @@
       "duration_ms": 235906,
       "name": "Ma\u00f1ana Te Acordaras",
       "url": "https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -811,22 +827,6 @@
       "duration_ms": 183954,
       "name": "Lucia",
       "url": "https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
     },
     {
       "added_at": "2024-04-24 22:48:02",

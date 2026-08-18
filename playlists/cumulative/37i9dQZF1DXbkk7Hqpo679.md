@@ -4,7 +4,7 @@
 
 > Allerbeste songs van de 70's! Cover: The Cats
 
-80 songs - 5 hr 5 min
+81 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Paloma Blanca](https://open.spotify.com/track/37dPgiT3cY5XFbG3Ldq7zv) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [Single Hit Collection](https://open.spotify.com/album/1WHUdNqPAXVp3jhT9CiSdg) | 3:27 | 2024-08-28 |  |
 | [Piano Man](https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) | 5:39 | 2024-08-28 |  |
 | [Radar Love \- Original Single Edit 1973](https://open.spotify.com/track/1Wmuc11xACBpOpni7ECC45) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Radar Love](https://open.spotify.com/album/4iYSIgIX4pPrVMQzyeJ7Fb) | 3:43 | 2024-08-28 |  |
+| [Radio](https://open.spotify.com/track/160qoYXSJJrPkZshBN62bD) | [Dolly Dots](https://open.spotify.com/artist/7jQDCbxYM9t8bLCd2n8ONI) | [Dolly Dots \- Love Me Just A Little Bit More / Greatest Hits \(IA EP Bundle\)](https://open.spotify.com/album/2dq9BhPNbsIayQM7Rv3IcX) | 3:08 | 2024-08-28 |  |
 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 | 2024-08-28 |  |
 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 | 2024-08-28 |  |
 | [Rock the Boat](https://open.spotify.com/track/0w4s0d8Qtu0K8dyMcB2tw1) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Rockin' Soul](https://open.spotify.com/album/6HIHjj9rn4F3oZzqeD3YI6) | 3:08 | 2024-08-28 |  |
@@ -83,7 +84,7 @@
 | [Who's That Lady With My Man](https://open.spotify.com/track/1BQ1iEiTtOVxWc2MAVSDS8) | [Patricia Paay](https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd) | [Hollands Glorie](https://open.spotify.com/album/4yZEdbhWjZILUaSex1Dis3) | 3:11 | 2024-08-28 |  |
 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 | 2024-08-28 |  |
 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2024-08-28 |  |
-| [YMCA \- Original Version 1978](https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [YMCA](https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE) | 4:46 | 2024-08-28 |  |
+| [YMCA \- Original Version 1978](https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [YMCA](https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE) | 4:46 | 2024-08-28 | 2026-08-18 |
 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 | 2024-08-28 |  |
 | [You Should Be Dancing](https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Children Of The World](https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY) | 4:16 | 2024-08-28 |  |
 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2024-08-28 |  |

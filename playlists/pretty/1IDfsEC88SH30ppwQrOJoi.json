@@ -1,13 +1,29 @@
 {
   "description": "High energy, club songs from around the world. ",
-  "num_followers": 14051,
+  "num_followers": 14050,
   "original_name": "NYE Party Vibes",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAALDU8y5dCAmkJZF8rI+AcxqitQWFPr",
+  "snapshot_id": "AAALD+itkTi0ZYaXlEA7QRhX+okC6Dd8",
   "tracks": [
+    {
+      "added_at": "2026-08-17 11:36:22",
+      "album": {
+        "name": "I Don't Think I Can Stop",
+        "url": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 226874,
+      "name": "Body Shake",
+      "url": "https://open.spotify.com/track/3oToDCuXNWSgqkxtPKQM3b"
+    },
     {
       "added_at": "2025-06-10 12:37:11",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: KKevin, Bruno X Spacc, VINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,834 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,859 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

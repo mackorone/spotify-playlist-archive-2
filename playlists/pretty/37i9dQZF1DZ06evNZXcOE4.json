@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADJ48DyLb266PEH1hWumYOa",
+  "snapshot_id": "aoD9gAAAAABI7zBQ7F/eGP2s0cO4Ke4y",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Escape Artist",
-        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 269613,
-      "name": "Twisted Tales",
-      "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
+      "duration_ms": 243664,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane's Addiction (Live)",
-        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 243664,
-      "name": "Rock & Roll",
-      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
+      "duration_ms": 269613,
+      "name": "Twisted Tales",
+      "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "Strays",
-      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
         "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 326520,
       "name": "Sympathy for the Devil - from Sons of Anarchy",
       "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "Strays",
+      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 259239,
-      "name": "So What!",
-      "url": "https://open.spotify.com/track/5r9N2nRnW3IZhtQHFhAjxB"
+      "duration_ms": 275333,
+      "name": "Slow Divers - Live",
+      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 275333,
-      "name": "Slow Divers - Live",
-      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
+      "duration_ms": 259239,
+      "name": "So What!",
+      "url": "https://open.spotify.com/track/5r9N2nRnW3IZhtQHFhAjxB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YmZ0QRZVP9.md) - [plain]
 
 > Curated by BTS: Songs inspired by the \#1 fan\-voted theme, 'Self Love.' Immerse yourself in the message of self\-love with BTS’s top picks\. \(투표 1위 주제 <Self Love>를 주제로 BTS가 직접 선정한 곡들입니다\. BTS의 선정곡과 함께 'Self Love'를 느껴보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,111 likes - 20 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,149 likes - 20 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

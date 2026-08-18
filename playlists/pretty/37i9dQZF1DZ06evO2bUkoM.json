@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49144,
+  "num_followers": 49139,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACfb4FWVcjlglLBLQxKjVQE",
+  "snapshot_id": "aoD9gAAAAACGSLAR8MWOQiYgQ5Gwksdl",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Missed Calls (feat. Hayley Kiyoko)",
-        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
+        "name": "Headcase",
+        "url": "https://open.spotify.com/album/2wDVgssxE37up35W78SFDM"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
         },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 154324,
-      "name": "Missed Calls (feat. Hayley Kiyoko)",
-      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
+      "duration_ms": 193200,
+      "name": "Headcase",
+      "url": "https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0"
     },
     {
       "added_at": null,
@@ -407,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Missed Calls (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 154324,
+      "name": "Missed Calls (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sadness",
         "url": "https://open.spotify.com/album/171hNpaERUy2FQ17IrnH4F"
       },
@@ -427,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 185995,
-      "name": "sugar at the bottom",
-      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
       },
@@ -455,26 +459,6 @@
       "duration_ms": 231293,
       "name": "He'll Never Love You (HNLY)",
       "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Headcase",
-        "url": "https://open.spotify.com/album/2wDVgssxE37up35W78SFDM"
-      },
-      "artists": [
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Headcase",
-      "url": "https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0"
     },
     {
       "added_at": null,
@@ -495,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 185995,
+      "name": "sugar at the bottom",
+      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Citrine EP",
         "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 240840,
       "name": "Palace",
       "url": "https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 214463,
-      "name": "found my friends",
-      "url": "https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 214463,
+      "name": "found my friends",
+      "url": "https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Citrine EP",
         "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 189898,
-      "name": "deep in the woods",
-      "url": "https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP"
+      "duration_ms": 228431,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 228431,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
+      "duration_ms": 189898,
+      "name": "deep in the woods",
+      "url": "https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 167433,
-      "name": "luna",
-      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
+      "duration_ms": 199666,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
+      "duration_ms": 167433,
+      "name": "luna",
+      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
     },
     {
       "added_at": null,

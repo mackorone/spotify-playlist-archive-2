@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(9/8/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(16/8/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-293 songs - 14 hr 40 min
+294 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [ACTITUD](https://open.spotify.com/track/4D4DbeUfU2tsrbP83y54Qd) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Fraktal](https://open.spotify.com/artist/3E3CNsYCMGVEbSoHw0dgLn), [Mon DJ](https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U) | [ACTITUD](https://open.spotify.com/album/1rRgIp7kMofwXGZp6Wj5bk) | 3:06 | 2024-06-16 | 2024-11-11 |
 | [Aeròbic](https://open.spotify.com/track/0rzoK3KUgqtB6FWL7JLzOl) | [Doctor Prats](https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW) | [Aeròbic](https://open.spotify.com/album/4mp8XsxFgsRMaFb53SprlO) | 2:31 | 2025-02-09 | 2025-07-15 |
 | [Això és l'estiu](https://open.spotify.com/track/2afUtubQ3Gq6q9LXUP7mmt) | [Flashy Ice Cream](https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Això és l'estiu](https://open.spotify.com/album/5Hv33WfrZy7gX130Y1ZMY4) | 3:21 | 2024-09-01 | 2024-10-21 |
-| [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 | 2026-03-31 |  |
+| [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 | 2026-03-31 | 2026-08-18 |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-23 | 2026-06-30 |
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-30 | 2025-12-23 |
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-02-02 | 2026-04-28 |
@@ -224,6 +224,7 @@
 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 | 2025-07-28 | 2025-12-23 |
 | [Que Vinguis](https://open.spotify.com/track/6Mk1sd1iixmQC6CxaWsnEb) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Que vinguis](https://open.spotify.com/album/3RHC4G8vajwORQM6WWxVAT) | 2:31 | 2024-06-02 | 2024-10-21 |
 | [Rapsòdia del teu cos](https://open.spotify.com/track/0J2kQXNmZBLNUu7UmjFufw) | [Diana Murr](https://open.spotify.com/artist/4qhEWD7O6ccYc5qARJmNXe) | [Rapsòdia del teu cos](https://open.spotify.com/album/5P72lMQxkOUTg7kk0Fm4Tt) | 3:09 | 2026-03-23 | 2026-05-06 |
+| [Rayos de Sol \(feat\. Jose De Rico\) \- Remix](https://open.spotify.com/track/5mTdH9qtGmem11SmHYjBuS) | [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [José de Rico](https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m) | [Rayos de Sol \(feat\. Jose De Rico\) \[Remix\]](https://open.spotify.com/album/72GhozLLOSZssWN4JUUYiy) | 2:53 | 2026-08-17 |  |
 | [REBOBINAR](https://open.spotify.com/track/45r6wchHonMxHst9NwAnze) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [REBOBINAR](https://open.spotify.com/album/2ATBzg2TsEwMwETy0tXsFZ) | 2:54 | 2024-12-15 | 2025-03-31 |
 | [Rikiti](https://open.spotify.com/track/5Hrnz90iQgcU3qTG20FW0o) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Rikiti](https://open.spotify.com/album/1suSSaPoQLN8CufLXvEdVF) | 2:26 | 2023-09-10 | 2024-04-29 |
 | [Rumba catalana](https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Rumba catalana](https://open.spotify.com/album/7zbpWINUVBuj2qbaP0Zg5e) | 3:19 | 2024-10-27 | 2025-05-27 |

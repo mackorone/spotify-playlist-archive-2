@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 792434,
+  "num_followers": 792528,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABcRVmSktq3JwBy4/EwFrEf",
+  "snapshot_id": "aoD9gAAAAACKRbO3aB5Sj9q5PsXQQRwa",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Que S\u00ed",
-      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 183880,
       "name": "Asilo (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Que S\u00ed",
+      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
         "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
       },
@@ -839,22 +859,6 @@
       "duration_ms": 220867,
       "name": "La Danza de las Lib\u00e9lulas",
       "url": "https://open.spotify.com/track/67ed4jjP4A0IfcQfgCnGWl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Caderas Blancas",
-      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
     }
   ],
   "unique_name": "This Is Mon Laferte",

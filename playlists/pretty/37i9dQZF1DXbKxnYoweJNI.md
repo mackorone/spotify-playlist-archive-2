@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: AuZTIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,621 likes - 120 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,619 likes - 120 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 67 | [拼一個浪漫](https://open.spotify.com/track/1aw0qanOEfpwqoRM1qfTk3) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [拼一個浪漫](https://open.spotify.com/album/1Ez7PZ0zVuXBt56KGkVnW7) | 3:21 |
 | 68 | [Dust](https://open.spotify.com/track/0podWAMgZRfNDKGVkgXOJt) | [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem) | [Dust](https://open.spotify.com/album/6Ac4XK1F5xN2bHuFkrGKbR) | 3:16 |
 | 69 | [弄琴老人 Der Leiermann](https://open.spotify.com/track/0NwPvzcGXtvquWnmTxcroY) | [林理惠 Mars Lin](https://open.spotify.com/artist/5lzoc7g4ZsEf8Flm9eYNYI), [鄭順聰](https://open.spotify.com/artist/6toyRbblB7RNeKtK08YhBj), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp) | [冬之旅──台語爵士浪遊Tang\-tsi\-lí\_A Jazz Winterreise sung in Taiwanese](https://open.spotify.com/album/1gQPcwNamBG0OtGRgcZezd) | 5:37 |
-| 70 | [Gin & T \(金汤力\)](https://open.spotify.com/track/5tBK6RekQG8h66M7pCv7vo) | [Oatmilk Fan](https://open.spotify.com/artist/6sQkF5EAcNhM4aBh1zCRSF) | [Gin & T \(金汤力\)](https://open.spotify.com/album/2apNxOFeZC8xvQJkhFLllx) | 3:49 |
+| 70 | [Gin & T](https://open.spotify.com/track/5tBK6RekQG8h66M7pCv7vo) | [Oatmilk Fan](https://open.spotify.com/artist/6sQkF5EAcNhM4aBh1zCRSF) | [Gin & T](https://open.spotify.com/album/2apNxOFeZC8xvQJkhFLllx) | 3:49 |
 | 71 | [第二次呼吸](https://open.spotify.com/track/58r2JabBvrF2uAj25G7WSL) | [汐纱](https://open.spotify.com/artist/2TXFeA84CmQrVF1YWm9ZwX), [阿策](https://open.spotify.com/artist/6dp1R1dVN2kZTpJnmyZctr) | [第二次呼吸](https://open.spotify.com/album/7ciVKtpi2fJY4gfrLnON0n) | 2:59 |
 | 72 | [搬家 Little Zebra](https://open.spotify.com/track/2RHByhR9WiNmhOtAwpHVcN) | [Da Da Yue Dui](https://open.spotify.com/artist/2vhqrXGRTaYwFTeO61R9Fm) | [搬家 Little Zebra](https://open.spotify.com/album/69WbXoInLbrtceuz2QJUtN) | 4:32 |
 | 73 | [Everything's Gonna be Alright](https://open.spotify.com/track/4DkcJCIaqHlPxro398HDEn) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Everything's Gonna be Alright](https://open.spotify.com/album/1MROQ3m8rDDcYiZDwfR13y) | 4:24 |

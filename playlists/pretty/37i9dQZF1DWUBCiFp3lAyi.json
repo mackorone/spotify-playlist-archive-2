@@ -1,6 +1,6 @@
 {
   "description": "Your personalized GTA radio station. ",
-  "num_followers": 737424,
+  "num_followers": 737566,
   "original_name": "Grand Theft Auto Radio",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 251244,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
         "name": "iDon",
         "url": "https://open.spotify.com/album/20Jf4Vb1V3MMv1QI1cKNNI"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 215133,
       "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
       "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
         "name": "Danzig",
         "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 190288,
       "name": "Stir Fry",
       "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
+        "name": "The Very Best of Daryl Hall / John Oates",
+        "url": "https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "The Very Best of Daryl Hall / John Oates",
-        "url": "https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Out of Touch",
-      "url": "https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 198907,
-      "name": "Tennis Court",
-      "url": "https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
         "name": "Still Striving",
         "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 139706,
       "name": "r - Cali",
       "url": "https://open.spotify.com/track/6AtscuPpNRwDvuehpFtWw1"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 198907,
+      "name": "Tennis Court",
+      "url": "https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 275733,
+      "name": "Heart Of Glass - Special Mix",
+      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
         "name": "Verities & Balderdash",
         "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 302626,
       "name": "Hollywood Nights",
       "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 275733,
-      "name": "Heart Of Glass - Special Mix",
-      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
-        "name": "Friday (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 305573,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
         "name": "Gold - The Best of Spandau Ballet",
         "url": "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 231480,
       "name": "Gold",
       "url": "https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
+        "name": "Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/1sGd8pGtXBuBA728U5FSgf"
-      },
-      "artists": [
-        {
-          "name": "Real Life",
-          "url": "https://open.spotify.com/artist/1n0pe6Cx9pCNvXYkX9TTLX"
-        }
-      ],
-      "duration_ms": 232631,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/3HCDGtLZabH3umLgwCBpDB"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
         "name": "E. 1999 Eternal",
         "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/1sGd8pGtXBuBA728U5FSgf"
       },
       "artists": [
         {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+          "name": "Real Life",
+          "url": "https://open.spotify.com/artist/1n0pe6Cx9pCNvXYkX9TTLX"
         }
       ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+      "duration_ms": 232631,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/3HCDGtLZabH3umLgwCBpDB"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1539,6 +1523,22 @@
       "duration_ms": 253293,
       "name": "Party All the Time",
       "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "duration_ms": 353786,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 192539,
       "name": "Cash Shit (feat. DaBaby)",
       "url": "https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "Holy Diver",
-        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 353786,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
     },
     {
       "added_at": "2025-05-07 20:33:22",

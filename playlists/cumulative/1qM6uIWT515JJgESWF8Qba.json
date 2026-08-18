@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Devour",
+        "url": "https://open.spotify.com/album/2J5eRRGeElqmQ99CiMrsnM"
+      },
+      "artists": [
+        {
+          "name": "Bruvvy",
+          "url": "https://open.spotify.com/artist/5VvBn4J8cVrk4A0YXLeUVf"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163592,
+      "name": "Devour",
+      "url": "https://open.spotify.com/track/4a19eWa4PpD3yyzguRk3hO"
+    },
+    {
+      "album": {
         "name": "Diagnos",
         "url": "https://open.spotify.com/album/7rIaHJYL7JpBieDkLX5pw5"
       },

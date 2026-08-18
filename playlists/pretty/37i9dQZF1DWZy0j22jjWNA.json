@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 124662,
+  "num_followers": 124680,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Weight Of Heaven (Live)",
-        "url": "https://open.spotify.com/album/0q9rvf3AbwZ5iMhC04Zw7Z"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 227236,
-      "name": "Good Day - Live",
-      "url": "https://open.spotify.com/track/3pajbvCouuW4s6Lt3Ij165"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Be Glad",
         "url": "https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 299658,
       "name": "Be Glad",
       "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Weight Of Heaven (Live)",
+        "url": "https://open.spotify.com/album/0q9rvf3AbwZ5iMhC04Zw7Z"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 227236,
+      "name": "Good Day - Live",
+      "url": "https://open.spotify.com/track/3pajbvCouuW4s6Lt3Ij165"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -675,30 +675,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "New Thing (Live)",
-        "url": "https://open.spotify.com/album/7BJHaIRiNlTtHNe7yxuCJa"
-      },
-      "artists": [
-        {
-          "name": "Heart of God Church",
-          "url": "https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        },
-        {
-          "name": "Daniel Goh",
-          "url": "https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z"
-        }
-      ],
-      "duration_ms": 271208,
-      "name": "New Thing - Live",
-      "url": "https://open.spotify.com/track/6upp8gy0AqRf0gWJ5T4lct"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Blinded",
         "url": "https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc"
       },
@@ -731,18 +707,58 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "honeydew (praise the Lord)",
-        "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
+        "name": "New Thing (Live)",
+        "url": "https://open.spotify.com/album/7BJHaIRiNlTtHNe7yxuCJa"
       },
       "artists": [
         {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "Heart of God Church",
+          "url": "https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Daniel Goh",
+          "url": "https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z"
         }
       ],
-      "duration_ms": 224000,
-      "name": "honeydew (praise the Lord)",
-      "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
+      "duration_ms": 271208,
+      "name": "New Thing - Live",
+      "url": "https://open.spotify.com/track/6upp8gy0AqRf0gWJ5T4lct"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/3Ol2xD0wKSn172kgB85JnM"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/0xujGe3mc7mKc7N655UpdL"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -771,22 +787,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/3Ol2xD0wKSn172kgB85JnM"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/0xujGe3mc7mKc7N655UpdL"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Monday Morning Faith (Acoustic)",
         "url": "https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 141049,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "honeydew (praise the Lord)",
+        "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "honeydew (praise the Lord)",
+      "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3"
-      },
-      "artists": [
-        {
-          "name": "Dillon Chase",
-          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Hope Builds (Live)",
         "url": "https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 137769,
       "name": "Pure Gold",
       "url": "https://open.spotify.com/track/4GPfoPbpLppbzVLBIR337i"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3"
+      },
+      "artists": [
+        {
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+        }
+      ],
+      "duration_ms": 214615,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Take Heart",
+        "url": "https://open.spotify.com/album/3PB6qqj5LdwcmRTMzbPxcH"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "Encompassed",
+      "url": "https://open.spotify.com/track/4VoMZnltCPuFtkRWgubFq0"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Happy Again",
         "url": "https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 214000,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Take Heart",
-        "url": "https://open.spotify.com/album/3PB6qqj5LdwcmRTMzbPxcH"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "Encompassed",
-      "url": "https://open.spotify.com/track/4VoMZnltCPuFtkRWgubFq0"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Morning / Sunrise",
+        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 170119,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Glad",
         "url": "https://open.spotify.com/album/0TBJXPXOzn8eT4X9RP23SE"
       },
@@ -1727,18 +1743,18 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Morning / Sunrise",
-        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6"
       },
       "artists": [
         {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+          "name": "Phil the Voice",
+          "url": "https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E"
         }
       ],
-      "duration_ms": 170119,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+      "duration_ms": 154090,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1759,22 +1775,6 @@
       "duration_ms": 341200,
       "name": "Day For Singing - Live",
       "url": "https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6"
-      },
-      "artists": [
-        {
-          "name": "Phil the Voice",
-          "url": "https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA"
     }
   ],
   "unique_name": "GOoD Morning",

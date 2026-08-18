@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Hansom Ēli
 
-575 songs - 1 day 8 hr 9 min
+576 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Fin](https://open.spotify.com/track/4WoHFukh4AhfGYWUlWp7Cq) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Fin](https://open.spotify.com/album/6mNKm0vG8RSv8RUgeEGVGo) | 1:44 | 2025-11-21 | 2026-03-21 |
 | [fin pm](https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv) | 3:11 | 2026-01-23 | 2026-01-31 |
 | [Fièvre des Andes](https://open.spotify.com/track/3vwjb717aoICPvirwgcvTQ) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Fièvre des Andes](https://open.spotify.com/album/5r2mVYcK0AMDLFK5bCCwMA) | 3:09 | 2025-10-03 | 2026-02-14 |
-| [Fleuron \(feat\. Helena Deland\)](https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Fleuron \(feat\. Helena Deland\)](https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0) | 3:15 | 2026-06-19 |  |
+| [Fleuron \(feat\. Helena Deland\)](https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Fleuron \(feat\. Helena Deland\)](https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0) | 3:15 | 2026-06-19 | 2026-08-18 |
 | [Flocons](https://open.spotify.com/track/26TV5erxGmc924vwFoJ5b0) | [Joseph Avalé](https://open.spotify.com/artist/3BJ3ZN0pOwhJXqG6zQMCdB) | [Flocons](https://open.spotify.com/album/6roRTrpoS91aKKZJ8W1xBn) | 3:28 | 2026-01-09 | 2026-05-09 |
 | [FMLP](https://open.spotify.com/track/6ChkBaOFS8J3oxFdF1iG8G) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [FMLP](https://open.spotify.com/album/5qzkcGjQiSdjk5MPw7SEzn) | 3:02 | 2025-10-03 | 2025-10-25 |
 | [Fond d'pichet sale de sangria](https://open.spotify.com/track/38wAAOl772w3M2u4H7wCY3) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [Les amours de seconde main](https://open.spotify.com/album/3Hesk7w0WcahDmMjpTybob) | 4:48 | 2025-10-03 | 2025-12-06 |
@@ -510,6 +510,7 @@
 | [Tenir debout](https://open.spotify.com/track/6VQpsaB8qzXS40QK9NvD3z) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Tenir debout](https://open.spotify.com/album/125ZnohcXIhDHR9q9T1Z35) | 3:36 | 2025-01-10 | 2025-03-15 |
 | [Tes vêtements](https://open.spotify.com/track/3YABwrAFE2UBwxXWIuClag) | [Meloire](https://open.spotify.com/artist/4BTPhFbG3pPr2bUlh1mHAb) | [Bisou Triste](https://open.spotify.com/album/7cEeU1nitddaPDQ6JfMHGZ) | 2:58 | 2026-04-17 | 2026-07-18 |
 | [That I could](https://open.spotify.com/track/1p2XBDrwARmuqxcaQ72oNY) | [Alex Mick](https://open.spotify.com/artist/0WoFoQAvv1ul6lQKQaGu0b) | [That I could](https://open.spotify.com/album/2IawJiYvNLNryXklqU7HhU) | 3:39 | 2025-11-21 | 2026-02-07 |
+| [the evergreen, the birch](https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy), [MEGGO](https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc) | [the evergreen, the birch](https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v) | 2:59 | 2026-08-14 |  |
 | [The Fog](https://open.spotify.com/track/72saKsaBaeNVtxaYPl2nS7) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [The Fog](https://open.spotify.com/album/2TIBAa6QLF17KwPaTDdTIq) | 4:07 | 2026-03-27 | 2026-07-18 |
 | [The Mess in My Room](https://open.spotify.com/track/1brN9v4sw2zEyEGwqf3WyA) | [Charlotte Renaud](https://open.spotify.com/artist/0RAZSu2Pz3bkrEwfMDiiP7) | [The Mess in My Room](https://open.spotify.com/album/09spv4dYO2NbYd5ivmEECQ) | 3:35 | 2026-06-05 | 2026-06-27 |
 | [The River](https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [The River](https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu) | 4:53 | 2026-01-16 | 2026-03-21 |

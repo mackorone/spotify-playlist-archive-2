@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România și piesele alese de editorii noștri\. Cover: Theo Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,020 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,019 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

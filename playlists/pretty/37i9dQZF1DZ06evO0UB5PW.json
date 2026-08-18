@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 64034,
+  "num_followers": 64053,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADw6cDphzy/ZwSKLvVdyD0K",
+  "snapshot_id": "aoD9gAAAAAAIGVK4pbwwq7MfmTwAi60A",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Snakes for Dinner",
-        "url": "https://open.spotify.com/album/6hfWE4ne6vuflQER7tVs0E"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 297619,
-      "name": "Snakes for Dinner",
-      "url": "https://open.spotify.com/track/1QJTU1IJBWu8oTzKIt4n6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Your Ghost Again",
         "url": "https://open.spotify.com/album/03rT8X0sUnxyKN8TECd1xA"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 275717,
       "name": "Your Ghost Again",
       "url": "https://open.spotify.com/track/0DR0WsV57b7ZyiHCEBvKQY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Snakes for Dinner",
+        "url": "https://open.spotify.com/album/6hfWE4ne6vuflQER7tVs0E"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 297619,
+      "name": "Snakes for Dinner",
+      "url": "https://open.spotify.com/track/1QJTU1IJBWu8oTzKIt4n6r"
     },
     {
       "added_at": null,

@@ -4215,6 +4215,28 @@
     },
     {
       "album": {
+        "name": "COMUNH\u00c3O - Fernandinho Em Casa, vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0bDmTYJxrUlLdVEWdtsyg5"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Paula Santos",
+          "url": "https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312426,
+      "name": "Na Comunh\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ISYegqyS3fP4C1aMuR65b"
+    },
+    {
+      "album": {
         "name": "Na Fenda da Rocha (Ao Vivo)",
         "url": "https://open.spotify.com/album/3L3usCvBRr2PkzPeA9Q9x8"
       },
@@ -5118,7 +5140,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 329488,
       "name": "Oi, Jesus 2 - Ao Vivo",
       "url": "https://open.spotify.com/track/0tCWQmv79OdJXnIHungKVt"

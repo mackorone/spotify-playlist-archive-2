@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-345 songs - 19 hr 35 min
+346 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Energy](https://open.spotify.com/track/6Xocwgqk3zX6gLhbUT5Xoo) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270) | [Energy](https://open.spotify.com/album/3FZjMaXkJ42v6Ef6RjuIAz) | 2:28 | 2023-09-22 | 2023-10-06 |
 | [ENERGY](https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [ENERGY](https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8) | 2:20 | 2024-07-26 | 2025-05-17 |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2023-05-19 | 2023-09-19 |
-| [Even Angels Ghost](https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [Even Angels Ghost](https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS) | 4:22 | 2026-07-01 |  |
+| [Even Angels Ghost](https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [Even Angels Ghost](https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS) | 4:22 | 2026-07-01 | 2026-08-18 |
 | [Everything](https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Everything](https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017) | 4:45 | 2026-05-01 | 2026-05-24 |
 | [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 | 2023-10-06 | 2024-05-24 |
 | [Face 2 Face](https://open.spotify.com/track/4V3EtdgvklTDTMBuGveFGS) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392) | [Face 2 Face](https://open.spotify.com/album/1Hb12RMgFSsYtdhw4bqc97) | 3:41 | 2026-07-23 |  |
@@ -149,6 +149,7 @@
 | [HITZ 4 THE HOOD](https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [HITZ 4 THE HOOD](https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R) | 2:21 | 2025-05-29 | 2025-06-23 |
 | [Hold Me](https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Hold Me](https://open.spotify.com/album/0xq1Ug8C06g4znM3QizelQ) | 2:32 | 2025-10-09 | 2025-10-22 |
 | [Hold On](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Hold On](https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd) | 2:59 | 2026-05-01 | 2026-05-15 |
+| [Holding You Back](https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH) | [Vivace](https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt), [Gusta](https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS), [K.ONE](https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt) | [Holding You Back](https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT) | 4:24 | 2026-08-13 |  |
 | [Honey](https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW) | 4:22 | 2024-05-24 | 2024-05-28 |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-07-18 | 2023-09-22 |
 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 | 2024-07-26 | 2025-02-07 |

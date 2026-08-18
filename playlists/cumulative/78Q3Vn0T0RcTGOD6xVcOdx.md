@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-331 songs - 19 hr 26 min
+333 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Electricity](https://open.spotify.com/track/4qP02z8wlLN5jYMPEmj45R) | [Gisella Engel](https://open.spotify.com/artist/1t3O7vVm8VOKfLAkuL8Ku1) | [Plastic Romance](https://open.spotify.com/album/65OLjpVabMnDAzxsSzGZ37) | 3:34 | 2026-06-11 |  |
 | [Elefant](https://open.spotify.com/track/62nmftIafTY5FuVkxViYG6) | [DJ Grayhair](https://open.spotify.com/artist/2yOAYs0FIY2iKmxvcllee4), [MarviCantando](https://open.spotify.com/artist/4r0pjiy8HwX3R3Nq6PkeEz) | [Elefant](https://open.spotify.com/album/2PR5wA4dpNT8MQlbq0dL3E) | 4:01 | 2025-01-26 | 2026-06-12 |
 | [EN LA OSCURIDAD](https://open.spotify.com/track/10rczK3t2l3vOHJNyZElmi) | [TOKU](https://open.spotify.com/artist/793cwceIIWw25iOeGfCzQV) | [EN LA OSCURIDAD](https://open.spotify.com/album/7atglrRX4kBdHSsD7rtXZn) | 2:56 | 2025-06-24 | 2026-04-06 |
+| [Eres Tú](https://open.spotify.com/track/5eE6XuwOh8Y5PhQ9W0OKE5) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Eres Tú](https://open.spotify.com/album/3QCzmTe5ZqdamwPHdIrwBe) | 3:28 | 2026-08-17 |  |
 | [Eros](https://open.spotify.com/track/134N9R3Sw4Vz00dhIqPpl6) | [Wilson Way](https://open.spotify.com/artist/730U4St8BvcYyR5ojPw0M4) | [Eros](https://open.spotify.com/album/46dhue9XFeA6RvJUQREOb1) | 3:02 | 2025-10-22 | 2026-04-06 |
 | [Erre](https://open.spotify.com/track/6XiSGjgMN2XHI3oqSxDgW9) | [Proyecto VTK](https://open.spotify.com/artist/4Sjjd7GLD7xgroQkOg3Vxb) | [Erre](https://open.spotify.com/album/3NN7ahka8MpJVz4mnv1s1L) | 3:57 | 2025-03-10 | 2026-04-06 |
 | [Esperando a Marte](https://open.spotify.com/track/1B7qIv9YEFH3ZJPWYsDWZR) | [TAÜRO](https://open.spotify.com/artist/0Y8jiK11AZPp23jblkphtA), [Clowmir](https://open.spotify.com/artist/07LV6ZYi7l0kdVSkx0GJ4S), [M4R73](https://open.spotify.com/artist/0gWwrAmIyEyIN0MTVrTU4n) | [Esperando a Marte](https://open.spotify.com/album/7fQa6HQHaoiNDBNWJt6JJp) | 5:05 | 2025-02-22 | 2026-04-06 |
@@ -187,6 +188,7 @@
 | [Mañana Será Bonito \- Bolero Version](https://open.spotify.com/track/18hsKYxPFWqp1P2vS1Lug8) | [Anton](https://open.spotify.com/artist/6hVnAG9YpuD7sziXsRMypy), [Adriana Blu](https://open.spotify.com/artist/67wKfbZX3Iv0NbG4IOE3d1) | [Mañana Será Bonito \(Bolero Version\)](https://open.spotify.com/album/22MbXzyiPlOrc7UAZZDWos) | 3:50 | 2025-09-05 | 2026-04-06 |
 | [Me Gustas Tu](https://open.spotify.com/track/235Y5A55l0S5VuHAArd8e8) | [Los Flamingo](https://open.spotify.com/artist/2JlMuemTsSuUKSZqghyTm0), [Capitán Eléctrico](https://open.spotify.com/artist/5a4CjfqcIDFQFUxaQqg2Ka) | [Me Gustas Tu](https://open.spotify.com/album/3xCvaL302GI5AfR3xN3G6Y) | 2:42 | 2026-05-12 | 2026-06-12 |
 | [Me Meti En Su Juego](https://open.spotify.com/track/2QIvd6YjX1c4pNVGE1oiDQ) | [ALÍÍ EL CHIVO](https://open.spotify.com/artist/0RshknZbFIyF0u97l4jg0L) | [Me Meti En Su Juego](https://open.spotify.com/album/26nRdW54KVKEX8xhrzbXKs) | 2:19 | 2025-03-04 | 2026-04-06 |
+| [Me Perdiste](https://open.spotify.com/track/1cqGYfBmRlSuKdsICL6NlJ) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Me Perdiste](https://open.spotify.com/album/6I4YSYqOfTf9QYpjonc4tR) | 3:16 | 2026-08-17 |  |
 | [Mechanical Lovers](https://open.spotify.com/track/7lHz331plqsJ9ANAJylt5v) | [Gisella Engel](https://open.spotify.com/artist/1t3O7vVm8VOKfLAkuL8Ku1) | [Ich Falle](https://open.spotify.com/album/7hbmR3CUbcLKQPNdbHDF5X) | 5:35 | 2026-06-11 |  |
 | [MEDIO FILO](https://open.spotify.com/track/50C03SezGFxf3NbNBoBIdO) | [Seba Space](https://open.spotify.com/artist/47gWcVZefFfUUj5HZueC1M), [Yiorblezz](https://open.spotify.com/artist/5V9C3emtv3S2Ms4gMLaY3D), [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP) | [MEDIO FILO](https://open.spotify.com/album/55cKFQSYOznQ8Vty9TZ3pv) | 3:14 | 2025-03-23 | 2026-04-06 |
 | [Meta Hiss](https://open.spotify.com/track/2ykbtk8e9m5qOBNk1jc89M) | [Gisella Engel](https://open.spotify.com/artist/1t3O7vVm8VOKfLAkuL8Ku1) | [Body Index](https://open.spotify.com/album/2gztiGsunjwwsLbMOugp79) | 6:01 | 2026-06-11 |  |

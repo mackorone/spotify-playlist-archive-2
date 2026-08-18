@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 264988,
+  "num_followers": 265033,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAB5BqbTdkITuN98YzgUeYt+",
+  "snapshot_id": "aoD9gAAAAADdya1UFZNDYmkEj9h3w3qE",
   "tracks": [
     {
       "added_at": null,
@@ -267,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Calf Born in Winter",
-        "url": "https://open.spotify.com/album/4Jc3Vg4MHHDahhPWbHm8nM"
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
       "artists": [
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 219415,
-      "name": "The Recital that Never Happened",
-      "url": "https://open.spotify.com/track/30SbBmaPwspxQEwOhwojBG"
+      "duration_ms": 283406,
+      "name": "C-Side",
+      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
     },
     {
       "added_at": null,
@@ -331,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+        "name": "A Calf Born in Winter",
+        "url": "https://open.spotify.com/album/4Jc3Vg4MHHDahhPWbHm8nM"
       },
       "artists": [
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 283406,
-      "name": "C-Side",
-      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
+      "duration_ms": 219415,
+      "name": "The Recital that Never Happened",
+      "url": "https://open.spotify.com/track/30SbBmaPwspxQEwOhwojBG"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 181224,
-      "name": "Master Of Life",
-      "url": "https://open.spotify.com/track/7yvwoYqlw8t1piF4spNPsV"
+      "duration_ms": 163961,
+      "name": "The No.3",
+      "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 163961,
-      "name": "The No.3",
-      "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
+      "duration_ms": 181224,
+      "name": "Master Of Life",
+      "url": "https://open.spotify.com/track/7yvwoYqlw8t1piF4spNPsV"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Universe Smiles Upon You ii",
-        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 109634,
-      "name": "The Man Who Took My Sunglasses ii",
-      "url": "https://open.spotify.com/track/6aG4gndzvSGopOEH6mSwh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 255100,
       "name": "A Love International",
       "url": "https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 109634,
+      "name": "The Man Who Took My Sunglasses ii",
+      "url": "https://open.spotify.com/track/6aG4gndzvSGopOEH6mSwh9"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Universe Smiles Upon You ii",
-        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 276732,
-      "name": "Balls and Pins ii",
-      "url": "https://open.spotify.com/track/6Kayxmc2Q0XYXc2CcxNP0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modern Love",
         "url": "https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 308913,
       "name": "Right",
       "url": "https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 276732,
+      "name": "Balls and Pins ii",
+      "url": "https://open.spotify.com/track/6Kayxmc2Q0XYXc2CcxNP0C"
     },
     {
       "added_at": null,

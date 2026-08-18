@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 60929,
+  "num_followers": 60946,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADqA4Ee4xXgn8MthCWEKtm8",
+  "snapshot_id": "aoD9gAAAAABuwMa6rMgoBo2iaCXjRzN8",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 245738,
       "name": "Los 5 Pesos",
       "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 127029,
+      "name": "Rey Le\u00f3n",
+      "url": "https://open.spotify.com/track/5ikzjvLe1zsAJkgimIz1ev"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos 602 Vol.3 (En Vivo)",
         "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
       },
@@ -819,38 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 127029,
-      "name": "Rey Le\u00f3n",
-      "url": "https://open.spotify.com/track/5ikzjvLe1zsAJkgimIz1ev"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Envidia Se Dio Cuenta (En Vivo)",
         "url": "https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 172000,
       "name": "Fruta Prohibida - En Vivo",
       "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 153431,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
     },
     {
       "added_at": null,
@@ -903,22 +919,6 @@
       "duration_ms": 158409,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 153431,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
     },
     {
       "added_at": null,

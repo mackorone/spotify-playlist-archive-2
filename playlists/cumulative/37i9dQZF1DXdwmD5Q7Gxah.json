@@ -21987,6 +21987,24 @@
     },
     {
       "album": {
+        "name": "Fell Asleep in the Sun",
+        "url": "https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231813,
+      "name": "Fell Asleep in the Sun",
+      "url": "https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp"
+    },
+    {
+      "album": {
         "name": "WILLOW",
         "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
       },
@@ -47271,6 +47289,28 @@
     },
     {
       "album": {
+        "name": "Pain is the Heart of Love",
+        "url": "https://open.spotify.com/album/50AYDE2EHtdousV5nZ4S17"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        },
+        {
+          "name": "Paul Buchanan",
+          "url": "https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "Pain is the Heart of Love",
+      "url": "https://open.spotify.com/track/16aCAD1wmZL2slFfxT7zs2"
+    },
+    {
+      "album": {
         "name": "pains of falling in love",
         "url": "https://open.spotify.com/album/62NXg5kjzD9TzjdylSvkd2"
       },
@@ -59414,7 +59454,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 236205,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"

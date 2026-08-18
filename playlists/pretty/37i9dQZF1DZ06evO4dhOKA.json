@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 70744,
+  "num_followers": 70755,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADbf2+mDR7jHY17LaFAksRG",
+  "snapshot_id": "aoD9gAAAAACEyY5P2MH/Zqs2DUfTyhUQ",
   "tracks": [
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casita De Adobe",
-        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
       },
       "artists": [
+        {
+          "name": "Carlo Mora",
+          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
+        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 191986,
-      "name": "La Casita De Adobe",
-      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
+      "duration_ms": 134000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
     },
     {
       "added_at": null,
@@ -783,28 +787,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
+        "name": "La Casita De Adobe",
+        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
       },
       "artists": [
-        {
-          "name": "Carlo Mora",
-          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
-        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
+      "duration_ms": 191986,
+      "name": "La Casita De Adobe",
+      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+        "name": "En Vivo Desde Monterrey (En Vivo - La Fe Music Hall - Monterrey, NL / 2008)",
+        "url": "https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Ojitos a Mi Gusto",
-      "url": "https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc"
+      "duration_ms": 197626,
+      "name": "Que No Se Apague La Lumbre - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
+      "url": "https://open.spotify.com/track/2ZX1GZukgjEmHrh2yyWVuH"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Monterrey (En Vivo - La Fe Music Hall - Monterrey, NL / 2008)",
-        "url": "https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL"
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 197626,
-      "name": "Que No Se Apague La Lumbre - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
-      "url": "https://open.spotify.com/track/2ZX1GZukgjEmHrh2yyWVuH"
+      "duration_ms": 160493,
+      "name": "Ojitos a Mi Gusto",
+      "url": "https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc"
     },
     {
       "added_at": null,

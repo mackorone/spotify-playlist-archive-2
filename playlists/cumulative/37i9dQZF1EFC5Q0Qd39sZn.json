@@ -3607,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "Songbook: A Collection Of Hits",
+        "url": "https://open.spotify.com/album/4B7Py5rD8NGboCG8Fr0BHE"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "How Do I Live",
+      "url": "https://open.spotify.com/track/55UDEdpcearZqBPO2aZaGV"
+    },
+    {
+      "album": {
         "name": "Pop Hits for Ballet Class, Vol. 1",
         "url": "https://open.spotify.com/album/2hS9jwGmDYaQiZAZdoJTnf"
       },
@@ -3654,7 +3672,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 243226,
       "name": "How Do I Live - Songbook Version",
       "url": "https://open.spotify.com/track/5xM53GMJzt0g16Ke9islN4"

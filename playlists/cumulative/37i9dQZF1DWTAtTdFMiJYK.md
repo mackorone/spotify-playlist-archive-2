@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Temsu Clover
 
-447 songs - 1 day 1 hr 0 min
+448 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-01-10 | 2023-03-11 |
 | [Keh Do Na](https://open.spotify.com/track/5EHWMWzFWpV8xu9IrRxyVi) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Keh Do Na](https://open.spotify.com/album/2adeNS3gByA7VyV3a4WzL0) | 2:48 | 2023-08-22 | 2024-06-01 |
 | [Kehna Kuch](https://open.spotify.com/track/0CbH9bhJrTO6VyjJ8h3rgd) | [Geetesh Iyer](https://open.spotify.com/artist/7yidmGI409tmobqWWAg3fS) | [Kehna Kuch](https://open.spotify.com/album/3UkesRRbgTtZ4zsmY1mRx5) | 3:27 | 2021-12-06 | 2022-02-16 |
-| [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 | 2025-02-04 |  |
+| [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 | 2025-02-04 | 2026-08-18 |
 | [Khaak](https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:34 | 2023-06-09 | 2024-11-14 |
 | [Khaali Khaali](https://open.spotify.com/track/3zwsBUs35djOOrXrOsgVoS) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Khaali Khaali](https://open.spotify.com/album/32RNCaT9ixK8yoFvTT7Mgb) | 2:57 | 2024-06-10 | 2025-08-16 |
 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 | 2022-01-10 | 2023-01-11 |
@@ -430,6 +430,7 @@
 | [Uff](https://open.spotify.com/track/7rF3cZERZvYoPG7fRfBJ66) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Uff](https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih) | 2:56 | 2024-12-04 | 2025-01-10 |
 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 | 2024-09-30 |  |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2021-12-06 | 2022-01-11 |
+| [URDU ME GEETA](https://open.spotify.com/track/0OJmfTfnwwj02W7TNi9COo) | [Nihaarika](https://open.spotify.com/artist/0Bz8tfHA4pjg4FKYk4ARmR), [Bro\-G](https://open.spotify.com/artist/1xsvjX3AYGCluJEEUxjL4R) | [URDU ME GEETA](https://open.spotify.com/album/4RupoQR3qybYXGqGApDRNu) | 2:06 | 2026-08-17 |  |
 | [Wahin Ka Wahin](https://open.spotify.com/track/3DC2ncI10e2EvocIBzIQT7) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [Superpower 2020](https://open.spotify.com/album/2ey1GnFSMrqu2QWbyjt4WE) | 5:41 | 2022-01-10 | 2022-07-29 |
 | [Wahin Ka Wahin](https://open.spotify.com/track/4ezXXcPdzmOwjfBTR3m2Zg) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [SUPERPOWER 2020](https://open.spotify.com/album/1etLBphNhwNpbzlS3quw1W) | 5:41 | 2021-12-06 | 2022-08-06 |
 | [Windy](https://open.spotify.com/track/24eAf2cgB8ZQbaxE1HaygY) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq), [Belinda Terry](https://open.spotify.com/artist/01r8UcTZF5qe9aodd9ypsx) | [Chérie](https://open.spotify.com/album/3VpTYKbea17lRbiCHob5ov) | 3:18 | 2021-12-06 | 2022-01-11 |

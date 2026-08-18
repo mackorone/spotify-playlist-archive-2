@@ -2059,6 +2059,28 @@
     },
     {
       "album": {
+        "name": "ONDEADO$",
+        "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170832,
+      "name": "APAGA EL CEL",
+      "url": "https://open.spotify.com/track/5s3yi51O9Sj4VcMsRI2tUr"
+    },
+    {
+      "album": {
         "name": "apathy",
         "url": "https://open.spotify.com/album/1N99dokdMWpcIDa9r6BqYk"
       },
@@ -5184,7 +5206,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 278013,
       "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
       "url": "https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"
@@ -7142,7 +7164,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/34vXRJ2bCSFiZKQzVUYVOb"
@@ -28758,7 +28780,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 242840,
       "name": "ZIZI",
       "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"

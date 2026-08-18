@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 279666,
       "name": "Estrella Gemela",
       "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 201333,
       "name": "Occhi di speranza",
       "url": "https://open.spotify.com/track/1O3JhhkfsRcOv7CdNuq1BN"
@@ -1088,6 +1088,24 @@
       "duration_ms": 232613,
       "name": "Perfetto",
       "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
+    },
+    {
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "Piccola pietra",
+      "url": "https://open.spotify.com/track/2zYGM8Vn4HkZrMxno6MGxz"
     },
     {
       "album": {
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 258480,
       "name": "Quanto amore sei",
       "url": "https://open.spotify.com/track/3gRMbDA0VfPqymyAYLXSv4"
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 323902,
       "name": "Si bastasen un par de canciones (feat. Andrea Bocelli)",
       "url": "https://open.spotify.com/track/5DMrZTtGf26xlo3dZ5T0Md"
@@ -1882,10 +1900,32 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 236586,
       "name": "Una Emocion para Siempre",
       "url": "https://open.spotify.com/track/32TxjkRcmXd3BNqBPIFMPN"
+    },
+    {
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228990,
+      "name": "Una emoci\u00f3n para siempre (feat. Kany Garc\u00eda)",
+      "url": "https://open.spotify.com/track/7JSKyrziwjzTRYqUPUIw79"
     },
     {
       "album": {
@@ -1954,7 +1994,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 191013,
       "name": "Vita Ce N'\u00e8",
       "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"

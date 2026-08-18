@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21468,
+  "num_followers": 21469,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAxdj5gZRwsjmb3/CguwQpK",
+  "snapshot_id": "aoD9gAAAAADolxjt2C8KibBwjSbW5Q/y",
   "tracks": [
     {
       "added_at": null,
@@ -943,30 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 195789,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        }
+      ],
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
       "added_at": null,

@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "5 YILDIZ",
+        "url": "https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90451,
+      "name": "5 YILDIZ",
+      "url": "https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs"
+    },
+    {
+      "album": {
         "name": "50 Kilo",
         "url": "https://open.spotify.com/album/3vaWPm5ofwyFRCGcnknmJF"
       },
@@ -2924,7 +2946,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 218250,
       "name": "Ayaza Serdim",
       "url": "https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej"
@@ -8480,7 +8502,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 155024,
       "name": "De\u011fi\u015ftiremezsin Yaz\u0131lm\u0131\u015fsa",
       "url": "https://open.spotify.com/track/49a0nrWtmWU78F0itzjDJh"
@@ -29494,7 +29516,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 125538,
       "name": "yan\u0131lm\u0131\u015f\u0131m",
       "url": "https://open.spotify.com/track/4W445XWByCeN8CH6uexxLW"

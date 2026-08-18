@@ -1,6 +1,6 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1641768,
+  "num_followers": 1641577,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Lost Boys",
-        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 254614,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Goodpain",
         "url": "https://open.spotify.com/album/7soDnur2TfBoEJETTCws91"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 204208,
       "name": "Beige",
       "url": "https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Massive Shoe",
-        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Miffed It",
-      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 242093,
       "name": "Golden Days",
       "url": "https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Miffed It",
+      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Down The Way",
-        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 239120,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
+      "duration_ms": 236291,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -795,18 +795,34 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 236291,
-      "name": "Somebody Like Me",
-      "url": "https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk"
+      "duration_ms": 239120,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Half Blue",
+        "url": "https://open.spotify.com/album/2xxfXXIJResc3xJqArOZZP"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 232747,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4SqSQUcvtAbgfbNxYu7RPu"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Half Blue",
-        "url": "https://open.spotify.com/album/2xxfXXIJResc3xJqArOZZP"
+        "name": "So Long Little Miss Sunshine",
+        "url": "https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr"
       },
       "artists": [
         {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 232747,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4SqSQUcvtAbgfbNxYu7RPu"
+      "duration_ms": 288526,
+      "name": "Summer of Love",
+      "url": "https://open.spotify.com/track/3FCVhwlYIA4H6RYj9nsgHJ"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -859,22 +875,6 @@
       "duration_ms": 205448,
       "name": "Who Wants",
       "url": "https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "So Long Little Miss Sunshine",
-        "url": "https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 288526,
-      "name": "Summer of Love",
-      "url": "https://open.spotify.com/track/3FCVhwlYIA4H6RYj9nsgHJ"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "When We Are Together",
+      "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "Copper Changes Color",
         "url": "https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "When We Are Together",
-      "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH"
       },
@@ -1139,6 +1139,34 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "Eric D. Johnson",
+          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
+        },
+        {
+          "name": "Josh Kaufman",
+          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
+        }
+      ],
+      "duration_ms": 196126,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1151,6 +1179,38 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/5h7fx8ILwOZ3I5yQ4eGBl7"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 110560,
+      "name": "Flowers In Your Hair",
+      "url": "https://open.spotify.com/track/5WObuDOxPHlQaoYUf2W4lh"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1183,22 +1243,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Blindfaller",
         "url": "https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ"
       },
@@ -1211,38 +1255,6 @@
       "duration_ms": 329893,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/5h7fx8ILwOZ3I5yQ4eGBl7"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 110560,
-      "name": "Flowers In Your Hair",
-      "url": "https://open.spotify.com/track/5WObuDOxPHlQaoYUf2W4lh"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "Capacity",
-        "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "Shark Smile",
-      "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
     }
   ],
   "unique_name": "Summer Acoustic",

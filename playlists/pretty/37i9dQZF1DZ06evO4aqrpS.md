@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 
 > This is Silvana Estrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,765 likes - 46 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,805 likes - 46 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 35 | [Los Días](https://open.spotify.com/track/4xbe3iVH32qzMo3b4zT0jT) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 2:55 |
 | 36 | [Más o Menos Antes](https://open.spotify.com/track/0yozlAb1wVR4UFJf28XXjx) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y) | 2:15 |
 | 37 | [Amor Eterno](https://open.spotify.com/track/3kdehL0pJZJUhPbKXBx9K6) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/5a2ZqCTgZSVfV38Yhn093K) | 5:33 |
-| 38 | [La Llorona](https://open.spotify.com/track/1WcVu6GCEcThyJBBZovFNv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 6:10 |
+| 38 | [Días Que No Lloro](https://open.spotify.com/track/4l1pNkgYLk0Qsdvku8D9nL) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Libro Abierto](https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6) | 2:41 |
 | 39 | [La Despedida](https://open.spotify.com/track/6yxrZLNJAYmhLJ1QXikSkM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 2:03 |
-| 40 | [Días Que No Lloro](https://open.spotify.com/track/4l1pNkgYLk0Qsdvku8D9nL) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Libro Abierto](https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6) | 2:41 |
+| 40 | [La Llorona](https://open.spotify.com/track/1WcVu6GCEcThyJBBZovFNv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 6:10 |
 | 41 | [Aquí](https://open.spotify.com/track/6Dl4YchtNJFRswO95gyZMl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh) | 2:52 |
 | 42 | [Dios Nunca Muere](https://open.spotify.com/track/4n6WuF8iQ8zELVtwjdyzV0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Música por Mi México](https://open.spotify.com/album/2DNB5RNYoffk6eLSYaeIVr) | 2:50 |
 | 43 | [Lo Sagrado](https://open.spotify.com/track/6bhAUwtrHTPLuFRY2GYCdL) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 3:30 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 45 | [La Caña](https://open.spotify.com/track/6gSwd2DF4CvniStQTuk1fi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Xinto Stevenz](https://open.spotify.com/artist/1uEiRl4WQ98wcfAdLX0Xgg), [Juan Cubas](https://open.spotify.com/artist/7mhLvp0kBLclELTbMTRcY1) | [Música por Mi México](https://open.spotify.com/album/2DNB5RNYoffk6eLSYaeIVr) | 6:43 |
 | 46 | [El Agua Y La Miel](https://open.spotify.com/track/6S32t8SspzeR7Pr9qQfe0U) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 4:38 |
 
-Snapshot ID: `an+sAAAAAADXzkAgCNDDsdEmBfQyKlmE`
+Snapshot ID: `aoD9gAAAAAASocwpV5CrkqgqxpNPhI7B`

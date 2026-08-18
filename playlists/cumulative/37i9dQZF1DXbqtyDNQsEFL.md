@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-793 songs - 2 day 20 hr 36 min
+794 songs - 2 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,7 @@
 | [Sovereign GOD](https://open.spotify.com/track/66Hp9EnzGr3LzbP8NALo2f) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Sovereign GOD](https://open.spotify.com/album/4Jq4NUeLjKz8opDMAOQmO5) | 5:11 | 2025-05-16 | 2025-05-31 |
 | [Speed Dial](https://open.spotify.com/track/5RLa0rdbAhoVwk58koehYV) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Mégan Rose](https://open.spotify.com/artist/2yIkZRP5jlm9YW4ONlmIM4) | [Speed Dial](https://open.spotify.com/album/3EqF8K3bDPx1VUEZNWCtd0) | 2:50 | 2025-10-31 | 2025-11-22 |
 | [Spirit Break Out](https://open.spotify.com/track/5Knr4U9EA8KYUq0C3WB76L) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Trinity Anderson](https://open.spotify.com/artist/6dCn9t1NVjEKPvsBzxrf0h) | [Sounds of Revival](https://open.spotify.com/album/4MrzDQ9k53AxUJoFG7qgoK) | 4:14 | 2023-12-05 | 2023-12-11 |
-| [Spontaneous Worship 1 \- Live](https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [Heal Our Land \(Live\)](https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC) | 7:41 | 2022-06-09 |  |
+| [Spontaneous Worship 1 \- Live](https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [Heal Our Land \(Live\)](https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC) | 7:41 | 2022-06-09 | 2026-08-18 |
 | [Stand Up for Jesus](https://open.spotify.com/track/1XWRCvOmdhWGkxyId5CoBY) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Stand Up for Jesus](https://open.spotify.com/album/51ti9f8P8w3I4SZoAjBl24) | 2:40 | 2025-05-23 | 2025-05-30 |
 | [Standing with God](https://open.spotify.com/track/0IjJfbaR6GPnXekNzyU2aC) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Standing with God](https://open.spotify.com/album/0amrBLErPuWAUmHWMcxqXN) | 1:51 | 2025-06-20 | 2025-06-27 |
 | [Steady](https://open.spotify.com/track/6Or3593BvZrIhmXBGaw6wG) | [StraTeGee](https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Steady](https://open.spotify.com/album/2qimjNmCRmRkDuuvWu7ujC) | 2:50 | 2026-05-15 | 2026-06-13 |
@@ -734,6 +734,7 @@
 | [We the Forgiven](https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [We the Forgiven](https://open.spotify.com/album/7MAvgcD8XDlxRxKKWPArf5) | 5:54 | 2023-06-16 | 2023-07-28 |
 | [Welcome Home](https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Welcome Home](https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e) | 2:22 | 2025-06-27 | 2025-10-02 |
 | [WENA \(YHWH\)](https://open.spotify.com/track/3Xwi5BhHQZrJ02A5l3iVXB) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [WENA \(YHWH\)](https://open.spotify.com/album/48TQfy14dBov7JsJYMpGV3) | 2:55 | 2025-07-25 | 2025-09-12 |
+| [What I Believe](https://open.spotify.com/track/6fF6qFW587pXNS0YH0DlB0) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [What I Believe](https://open.spotify.com/album/68Oam9Xlj5a0hnxotDmHXT) | 3:35 | 2026-08-14 |  |
 | [What I Need](https://open.spotify.com/track/0LTdWXf4krvXCHdEbJIHRl) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [What I Need](https://open.spotify.com/album/3AtNtoPcgW71xzuzgSwk1q) | 2:51 | 2026-02-27 | 2026-05-22 |
 | [What I Want II](https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What I Want II](https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG) | 3:00 | 2023-08-25 | 2023-09-08 |
 | [What the Lord Has Done](https://open.spotify.com/track/0uBrewYuraJdPVVla0kaSP) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [What the Lord Has Done](https://open.spotify.com/album/5qjmj4ORlNrBKjRvlYdILX) | 8:23 | 2024-05-03 | 2024-05-24 |

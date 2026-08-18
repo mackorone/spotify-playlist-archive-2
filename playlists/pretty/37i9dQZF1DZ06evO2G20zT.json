@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 52946,
+  "num_followers": 53005,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABAAjV2LDJ2h7GUfEUf2Hpo",
+  "snapshot_id": "aoD9gAAAAADgVy+zkQDQNABpK7cdUokL",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 168406,
-      "name": "Bad Vibes (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trench Kid (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 175255,
       "name": "Realize",
       "url": "https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP"
     },
     {
       "added_at": null,
@@ -835,22 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goated",
-        "url": "https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 138997,
-      "name": "Goated",
-      "url": "https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL"
+      "duration_ms": 140240,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
     },
     {
       "added_at": null,
@@ -871,22 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+        "name": "Goated",
+        "url": "https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 140240,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
+      "duration_ms": 138997,
+      "name": "Goated",
+      "url": "https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL"
     },
     {
       "added_at": null,

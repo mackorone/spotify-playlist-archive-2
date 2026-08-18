@@ -4,7 +4,7 @@
 
 > R&B, Hip\-Hop, Pop, Afrobeats and everything in between!  Cover: Ayra Starr
 
-1,299 songs - 2 day 19 hr 20 min
+1,300 songs - 2 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-03-25 | 2022-06-04 |
 | [Foreigner \- Remix](https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Foreigner \- Remix](https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR) | 3:53 | 2023-11-24 | 2024-09-21 |
 | [Forever](https://open.spotify.com/track/5DOwCpxn4BSZjdjUMSIHTM) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:55 | 2023-08-18 | 2023-10-07 |
-| [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-06-13 |  |
+| [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-06-13 | 2026-08-18 |
 | [Forever \(feat\. T\-Pain\)](https://open.spotify.com/track/6uL7XqegqsvKYRPUeRCPAR) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [No Restrictions](https://open.spotify.com/album/6C4WdWT2tIHf1IAATt9cnL) | 2:50 | 2024-09-13 | 2025-05-10 |
 | [Fortworth \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/0F1rlXkOcI1Iqfz9Y3BdO4) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 3:51 | 2026-05-15 |  |
 | [FRAUD](https://open.spotify.com/track/584KjOfo1Now26v5m3bTRm) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FRAUD](https://open.spotify.com/album/78jOuuH40B0rTPFGheCaDQ) | 3:00 | 2022-06-24 | 2022-07-16 |
@@ -530,6 +530,7 @@
 | [I Got Plans \(feat\. A$AP Ferg\)](https://open.spotify.com/track/5GPeEREW8Zrr0XOTaVSxrk) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Gratitude](https://open.spotify.com/album/6F5xlV2Y4NTIAB8rd1gbAy) | 4:59 | 2024-11-15 | 2025-05-10 |
 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 | 2022-01-07 | 2022-06-11 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-09 |  |
+| [I Lied, You Lied](https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [I Lied, You Lied](https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz) | 3:23 | 2026-08-14 |  |
 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 | 2025-05-09 | 2025-08-28 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-03 | 2023-04-15 |
 | [I LOVE YOUR BODY](https://open.spotify.com/track/1wWJmkrJi5IaNb2512YEcF) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [I LOVE YOUR BODY](https://open.spotify.com/album/1TREZBcJvxodOvigkTQYDQ) | 2:34 | 2026-07-31 |  |

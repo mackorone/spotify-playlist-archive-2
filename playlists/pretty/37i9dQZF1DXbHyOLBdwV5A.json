@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 133943,
+  "num_followers": 133958,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Eu Voltei",
-        "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
-      },
-      "artists": [
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "Eliezer Rezende",
-          "url": "https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Eu Voltei",
-      "url": "https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Dan\u00e7ando na Chuva (Remix)",
         "url": "https://open.spotify.com/album/3Q5BZjgvWG9x5mI5OTg1Dg"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 193775,
       "name": "Dan\u00e7ando na Chuva - Remix",
       "url": "https://open.spotify.com/track/5sh75lzhuAOjIOydFNhTUr"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Eu Voltei",
+        "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
+      },
+      "artists": [
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "Eliezer Rezende",
+          "url": "https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Eu Voltei",
+      "url": "https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2"
     },
     {
       "added_at": "2026-05-08 03:01:30",

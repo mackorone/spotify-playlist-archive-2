@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,453 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,465 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -7273,6 +7273,24 @@
     },
     {
       "album": {
+        "name": "Text Stop",
+        "url": "https://open.spotify.com/album/2eo8g18ri5VLPMpZawvHq1"
+      },
+      "artists": [
+        {
+          "name": "Concrete Vehicles",
+          "url": "https://open.spotify.com/artist/1LGlGjoMOdMxYDOGjxZFCP"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206198,
+      "name": "Cut Ties",
+      "url": "https://open.spotify.com/track/01SGVeXJF9AkviwZSb9Lb5"
+    },
+    {
+      "album": {
         "name": "Lonesome High",
         "url": "https://open.spotify.com/album/7mUSt73cVNdmQVKKpeDbsD"
       },

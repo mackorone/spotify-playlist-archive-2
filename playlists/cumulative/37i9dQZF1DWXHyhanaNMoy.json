@@ -27803,6 +27803,36 @@
     },
     {
       "album": {
+        "name": "Te La Tiro",
+        "url": "https://open.spotify.com/album/4V4MuN3n4gxA97liqxErgJ"
+      },
+      "artists": [
+        {
+          "name": "Dongo",
+          "url": "https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2"
+        },
+        {
+          "name": "Issairo",
+          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
+        },
+        {
+          "name": "Koora",
+          "url": "https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI"
+        },
+        {
+          "name": "Penchi",
+          "url": "https://open.spotify.com/artist/4NOvTuUeo0tIV8uZx5iEgl"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122514,
+      "name": "Pa Ke Bailes",
+      "url": "https://open.spotify.com/track/6K75iq9H9Ztb56RBU3bJB5"
+    },
+    {
+      "album": {
         "name": "Pal Agua",
         "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
       },
@@ -34698,36 +34728,6 @@
       "duration_ms": 143674,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/65UBxTsWeYjQcO2jSufHv7"
-    },
-    {
-      "album": {
-        "name": "Te La Tiro",
-        "url": "https://open.spotify.com/album/4V4MuN3n4gxA97liqxErgJ"
-      },
-      "artists": [
-        {
-          "name": "Dongo",
-          "url": "https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2"
-        },
-        {
-          "name": "Issairo",
-          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
-        },
-        {
-          "name": "Koora",
-          "url": "https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI"
-        },
-        {
-          "name": "Penchi",
-          "url": "https://open.spotify.com/artist/4NOvTuUeo0tIV8uZx5iEgl"
-        }
-      ],
-      "date_added": "2026-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 122514,
-      "name": "Te La Tiro",
-      "url": "https://open.spotify.com/track/6K75iq9H9Ztb56RBU3bJB5"
     },
     {
       "album": {

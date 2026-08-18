@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > My enemy na sapa
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,006 likes - 85 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,079 likes - 85 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 7957,
+  "num_followers": 7963,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADVDBA1v2viT+EHljRVw5gR",
+  "snapshot_id": "aoD9gAAAAAD0K/XKBxmZHh6xtzuHzNKm",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awarepa Ye Anibre",
-        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 327906,
-      "name": "Enti Se Adee Ankye Me'a",
-      "url": "https://open.spotify.com/track/0JgBTw4N6Amg1CHI4pp15k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play Boy",
         "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 375555,
       "name": "Bribi Gyegye Wo",
       "url": "https://open.spotify.com/track/38x7yHTK6rbrpHWPJyAJ9O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awarepa Ye Anibre",
+        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 327906,
+      "name": "Enti Se Adee Ankye Me'a",
+      "url": "https://open.spotify.com/track/0JgBTw4N6Amg1CHI4pp15k"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obi Ate Meso Buo",
-        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "Ankwanoma",
-      "url": "https://open.spotify.com/track/4zebbqA9c1EGg2sj54PEYB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Peace a Chance",
         "url": "https://open.spotify.com/album/4pvFaTxAx6Xa4fUeHEU6bO"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 342047,
       "name": "Gold Digger",
       "url": "https://open.spotify.com/track/787dNEhIWhS6Ur2OIVscP7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obi Ate Meso Buo",
+        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "Ankwanoma",
+      "url": "https://open.spotify.com/track/4zebbqA9c1EGg2sj54PEYB"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 289960,
-      "name": "Se Wo Da Ento Pono Mu",
-      "url": "https://open.spotify.com/track/7EqpMSnnxLC9gECCX5Y6MJ"
+      "duration_ms": 310666,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 310666,
-      "name": "Aben Wo Aha",
-      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
+      "duration_ms": 289960,
+      "name": "Se Wo Da Ento Pono Mu",
+      "url": "https://open.spotify.com/track/7EqpMSnnxLC9gECCX5Y6MJ"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 482213,
-      "name": "Mensei Da Harry - Remix",
-      "url": "https://open.spotify.com/track/5uqQBiGPkwAdDicoBMNfWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back for Good",
         "url": "https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 269893,
       "name": "Eye Onoa",
       "url": "https://open.spotify.com/track/20gvKF0b1OWTG2IPcygA9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokrom",
+        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 482213,
+      "name": "Mensei Da Harry - Remix",
+      "url": "https://open.spotify.com/track/5uqQBiGPkwAdDicoBMNfWi"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 384773,
-      "name": "Tokrom",
-      "url": "https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ma To Odo Mu",
         "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
       },
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aben Wo Aha",
-        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+        "name": "Tokrom",
+        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
       },
       "artists": [
         {
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 330730,
-      "name": "Nyame Nhyira Mmaa",
-      "url": "https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP"
+      "duration_ms": 384773,
+      "name": "Tokrom",
+      "url": "https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90"
     },
     {
       "added_at": null,
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
+        "name": "Aben Wo Aha",
+        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
       },
       "artists": [
         {
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 347453,
-      "name": "Tasso Eburo",
-      "url": "https://open.spotify.com/track/2w9m5atgMBLlbFbzJwmtSo"
+      "duration_ms": 308106,
+      "name": "Fakye",
+      "url": "https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT"
     },
     {
       "added_at": null,
@@ -743,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aben Wo Aha",
-        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+        "name": "Tokrom",
+        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
       },
       "artists": [
         {
@@ -752,9 +736,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 308106,
-      "name": "Fakye",
-      "url": "https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT"
+      "duration_ms": 347453,
+      "name": "Tasso Eburo",
+      "url": "https://open.spotify.com/track/2w9m5atgMBLlbFbzJwmtSo"
     },
     {
       "added_at": null,
@@ -779,6 +763,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aben Wo Aha",
+        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 330730,
+      "name": "Nyame Nhyira Mmaa",
+      "url": "https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back for Good",
+        "url": "https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 355840,
+      "name": "Back For Good",
+      "url": "https://open.spotify.com/track/5MyI2UKJhYFJsWMjjjUuuk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tokrom",
         "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 594386,
       "name": "Obi Ate Meso Buo - Remix",
       "url": "https://open.spotify.com/track/3uU0P0jAUXXYJnooi4lItE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back for Good",
-        "url": "https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 355840,
-      "name": "Back For Good",
-      "url": "https://open.spotify.com/track/5MyI2UKJhYFJsWMjjjUuuk"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 1 min
+102 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Espero Lo Mejor de Ti](https://open.spotify.com/track/4qdbqHhzFOTLWu4DgoGIXb) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 2:57 | 2024-10-28 | 2024-11-11 |
 | [Globo Desinflado](https://open.spotify.com/track/0VP0h7wyd7h4H4qzizi4IS) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Globo Desinflado](https://open.spotify.com/album/1TIhRK5WrbC3BjbmiQubPA) | 2:13 | 2024-08-08 | 2024-09-07 |
 | [HOME RUN](https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [HOME RUN](https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV) | 3:27 | 2026-03-15 |  |
+| [Imposible y Prohibido](https://open.spotify.com/track/64JGhtsVdLawzEnqem7P1B) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Más Feroz: Deluxe Edition](https://open.spotify.com/album/78LMGidm9nKrddX2hLpx9P) | 2:34 | 2026-08-18 |  |
 | [Infinito](https://open.spotify.com/track/3PTvxcESQ2bCtSyY9sMENL) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Infinito](https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN) | 2:51 | 2025-09-20 |  |
 | [Infinito](https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Infinito](https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9) | 2:51 | 2024-08-08 | 2025-09-20 |
 | [Intento Diez Mil](https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Intento Diez Mil](https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW) | 2:29 | 2025-03-09 | 2026-02-11 |
@@ -62,7 +63,7 @@
 | [Maldita Soledad](https://open.spotify.com/track/4MuXo5mfMatTI3sImuqjg3) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Como un Meteorito](https://open.spotify.com/album/2NPXznFzShgA3D4bapgYR1) | 3:01 | 2025-07-03 |  |
 | [Maldita Soledad](https://open.spotify.com/track/4zNKyBDiV0B10V7brp9p2G) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Maldita Soledad](https://open.spotify.com/album/3dfrrFrNOoHfX9V2aCK79k) | 3:01 | 2024-08-08 | 2025-07-03 |
 | [Me Derrumbé a Tus Pies](https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Me Derrumbé a Tus Pies](https://open.spotify.com/album/5BapJqjEnc9bRomteNgQtC) | 3:24 | 2024-08-08 |  |
-| [Mi Forma de Sentir](https://open.spotify.com/track/32BMeAx8Gf7cWbUuINvqn5) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 4:09 | 2024-09-07 |  |
+| [Mi Forma de Sentir](https://open.spotify.com/track/32BMeAx8Gf7cWbUuINvqn5) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 4:09 | 2024-09-07 | 2026-08-18 |
 | [Mi Forma de Sentir](https://open.spotify.com/track/77BiOLjgDoztvNssHhIOrF) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Mi Forma de Sentir](https://open.spotify.com/album/7BzCbdO0xf2gkg6Q2CEufK) | 4:09 | 2024-08-08 |  |
 | [Mi Peloncito](https://open.spotify.com/track/4rgMWX25ov8duYmrgMuD7x) | [Academia Mis Raices](https://open.spotify.com/artist/6U5NItWyZsDrvob0HI0ajg), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t), [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mi Peloncito](https://open.spotify.com/album/1tglosdWAKZpRow8HzK4Ne) | 4:00 | 2024-12-21 | 2025-05-07 |
 | [Neta Que No](https://open.spotify.com/track/7o1UbAzMnbow4EUzWl1xuf) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 2:44 | 2024-08-08 |  |

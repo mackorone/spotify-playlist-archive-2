@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,448 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,190 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 10 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |
 | 11 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
 | 12 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
-| 13 | [CUANDO HABLES CON ÉL](https://open.spotify.com/track/3HwOh611McmotNJOLEb66y) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:05 |
+| 13 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 |
 | 14 | [Me Prometí](https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Me Prometí](https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4) | 2:51 |
-| 15 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 |
+| 15 | [CUANDO HABLES CON ÉL](https://open.spotify.com/track/3HwOh611McmotNJOLEb66y) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:05 |
 | 16 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 |
 | 17 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 18 | [tengo mucho ruido.](https://open.spotify.com/track/4mwNF24DEyF9QUSB7hVoqq) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 3:21 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 37 | [quiero estar contigo](https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [quiero estar contigo](https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD) | 3:36 |
 | 38 | [tus manias](https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tus manias](https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T) | 3:19 |
 | 39 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
-| 40 | [Aveces Siempre](https://open.spotify.com/track/6sjJcNGklrIHox82sRxRpp) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [GIRASOLES](https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R) | 2:55 |
-| 41 | [Viernes 13 V \- Me repito a diario](https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Viernes 13 V \(Me repito a diario\)](https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6) | 3:40 |
-| 42 | [No es justo](https://open.spotify.com/track/4C6UKkTUIdgsfF3QxDs7rL) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [No es justo](https://open.spotify.com/album/5V1D9Vk5sIU000H2ZY0Spj) | 2:58 |
-| 43 | [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 |
+| 40 | [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 |
+| 41 | [Aveces Siempre](https://open.spotify.com/track/6sjJcNGklrIHox82sRxRpp) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [GIRASOLES](https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R) | 2:55 |
+| 42 | [Viernes 13 V \- Me repito a diario](https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Viernes 13 V \(Me repito a diario\)](https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6) | 3:40 |
+| 43 | [No es justo](https://open.spotify.com/track/4C6UKkTUIdgsfF3QxDs7rL) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [No es justo](https://open.spotify.com/album/5V1D9Vk5sIU000H2ZY0Spj) | 2:58 |
 | 44 | [Tuvimos Futuro](https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tuvimos Futuro](https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k) | 3:31 |
-| 45 | [Turbulencia](https://open.spotify.com/track/4t2Pqr2C1yRuvZ2YCLTVcx) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Música Buena Para Días Malos](https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG) | 3:49 |
-| 46 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
-| 47 | [Extraños de Nuevo](https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Extraños de Nuevo](https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm) | 3:15 |
-| 48 | [NADIE MÁS!](https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SÍSIFO / NADIE MÁS!](https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD) | 4:09 |
-| 49 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 |
-| 50 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 |
+| 45 | [Extraños de Nuevo](https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Extraños de Nuevo](https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm) | 3:15 |
+| 46 | [Turbulencia](https://open.spotify.com/track/4t2Pqr2C1yRuvZ2YCLTVcx) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Música Buena Para Días Malos](https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG) | 3:49 |
+| 47 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
+| 48 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 |
+| 49 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 |
+| 50 | [NADIE MÁS!](https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SÍSIFO / NADIE MÁS!](https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD) | 4:09 |
 
 Snapshot ID: `AAAAAIA7N76lJMw7Quxn6Lu3X8TeX6ae`

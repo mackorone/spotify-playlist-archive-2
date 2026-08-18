@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KNTcD.md) - [plain]
 
 > This is Jae Stephens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 660 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 661 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KNTcD.md) - [plain]
 | 29 | [Long Way to Go](https://open.spotify.com/track/5QamNCps8nwxRYVM7WMFXz) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Long Way to Go](https://open.spotify.com/album/51X4XGeOfWa4B2oC84tXxw) | 3:18 |
 | 30 | [what are you doing tonight?](https://open.spotify.com/track/0QmSIJ8eUs7vry56VHiiTc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 2:56 |
 
-Snapshot ID: `an+sAAAAAAB7osnCU4R170mKXciw1tl5`
+Snapshot ID: `aoD9gAAAAAATMKyHjoWlp3FZIHn6amgT`

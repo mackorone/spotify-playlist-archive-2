@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Phoebe Bridgers, KATSEYE, Becky G, Quavo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,615,889 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,615,639 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 94 | [Pouring](https://open.spotify.com/track/6x1RfhNMyXuopmGSCPcT4q) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Pouring](https://open.spotify.com/album/4QQmW6sae4Zc48VoDFObQ5) | 3:34 |
 | 95 | [T\-Hexx](https://open.spotify.com/track/319GpXbRVe4r2q4HIsW6XD) | [Evil Island](https://open.spotify.com/artist/1ZqAGxTUQNbBh00YLuuQoP), [Guy Picciotto](https://open.spotify.com/artist/5QUMXQkgIKQVOSDvQ3rQRI) | [Terraform the Afterlife](https://open.spotify.com/album/7gEAIQDYHY8v1tZI5gluz9) | 3:45 |
 | 96 | [sundays](https://open.spotify.com/track/7audgOVGbxdHuInGTq2FHP) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [sundays](https://open.spotify.com/album/3Y8zeULelcsv45zhoHRNLE) | 2:43 |
-| 97 | [Flowers \- Demo Version](https://open.spotify.com/track/67tLOx8OazyKPLachfrTyg) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Flowers \(Demo Version\)](https://open.spotify.com/album/5nA6V7Bwvoe1AvAHrU7M0p) | 4:03 |
+| 97 | [Flowers \- Demo](https://open.spotify.com/track/67tLOx8OazyKPLachfrTyg) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Flowers \(Demo\)](https://open.spotify.com/album/5nA6V7Bwvoe1AvAHrU7M0p) | 4:03 |
 | 98 | [the evergreen, the birch](https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy), [MEGGO](https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc) | [the evergreen, the birch](https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v) | 2:59 |
 | 99 | [Like A River](https://open.spotify.com/track/3fbHdJu0V2dseGchHTjqUw) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [AJ Lee](https://open.spotify.com/artist/4KPSf2GwMkfffWc3yBudZG), [Gena Britt](https://open.spotify.com/artist/58w5My0xczC07lwAp8T0PJ), [Hasee Ciaccio](https://open.spotify.com/artist/0AoPdpx2v9EgQHmVvDxd7m), [Wila Frank](https://open.spotify.com/artist/5BytlUovIxRBOBPdbC3UWu) | [Bluegrass Women](https://open.spotify.com/album/2WGv7S4udUAHiWaXVJaq75) | 3:57 |
 | 100 | [Needle](https://open.spotify.com/track/0Bxh3DKY42997tK3SBY6iD) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Needle](https://open.spotify.com/album/7gj35vKZSrndvclu5KyKib) | 3:00 |

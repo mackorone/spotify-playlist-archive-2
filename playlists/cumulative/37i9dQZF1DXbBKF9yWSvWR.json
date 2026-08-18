@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met de beste Indie releases. Cover: Benny Sings",
+  "description": "Wekelijkse update met de beste Indie releases. Cover: Phoebe Bridgers",
   "name": "Indie Update",
   "tracks": [
     {
@@ -1268,6 +1268,24 @@
       "duration_ms": 210945,
       "name": "Au Pays du Cocaine",
       "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
+    },
+    {
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/7BnlbgZHEuZJ7LwgzPMDfB"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efr Faria",
+          "url": "https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "August",
+      "url": "https://open.spotify.com/track/0tyEv1QWVG3be1geQDqkD0"
     },
     {
       "album": {
@@ -3629,6 +3647,24 @@
     },
     {
       "album": {
+        "name": "Deliver Me From Trying",
+        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234773,
+      "name": "Deliver Me From Trying",
+      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
+    },
+    {
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/1SXiY0908RyXJTZ96fdDHi"
       },
@@ -3857,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Don't Eat Don't Sleep",
+        "url": "https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn"
+      },
+      "artists": [
+        {
+          "name": "Gliiico",
+          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Don't Eat Don't Sleep",
+      "url": "https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L"
+    },
+    {
+      "album": {
         "name": "Oh, To Be Home",
         "url": "https://open.spotify.com/album/4tSrXCKbV6EXE9RVBgIqJs"
       },
@@ -3922,7 +3976,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 248928,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/2v7TKWGiwLEGyQSorj8p9R"
@@ -4892,7 +4946,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 109431,
       "name": "Fireproof",
       "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
@@ -4910,7 +4964,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 204233,
       "name": "First Light",
       "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
@@ -5339,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "Ghostly Mourning Man",
+        "url": "https://open.spotify.com/album/6dFmM8WzoK7HrZ1GiszMIZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Ghostly Mourning Man",
+      "url": "https://open.spotify.com/track/1pRMk3zJ1OGc1WEvNO2CoR"
+    },
+    {
+      "album": {
         "name": "Gimme",
         "url": "https://open.spotify.com/album/4wVn8yXzw2zHTcf2kVfuZr"
       },
@@ -5628,7 +5700,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 168986,
       "name": "Good Entertainment",
       "url": "https://open.spotify.com/track/5QBQEIrVkPrtEQAGjE2WF5"
@@ -6563,6 +6635,24 @@
     },
     {
       "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217205,
+      "name": "I Can\u2019t Wait",
+      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
+    },
+    {
+      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -6578,6 +6668,24 @@
       "duration_ms": 291791,
       "name": "I Come With Mud",
       "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
+    },
+    {
+      "album": {
+        "name": "I Cry in Front of Paintings",
+        "url": "https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175720,
+      "name": "I Cry in Front of Paintings",
+      "url": "https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn"
     },
     {
       "album": {
@@ -8674,7 +8782,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 243837,
       "name": "Lucie",
       "url": "https://open.spotify.com/track/5HVpoNaZx9teIEKPlG0bhw"
@@ -9936,7 +10044,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 145767,
       "name": "No Mayo",
       "url": "https://open.spotify.com/track/1SmxSgBo70bv9xgISQ9rae"
@@ -10116,7 +10224,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 287238,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/3VfiR8Ikkdx9H8CKaBkVwL"
@@ -10782,6 +10890,24 @@
       "duration_ms": 187009,
       "name": "Passion",
       "url": "https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F"
+    },
+    {
+      "album": {
+        "name": "Paul",
+        "url": "https://open.spotify.com/album/4Rqzk5YGDOux3QZgs2HEN4"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192374,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/6m3q1zmQ9WMQbha9BH6gpn"
     },
     {
       "album": {
@@ -12524,7 +12650,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 119933,
       "name": "Shortcut (interlude)",
       "url": "https://open.spotify.com/track/3rNZahTv6znwMa3nswnXny"
@@ -12733,6 +12859,24 @@
     },
     {
       "album": {
+        "name": "Sleeping",
+        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212391,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
+    },
+    {
+      "album": {
         "name": "Slow Tonight",
         "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
@@ -12792,6 +12936,24 @@
       "duration_ms": 194946,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4pARZ3HOdh6HkLSdWorqpG"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4KhHOfEWVx6r7FOu0cQfxl"
+      },
+      "artists": [
+        {
+          "name": "Sam Nera",
+          "url": "https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181351,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/76Q3XvatRSrDNcTzoKbHrM"
     },
     {
       "album": {
@@ -13583,6 +13745,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
+    },
+    {
+      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/2LbenpUg0eW2nsBeyU9k2I"
       },
@@ -13616,6 +13796,24 @@
       "duration_ms": 165558,
       "name": "Surgical Love",
       "url": "https://open.spotify.com/track/67BKAU4FSq0KHMtFzbFzbe"
+    },
+    {
+      "album": {
+        "name": "Sweet Devotion",
+        "url": "https://open.spotify.com/album/3FrGuGvVyXcdj92kxZc5Pg"
+      },
+      "artists": [
+        {
+          "name": "Queen of Jeans",
+          "url": "https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188207,
+      "name": "Sweet Devotion",
+      "url": "https://open.spotify.com/track/0uc65AORg4dIHJknwx4hAV"
     },
     {
       "album": {
@@ -13846,7 +14044,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 208125,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6tAQOq9ezWVntk5gympCFB"
@@ -15764,7 +15962,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 284298,
       "name": "wake up",
       "url": "https://open.spotify.com/track/4Gfc7k9NB7Sq6aiZuXvlie"
@@ -15894,7 +16092,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 171297,
       "name": "Wasted On Myself",
       "url": "https://open.spotify.com/track/5FrxdzVGEPxdwmARNuInnJ"

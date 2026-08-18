@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: NorthSideBenji & Swavy
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,579 likes - 90 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,618 likes - 90 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crowd Control](https://open.spotify.com/track/55Kw5y93lv3Hy1ZUJoGXfo) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Coach](https://open.spotify.com/artist/7uLSgJTZ8P4jR0WhAVf5O3) | [Crowd Control](https://open.spotify.com/album/58kvgiVAwhMcCbJH6jtRVB) | 3:36 |
 | 2 | [How It Goes](https://open.spotify.com/track/4zz4ovQfpellqrHaFxwfoO) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [PRKR Knows Best](https://open.spotify.com/artist/1bXPoauGGo5onWZqlu92OD) | [How It Goes](https://open.spotify.com/album/7BxS3vvcCgb9pUkVv216Fv) | 3:01 |
-| 3 | [Simple Man](https://open.spotify.com/track/0IKkgsrvHfJmnmfY16Mp52) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [Here Goes Nothing](https://open.spotify.com/album/0SxfRe1Fuv0P3s7DoWBsA8) | 2:44 |
+| 3 | [Simple Man \(feat\. Pertinence\)](https://open.spotify.com/track/0IKkgsrvHfJmnmfY16Mp52) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [Here Goes Nothing](https://open.spotify.com/album/0SxfRe1Fuv0P3s7DoWBsA8) | 2:44 |
 | 4 | [Devoted](https://open.spotify.com/track/6XjBgPONT73YdFj2CGEgiA) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Devoted](https://open.spotify.com/album/6XVRDqdMVxWxg6YykoZfK6) | 2:20 |
 | 5 | [Good Call](https://open.spotify.com/track/0gPQHK0aACRv5JAhIWdpjB) | [Derin Falana](https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG) | [Candles & Timebombs](https://open.spotify.com/album/0wdoh2V4JYaZVoMAbZcRz2) | 2:34 |
 | 6 | [New Drop](https://open.spotify.com/track/4m6KMftkq26KfRi4c945OO) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [New Drop](https://open.spotify.com/album/1JNdImvl0QEfJRjODmqCkr) | 2:09 |

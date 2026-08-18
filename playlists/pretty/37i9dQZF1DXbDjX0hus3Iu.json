@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 540211,
+  "num_followers": 540252,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
-      },
-      "artists": [
-        {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Gator Country",
-      "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Feats Don't Fail Me Now",
         "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 147666,
       "name": "Feats Don't Fail Me Now",
       "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
+      },
+      "artists": [
+        {
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Gator Country",
+      "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Allman Brothers Band (Deluxe)",
-        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 317438,
-      "name": "Whipping Post",
-      "url": "https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Best Of...Green Grass & High Tides",
         "url": "https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 586400,
       "name": "Green Grass & High Tides - Remastered",
       "url": "https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "The Allman Brothers Band (Deluxe)",
+        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 317438,
+      "name": "Whipping Post",
+      "url": "https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Marauder",
-        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rattlesnake Rock 'N' Roller",
-      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Quinella",
         "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 253560,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Marauder",
+        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rattlesnake Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Before the Bullets Fly",
-      "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Cats On The Coast",
         "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 316600,
       "name": "That's Your Secret",
       "url": "https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Before the Bullets Fly",
+      "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Potlatch",
-        "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
-      },
-      "artists": [
-        {
-          "name": "The Bean Pickers Union",
-          "url": "https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT"
-        }
-      ],
-      "duration_ms": 280346,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Cats On The Coast",
         "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 219933,
       "name": "It Hurts To Want It So Bad",
       "url": "https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Potlatch",
+        "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
+      },
+      "artists": [
+        {
+          "name": "The Bean Pickers Union",
+          "url": "https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT"
+        }
+      ],
+      "duration_ms": 280346,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "The Johnny Van Zant Collection",
+        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
+      },
+      "artists": [
+        {
+          "name": "Johnny Van Zant Band",
+          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 298266,
       "name": "Time To Roll",
       "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "The Johnny Van Zant Collection",
-        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
-      },
-      "artists": [
-        {
-          "name": "Johnny Van Zant Band",
-          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg"
     },
     {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Pattern Disruptive",
-        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
-      },
-      "artists": [
-        {
-          "name": "The Dickey Betts Band",
-          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
-        }
-      ],
-      "duration_ms": 341933,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
-    },
-    {
       "added_at": "2025-07-11 17:42:51",
       "album": {
         "name": "Ain't Rocked in a While",
@@ -1203,6 +1187,22 @@
       "duration_ms": 281160,
       "name": "Ain't Rocked in a While",
       "url": "https://open.spotify.com/track/6SlbbFk9nML695UuADbXCO"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Pattern Disruptive",
+        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
+      },
+      "artists": [
+        {
+          "name": "The Dickey Betts Band",
+          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
+        }
+      ],
+      "duration_ms": 341933,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Bishop Black",
         "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 242106,
       "name": "Can't Keep Running",
       "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2025-06-20 04:06:02",

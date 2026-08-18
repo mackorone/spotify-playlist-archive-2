@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,760 likes - 242 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,763 likes - 242 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,9 +179,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 169 | [Humbling](https://open.spotify.com/track/6nMgRtFcZv48KZpd2fwfqn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Humbling](https://open.spotify.com/album/3JMrCLMGZ1MF06wKBGfePh) | 2:59 |
 | 170 | [Love Language](https://open.spotify.com/track/5LJlhVdugPn5HbaFL69L6m) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 |
 | 171 | [Too Bad](https://open.spotify.com/track/3bFUSbKteIXulMNkwywOQI) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:53 |
-| 172 | [Conditions](https://open.spotify.com/track/7BQdqre9lvLM3HmZ7QPgjU) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 4:36 |
-| 173 | [roses](https://open.spotify.com/track/2g46efmE9mpxnkXP7sNkdh) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:33 |
-| 174 | [Remedied](https://open.spotify.com/track/53k6rqSYCCzMPk995U8fE6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:08 |
+| 172 | [Remedied](https://open.spotify.com/track/53k6rqSYCCzMPk995U8fE6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:08 |
+| 173 | [Conditions](https://open.spotify.com/track/7BQdqre9lvLM3HmZ7QPgjU) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 4:36 |
+| 174 | [roses](https://open.spotify.com/track/2g46efmE9mpxnkXP7sNkdh) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:33 |
 | 175 | [Eddie In The Darkness](https://open.spotify.com/track/4I0VuGVxsWKFcbniaUs835) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:35 |
 | 176 | [Heaven](https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO) | 5:28 |
 | 177 | [Hail Mary](https://open.spotify.com/track/6VvvFnxvcPjoKelou9NJxZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 2:44 |
@@ -211,8 +211,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 201 | [One](https://open.spotify.com/track/21Xv9HhXnTjsyvwAcCyWhI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [One](https://open.spotify.com/album/4WQDeihU1K0tdoOqRoYsvW) | 4:11 |
 | 202 | [Cut Me Down \(feat\. Mallrat\)](https://open.spotify.com/track/46h7B6jXj5S7TBZXqtFVEh) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [All I Ever Want Is Everything](https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR) | 2:58 |
 | 203 | [Basement](https://open.spotify.com/track/3M4zpW1w9iP3UDJlfL5TP1) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 2:58 |
-| 204 | [Loop](https://open.spotify.com/track/2p2WVrioQLEhL98bfmx5Bh) | [Paperwhite](https://open.spotify.com/artist/2JSBQeazRlk0kVp2gelwbZ) | [Loop](https://open.spotify.com/album/7I7lL676DwpBnlo3jzyIbO) | 3:43 |
-| 205 | [Morals](https://open.spotify.com/track/1EVR07FNoOEQ8fEfJNs37G) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:20 |
+| 204 | [Morals](https://open.spotify.com/track/1EVR07FNoOEQ8fEfJNs37G) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:20 |
+| 205 | [Loop](https://open.spotify.com/track/2p2WVrioQLEhL98bfmx5Bh) | [Paperwhite](https://open.spotify.com/artist/2JSBQeazRlk0kVp2gelwbZ) | [Loop](https://open.spotify.com/album/7I7lL676DwpBnlo3jzyIbO) | 3:43 |
 | 206 | [DarkMagicSillySexy \(origin story\)](https://open.spotify.com/track/5zf0I513OSe5u5C3Czc3bc) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI) | 2:45 |
 | 207 | [RIP](https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:17 |
 | 208 | [Better than I Was](https://open.spotify.com/track/6Fh7RnC9smzn88GpnGKCpj) | [Up The RIvals](https://open.spotify.com/artist/4CQAbwrx8GllLKOPahvxyH), [Pois0nedlifealt](https://open.spotify.com/artist/6gKvF0oaV30ZOvSzrgH4S3) | [Better than I Was](https://open.spotify.com/album/5BXCnjvsiAKze4FNPdRjTT) | 2:23 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 241 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 242 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 
-Snapshot ID: `AcZwmgAAAACso4uYCka26mbHWxFAAuH5`
+Snapshot ID: `AcZ2bAAAAAAM1OnsQbY33doZKagf562f`

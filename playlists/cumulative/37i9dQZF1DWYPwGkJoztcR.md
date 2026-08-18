@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-183 songs - 10 hr 32 min
+184 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cruel Heart](https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 2:51 | 2025-06-27 | 2025-09-04 |
 | [Cruisin’](https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Cruisin’](https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI) | 3:24 | 2025-06-27 |  |
 | [Crystal Tears](https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Crystal Tears](https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE) | 3:42 | 2026-02-06 |  |
+| [Daffodils \(feat\. Faela\)](https://open.spotify.com/track/5UD3KQNl23a0cCnhNNQNal) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza), [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Daffodils \(feat\. Faela\)](https://open.spotify.com/album/3kCTGRIWZVPMBD3WRFgrdO) | 3:11 | 2026-08-17 |  |
 | [Daydreaming](https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [In my cluttered head](https://open.spotify.com/album/1AchE697lDOBQB0LuUTjDC) | 3:23 | 2025-06-27 | 2026-03-03 |
 | [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW) | 3:15 | 2025-11-11 | 2025-11-17 |
 | [Distant Rain](https://open.spotify.com/track/5SqalOpRVN36tQSYKmA4n2) | [Gisèle](https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna) | [Distant Rain](https://open.spotify.com/album/4GegVIiIB3iMfigkKB0M1k) | 2:21 | 2026-03-05 | 2026-07-31 |
@@ -168,7 +169,7 @@
 | [Thorns](https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Thorns](https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA) | 3:20 | 2025-06-27 |  |
 | [Till the Morning](https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Wide Awake](https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81) | 3:34 | 2025-06-27 | 2026-04-21 |
 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 | 2025-06-27 |  |
-| [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 | 2026-04-20 |  |
+| [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 | 2026-04-20 | 2026-08-18 |
 | [Trouble Is Me](https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Trouble Is Me](https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN) | 3:12 | 2026-03-02 |  |
 | [Try Again](https://open.spotify.com/track/6z3AtDWa2TYRo2MF6KwTmD) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x), [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Try Again](https://open.spotify.com/album/5kIaUsVuxXBXZC5tBlzhPN) | 3:56 | 2026-05-26 |  |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2025-06-27 |  |

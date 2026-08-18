@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,328 songs - 5 day 0 hr 45 min
+2,329 songs - 5 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1355,10 +1355,11 @@
 | [Min vita kanin](https://open.spotify.com/track/6ZGxJeIhyKOchbEuK8JBXa) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP) | 3:52 | 2026-03-19 |  |
 | [Min Vän](https://open.spotify.com/track/7tpQYavfKzFq1RkEmOarw1) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Min Vän](https://open.spotify.com/album/38EYyBabFipzV9LPr1nmcD) | 2:32 | 2024-05-02 | 2024-06-01 |
 | [Min vän och jag](https://open.spotify.com/track/0NPyQAU96LDQ2xLyIPyAg6) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Min vän och jag](https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K) | 2:38 | 2025-11-13 | 2026-03-20 |
-| [Mina bästa jeans](https://open.spotify.com/track/735Hwnau3dlQtzLtE1vCRn) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Mina bästa jeans](https://open.spotify.com/album/6MlAT6gxFoloQZU4EjeF6M) | 2:35 | 2026-06-25 |  |
+| [Mina bästa jeans](https://open.spotify.com/track/735Hwnau3dlQtzLtE1vCRn) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Mina bästa jeans](https://open.spotify.com/album/6MlAT6gxFoloQZU4EjeF6M) | 2:35 | 2026-06-25 | 2026-08-18 |
 | [Minimum](https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Minimum](https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb) | 2:13 | 2024-01-04 | 2024-02-23 |
 | [Minnet Av Ett Hav](https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Minnet Av Ett Hav](https://open.spotify.com/album/7KWH3xa5MMcXvqW4CgnxMd) | 3:46 | 2021-12-16 | 2022-04-02 |
 | [Minns du? \(feat\. Thomas Stenström\)](https://open.spotify.com/track/2lhyyg07nsxZ6pB35ZtCcp) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Minns du? \(feat\. Thomas Stenström\)](https://open.spotify.com/album/3hlEXqB62kybF7SvlRDQbJ) | 2:52 | 2024-02-08 | 2024-04-05 |
+| [Mint Condition](https://open.spotify.com/track/4NdP6vAQZMx2LNzvszOGxx) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Mint Condition](https://open.spotify.com/album/0T286uB0xqD29h3vF4SvqV) | 2:22 | 2026-08-13 |  |
 | [Misemotional](https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK) | 3:34 | 2023-10-19 | 2024-01-26 |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-04-07 | 2023-05-08 |
 | [Miss You On My Own](https://open.spotify.com/track/0pP83CapV6oZE6XSExUnBP) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Miss You On My Own](https://open.spotify.com/album/18i1cm2aN0wqLiVc8qmU9i) | 3:07 | 2024-01-25 | 2024-03-15 |

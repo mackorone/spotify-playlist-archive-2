@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstaligs songs uit de 10's! Cover: BL\u00d8F",
-  "num_followers": 79764,
+  "num_followers": 79770,
   "original_name": "10's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Golven",
-        "url": "https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO"
-      },
-      "artists": [
-        {
-          "name": "Diggy Dex",
-          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
-        },
-        {
-          "name": "JW Roy",
-          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
-        }
-      ],
-      "duration_ms": 224928,
-      "name": "Treur Niet (Ode Aan Het Leven)",
-      "url": "https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Hoe Het Danst",
         "url": "https://open.spotify.com/album/0HKLOVzGYbtdamZ0FDibKg"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 252923,
       "name": "Hoe Het Danst",
       "url": "https://open.spotify.com/track/5cYOVkA2cnjKid9yigaMwq"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Golven",
+        "url": "https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        },
+        {
+          "name": "JW Roy",
+          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
+        }
+      ],
+      "duration_ms": 224928,
+      "name": "Treur Niet (Ode Aan Het Leven)",
+      "url": "https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -279,6 +279,26 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
+        "name": "Blijf Bij Mij",
+        "url": "https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 179676,
+      "name": "Blijf Bij Mij",
+      "url": "https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
         "name": "Diamant",
         "url": "https://open.spotify.com/album/0GWbu2w7YoVg5NO9BekOxu"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 241583,
       "name": "Zij Weet Het - Studio Versie",
       "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
-        "name": "Blijf Bij Mij",
-        "url": "https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        }
-      ],
-      "duration_ms": 179676,
-      "name": "Blijf Bij Mij",
-      "url": "https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
+        "name": "Avondjurk",
+        "url": "https://open.spotify.com/album/3gMtg5BXcOuYpR1HKbWXoO"
+      },
+      "artists": [
+        {
+          "name": "Jurk!",
+          "url": "https://open.spotify.com/artist/3aTMQXvGDGHPcQFtH2PM28"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Zou Zo Graag",
+      "url": "https://open.spotify.com/track/1xnbXJyeHLYvpn5UVJ6h9T"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
         "name": "Ik Ga Hard",
         "url": "https://open.spotify.com/album/5h6BEWVTml6KaB7pL4V2ir"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 188026,
       "name": "Ik Ga Hard",
       "url": "https://open.spotify.com/track/0VrxOB23fTNCyG6WZCshd9"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
-        "name": "Avondjurk",
-        "url": "https://open.spotify.com/album/3gMtg5BXcOuYpR1HKbWXoO"
-      },
-      "artists": [
-        {
-          "name": "Jurk!",
-          "url": "https://open.spotify.com/artist/3aTMQXvGDGHPcQFtH2PM28"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Zou Zo Graag",
-      "url": "https://open.spotify.com/track/1xnbXJyeHLYvpn5UVJ6h9T"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
+        "name": "Hij Gelooft In Mij",
+        "url": "https://open.spotify.com/album/2cORujbxSnL80ZdQ0wbJBM"
+      },
+      "artists": [
+        {
+          "name": "Do",
+          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
+        }
+      ],
+      "duration_ms": 262348,
+      "name": "Hij Gelooft In Mij",
+      "url": "https://open.spotify.com/track/5lCPvGnxpZ0PMIhySYULY8"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
         "name": "This Is My Voice",
         "url": "https://open.spotify.com/album/3zuzvhtV3MeSb3Rh1MpQQn"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 209693,
       "name": "Wil Je Niet Nog 1 Nacht",
       "url": "https://open.spotify.com/track/4mFWIVsh5yJsLaaanQ8Hjr"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
-        "name": "Hij Gelooft In Mij",
-        "url": "https://open.spotify.com/album/2cORujbxSnL80ZdQ0wbJBM"
-      },
-      "artists": [
-        {
-          "name": "Do",
-          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
-        }
-      ],
-      "duration_ms": 262348,
-      "name": "Hij Gelooft In Mij",
-      "url": "https://open.spotify.com/track/5lCPvGnxpZ0PMIhySYULY8"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
+        "name": "Uit elkaar",
+        "url": "https://open.spotify.com/album/1SpcwCXKigpkYGemCFJPTO"
+      },
+      "artists": [
+        {
+          "name": "Livv",
+          "url": "https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2"
+        }
+      ],
+      "duration_ms": 206931,
+      "name": "Uit elkaar",
+      "url": "https://open.spotify.com/track/0UU2J2kHAxin4KU1A818yC"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
         "name": "Hoe",
         "url": "https://open.spotify.com/album/3uY2iQaemCp5tJ1w5Am4Ui"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Uit elkaar",
-        "url": "https://open.spotify.com/album/1SpcwCXKigpkYGemCFJPTO"
+        "name": "Totzoverder (Het Beste Van 3JS)",
+        "url": "https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h"
       },
       "artists": [
         {
-          "name": "Livv",
-          "url": "https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2"
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
         }
       ],
-      "duration_ms": 206931,
-      "name": "Uit elkaar",
-      "url": "https://open.spotify.com/track/0UU2J2kHAxin4KU1A818yC"
+      "duration_ms": 242906,
+      "name": "Geloven In Het Leven",
+      "url": "https://open.spotify.com/track/1FQUPfW7zKyiUHMJFr8c8d"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -1019,18 +1035,22 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Totzoverder (Het Beste Van 3JS)",
-        "url": "https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h"
+        "name": "Lange Nachten, Korte Dagen",
+        "url": "https://open.spotify.com/album/5l4SqfdkpD6Tv4TA5F5gom"
       },
       "artists": [
         {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        },
+        {
+          "name": "Eva De Roovere",
+          "url": "https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD"
         }
       ],
-      "duration_ms": 242906,
-      "name": "Geloven In Het Leven",
-      "url": "https://open.spotify.com/track/1FQUPfW7zKyiUHMJFr8c8d"
+      "duration_ms": 223533,
+      "name": "Slaap Lekker (Fantastig Toch)",
+      "url": "https://open.spotify.com/track/3yYUgleOOIBTynnKsTJSh5"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -1067,26 +1087,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Lange Nachten, Korte Dagen",
-        "url": "https://open.spotify.com/album/5l4SqfdkpD6Tv4TA5F5gom"
-      },
-      "artists": [
-        {
-          "name": "Diggy Dex",
-          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
-        },
-        {
-          "name": "Eva De Roovere",
-          "url": "https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Slaap Lekker (Fantastig Toch)",
-      "url": "https://open.spotify.com/track/3yYUgleOOIBTynnKsTJSh5"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Sterker - Deluxe Edition",
         "url": "https://open.spotify.com/album/2hE8PiyYyCoRniEYatkP29"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Beauty & De Brains",
-        "url": "https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        }
-      ],
-      "duration_ms": 186090,
-      "name": "Beauty & De Brains",
-      "url": "https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Alles Blijft Anders",
         "url": "https://open.spotify.com/album/3haM92LjHRloy63z4khYl8"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 293920,
       "name": "Hou Vol Hou Vast",
       "url": "https://open.spotify.com/track/0yE97dsmDBiumMmGNkLgrb"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Beauty & De Brains",
+        "url": "https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "duration_ms": 186090,
+      "name": "Beauty & De Brains",
+      "url": "https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob"
     },
     {
       "added_at": "2025-03-12 10:01:17",

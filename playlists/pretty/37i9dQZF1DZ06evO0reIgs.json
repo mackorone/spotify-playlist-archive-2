@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81961,
+  "num_followers": 81960,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADPxgTqLqpJKH21P6D5yclc",
+  "snapshot_id": "aoD9gAAAAACrpONI72e2dpxihV3mAHFZ",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
-        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Como Deus Quiser",
-      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Mundo da Lua / Abra\u00e7o",
         "url": "https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 338861,
       "name": "No Mundo da Lua / Abra\u00e7o",
       "url": "https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
+        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Como Deus Quiser",
+      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Que Voc\u00ea Faz",
+        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "O Que Voc\u00ea Faz",
+      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ponto Panor\u00e2mico",
         "url": "https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 220500,
       "name": "N\u00e3o Vou Dormir Cedo",
       "url": "https://open.spotify.com/track/4JugYnZ8NTvzF0pCMpa49v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Que Voc\u00ea Faz",
-        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "O Que Voc\u00ea Faz",
-      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
     },
     {
       "added_at": null,
@@ -1151,30 +1151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diferent\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 209298,
-      "name": "Esquece de Mim (Rap) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sejas Bem Feliz",
         "url": "https://open.spotify.com/album/3meUGWg5bCK4OoEJBOUkve"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 202434,
       "name": "Sejas Bem Feliz",
       "url": "https://open.spotify.com/track/4d8FiRf83bWZk7EZpEE1GA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diferent\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 209298,
+      "name": "Esquece de Mim (Rap) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,661,694 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,661,712 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 49 | [PTSD](https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:52 |
 | 50 | [Demons and Angels \(feat\. Juice WRLD\)](https://open.spotify.com/track/3L19besdNQzd342qL78xqm) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:34 |
 
-Snapshot ID: `an+sAAAAAADIQEgMWVfv6HthSVNr6V2Z`
+Snapshot ID: `aoD9gAAAAADWBawEsrlcfitobZX1UjXB`

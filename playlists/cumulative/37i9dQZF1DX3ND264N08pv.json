@@ -2697,6 +2697,32 @@
     },
     {
       "album": {
+        "name": "Complete Madness EP",
+        "url": "https://open.spotify.com/album/3kfRyf1t85F9HQaLq5c4Uj"
+      },
+      "artists": [
+        {
+          "name": "Dysistor",
+          "url": "https://open.spotify.com/artist/5h51ypCMqf7VitQwLadQF6"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        },
+        {
+          "name": "House Of Madness",
+          "url": "https://open.spotify.com/artist/1BOGIUMoDaCPOrGnu7sVtW"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205004,
+      "name": "Future Heroes",
+      "url": "https://open.spotify.com/track/2x9USrSNOtNtIQ5Ve0MFiZ"
+    },
+    {
+      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -5826,7 +5852,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 139411,
       "name": "NPC",
       "url": "https://open.spotify.com/track/65qs0klcCNYZeCuaYhQx2G"
@@ -6216,6 +6242,28 @@
       "duration_ms": 198315,
       "name": "Paint It Black",
       "url": "https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP"
+    },
+    {
+      "album": {
+        "name": "Party Accommodant 2K26",
+        "url": "https://open.spotify.com/album/488DoxcWXfa4o72jpunSvH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "DJ Mutante",
+          "url": "https://open.spotify.com/artist/5frybGd7YkcpOhjI4P0kzy"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130800,
+      "name": "Party Accommodant 2K26",
+      "url": "https://open.spotify.com/track/6yj1K43XSUWdMNjEOvifwC"
     },
     {
       "album": {
@@ -8372,7 +8420,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 150000,
       "name": "The Summer Is Keta",
       "url": "https://open.spotify.com/track/1RIfNLnJyiEg49j7H9m1y6"

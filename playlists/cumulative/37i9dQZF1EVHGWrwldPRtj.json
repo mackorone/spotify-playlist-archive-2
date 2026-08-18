@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYUrLnXLnv8n>F3miii</a>, <a href=spotify:playlist:37i9dQZF1EIZobirLlpmBa>Mac Miller</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a>, <a href=spotify:playlist:37i9dQZF1EIUXx6OHYXD1I>pupsies</a>, <a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -12531,6 +12531,24 @@
     },
     {
       "album": {
+        "name": "misery.",
+        "url": "https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2"
+      },
+      "artists": [
+        {
+          "name": "pupsies",
+          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166401,
+      "name": "misery.",
+      "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
+    },
+    {
+      "album": {
         "name": "Miss Summer",
         "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
       },
@@ -13640,7 +13658,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv"
@@ -13826,7 +13844,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
@@ -14340,7 +14358,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -19606,7 +19624,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -21958,7 +21976,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

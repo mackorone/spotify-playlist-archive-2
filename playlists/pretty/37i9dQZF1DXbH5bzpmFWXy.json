@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
-  "num_followers": 310508,
+  "num_followers": 310491,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -340,6 +340,22 @@
       "added_at": "2026-07-03 06:00:07",
       "album": {
         "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "ROSONES",
         "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
       },
       "artists": [
@@ -355,22 +371,6 @@
       "duration_ms": 178079,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "GAVIL\u00c1N II",
-      "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "GAVIL\u00c1N II",
+      "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -643,34 +643,22 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        "name": "Apaga El Cel",
+        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         },
         {
-          "name": "Hittman",
-          "url": "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
-        },
-        {
-          "name": "Six-Two",
-          "url": "https://open.spotify.com/artist/4xko5t5site4jVwopoCF21"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        },
-        {
-          "name": "Kurupt",
-          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Xxplosive",
-      "url": "https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1"
+      "duration_ms": 170832,
+      "name": "Apaga El Cel",
+      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -699,22 +687,34 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Apaga El Cel",
-        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         },
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Hittman",
+          "url": "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
+        },
+        {
+          "name": "Six-Two",
+          "url": "https://open.spotify.com/artist/4xko5t5site4jVwopoCF21"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
         }
       ],
-      "duration_ms": 170832,
-      "name": "Apaga El Cel",
-      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
+      "duration_ms": 215200,
+      "name": "Xxplosive",
+      "url": "https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 168210,
+      "name": "YW&F - Versi\u00f3n Reggaeton",
+      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
         "name": "Everythangs Corrupt",
         "url": "https://open.spotify.com/album/0EVgPaKOC8o9JFVpKLMSoz"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 206053,
       "name": "Ain't Got No Haters (feat. Too Short)",
       "url": "https://open.spotify.com/track/3C2BKKKa7xrz2uWqIN1Mnh"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 168210,
-      "name": "YW&F - Versi\u00f3n Reggaeton",
-      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
+        "name": "Sin Rumbo",
+        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        }
+      ],
+      "duration_ms": 203606,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
         "name": "Sentosa",
         "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 151594,
       "name": "Sentosa",
       "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
-        "name": "Sin Rumbo",
-        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Garcia",
-          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
-        }
-      ],
-      "duration_ms": 203606,
-      "name": "PLAYBOY",
-      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Capuchas",
-        "url": "https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut"
+        "name": "GPI",
+        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
       },
       "artists": [
         {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
         }
       ],
-      "duration_ms": 157440,
-      "name": "Capuchas",
-      "url": "https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB"
+      "duration_ms": 154632,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "GPI",
-        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
+        "name": "Capuchas",
+        "url": "https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut"
       },
       "artists": [
         {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
         }
       ],
-      "duration_ms": 154632,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
+      "duration_ms": 157440,
+      "name": "Capuchas",
+      "url": "https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Abnormal",
-        "url": "https://open.spotify.com/album/2naRWnBWVvxoBu1MdoikyA"
-      },
-      "artists": [
-        {
-          "name": "Moreno X4",
-          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
-        },
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Cenizas",
-      "url": "https://open.spotify.com/track/79yEct1P9ZLUXUH1E8x3Dd"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "Lujo y Detalle",
         "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 158784,
       "name": "Lujo y Detalle",
       "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "Abnormal",
+        "url": "https://open.spotify.com/album/2naRWnBWVvxoBu1MdoikyA"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        },
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/79yEct1P9ZLUXUH1E8x3Dd"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Campeones",
-        "url": "https://open.spotify.com/album/07RvDCTEmwPoC0YTMmbuyv"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        },
-        {
-          "name": "Mellow Man Ace",
-          "url": "https://open.spotify.com/artist/37YcGi7z4aXgzWu4jGRe4H"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Campeones",
-      "url": "https://open.spotify.com/track/3wNcQrEtxl9bR3VXnw8WwR"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "Bad Company (feat. BlocBoy JB)",
         "url": "https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp"
       },
@@ -1975,6 +1955,30 @@
       "duration_ms": 198036,
       "name": "Sold Out",
       "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "Rosita Fresita",
+        "url": "https://open.spotify.com/album/0G40KBVT8jMVFKIfVfe6Hn"
+      },
+      "artists": [
+        {
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
+        },
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Rosita Fresita",
+      "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
     }
   ],
   "unique_name": "El Barrio MP3 ",

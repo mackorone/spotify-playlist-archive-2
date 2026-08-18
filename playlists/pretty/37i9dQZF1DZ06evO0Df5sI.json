@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 24289,
+  "num_followers": 24290,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAGrPOhI+Skr159qEpV1/Iv",
+  "snapshot_id": "aoD9gAAAAABcnMQyaq4VjCVuww4uQ1WJ",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood, Hair, And Eyeballs",
-        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Blood, Hair, And Eyeballs",
-      "url": "https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 207973,
       "name": "Continental",
       "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Blood, Hair, And Eyeballs",
+      "url": "https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns"
     },
     {
       "added_at": null,

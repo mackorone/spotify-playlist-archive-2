@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 28592,
+  "num_followers": 28598,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -219,30 +219,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "R. Strauss: Symphonische Dichtungen",
-        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Tonk\u00fcnstler-Orchester",
-          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 1065373,
-      "name": "Don Juan, Op. 20, TrV 156",
-      "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "R. Strauss & Wagner: Lieder",
         "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
       },
@@ -263,6 +239,30 @@
       "duration_ms": 155560,
       "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3, Einerlei",
       "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "R. Strauss: Symphonische Dichtungen",
+        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Tonk\u00fcnstler-Orchester",
+          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "duration_ms": 1065373,
+      "name": "Don Juan, Op. 20, TrV 156",
+      "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -399,6 +399,26 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
+        "name": "Strauss: Also sprach Zarathustra, Op. 30; Don Juan, Op. 20; Le Bourgeois Gentilhomme: Suite, Op. 60 - Sony Classical Masters",
+        "url": "https://open.spotify.com/album/45G3Fdfsgv0miISIGG15jP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Fritz Reiner",
+          "url": "https://open.spotify.com/artist/4nsMLwMcViXAqwTLJ71y8i"
+        }
+      ],
+      "duration_ms": 611146,
+      "name": "Le bourgeois gentilhomme, Op. 60: The Dinner",
+      "url": "https://open.spotify.com/track/5GHeLyf4Bc8eZRlCHvyoa7"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
         "name": "Santtu Conducts Strauss: Ein Heldenleben",
         "url": "https://open.spotify.com/album/0Q4Zg24cVHjnzSnmByuXOj"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 678760,
       "name": "Ein Heldenleben, Op. 40: VI. Des Helden Weltflucht und Vollendung",
       "url": "https://open.spotify.com/track/0tA0d76ukyznyDAbAnG1Qz"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
-        "name": "Strauss: Also sprach Zarathustra, Op. 30; Don Juan, Op. 20; Le Bourgeois Gentilhomme: Suite, Op. 60 - Sony Classical Masters",
-        "url": "https://open.spotify.com/album/45G3Fdfsgv0miISIGG15jP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Fritz Reiner",
-          "url": "https://open.spotify.com/artist/4nsMLwMcViXAqwTLJ71y8i"
-        }
-      ],
-      "duration_ms": 611146,
-      "name": "Le bourgeois gentilhomme, Op. 60: The Dinner",
-      "url": "https://open.spotify.com/track/5GHeLyf4Bc8eZRlCHvyoa7"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -467,30 +467,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Capriccio - Works for Violin and Piano [Digital version]",
-        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Ducros",
-          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Strauss, R: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle (Arr. P\u0159\u00edhoda for Violin and Piano)",
-      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "R. Strauss: Vier letzte Lieder; Ein Heldenleben (Live at Philharmonie, Berlin, 2014)",
         "url": "https://open.spotify.com/album/7vgUpW5MllSVaL3YgT7ge1"
       },
@@ -515,6 +491,30 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
+        "name": "Capriccio - Works for Violin and Piano [Digital version]",
+        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Strauss, R: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle (Arr. P\u0159\u00edhoda for Violin and Piano)",
+      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
         "name": "Strauss: Complete Orchestral Works",
         "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
       },
@@ -535,54 +535,6 @@
       "duration_ms": 217733,
       "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
       "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
-        "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
-        "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        }
-      ],
-      "duration_ms": 1070973,
-      "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
-      "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
-        "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
-        "url": "https://open.spotify.com/album/1re3YyWogEFDTePZHNO7uL"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Raphaela Gromes",
-          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
-        },
-        {
-          "name": "Julian Riem",
-          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
-        }
-      ],
-      "duration_ms": 394089,
-      "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
-      "url": "https://open.spotify.com/track/1s2uSkX5bHKurbKWvZmuDI"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -615,6 +567,30 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
+        "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
+        "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        }
+      ],
+      "duration_ms": 1070973,
+      "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
+      "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
         "name": "Momentum [2]: Korngold, Strauss",
         "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
       },
@@ -639,6 +615,30 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
+        "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
+        "url": "https://open.spotify.com/album/1re3YyWogEFDTePZHNO7uL"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        }
+      ],
+      "duration_ms": 394089,
+      "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
+      "url": "https://open.spotify.com/track/1s2uSkX5bHKurbKWvZmuDI"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
         "name": "Strauss: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/16nAFy2XarUbwzZxKErqDN"
       },
@@ -659,34 +659,6 @@
       "duration_ms": 147000,
       "name": "Strauss, R: Ariadne auf Naxos, Op. 60, Prologue: Overture",
       "url": "https://open.spotify.com/track/3SzzWt7qccZbnKOehjgMaq"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
-        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
-        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Ulf Hoelscher",
-          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 907586,
-      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
-      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -719,6 +691,34 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
+        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
+        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Ulf Hoelscher",
+          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 907586,
+      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
+      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
         "name": "Verklarte Nacht",
         "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
       },
@@ -747,30 +747,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
-        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 207080,
-      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
-      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
         "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 276080,
       "name": "Ruhe, meine Seele, Op. 27 No. 1 (Version with Orchestra)",
       "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
+        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
+      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
     },
     {
       "added_at": "2025-12-15 11:35:26",

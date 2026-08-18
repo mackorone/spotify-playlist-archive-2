@@ -1,6 +1,6 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 18136,
+  "num_followers": 18137,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAEKgYsazbRwroB4A+wEU5Uzh0Rif",
   "tracks": [
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Primavera 0 - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6"
-    },
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 294106,
       "name": "Pulsar",
       "url": "https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Primavera 0 - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Secuencia Inicial - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Amor Amarillo",
         "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 388480,
       "name": "A Merced",
       "url": "https://open.spotify.com/track/3ZC8BXItb2bvgs8oKgz5qG"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Secuencia Inicial - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
-      },
-      "artists": [
-        {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "Siempre Acampa",
-      "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Amor Amarillo",
         "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 263093,
       "name": "Rombos (Un Cuarto Lleno de Rombos)",
       "url": "https://open.spotify.com/track/3Y1HyEI4ommUvkLuhMm7Sn"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+      },
+      "artists": [
+        {
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "Siempre Acampa",
+      "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
-      },
-      "artists": [
-        {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "Escafandra",
-      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Emporio Bizarro",
         "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 169026,
       "name": "Desaparecedor",
       "url": "https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+      },
+      "artists": [
+        {
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "Escafandra",
+      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
     },
     {
       "added_at": "2024-03-25 13:44:27",

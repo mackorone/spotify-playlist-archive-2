@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,247 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,258 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 34 | [You Still Believe In Me](https://open.spotify.com/track/2xNZK0n7SV7qvV1AlH30Dp) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:36 |
 | 35 | [Little Honda \(Stereo\)](https://open.spotify.com/track/1QL2yb3tD2zF5I1NAYH3mD) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 1:54 |
 | 36 | [Be True To Your School \- Remastered](https://open.spotify.com/track/0Tc7E6YsVc87M2op6fmFwI) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:11 |
-| 37 | [Catch A Wave \- Stereo/Remastered 2001](https://open.spotify.com/track/6huvhTE5Z5gXnduG3G3nHh) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:10 |
+| 37 | [A Thing Or Two \- Track & Backing Vocals](https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [1967 \- Sunshine Tomorrow](https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G) | 1:00 |
 | 38 | [I Just Wasn't Made For These Times](https://open.spotify.com/track/7Jljbi0t6TIusvUm3HnCAb) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 3:21 |
 | 39 | [All Summer Long \(Stereo\)](https://open.spotify.com/track/7Dq4DIHxstJPuoZAkP4885) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 2:08 |
 | 40 | [Rock And Roll Music \- Remastered 2012](https://open.spotify.com/track/0nmfRjxDxOhs2CggxvGPHS) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:29 |
-| 41 | [A Thing Or Two \- Track & Backing Vocals](https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [1967 \- Sunshine Tomorrow](https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G) | 1:00 |
-| 42 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
-| 43 | [The Warmth Of The Sun](https://open.spotify.com/track/6Xu7AtAGDsK7DSsj8Q3WyT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Made In California](https://open.spotify.com/album/2bNE80uDjuw9kqCjC6cZMR) | 3:03 |
-| 44 | [Disney Girls \(1957\) \- Remastered 2009](https://open.spotify.com/track/17qLiavc8woWHAPAGZD0Py) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:10 |
-| 45 | [Tears In The Morning \- Remastered 2009](https://open.spotify.com/track/0iz2Pm0bYYrHcuFletpNPT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 4:11 |
-| 46 | [Getcha Back](https://open.spotify.com/track/0gRFT4DkEpiYuSc2KlebWF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 2:59 |
+| 41 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
+| 42 | [The Warmth Of The Sun](https://open.spotify.com/track/6Xu7AtAGDsK7DSsj8Q3WyT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Made In California](https://open.spotify.com/album/2bNE80uDjuw9kqCjC6cZMR) | 3:03 |
+| 43 | [Disney Girls \(1957\) \- Remastered 2009](https://open.spotify.com/track/17qLiavc8woWHAPAGZD0Py) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:10 |
+| 44 | [Catch A Wave \- Stereo/Remastered 2001](https://open.spotify.com/track/6huvhTE5Z5gXnduG3G3nHh) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:10 |
+| 45 | [Getcha Back](https://open.spotify.com/track/0gRFT4DkEpiYuSc2KlebWF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 2:59 |
+| 46 | [Tears In The Morning \- Remastered 2009](https://open.spotify.com/track/0iz2Pm0bYYrHcuFletpNPT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 4:11 |
 | 47 | [Whistle In \- Remastered 2001](https://open.spotify.com/track/35zgxz18meGLAaQ7pdUlsU) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 1:07 |
 | 48 | [Ding Dang \- Remastered 2000](https://open.spotify.com/track/1YWy15CcdCrVugRJOZxuc7) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Love You \(Remastered\)](https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi) | 0:58 |
 | 49 | [Kokomo](https://open.spotify.com/track/3wgxpFGbgAighXR6eo56nW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 3:50 |
 | 50 | ['Til I Die \- Remastered 2009](https://open.spotify.com/track/2Uup75DRkJ03P91XyITXGC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 2:33 |
 
-Snapshot ID: `an+sAAAAAABWSKejW9kJ6lC4AgP7eLZ6`
+Snapshot ID: `aoD9gAAAAADfVXvyeLoJP9sb1Lu4yKAC`

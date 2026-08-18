@@ -4,7 +4,7 @@
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-109 songs - 7 hr 10 min
+110 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 | 2023-04-02 |  |
 | [Find A Way](https://open.spotify.com/track/0szU1fWxpXgr47uB6ezphl) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Unguarded](https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp) | 3:28 | 2023-04-02 | 2026-02-26 |
 | [Friend Like You](https://open.spotify.com/track/5zVueKXDOtWz7dwsWf890L) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 3:59 | 2026-05-11 |  |
+| [Gabriel's Oboe](https://open.spotify.com/track/3ZSQESabKAEHtellVD8GyY) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [A Christmas To Remember](https://open.spotify.com/album/28s7UItD76Qj0S3P8KmZb2) | 2:14 | 2026-08-18 |  |
 | [Galileo](https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 4:20 | 2023-05-25 |  |
 | [God Winks](https://open.spotify.com/track/28WKrR6DVTQnIgSbYez5Gl) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [God Winks](https://open.spotify.com/album/57DLfvLEZSu7hAgVQYzL2m) | 3:26 | 2026-07-29 |  |
 | [God Winks](https://open.spotify.com/track/5LO9HDFJ12unQi5WbR01DY) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [God Winks](https://open.spotify.com/album/75GJpyAlMg2T0HQKFHAa4Q) | 3:26 | 2025-11-18 | 2026-03-23 |
@@ -64,7 +65,7 @@
 | [In A Little While](https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:22 | 2023-04-02 |  |
 | [It Is Well With My Soul/The River's Gonna Keep On Rolling \- Medley](https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:54 | 2023-04-02 |  |
 | [Jesus, Take All Of Me \(Just As I Am\)](https://open.spotify.com/track/1Kkv4S73lfJkTcTyTnYIJh) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Hope: Songs Inspired By The Message And Mission Of Billy Graham](https://open.spotify.com/album/7HaZB4XQOdq1JEn17ImDGx) | 4:26 | 2023-04-02 | 2024-08-08 |
-| [Jesus, Take All Of Me \(Just As I Am\)](https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 4:27 | 2024-08-08 |  |
+| [Jesus, Take All Of Me \(Just As I Am\)](https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 4:27 | 2024-08-08 | 2026-08-18 |
 | [Joyful, Joyful, We Adore Thee](https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Rock Of Ages...Hymns & Faith](https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi) | 3:25 | 2023-04-02 |  |
 | [Lead Me On](https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lead Me On](https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX) | 5:36 | 2023-04-02 |  |
 | [Lead Me On](https://open.spotify.com/track/4lNWo2a9HjTMWbrfGTSLCh) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Unsung Hero \(The Inspired By Soundtrack\)](https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi) | 3:22 | 2024-04-28 |  |

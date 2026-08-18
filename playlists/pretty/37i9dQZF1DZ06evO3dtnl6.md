@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dtnl6.md) - [plain]
 
 > This is Gregory Alan Isakov\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,061 likes - 38 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,090 likes - 38 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dtnl6.md) - [plain]
 | 33 | [Berth](https://open.spotify.com/track/27XsVATDN0V8wM1bjRpGNn) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 4:53 |
 | 34 | [Unwritable Girl](https://open.spotify.com/track/3noTQVfSAGjbC2cS5efZoe) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 2:59 |
 | 35 | [That Sea, The Gambler](https://open.spotify.com/track/12VXe2fhXFRtnU2k1imuCW) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 4:53 |
-| 36 | [Highway Blood \(feat\. Shook Twins & Gregory Alan Isakov\)](https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose \(Vinyl\)](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 4:26 |
+| 36 | [Highway Blood](https://open.spotify.com/track/7vTNOsVw99CjBeniyjJzqC) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D) | 4:26 |
 | 37 | [All There Is](https://open.spotify.com/track/6hN8XWJEnsCSBZJ4v8Ckdq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 2:22 |
 | 38 | [Black & Blue](https://open.spotify.com/track/76r1FmtRgDKkiZ6Uru459R) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 3:48 |
 
-Snapshot ID: `an+sAAAAAADnovTsTrWYf6g3h8HohLgz`
+Snapshot ID: `aoD9gAAAAAA80tFvVNK1Vs7AXYbNtaVu`

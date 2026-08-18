@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,878 likes - 36 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,892 likes - 36 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 35 | [Fully Completely](https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Fully Completely](https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1) | 3:48 |
 | 36 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 |
 
-Snapshot ID: `an+sAAAAAAAfLfnFF+n0EJxS3l5sX04Y`
+Snapshot ID: `aoD9gAAAAADhQaCu5LtHiESDfa7ESD0d`

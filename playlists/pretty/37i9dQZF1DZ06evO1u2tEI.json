@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 88668,
+  "num_followers": 88682,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABY4JT8u8J2xXThae0uCTXE",
+  "snapshot_id": "aoD9gAAAAAA8CsPUa73gkWq7beLeEEdt",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 190573,
-      "name": "Coming Up Roses",
-      "url": "https://open.spotify.com/track/4plICMPtZHZt9TRlvvoupx"
+      "duration_ms": 144800,
+      "name": "The White Lady Loves You More",
+      "url": "https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 144800,
-      "name": "The White Lady Loves You More",
-      "url": "https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu"
+      "duration_ms": 190573,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/4plICMPtZHZt9TRlvvoupx"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From a Basement on the Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "Pretty (Ugly Before)",
-      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven Adores You Soundtrack",
         "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 84013,
       "name": "Untitled Guitar Finger Picking - Demo",
       "url": "https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From a Basement on the Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "Pretty (Ugly Before)",
+      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
     },
     {
       "added_at": null,

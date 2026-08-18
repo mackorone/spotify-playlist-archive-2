@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,468 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,469 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 42 | [Property](https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:25 |
 | 43 | [Supernova](https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Supernova](https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH) | 1:49 |
 | 44 | [Mariana](https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Mariana](https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX) | 2:28 |
-| 45 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
-| 46 | [Abracadabra](https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:15 |
+| 45 | [Abracadabra](https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:15 |
+| 46 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
 | 47 | [Attention](https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [F1 The Album](https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK) | 2:53 |
 | 48 | [Where Have You Been?](https://open.spotify.com/track/6v3Hqzmo0iGbXneqU0kYz3) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d) | 2:52 |
 | 49 | [Body](https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Body](https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv) | 3:36 |
 | 50 | [Marry](https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Marry](https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm) | 3:29 |
 
-Snapshot ID: `an+sAAAAAAAxdj5gZRwsjmb3/CguwQpK`
+Snapshot ID: `aoD9gAAAAADolxjt2C8KibBwjSbW5Q/y`

@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47154,
+  "num_followers": 47156,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Letto grande",
-        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
-      },
-      "artists": [
-        {
-          "name": "Matteo Guccini",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
-        },
-        {
-          "name": "Fedesse",
-          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Letto grande",
-      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "bambino perfetto",
         "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 140160,
       "name": "bambino perfetto",
       "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Letto grande",
+        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
+      },
+      "artists": [
+        {
+          "name": "Matteo Guccini",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        },
+        {
+          "name": "Fedesse",
+          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Letto grande",
+      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "nato per morire",
         "url": "https://open.spotify.com/album/3Ui6kNWhkGJ7E1pEscDLS3"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Buone Maniere Per Giovani Predatori",
-        "url": "https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp"
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1"
       },
       "artists": [
         {
-          "name": "Sxrrxwland",
-          "url": "https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje"
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
         }
       ],
-      "duration_ms": 233503,
-      "name": "Lasciami Qui",
-      "url": "https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr"
+      "duration_ms": 120000,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
+        "name": "Buone Maniere Per Giovani Predatori",
+        "url": "https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp"
+      },
+      "artists": [
+        {
+          "name": "Sxrrxwland",
+          "url": "https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje"
+        }
+      ],
+      "duration_ms": 233503,
+      "name": "Lasciami Qui",
+      "url": "https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
         "name": "polvere da sparo",
         "url": "https://open.spotify.com/album/1r3J6DtlIIYPLigj8H2xJZ"
       },
@@ -1291,30 +1291,6 @@
       "duration_ms": 177756,
       "name": "polvere da sparo",
       "url": "https://open.spotify.com/track/0i5vfMC6xACRZXFxQQOWgp"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
-      },
-      "artists": [
-        {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
-        },
-        {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1387,6 +1363,46 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+      },
+      "artists": [
+        {
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
         "name": "Ci siamo fatti male",
         "url": "https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58"
       },
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Atlantico",
-        "url": "https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb"
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 196726,
-      "name": "Atlantico",
-      "url": "https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47"
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1439,42 +1455,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "CONFESSIONE",
-        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
-      },
-      "artists": [
-        {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        }
-      ],
-      "duration_ms": 144187,
-      "name": "ALESSIA",
-      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "Piano e Forte",
         "url": "https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2"
       },
@@ -1495,8 +1475,8 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+        "name": "Atlantico",
+        "url": "https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb"
       },
       "artists": [
         {
@@ -1504,9 +1484,29 @@
           "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
         }
       ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+      "duration_ms": 196726,
+      "name": "Atlantico",
+      "url": "https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "CONFESSIONE",
+        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "duration_ms": 144187,
+      "name": "ALESSIA",
+      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "sfacciati",
-        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
-      },
-      "artists": [
-        {
-          "name": "UNK",
-          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "sfacciati",
-      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "Sotto lo zero",
         "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
       },
@@ -1587,22 +1571,6 @@
       "duration_ms": 180278,
       "name": "Sotto lo zero",
       "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Foglio rosa",
-        "url": "https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 139540,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1623,18 +1591,34 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "non sto bene, va bene cos\u00ec",
-        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
+        "name": "Foglio rosa",
+        "url": "https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7"
       },
       "artists": [
         {
-          "name": "Chakra",
-          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 113816,
-      "name": "Ho perso il cuore,",
-      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
+      "duration_ms": 139540,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "sfacciati",
+        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
+      },
+      "artists": [
+        {
+          "name": "UNK",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "sfacciati",
+      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Devil May Cry",
-        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
+        "name": "non sto bene, va bene cos\u00ec",
+        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
       },
       "artists": [
         {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
         }
       ],
-      "duration_ms": 148818,
-      "name": "Devil May Cry",
-      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
+      "duration_ms": 113816,
+      "name": "Ho perso il cuore,",
+      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1707,18 +1691,38 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Acqua Fredda",
-        "url": "https://open.spotify.com/album/4AU5GCrPCn9DOyqS5XD36m"
+        "name": "Devil May Cry",
+        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
       },
       "artists": [
         {
-          "name": "Leevio",
-          "url": "https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O"
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Acqua Fredda",
-      "url": "https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb"
+      "duration_ms": 148818,
+      "name": "Devil May Cry",
+      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        }
+      ],
+      "duration_ms": 174549,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     }
   ],
   "unique_name": "rimedi per cuori spezzati",

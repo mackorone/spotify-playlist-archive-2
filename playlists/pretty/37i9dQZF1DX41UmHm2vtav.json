@@ -83,26 +83,6 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "Prismatic: Pack One",
-        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
         "name": "Vintage Culture & Friends 2",
         "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 261818,
       "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
       "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
+        "name": "Prismatic: Pack One",
+        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -187,6 +187,30 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
+        "name": "Cante por N\u00f3s",
+        "url": "https://open.spotify.com/album/7zsQ5suVlsbukzTjgAzrpm"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Cante por N\u00f3s",
+      "url": "https://open.spotify.com/track/7q4aClIlFcgyVQDACJQdmG"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
         "name": "Dog Days",
         "url": "https://open.spotify.com/album/6UvLhOcuUReZcUI1pb1MiU"
       },
@@ -211,30 +235,6 @@
       "duration_ms": 251612,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/6zPDwf03dl0pLRh9MTtxeb"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
-        "name": "Cante por N\u00f3s",
-        "url": "https://open.spotify.com/album/7zsQ5suVlsbukzTjgAzrpm"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Cante por N\u00f3s",
-      "url": "https://open.spotify.com/track/7q4aClIlFcgyVQDACJQdmG"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -275,26 +275,6 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/4H6UoTC7CTLPgcFGV3D3pi"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/6AmPB33GIbTMxicnQtht2m"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
         "name": "Azul (Illusionize & Linkage Remix)",
         "url": "https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 198867,
       "name": "Azul - Illusionize & Linkage Remix",
       "url": "https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/4H6UoTC7CTLPgcFGV3D3pi"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/6AmPB33GIbTMxicnQtht2m"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -551,30 +551,6 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "In The End (Remix)",
-        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
-      },
-      "artists": [
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        },
-        {
-          "name": "Maffei",
-          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
-        },
-        {
-          "name": "Bill Sandre",
-          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
-        }
-      ],
-      "duration_ms": 164879,
-      "name": "In The End - Remix",
-      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
         "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
         "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
       },
@@ -607,6 +583,26 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
+        "name": "Descobridor dos Sete Mares: Remix",
+        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Descobridor dos Sete Mares: Remix",
+      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
       },
@@ -627,22 +623,26 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "Descobridor dos Sete Mares: Remix",
-        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
+        "name": "In The End (Remix)",
+        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
         },
         {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+          "name": "Maffei",
+          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
+        },
+        {
+          "name": "Bill Sandre",
+          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Descobridor dos Sete Mares: Remix",
-      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
+      "duration_ms": 164879,
+      "name": "In The End - Remix",
+      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -687,26 +687,6 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -819,30 +819,6 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
-      },
-      "artists": [
-        {
-          "name": "Isadora",
-          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
-        },
-        {
-          "name": "Marina Diniz",
-          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
+      },
+      "artists": [
+        {
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
+        },
+        {
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "Empezar Ganando",
-        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
         "name": "Dias Melhores - Remix",
         "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
       },
@@ -1007,22 +987,22 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "Back to Beginning",
-        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
+        "name": "Empezar Ganando",
+        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
       },
       "artists": [
         {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         },
         {
-          "name": "Talking Dirty",
-          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 195483,
-      "name": "Back to Beginning",
-      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -1047,6 +1027,26 @@
       "duration_ms": 220125,
       "name": "E Depois (Que Sorte A Minha)",
       "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
+        "name": "Back to Beginning",
+        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
+      },
+      "artists": [
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        },
+        {
+          "name": "Talking Dirty",
+          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Back to Beginning",
+      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
       },
       "artists": [
         {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
         },
         {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+          "name": "Rodrigo S\u00e1",
+          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
         }
       ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
+      "duration_ms": 212640,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Rodrigo S\u00e1",
-          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 179016,
       "name": "Blind",
       "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -1391,30 +1391,6 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "Olhos Coloridos (Rap Singulares)",
-        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
-      },
-      "artists": [
-        {
-          "name": "Sandra S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        },
-        {
-          "name": "MarVixx",
-          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
-        },
-        {
-          "name": "Simone Malafaia",
-          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Olhos Coloridos (Rap Singulares)",
-      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
         "name": "Quem N\u00e3o Quer Sou Eu",
         "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
       },
@@ -1439,6 +1415,30 @@
       "duration_ms": 178205,
       "name": "Quem N\u00e3o Quer Sou Eu",
       "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
+        "name": "Olhos Coloridos (Rap Singulares)",
+        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
+      },
+      "artists": [
+        {
+          "name": "Sandra S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        },
+        {
+          "name": "MarVixx",
+          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
+        },
+        {
+          "name": "Simone Malafaia",
+          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Olhos Coloridos (Rap Singulares)",
+      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
+        "name": "Please Don't Go (Bruno Martini Remix)",
+        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
+      },
+      "artists": [
+        {
+          "name": "Double You",
+          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Please Don't Go - Bruno Martini Remix",
+      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 140826,
       "name": "Hoje Caminhei - Remix",
       "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
-        "name": "Please Don't Go (Bruno Martini Remix)",
-        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
-      },
-      "artists": [
-        {
-          "name": "Double You",
-          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Please Don't Go - Bruno Martini Remix",
-      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
     }
   ],
   "unique_name": "Festa na Praia",

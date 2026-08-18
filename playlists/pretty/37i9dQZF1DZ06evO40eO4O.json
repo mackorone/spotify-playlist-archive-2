@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 8412,
+  "num_followers": 8443,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADHQvxBhNg9U+HiBc0Gvbvv",
+  "snapshot_id": "aoD9gAAAAAAFAuKiBU7zNZJ0hhOQkDAp",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Di Cuenta",
         "url": "https://open.spotify.com/album/6jFRVOjcQ9Ca7LwZbdpzyo"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 171034,
       "name": "Me Di Cuenta",
       "url": "https://open.spotify.com/track/2f0Sy7EgELM5bP6GZhrMSq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX"
     },
     {
       "added_at": null,
@@ -759,42 +759,6 @@
       "duration_ms": 207040,
       "name": "El Camino (feat. \u00c1ngela Torres)",
       "url": "https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porno y Helado - (Banda Sonora De La Segunda Temporada De La Serie Original De Amazon Prime)",
-        "url": "https://open.spotify.com/album/1GmqlbHDnKDsr5AWjv1EuE"
-      },
-      "artists": [
-        {
-          "name": "Diego Uma",
-          "url": "https://open.spotify.com/artist/1GdiNwO4ULE3airQyDbIMI"
-        },
-        {
-          "name": "Martin Bosa",
-          "url": "https://open.spotify.com/artist/0rQJnIVSGk1Bt9MQZIGBp4"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Kevsho",
-          "url": "https://open.spotify.com/artist/2ZRWQ32bmdN6cdXr1TVGLh"
-        },
-        {
-          "name": "Sof\u00eda Saborido",
-          "url": "https://open.spotify.com/artist/6yYuD9tFDOZFKA3HytWtVT"
-        },
-        {
-          "name": "Federico Sack",
-          "url": "https://open.spotify.com/artist/0K2z0O8rZrG3SxQy59ZsQr"
-        }
-      ],
-      "duration_ms": 117120,
-      "name": "Ropa Usada",
-      "url": "https://open.spotify.com/track/42486PSR7Ed3VBGNhMFtP0"
     }
   ],
   "unique_name": "This Is Angela Torres",

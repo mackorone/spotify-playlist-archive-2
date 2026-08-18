@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DpGWpVeOof.md) - [plain]
 
 > Video musik lagu\-lagu hits dalam negeri dari beberapa waktu lalu hanya untuk pengguna premium
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,178 likes - 29 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,181 likes - 29 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 66765,
+  "num_followers": 66805,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADXzkAgCNDDsdEmBfQyKlmE",
+  "snapshot_id": "aoD9gAAAAAASocwpV5CrkqgqxpNPhI7B",
   "tracks": [
     {
       "added_at": null,
@@ -659,26 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. II",
-        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
+        "name": "Libro Abierto",
+        "url": "https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
         },
         {
           "name": "Silvana Estrada",
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 370946,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1WcVu6GCEcThyJBBZovFNv"
+      "duration_ms": 161739,
+      "name": "D\u00edas Que No Lloro",
+      "url": "https://open.spotify.com/track/4l1pNkgYLk0Qsdvku8D9nL"
     },
     {
       "added_at": null,
@@ -703,22 +699,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libro Abierto",
-        "url": "https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6"
+        "name": "Un Canto por M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         },
         {
           "name": "Silvana Estrada",
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 161739,
-      "name": "D\u00edas Que No Lloro",
-      "url": "https://open.spotify.com/track/4l1pNkgYLk0Qsdvku8D9nL"
+      "duration_ms": 370946,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1WcVu6GCEcThyJBBZovFNv"
     },
     {
       "added_at": null,

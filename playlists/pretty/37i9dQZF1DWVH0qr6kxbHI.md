@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,921 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,940 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 22 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 |
 | 23 | [Sarandonga](https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Lola Lolita Lola](https://open.spotify.com/album/4NLreQcjpcQESB7yvGU8RY) | 4:00 |
 | 24 | [Te amaré, te amo, y te querré](https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Oraciones de amor](https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg) | 4:41 |
-| 25 | [Juntos](https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Ahora](https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe) | 4:21 |
-| 26 | [Se acabó](https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Se acabo](https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn) | 3:02 |
+| 25 | [Se acabó](https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Se acabo](https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn) | 3:02 |
+| 26 | [Juntos](https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Ahora](https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe) | 4:21 |
 | 27 | [Cuando Te Beso](https://open.spotify.com/track/5XqlTeL5oyxqSJsD6D7XVP) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [La Orilla de Mi Pelo](https://open.spotify.com/album/6NtCvKJZsZG1QqCJVMeOhy) | 3:35 |
 | 28 | [Marinero de Luces](https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 3:02 |
 | 29 | [Un año de amor](https://open.spotify.com/track/7EANhLnU0DW0SZf8e4dPDm) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 3:21 |
-| 30 | [Beso a beso..\. dulcemente](https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [En directo](https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ) | 4:12 |
-| 31 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
+| 30 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
+| 31 | [Beso a beso..\. dulcemente](https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [En directo](https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ) | 4:12 |
 | 32 | [Señora](https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [15 Exitos Originales Con Rocio Jurado](https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf) | 3:39 |
 | 33 | [Hoy Quiero Confesarme](https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 4:49 |
 | 34 | [Amor, Amor](https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Mis Recuerdos](https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h) | 3:50 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 45 | [La Paloma](https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Mari Trini Con los Panchos](https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC) | 3:24 |
 | 46 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [20 Años De Amor](https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A) | 4:26 |
 | 47 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:06 |
-| 48 | [Maria Se Bebe las Calles](https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Banderas De Nadie](https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr) | 4:05 |
-| 49 | [Tú Me Camelas \(Tangos\)](https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Caprichos de Mujer](https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3) | 4:13 |
+| 48 | [Tú Me Camelas \(Tangos\)](https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Caprichos de Mujer](https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3) | 4:13 |
+| 49 | [Maria Se Bebe las Calles](https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Banderas De Nadie](https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr) | 4:05 |
 | 50 | [Que seas feliz](https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 3:52 |
 | 51 | [Como Tu Mujer](https://open.spotify.com/track/48FyOW0CTVaPLFnWmOYDzB) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 4:25 |
 | 52 | [Sevillanas de los Bloques](https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Isidro Sanlucar](https://open.spotify.com/artist/3CmNkHj1gWBUw3ZKfRmm42), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Cristalitos Machacaos](https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj) | 3:15 |

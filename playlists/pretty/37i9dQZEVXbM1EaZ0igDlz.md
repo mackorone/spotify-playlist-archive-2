@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,962 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,965 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 35 | [Kein Kokain](https://open.spotify.com/track/2j5jkTuP2gmqN7hDPkfDDd) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [Ikkimel die Geile EP](https://open.spotify.com/album/2DqQVfkWHUYJLjRhoryZzN) | 2:56 |
 | 36 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 37 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/2cHhcN6iNLNXc7FByWBGi5) | 3:40 |
-| 38 | [Don't Stop The Music](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:27 |
+| 38 | [Don't Stop The Music](https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:27 |
 | 39 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 40 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 |
 | 41 | [FREAKED OUT](https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN) | [Fat Papi](https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov), [prodshushy](https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA) | [FREAKED OUT](https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 50 | [misery.](https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY) | [pupsies](https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm) | [misery.](https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2) | 2:46 |
 
-Snapshot ID: `MhUXOAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MhZouAAAAAAAAAAAAAAAAAAAAAAAAGVu`

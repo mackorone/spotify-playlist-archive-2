@@ -4,7 +4,7 @@
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-92 songs - 7 hr 45 min
+93 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Choque E Fogo](https://open.spotify.com/track/0Y0tYSDTuGpzff4moYGa4u) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Único \- Incomparável \(Vol\. 1\)](https://open.spotify.com/album/1PD0lcDNh9WozfS2309QAu) | 4:00 | 2024-06-18 | 2025-02-25 |
 | [Com Cristo é Vencer](https://open.spotify.com/track/4gm9T7Qpul7DteuK1sIpVz) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:24 | 2023-07-09 |  |
 | [Com Muito Louvor](https://open.spotify.com/track/0suvVjf5ZT2Pasu1cDPEVr) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 5:05 | 2023-07-09 |  |
-| [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 | 2023-07-09 |  |
+| [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 | 2026-08-18 |  |
+| [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 | 2023-07-09 | 2026-08-18 |
 | [De Valor em Valor](https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 4:28 | 2024-06-11 |  |
 | [Deus Responde](https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:32 | 2025-11-01 |  |
 | [Deus Tem Poder](https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:08 | 2024-05-03 |  |

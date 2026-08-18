@@ -4,10 +4,11 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-514 songs - 1 day 4 hr 54 min
+515 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [174 Hz Some Days Feel Heavier](https://open.spotify.com/track/1yYgyLlwgeFMLAIKuQWlCx) | [Jason Stephenson](https://open.spotify.com/artist/1DbGUgDfEgFlJpUVCdiBxa) | [When Everything Feels…](https://open.spotify.com/album/2STSvdIO242hXhUbreeEs0) | 3:16 | 2026-08-17 |  |
 | [2003 Toyota Corolla](https://open.spotify.com/track/0kkysENXsRAz1awenKqxCB) | [2003 Toyota Corolla](https://open.spotify.com/artist/6FYMANNdpYv2Y9prysxwCW) | [2003 Toyota Corolla](https://open.spotify.com/album/4oOr6KBLtpEF3zjlK5HMYx) | 7:06 | 2022-05-19 | 2022-09-07 |
 | [396 Hz Experience](https://open.spotify.com/track/7qUxIw98RHTE8m949qCivn) | [Elevated Waves](https://open.spotify.com/artist/0CLGXphAxygjR7w7ZsRo25) | [396 Hz Experience](https://open.spotify.com/album/5I23JHxKn08edSkuFS4KPR) | 3:08 | 2025-09-09 |  |
 | [6 Figures](https://open.spotify.com/track/3iZwmqUWy35ytJI9mSNWG9) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [6 Figures](https://open.spotify.com/album/35ARyGdTF2FCOV6dsjyRYW) | 3:05 | 2025-06-12 | 2026-02-18 |

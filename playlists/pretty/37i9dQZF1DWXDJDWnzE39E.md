@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,284 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,364 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 58 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 |
 | 59 | [Reincarnation](https://open.spotify.com/track/40BsFOkZsT8WznGkJFUCuN) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Beyond The Black](https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy) | 4:13 |
 | 60 | [The Day Of...](https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:33 |
-| 61 | [Bottom of a Bottle](https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Eye For An Eye...](https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD) | 3:19 |
-| 62 | [Battle Ready](https://open.spotify.com/track/7J9tkRgN26YmIHXl4fnVlp) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:21 |
+| 61 | [Battle Ready](https://open.spotify.com/track/7J9tkRgN26YmIHXl4fnVlp) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:21 |
+| 62 | [Bottom of a Bottle](https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Eye For An Eye...](https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD) | 3:19 |
 | 63 | [The Rabbit Of The Moon](https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Lunaris](https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe) | 3:51 |
 | 64 | [Mortal](https://open.spotify.com/track/43eCVp68xqlin5DFHKahIE) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Mortal](https://open.spotify.com/album/3JNEooM1MrfXDs7pxkdYZF) | 2:56 |
 | 65 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
-| 66 | [Orphan Soul](https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [86](https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w) | 4:48 |
-| 67 | [Blood Pigs](https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:03 |
+| 66 | [Blood Pigs](https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:03 |
+| 67 | [Orphan Soul](https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [86](https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w) | 4:48 |
 | 68 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
 | 69 | [Crucifère](https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8) | [Eths](https://open.spotify.com/artist/2IZkG4M2WcpLtfraGYJISf) | [Soma](https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69) | 3:35 |
 | 70 | [WORTHY](https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [WORTHY](https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp) | 3:42 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 73 | [Frozen Throne](https://open.spotify.com/track/1Ekn40vhRVubeR3JNRPjWr) | [Kalidia](https://open.spotify.com/artist/0CNwIzfosLnGPKiVrLtLxA) | [The Frozen Throne](https://open.spotify.com/album/4p6FLayBpSuuIagjhDjBhZ) | 4:53 |
 | 74 | [Taxicab Messiah](https://open.spotify.com/track/6rYkjMNtpybnXa1ZmNgg3c) | [Kidneythieves](https://open.spotify.com/artist/40Mez3T0kn5OLe0dN1xUJj) | [Trickstereprocess](https://open.spotify.com/album/04FtzH0LUUCyAhiG2kTMhf) | 4:20 |
 | 75 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 |
-| 76 | [Murder Scene](https://open.spotify.com/track/6YXwxIPFt3R340CnoFxjf9) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Murder Scene](https://open.spotify.com/album/69xdy6jTcmgmCrZbd4ilob) | 2:47 |
-| 77 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
+| 76 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
+| 77 | [Murder Scene](https://open.spotify.com/track/6YXwxIPFt3R340CnoFxjf9) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Murder Scene](https://open.spotify.com/album/69xdy6jTcmgmCrZbd4ilob) | 2:47 |
 | 78 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 |
 | 79 | [Steelbound](https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI) | 4:26 |
 | 80 | [BITE DOWN](https://open.spotify.com/track/3FS58QCiryR8nE0d8F5hhH) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [BITE DOWN](https://open.spotify.com/album/15KzBKCsWnQGYxauI5cpKr) | 2:05 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 93 | [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 |
 | 94 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 |
 | 95 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
-| 96 | [Cloaked](https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 3:54 |
+| 96 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
 | 97 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
 | 98 | [Weeping Willow](https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Pitch Black Sunset](https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB) | 4:28 |
-| 99 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
+| 99 | [Cloaked](https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 3:54 |
 | 100 | [Breathe You In](https://open.spotify.com/track/680R0ratdk9o2M6nko18GG) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Breathe You In](https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc) | 3:40 |
 
 Snapshot ID: `AAAAACbgW5befByn43VE5MGLv3WtKhpU`

@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604423,
+  "num_followers": 604417,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Evil Is Contagious",
-        "url": "https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ"
-      },
-      "artists": [
-        {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
-        },
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 196097,
-      "name": "Evil Is Contagious",
-      "url": "https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
         "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
       },
@@ -623,34 +603,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Highs and Lows",
-        "url": "https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld"
+        "name": "Evil Is Contagious",
+        "url": "https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ"
       },
       "artists": [
         {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
-        }
-      ],
-      "duration_ms": 223416,
-      "name": "Highs and Lows",
-      "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
-      },
-      "artists": [
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
         {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 176381,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
+      "duration_ms": 196097,
+      "name": "Evil Is Contagious",
+      "url": "https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -687,18 +655,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E"
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
       },
       "artists": [
         {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
         }
       ],
-      "duration_ms": 206867,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty"
+      "duration_ms": 176381,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -719,6 +687,38 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 206867,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 223416,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Over My Head",
-        "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
-      },
-      "artists": [
-        {
-          "name": "Not My Weekend",
-          "url": "https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X"
-        }
-      ],
-      "duration_ms": 182956,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Where I Lay",
         "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 216741,
       "name": "Where I Lay",
       "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
+      },
+      "artists": [
+        {
+          "name": "Not My Weekend",
+          "url": "https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X"
+        }
+      ],
+      "duration_ms": 182956,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Stare at the Sun",
-        "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
-      },
-      "artists": [
-        {
-          "name": "Makari",
-          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Hard Call",
         "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 190000,
       "name": "Hard Call",
       "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Stare at the Sun",
+        "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
+      },
+      "artists": [
+        {
+          "name": "Makari",
+          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+        "name": "77 (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 218583,
-      "name": "Under My Sweater",
-      "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
+      "duration_ms": 173842,
+      "name": "77 - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1039,22 +1043,34 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "77 (feat. Avril Lavigne)",
-        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 173842,
-      "name": "77 - feat. Avril Lavigne",
-      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+      "duration_ms": 218583,
+      "name": "Under My Sweater",
+      "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1087,22 +1103,6 @@
       "duration_ms": 203444,
       "name": "Give or Take",
       "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "As It Is",
-        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 213364,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Oxy Moron",
         "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "As It Is",
+        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 213364,
+      "name": "Do You Remember?",
+      "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "X's For Eyes",
         "url": "https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 176008,
       "name": "X\u2019s For Eyes",
       "url": "https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1275,22 +1291,6 @@
       "duration_ms": 216338,
       "name": "Incomplete",
       "url": "https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+        "name": "FAKE FEELINGS",
+        "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
       },
       "artists": [
         {
-          "name": "iNTeRNeT FReNDz",
-          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+          "name": "all in ur head",
+          "url": "https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd"
         }
       ],
-      "duration_ms": 160726,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
+      "duration_ms": 185741,
+      "name": "FAKE FEELINGS",
+      "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "FAKE FEELINGS",
-        "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
       },
       "artists": [
         {
-          "name": "all in ur head",
-          "url": "https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd"
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
         }
       ],
-      "duration_ms": 185741,
-      "name": "FAKE FEELINGS",
-      "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "One Zero Zero",
+        "url": "https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "One Zero Zero",
+      "url": "https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "Forgive (feat. Joe Taylor)",
         "url": "https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT"
       },
@@ -1651,34 +1667,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj"
+        "name": "LANDSLIDE",
+        "url": "https://open.spotify.com/album/7MUzrLfPEFJ1am5ZAoWkLF"
       },
       "artists": [
         {
-          "name": "Bike Routes",
-          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
         }
       ],
-      "duration_ms": 197627,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "One Zero Zero",
-        "url": "https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "One Zero Zero",
-      "url": "https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A"
+      "duration_ms": 149943,
+      "name": "LANDSLIDE",
+      "url": "https://open.spotify.com/track/4X5KLpeHYDFBwwhoOkN2q2"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

@@ -1,6 +1,6 @@
 {
   "description": "Los grandes \u00e9xitos de la d\u00e9cada pasada, en M\u00e9xico. Carla Morrison en portada.",
-  "num_followers": 257198,
+  "num_followers": 257215,
   "original_name": "Los 2010 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 288893,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 288893,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -359,6 +359,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 251146,
+      "name": "La De La Mala Suerte",
+      "url": "https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "Aztl\u00e1n",
         "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 251146,
-      "name": "La De La Mala Suerte",
-      "url": "https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa"
+      "duration_ms": 211373,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -407,18 +423,50 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Para M\u00ed",
-        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+        "name": "Mi Persona Preferida",
+        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 211373,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
+      "duration_ms": 186653,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 258532,
+      "name": "Al\u00e9jate de M\u00ed",
+      "url": "https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Programaton",
+        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Arrullo De Estrellas",
+      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -443,54 +491,6 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "Programaton",
-        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Arrullo De Estrellas",
-      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 258532,
-      "name": "Al\u00e9jate de M\u00ed",
-      "url": "https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "Mi Persona Preferida",
-        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
     },
     {
+      "added_at": "2022-02-24 02:27:38",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+    },
+    {
       "added_at": "2021-06-16 14:03:20",
       "album": {
         "name": "Peligro",
@@ -575,22 +591,6 @@
       "duration_ms": 265386,
       "name": "Vida En El Espejo",
       "url": "https://open.spotify.com/track/2yThUakfNYwaToGaKJxKEK"
-    },
-    {
-      "added_at": "2022-02-24 02:27:38",
-      "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 224085,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "El Problema",
         "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "30 de Febrero",
-        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 194386,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
+      "duration_ms": 224085,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -715,6 +699,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "30 de Febrero",
+        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 224085,
-      "name": "Visita",
-      "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 225480,
       "name": "Amigos No por Favor (Primera Fila) - En Vivo",
       "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 224085,
+      "name": "Visita",
+      "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156946,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/2130NP0O4zNPLiPDWWKacF"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi"
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
         }
       ],
-      "duration_ms": 156946,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty"
+      "duration_ms": 190480,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -843,22 +859,6 @@
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "\u00bfC\u00f3mo Pagarte?",
-      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
     }
   ],
   "unique_name": "Los 2010 M\u00e9xico",

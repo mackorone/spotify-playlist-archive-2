@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,090 likes - 217 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,089 likes - 216 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,9 +221,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 211 | [I've Got You](https://open.spotify.com/track/1fCZlXzwRBQ7slzj3PCTsi) | [Sheridan](https://open.spotify.com/artist/1M1VQcOFJjfzyqmb9Krdi6) | [Gettin' Back Up](https://open.spotify.com/album/0OEZOtmG9gMlvIRgVk6VrQ) | 3:22 |
 | 212 | [Be Mine](https://open.spotify.com/track/24lqukpF5r54WOz49OHm00) | [The Veltz Family](https://open.spotify.com/artist/6EoqHhFmQQsEnqlIlEhYlN) | [This](https://open.spotify.com/album/5w5PjDlUKkouS03Eso1lHd) | 2:39 |
 | 213 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
-| 214 | [Mad](https://open.spotify.com/track/46QSgpK1ilvNKxXirTPY1f) | [Corbin Reynolds](https://open.spotify.com/artist/1q9iXPagwBsSkV5FS7SOvY) | [Uncomfortable](https://open.spotify.com/album/1eKIB13Le0mv5fzb4Ktxpe) | 3:59 |
-| 215 | [God's Not Done](https://open.spotify.com/track/2H2nV5UVlVGJV7GR0SpRsq) | [Kris Nicole](https://open.spotify.com/artist/0v0bzqf7pxvfdbVi5TGmiG) | [God's Not Done](https://open.spotify.com/album/6xr3bDg9Q3sHdV7El7EQAq) | 3:24 |
-| 216 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
-| 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
+| 214 | [God's Not Done](https://open.spotify.com/track/2H2nV5UVlVGJV7GR0SpRsq) | [Kris Nicole](https://open.spotify.com/artist/0v0bzqf7pxvfdbVi5TGmiG) | [God's Not Done](https://open.spotify.com/album/6xr3bDg9Q3sHdV7El7EQAq) | 3:24 |
+| 215 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
+| 216 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcZwpAAAAAC2AfByWdoMLYHC5Y5Vpopi`
+Snapshot ID: `AcZ2RAAAAABCGYW/Levi6VuYkD79Paqk`

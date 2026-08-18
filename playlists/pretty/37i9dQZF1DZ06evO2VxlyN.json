@@ -1,12 +1,12 @@
 {
   "description": "This is Bella Kay. The essential tracks, all in one playlist.",
-  "num_followers": 2965,
+  "num_followers": 2979,
   "original_name": "This Is Bella Kay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABfNW/vxqMiSBwDY2UEJdEq",
+  "snapshot_id": "aoD9gAAAAAC/W9tyaeJJqEewrUbVK+Ib",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise?",
-        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
+        "name": "are you mad at me?",
+        "url": "https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 192100,
-      "name": "Promise?",
-      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
+      "duration_ms": 176368,
+      "name": "STOP",
+      "url": "https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "are you mad at me?",
-        "url": "https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/7gYdoWfDKNMnKTjuJZKUTu"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 176368,
-      "name": "STOP",
-      "url": "https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp"
+      "duration_ms": 198095,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0brOhzwJscn8Bw5q0o2YZ6"
     },
     {
       "added_at": null,
@@ -135,22 +135,6 @@
       "duration_ms": 159573,
       "name": "tongue",
       "url": "https://open.spotify.com/track/0Hxa8rxKGhFzsyZpqZVSmQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/7gYdoWfDKNMnKTjuJZKUTu"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/0brOhzwJscn8Bw5q0o2YZ6"
     },
     {
       "added_at": null,
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 200494,
-      "name": "mindf*ck",
-      "url": "https://open.spotify.com/track/2vSIq4Upi6N47ENniIBNdt"
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/1A1rVBUWzL4wOM6gSR30lg"
     },
     {
       "added_at": null,
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 192293,
-      "name": "marrow",
-      "url": "https://open.spotify.com/track/4otSEM5ACfsHw2YYVh0Yui"
+      "duration_ms": 200494,
+      "name": "mindf*ck",
+      "url": "https://open.spotify.com/track/2vSIq4Upi6N47ENniIBNdt"
     },
     {
       "added_at": null,
@@ -276,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 225400,
-      "name": "karaoke",
-      "url": "https://open.spotify.com/track/2iLaE22r3gShJyFfJ8Zzbc"
+      "duration_ms": 192293,
+      "name": "marrow",
+      "url": "https://open.spotify.com/track/4otSEM5ACfsHw2YYVh0Yui"
     }
   ],
   "unique_name": "This Is Bella Kay",

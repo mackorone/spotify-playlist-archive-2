@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 361713,
+  "num_followers": 361726,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-07-16 22:14:48",
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF"
+    },
+    {
+      "added_at": "2026-07-16 22:14:48",
+      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 173133,
       "name": "Solo Se Que Fue En Marzo",
       "url": "https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF"
     },
     {
       "added_at": "2026-07-16 22:14:48",

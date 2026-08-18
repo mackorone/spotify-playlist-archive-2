@@ -1515,6 +1515,28 @@
     },
     {
       "album": {
+        "name": "Dhaadi",
+        "url": "https://open.spotify.com/album/7GHoY71l3AFBQjo8TLebb1"
+      },
+      "artists": [
+        {
+          "name": "Prakash John",
+          "url": "https://open.spotify.com/artist/0YxszfFKi8iS4kg0J8UUDV"
+        },
+        {
+          "name": "Loky Jay",
+          "url": "https://open.spotify.com/artist/6RsvvzN7Eh7IJcKeQMYTTJ"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203428,
+      "name": "Dhaadi",
+      "url": "https://open.spotify.com/track/7FDLE0RYyvDswdL9bY1po1"
+    },
+    {
+      "album": {
         "name": "I-Popstar Tamil | Ep 02",
         "url": "https://open.spotify.com/album/1H4XAUBpojjbzOlg94Tipk"
       },
@@ -2854,6 +2876,32 @@
       "duration_ms": 149485,
       "name": "Iyayo",
       "url": "https://open.spotify.com/track/1xErJrl1bRvsm4E8TZCL7b"
+    },
+    {
+      "album": {
+        "name": "I-popstar Tamil | Ep 10",
+        "url": "https://open.spotify.com/album/7lLPmCYhvJymJ0t01Xm3J0"
+      },
+      "artists": [
+        {
+          "name": "Dosa Kallu",
+          "url": "https://open.spotify.com/artist/0UV8GmHrMz7yAWyjsgYMBo"
+        },
+        {
+          "name": "Kharesma Ravichandran",
+          "url": "https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Janaki",
+      "url": "https://open.spotify.com/track/3w4JA1boYvTbVwuR4Te65o"
     },
     {
       "album": {
@@ -6246,6 +6294,32 @@
       "duration_ms": 298386,
       "name": "Semma Weightu",
       "url": "https://open.spotify.com/track/4DTPvhTmF3oVTLjAfHujVK"
+    },
+    {
+      "album": {
+        "name": "I-popstar Tamil | Ep 10",
+        "url": "https://open.spotify.com/album/7lLPmCYhvJymJ0t01Xm3J0"
+      },
+      "artists": [
+        {
+          "name": "Aadhithan",
+          "url": "https://open.spotify.com/artist/3X38v4REx7uRR5C7Dic22h"
+        },
+        {
+          "name": "Rajalakshmi Senthiganesh",
+          "url": "https://open.spotify.com/artist/1JIPdCqj5nSYLwHHD4vS5v"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Senthoora Potazhagi Amma",
+      "url": "https://open.spotify.com/track/3j37luqbhvHcxu1SVoasPs"
     },
     {
       "album": {

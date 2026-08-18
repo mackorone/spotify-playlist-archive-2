@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Sophia Stel
 
-3,556 songs - 8 day 6 hr 51 min
+3,557 songs - 8 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2812,6 +2812,7 @@
 | [SLOW DANCE IN A GAY BAR](https://open.spotify.com/track/1uoZmd98uJKi9qGNIHiiPP) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [LOWER](https://open.spotify.com/album/01UBvt33eTksshPiwljpBn) | 4:10 | 2025-02-07 | 2025-04-19 |
 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 | 2024-03-08 | 2024-03-23 |
 | [Slowly](https://open.spotify.com/track/3GGhyTPYDufku46UtvLTPi) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Slowly](https://open.spotify.com/album/2DTKy8cjrG6GIvDO4s3ljv) | 3:07 | 2020-01-31 | 2020-05-16 |
+| [Slowmotion](https://open.spotify.com/track/6swghzYMFkDNoHuXvGxX7z) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Pure Devotion](https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2) | 3:02 | 2026-08-17 |  |
 | [Slug](https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Slug](https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK) | 3:00 | 2024-03-01 | 2024-06-01 |
 | [SLUGGER \(feat\. $NOT & slowthai\)](https://open.spotify.com/track/4hFQTvD4ZioWwAG3CWfS9D) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [SLUGGER \(feat\. $NOT & slowthai\)](https://open.spotify.com/album/3zctA2G2IQCfTKWeOGYk1h) | 4:16 | 2021-09-25 | 2021-11-06 |
 | [Smoke](https://open.spotify.com/track/2x8zUjRP6z5N2GmZ13zU76) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 2:57 | 2023-02-15 | 2024-02-17 |

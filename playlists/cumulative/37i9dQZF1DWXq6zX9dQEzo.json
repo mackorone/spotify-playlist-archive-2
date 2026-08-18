@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 139201,
       "name": "24/7",
       "url": "https://open.spotify.com/track/3oxp442Q1TqAQmcZ54PBpI"
@@ -11114,6 +11114,24 @@
       "duration_ms": 146401,
       "name": "LOOK AT ME NOW",
       "url": "https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe"
+    },
+    {
+      "album": {
+        "name": "From the Secret Place",
+        "url": "https://open.spotify.com/album/0YIamQNVsMlQQEHw22xwtA"
+      },
+      "artists": [
+        {
+          "name": "Tylan1k",
+          "url": "https://open.spotify.com/artist/6PY88og97O47AlwuyFFRhr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/2IurA2kNqM5SksokM24EOa"
     },
     {
       "album": {

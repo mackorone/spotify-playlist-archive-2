@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,130 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,133 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 15 | [Stray Cat Strut](https://open.spotify.com/track/6prmiVokCCQB1VAYhq5TGJ) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:15 |
 | 16 | [C’Mon Everybody](https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 1:56 |
 | 17 | [Pay Dearly](https://open.spotify.com/track/2WRMJxbNhFBuwI4eP6W1Su) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [Follow Me](https://open.spotify.com/album/5NiVekCbovR7lfNoDX2YOQ) | 2:18 |
-| 18 | [Baby Did A Bad Bad Thing \- Remastered](https://open.spotify.com/track/7ohJuvtlKjKKaimEcvWfh1) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 2:56 |
-| 19 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 |
+| 18 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 |
+| 19 | [Baby Did A Bad Bad Thing \- Remastered](https://open.spotify.com/track/7ohJuvtlKjKKaimEcvWfh1) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 2:56 |
 | 20 | [Rather Be Alone](https://open.spotify.com/track/5zAjGORs9r1VGXv9rrgCPw) | [The Rhythm Shakers](https://open.spotify.com/artist/6mlUdYWiqDyrAVDHwddCkQ) | [Voodoo](https://open.spotify.com/album/15AyjB0TYLriPym8G87vLI) | 2:24 |
 | 21 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
 | 22 | [You Belong to Me](https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 45 | [Love You To Death](https://open.spotify.com/track/2Ibsm42tOiFzlMIKyDsAQc) | [Screamin' Sins](https://open.spotify.com/artist/5TbvUklHVsA9ckRCb9WhQO), [Jen Blackwood](https://open.spotify.com/artist/6GInh8N8tyz8W1ebQR7wQ1) | [Love You To Death](https://open.spotify.com/album/1SuhxLmkkd8B2ePP5PkWaD) | 3:04 |
 | 46 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
 | 47 | [Leave My Heart Alone](https://open.spotify.com/track/0GDUQ7NS4nLjjSxjKA5ugt) | [Deke Dickerson](https://open.spotify.com/artist/6Uhcb4YBtQmZJKL3jBpPX4), [Whistle Bait](https://open.spotify.com/artist/7dFvgbU1cSYcwUQ6lLRFhI) | [Deke Dickerson Meets The Whistle Bait](https://open.spotify.com/album/4meqFQHC5aYxp3X6q6uuyX) | 3:03 |
-| 48 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 |
-| 49 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
+| 48 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
+| 49 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 |
 | 50 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 |
 | 51 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
 | 52 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 56 | [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 |
 | 57 | [Oh Baby](https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd) | 2:40 |
 | 58 | [Forever](https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:41 |
-| 59 | [Hot Rod Roadeo](https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 2:02 |
+| 59 | [Graceland](https://open.spotify.com/track/6uvs2pw75LSJjH5tCvpyGR) | [Charlie Sexton](https://open.spotify.com/artist/132XHXfIbAJi5jQKmH986p) | [True Romance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG) | 3:25 |
 | 60 | [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 |
 
 Snapshot ID: `AAAAALNPxY6G2JNJ6D9SD9EgavCm/gK0`

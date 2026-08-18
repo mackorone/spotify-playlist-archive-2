@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705 likes - 284 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 704 likes - 284 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 94 | [Sad Girl Summer](https://open.spotify.com/track/45vKP0cRjVu9UxNIWVHDoj) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Sad Girl Summer](https://open.spotify.com/album/01RDRSabinKcm0bjdo3tJw) | 2:44 |
 | 95 | [Escape](https://open.spotify.com/track/7cki30Fr1WRkFCpRECufLf) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw) | [Painting With Dreams](https://open.spotify.com/album/11t999cj3x48JaRSde6s8p) | 3:30 |
 | 96 | [bored](https://open.spotify.com/track/4J1O1ERHhqtkOfdF9L6zyG) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 2:56 |
-| 97 | [ilym](https://open.spotify.com/track/0Aw8DvbSKLbdoLXWNGFrgm) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 3:53 |
-| 98 | [Sick of Myself](https://open.spotify.com/track/52C1BJ2z9bv6vpuZdu53Ov) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 2:27 |
+| 97 | [Sick of Myself](https://open.spotify.com/track/52C1BJ2z9bv6vpuZdu53Ov) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 2:27 |
+| 98 | [ilym](https://open.spotify.com/track/0Aw8DvbSKLbdoLXWNGFrgm) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 3:53 |
 | 99 | [Tantrum](https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown \(Deluxe Edition\)](https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR) | 2:50 |
 | 100 | [vanilla](https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:38 |
 | 101 | [the way i used to](https://open.spotify.com/track/7F3vjCKPlhvWKGl0h4p3lm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:15 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 151 | [Rules](https://open.spotify.com/track/5965DWoiOuO2T3jIWLlXyf) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 2:49 |
 | 152 | [Stay](https://open.spotify.com/track/1NNZnxd6PShEKf8K2lP8H7) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:39 |
 | 153 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
-| 154 | [Cemetery](https://open.spotify.com/track/68eyW8UBCCKbqZwXP1i19v) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 4:09 |
-| 155 | [Bad Decisions](https://open.spotify.com/track/2WHEFHMKSfnCA36Ea2vfmr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:08 |
+| 154 | [Bad Decisions](https://open.spotify.com/track/2WHEFHMKSfnCA36Ea2vfmr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:08 |
+| 155 | [Cemetery](https://open.spotify.com/track/68eyW8UBCCKbqZwXP1i19v) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 4:09 |
 | 156 | [Reach You](https://open.spotify.com/track/6cwDhGKJn5CsZtC0vvH1kZ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 2:47 |
 | 157 | [hate it](https://open.spotify.com/track/2qVJpm8xOI4JKvJkXm76JN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [oyster](https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb) | 2:41 |
 | 158 | [Hate It Here](https://open.spotify.com/track/4ppkdy0KDApHApfR5R4OIL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
@@ -173,15 +173,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 163 | [There I Said It](https://open.spotify.com/track/2YU14wLn68Wgw2Xhl43G1N) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [There I Said It](https://open.spotify.com/album/3Xr1ZEZdtVCwkvEOHU8Ry6) | 3:47 |
 | 164 | [Here I Come](https://open.spotify.com/track/0fjGRLRER2rCKZfiuUBDwr) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 3\)](https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc) | 3:17 |
 | 165 | [Can't Stay Mad](https://open.spotify.com/track/2caU93YaWxERJpGB0ZXnUw) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:27 |
-| 166 | [Don't Feel Like Fighting](https://open.spotify.com/track/5cex5w6GN9h7sC9GFtAip6) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Life Love & Madness](https://open.spotify.com/album/57nDa2V6zo9QDKZLpTLtBx) | 3:03 |
-| 167 | [One On The Way](https://open.spotify.com/track/4CYFGGc4EVyfktgY6Oli2B) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 3:44 |
-| 168 | [Box of Bones](https://open.spotify.com/track/41lfDa7hvYHUyvEyrKRu2Y) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Dustpiles](https://open.spotify.com/album/7wLlEZobDhLqAYs7slQGBo) | 3:01 |
+| 166 | [Box of Bones](https://open.spotify.com/track/41lfDa7hvYHUyvEyrKRu2Y) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Dustpiles](https://open.spotify.com/album/7wLlEZobDhLqAYs7slQGBo) | 3:01 |
+| 167 | [Don't Feel Like Fighting](https://open.spotify.com/track/5cex5w6GN9h7sC9GFtAip6) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Life Love & Madness](https://open.spotify.com/album/57nDa2V6zo9QDKZLpTLtBx) | 3:03 |
+| 168 | [One On The Way](https://open.spotify.com/track/4CYFGGc4EVyfktgY6Oli2B) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 3:44 |
 | 169 | [Wait So Yeah](https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:21 |
 | 170 | [ooo](https://open.spotify.com/track/3oZai2D2PYlXgUTNurlCmU) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:58 |
 | 171 | [If I Fall](https://open.spotify.com/track/6SLqAWFmEBEyjU4QIuEIsc) | [Cole Plante](https://open.spotify.com/artist/0BmgT51Y8JI74rlRK7YcAL), [Myon & Shane 54](https://open.spotify.com/artist/0uXRsluXdi5LtEs8DoFknc), [Ruby O'Dell](https://open.spotify.com/artist/0f2gU2tbpYHLSKtFBnxdg9) | [If I Fall](https://open.spotify.com/album/28HsMk0oE0r8voVBAuSkJJ) | 4:15 |
 | 172 | [Lonely \(Planet Earth\)](https://open.spotify.com/track/76XsgurVtL8tGAjMjXdOza) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Lonely \(Planet Earth\)](https://open.spotify.com/album/3zIogyJOASeiqBwLSnIF0k) | 2:07 |
-| 173 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 |
-| 174 | [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 |
+| 173 | [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 |
+| 174 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 |
 | 175 | [Ring](https://open.spotify.com/track/7qswvRRGuQb62HS5J4dVOK) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [How It Used to Feel](https://open.spotify.com/album/5sD31sHtF2I4WbB9Kps5Aq) | 3:40 |
 | 176 | [Sinner](https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:02 |
 | 177 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 |
@@ -293,4 +293,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 283 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 | 284 | [MOONLIGHT](https://open.spotify.com/track/4ulFJOiQs0yHFD3FTHX4yw) | [BAM.](https://open.spotify.com/artist/4b6sRvbiJdiUvlEMGx4TjX) | [NIGHT OWL \(DELUXE\)](https://open.spotify.com/album/6kKfo7J0Wk2aQpj1LmbhuZ) | 2:35 |
 
-Snapshot ID: `AcZwpAAAAABnfUHNcQ3gbcd2j+cvyKe1`
+Snapshot ID: `AcZ2RAAAAADWcqI4OzAszL/xR9jrNO6V`

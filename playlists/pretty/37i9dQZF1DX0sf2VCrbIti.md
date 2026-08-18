@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,863 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,864 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 60 | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \- De Navidad](https://open.spotify.com/track/60VHGVgXcbFleSAxUeNMLq) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \(De Navidad\)](https://open.spotify.com/album/1NF6nTsGudRHJLxRd9V3pW) | 4:41 |
 | 61 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
 | 62 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 |
-| 63 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Billo'S & Los Melódicos de Colección, Vol\. 1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 |
+| 63 | [Blanca Navidad](https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:18 |
 | 64 | [Rebelión](https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 6:16 |
-| 65 | [Blanca Navidad](https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:18 |
+| 65 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Billo'S & Los Melódicos de Colección, Vol\. 1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 |
 | 66 | [A Dormir Juntitos \- Liz featuring Eddy Herrera](https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Paso Firme](https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP) | 4:42 |
-| 67 | [Cielito Lindo](https://open.spotify.com/track/17UQaysFON93fn278DeWqg) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Total](https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD) | 3:41 |
+| 67 | [La Vida Es Un Carnaval](https://open.spotify.com/track/22YrEL6IbDx4axzr8Wpw9M) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:36 |
 | 68 | [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 |
-| 69 | [Cantares de Navidad](https://open.spotify.com/track/0TXwWlwoe7MtGYPHtyDyvi) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:53 |
-| 70 | [La Vida Es Un Carnaval](https://open.spotify.com/track/22YrEL6IbDx4axzr8Wpw9M) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:36 |
+| 69 | [Cielito Lindo](https://open.spotify.com/track/17UQaysFON93fn278DeWqg) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Total](https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD) | 3:41 |
+| 70 | [Cantares de Navidad](https://open.spotify.com/track/0TXwWlwoe7MtGYPHtyDyvi) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:53 |
 | 71 | [Me Enamoro de Ella](https://open.spotify.com/track/2r9sa01fZW9NEVwdqFvfzZ) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo) | 4:17 |
 | 72 | [El Dia De Suerte](https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 5:27 |
 | 73 | [Plastico](https://open.spotify.com/track/0iHzbGak1CdbDBCu8VDwNU) | [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Greatest Hits](https://open.spotify.com/album/2eDs8NuigDls3kImG3u2yM) | 6:41 |
-| 74 | [Aguinaldo Con Billo](https://open.spotify.com/track/5lEGMU8m1Ah5MgD1vBYb8t) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de Billo Caracas Boy's, Vol II](https://open.spotify.com/album/6eMolS4wBsvJPuehofhm9W) | 3:13 |
-| 75 | [Viejo Año](https://open.spotify.com/track/3RLWyrjTXerpJrIXsuVxLr) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Las Mejores Gaitas Vol.2](https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S) | 3:16 |
+| 74 | [Viejo Año](https://open.spotify.com/track/3RLWyrjTXerpJrIXsuVxLr) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Las Mejores Gaitas Vol.2](https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S) | 3:16 |
+| 75 | [Aguinaldo Con Billo](https://open.spotify.com/track/5lEGMU8m1Ah5MgD1vBYb8t) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de Billo Caracas Boy's, Vol II](https://open.spotify.com/album/6eMolS4wBsvJPuehofhm9W) | 3:13 |
 
 Snapshot ID: `AAAAAOIFuulRrCxa1XkhHnbkXNOUz6x2`

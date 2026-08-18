@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-352 songs - 18 hr 17 min
+353 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bang On The Drums](https://open.spotify.com/track/6FnmKuDTiiM8GxZx0KiiFT) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Bang On The Drums](https://open.spotify.com/album/4HgdfeH2IwTfwnIhQrReXN) | 2:32 | 2026-07-10 |  |
 | [Bar Song \(Tipsy Techno\)](https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh) | [GRATIFY](https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Norman Alexander](https://open.spotify.com/artist/6ELWY3ndzSYY82O8sR81Ts) | [Bar Song \(Tipsy Techno\)](https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI) | 2:15 | 2024-10-11 |  |
 | [BARBEE \- On Acid](https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [BARBEE \(On Acid\)](https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h) | 3:28 | 2023-08-18 | 2023-09-20 |
-| [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-07 |  |
+| [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-07 | 2026-08-18 |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-08-11 |  |
 | [Beethoven's Aria Für Elise](https://open.spotify.com/track/3auOQTnNNJZaKJl2nlDtGv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Beethoven's Aria Für Elise](https://open.spotify.com/album/60arWJQ36tblu7ootxVhAJ) | 2:29 | 2025-04-25 |  |
 | [Berghain \- Remix](https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain \(Remix\)](https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR) | 2:34 | 2026-03-09 |  |
@@ -178,6 +178,7 @@
 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 | 2024-05-17 |  |
 | [Like An Old Dog \- Enrico Sangiuliano Remix](https://open.spotify.com/track/02juAgzBtqbe2r0OJOTLLD) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Pixx](https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Like An Old Dog \(Enrico Sangiuliano Remix\)](https://open.spotify.com/album/0urbEfySrOpOBUz2rrSZc0) | 8:03 | 2023-08-11 | 2023-10-09 |
 | [Like This](https://open.spotify.com/track/1Ty8EUqUPzUv6nWqqwc9RL) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [STORM](https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Like This](https://open.spotify.com/album/21kaF8OYz66A91XR46Npx0) | 2:22 | 2025-04-25 | 2026-02-02 |
+| [LIKE TO PARTY](https://open.spotify.com/track/4RD1oSVVJFV2p4aMIV98DC) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [LIKE TO PARTY](https://open.spotify.com/album/3ARNIR8EWYK7hOdE3DM5Nf) | 3:51 | 2026-08-14 |  |
 | [Listen To Your Heart](https://open.spotify.com/track/3h7xA3ooMcxO6QDesmOcQ1) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Listen To Your Heart](https://open.spotify.com/album/1GDvDZpfyuyzTFkBKbLxqo) | 2:19 | 2024-04-05 | 2025-07-21 |
 | [Loca](https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Loca](https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc) | 2:36 | 2025-06-06 |  |
 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 | 2023-08-11 | 2025-04-05 |

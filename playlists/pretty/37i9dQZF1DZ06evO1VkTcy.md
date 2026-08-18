@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 47 | [Melhor Não](https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Frio e Vento](https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z) | 3:33 |
 | 48 | [Nosso Relacionamento](https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nosso Relacionamento](https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF) | 3:20 |
 | 49 | [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 |
-| 50 | [Fogo](https://open.spotify.com/track/2WPh5Iwekb2GVG8T3shK3D) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Fogo](https://open.spotify.com/album/7cQXR7MaVQEGjRwCnyoNcL) | 3:01 |
+| 50 | [Florescer](https://open.spotify.com/track/1T6QvU1JMup4x4koI3s5EY) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Florescer](https://open.spotify.com/album/4u8IzJipJSQiNrIP1udKHi) | 3:08 |
 
-Snapshot ID: `an+sAAAAAAD7hX6KvaOTkAyZOOkoi+DH`
+Snapshot ID: `aoD9gAAAAACnQyWvQ+w8EZqj0JpC1ccC`

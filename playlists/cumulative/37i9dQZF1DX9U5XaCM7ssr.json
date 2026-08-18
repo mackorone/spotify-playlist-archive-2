@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Cinta Terbaik",
+        "url": "https://open.spotify.com/album/1QZ1303FrXfo2SJJa6UC5K"
+      },
+      "artists": [
+        {
+          "name": "Cassandra",
+          "url": "https://open.spotify.com/artist/0BUTvSwaoKcP9ucuEyyYpr"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241449,
+      "name": "Cinta Terbaik",
+      "url": "https://open.spotify.com/track/0Afs1hDADIDxx31FyJIEXm"
+    },
+    {
+      "album": {
         "name": "Cukup",
         "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
       },
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 293320,
       "name": "Kasih Tak Sampai",
       "url": "https://open.spotify.com/track/1oAWbr6TXkRajJKgSm1vF5"

@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 367420,
+  "num_followers": 367474,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 158626,
-      "name": "Little Bitty",
-      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Some Gave All",
         "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 203373,
       "name": "Achy Breaky Heart",
       "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 158626,
+      "name": "Little Bitty",
+      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "I'm Countryfied",
-        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
-      },
-      "artists": [
-        {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Louisiana Saturday Night",
-      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 214106,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+      },
+      "artists": [
+        {
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 194306,
       "name": "This Kiss",
       "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
       "artists": [
         {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
         }
       ],
-      "duration_ms": 235426,
-      "name": "Watching You",
-      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -783,34 +783,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
+      "duration_ms": 235426,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Diamond Rio",
-        "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
       "artists": [
         {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Meet In the Middle",
-      "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
+      "duration_ms": 214866,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -875,6 +859,22 @@
       "duration_ms": 195346,
       "name": "Tulsa Time",
       "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Diamond Rio",
+        "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
+      },
+      "artists": [
+        {
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Meet In the Middle",
+      "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -927,38 +927,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Here For The Party",
-        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Redneck Woman",
-      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
       },
@@ -975,6 +943,22 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
+        "name": "Here For The Party",
+        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Redneck Woman",
+      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 223832,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Country Club",
         "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 244933,
       "name": "I'm Gonna Be Somebody",
       "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "It's All About to Change",
         "url": "https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 152333,
       "name": "Here's a Quarter (Call Someone Who Cares)",
       "url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+        "name": "If I Could Make a Living",
+        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
       },
       "artists": [
         {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Teach Your Children",
-      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
+      "duration_ms": 133853,
+      "name": "If I Could Make a Living",
+      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "If I Could Make a Living",
-        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
         }
       ],
-      "duration_ms": 133853,
-      "name": "If I Could Make a Living",
-      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+      "duration_ms": 173466,
+      "name": "Teach Your Children",
+      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Rockin' With The Rhythm",
-        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
       },
       "artists": [
         {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
-      "url": "https://open.spotify.com/track/0ogTZlmFqg5xyFCMpRAEb4"
+      "duration_ms": 147306,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1327,34 +1327,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
+        "name": "Rockin' With The Rhythm",
+        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
       },
       "artists": [
         {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
         }
       ],
-      "duration_ms": 147306,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+      "duration_ms": 254640,
+      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
+      "url": "https://open.spotify.com/track/0ogTZlmFqg5xyFCMpRAEb4"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
         "name": "Good Hearted Woman",
         "url": "https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 183789,
       "name": "Good Hearted Woman",
       "url": "https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Wink",
+      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Wink",
-      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "The Boys Are Back",
         "url": "https://open.spotify.com/album/0kTRamepqCsedBSwPvaWJz"
       },
@@ -1483,38 +1483,6 @@
       "duration_ms": 173280,
       "name": "The Race Is On",
       "url": "https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
-        "name": "You Do Your Thing",
-        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Something to Be Proud Of",
-      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
-        "name": "Major Moves",
-        "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "All My Rowdy Friends Are Coming Over Tonight",
-      "url": "https://open.spotify.com/track/7h7XMOl4r8WzehsUlHyuO1"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1535,6 +1503,22 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
+        "name": "Major Moves",
+        "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "All My Rowdy Friends Are Coming Over Tonight",
+      "url": "https://open.spotify.com/track/7h7XMOl4r8WzehsUlHyuO1"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
         "name": "Everywhere We Go",
         "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 188173,
       "name": "How Forever Feels",
       "url": "https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "You Do Your Thing",
+        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Something to Be Proud Of",
+      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "I Believe In You",
-        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 183493,
       "name": "Daddy's Money",
       "url": "https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
     },
     {
       "added_at": "2026-02-03 18:58:40",

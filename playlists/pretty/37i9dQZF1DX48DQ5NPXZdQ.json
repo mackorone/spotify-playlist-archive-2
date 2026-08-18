@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 74546,
+  "num_followers": 74554,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "Presenting the Fabulous Ronettes Featuring Veronica",
-        "url": "https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 222226,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
+        "name": "Presenting the Fabulous Ronettes Featuring Veronica",
+        "url": "https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"
     },
     {
       "added_at": "2024-07-05 02:05:16",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
     },
     {
       "added_at": "2024-07-05 02:05:16",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
         "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 272000,
       "name": "Angie - Remastered 2009",
       "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
       "added_at": "2024-07-05 02:05:16",
@@ -299,18 +299,22 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        },
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+      "duration_ms": 213613,
+      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
+      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
     },
     {
       "added_at": "2024-07-05 02:05:16",
@@ -331,22 +335,18 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
       "artists": [
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        },
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 213613,
-      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
-      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2024-07-05 02:05:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
         "name": "Day By Night (with Paul Weston & His Music From Hollywood)",
         "url": "https://open.spotify.com/album/3Q4k7vP53iNv1MMoEqro7x"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 223373,
       "name": "Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood)",
       "url": "https://open.spotify.com/track/2HyPrPSANTIPkR6CfiytwY"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2024-07-05 02:05:16",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "15 A\u00f1os De Exitos",
-        "url": "https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
         "name": "Mas Alla Del Sol",
         "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 159172,
       "name": "Eso Y Mas",
       "url": "https://open.spotify.com/track/2KWQgEXc3ZzX6npPgIEqSB"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
+        "name": "15 A\u00f1os De Exitos",
+        "url": "https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt"
     },
     {
       "added_at": "2024-07-05 02:05:16",

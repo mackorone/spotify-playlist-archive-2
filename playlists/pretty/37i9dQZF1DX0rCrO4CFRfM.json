@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1098113,
+  "num_followers": 1098150,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "Decode - Acoustic Version",
+      "url": "https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
         "name": "Dust in the Wind (From 'Queen of the Ring - Music From The Motion Picture')",
         "url": "https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 258466,
       "name": "Dust in the Wind (From 'Queen of the Ring - Music From The Motion Picture')",
       "url": "https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
-        "name": "Decode",
-        "url": "https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "Decode - Acoustic Version",
-      "url": "https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK"
     },
     {
       "added_at": "2026-04-08 19:46:17",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Wherever You Will Go - Acoustic",
-      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
         "name": "Boxes (Acoustic)",
         "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 262186,
       "name": "Boxes - Acoustic",
       "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "Wherever You Will Go - Acoustic",
+      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
     },
     {
       "added_at": "2026-04-08 19:46:17",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
+        "name": "The Best Of - Volume One",
+        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
+      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
         "name": "bloody valentine (Acoustic)",
         "url": "https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 195857,
       "name": "bloody valentine - Acoustic",
       "url": "https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
-        "name": "The Best Of - Volume One",
-        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
-      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
     },
     {
       "added_at": "2026-04-08 19:46:17",

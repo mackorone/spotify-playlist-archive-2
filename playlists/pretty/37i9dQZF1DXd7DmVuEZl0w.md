@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,937 likes - 35 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,934 likes - 35 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 5 | [حبيبي ليه](https://open.spotify.com/track/2OSxxCfS81wcds5RbQ0Ztq) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV) | 2:00 |
 | 6 | [اليوم الحلو ده](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اليوم الحلو ده](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 |
 | 7 | [صحبي يا صحبي](https://open.spotify.com/track/0ZJ2vlWyCoMA52VbECDMEL) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [صحبي يا صحبي](https://open.spotify.com/album/4YzIMteqKKaYZlipibsnqw) | 2:13 |
-| 8 | [حفلة تنكرية](https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [حفلة تنكرية](https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF) | 3:10 |
+| 8 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 |
 | 9 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
-| 10 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 |
+| 10 | [حفلة تنكرية](https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [حفلة تنكرية](https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF) | 3:10 |
 | 11 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
 | 12 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
 | 13 | [Aal Doghrey](https://open.spotify.com/track/0rGCXktltsDt5jmcFwjFm4) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Aal Doghrey](https://open.spotify.com/album/7zhW3zAi1lfGgNmSk9GiCY) | 4:43 |

@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 193280,
+  "num_followers": 193291,
   "original_name": "Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281226,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 289866,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281226,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -423,38 +423,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -491,18 +459,18 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -516,9 +484,25 @@
           "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -559,22 +543,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Heroe",
-      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -587,6 +555,38 @@
       "duration_ms": 214133,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Heroe",
+      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3aoVX17mIukbwctlbu99zk"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "D\u00f3nde Est\u00e1n Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1mkZZjz0X8YexDWXlx7zmX"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 259440,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3aoVX17mIukbwctlbu99zk"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "D\u00f3nde Est\u00e1n Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1mkZZjz0X8YexDWXlx7zmX"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 191209,
-      "name": "Carita de Inocente",
-      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "La M\u00fasica No Se Toca (Deluxe)",
         "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 191209,
+      "name": "Carita de Inocente",
+      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
         "name": "La Cruz Del Mapa",
         "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 270187,
       "name": "Qu\u00e9 Bonito Es Querer",
       "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Iconos",
+        "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 240733,
+      "name": "Y C\u00f3mo Es El",
+      "url": "https://open.spotify.com/track/3h8KGJn9UFX2cfjN78iMVF"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -871,18 +887,18 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Iconos",
-        "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
+        "name": "Buen Viaje",
+        "url": "https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
         }
       ],
-      "duration_ms": 240733,
-      "name": "Y C\u00f3mo Es El",
-      "url": "https://open.spotify.com/track/3h8KGJn9UFX2cfjN78iMVF"
+      "duration_ms": 252840,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/3QEWvj2NI5ybtUAVnwzmzF"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -907,22 +923,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Buen Viaje",
-        "url": "https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Lerner",
-          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/3QEWvj2NI5ybtUAVnwzmzF"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "Un Nuevo Sol (Versi\u00f3n Standard)",
         "url": "https://open.spotify.com/album/7McgebAgt9gSwYSdvPjqXQ"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Ida y Vuelta",
-        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Aunque Ahora Est\u00e9s Con El",
-      "url": "https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Ida y Vuelta",
+        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Aunque Ahora Est\u00e9s Con El",
+      "url": "https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "Hasta El Final",
         "url": "https://open.spotify.com/album/2YGDOgKssRti0qRksHmJmX"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 167218,
       "name": "Hasta El Final",
       "url": "https://open.spotify.com/track/0ZTLjaYqttGVI74ElAghci"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
     },
     {
       "added_at": "2025-11-25 20:24:44",

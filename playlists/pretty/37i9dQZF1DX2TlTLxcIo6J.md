@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 
 > New songwriters on the horizon from around the world\. Cover: Shorae Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,451 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,458 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

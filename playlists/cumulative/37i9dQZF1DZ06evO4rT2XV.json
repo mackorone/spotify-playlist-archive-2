@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "\"La Musique\": Piano Fran\u00e7ais",
+        "url": "https://open.spotify.com/album/6yGYUGRiozk1FLEhQyOVjm"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132373,
+      "name": "6 \u00c9pigraphes antiques, L.131: 1. Pour invoquer Pan, dieu du vent d'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/2gvq7EbtNaDRtHqYyMLxCn"
+    },
+    {
+      "album": {
         "name": "Debussy for reading",
         "url": "https://open.spotify.com/album/2bjBlpRD2stP0NPzZdAbTj"
       },
@@ -218,7 +240,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 50546,
       "name": "Colin-Maillard",
       "url": "https://open.spotify.com/track/22YpuJPcOdfcv8vFdpGvZC"
@@ -359,6 +381,28 @@
     },
     {
       "album": {
+        "name": "Romantique Chill & Relax",
+        "url": "https://open.spotify.com/album/1sLfh1rwerbFesvwsbvHKp"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483453,
+      "name": "Divertissement sur des motifs originaux fran\u00e7ais, in E minor, D.823: 2. Andantino vari\u00e9",
+      "url": "https://open.spotify.com/track/5z5udAD5kx3WYTm0tojooC"
+    },
+    {
+      "album": {
         "name": "Women play Debussy",
         "url": "https://open.spotify.com/album/4lyxKq3nXW9mSfLH5g6XxY"
       },
@@ -488,7 +532,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 65346,
       "name": "I. Idylle, \u00e0 Debussy",
       "url": "https://open.spotify.com/track/7oFvYKRbPVQiY2gV6WQnUj"
@@ -978,7 +1022,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 105226,
       "name": "Star-Cross'd Lovers: Act I: Street Fight",
       "url": "https://open.spotify.com/track/2xdnMl3BwAPrmTZGjGYOFE"
@@ -1276,6 +1320,24 @@
       "duration_ms": 105120,
       "name": "Trois Petites Pi\u00e8ces mont\u00e9es: 3. Jeux de Gargantua (Coin de Polka)",
       "url": "https://open.spotify.com/track/4cp4Gab0ZN70uc0DbsPa1r"
+    },
+    {
+      "album": {
+        "name": "Erik Satie",
+        "url": "https://open.spotify.com/album/7lY1G1ERfl1VBTYCSCoLT7"
+      },
+      "artists": [
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "Troisi\u00e8me Gymnop\u00e9die",
+      "url": "https://open.spotify.com/track/3WYT0pMVrBgKe6f7m0He8l"
     },
     {
       "album": {

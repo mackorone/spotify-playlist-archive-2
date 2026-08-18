@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: Tokyo Manaka",
-  "num_followers": 121264,
+  "num_followers": 121271,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -47,18 +47,22 @@
     {
       "added_at": "2026-08-04 15:00:44",
       "album": {
-        "name": "MONTAGEM HIKARI",
-        "url": "https://open.spotify.com/album/0anDjww4IXQWw3aeUO3PZG"
+        "name": "Miku",
+        "url": "https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL"
       },
       "artists": [
         {
-          "name": "BellyJay",
-          "url": "https://open.spotify.com/artist/1AldIZRmNccuXCk2uoYcpv"
+          "name": "Anamanaguchi",
+          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
-      "duration_ms": 89985,
-      "name": "MONTAGEM HIKARI",
-      "url": "https://open.spotify.com/track/0XqgE9UN4MCo5ooIwUYm7l"
+      "duration_ms": 223124,
+      "name": "Miku",
+      "url": "https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW"
     },
     {
       "added_at": "2026-08-04 15:00:44",
@@ -135,22 +139,18 @@
     {
       "added_at": "2026-08-04 15:00:44",
       "album": {
-        "name": "Miku",
-        "url": "https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL"
+        "name": "MONTAGEM HIKARI",
+        "url": "https://open.spotify.com/album/0anDjww4IXQWw3aeUO3PZG"
       },
       "artists": [
         {
-          "name": "Anamanaguchi",
-          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+          "name": "BellyJay",
+          "url": "https://open.spotify.com/artist/1AldIZRmNccuXCk2uoYcpv"
         }
       ],
-      "duration_ms": 223124,
-      "name": "Miku",
-      "url": "https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW"
+      "duration_ms": 89985,
+      "name": "MONTAGEM HIKARI",
+      "url": "https://open.spotify.com/track/0XqgE9UN4MCo5ooIwUYm7l"
     },
     {
       "added_at": "2026-08-04 15:00:44",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-08-04 15:00:44",
       "album": {
+        "name": "Baumkuchen_EndCredits",
+        "url": "https://open.spotify.com/album/1X4eosGFqxc1vzqAkWnWq4"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u826f Amala",
+          "url": "https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Baumkuchen_EndCredits",
+      "url": "https://open.spotify.com/track/3W9qs513ZgVEqK0EN9Okjt"
+    },
+    {
+      "added_at": "2026-08-04 15:00:44",
+      "album": {
         "name": "KING",
         "url": "https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 135500,
       "name": "KING",
       "url": "https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9"
-    },
-    {
-      "added_at": "2026-08-04 15:00:44",
-      "album": {
-        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
-      },
-      "artists": [
-        {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
-        }
-      ],
-      "duration_ms": 238874,
-      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
     },
     {
       "added_at": "2026-08-04 15:00:44",
@@ -591,18 +591,18 @@
     {
       "added_at": "2026-08-04 15:00:44",
       "album": {
-        "name": "Baumkuchen_EndCredits",
-        "url": "https://open.spotify.com/album/1X4eosGFqxc1vzqAkWnWq4"
+        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
       },
       "artists": [
         {
-          "name": "\u96e8\u826f Amala",
-          "url": "https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl"
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
         }
       ],
-      "duration_ms": 144720,
-      "name": "Baumkuchen_EndCredits",
-      "url": "https://open.spotify.com/track/3W9qs513ZgVEqK0EN9Okjt"
+      "duration_ms": 238874,
+      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
     },
     {
       "added_at": "2026-08-04 15:00:44",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-08-04 15:00:44",
       "album": {
+        "name": "Corridor",
+        "url": "https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z"
+      },
+      "artists": [
+        {
+          "name": "balloon",
+          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
+        }
+      ],
+      "duration_ms": 233875,
+      "name": "\u30b7\u30e3\u30eb\u30eb",
+      "url": "https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h"
+    },
+    {
+      "added_at": "2026-08-04 15:00:44",
+      "album": {
         "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
         "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 155692,
       "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
-    },
-    {
-      "added_at": "2026-08-04 15:00:44",
-      "album": {
-        "name": "Corridor",
-        "url": "https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z"
-      },
-      "artists": [
-        {
-          "name": "balloon",
-          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
-        }
-      ],
-      "duration_ms": 233875,
-      "name": "\u30b7\u30e3\u30eb\u30eb",
-      "url": "https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h"
     },
     {
       "added_at": "2026-08-04 15:00:44",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-08-04 15:00:44",
       "album": {
+        "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
+        "url": "https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u3088\u308f",
+          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
+        }
+      ],
+      "duration_ms": 217090,
+      "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
+      "url": "https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU"
+    },
+    {
+      "added_at": "2026-08-04 15:00:44",
+      "album": {
         "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01",
         "url": "https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 192440,
       "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
       "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"
-    },
-    {
-      "added_at": "2026-08-04 15:00:44",
-      "album": {
-        "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
-        "url": "https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9"
-      },
-      "artists": [
-        {
-          "name": "\u3044\u3088\u308f",
-          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
-      "url": "https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU"
     },
     {
       "added_at": "2026-08-04 15:00:44",

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,397 songs - 3 day 9 hr 14 min
+1,399 songs - 3 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [AILERE](https://open.spotify.com/track/5hba6KxKrFXPk4FLI793Pb) | [Cee Gabi](https://open.spotify.com/artist/2XK33VEnZJmS2o4w7steQo) | [AILERE](https://open.spotify.com/album/6gttHKcgLV41tzD8QcHhSN) | 3:02 | 2026-03-30 | 2026-05-03 |
 | [Al Borde De La Belleza](https://open.spotify.com/track/6I4RtHCbbsmzIx9RwE4wPZ) | [Loshe](https://open.spotify.com/artist/47dUfk9P1DT7rnyPBjAj4j) | [Al Borde De La Belleza](https://open.spotify.com/album/5KEALFSgtC1UzVWZ38dnSV) | 3:23 | 2026-03-20 | 2026-04-22 |
 | [Algo Tranqui](https://open.spotify.com/track/6QgPvRXLjwJNKflsm6YIBv) | [CHRISTIAN GRAND](https://open.spotify.com/artist/0Jy7k1rljCzZoaqXs5Cjxd) | [Destellos en la Noche](https://open.spotify.com/album/1Zo3M98fNKzuBUrG7tUKSU) | 2:50 | 2026-01-20 | 2026-02-20 |
+| [Alibi \- CASA J Remix](https://open.spotify.com/track/1ZvqM46DaPJ9ERa4PJIgOB) | [Jay Hofman](https://open.spotify.com/artist/4WWuKUayc9e9IQm8cAV72x), [CASA J](https://open.spotify.com/artist/6UoFcXpCqCyvykB1eXtZnQ) | [Alibi](https://open.spotify.com/album/1msVNemJrpRm3SXhDHws3W) | 3:12 | 2026-08-17 |  |
 | [Alive](https://open.spotify.com/track/1gKY8KxcwNtdYRF8H0gxh1) | [MAOOSA](https://open.spotify.com/artist/6Q2Tv4sMicVl2LKTnqzdyV) | [Alive](https://open.spotify.com/album/69Zi6K575DePRoq5tWHwCZ) | 3:44 | 2026-03-31 | 2026-05-03 |
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2026-03-23 | 2026-04-22 |
 | [All Over Again](https://open.spotify.com/track/4KvXKfrldA8J7d3mIFBXp5) | [Fruition](https://open.spotify.com/artist/3iUbju4Cu6cPX5llxZWMqA) | [Black Mariah](https://open.spotify.com/album/3m00qDdaAMsv3B1W6EIhBh) | 2:53 | 2026-05-11 | 2026-07-03 |
@@ -594,6 +595,7 @@
 | [Just Human](https://open.spotify.com/track/1ph19dy5HOqRQU0QOVOPal) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Just Human](https://open.spotify.com/album/4CfKQUWU0oSfBey94KBYHt) | 3:46 | 2026-08-08 |  |
 | [Kabungah \(Happiness\)](https://open.spotify.com/track/0VsPnsXdo8mMDDUgIYYZFb) | [Nirvan Channel](https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x) | [Kabungah \(Happiness\)](https://open.spotify.com/album/5xHDhkusrljpHJVwZMjp5X) | 4:09 | 2026-05-25 | 2026-07-03 |
 | [Kali Was Right About You](https://open.spotify.com/track/3U5JmWFAPrhnQeslCwHby5) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Kali Was Right About You](https://open.spotify.com/album/623mi3Iwh3GVVimTgSEbGF) | 3:38 | 2025-12-22 | 2026-01-24 |
+| [Kapanmayan Yara](https://open.spotify.com/track/3hRkj9UQCZE7yqkQnbFXl9) | [Senfonia Sound](https://open.spotify.com/artist/5lowV6dVoWE3CYVXUxPO5N) | [Kapanmayan Yara](https://open.spotify.com/album/14mtNlJYZwyW5nmE84gw0I) | 4:02 | 2026-08-17 |  |
 | [Kavanagh](https://open.spotify.com/track/2mxMn8pXBqlkAAQEXbFIgx) | [Alejandro Fernandez Lecce](https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re) | [Buenos Aires Lounge Deluxe Vol\. 1](https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G) | 3:19 | 2024-09-19 | 2025-12-21 |
 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 | 2026-04-19 | 2026-06-05 |
 | [Kaya Ko Pa Ba?](https://open.spotify.com/track/5NkCctniqgusYrxrlBDykB) | [Dylan Danielle](https://open.spotify.com/artist/01500LhjmKYiaMWhabOsmi) | [Kaya Ko Pa Ba?](https://open.spotify.com/album/6D7Ecbqbkw2yw7TH2td3P1) | 5:14 | 2026-06-08 | 2026-07-19 |
@@ -602,7 +604,7 @@
 | [Keep Ya Head Up](https://open.spotify.com/track/1y8VIFmWviYhZkTc3lgktb) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Keep Ya Head Up](https://open.spotify.com/album/50J4ReZnLGOakOMXfpFpJs) | 4:58 | 2026-05-22 | 2026-07-03 |
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-23 | 2025-12-21 |
 | [King Of My Soul](https://open.spotify.com/track/5JcfggaYvguzdOOY2qzxZJ) | [Myastina](https://open.spotify.com/artist/21PeFB5FzDLwG262iRvJLE) | [King Of My Soul](https://open.spotify.com/album/3k5qIWauXLlk4Wpl5laNOE) | 3:22 | 2026-06-02 | 2026-07-03 |
-| [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-11-04 | 2026-05-14 |
+| [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-11-04 |  |
 | [know u](https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [know u](https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK) | 4:14 | 2026-07-23 |  |
 | [Know U Fine](https://open.spotify.com/track/4rRSpH0e1QEJjluHPybBiZ) | [Skye Cotter](https://open.spotify.com/artist/2Zd6MDFlvS0GG7Ncyb9q67) | [Know U Fine](https://open.spotify.com/album/3gFzVNmbdPvfjrNs5FNh73) | 2:58 | 2026-06-01 | 2026-07-03 |
 | [Konnichiwa \(Love\)](https://open.spotify.com/track/2Ffgq6OfCVlwimWtDmf4Hm) | [Azeul Beats](https://open.spotify.com/artist/38NVSbyC4Zw57vgXhImYAC) | [Konnichiwa \(Love\)](https://open.spotify.com/album/0nNAz4kDdJXgHAd3cf6rct) | 2:54 | 2026-03-20 | 2026-04-22 |

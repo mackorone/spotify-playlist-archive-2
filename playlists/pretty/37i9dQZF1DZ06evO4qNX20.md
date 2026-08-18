@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,565 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,576 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 49 | [Lucero Negro](https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:22 |
 | 50 | [Que Me Entierren Cantando](https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Inmortales](https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5) | 2:43 |
 
-Snapshot ID: `an+sAAAAAAC1e8FzBpKlha03hyfVeHqB`
+Snapshot ID: `aoD9gAAAAAD9Iy2YSRe3FYZas0jR9udS`

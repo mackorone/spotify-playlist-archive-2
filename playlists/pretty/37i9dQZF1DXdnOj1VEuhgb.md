@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Lvbel C5
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,554 likes - 49 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,517 likes - 49 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 2 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
 | 3 | [Nane نعناع](https://open.spotify.com/track/3juSoiFBZhI9vT7l34hpNS) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Nane نعناع](https://open.spotify.com/album/41YXRUqslAGIGx9gEPlXds) | 2:44 |
 | 4 | [Makarayız](https://open.spotify.com/track/4SoLtactNAdSZxshUZne6a) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [D3](https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3), [akca](https://open.spotify.com/artist/1OBAc1CshCapEzN3cfmNtc) | [Marina Mixtape](https://open.spotify.com/album/0FK6aIMiutLkrrdcCS5gXb) | 2:12 |
-| 5 | [Anti\-Depresyon](https://open.spotify.com/track/0oZwCG6rpRa1hTmyZXxK1g) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [D3](https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3), [2run](https://open.spotify.com/artist/2ChTJTWndw0hFKEnn4ukYv), [akca](https://open.spotify.com/artist/1OBAc1CshCapEzN3cfmNtc) | [Anti\-Depresyon](https://open.spotify.com/album/0OQUkbKDwUWBmf20eseb7p) | 2:33 |
-| 6 | [Hannibal Lecter](https://open.spotify.com/track/0NX9KIumXJHyPBjTgFDv8y) | [Metth](https://open.spotify.com/artist/6T5EThaaQrfKqzdQ4eRuHf), [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [WEIRDO](https://open.spotify.com/album/0asUsMmYpgXW9lkGB3AxLg) | 3:16 |
-| 7 | [BUFFALO](https://open.spotify.com/track/2k8tiLBsCSuVvQ4Kj5q2SG) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [VERITAS II](https://open.spotify.com/album/2yfzb13SLGH9hVqYZZsM56) | 2:58 |
-| 8 | [Herkes Öldü Kimsenin Haberi Yok](https://open.spotify.com/track/3bQtLI9JmUhy6gUHuMYrjy) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3), [Vesca](https://open.spotify.com/artist/3XQjRLbSnGpqd83IMoO4dv) | [41](https://open.spotify.com/album/7fMbsBDq97BCqv1dxn6BFk) | 3:54 |
-| 9 | [59](https://open.spotify.com/track/4CPddNJjMP8T0R68FyJ2Rx) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [PİYASA](https://open.spotify.com/album/1Mpk9CjA5YUu7NX6OCAaVR) | 1:50 |
-| 10 | [Bana Ne Bu Sevdalardan](https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bana Ne Bu Sevdalardan](https://open.spotify.com/album/57y0kEd09cinYeE9JPHCwJ) | 2:17 |
+| 5 | [Hannibal Lecter](https://open.spotify.com/track/0NX9KIumXJHyPBjTgFDv8y) | [Metth](https://open.spotify.com/artist/6T5EThaaQrfKqzdQ4eRuHf), [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [WEIRDO](https://open.spotify.com/album/0asUsMmYpgXW9lkGB3AxLg) | 3:16 |
+| 6 | [BUFFALO](https://open.spotify.com/track/2k8tiLBsCSuVvQ4Kj5q2SG) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [VERITAS II](https://open.spotify.com/album/2yfzb13SLGH9hVqYZZsM56) | 2:58 |
+| 7 | [Herkes Öldü Kimsenin Haberi Yok](https://open.spotify.com/track/3bQtLI9JmUhy6gUHuMYrjy) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3), [Vesca](https://open.spotify.com/artist/3XQjRLbSnGpqd83IMoO4dv) | [41](https://open.spotify.com/album/7fMbsBDq97BCqv1dxn6BFk) | 3:54 |
+| 8 | [59](https://open.spotify.com/track/4CPddNJjMP8T0R68FyJ2Rx) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [PİYASA](https://open.spotify.com/album/1Mpk9CjA5YUu7NX6OCAaVR) | 1:50 |
+| 9 | [Bana Ne Bu Sevdalardan](https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bana Ne Bu Sevdalardan](https://open.spotify.com/album/57y0kEd09cinYeE9JPHCwJ) | 2:17 |
+| 10 | [Anti\-Depresyon](https://open.spotify.com/track/0oZwCG6rpRa1hTmyZXxK1g) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [D3](https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3), [2run](https://open.spotify.com/artist/2ChTJTWndw0hFKEnn4ukYv), [akca](https://open.spotify.com/artist/1OBAc1CshCapEzN3cfmNtc) | [Anti\-Depresyon](https://open.spotify.com/album/0OQUkbKDwUWBmf20eseb7p) | 2:33 |
 | 11 | [G6](https://open.spotify.com/track/26T7zRicGkSunlTfrpE2qK) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [G6 / SYBAU](https://open.spotify.com/album/5FVORknveZaPtZ5a5g7K2o) | 0:57 |
 | 12 | [FOTO](https://open.spotify.com/track/68MyQ74n2P9F20sF0ojgVC) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [FOTO](https://open.spotify.com/album/5JqdbGF5lsAj5DPCvV88me) | 2:10 |
 | 13 | [Kaybeden](https://open.spotify.com/track/6XtYVT7q73CjAsHTLNrqkd) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Kaybeden](https://open.spotify.com/album/7Ae3Ud9M6m2hyK00CIT0U5) | 2:17 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [ASLAN YAKIŞMAZ KAFESTE](https://open.spotify.com/track/3bfcPN5EAU1CzXIGaWBaUR) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [ASLAN YAKIŞMAZ KAFESTE](https://open.spotify.com/album/2WfdMP5Y3GtlBO857nvF7a) | 1:58 |
 | 49 | [yenildiğim tek savaştın](https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [yenildiğim tek savaştın](https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30) | 1:49 |
 
-Snapshot ID: `AAAAAKbCh9dN0WVXv2nAM+qzSC0WZqfn`
+Snapshot ID: `AAAAAGhkJfYkU8rPLsyT2itOosbV9wOD`

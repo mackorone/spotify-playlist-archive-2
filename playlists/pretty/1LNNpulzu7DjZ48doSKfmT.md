@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 361 songs - 18 hr 56 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 365 songs - 19 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -369,5 +369,9 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 359 | [Take me or leave me](https://open.spotify.com/track/6XKIcXRuqMhaP0hLJmrhJI) | [Kamil Koksa](https://open.spotify.com/artist/04pKt1XbNWhUv9qpWXIqPw) | [Take me or leave me](https://open.spotify.com/album/5r4hwAhcBzy1KYHaTIsPo2) | 2:56 |
 | 360 | [Por Uma Hora De Amor \- Dance Version](https://open.spotify.com/track/3KqiT9CWy6yhcx45EpZX6f) | [Vincenzo Bottiglieri](https://open.spotify.com/artist/7w0jsP1QKbOfDoisWCi68k) | [Por Uma Hora De Amor \(Dance Version\)](https://open.spotify.com/album/2UiIkNYb52sIGySgQfXFZe) | 5:51 |
 | 361 | [Can't Stop It](https://open.spotify.com/track/6ECcYD5bITWfxdLxu2ztMb) | [AS i am](https://open.spotify.com/artist/3Gjhxajbc0eyC9ft7Ui5h9) | [Can't Stop It](https://open.spotify.com/album/5HFzAnJCIM24A9HLB8syWS) | 4:58 |
+| 362 | [FUEGO Y MOTOR](https://open.spotify.com/track/7EdPeXsUJ3yy7ejpdgXeZD) | [Capotillo Freestyle](https://open.spotify.com/artist/1Zh8D2mb5oKdx4kudfbOlf) | [FUEGO Y MOTOR](https://open.spotify.com/album/2zzdH7Tb98W7RZ4gCQBHGI) | 2:48 |
+| 363 | [Make Believe](https://open.spotify.com/track/76omlwBeYP3reKPhIMlDcB) | [Don Oyster](https://open.spotify.com/artist/4lOzeAqWH62k26Myk9xSNN) | [Make Believe](https://open.spotify.com/album/0gsvtNwXe8v3FkIuRIhnry) | 1:52 |
+| 364 | [Tarde Demais](https://open.spotify.com/track/1pUsLM8hPrVSZG8IepAROX) | [SECULA](https://open.spotify.com/artist/454r38dyHssBuCDmC5RuGf) | [Tarde Demais](https://open.spotify.com/album/3g6ck4FM6HbRu6nLdZBpiH) | 4:14 |
+| 365 | [All Nights Reserved](https://open.spotify.com/track/1W0PEM6m8tw84KzZ7Bj0H3) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:21 |
 
-Snapshot ID: `AAAegn8hemHMFz55EvDEYdjPViNJKuVu`
+Snapshot ID: `AAAehlSjPHh4cMJain/Dlr/lilOES8/V`

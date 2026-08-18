@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 33423,
+  "num_followers": 33455,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADqQ+if0D7x4Gicr7T4cxxs",
+  "snapshot_id": "aoD9gAAAAAA/kP4jgot8HL0k21penN7E",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 231546,
+      "name": "Stuck In Reverse",
+      "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mavis Staples I'll Take You There: An All-Star Concert Celebration (Deluxe / Live)",
         "url": "https://open.spotify.com/album/6MJb2k5X1k25ebj7ZyixCb"
       },
@@ -859,46 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
-      },
-      "artists": [
-        {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "Stuck In Reverse",
-      "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
-        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 258970,
-      "name": "Leave A Light (Funkhaus Version)",
-      "url": "https://open.spotify.com/track/2wX6erJuE2Yf76fPid4gam"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Swell Season",
         "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 218960,
       "name": "Sleeping",
       "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
+        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 258970,
+      "name": "Leave A Light (Funkhaus Version)",
+      "url": "https://open.spotify.com/track/2wX6erJuE2Yf76fPid4gam"
     },
     {
       "added_at": null,
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don\u2019t Settle (Vol. 1 - Transmissions East)",
+        "url": "https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 323540,
+      "name": "Didn't He Ramble (Funkhaus Version)",
+      "url": "https://open.spotify.com/track/52mNViayZN6tYChVWmaX01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
         "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 246693,
       "name": "Lay Me Down | Ring of Fire",
       "url": "https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don\u2019t Settle (Vol. 1 - Transmissions East)",
-        "url": "https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 323540,
-      "name": "Didn't He Ramble (Funkhaus Version)",
-      "url": "https://open.spotify.com/track/52mNViayZN6tYChVWmaX01"
     }
   ],
   "unique_name": "This Is Glen Hansard",

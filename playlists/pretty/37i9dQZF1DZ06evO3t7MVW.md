@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,154 likes - 43 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,355 likes - 43 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 20 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 |
 | 21 | [Choice Is Yours \(with Slightly Stoopid\)](https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:05 |
 | 22 | [Angels Above Me](https://open.spotify.com/track/6hBHSglQeZDkfkDYPBxG4i) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:20 |
-| 23 | [Livin' Easy](https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Hopes and Dreams](https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5) | 3:53 |
-| 24 | [Middle of the Ocean](https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Easy to Love You](https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91) | 4:29 |
+| 23 | [Middle of the Ocean](https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Easy to Love You](https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91) | 4:29 |
+| 24 | [Livin' Easy](https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Hopes and Dreams](https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5) | 3:53 |
 | 25 | [Siren \(with Stick Figure\)](https://open.spotify.com/track/3jSlARN861elnfSuveZx8X) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 3:57 |
 | 26 | [Above the Storm](https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:54 |
 | 27 | [Coming Home](https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:43 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 42 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
 | 43 | [Give Thanks \(feat\. Stick Figure\)](https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Sacred Sound](https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796) | 3:36 |
 
-Snapshot ID: `an+sAAAAAADHMyUAMU5n/ZcS1unIqtMf`
+Snapshot ID: `aoD9gAAAAAAwCNIC843+lCIxqD5t1lrl`

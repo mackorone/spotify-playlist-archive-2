@@ -3294,14 +3294,6 @@
       },
       "artists": [
         {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
           "name": "Jeremy Jordan",
           "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
         },
@@ -3314,8 +3306,16 @@
           "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
         },
         {
-          "name": "Kimiko Glenn",
-          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+          "name": "Sarah Stiles",
+          "url": "https://open.spotify.com/artist/7AdaaN0SN1NF24cTg9RPga"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
         }
       ],
       "date_added": "2024-05-14",
@@ -5172,20 +5172,20 @@
       },
       "artists": [
         {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
           "name": "Jeremy Jordan",
           "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
         },
         {
           "name": "Erika Henningsen",
           "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
         }
       ],
       "date_added": "2024-05-14",
@@ -7693,7 +7693,7 @@
         },
         {
           "name": "Joel Perez",
-          "url": "https://open.spotify.com/artist/2W9W8wwOXJCux8sfyptX2p"
+          "url": "https://open.spotify.com/artist/1OFyMXmkzPqt8a5MZ1ue5h"
         }
       ],
       "date_added": "2024-01-31",
@@ -9439,48 +9439,6 @@
     },
     {
       "album": {
-        "name": "Hazbin Hotel Original Soundtrack (Part 2)",
-        "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
-      },
-      "artists": [
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Erika Henningsen",
-          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
-        },
-        {
-          "name": "Shoba Narayan",
-          "url": "https://open.spotify.com/artist/5LNiqorupgMehK3ewlUCvj"
-        },
-        {
-          "name": "Patina Miller",
-          "url": "https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp"
-        },
-        {
-          "name": "Jessica Vosk",
-          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
-        },
-        {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        }
-      ],
-      "date_added": "2024-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188677,
-      "name": "You Didn\u2019t Know",
-      "url": "https://open.spotify.com/track/1EXcVTWW9vciHp4hzQHqAG"
-    },
-    {
-      "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
       },
@@ -9524,6 +9482,48 @@
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/0nD9zX0pnjOGhwZbCtMSGR"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 2)",
+        "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
+      },
+      "artists": [
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Shoba Narayan",
+          "url": "https://open.spotify.com/artist/5LNiqorupgMehK3ewlUCvj"
+        },
+        {
+          "name": "Patina Miller",
+          "url": "https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp"
+        },
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188677,
+      "name": "You Didn\u2019t Know",
+      "url": "https://open.spotify.com/track/1EXcVTWW9vciHp4hzQHqAG"
     },
     {
       "album": {

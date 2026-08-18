@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,232 likes - 73 songs - 4 hr 22 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,234 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 71 | [ANHA](https://open.spotify.com/track/2NW8zDzKdyYM05YfgsNGOI) | [McNum](https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3) | [ANHA](https://open.spotify.com/album/6icKjxljuUNwWVTYPGtIAY) | 3:18 |
 | 72 | [Broken Mirrors](https://open.spotify.com/track/2Q937SaVxiS2frvTSFyhoz) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Soul Out](https://open.spotify.com/album/1TzuQv0ac32UOqa8HNUvmb) | 4:25 |
 | 73 | [Hit On Me](https://open.spotify.com/track/0gBFxAmc8lHJGVxN5Mafap) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Hit On Me](https://open.spotify.com/album/7qIb2jsBx3hY7faFbZXwas) | 3:27 |
+| 74 | [Searching For The Meaning Of Life](https://open.spotify.com/track/2dDRJHzBOszwRqvi9m4xTh) | [The Render Line](https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR) | [You Can Do The Impossible](https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh) | 2:36 |
+| 75 | [Calm After The Storm](https://open.spotify.com/track/6HhTEmSzmipGU5O5EzBfqp) | [Help Wanted](https://open.spotify.com/artist/0omDhJzmgZ8tu73lHdwi5T) | [Calm After The Storm](https://open.spotify.com/album/5gsFwal4tWt1KHDChP4xBS) | 3:17 |
+| 76 | [Once More Again \(Alternative Version\)](https://open.spotify.com/track/0t7ydqOC1zuSjvidhHWWqB) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [Once More Again](https://open.spotify.com/album/2iK2jSzblXqV1SSozzXQU8) | 4:53 |
 
-Snapshot ID: `AAAGyG5nNGaQGEM7ZU1NEkR5W6Se0Lac`
+Snapshot ID: `AAAGy1TQbAumjggQLn3CZGY5z0T4jkYs`

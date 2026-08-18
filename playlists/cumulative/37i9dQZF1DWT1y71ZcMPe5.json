@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: KAROL G, Bruno Mars",
+  "description": "The hottest songs you need to listen to right now. Cover: KATSEYE",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 196363,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/1z3yelL9joxerhXDqG96vy"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 183373,
       "name": "Angel(s)",
       "url": "https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 205523,
       "name": "Break Up in Reverse",
       "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
@@ -6631,6 +6631,24 @@
     },
     {
       "album": {
+        "name": "feel myself",
+        "url": "https://open.spotify.com/album/75MbI0WOFQN8D05YuvqWhj"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137053,
+      "name": "feel myself",
+      "url": "https://open.spotify.com/track/66RpXf6th846Q3g9tbPxzG"
+    },
+    {
+      "album": {
         "name": "Feel The Same",
         "url": "https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV"
       },
@@ -7398,7 +7416,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 146880,
       "name": "Gimme Dat Love",
       "url": "https://open.spotify.com/track/1wE6dqzjRFAxAV0rCnEpa5"
@@ -8571,6 +8589,28 @@
     },
     {
       "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158792,
+      "name": "Heaven Baby (feat. ZAYN)",
+      "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
+    },
+    {
+      "album": {
         "name": "Heavy Is the Crown",
         "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
       },
@@ -9076,6 +9116,24 @@
       "duration_ms": 173949,
       "name": "honeymoon - Spotify Singles",
       "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
+    },
+    {
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140720,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
     },
     {
       "album": {
@@ -10004,6 +10062,24 @@
       "duration_ms": 143298,
       "name": "I Think I Like You Better When You\u2019re Gone",
       "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
+    },
+    {
+      "album": {
+        "name": "i think of you the most",
+        "url": "https://open.spotify.com/album/6qpHLyez8QjIfaQOU8NghJ"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197407,
+      "name": "i think of you the most",
+      "url": "https://open.spotify.com/track/2pr7yL0mr8Dnm2nlnqPMin"
     },
     {
       "album": {
@@ -11126,7 +11202,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 187910,
       "name": "juliet",
       "url": "https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2"
@@ -16205,6 +16281,24 @@
     },
     {
       "album": {
+        "name": "WhyKiiiKiii",
+        "url": "https://open.spotify.com/album/6RrIZArw9cEz8gbpiylYFz"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141285,
+      "name": "Pop Off Pop Off",
+      "url": "https://open.spotify.com/track/3iHzvU39BS03PD0zpNa19b"
+    },
+    {
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -16402,7 +16496,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 189469,
       "name": "Pretty Eyes (feat. FLO)",
       "url": "https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5"
@@ -17967,6 +18061,24 @@
     },
     {
       "album": {
+        "name": "SYNK : aeXIS LINE - 2026 Special Digital Single",
+        "url": "https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Serenade (KARINA & WINTER)",
+      "url": "https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o"
+    },
+    {
+      "album": {
         "name": "READY TO BE",
         "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
       },
@@ -18080,6 +18192,24 @@
       "duration_ms": 150233,
       "name": "SHE DON'T NEED TO KNOW",
       "url": "https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9"
+    },
+    {
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
     },
     {
       "album": {
@@ -18724,7 +18854,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 136533,
       "name": "SO GOOD (ft. Simone Ashley)",
       "url": "https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR"

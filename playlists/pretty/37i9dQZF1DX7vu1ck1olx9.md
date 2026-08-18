@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > cool down with these chill beats 🧊
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 128 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,783 likes - 128 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

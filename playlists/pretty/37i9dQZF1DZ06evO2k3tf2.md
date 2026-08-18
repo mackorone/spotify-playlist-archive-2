@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 
 > This is Twenty One Pilots\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448,341 likes - 46 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448,440 likes - 46 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 23 | [Hometown](https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 |
 | 24 | [Center Mass](https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:48 |
 | 25 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 |
-| 26 | [The Outside](https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:36 |
-| 27 | [House of Gold](https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 2:43 |
+| 26 | [House of Gold](https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 2:43 |
+| 27 | [The Outside](https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:36 |
 | 28 | [Drum Show](https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:23 |
 | 29 | [Vignette](https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:22 |
 | 30 | [Nico and the Niners](https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:45 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 45 | [Nico/Heavydirtysoul \- Live in Mexico City](https://open.spotify.com/track/7EoHimXt4xsKlCbmlfe346) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [More Than We Ever Imagined \(Live in Mexico City\)](https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr) | 7:02 |
 | 46 | [Stressed Out \- Live in Mexico City](https://open.spotify.com/track/60xcUD1MuHVNg9SmePwXsD) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [More Than We Ever Imagined \(Live in Mexico City\)](https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr) | 3:33 |
 
-Snapshot ID: `an+sAAAAAABF2BKKY3estuAwBWXFH2+O`
+Snapshot ID: `aoD9gAAAAAAPX+uDs67qjAA6FhfYJfXb`

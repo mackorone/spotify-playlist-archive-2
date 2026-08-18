@@ -1,12 +1,12 @@
 {
   "description": "Alternative indie music etc. Cover: Sub Urban",
-  "num_followers": 732230,
+  "num_followers": 732203,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFD3w75y4gJgX4arVt7YAlBQgAh3",
+  "snapshot_id": "AAAAAEdv1hSbDIuqarZwPO0AXWIW9ta/",
   "tracks": [
     {
       "added_at": "2026-08-14 04:03:30",
@@ -23,6 +23,22 @@
       "duration_ms": 154836,
       "name": "Robotboy",
       "url": "https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9"
+    },
+    {
+      "added_at": "2026-08-17 19:05:23",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
     },
     {
       "added_at": "2026-08-14 04:03:30",
@@ -1075,38 +1091,6 @@
     {
       "added_at": "2026-08-14 04:03:30",
       "album": {
-        "name": "Beast In The Flesh",
-        "url": "https://open.spotify.com/album/5Tn1tuAu4Qd7pa2Mkk1dm5"
-      },
-      "artists": [
-        {
-          "name": "Yves Jarvis",
-          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
-        }
-      ],
-      "duration_ms": 234791,
-      "name": "Beast In The Flesh",
-      "url": "https://open.spotify.com/track/4Ii9uKLmeqRrJpvGgfFMHf"
-    },
-    {
-      "added_at": "2026-08-14 04:03:30",
-      "album": {
-        "name": "STUCK!",
-        "url": "https://open.spotify.com/album/7JbeQ8X9x6sFxzP71e76za"
-      },
-      "artists": [
-        {
-          "name": "Drunk Cat",
-          "url": "https://open.spotify.com/artist/2i0pGSxAZLh8rVHOl1kVnU"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "STUCK!",
-      "url": "https://open.spotify.com/track/4ws19dF3cNR7euM1HcFXaV"
-    },
-    {
-      "added_at": "2026-08-14 04:03:30",
-      "album": {
         "name": "lao shi",
         "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
       },
@@ -1231,26 +1215,6 @@
     {
       "added_at": "2026-08-14 04:03:30",
       "album": {
-        "name": "Smash Combat",
-        "url": "https://open.spotify.com/album/3wb0gR13hzmsFExK0AWCEG"
-      },
-      "artists": [
-        {
-          "name": "Ping Pong Go",
-          "url": "https://open.spotify.com/artist/5C3BsAXPHbkUKm3wi8GUMG"
-        },
-        {
-          "name": "Dolphin Hyperspace",
-          "url": "https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q"
-        }
-      ],
-      "duration_ms": 213011,
-      "name": "Shrala",
-      "url": "https://open.spotify.com/track/0za6Bjao6YFkxIOc6pT6fx"
-    },
-    {
-      "added_at": "2026-08-14 04:03:30",
-      "album": {
         "name": "Rest of Your Life",
         "url": "https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY"
       },
@@ -1303,38 +1267,6 @@
     {
       "added_at": "2026-08-14 04:03:30",
       "album": {
-        "name": "Song for the Messenger",
-        "url": "https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Song for the Messenger",
-      "url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3"
-    },
-    {
-      "added_at": "2026-08-14 04:03:30",
-      "album": {
-        "name": "Wash You Out",
-        "url": "https://open.spotify.com/album/6iX4dOEqWg6YgKCfgzSItF"
-      },
-      "artists": [
-        {
-          "name": "Born At Midnite",
-          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Wash You Out",
-      "url": "https://open.spotify.com/track/7yupAV8AOHwAecLb0Cnnnq"
-    },
-    {
-      "added_at": "2026-08-14 04:03:30",
-      "album": {
         "name": "I'll be fine",
         "url": "https://open.spotify.com/album/1OTyEOKorSdUAzTpgIWKOP"
       },
@@ -1363,58 +1295,6 @@
       "duration_ms": 146732,
       "name": "veil",
       "url": "https://open.spotify.com/track/0TT5fYtMNU07WMrW9cbRpL"
-    },
-    {
-      "added_at": "2026-08-14 04:03:30",
-      "album": {
-        "name": "If Nevermore (Anhedonia)",
-        "url": "https://open.spotify.com/album/0oKF6VnD3mToLu2ruXuNcF"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        }
-      ],
-      "duration_ms": 123555,
-      "name": "Chemical Coffins",
-      "url": "https://open.spotify.com/track/6GJ1CQ2MnZLUmDSxKmgisH"
-    },
-    {
-      "added_at": "2026-08-14 04:03:30",
-      "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 226283,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
-    },
-    {
-      "added_at": "2026-08-14 04:03:30",
-      "album": {
-        "name": "Distracted",
-        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Funny Friends",
-      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
       "added_at": "2026-08-14 04:03:30",
@@ -1727,26 +1607,6 @@
       "duration_ms": 197576,
       "name": "Society",
       "url": "https://open.spotify.com/track/0GjDfRE6GZL74N80Y9pGCu"
-    },
-    {
-      "added_at": "2026-08-14 04:03:30",
-      "album": {
-        "name": "Don't Be Stupid",
-        "url": "https://open.spotify.com/album/5tQMrObufBXxp3lqV99kj3"
-      },
-      "artists": [
-        {
-          "name": "Dazegxd",
-          "url": "https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL"
-        },
-        {
-          "name": "Af1shawty",
-          "url": "https://open.spotify.com/artist/6oL8lWoevFyLz9PAFTT4yc"
-        }
-      ],
-      "duration_ms": 199714,
-      "name": "don't be stupid",
-      "url": "https://open.spotify.com/track/39xZLjFOjWVk54cD7ewiPi"
     },
     {
       "added_at": "2026-08-14 04:03:30",

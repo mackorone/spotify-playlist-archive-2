@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jharden13/">James Harden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,443 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,453 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 | 45 | [U See Us](https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:25 |
 | 46 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/5Bas7y9Uy1Ce7e3vqngqVF) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 2:51 |
 | 47 | [Dog Food](https://open.spotify.com/track/4j3BOcD5RBgZ0hIvIWsM4H) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Young And Turnt](https://open.spotify.com/album/6ghfhTnYBG1W5Ky22OhJzD) | 2:34 |
-| 48 | [None of This](https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [No Pressure](https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud) | 4:00 |
-| 49 | [Effortless](https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [No Pressure](https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud) | 3:05 |
+| 48 | [Effortless](https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [No Pressure](https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud) | 3:05 |
+| 49 | [None of This](https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [No Pressure](https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud) | 4:00 |
 
 Snapshot ID: `AAAAAMMyGi1z5grSsnv4I8JRcgLfFvfh`

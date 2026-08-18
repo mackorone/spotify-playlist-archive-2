@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Ozuna & Omar Courtz are bringing the heat this week\. Tap in every Thursday for a refresh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,943 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,879 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

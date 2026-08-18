@@ -1,6 +1,6 @@
 {
   "description": "\u27a1\ufe0f \u27a1\ufe0f \u27a1\ufe0f gute Laune.",
-  "num_followers": 1886665,
+  "num_followers": 1886513,
   "original_name": "Good Mood",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -275,18 +271,22 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Rock That Body",
+      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
         "name": "KILLY MANJARO",
         "url": "https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 146133,
       "name": "KILLY MANJARO",
       "url": "https://open.spotify.com/track/4rcQuHo8PhGshmvEVJZ4T5"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Rock That Body",
-      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "Leak It",
-        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 183406,
-      "name": "Leak It",
-      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
         "name": "TRIPPIN",
         "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 202881,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
+        "name": "Leak It",
+        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 183406,
+      "name": "Leak It",
+      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "Following the Sun",
-        "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
-      },
-      "artists": [
-        {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        },
-        {
-          "name": "NEEKA",
-          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Following the Sun",
-      "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
+        "name": "Following the Sun",
+        "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
+      },
+      "artists": [
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        },
+        {
+          "name": "NEEKA",
+          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Following the Sun",
+      "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
+        "name": "Sorry Papi",
+        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 170671,
+      "name": "Sorry Papi",
+      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
       },
@@ -959,22 +979,18 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "Sorry Papi",
-        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 170671,
-      "name": "Sorry Papi",
-      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
+      "duration_ms": 163226,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -999,22 +1015,6 @@
       "duration_ms": 188852,
       "name": "Gut Genug (mit Blumengarten & Shirin David)",
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 121874,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
-        "name": "Born In The Echoes",
-        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 260696,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
         }
       ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+      "duration_ms": 165831,
+      "name": "What If?",
+      "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1355,22 +1371,6 @@
       "duration_ms": 238427,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
-      },
-      "artists": [
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        }
-      ],
-      "duration_ms": 165831,
-      "name": "What If?",
-      "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
     },
     {
       "added_at": "2026-08-07 09:08:05",

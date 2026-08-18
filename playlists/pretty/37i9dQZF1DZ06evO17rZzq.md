@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,275 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,276 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 37 | [Nasty Bitch](https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:24 |
 | 38 | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h) | 2:51 |
 | 39 | [Red Light Special \(feat\. Kaliii\)](https://open.spotify.com/track/4Y0bW6Dc0XlY77kjuV6KkG) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Who I Am](https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh) | 2:30 |
-| 40 | [What's Tea? \- with Kaliii](https://open.spotify.com/track/05jGCR85ce49vONuaW97ms) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [German Engineering Zwei](https://open.spotify.com/album/1essCNzwTRw1tv49AuOnG2) | 2:49 |
-| 41 | [ill nana \(feat\. Kali\)](https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 |
-| 42 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 |
+| 40 | [ill nana \(feat\. Kali\)](https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 |
+| 41 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 |
+| 42 | [What's Tea? \- with Kaliii](https://open.spotify.com/track/05jGCR85ce49vONuaW97ms) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [German Engineering Zwei](https://open.spotify.com/album/1essCNzwTRw1tv49AuOnG2) | 2:49 |
 | 43 | [Stand On It](https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 1:56 |
 | 44 | [Big Body](https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 1:46 |
 | 45 | [Let It Ring](https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 49 | [New Day](https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:34 |
 | 50 | [Spend Dat](https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:18 |
 
-Snapshot ID: `an+sAAAAAABfpvaHFpVlEFnpKS4nJI5m`
+Snapshot ID: `aoD9gAAAAABts5m/LBz4iwvnWun7DeC6`

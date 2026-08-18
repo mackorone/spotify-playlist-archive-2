@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Rise Against
 
-2,040 songs - 4 day 19 hr 3 min
+2,041 songs - 4 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Cut My Hair](https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [TOY](https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52) | 3:04 | 2025-01-31 | 2025-06-21 |
 | [Cut My Hair](https://open.spotify.com/track/1yxjaC8bqy31Cs7BrwCKz0) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Cut My Hair](https://open.spotify.com/album/1zV6fb0hPcA66LadF38UAC) | 4:55 | 2021-12-31 | 2022-01-29 |
 | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/track/3l6ibS9n423uKLhY7y3E62) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/album/64Hq3bXpxvfpXX3so2qoaj) | 3:18 | 2023-02-03 | 2024-01-05 |
+| [Cut Ties](https://open.spotify.com/track/01SGVeXJF9AkviwZSb9Lb5) | [Concrete Vehicles](https://open.spotify.com/artist/1LGlGjoMOdMxYDOGjxZFCP) | [Text Stop](https://open.spotify.com/album/2eo8g18ri5VLPMpZawvHq1) | 3:26 | 2026-07-10 |  |
 | [Cutting Teeth](https://open.spotify.com/track/2m1hk6dt2ZtWpST6VinTHc) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Lonesome High](https://open.spotify.com/album/7mUSt73cVNdmQVKKpeDbsD) | 3:31 | 2024-09-13 | 2025-03-08 |
 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 | 2023-01-13 | 2023-02-11 |
 | [D&T](https://open.spotify.com/track/1GcWy9khekaRVprPAJHpcx) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [D&T](https://open.spotify.com/album/4GpYBGSbYk4gEvywwpBQFY) | 3:05 | 2024-08-16 | 2024-09-21 |

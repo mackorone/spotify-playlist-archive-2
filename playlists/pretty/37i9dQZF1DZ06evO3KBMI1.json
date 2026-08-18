@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 75065,
+  "num_followers": 75056,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAB9csIY1f1W9PfXXjkdXyDx",
+  "snapshot_id": "aoD9gAAAAAB0vA06fdbkmSOPhX07dGsa",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPIPHANY",
-        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "NO MAP",
-      "url": "https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 305320,
       "name": "EN",
       "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "NO MAP",
+      "url": "https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b"
     },
     {
       "added_at": null,
@@ -620,25 +620,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 328506,
-      "name": "MONDO PIECE",
-      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 255706,
-      "name": "Fight For Liberty\uff08album ver.\uff09",
-      "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
+      "duration_ms": 270173,
+      "name": "\u30af\u30aa\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSER",
-        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+        "name": "EVER",
+        "url": "https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb"
       },
       "artists": [
         {
@@ -676,25 +660,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 312746,
-      "name": "AFTER LIFE",
-      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 270173,
-      "name": "\u30af\u30aa\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
+      "duration_ms": 213533,
+      "name": "ZERO BREAKOUT POINT",
+      "url": "https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW"
     },
     {
       "added_at": null,
@@ -715,6 +683,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "MONDO PIECE",
+      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 312746,
+      "name": "AFTER LIFE",
+      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TYCOON",
         "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 281706,
       "name": "DECIDED (album ver.)",
       "url": "https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EVER",
-        "url": "https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "ZERO BREAKOUT POINT",
-      "url": "https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 260077,
       "name": "VICTOSPIN",
       "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PROGLUTION",
+        "url": "https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "\u6d6e\u4e16CROSSING",
+      "url": "https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ"
     }
   ],
   "unique_name": "This Is UVERworld",

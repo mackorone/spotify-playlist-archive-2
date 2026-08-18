@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24592,
+  "num_followers": 24591,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAD8+55plJPDfuo7NvpmWXC1",
+  "snapshot_id": "aoD9gAAAAABMqpILhhhL6aw4fFzv+vXe",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFRICAN GIRLS",
-        "url": "https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 123582,
-      "name": "AFRICAN GIRLS",
-      "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 232500,
       "name": "ADDICTED (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFRICAN GIRLS",
+        "url": "https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 123582,
+      "name": "AFRICAN GIRLS",
+      "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "dtf",
-      "url": "https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANGER BOY",
         "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 178181,
       "name": "NDA",
       "url": "https://open.spotify.com/track/4UijNUSyQ3b7XehryTR7jf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "dtf",
+      "url": "https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Wetin Be Love",
-      "url": "https://open.spotify.com/track/0IRuh90YBK9a99cW3R9skS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANGER BOY",
         "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 203894,
       "name": "PARA",
       "url": "https://open.spotify.com/track/10pjc5OzTnqCwzVQLuDtqi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Wetin Be Love",
+      "url": "https://open.spotify.com/track/0IRuh90YBK9a99cW3R9skS"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 196713,
-      "name": "mmadu",
-      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANGER BOY",
         "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 142500,
       "name": "RABA",
       "url": "https://open.spotify.com/track/1bhywSiaWYWRJR9gIhFaHv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 196713,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "PPOWER",
+      "url": "https://open.spotify.com/track/5PCs0fCPcLM5spCGgNVwYE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sad Romance (Deluxe)",
         "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "PPOWER",
-      "url": "https://open.spotify.com/track/5PCs0fCPcLM5spCGgNVwYE"
     },
     {
       "added_at": null,
@@ -791,34 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Egypt 80",
-          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
-        }
-      ],
-      "duration_ms": 169986,
-      "name": "Know Better (feat. CKay, Seun Kuti & Egypt 80)",
-      "url": "https://open.spotify.com/track/0pSIOwm8Jz5iMj3nR2rllq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANGER BOY",
         "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
@@ -855,6 +827,34 @@
       "duration_ms": 188920,
       "name": "Anya Mmiri",
       "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
+        }
+      ],
+      "duration_ms": 169986,
+      "name": "Know Better (feat. CKay, Seun Kuti & Egypt 80)",
+      "url": "https://open.spotify.com/track/0pSIOwm8Jz5iMj3nR2rllq"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 654737,
+  "num_followers": 654821,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Revolver (Remastered)",
@@ -231,22 +247,6 @@
       "duration_ms": 161960,
       "name": "Under the Boardwalk",
       "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Monday, Monday - Single Version",
-      "url": "https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Sings Lonely and Blue",
         "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 147759,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Monday, Monday - Single Version",
+      "url": "https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Take A Look",
-        "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "Anyone Who Knows What Love Is (Will Understand)",
-      "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "For Your Sweet Love",
@@ -763,6 +747,22 @@
       "duration_ms": 146133,
       "name": "I Will Follow You",
       "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Take A Look",
+        "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Anyone Who Knows What Love Is (Will Understand)",
+      "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 203873,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Moon River And Other Great Movie Themes",
         "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 162893,
       "name": "Moon River (From \"Breakfast at Tiffany's\")",
       "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 203873,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "You'll Lose A Good Thing",
-        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lynn",
-          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "You'll Lose A Good Thing",
-      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "At Last!",
@@ -891,6 +875,22 @@
       "duration_ms": 178466,
       "name": "Trust In Me",
       "url": "https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "You'll Lose A Good Thing",
+        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "You'll Lose A Good Thing",
+      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9"
+        "name": "Bobby Vee",
+        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
       },
       "artists": [
         {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        },
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
         }
       ],
-      "duration_ms": 147527,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa"
+      "duration_ms": 149973,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1339,34 +1335,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Bobby Vee",
-        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9"
       },
       "artists": [
         {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "More Than I Can Say",
-      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "People Get Ready",
-        "url": "https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL"
-      },
-      "artists": [
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        },
         {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
         }
       ],
-      "duration_ms": 163360,
-      "name": "People Get Ready",
-      "url": "https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf"
+      "duration_ms": 147527,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1383,6 +1367,22 @@
       "duration_ms": 129066,
       "name": "Sweet Happy Life",
       "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "People Get Ready",
+        "url": "https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "People Get Ready",
+      "url": "https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 113066,
-      "name": "(Ummmm, Oh Yeah) Dearest",
-      "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 174800,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 113066,
+      "name": "(Ummmm, Oh Yeah) Dearest",
+      "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1709,22 +1709,6 @@
       "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "This Is My Country",
-        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 172813,
-      "name": "Fool for You",
-      "url": "https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Doo Wop Classics Vol. 1",
@@ -1747,18 +1731,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Feelin' Good",
-        "url": "https://open.spotify.com/album/56dVr48fkRjXXHKE2dG6ya"
+        "name": "This Is My Country",
+        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
       },
       "artists": [
         {
-          "name": "David Ruffin",
-          "url": "https://open.spotify.com/artist/3FZn8Z2B7mfaSOU8NE62KR"
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
         }
       ],
-      "duration_ms": 168400,
-      "name": "Put A Little Love In Your Heart",
-      "url": "https://open.spotify.com/track/4BaAOHT6nF3F8oV7n8OvD1"
+      "duration_ms": 172813,
+      "name": "Fool for You",
+      "url": "https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1775,6 +1759,22 @@
       "duration_ms": 247266,
       "name": "Oh, What A Night",
       "url": "https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Feelin' Good",
+        "url": "https://open.spotify.com/album/56dVr48fkRjXXHKE2dG6ya"
+      },
+      "artists": [
+        {
+          "name": "David Ruffin",
+          "url": "https://open.spotify.com/artist/3FZn8Z2B7mfaSOU8NE62KR"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Put A Little Love In Your Heart",
+      "url": "https://open.spotify.com/track/4BaAOHT6nF3F8oV7n8OvD1"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2103,6 +2103,26 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
       },
@@ -2135,22 +2155,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The World We Knew",
-        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
+        "name": "Hello Louis - The Hit Years (1963-1969)",
+        "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 162493,
-      "name": "Somethin' Stupid",
-      "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
+      "duration_ms": 137466,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2171,18 +2187,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Hello Louis - The Hit Years (1963-1969)",
-        "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 137466,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2215,22 +2231,6 @@
       "duration_ms": 194866,
       "name": "Harbor Lights",
       "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Greatest Motown Hits",
-        "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Definitive 60's (sixties)",
         "url": "https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 169746,
       "name": "I Left My Heart In San Francisco",
       "url": "https://open.spotify.com/track/3nr6QXimwd9K4hpuFdgr6N"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Greatest Motown Hits",
+        "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
     },
     {
       "added_at": "2022-05-30 13:00:37",

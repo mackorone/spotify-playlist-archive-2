@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,062 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,079 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 2 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
 | 3 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 |
 | 4 | [Int'l Players Anthem \(I Choose You\) \(feat\. Outkast\)](https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1) | 4:19 |
-| 5 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
+| 5 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 |
 | 6 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |
 | 7 | [Rosa Parks](https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:24 |
 | 8 | [Street Talkin'](https://open.spotify.com/track/4TGHOWSNAwUXn5onDQr0P1) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Art Of Storytelling](https://open.spotify.com/album/4cZL0gsOEIOPLXdhc18vex) | 3:41 |
-| 9 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 |
+| 9 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
 | 10 | [B.O.B\. \- Bombs Over Baghdad](https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 5:04 |
 | 11 | [Da Art of Storytellin' \(Pt\. 1\)](https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 3:42 |
 | 12 | [Player's Ball](https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 49 | [Speedballin'](https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia \(25th Anniversary\)](https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA) | 5:04 |
 | 50 | [Watch for the Hook \(Dungeon Family Mix\)](https://open.spotify.com/track/5CNBjdmp5aZdW2Nu6f0Xav) | [Cool Breeze](https://open.spotify.com/artist/1hTh4ZmK0tdbocmMgM2bSO), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Witchdoctor](https://open.spotify.com/artist/0CSW4YWldpNnpaqYJJXSto) | [East Point's Greatest Hit](https://open.spotify.com/album/1xnatTs8lRun69YT1tleCS) | 4:31 |
 
-Snapshot ID: `an+sAAAAAADWTkTnXQddRiQKBQVsiuzx`
+Snapshot ID: `aoD9gAAAAABotl5C9SkLxK4fRKmbziYc`

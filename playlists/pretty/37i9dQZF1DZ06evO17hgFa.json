@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 150368,
+  "num_followers": 150380,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACJdvxEdxqsjh7uWUuFc/3R",
+  "snapshot_id": "aoD9gAAAAABOxXOv0ln6uB7ZdviYO1CR",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 185280,
       "name": "Crazy He Calls Me",
       "url": "https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179546,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 222417,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1OO3dnVkQTe3gQM1ItasyR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179546,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 255681,
       "name": "Do Nothin' Till You Hear From Me - 1956 Version",
       "url": "https://open.spotify.com/track/2b27XKoKxVf2OpoSPnJilL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 196346,
-      "name": "Fine And Mellow",
-      "url": "https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lady Sings",
         "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 188160,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "Fine And Mellow",
+      "url": "https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA"
     },
     {
       "added_at": null,

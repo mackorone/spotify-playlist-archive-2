@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 26 | [Lovin' It](https://open.spotify.com/track/0CN72fWya38TPEQzrsr27w) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:00 |
 | 27 | [VIBES DON'T LIE](https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:21 |
 | 28 | [Another Heartbreak](https://open.spotify.com/track/1TuSfYnKU5uKbYK1esQDLj) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 4:09 |
-| 29 | [Reckless](https://open.spotify.com/track/1BybndP1YgPEIk6WUnL6kT) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Platinum Fire \(Deluxe\)](https://open.spotify.com/album/0e8ZsVbYFyzRhHYKNOgthl) | 3:53 |
-| 30 | [DON'T LEAVE](https://open.spotify.com/track/5gXD4exv3XSwYh4BFQ0phf) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:28 |
+| 29 | [DON'T LEAVE](https://open.spotify.com/track/5gXD4exv3XSwYh4BFQ0phf) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:28 |
+| 30 | [Reckless](https://open.spotify.com/track/1BybndP1YgPEIk6WUnL6kT) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Platinum Fire \(Deluxe\)](https://open.spotify.com/album/0e8ZsVbYFyzRhHYKNOgthl) | 3:53 |
 | 31 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
 | 32 | [LUCID DREAMS \(feat\. Masego\)](https://open.spotify.com/track/6Px7oJcPvMWLhwRHmao0Fe) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:46 |
 | 33 | [Breaking Point](https://open.spotify.com/track/1vHTfYiYGGwgqM2XmMCtZY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 4:53 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 126 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 127 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AcZwpAAAAABJ74HOOJBLafizu27LZ6OG`
+Snapshot ID: `AcZ2RAAAAAAqV/bNcaFvQgwNet7z6nyJ`

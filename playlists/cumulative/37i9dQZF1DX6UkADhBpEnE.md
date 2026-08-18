@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-1,154 songs - 2 day 15 hr 6 min
+1,155 songs - 2 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-06 | 2025-02-14 |
 | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB) | 1:35 | 2023-02-02 | 2023-02-16 |
 | [I Can’t Lose](https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Can't Lose](https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ) | 3:03 | 2025-07-24 | 2025-08-16 |
+| [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 | 2026-08-14 |  |
 | [I CONDEMN](https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I CONDEMN](https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI) | 2:22 | 2026-04-16 | 2026-05-25 |
 | [I Don't Know What You See In Me](https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [I Don't Know What You See In Me](https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw) | 3:39 | 2023-01-31 | 2023-02-03 |
 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-01 | 2024-02-09 |
@@ -1041,7 +1042,7 @@
 | [ファンファーレ](https://open.spotify.com/track/7eqcd5jj8zsN7fi2aJl4TU) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [ファンファーレ](https://open.spotify.com/album/0yIqso2lCNEOSOtIr8qFcb) | 4:08 | 2025-11-06 | 2025-11-21 |
 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 | 2023-03-30 | 2024-01-10 |
 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 | 2026-01-15 | 2026-02-13 |
-| [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 | 2025-07-10 |  |
+| [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 | 2025-07-10 | 2026-08-18 |
 | [ベルベットの詩](https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ベルベットの詩](https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8) | 4:14 | 2024-03-05 | 2024-05-10 |
 | [ペアルック](https://open.spotify.com/track/0PE2QAjK6VRfvUMME1o6PK) | [かたこと](https://open.spotify.com/artist/6KS0L3KIe0sC6uX4wmnjdZ) | [ペアルック](https://open.spotify.com/album/14k0sGwAaX1JX1inwRYLky) | 3:25 | 2023-12-21 | 2024-01-05 |
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-10-17 | 2024-01-05 |

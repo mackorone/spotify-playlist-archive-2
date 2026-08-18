@@ -4530,7 +4530,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 205714,
       "name": "Bum Baa Diga Diga",
       "url": "https://open.spotify.com/track/7sNHxjkI4mzpmz6ZVS6TF7"
@@ -22530,7 +22530,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 240066,
       "name": "Raanjhan (From \"Do Patti\")",
       "url": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
@@ -24926,7 +24926,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 224083,
       "name": "Shararat",
       "url": "https://open.spotify.com/track/0R7grQWU1dRxiOQGIqZm0Z"
@@ -27940,7 +27940,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 262129,
       "name": "Tiranga (From \"Yodha\")",
       "url": "https://open.spotify.com/track/1R88klTSzUaIk2kAphl7aP"
@@ -30073,6 +30073,32 @@
     },
     {
       "album": {
+        "name": "Ve Junoon (From \"Awarapan 2\")",
+        "url": "https://open.spotify.com/album/0GN8c8LKElLxzjr5gOams3"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        },
+        {
+          "name": "Subodhh Sharma",
+          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401834,
+      "name": "Ve Junoon (From \"Awarapan 2\")",
+      "url": "https://open.spotify.com/track/0jfPsVkuCCqz8A9vDkWkMr"
+    },
+    {
+      "album": {
         "name": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7jMyVFg5txILeA8LRZra6L"
       },
@@ -31036,6 +31062,32 @@
       "duration_ms": 159312,
       "name": "YEDA YUNG",
       "url": "https://open.spotify.com/track/7n5QRJlaXL5a3LCjOwsdcs"
+    },
+    {
+      "album": {
+        "name": "Yeh Awarapan (From \"Awarapan 2\")",
+        "url": "https://open.spotify.com/album/5xahy2Tzi8r1KbjVeOM0fd"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298144,
+      "name": "Yeh Awarapan (From \"Awarapan 2\")",
+      "url": "https://open.spotify.com/track/45WZToFfKWqeN8A9GyBETB"
     },
     {
       "album": {

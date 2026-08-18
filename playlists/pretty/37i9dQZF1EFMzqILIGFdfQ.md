@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,034 likes - 120 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035 likes - 120 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 16 | [VIRGO'S GROOVE](https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 6:08 |
 | 17 | [Issues/Hold On](https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 3:05 |
 | 18 | [MOVE \(feat\. Grace Jones & Tems\)](https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:23 |
-| 19 | [Feels](https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:01 |
-| 20 | [Pick Up Your Feelings](https://open.spotify.com/track/2I7CJZLo2nDqGuzZJA1XlZ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n) | 3:49 |
+| 19 | [Pick Up Your Feelings](https://open.spotify.com/track/2I7CJZLo2nDqGuzZJA1XlZ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n) | 3:49 |
+| 20 | [Feels](https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:01 |
 | 21 | [Top Off \(feat\. JAY Z, Future & Beyoncé\)](https://open.spotify.com/track/0QzliuYF4qRMXI76GwepXq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:50 |
 | 22 | [Jealous \(feat\. Chris Brown, Lil Wayne & Big Sean\)](https://open.spotify.com/track/6Dq8FZrvx9S28iyaKSwn9x) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 4:15 |
 | 23 | [MY POWER](https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:19 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 119 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 | 120 | [Afterparty](https://open.spotify.com/track/0ZeD7U7TTQECHW8bU3l0WM) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [I've Seen The Lizard People](https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf) | 2:16 |
 
-Snapshot ID: `AcZwpAAAAABi0izymYciysSVCsuUk1PF`
+Snapshot ID: `AcZ2RAAAAAApEu/XUy6Zh/w9e3cjOTRM`

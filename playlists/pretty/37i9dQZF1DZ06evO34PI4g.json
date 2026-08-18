@@ -1,12 +1,12 @@
 {
   "description": "This is System Of A Down. The essential tracks, all in one playlist.",
-  "num_followers": 1095492,
+  "num_followers": 1095737,
   "original_name": "This Is System Of A Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABqRodukJ8nqAC126AJFLK3",
+  "snapshot_id": "aoD9gAAAAADl1YFNNPa76BLWu1AsYk3c",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 205800,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39"
+      "duration_ms": 162600,
+      "name": "Darts",
+      "url": "https://open.spotify.com/track/4kV0MfNxKOcD3mTCj0eSor"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 162600,
-      "name": "Darts",
-      "url": "https://open.spotify.com/track/4kV0MfNxKOcD3mTCj0eSor"
+      "duration_ms": 205800,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39"
     }
   ],
   "unique_name": "This Is System Of A Down",

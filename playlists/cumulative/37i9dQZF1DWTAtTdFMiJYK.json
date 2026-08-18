@@ -4212,7 +4212,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 149927,
       "name": "Kehndi Hai",
       "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
@@ -8622,6 +8622,28 @@
       "duration_ms": 151531,
       "name": "Unicorn and the Sheep",
       "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
+    },
+    {
+      "album": {
+        "name": "URDU ME GEETA",
+        "url": "https://open.spotify.com/album/4RupoQR3qybYXGqGApDRNu"
+      },
+      "artists": [
+        {
+          "name": "Nihaarika",
+          "url": "https://open.spotify.com/artist/0Bz8tfHA4pjg4FKYk4ARmR"
+        },
+        {
+          "name": "Bro-G",
+          "url": "https://open.spotify.com/artist/1xsvjX3AYGCluJEEUxjL4R"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "URDU ME GEETA",
+      "url": "https://open.spotify.com/track/0OJmfTfnwwj02W7TNi9COo"
     },
     {
       "album": {

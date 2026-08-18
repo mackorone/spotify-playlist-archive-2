@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Luvstruck, Leena Punks
 
-1,236 songs - 2 day 14 hr 39 min
+1,237 songs - 2 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Meet Me](https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [JONOS](https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Meet Me](https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5) | 3:15 | 2025-11-06 | 2026-02-07 |
 | [Meet Me In The Dark](https://open.spotify.com/track/4qDBXgjpBItXeXoCLdEuS6) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Meet Me In The Dark](https://open.spotify.com/album/4jM92VN44r0AGwSAXGfKI4) | 2:55 | 2026-05-21 |  |
 | [Melissa I'm Drunk And Outside](https://open.spotify.com/track/3uary9jAaYITd9tT7YkSU0) | [Jay Baptiste](https://open.spotify.com/artist/71RgT2mhLUY2lxk8GF9YnU) | [Melissa I'm Drunk And Outside](https://open.spotify.com/album/7GmXYIFfByeWpiUXv5t6vn) | 1:39 | 2026-06-08 |  |
+| [Melissa I'm Outside](https://open.spotify.com/track/4IZm4diq6J9CN1Gk5wtROB) | [Jay Baptiste](https://open.spotify.com/artist/71RgT2mhLUY2lxk8GF9YnU) | [Melissa I'm Outside](https://open.spotify.com/album/0bsP0GO3yUob8RNpfOeTXr) | 2:17 | 2026-08-17 |  |
 | [MF Mosh Pit](https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Und3rsound](https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47) | [MF Mosh Pit](https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk) | 2:14 | 2024-12-19 | 2025-01-17 |
 | [Mi Tambora](https://open.spotify.com/track/4YcOEoRr9vlTZzpI4POZ0o) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [ASLN](https://open.spotify.com/artist/58DPIUFMVBSQEy9xZNbKfU) | [Mi Tambora](https://open.spotify.com/album/1wLHQqQ5mx5zORbVqmRzXB) | 3:18 | 2025-10-23 | 2026-02-07 |
 | [Middle Fingers \(feat\. Savage\)](https://open.spotify.com/track/27VZcxppvzwqnzxEHjVxN7) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [Strictly Business](https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Middle Fingers \(feat\. Savage\)](https://open.spotify.com/album/4XDHATdsfhkKm5oCYTLnUn) | 2:23 | 2024-10-31 | 2024-11-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 176850,
+  "num_followers": 176845,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Simple Things (Piano Version)",
-        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 186090,
-      "name": "Simple Things - Piano Version",
-      "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "Going, Going, Gone (Acoustic)",
         "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 166101,
       "name": "Going, Going, Gone - Acoustic",
       "url": "https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "Simple Things (Piano Version)",
+        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 186090,
+      "name": "Simple Things - Piano Version",
+      "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Girl On Fire (Acoustic)",
-        "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
         }
       ],
-      "duration_ms": 188709,
-      "name": "Girl On Fire - Acoustic",
-      "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+        "name": "Girl On Fire (Acoustic)",
+        "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
       },
       "artists": [
         {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+      "duration_ms": 188709,
+      "name": "Girl On Fire - Acoustic",
+      "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "No Horse To Ride (demo version)",
-        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 133906,
-      "name": "No Horse To Ride - demo version",
-      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "World on Fire (Bonfire Version)",
         "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 185915,
       "name": "World on Fire - Bonfire Version",
       "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "No Horse To Ride (demo version)",
+        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 133906,
+      "name": "No Horse To Ride - demo version",
+      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Dance With You (Acoustic)",
-        "url": "https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0"
+        "name": "One Percent (Acoustic)",
+        "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
         }
       ],
-      "duration_ms": 190235,
-      "name": "Dance With You - Acoustic",
-      "url": "https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS"
+      "duration_ms": 204900,
+      "name": "One Percent (Acoustic)",
+      "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "One Percent (Acoustic)",
-        "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
+        "name": "Dance With You (Acoustic)",
+        "url": "https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0"
       },
       "artists": [
         {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 204900,
-      "name": "One Percent (Acoustic)",
-      "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
+      "duration_ms": 190235,
+      "name": "Dance With You - Acoustic",
+      "url": "https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1031,6 +1031,26 @@
       "duration_ms": 177772,
       "name": "That's Why (Acoustic Version)",
       "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "Sounds Like Something I'd Say (Acoustic)",
+        "url": "https://open.spotify.com/album/66pm2X8619J4LIu2cG8aXD"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 196216,
+      "name": "Sounds Like Something I'd Say - Acoustic",
+      "url": "https://open.spotify.com/track/65IMy9SoKAWvozEuXLEoxR"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Sounds Like Something I'd Say (Acoustic)",
-        "url": "https://open.spotify.com/album/66pm2X8619J4LIu2cG8aXD"
-      },
-      "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 196216,
-      "name": "Sounds Like Something I'd Say - Acoustic",
-      "url": "https://open.spotify.com/track/65IMy9SoKAWvozEuXLEoxR"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "Another (Wedding Version)",
         "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 200506,
       "name": "You Don't Want That Smoke. - The Acoustic Version.",
       "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
+      },
+      "artists": [
+        {
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+        }
+      ],
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
-      },
-      "artists": [
-        {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
-        }
-      ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "All I Know About Girls",
         "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 164333,
       "name": "All I Know About Girls",
       "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1219,6 +1203,22 @@
       "duration_ms": 196986,
       "name": "goodbye looks good on you feat. Mitchell Tenpenny (acoustic)",
       "url": "https://open.spotify.com/track/5KhBQkh2LvhuQQCW0hFjNo"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "This Town's Been Too Good To Us (Stripped)",
-        "url": "https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "This Town's Been Too Good To Us (Stripped)",
-      "url": "https://open.spotify.com/track/3qx8Dv2nvxlPkzteEItNSf"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 174863,
       "name": "Gonna Love You - Acoustic",
       "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "This Town's Been Too Good To Us (Stripped)",
+        "url": "https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "This Town's Been Too Good To Us (Stripped)",
+      "url": "https://open.spotify.com/track/3qx8Dv2nvxlPkzteEItNSf"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "I Should Probably Go To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "I Should Probably Go To Bed - Acoustic",
-      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "Live from Layman",
         "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
+        "name": "I Should Probably Go To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "I Should Probably Go To Bed - Acoustic",
+      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
         "name": "My Left Hand (Wedding Version)",
         "url": "https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 186133,
       "name": "My Left Hand (Wedding Version)",
       "url": "https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "Breakin' in Boots (Stripped)",
+        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "duration_ms": 154173,
+      "name": "Breakin' in Boots - Stripped",
+      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1599,22 +1615,6 @@
       "duration_ms": 254989,
       "name": "You Didn\u2019t - Acoustic",
       "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
-        "name": "Breakin' in Boots (Stripped)",
-        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "Breakin' in Boots - Stripped",
-      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
     },
     {
       "added_at": "2026-06-12 04:02:08",

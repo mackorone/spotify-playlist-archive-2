@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 149493,
+  "num_followers": 149651,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABTbV5V43b8MDfxS16XrqdI",
+  "snapshot_id": "aoD9gAAAAACVu9w8b7+GBf3sFVPDUamA",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Weekend",
         "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
       },
@@ -91,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Boys",
-        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
       "artists": [
         {
@@ -100,9 +84,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 254614,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
     },
     {
       "added_at": null,
@@ -127,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
       },
       "artists": [
         {
@@ -136,9 +120,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
     },
     {
       "added_at": null,
@@ -155,6 +139,22 @@
       "duration_ms": 214482,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/4b1QYjd7i5D1Gx2VjN21qI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Weekend",
         "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 281544,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 239007,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 258812,
       "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 239007,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Funny Feeling",
-        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 400565,
-      "name": "That Funny Feeling",
-      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Weekend",
         "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 236205,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Funny Feeling",
+        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 400565,
+      "name": "That Funny Feeling",
+      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 218689,
+      "name": "Lost Weekend",
+      "url": "https://open.spotify.com/track/1GMPPheF4aMHMifOgp72eF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 218586,
       "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 218689,
-      "name": "Lost Weekend",
-      "url": "https://open.spotify.com/track/1GMPPheF4aMHMifOgp72eF"
     },
     {
       "added_at": null,
@@ -651,18 +651,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
       "artists": [
         {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+      "duration_ms": 206465,
+      "name": "Me & My Dog",
+      "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
     },
     {
       "added_at": null,
@@ -695,30 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 206465,
-      "name": "Me & My Dog",
-      "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": null,
@@ -735,34 +735,6 @@
       "duration_ms": 173714,
       "name": "Prayer in Open D",
       "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 257213,
-      "name": "Revolution 0",
-      "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
     },
     {
       "added_at": null,
@@ -791,6 +763,34 @@
       "duration_ms": 192070,
       "name": "Bite The Hand",
       "url": "https://open.spotify.com/track/03h0ioes0mfaZIeAO1fV5o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 257213,
+      "name": "Revolution 0",
+      "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
     }
   ],
   "unique_name": "This Is Phoebe Bridgers",

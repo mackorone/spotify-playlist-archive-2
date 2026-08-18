@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1636377,
+  "num_followers": 1636360,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAr3P7oVjWlmP6U2ynwcmnD",
+  "snapshot_id": "aoD9gAAAAACZlyZFwlaXHJ4VJ6Mq5PUK",
   "tracks": [
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sophie Stray",
-          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "Land Of The Heroes",
-      "url": "https://open.spotify.com/track/5meh2ZJuONe5RI92Zcq5W4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 191861,
       "name": "Void",
       "url": "https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sophie Stray",
+          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Land Of The Heroes",
+      "url": "https://open.spotify.com/track/5meh2ZJuONe5RI92Zcq5W4"
     },
     {
       "added_at": null,
@@ -1051,26 +1051,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Bird",
-        "url": "https://open.spotify.com/album/4F7aLIs0UqEc1jD5aiX9VA"
+        "name": "Space Melody (Edward Artemyev) (feat. Leony)",
+        "url": "https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K"
       },
       "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "\u5218\u5b87",
-          "url": "https://open.spotify.com/artist/5AmzB7BZvNguo4OgrzOyg7"
+          "name": "Edward Artemyev",
+          "url": "https://open.spotify.com/artist/097u8n1F4JjTzmOR9VUVEK"
         },
         {
-          "name": "Chuanzi",
-          "url": "https://open.spotify.com/artist/2RAzRjAZmbbdeX8eUJ8ckF"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 210113,
-      "name": "Golden Bird",
-      "url": "https://open.spotify.com/track/4xN8kkpF1chwOwRYkcFBTm"
+      "duration_ms": 180000,
+      "name": "Space Melody (Edward Artemyev) (feat. Leony)",
+      "url": "https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR"
     }
   ],
   "unique_name": "This Is Alan Walker",

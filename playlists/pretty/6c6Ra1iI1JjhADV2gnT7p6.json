@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60459,
+  "num_followers": 60462,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABR16LMcugt2q9FqJiUZLoIuPoKbtA+",
+  "snapshot_id": "AABR2XLd6A0YZwndsNiw2JI83gPShwMR",
   "tracks": [
     {
       "added_at": "2026-08-16 13:03:51",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-08-16 13:03:51",
       "album": {
-        "name": "Koney",
-        "url": "https://open.spotify.com/album/7thKqms8eXYS0BmXJuErQv"
-      },
-      "artists": [
-        {
-          "name": "Koney",
-          "url": "https://open.spotify.com/artist/1YzkggSl4CIAV2LSnA8uID"
-        }
-      ],
-      "duration_ms": 220241,
-      "name": "Combos",
-      "url": "https://open.spotify.com/track/3nZAnwWkVJ9UeTsTN7J0s9"
-    },
-    {
-      "added_at": "2026-08-16 13:03:51",
-      "album": {
         "name": "Brainwashing the Populace",
         "url": "https://open.spotify.com/album/3GoP000uMnNArR03QPpCqx"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 180889,
       "name": "She Loves the Beach",
       "url": "https://open.spotify.com/track/5gmKEhX6GDnbvFvZ3SU0u5"
+    },
+    {
+      "added_at": "2026-08-16 13:03:51",
+      "album": {
+        "name": "Koney",
+        "url": "https://open.spotify.com/album/7thKqms8eXYS0BmXJuErQv"
+      },
+      "artists": [
+        {
+          "name": "Koney",
+          "url": "https://open.spotify.com/artist/1YzkggSl4CIAV2LSnA8uID"
+        }
+      ],
+      "duration_ms": 220241,
+      "name": "Combos",
+      "url": "https://open.spotify.com/track/3nZAnwWkVJ9UeTsTN7J0s9"
     },
     {
       "added_at": "2026-08-16 13:03:51",
@@ -3867,7 +3867,7 @@
     {
       "added_at": "2026-08-16 13:03:51",
       "album": {
-        "name": "In Yun",
+        "name": "Pleasant Morning",
         "url": "https://open.spotify.com/album/09x2tEGHB8Ay144UcKf8TM"
       },
       "artists": [

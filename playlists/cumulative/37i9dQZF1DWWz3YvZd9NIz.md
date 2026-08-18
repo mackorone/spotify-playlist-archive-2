@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-275 songs - 13 hr 31 min
+276 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Cynical \- Hardstyle](https://open.spotify.com/track/4cEMgH0ERFoLyKb9dxccvD) | [HARD DEMON](https://open.spotify.com/artist/4hs7FsiMKHZoMozVh72PjK), [X\-Hard](https://open.spotify.com/artist/44lkLJnPol5vOPY9HwWX3S), [Mr Demon](https://open.spotify.com/artist/4KxFQKuMJRcrnz0UpiGgw4) | [Cynical \(Hardstyle\)](https://open.spotify.com/album/0RxssWi0DN1f4Y1v6JBTj8) | 2:34 | 2025-02-18 | 2025-05-07 |
 | [Daddy DJ](https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA) | [Daddy DJ](https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ) | 3:42 | 2023-09-07 |  |
 | [Dancing In The Moonlight](https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Dancing In The Moonlight](https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl) | 3:03 | 2026-06-15 |  |
+| [Danza Kuduro \- Remix](https://open.spotify.com/track/5w9bL15LRbhKYxNwu3qFrq) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Danza Kuduro \(Remix\)](https://open.spotify.com/album/7nhhL5UzXtQe8B4nAk9jI5) | 2:24 | 2026-08-17 |  |
 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/1U43pviSmkzoBDxIqPWbAc) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/0WNNiEmWs9OlBiZaBvM9Et) | 1:48 | 2023-02-09 | 2023-05-23 |
 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/5aJT7dU40Ry4zz1zI34845) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/26AwKORtQduylqg17xd0MH) | 1:48 | 2023-05-18 | 2024-04-19 |
 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 | 2023-04-27 | 2023-09-08 |
@@ -275,7 +276,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 | 2022-12-22 | 2022-12-29 |
 | [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2023-10-16 | 2023-10-18 |
 | [WOLFGANG](https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK) | 2:48 | 2023-10-16 | 2024-04-19 |
-| [Wonderful Days \- Hardstyle Edit](https://open.spotify.com/track/6LrgA0g5A9jjRJFH6nKRnn) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [Wonderful Days \(Hardstyle Edit\)](https://open.spotify.com/album/2ShcFyeiExEa5GVIiEEgH5) | 2:45 | 2025-10-28 |  |
+| [Wonderful Days \- Hardstyle Edit](https://open.spotify.com/track/6LrgA0g5A9jjRJFH6nKRnn) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [Wonderful Days \(Hardstyle Edit\)](https://open.spotify.com/album/2ShcFyeiExEa5GVIiEEgH5) | 2:45 | 2025-10-28 | 2026-08-18 |
 | [YEAH](https://open.spotify.com/track/03QzNTMRkmuVifyapS8eKX) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [YEAH](https://open.spotify.com/album/1QEbCQjE1boSO1yqw0rX4J) | 2:26 | 2026-03-02 |  |
 | [You're Not Alone](https://open.spotify.com/track/2zA49zF3ng5BIdwItn9Tbs) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [You're Not Alone](https://open.spotify.com/album/49tPw9ieGnzjFutoGUlrMy) | 3:19 | 2026-06-29 |  |
 | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 | 2022-12-05 | 2023-06-09 |

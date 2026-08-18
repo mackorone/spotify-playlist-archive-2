@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-614 songs - 1 day 12 hr 49 min
+615 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Honest Man](https://open.spotify.com/track/0Zm9bkfnz9Ukx3cKm45Ulh) | [Leon Lee King](https://open.spotify.com/artist/6RcAjGSc8Ds1Pczaka30qy) | [Honest Man](https://open.spotify.com/album/0DsKsrvezmgBI8rQppwzUN) | 3:23 | 2026-01-09 | 2026-02-07 |
 | [How Do We Heal](https://open.spotify.com/track/2EP80jwbqkWrLPLw9VMdgU) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Bryce The Third](https://open.spotify.com/artist/2vybgOw7cAjEAInqTAT5Hx) | [How Do We Heal](https://open.spotify.com/album/1hNZPrmqSsImAAmVqElepM) | 5:11 | 2022-02-18 | 2022-07-25 |
 | [How Do We Heal](https://open.spotify.com/track/5Ds0wPs6q6pHAWXVa5EXmY) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Bryce The Third](https://open.spotify.com/artist/2vybgOw7cAjEAInqTAT5Hx) | [It Starts with Love](https://open.spotify.com/album/6gzrKLDkaYEyUknqeS4aFW) | 5:11 | 2022-02-25 | 2023-07-15 |
+| [How Lonely Is Lonely](https://open.spotify.com/track/2xRFQskIigKmmYlXm7cjc3) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [There She Goes](https://open.spotify.com/album/7p8b2CqEXLdqcI37YKX9Fm) | 3:30 | 2026-07-17 |  |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2021-07-09 | 2023-04-30 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2021-07-09 | 2024-03-30 |
 | [Human \(feat\. Vince Harder & Louis Baker\)](https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M), [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Human \(feat\. Vince Harder & Louis Baker\)](https://open.spotify.com/album/1OR9HNKkrsXXDyY5u98HYD) | 3:16 | 2021-12-17 | 2022-11-14 |

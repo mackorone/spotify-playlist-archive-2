@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ZEROBASEONE
 
-1,075 songs - 2 day 10 hr 15 min
+1,077 songs - 2 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Kiss Plan](https://open.spotify.com/track/51iXzcSoQmwss67XeDdyss) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Kiss Plan](https://open.spotify.com/album/4yvtxO4ZWuSfXIqudZDqol) | 2:59 | 2024-01-24 | 2024-02-14 |
 | [Knife](https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH](https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3) | 2:19 | 2026-01-16 | 2026-01-21 |
 | [Knife](https://open.spotify.com/track/7mVhLZSh2bXAFynFyELZ3v) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH \(Japanese Ver.\)](https://open.spotify.com/album/6BJr4QzuA7XIwbMPXVeYrz) | 2:19 | 2026-01-21 |  |
+| [KO1KEYZ](https://open.spotify.com/track/0sntN2nuas8OXrvdMoWbqR) | [KO1KEYZ](https://open.spotify.com/artist/7EuQkJNmjEkhV4TdeHNFEc) | [KO1KEYZ](https://open.spotify.com/album/0E9jYbwaVVqnB2xP7U3yMQ) | 3:11 | 2026-08-17 |  |
 | [Koijanai? \- Don't you love me? \-](https://open.spotify.com/track/6bT7YKm6I8yMZPasNSlAkf) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Koijanai? \- Don't you love me? \-](https://open.spotify.com/album/5jFgDZwTLLswYtwPzxplmP) | 3:04 | 2026-01-15 | 2026-01-30 |
 | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/2IdPiAdM5pUmUMtzS1UBnJ) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/5xZRKhx7mmHb6SwlY2uPwh) | 2:56 | 2024-04-02 | 2024-04-19 |
 | [Last Festival](https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Single 'Last Bell'](https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My) | 3:11 | 2025-03-06 | 2025-04-03 |
@@ -575,7 +576,7 @@
 | [New Tomorrow \- JAPANESE ver.](https://open.spotify.com/track/6fyZPL9KBMCoaediH5Vbuf) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [MAKE A FANTASY](https://open.spotify.com/album/5prBWkcBTTD6cRukF1xZsB) | 3:51 | 2024-06-25 | 2024-07-31 |
 | [NEWSmile](https://open.spotify.com/track/2CXVVWFqthDQ4GEEc8tUPJ) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [NEWSmile](https://open.spotify.com/album/4Pv8k6WZ60oUiuJtARH4BN) | 3:21 | 2024-01-02 | 2024-01-10 |
 | [Next](https://open.spotify.com/track/69u9PoISpJxSfL2bMkmyWA) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [First Flight \(Special Edition\)](https://open.spotify.com/album/6bFZd12JlAzzSXGKJSmVcd) | 3:33 | 2023-11-23 | 2024-02-01 |
-| [Nice to Meet Ya](https://open.spotify.com/track/7y0C2c0wVLUivXy6kUM0nQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Nice to Meet Ya](https://open.spotify.com/album/4fWoWnHmYFjMQVt7dZ9DmW) | 3:24 | 2026-08-03 |  |
+| [Nice to Meet Ya](https://open.spotify.com/track/7y0C2c0wVLUivXy6kUM0nQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Nice to Meet Ya](https://open.spotify.com/album/4fWoWnHmYFjMQVt7dZ9DmW) | 3:24 | 2026-08-03 | 2026-08-18 |
 | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 | 2026-02-09 | 2026-04-10 |
 | [NIGHT](https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT](https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP) | 2:54 | 2024-10-08 | 2025-03-07 |
 | [NINE LIVES](https://open.spotify.com/track/3m1UnYVit4a6bHsbt38dE9) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [NINE LIVES](https://open.spotify.com/album/1JiRxRWRwStvHnRaRMkkRS) | 3:08 | 2025-09-21 | 2025-09-24 |
@@ -996,6 +997,7 @@
 | [シブヤ 午後6時](https://open.spotify.com/track/48u2iW5oJKCzTHdP1d6bNc) | [ICEx](https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP) | [シブヤ 午後6時](https://open.spotify.com/album/67FCElXIveudgnyB5o908R) | 3:50 | 2023-12-12 | 2023-12-14 |
 | [スキャンダラスKISS〜 final act〜](https://open.spotify.com/track/1dJhaxmN10PVj8dKF9QiOu) | [CUBERS](https://open.spotify.com/artist/5b0vNm8SlsmAMchGD7akjQ) | [スキャンダラスKISS〜 final act〜](https://open.spotify.com/album/5Yhw12fyac5fHJhMhJTuUC) | 4:30 | 2024-01-23 | 2024-01-31 |
 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 | 2023-11-23 | 2024-10-02 |
+| [セツナハナビ \(Setsuna Hanabi\)](https://open.spotify.com/track/2Hq8l2e9BkRVaQtJni4Ss9) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [セツナハナビ \(Setsuna Hanabi\)](https://open.spotify.com/album/1qa6PpCZqOV4Fge1QL3OoY) | 2:53 | 2026-08-17 |  |
 | [タングステン](https://open.spotify.com/track/45wkJZzu0izt4CQgsw3hNB) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:20 | 2024-02-27 | 2024-03-20 |
 | [ダイヤモンドリリー](https://open.spotify.com/track/676LDL3TVRJ4UrHQlQmUEi) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [ダイヤモンドリリー](https://open.spotify.com/album/3504vkmyPbeVuZaSky7Q3b) | 3:03 | 2024-01-09 | 2024-02-01 |
 | [ナイモノネダリ](https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [ナイモノネダリ](https://open.spotify.com/album/0kJHPrDlgnJ3xWGEHco0lQ) | 3:35 | 2023-11-23 | 2024-01-03 |
@@ -1049,7 +1051,7 @@
 | [愛が通り過ぎた跡](https://open.spotify.com/track/6lYyAMPOD6XXVNrVyxakAL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [愛が通り過ぎた跡](https://open.spotify.com/album/1IprJ7zbzRu4w0OhmBc14n) | 3:04 | 2025-07-13 | 2025-09-01 |
 | [愛執](https://open.spotify.com/track/6d9zFmuJoTW5RdsJJX1er1) | [WEST.](https://open.spotify.com/artist/0VbpS8goXhAQ8vnwiJUNf3) | [愛執](https://open.spotify.com/album/3G1XxXWOHbkfJ9YK2JlBmn) | 3:25 | 2026-01-21 | 2026-02-12 |
 | [拝啓、俺たちへ](https://open.spotify.com/track/3qWHp0OmRVLJ1BumXjg03A) | [コムドット](https://open.spotify.com/artist/4gCWHDSag0akMnMVFlbErm) | [拝啓、俺たちへ](https://open.spotify.com/album/6Er1W865y2brlTGEaD5PeJ) | 3:41 | 2024-05-28 | 2024-06-13 |
-| [新世界\(SHINSEKAI\)](https://open.spotify.com/track/1RKxgExJrU3UM7jM8TcL2G) | [PRODUCE 101 JAPAN 新世界](https://open.spotify.com/artist/17Tf7xytmDacGJe4LMTTlz) | [新世界\(SHINSEKAI\)](https://open.spotify.com/album/0DBB1psohZhdqHYZwnkbfA) | 4:08 | 2026-03-11 |  |
+| [新世界\(SHINSEKAI\)](https://open.spotify.com/track/1RKxgExJrU3UM7jM8TcL2G) | [PRODUCE 101 JAPAN 新世界](https://open.spotify.com/artist/17Tf7xytmDacGJe4LMTTlz) | [新世界\(SHINSEKAI\)](https://open.spotify.com/album/0DBB1psohZhdqHYZwnkbfA) | 4:08 | 2026-03-11 | 2026-08-18 |
 | [旅立ちの鐘](https://open.spotify.com/track/6eftqGjcyB4Mfs9MoM0tdw) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [旅立ちの鐘](https://open.spotify.com/album/1daK7g4CFGbGURS9fJktDX) | 4:41 | 2024-04-09 | 2024-04-24 |
 | [月の裏で会いましょう](https://open.spotify.com/track/0eRMZs55Zgf93wU7p3VVef) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [月の裏で会いましょう](https://open.spotify.com/album/6Aa8bNpdbYSaCpFcV5rpqE) | 4:52 | 2025-07-22 | 2025-11-10 |
 | [未確認領域](https://open.spotify.com/track/14KZzCx6mbOCeM0e5iFt3N) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [未確認領域](https://open.spotify.com/album/0PWlfMnADAMGN7SIpvN4LO) | 2:53 | 2025-08-10 | 2025-09-16 |

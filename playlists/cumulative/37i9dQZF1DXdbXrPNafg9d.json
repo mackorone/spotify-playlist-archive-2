@@ -129607,6 +129607,28 @@
     },
     {
       "album": {
+        "name": "Pain is the Heart of Love",
+        "url": "https://open.spotify.com/album/50AYDE2EHtdousV5nZ4S17"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        },
+        {
+          "name": "Paul Buchanan",
+          "url": "https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "Pain is the Heart of Love",
+      "url": "https://open.spotify.com/track/16aCAD1wmZL2slFfxT7zs2"
+    },
+    {
+      "album": {
         "name": "Painless",
         "url": "https://open.spotify.com/album/5srVsRgd3pNpsc8ccpAGL7"
       },

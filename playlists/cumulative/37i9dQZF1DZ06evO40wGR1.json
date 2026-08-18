@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Teatro Metropolitan Live, Vol. 1",
+        "url": "https://open.spotify.com/album/56k4uJ9OLyKPuhLJaV3hQ5"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "0.449305555556 - En Vivo",
+      "url": "https://open.spotify.com/track/3irgZ4FwNK6XrKdx17xx0u"
+    },
+    {
+      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 258933,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/7nIqRvlHXEIZHvkP5PLXxh"

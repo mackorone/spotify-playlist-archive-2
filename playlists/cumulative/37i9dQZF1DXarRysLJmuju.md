@@ -4,7 +4,7 @@
 
 > Today’s pop, plugged into the culture w/ KATSEYE
 
-3,307 songs - 6 day 23 hr 55 min
+3,308 songs - 6 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2654,6 +2654,7 @@
 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 | 2025-11-14 | 2026-01-15 |
 | [Stimulated](https://open.spotify.com/track/4YbOnkvXUMHh2Mm0zSdtD9) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Stimulated](https://open.spotify.com/album/0Xo8Bp20KFSp5gRB7Za1YQ) | 3:16 | 2026-02-06 | 2026-03-21 |
 | [Stoned](https://open.spotify.com/track/1r2FylqxMZfyiftoH1iEqp) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [The Humid Summer](https://open.spotify.com/album/0CWif3WSQ1qKAiTyMYtNzz) | 3:00 | 2022-07-29 | 2022-08-27 |
+| [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-08-17 |  |
 | [stop this flight](https://open.spotify.com/track/6buGwAuHreYJyMHbPflz5G) | [Ava Ro](https://open.spotify.com/artist/3dtibWWBFanW0n3GYu8NIU) | [stop this flight](https://open.spotify.com/album/2LfAHMwjJVkGuZ02csIOfg) | 2:31 | 2026-06-26 | 2026-07-11 |
 | [STORIES](https://open.spotify.com/track/6Vr5DaX8leoiFUSuVs0FvO) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [STORIES](https://open.spotify.com/album/0Un73xA0BUaLgmoorkouHQ) | 2:31 | 2025-02-21 | 2025-04-05 |
 | [Storm](https://open.spotify.com/track/72znMykhK3rkAY1bMCvwn0) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Storm](https://open.spotify.com/album/1kajLTmy2V3br5sFkfK32Q) | 3:38 | 2025-11-14 | 2026-01-15 |

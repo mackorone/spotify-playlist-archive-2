@@ -3606,7 +3606,7 @@
 - [Kwaito Classics](/playlists/pretty/37i9dQZF1DXaJxsJXPjB3v.md)
 - [Kıyı Boyu](/playlists/pretty/37i9dQZF1DX3wzU43lch6G.md)
 - [L3arke](/playlists/pretty/1Ksv8iR2uzFfLgc86m8aBi.md)
-- [LA LLISTA DE FLAIXBAC \(9/8/2026\)](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md)
+- [LA LLISTA DE FLAIXBAC \(16/8/2026\)](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md)
 - [LA PEDA](/playlists/pretty/37i9dQZF1DXe9UYa8hql9y.md)
 - [LATAM Soundsystem](/playlists/pretty/37i9dQZF1DX2u4EHuQcBWu.md)
 - [LATIN POP HITS 2026 \- Éxitos del Pop Latino](/playlists/pretty/3vWayw42WNrZX1NdMZBSgZ.md)

@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 38884,
+  "num_followers": 38895,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAB0FFX/M+jrKA1U7ItdBD8F",
+  "snapshot_id": "aoD9gAAAAAA6SVF9M8CMzyz1c+7P1vRg",
   "tracks": [
     {
       "added_at": null,
@@ -175,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+        "name": "The Worship Initiative, Vol. 25 (Live)",
+        "url": "https://open.spotify.com/album/6AaJ2dqRVXDBEDC4HsaP7Q"
       },
       "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 302817,
-      "name": "Psalm 46 (Lord of Hosts)",
-      "url": "https://open.spotify.com/track/6obkbpih6pYSgjPyoI75Xp"
+      "duration_ms": 381773,
+      "name": "Worthy of It All - Live",
+      "url": "https://open.spotify.com/track/0adk2kXGdxRVILjoFUUeX4"
     },
     {
       "added_at": null,
@@ -207,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 25 (Live)",
-        "url": "https://open.spotify.com/album/6AaJ2dqRVXDBEDC4HsaP7Q"
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
       },
       "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 381773,
-      "name": "Worthy of It All - Live",
-      "url": "https://open.spotify.com/track/0adk2kXGdxRVILjoFUUeX4"
+      "duration_ms": 302817,
+      "name": "Psalm 46 (Lord of Hosts)",
+      "url": "https://open.spotify.com/track/6obkbpih6pYSgjPyoI75Xp"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+        "name": "Hymns Live",
+        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 287080,
-      "name": "Psalm 23 (Surely Goodness, Surely Mercy)",
-      "url": "https://open.spotify.com/track/2Zxili8AmCuqiomg9HzTgH"
+      "duration_ms": 286851,
+      "name": "His Mercy Is More (Live)",
+      "url": "https://open.spotify.com/track/663E0Tn2w7TyDSO4ATGiPD"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns Live",
-        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 286851,
-      "name": "His Mercy Is More (Live)",
-      "url": "https://open.spotify.com/track/663E0Tn2w7TyDSO4ATGiPD"
+      "duration_ms": 287080,
+      "name": "Psalm 23 (Surely Goodness, Surely Mercy)",
+      "url": "https://open.spotify.com/track/2Zxili8AmCuqiomg9HzTgH"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+        "name": "Hymns Live",
+        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 326652,
-      "name": "Psalm 34 (Taste and See)",
-      "url": "https://open.spotify.com/track/4JDmqxJrJS9FoMPzWmILkQ"
+      "duration_ms": 293802,
+      "name": "Is He Worthy (Live)",
+      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns Live",
-        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 293802,
-      "name": "Is He Worthy (Live)",
-      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
+      "duration_ms": 326652,
+      "name": "Psalm 34 (Taste and See)",
+      "url": "https://open.spotify.com/track/4JDmqxJrJS9FoMPzWmILkQ"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
       "duration_ms": 171062,
       "name": "Awesome God",
       "url": "https://open.spotify.com/track/1lMG8zOEc89JkZRuPhft7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 244639,
-      "name": "Psalm 91 (On Eagles' Wings)",
-      "url": "https://open.spotify.com/track/572afBiucwePeZgB1BBRfC"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
       "duration_ms": 322753,
       "name": "Psalm 8 (How Majestic Is Your Name)",
       "url": "https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 244639,
+      "name": "Psalm 91 (On Eagles' Wings)",
+      "url": "https://open.spotify.com/track/572afBiucwePeZgB1BBRfC"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 312592,
-      "name": "Psalm 139 (Far Too Wonderful)",
-      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 22",
         "url": "https://open.spotify.com/album/0CmnHXF54fEkpmW2qNwwSp"
       },
@@ -559,6 +543,38 @@
       "duration_ms": 301743,
       "name": "Promises",
       "url": "https://open.spotify.com/track/4lCpzh6KbskACgEx1OAPHu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 312592,
+      "name": "Psalm 139 (Far Too Wonderful)",
+      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns in the Round",
+        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 253406,
+      "name": "Be Thou My Vision (Lord You Are) [Acoustic]",
+      "url": "https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 348534,
       "name": "Sovereign Over Us",
       "url": "https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymns in the Round",
-        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 253406,
-      "name": "Be Thou My Vision (Lord You Are) [Acoustic]",
-      "url": "https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns, Vol. 2",
-        "url": "https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4"
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 259013,
-      "name": "Praise to the Lord (Joyful, Joyful)",
-      "url": "https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E"
+      "duration_ms": 325849,
+      "name": "Psalm 45 (Fairest of All)",
+      "url": "https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+        "name": "Hymns, Vol. 2",
+        "url": "https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 325849,
-      "name": "Psalm 45 (Fairest of All)",
-      "url": "https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz"
+      "duration_ms": 259013,
+      "name": "Praise to the Lord (Joyful, Joyful)",
+      "url": "https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns in the Round",
-        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 290566,
-      "name": "Turn Your Eyes Upon Jesus (Acoustic)",
-      "url": "https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz"
+      "duration_ms": 261229,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymns in the Round",
+        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 290566,
+      "name": "Turn Your Eyes Upon Jesus (Acoustic)",
+      "url": "https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worship Initiative, Vol. 11",
         "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 340129,
       "name": "O Come to the Altar",
       "url": "https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 261229,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Setlist #1",
-        "url": "https://open.spotify.com/album/47ZXDoLEV4UZj7uaHu302z"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "Oh But God",
-      "url": "https://open.spotify.com/track/5aQCI8gmJvmLtvBocSS954"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 12",
         "url": "https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 261182,
       "name": "Great I Am",
       "url": "https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Setlist #1",
+        "url": "https://open.spotify.com/album/47ZXDoLEV4UZj7uaHu302z"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "Oh But God",
+      "url": "https://open.spotify.com/track/5aQCI8gmJvmLtvBocSS954"
     },
     {
       "added_at": null,

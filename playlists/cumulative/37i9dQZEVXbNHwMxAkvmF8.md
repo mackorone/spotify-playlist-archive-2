@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,966 songs - 4 day 7 hr 17 min
+1,967 songs - 4 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-28 | 2023-04-06 |
 | [Kimaradás](https://open.spotify.com/track/4WM4yywmndp5m8pEEzpxzu) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Ferike](https://open.spotify.com/artist/5jL6bZFXh0g5zists9pECZ) | [Kimaradás](https://open.spotify.com/album/4mhF1JJXCUmLcvVW21qTRN) | 2:15 | 2026-04-05 | 2026-08-08 |
 | [Kimaradás](https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Ferike](https://open.spotify.com/artist/5jL6bZFXh0g5zists9pECZ) | [Kimaradás](https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI) | 2:15 | 2025-07-28 | 2026-03-26 |
+| [Kimaradás 2](https://open.spotify.com/track/39olLYLRdwBhfXktJx5Og1) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Kimaradás 2](https://open.spotify.com/album/7x1ASajA0IWy2q9l0cuAsY) | 2:19 | 2026-08-17 |  |
 | [Kincsem 2](https://open.spotify.com/track/7kNQcIdtqUgXgbCsSoK6NF) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:08 | 2023-04-08 | 2023-04-16 |
 | [Kinek mi \- Interlude](https://open.spotify.com/track/0ZdCAFQ8TBotYw5rQSCyst) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Szörnyeteg](https://open.spotify.com/album/3fwAWokcyYJTxZWDsyOjYm) | 1:34 | 2021-07-31 | 2021-08-01 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2021-03-27\* | 2021-07-18 |
@@ -958,7 +959,7 @@
 | [LFDY](https://open.spotify.com/track/4R1n3lBWzkIaCiKrpNyF7B) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [A MASZK](https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y) | 2:27 | 2026-05-02 | 2026-05-09 |
 | [Libikóka](https://open.spotify.com/track/5VXtJNJ7ZlW4six7Y0lbJr) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Purgatórium](https://open.spotify.com/album/6VZ7cFeqx6daOulrJQOOGL) | 4:01 | 2025-11-29 | 2025-12-01 |
 | [Libikóka](https://open.spotify.com/track/66FSHBlaFjgUBE7AKVRxmj) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Libikóka](https://open.spotify.com/album/6BKsMwAE9c1NM5moE808Yb) | 4:01 | 2025-04-26 | 2025-06-08 |
-| [Lidokain](https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Lidokain](https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b) | 2:57 | 2024-08-13 |  |
+| [Lidokain](https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Lidokain](https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b) | 2:57 | 2024-08-13 | 2026-08-18 |
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-09-20 | 2021-11-07 |
 | [LIFESTYLE](https://open.spotify.com/track/3ymdVW5xygDJxPL5oJpdp4) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [LIFESTYLE](https://open.spotify.com/album/1WEfsdBaoht3EuNmNGwGyt) | 2:21 | 2022-02-20 | 2022-03-04 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-29 | 2022-10-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: CERES
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,853 likes - 86 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,851 likes - 86 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

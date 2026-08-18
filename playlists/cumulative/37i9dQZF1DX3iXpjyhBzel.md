@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Valesca Mayssa
 
-392 songs - 1 day 14 hr 59 min
+393 songs - 1 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Mulher de Ló \(AO VIVO\)](https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival, Pt.1 \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 3:57 | 2024-07-19 | 2024-08-10 |
 | [Mundo](https://open.spotify.com/track/2WO6KrkMVscqXXXZt3z7Vd) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Mundo](https://open.spotify.com/album/7wNgEdQkCwhnUBdCEharaS) | 6:35 | 2023-09-01 | 2023-09-26 |
 | [Na Casa \- Ao Vivo](https://open.spotify.com/track/1dgxAD9MgYOm5lLrmskGLP) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [ibab celebração](https://open.spotify.com/artist/4tij7q093SZVf6aHxicULk), [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB) | [Na Casa \(Ao Vivo\)](https://open.spotify.com/album/7FhSNkpSxJ1uBiGzKDqpIq) | 5:30 | 2023-03-24 | 2023-04-16 |
+| [Na Comunhão \- Ao Vivo](https://open.spotify.com/track/0ISYegqyS3fP4C1aMuR65b) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Paula Santos](https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi) | [COMUNHÃO \- Fernandinho Em Casa, vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0bDmTYJxrUlLdVEWdtsyg5) | 5:12 | 2026-08-17 |  |
 | [Na Fenda da Rocha \- Ao Vivo](https://open.spotify.com/track/4dYO2p6RmyHEkiFvhW7NwW) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Na Fenda da Rocha \(Ao Vivo\)](https://open.spotify.com/album/3L3usCvBRr2PkzPeA9Q9x8) | 5:49 | 2026-02-13 |  |
 | [Nada Além do Sangue \- Ao Vivo](https://open.spotify.com/track/1wAAKfuuvSZQaXhHtPAzko) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Paula Santos](https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi) | [Nada Além do Sangue \(Ao Vivo\)](https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv) | 8:17 | 2023-10-13 |  |
 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 | 2023-10-06 |  |
@@ -257,7 +258,7 @@
 | [O Senhor do Tempo](https://open.spotify.com/track/24ZOQHs3222kboGzhlkf5E) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Senhor do Tempo](https://open.spotify.com/album/0BQ9B4eRqL4RS6rfKnGR0R) | 6:18 | 2023-10-06 | 2023-11-20 |
 | [O Senhor é o Meu Pastor \- Ao Vivo](https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Senhor é o Meu Pastor \(Ao Vivo\)](https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx) | 6:21 | 2024-06-28 | 2026-02-07 |
 | [Oferta Agradável a Ti \- Ao Vivo](https://open.spotify.com/track/7LTeDQa9T63zjNdOUw7xw9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Oferta Agradável a Ti \(Ao Vivo\)](https://open.spotify.com/album/7vEFU7qP9JvE468fXZyKqi) | 3:52 | 2022-09-09 | 2023-04-29 |
-| [Oi, Jesus 2 \- Ao Vivo](https://open.spotify.com/track/0tCWQmv79OdJXnIHungKVt) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Oi, Jesus 2 \(Ao Vivo\)](https://open.spotify.com/album/3XpCverbmaqWNW8AH59Tu6) | 5:29 | 2025-08-15 |  |
+| [Oi, Jesus 2 \- Ao Vivo](https://open.spotify.com/track/0tCWQmv79OdJXnIHungKVt) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Oi, Jesus 2 \(Ao Vivo\)](https://open.spotify.com/album/3XpCverbmaqWNW8AH59Tu6) | 5:29 | 2025-08-15 | 2026-08-18 |
 | [Onde o Fogo Não Apaga \- Ao Vivo](https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm) | 6:56 | 2023-01-13 | 2026-04-04 |
 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 | 2022-09-09 | 2024-08-10 |
 | [Outra Vez](https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Outra Vez](https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8) | 5:04 | 2023-11-19 | 2024-04-20 |

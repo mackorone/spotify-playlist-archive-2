@@ -40366,7 +40366,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 140409,
       "name": "The Girl",
       "url": "https://open.spotify.com/track/7c4Y1rjZZTAqCsETNQ7b8X"
@@ -46510,6 +46510,24 @@
       "duration_ms": 192753,
       "name": "Younger",
       "url": "https://open.spotify.com/track/7xIHOrZhIOwqF4byN4kq4Q"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/7EPiK4GsTGSxPnQnxptvln"
+      },
+      "artists": [
+        {
+          "name": "Pixie Lane",
+          "url": "https://open.spotify.com/artist/3Br6ncRU4z030LyHPpfflF"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/3HVWaByq4vURdqW7whTbEf"
     },
     {
       "album": {

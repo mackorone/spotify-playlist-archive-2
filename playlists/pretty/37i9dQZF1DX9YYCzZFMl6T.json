@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 8189,
+  "num_followers": 8193,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "we did a Christmas thing",
-        "url": "https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 159784,
-      "name": "Christmas Is All Around",
-      "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "More Than Christmas",
         "url": "https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 213693,
       "name": "More Than Christmas",
       "url": "https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "we did a Christmas thing",
+        "url": "https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 159784,
+      "name": "Christmas Is All Around",
+      "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -687,34 +687,18 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Hard Candy Christmas",
-        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
+        "name": "For Christmas",
+        "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
       },
       "artists": [
         {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 207735,
-      "name": "Hard Candy Christmas",
-      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Kid On Christmas",
-        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "Kid On Christmas",
-      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
+      "duration_ms": 198088,
+      "name": "Blame It on the Mistletoe",
+      "url": "https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -743,18 +727,34 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "For Christmas",
-        "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
+        "name": "Kid On Christmas",
+        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
       },
       "artists": [
         {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 198088,
-      "name": "Blame It on the Mistletoe",
-      "url": "https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh"
+      "duration_ms": 245293,
+      "name": "Kid On Christmas",
+      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Hard Candy Christmas",
+        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        }
+      ],
+      "duration_ms": 207735,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -771,6 +771,22 @@
       "duration_ms": 185056,
       "name": "Merry Christmas Asshole",
       "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Christmas Tree in the Window",
+        "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Christmas Tree in the Window",
+      "url": "https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -807,22 +823,6 @@
       "duration_ms": 224760,
       "name": "Wrapping Presents For Myself",
       "url": "https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Christmas Tree in the Window",
-        "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Christmas Tree in the Window",
-      "url": "https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS"
     },
     {
       "added_at": "2025-12-12 05:00:29",

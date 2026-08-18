@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 59102,
+  "num_followers": 59113,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
-        "url": "https://open.spotify.com/album/0fNkt7mfTDI1BbnvgZRDyV"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Boris Giltburg",
-          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Papillons, Op. 2: XII. Finale",
-      "url": "https://open.spotify.com/track/181fzxvpTWkbL0e9v2zBBu"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Lied Edition, Vol. 2: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Ges\u00e4nge Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
         "url": "https://open.spotify.com/album/3ZxazYh6avlkPE4x8cjCL2"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 201640,
       "name": "Minnespiel, Op. 101: No. 1: Meine Tone still und heiter",
       "url": "https://open.spotify.com/track/0DeEj6R8KMJQSajVMJk41K"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
+        "url": "https://open.spotify.com/album/0fNkt7mfTDI1BbnvgZRDyV"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Boris Giltburg",
+          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Papillons, Op. 2: XII. Finale",
+      "url": "https://open.spotify.com/track/181fzxvpTWkbL0e9v2zBBu"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -415,8 +415,8 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
-        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+        "name": "Schumann - Jan\u00e1\u010dek - Berg",
+        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
       },
       "artists": [
         {
@@ -424,17 +424,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
         }
       ],
-      "duration_ms": 887000,
-      "name": "Manfred, Op. 115: Overture",
-      "url": "https://open.spotify.com/track/2K74tioKZA5giZ3xtHQ6bE"
+      "duration_ms": 228186,
+      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
+      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -459,8 +455,8 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann - Jan\u00e1\u010dek - Berg",
-        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
       "artists": [
         {
@@ -468,37 +464,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
-      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Dichterliebe & Kerner-Lieder",
-        "url": "https://open.spotify.com/album/4msRhMwkhcY2HHEmPF10Lf"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         },
         {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Helmut Deutsch",
-          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
         }
       ],
-      "duration_ms": 136320,
-      "name": "Schumann: Dichterliebe, Op. 48: 10. H\u00f6r' ich das Liedchen klingen",
-      "url": "https://open.spotify.com/track/1FF7Uo5lDxNVZrClnxvFn9"
+      "duration_ms": 887000,
+      "name": "Manfred, Op. 115: Overture",
+      "url": "https://open.spotify.com/track/2K74tioKZA5giZ3xtHQ6bE"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -539,6 +515,30 @@
       "duration_ms": 436266,
       "name": "Konzertst\u00fcck for 4 Horns and Orchestra in F Major, Op. 86: I. Lebhaft",
       "url": "https://open.spotify.com/track/6En1L5jLJAW9ydhVTB1kEB"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Dichterliebe & Kerner-Lieder",
+        "url": "https://open.spotify.com/album/4msRhMwkhcY2HHEmPF10Lf"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Schumann: Dichterliebe, Op. 48: 10. H\u00f6r' ich das Liedchen klingen",
+      "url": "https://open.spotify.com/track/1FF7Uo5lDxNVZrClnxvFn9"
     },
     {
       "added_at": "2025-12-15 12:40:07",

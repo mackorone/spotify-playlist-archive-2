@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-298 songs - 18 hr 41 min
+299 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Destinos Cruzados](https://open.spotify.com/track/4tFkEuIWIZIKDPfaJhUyrP) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:10 | 2025-12-28 | 2026-01-21 |
 | [Dethroned](https://open.spotify.com/track/23tye9xrSpAZ1j5pSIh2a2) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Liminal Space](https://open.spotify.com/album/1UR9SA5kOX7Ogx6pRhPdiq) | 3:55 | 2025-12-29 | 2026-01-21 |
 | [Devil With The Black Dress On](https://open.spotify.com/track/6vYQkUxIR0CpiJk5qg1Uwn) | [Sarah & The Silent Poets](https://open.spotify.com/artist/13K8ORHx1WpF9cCTQwQVcB) | [Devil With The Black Dress On](https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo) | 2:27 | 2025-10-25 | 2025-12-28 |
+| [Devour](https://open.spotify.com/track/4a19eWa4PpD3yyzguRk3hO) | [Bruvvy](https://open.spotify.com/artist/5VvBn4J8cVrk4A0YXLeUVf) | [Devour](https://open.spotify.com/album/2J5eRRGeElqmQ99CiMrsnM) | 2:43 | 2026-08-17 |  |
 | [Diagnos](https://open.spotify.com/track/2TyCsu3MUR9DjANoBa3x2n) | [Artikel 22](https://open.spotify.com/artist/2R9AIy5zKsWF3D838CMyGG) | [Diagnos](https://open.spotify.com/album/7rIaHJYL7JpBieDkLX5pw5) | 3:10 | 2026-03-22 | 2026-05-19 |
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2026-01-22 | 2026-02-23 |
 | [Diamond and the Missing Son](https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:16 | 2026-07-13 | 2026-08-08 |

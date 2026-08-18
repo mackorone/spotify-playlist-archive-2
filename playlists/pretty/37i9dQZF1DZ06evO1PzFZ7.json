@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 151288,
+  "num_followers": 151280,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADZSGFPIzjCHno1Oukx3mAp",
+  "snapshot_id": "aoD9gAAAAADWrzPztPiy5A3mhxBFLTDH",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 287277,
-      "name": "Te Quiero para M\u00ed",
-      "url": "https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 170820,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 287277,
+      "name": "Te Quiero para M\u00ed",
+      "url": "https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd"
     },
     {
       "added_at": null,
@@ -595,18 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+        "name": "Aguachile",
+        "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
       },
       "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
+      "duration_ms": 182858,
+      "name": "CASTIGO",
+      "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
     },
     {
       "added_at": null,
@@ -631,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguachile",
-        "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
-      },
-      "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 182858,
-      "name": "CASTIGO",
-      "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gotitas Saladas",
         "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 203021,
       "name": "Gotitas Saladas",
       "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
     },
     {
       "added_at": null,

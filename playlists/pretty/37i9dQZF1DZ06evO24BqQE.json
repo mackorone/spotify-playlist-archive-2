@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 52208,
+  "num_followers": 52245,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABgt0UuClgVmkK2A8rViKzY",
+  "snapshot_id": "aoD9gAAAAADxoQoAYZiCpbu8PGQ9es+z",
   "tracks": [
     {
       "added_at": null,
@@ -779,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
       },
       "artists": [
+        {
+          "name": "EMO Grae",
+          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
+        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 163042,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR"
+      "duration_ms": 168205,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
     },
     {
       "added_at": null,
@@ -811,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
       },
       "artists": [
-        {
-          "name": "EMO Grae",
-          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
-        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 168205,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
+      "duration_ms": 163042,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR"
     },
     {
       "added_at": null,

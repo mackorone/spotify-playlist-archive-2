@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['til Time and Times Are Done](https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:54 | 2022-06-02 | 2026-08-17 |
+| ['til Time and Times Are Done](https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:54 | 2022-06-02 |  |
 | ['til Time and Times Are Done](https://open.spotify.com/track/5X2cVJS0afOZvuKWlhJx0R) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:08 | 2025-07-20 | 2025-08-03 |
 | [4 O'Clock in the Morning](https://open.spotify.com/track/1z4wE7bLDQrf5B5CJKHXjv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:49 | 2022-07-24 | 2022-09-07 |
 | [4 O'Clock in the Morning](https://open.spotify.com/track/5YD8OCHpW8W6i30FOA3KRF) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:52 | 2022-06-22 | 2022-06-24 |
@@ -54,7 +54,7 @@
 | [Dentecane](https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:11 | 2022-05-29 | 2025-07-20 |
 | [Dream of the Pink Zebra](https://open.spotify.com/track/5soT0vJ6kTN1pRDYtVeRev) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 3:38 | 2022-06-27 | 2022-09-09 |
 | [Drifting](https://open.spotify.com/track/44oGOmVIujTmRF3rLP1A4Y) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 4:15 | 2022-06-25 |  |
-| [Eagle](https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:07 | 2022-05-29 |  |
+| [Eagle](https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:07 | 2022-05-29 | 2026-08-18 |
 | [Eclipse](https://open.spotify.com/track/4loFAwDRPaSB1QMJyO7jdZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:52 | 2022-05-29 |  |
 | [Etude](https://open.spotify.com/track/4mOCUgov9WwOt40RAbD3xX) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:27 | 2022-06-08 | 2026-08-07 |
 | [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 | 2022-05-29 | 2024-01-19 |

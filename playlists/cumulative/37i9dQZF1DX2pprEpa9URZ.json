@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 273142,
       "name": "Ay vora",
       "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 181000,
       "name": "Closer (feat. Bantu)",
       "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 343414,
       "name": "Doin' It All For The Culture",
       "url": "https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8"
@@ -3452,7 +3452,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 161463,
       "name": "Forever (feat. Malou & Yuna) - MEDUZA Remix",
       "url": "https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU"
@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 293253,
       "name": "Garawek khaos",
       "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
@@ -4303,6 +4303,32 @@
     },
     {
       "album": {
+        "name": "Impatient / You Never Know",
+        "url": "https://open.spotify.com/album/1kxva46pNeTihCqGPVsZAG"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "kisskisskiss",
+          "url": "https://open.spotify.com/artist/4kFYgZQnrpzPPad5B5eLA3"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213196,
+      "name": "Impatient",
+      "url": "https://open.spotify.com/track/7hRFu8gdtmYz0zX19fRRK9"
+    },
+    {
+      "album": {
         "name": "Impumelelo",
         "url": "https://open.spotify.com/album/0la0Xxoi5nnL5OCK0e8ESf"
       },
@@ -4626,7 +4652,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 211830,
       "name": "Kadhalan",
       "url": "https://open.spotify.com/track/5Hgy1fbnRHGqlihV2KjZjE"
@@ -5990,7 +6016,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 212000,
       "name": "Masterclass",
       "url": "https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht"
@@ -6430,6 +6456,32 @@
       "duration_ms": 388477,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/79HMJ5AO1qCA4JLZAsrM5j"
+    },
+    {
+      "album": {
+        "name": "Miss That (Major League DJz & Piero Farho Remix)",
+        "url": "https://open.spotify.com/album/3ZfqTXWUvQNlVCXhmVdOlv"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Piero Farho",
+          "url": "https://open.spotify.com/artist/52LDi8vYmgfoiEaTBWCWSh"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "Miss That (Major League DJz & Piero Farho Remix)",
+      "url": "https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK"
     },
     {
       "album": {
@@ -8378,7 +8430,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 184062,
       "name": "Sabu",
       "url": "https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr"
@@ -8656,7 +8708,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 478764,
       "name": "Savage",
       "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
@@ -8938,7 +8990,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 170324,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV"

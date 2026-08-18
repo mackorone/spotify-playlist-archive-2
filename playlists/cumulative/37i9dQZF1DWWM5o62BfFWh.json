@@ -1645,6 +1645,28 @@
     },
     {
       "album": {
+        "name": "La Foto",
+        "url": "https://open.spotify.com/album/7hBEZkwJYOjxTDkq2JLfNk"
+      },
+      "artists": [
+        {
+          "name": "El Shadow",
+          "url": "https://open.spotify.com/artist/2wCp6gfFUphhMtYJeTR74t"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157562,
+      "name": "La Foto",
+      "url": "https://open.spotify.com/track/0m7CCrb7rmx9Vyn5uSsDfh"
+    },
+    {
+      "album": {
         "name": "Blychy",
         "url": "https://open.spotify.com/album/5Xv5Est3n7bg7dZmo8ul8i"
       },
@@ -3778,7 +3800,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 219220,
       "name": "Te Amo (Versos Gastados) - Prod. by Cuban Deejay$",
       "url": "https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w"

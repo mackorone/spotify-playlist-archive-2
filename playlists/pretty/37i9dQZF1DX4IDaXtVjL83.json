@@ -1,6 +1,6 @@
 {
   "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: ILLIT)",
-  "num_followers": 505875,
+  "num_followers": 505878,
   "original_name": "K-Pop X-Overs",
   "owner": {
     "name": "Spotify",
@@ -251,26 +251,6 @@
     {
       "added_at": "2026-08-06 11:39:41",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        }
-      ],
-      "duration_ms": 170995,
-      "name": "Closer to You (feat. Major Lazer)",
-      "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
-    },
-    {
-      "added_at": "2026-08-06 11:39:41",
-      "album": {
         "name": "Gnarly (Ice Spice Remix)",
         "url": "https://open.spotify.com/album/3aC2oeSUYvBKXkTr6RDIwX"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 137309,
       "name": "Gnarly - Ice Spice Remix",
       "url": "https://open.spotify.com/track/3wAvAVwMbUG3Bw23M8KMke"
+    },
+    {
+      "added_at": "2026-08-06 11:39:41",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        }
+      ],
+      "duration_ms": 170995,
+      "name": "Closer to You (feat. Major Lazer)",
+      "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
     },
     {
       "added_at": "2026-08-06 11:39:41",
@@ -355,26 +355,6 @@
     {
       "added_at": "2026-08-06 11:39:41",
       "album": {
-        "name": "3D (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
-    },
-    {
-      "added_at": "2026-08-06 11:39:41",
-      "album": {
         "name": "Blink (feat. TZUYU)",
         "url": "https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 162092,
       "name": "Blink (feat. TZUYU)",
       "url": "https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD"
+    },
+    {
+      "added_at": "2026-08-06 11:39:41",
+      "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
       "added_at": "2026-08-06 11:39:41",
@@ -479,22 +479,22 @@
     {
       "added_at": "2026-08-06 11:39:41",
       "album": {
-        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
-        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+        "name": "Standing Next to You (USHER Remix)",
+        "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         },
         {
-          "name": "Vinida Weng",
-          "url": "https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 151733,
-      "name": "Take Me to Nirvana (feat. Vinida Weng)",
-      "url": "https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO"
+      "duration_ms": 214760,
+      "name": "Standing Next to You (USHER Remix)",
+      "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
     },
     {
       "added_at": "2026-08-06 11:39:41",
@@ -519,22 +519,22 @@
     {
       "added_at": "2026-08-06 11:39:41",
       "album": {
-        "name": "Standing Next to You (USHER Remix)",
-        "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         },
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 214760,
-      "name": "Standing Next to You (USHER Remix)",
-      "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
+      "duration_ms": 189557,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
     },
     {
       "added_at": "2026-08-06 11:39:41",
@@ -559,22 +559,22 @@
     {
       "added_at": "2026-08-06 11:39:41",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         },
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Vinida Weng",
+          "url": "https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg"
         }
       ],
-      "duration_ms": 189557,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
+      "duration_ms": 151733,
+      "name": "Take Me to Nirvana (feat. Vinida Weng)",
+      "url": "https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO"
     },
     {
       "added_at": "2026-08-06 11:39:41",
@@ -687,6 +687,26 @@
     {
       "added_at": "2026-08-06 11:39:41",
       "album": {
+        "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
+        "url": "https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 173336,
+      "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
+      "url": "https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB"
+    },
+    {
+      "added_at": "2026-08-06 11:39:41",
+      "album": {
         "name": "butterflies (feat. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM)",
         "url": "https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 164466,
       "name": "butterflies (feat. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM)",
       "url": "https://open.spotify.com/track/0VdikQbDdOqxdWQyYsLmne"
-    },
-    {
-      "added_at": "2026-08-06 11:39:41",
-      "album": {
-        "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
-        "url": "https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 173336,
-      "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
-      "url": "https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB"
     },
     {
       "added_at": "2026-08-06 11:39:41",
@@ -875,6 +875,30 @@
     {
       "added_at": "2026-08-06 11:39:41",
       "album": {
+        "name": "Breaking Through",
+        "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
+      },
+      "artists": [
+        {
+          "name": "EL CAPITXN",
+          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
+        },
+        {
+          "name": "TAEHYUN",
+          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
+        },
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Breaking Through",
+      "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
+    },
+    {
+      "added_at": "2026-08-06 11:39:41",
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0"
       },
@@ -907,30 +931,6 @@
     {
       "added_at": "2026-08-06 11:39:41",
       "album": {
-        "name": "Breaking Through",
-        "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
-      },
-      "artists": [
-        {
-          "name": "EL CAPITXN",
-          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
-        },
-        {
-          "name": "TAEHYUN",
-          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
-        },
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Breaking Through",
-      "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
-    },
-    {
-      "added_at": "2026-08-06 11:39:41",
-      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT"
       },
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-08-06 11:39:41",
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        }
-      ],
-      "duration_ms": 141793,
-      "name": "Stars + Yves",
-      "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
-    },
-    {
-      "added_at": "2026-08-06 11:39:41",
-      "album": {
         "name": "Feeling Lucky",
         "url": "https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 151040,
       "name": "Feeling Lucky",
       "url": "https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny"
+    },
+    {
+      "added_at": "2026-08-06 11:39:41",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "duration_ms": 141793,
+      "name": "Stars + Yves",
+      "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
     },
     {
       "added_at": "2026-08-06 11:39:41",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2026-08-06 11:39:41",
       "album": {
-        "name": "moonboy",
-        "url": "https://open.spotify.com/album/7Ix2gCc8OGassm8RdqLCMa"
+        "name": "i\u2019m like that (feat. Loco)",
+        "url": "https://open.spotify.com/album/5LzADECg642S1CvXPymtQ0"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
         },
         {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         }
       ],
-      "duration_ms": 173207,
-      "name": "moonboy",
-      "url": "https://open.spotify.com/track/4YoU6VbOH4KigttoGoPFjT"
+      "duration_ms": 135258,
+      "name": "i\u2019m like that (feat. Loco)",
+      "url": "https://open.spotify.com/track/2pxKB19fIuNoP7l3YuWZCh"
     }
   ],
   "unique_name": "K-Pop X-Overs",

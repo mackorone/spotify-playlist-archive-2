@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: Hearts2Hearts\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-539 songs - 1 day 4 hr 54 min
+540 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@
 | [Red Sun!](https://open.spotify.com/track/5mxK8CuKCqxW7HlBjBtmRS) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 4:13 | 2022-05-31 | 2024-05-15 |
 | [Remember](https://open.spotify.com/track/2ukD1180Mw0HYDIuS3Lcqu) | [9MUSES](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) | [Remember](https://open.spotify.com/album/5jHGdQ70hzjdgPtjoOgo2B) | 3:39 | 2022-03-29 | 2022-07-19 |
 | [Remember](https://open.spotify.com/track/0MmaxjAahW58GFBFBHo6QP) | [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH) | [Remember](https://open.spotify.com/album/36mChYyjgWF1K2OEvtgSGl) | 4:04 | 2022-04-05 | 2022-04-21 |
-| [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 | 2025-09-09 |  |
+| [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 | 2025-09-09 | 2026-08-18 |
 | [Ridin′ \(Prod\. THE HUB\)](https://open.spotify.com/track/4bGMm3NwFM8q8YC3Y6VLOE) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [JIWOO](https://open.spotify.com/artist/1AqG0h7s7G7UOeEOAWKCF7), [KYUJIN](https://open.spotify.com/artist/5ml2UIgNVH6l7i4vm3aaRw) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:47 | 2025-06-13 | 2025-07-12 |
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-06 | 2022-11-21 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-11-21 | 2022-07-29 |
@@ -401,6 +401,7 @@
 | [See Sea, BAE](https://open.spotify.com/track/1FaFCInUMdizjVUKkMZxro) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> FANtastic QUEENDOM 1\-2](https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA) | 3:27 | 2022-06-01 | 2022-07-25 |
 | [Seiren](https://open.spotify.com/track/3TygjfDZ8m6ehJpIGO39CA) | [Seiren](https://open.spotify.com/artist/4gfhlsF2bTM0wS7Y1gvHzL) | [Seiren](https://open.spotify.com/album/1j3OwiDesda3wbEvmtCzBq) | 3:02 | 2022-03-22 | 2022-06-13 |
 | [Selfish Girl](https://open.spotify.com/track/6B1DMetKl9hr4HLojRFj1n) | [Oh An](https://open.spotify.com/artist/1BQMCIHsVB1i8UJRILPQCG), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [OhAn and prejudice \#1](https://open.spotify.com/album/4rfPMp7sGoGBeWJ96cFksx) | 3:19 | 2021-11-21 | 2022-05-30 |
+| [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 | 2026-08-13 |  |
 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-28 | 2024-04-19 |
 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2024-04-02 |  |
 | [Shiny Light](https://open.spotify.com/track/0qpfmbAzsdXiKIQWokdSYB) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Shiny Light](https://open.spotify.com/album/1JcGAEZQGlg7DRkkFJzDyx) | 3:16 | 2021-11-21 | 2022-07-26 |

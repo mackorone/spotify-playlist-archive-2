@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10482,
+  "num_followers": 10483,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABVpQSzMcxcVuAZcSXNGzM/",
+  "snapshot_id": "aoD9gAAAAABTgPZkcLKU/Fi3b3tXOUC0",
   "tracks": [
     {
       "added_at": null,
@@ -679,38 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Son Pasiones",
-        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 215405,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 187663,
-      "name": "Cuando Sola Estes",
-      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta La Miel Amarga",
         "url": "https://open.spotify.com/album/5q7zBcS4853Hlg6hbyMiBu"
       },
@@ -731,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asomate a Mi Alma",
-        "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
       "artists": [
         {
@@ -740,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 174419,
-      "name": "Te Pido y Te Ruego",
-      "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
+      "duration_ms": 187663,
+      "name": "Cuando Sola Estes",
+      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
     },
     {
       "added_at": null,
@@ -763,6 +731,38 @@
       "duration_ms": 157559,
       "name": "De La Tierra Al Cielo",
       "url": "https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asomate a Mi Alma",
+        "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 174419,
+      "name": "Te Pido y Te Ruego",
+      "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Son Pasiones",
+        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 215405,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
     },
     {
       "added_at": null,

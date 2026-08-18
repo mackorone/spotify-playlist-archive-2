@@ -1,6 +1,6 @@
 {
   "description": "Bandas legendarias y canciones que hicieron historia. Foto: Los Prisioneros.",
-  "num_followers": 129419,
+  "num_followers": 129421,
   "original_name": "Cl\u00e1sicos del Rock",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-05-09 03:00:27",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
-    },
-    {
-      "added_at": "2025-05-09 03:00:27",
-      "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 261200,
       "name": "La flaca",
       "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
+    },
+    {
+      "added_at": "2025-05-09 03:00:27",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2025-05-09 03:00:27",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-05-09 03:00:27",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
-    },
-    {
-      "added_at": "2025-05-09 03:00:27",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    {
+      "added_at": "2025-05-09 03:00:27",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
       "added_at": "2025-05-09 03:00:27",
@@ -507,18 +507,18 @@
     {
       "added_at": "2025-05-09 03:00:27",
       "album": {
-        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
-        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
       "artists": [
         {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Sabor a Chocolate",
-      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
+      "duration_ms": 288066,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
     },
     {
       "added_at": "2025-05-09 03:00:27",
@@ -539,18 +539,18 @@
     {
       "added_at": "2025-05-09 03:00:27",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
+        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
       },
       "artists": [
         {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
         }
       ],
-      "duration_ms": 288066,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+      "duration_ms": 231800,
+      "name": "Sabor a Chocolate",
+      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
     },
     {
       "added_at": "2025-05-09 03:00:27",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-05-09 03:00:27",
       "album": {
-        "name": "El Que Busca Encuentra",
-        "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 310146,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
-    },
-    {
-      "added_at": "2025-05-09 03:00:27",
-      "album": {
         "name": "Rocanlover",
         "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 342520,
       "name": "Triste canci\u00f3n",
       "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
+    },
+    {
+      "added_at": "2025-05-09 03:00:27",
+      "album": {
+        "name": "El Que Busca Encuentra",
+        "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 310146,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
     },
     {
       "added_at": "2025-05-09 03:00:27",

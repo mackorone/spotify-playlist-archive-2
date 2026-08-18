@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,196 songs - 3 day 5 hr 11 min
+1,197 songs - 3 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [I Never Dream](https://open.spotify.com/track/2ZsbtrFluQsuzsJMApF6yw) | [Against All Logic](https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1) | [2012 \- 2017](https://open.spotify.com/album/1uzfGk9vxMXfaZ2avqwxod) | 6:45 | 2024-01-17 |  |
 | [I Still Do](https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:16 | 2024-01-06 | 2024-06-11 |
 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 | 2023-11-17 |  |
+| [I Think I'm Ready Now](https://open.spotify.com/track/7gfQLX2KvnLP4LHnuW1hWi) | [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm) | [Profound](https://open.spotify.com/album/08NmkFu1rWiXZk9ZblZ959) | 3:13 | 2026-08-17 |  |
 | [I Told You Everything](https://open.spotify.com/track/549RAS6rH3AYH2n5b6CIzz) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:45 | 2024-01-19 |  |
 | [I Trawl the Megahertz](https://open.spotify.com/track/5SrrNjgc5Diwj3IunGepM6) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [I Trawl the Megahertz](https://open.spotify.com/album/3JtTs7tzD7uj6hpPb1apkT) | 22:05 | 2024-10-06 |  |
 | [I Want It All](https://open.spotify.com/track/1cbSU1yDPQJbUUzlPQC6Ir) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 2:46 | 2025-04-08 |  |
@@ -1064,7 +1065,7 @@
 | [Theme From Leaving Philadelphia](https://open.spotify.com/track/4hznb8bMK38TxibW8BQRNK) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [Home Constellation Study](https://open.spotify.com/album/3x7F1yCZ0wjlKhRbWqkMzw) | 3:52 | 2024-09-09 | 2025-01-04 |
 | [There's a Rugged Road \- Remastered](https://open.spotify.com/track/5rIjJkNIY3sRtjPJVOctRE) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Heart Food](https://open.spotify.com/album/40epQ5uLIK1k7mGL0ESpUn) | 3:44 | 2022-12-17 | 2023-04-20 |
 | [Thief](https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:00 | 2025-06-18 | 2025-06-22 |
-| [This Is Radio Etienne](https://open.spotify.com/track/6AP9itKfq3NiSGpkpXWWI5) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 0:42 | 2026-08-14 |  |
+| [This Is Radio Etienne](https://open.spotify.com/track/6AP9itKfq3NiSGpkpXWWI5) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 0:42 | 2026-08-14 | 2026-08-18 |
 | [This Is Why](https://open.spotify.com/track/1EZWqtdpu8nw0uKGmWPz5a) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 2:55 | 2024-10-10 | 2024-12-19 |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2023-03-11 | 2024-01-30 |
 | [This Love Isn't Crazy](https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:53 | 2023-08-01 | 2023-12-14 |

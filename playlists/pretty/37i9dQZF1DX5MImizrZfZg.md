@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,388 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,412 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kisses in the Rain](https://open.spotify.com/track/0xGa0PyJsByzRajl8KYefg) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:32 |
-| 2 | [Hyde Park \(The 'Ah, Oooh' Song\)](https://open.spotify.com/track/5nRaaCkfZUrsg3MRYOXTFU) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:21 |
-| 3 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 |
+| 2 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 |
+| 3 | [Hyde Park \(The 'Ah, Oooh' Song\)](https://open.spotify.com/track/5nRaaCkfZUrsg3MRYOXTFU) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:21 |
 | 4 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
 | 5 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
 | 6 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
-| 7 | [24/7](https://open.spotify.com/track/4c1n3sgF8KcQXi6pF45X9o) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Up Front](https://open.spotify.com/album/12qKRGcqgSwQXZbP5MFb0y) | 4:27 |
-| 8 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 |
+| 7 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 |
+| 8 | [24/7](https://open.spotify.com/track/4c1n3sgF8KcQXi6pF45X9o) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Up Front](https://open.spotify.com/album/12qKRGcqgSwQXZbP5MFb0y) | 4:27 |
 | 9 | [Keepin' It Real](https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R) | [Joe McBride](https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs) | [Keepin' It Real](https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW) | 5:01 |
 | 10 | [Soul Dream](https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e) | 5:02 |
 | 11 | [18th & M](https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2) | [Marcus Johnson](https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM) | [Just Doing What I do](https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn) | 3:30 |
 | 12 | [Who's That Lady](https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Glow](https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif) | 4:30 |
-| 13 | [Feeling Good](https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Radiant](https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ) | 4:59 |
-| 14 | [Chopsticks](https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Kickin' It](https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1) | 3:58 |
+| 13 | [Chopsticks](https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Kickin' It](https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1) | 3:58 |
+| 14 | [Feeling Good](https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Radiant](https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ) | 4:59 |
 | 15 | [Summer Nights](https://open.spotify.com/track/61S3v0zujG9J171zdMEap7) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Pacific Coast Highway](https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ) | 3:58 |
 | 16 | [Kaleidoscope](https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:42 |
 | 17 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 39 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 |
 | 40 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
 | 41 | [Dreaming Of You](https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 3:54 |
-| 42 | [Do You Wanna Dance](https://open.spotify.com/track/1uDomLpzVMPDh3yTRPHGwd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Midnight Love](https://open.spotify.com/album/2LMziPDUaak6ktGPokKhls) | 3:41 |
-| 43 | [For A Smile](https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Hi\-Lo Split](https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp) | 4:13 |
+| 42 | [For A Smile](https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Hi\-Lo Split](https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp) | 4:13 |
+| 43 | [Do You Wanna Dance](https://open.spotify.com/track/1uDomLpzVMPDh3yTRPHGwd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Midnight Love](https://open.spotify.com/album/2LMziPDUaak6ktGPokKhls) | 3:41 |
 | 44 | [The Sax Pack](https://open.spotify.com/track/6OY7cBD5zFn5lsvvqr9eXs) | [The Sax Pack](https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA) | [The Sax Pack](https://open.spotify.com/album/5RXQDyVVpdSiOWZPuJeynx) | 3:34 |
 | 45 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 |
 | 46 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |

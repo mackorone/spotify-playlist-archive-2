@@ -1,6 +1,6 @@
 {
   "description": "The most beautiful love songs of the 2000s",
-  "num_followers": 809788,
+  "num_followers": 809888,
   "original_name": "00s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
         "name": "I AM...SASHA FIERCE - Platinum Edition",
         "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 261160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "Lifehouse",
-        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
-      },
-      "artists": [
-        {
-          "name": "Lifehouse",
-          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
         "name": "Lovers Rock",
         "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 274933,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
+        "name": "Lifehouse",
+        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
+      },
+      "artists": [
+        {
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "It Won't Be Soon Before Long (International Version)",
-        "url": "https://open.spotify.com/album/2RUHJZ3raiIDsR3yX4JXf5"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Won't Go Home Without You",
-      "url": "https://open.spotify.com/track/6WEBwvsmpaoGxka0tSh5a7"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
+        "name": "It Won't Be Soon Before Long (International Version)",
+        "url": "https://open.spotify.com/album/2RUHJZ3raiIDsR3yX4JXf5"
       },
       "artists": [
         {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 207506,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
+      "duration_ms": 231173,
+      "name": "Won't Go Home Without You",
+      "url": "https://open.spotify.com/track/6WEBwvsmpaoGxka0tSh5a7"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -463,18 +447,18 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "Coast To Coast (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
       "artists": [
         {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
         }
       ],
-      "duration_ms": 231760,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g"
+      "duration_ms": 207506,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -499,6 +483,22 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
+        "name": "Coast To Coast (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 231760,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -551,6 +535,22 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 256825,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -599,18 +583,18 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "As I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 253813,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -627,6 +611,22 @@
       "duration_ms": 226973,
       "name": "Unfaithful",
       "url": "https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
+        "name": "\"7\"",
+        "url": "https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ"
+      },
+      "artists": [
+        {
+          "name": "S Club",
+          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
+        }
+      ],
+      "duration_ms": 240492,
+      "name": "Never Had A Dream Come True",
+      "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
         "name": "Undiscovered (International Version)",
         "url": "https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
-        "name": "\"7\"",
-        "url": "https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ"
-      },
-      "artists": [
-        {
-          "name": "S Club",
-          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
-        }
-      ],
-      "duration_ms": 240492,
-      "name": "Never Had A Dream Come True",
-      "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "Dreaming Out Loud (Deluxe)",
-        "url": "https://open.spotify.com/album/1J7OJuxxZ0qqLnzAFFregQ"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/428lSKYV9R5f5d4XGOeniY"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
         "name": "Gotta Get Thru This",
         "url": "https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 257026,
       "name": "If You're Not The One",
       "url": "https://open.spotify.com/track/6B6aCxSBsECsulzOkJRxGv"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
+        "name": "Dreaming Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/1J7OJuxxZ0qqLnzAFFregQ"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/428lSKYV9R5f5d4XGOeniY"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/31p2S8NRI7kVdEZAMkGONK"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Goodbye My Lover",
+      "url": "https://open.spotify.com/track/3Iya0xOCXhgSdDwIYM75wh"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
         "name": "Devils & Angels (Standard Version)",
         "url": "https://open.spotify.com/album/61odM371Gpn80O2CxwvRfW"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 228400,
       "name": "Anyone of Us (Stupid Mistake)",
       "url": "https://open.spotify.com/track/2oUwZFTl9SXGBoJn7BWnit"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/31p2S8NRI7kVdEZAMkGONK"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Goodbye My Lover",
-      "url": "https://open.spotify.com/track/3Iya0xOCXhgSdDwIYM75wh"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/7EtK7XiObsZGF6oBKLrvKH"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
         "name": "Songs About Jane",
         "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 223400,
       "name": "Too Serious Too Soon",
       "url": "https://open.spotify.com/track/3dLoqgmXNaloiPpue3AxSA"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/7EtK7XiObsZGF6oBKLrvKH"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj"
     },
     {
       "added_at": "2026-02-25 17:44:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,747 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,748 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 22 | [Now and Forever](https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:54 |
 | 23 | [Sooner Or Later](https://open.spotify.com/track/5K5YCvw06zbPEMITFNk6aJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 5:14 |
 | 24 | [Bongo Man](https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Goodbye Yesterday](https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5) | 4:05 |
-| 25 | [Miss Jamaica](https://open.spotify.com/track/7LsFKGyHBuBUyczlkuNk02) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebel Light](https://open.spotify.com/album/3516ELRm8YLYO18q9ePzUI) | 2:24 |
-| 26 | [Roots Radical](https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 4:22 |
+| 25 | [Roots Radical](https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 4:22 |
+| 26 | [Miss Jamaica](https://open.spotify.com/track/7LsFKGyHBuBUyczlkuNk02) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebel Light](https://open.spotify.com/album/3516ELRm8YLYO18q9ePzUI) | 2:24 |
 | 27 | [Struggling Man](https://open.spotify.com/track/4c6qeQX0bIejYckXYaz4gO) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 3:27 |
 | 28 | [Hakuna Matata](https://open.spotify.com/track/1VdQkGrUNJTqMkWlROP8mS) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rhythm Of The Pride Lands](https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj) | 4:24 |
 | 29 | [Lonely Streets](https://open.spotify.com/track/7G67Uu20crxihu3LaAlBQ6) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 4:21 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 38 | [Samba Reggae](https://open.spotify.com/track/5AEgVBPGMpx4jojTTSKEtJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [War a Africa](https://open.spotify.com/album/58gv9p5fC4xs1N5ckoxPLX) | 3:56 |
 | 39 | [Hot Shot](https://open.spotify.com/track/6Spf2fk9iQpuVLH94FVB60) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:24 |
 | 40 | [Rub\-A\-Dub Partners](https://open.spotify.com/track/4LAz7d1hYELgs0PQvEkkym) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 2:57 |
-| 41 | [On My Life](https://open.spotify.com/track/1wuQ2yrSS8mqtX9oWHs2Lg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The EMI Years 1973\-'75](https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS) | 2:46 |
-| 42 | [Going Back West](https://open.spotify.com/track/5paYwzyK9zv73ss0jxHW5P) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 4:47 |
+| 41 | [Going Back West](https://open.spotify.com/track/5paYwzyK9zv73ss0jxHW5P) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 4:47 |
+| 42 | [On My Life](https://open.spotify.com/track/1wuQ2yrSS8mqtX9oWHs2Lg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The EMI Years 1973\-'75](https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS) | 2:46 |
 | 43 | [Brown Eyes](https://open.spotify.com/track/6TJxXzueYaZ3ZsDfXO3jWB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 3:39 |
 | 44 | [Special](https://open.spotify.com/track/7jPmjZi2zeiA1L4oG00q4g) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 3:50 |
 | 45 | [Mother and Child Reunion \(with Jimmy Cliff\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4fCRtHg9p2Tt2lBPKBDluO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 49 | [No Justice](https://open.spotify.com/track/5BBHmCVN14sReJgd9ueVuT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Marked For Death \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vWg5H7yPW7oYfosL0AFil) | 4:01 |
 | 50 | [Shelter Of Your Love \- Single Version](https://open.spotify.com/track/5I0uW8EgQSxLT8F596lwfB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Best Of](https://open.spotify.com/album/0J3Cyyl9KU4RxGiaDHLBmd) | 3:32 |
 
-Snapshot ID: `an+sAAAAAAD9bvyy8wWp2OX6yGrkcFco`
+Snapshot ID: `aoD9gAAAAABWXbzYRffyvPGVuwb8ANkO`

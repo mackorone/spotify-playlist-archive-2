@@ -7880,7 +7880,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -7902,7 +7902,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -8716,7 +8716,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -8788,7 +8788,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -18222,7 +18222,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-30",
+      "date_removed": null,
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
@@ -18280,7 +18280,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 214120,
       "name": "Pa' Que La Pases Bien",
       "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
@@ -19080,7 +19080,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
@@ -19296,7 +19296,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 279849,
       "name": "Persona Ideal - Me Tengo Que Ir",
       "url": "https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB"
@@ -20054,7 +20054,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 264946,
       "name": "POR SI MA\u00d1ANA NO ESTOY",
       "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
@@ -20704,7 +20704,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 309813,
       "name": "Que Locura Enamorarme De Ti",
       "url": "https://open.spotify.com/track/6gp2bYLAhqiLxO54Wmt195"
@@ -22674,7 +22674,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 316866,
       "name": "Separados",
       "url": "https://open.spotify.com/track/1chkHVbHvQO2kQegAWUABB"
@@ -25568,7 +25568,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 302373,
       "name": "Tu Con El",
       "url": "https://open.spotify.com/track/6cHHrFD3fmBG9MR3k8kvep"
@@ -25992,7 +25992,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 302253,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
@@ -26962,6 +26962,24 @@
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
+    },
+    {
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "album": {

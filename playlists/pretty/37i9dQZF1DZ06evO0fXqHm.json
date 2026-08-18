@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACLnWKqbKcD/QfAo8jCf1qq",
+  "snapshot_id": "aoD9gAAAAABMTXYGP950N0npG0Hpjwbb",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu Vou Mostrar o Meu Talento",
+        "url": "https://open.spotify.com/album/48C9gdLxel4qFP428mr0io"
+      },
+      "artists": [
+        {
+          "name": "O Esmaga",
+          "url": "https://open.spotify.com/artist/6ZLR8vyiWvfGuspFa02mQ7"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        },
+        {
+          "name": "FLAVIN NO BEAT",
+          "url": "https://open.spotify.com/artist/2fjkjXSmWFaR4PgHEYK7HO"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Eu Vou Mostrar o Meu Talento",
+      "url": "https://open.spotify.com/track/5USZcjuU8S0s0uvJlkseID"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
         "url": "https://open.spotify.com/album/2Q8yyzij3ZwnhnBgKq9hO8"
       },
@@ -443,34 +471,6 @@
       "duration_ms": 343373,
       "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
       "url": "https://open.spotify.com/track/6alaU0cNbfd67sjJqjAXG2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Vou Mostrar o Meu Talento",
-        "url": "https://open.spotify.com/album/48C9gdLxel4qFP428mr0io"
-      },
-      "artists": [
-        {
-          "name": "O Esmaga",
-          "url": "https://open.spotify.com/artist/6ZLR8vyiWvfGuspFa02mQ7"
-        },
-        {
-          "name": "MC Rica",
-          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
-        },
-        {
-          "name": "FLAVIN NO BEAT",
-          "url": "https://open.spotify.com/artist/2fjkjXSmWFaR4PgHEYK7HO"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Eu Vou Mostrar o Meu Talento",
-      "url": "https://open.spotify.com/track/5USZcjuU8S0s0uvJlkseID"
     },
     {
       "added_at": null,
@@ -796,13 +796,13 @@
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         },
         {
-          "name": "Maghaiver",
-          "url": "https://open.spotify.com/artist/3ByMfSEgvaExKRX0QlDsGC"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
         }
       ],
-      "duration_ms": 172661,
-      "name": "Amor De A\u00e7\u00facar",
-      "url": "https://open.spotify.com/track/7lHXSUvvfmeHBPzxvIH8ZY"
+      "duration_ms": 107647,
+      "name": "Para N\u00e3o",
+      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
     },
     {
       "added_at": null,
@@ -896,13 +896,13 @@
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         },
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+          "name": "Maghaiver",
+          "url": "https://open.spotify.com/artist/3ByMfSEgvaExKRX0QlDsGC"
         }
       ],
-      "duration_ms": 107647,
-      "name": "Para N\u00e3o",
-      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
+      "duration_ms": 172661,
+      "name": "Amor De A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/7lHXSUvvfmeHBPzxvIH8ZY"
     },
     {
       "added_at": null,
@@ -978,11 +978,39 @@
         {
           "name": "Pepito",
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         }
       ],
-      "duration_ms": 103111,
-      "name": "Eles Podem Dizer Que N\u00e3o",
-      "url": "https://open.spotify.com/track/4qJtDrIKM3Mk74irjqDih0"
+      "duration_ms": 159428,
+      "name": "Tropa Das On\u00e7a",
+      "url": "https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Ela Joga Muito na Minha Cara",
+      "url": "https://open.spotify.com/track/746taTiwMbJLRhxXR1zbXk"
     },
     {
       "added_at": null,
@@ -1019,30 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
-        },
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Ela Joga Muito na Minha Cara",
-      "url": "https://open.spotify.com/track/746taTiwMbJLRhxXR1zbXk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sextape: Love Me Two Times",
         "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
       },
@@ -1070,15 +1074,11 @@
         {
           "name": "Pepito",
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         }
       ],
-      "duration_ms": 159428,
-      "name": "Tropa Das On\u00e7a",
-      "url": "https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5"
+      "duration_ms": 103111,
+      "name": "Eles Podem Dizer Que N\u00e3o",
+      "url": "https://open.spotify.com/track/4qJtDrIKM3Mk74irjqDih0"
     },
     {
       "added_at": null,
@@ -1247,6 +1247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Papo 10",
+        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VINT",
+          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
+        }
+      ],
+      "duration_ms": 153545,
+      "name": "Papo 10",
+      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unha Curtinha",
         "url": "https://open.spotify.com/album/1KmEvI4dceo4u8I6Qf6sRR"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 124984,
       "name": "Unha Curtinha",
       "url": "https://open.spotify.com/track/46aU21eAWMOQN6RpP7kLkk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caju\u00edna",
-        "url": "https://open.spotify.com/album/4GXyrZSQMBXIkFJ8TX9VgY"
-      },
-      "artists": [
-        {
-          "name": "Ananda Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "A Vida de Uma Gostosa",
-      "url": "https://open.spotify.com/track/6dUjceFYa4JYZ1vV004wu8"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

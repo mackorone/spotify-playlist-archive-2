@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Aaron Pierre
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,846 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,834 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

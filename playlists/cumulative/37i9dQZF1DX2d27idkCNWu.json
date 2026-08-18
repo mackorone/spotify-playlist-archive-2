@@ -680,7 +680,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 137960,
       "name": "Cigana (Maia Sessions)",
       "url": "https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH"
@@ -2522,6 +2522,32 @@
       "duration_ms": 219066,
       "name": "please",
       "url": "https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9"
+    },
+    {
+      "album": {
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/1vYw1oycPT5VI2FYEw94iX"
+      },
+      "artists": [
+        {
+          "name": "Dani Flomin",
+          "url": "https://open.spotify.com/artist/4HSYM8llhUFCWgPhwUcMGJ"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/5Ej9jsKKWRnogY4ct3ETLr"
     },
     {
       "album": {

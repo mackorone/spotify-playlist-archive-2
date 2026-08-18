@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 200598,
       "name": "Dame Un Break",
       "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
@@ -6218,7 +6218,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 156466,
       "name": "Nassau",
       "url": "https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3"
@@ -7998,6 +7998,24 @@
       "duration_ms": 236190,
       "name": "SIMPLY THE BEST",
       "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
+    },
+    {
+      "album": {
+        "name": "Afro Pal Cora",
+        "url": "https://open.spotify.com/album/4pY1isW0Zm6yfSNgE5G8GR"
+      },
+      "artists": [
+        {
+          "name": "Kenneth",
+          "url": "https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "Sin Querer",
+      "url": "https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy"
     },
     {
       "album": {
@@ -10156,7 +10174,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 182946,
       "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
       "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"

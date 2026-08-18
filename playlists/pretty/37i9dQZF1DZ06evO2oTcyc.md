@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,797 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,823 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 40 | [how you did that \(feat\. Kodak Black\)](https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:40 |
 | 41 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 |
 | 42 | [Patty Cake](https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:18 |
-| 43 | [Loitering](https://open.spotify.com/track/19hnu2CJMj7WkvsbRDubiL) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kodak The Blessing](https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M) | 3:14 |
-| 44 | [Pimpin Ain't Eazy](https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 2:57 |
+| 43 | [Pimpin Ain't Eazy](https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 2:57 |
+| 44 | [Loitering](https://open.spotify.com/track/19hnu2CJMj7WkvsbRDubiL) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kodak The Blessing](https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M) | 3:14 |
 | 45 | [Codeine Dreaming \(feat\. Lil Wayne\)](https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Project Baby 2: All Grown Up \(Deluxe Edition\)](https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p) | 4:24 |
 | 46 | [Coolin and Booted](https://open.spotify.com/track/1Nh5WUisukhSNgwXLRoyZf) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:34 |
 | 47 | [Z Look Jamaican](https://open.spotify.com/track/2Lw5B2B1KsssGf5NbjDeyj) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 49 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \- Trailer Version](https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw) | 1:02 |
 | 50 | [Pills & Automobiles \(feat\. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black\)](https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:53 |
 
-Snapshot ID: `an+sAAAAAADRU6k8CG0UUJhThM956OjT`
+Snapshot ID: `aoD9gAAAAAD6oy4tIKRURPCLTs5lHrwa`

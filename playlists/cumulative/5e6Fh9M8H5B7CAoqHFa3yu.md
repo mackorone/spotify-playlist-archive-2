@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,471 songs - 6 day 1 hr 23 min
+2,472 songs - 6 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1614,6 +1614,7 @@
 | [PEÓN](https://open.spotify.com/track/2TKpXnTuIxyWwnGBDaEYmy) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [PEÓN](https://open.spotify.com/album/4kCRGa0XErch7GzjcgCc8q) | 4:07 | 2025-11-13 |  |
 | [PhonkFather](https://open.spotify.com/track/0Nirkqm0gZNueU1VmnZLUO) | [Yagharock](https://open.spotify.com/artist/3n3mQVD5YJmRUavyjIwStb) | [PhonkFather](https://open.spotify.com/album/3p64WAi3an4Vf36qPbsj7Z) | 2:31 | 2025-11-05 |  |
 | [Picturesque](https://open.spotify.com/track/4idYpAc52sDGN48auh8GIz) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Picturesque](https://open.spotify.com/album/4mTZKZ8Ka3JJCCIY3ZHO04) | 4:00 | 2026-04-03 |  |
+| [Pieces of What Remains](https://open.spotify.com/track/5QQTMMGeU7V3FPyOROA8xN) | [Eduardo Mendes](https://open.spotify.com/artist/6zFDDWxcLKsKBMUwQhvZkL) | [Love Was Over 2](https://open.spotify.com/album/5LifJ9RHvyofajKP1YZrGl) | 4:34 | 2026-08-17 |  |
 | [Pijane Zombie](https://open.spotify.com/track/0clPKNLv6oNHZcD1D7fZdO) | [PIWO COMPANY](https://open.spotify.com/artist/1RRpA28CRVATyesqmDj8Pz) | [Pijane Zombie](https://open.spotify.com/album/42sdo9NngvHMJCigtLGXFS) | 2:06 | 2026-04-06 |  |
 | [Pikachu's Goodbye](https://open.spotify.com/track/1vXOrsDaOpLcaj2XpqQTwa) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Pikachu's Goodbye](https://open.spotify.com/album/5SwKUBQ2XELNFvKKVVoasY) | 2:13 | 2025-08-01 |  |
 | [Pilihan Kedua](https://open.spotify.com/track/2gNEUJgGgHWGdjYTjyOc90) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Pilihan Kedua](https://open.spotify.com/album/6mhC1s2gW2NwCn3qBfNojM) | 5:12 | 2026-07-09 |  |

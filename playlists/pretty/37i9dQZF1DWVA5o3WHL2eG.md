@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Luna Simao
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,814 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,831 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Deutscher Akzent](https://open.spotify.com/track/6nkNPjUzODaKNQHrl7O3w3) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Deutscher Akzent](https://open.spotify.com/album/3bNZx6pPTfqKiC2F0yV53S) | 2:32 |
 | 8 | [leb wieder](https://open.spotify.com/track/2ksDeXQrrtdPRo9xm0iNa3) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [leb wieder](https://open.spotify.com/album/4XRtU4CjeQ9FIMYIImUv55) | 2:13 |
 | 9 | [IM NACHGANG](https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [IM NACHGANG](https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw) | 2:33 |
-| 10 | [Bist du noch da?](https://open.spotify.com/track/4jzbviiDmqAPZuqP3KBJxS) | [Jennifer Rostock](https://open.spotify.com/artist/6Sh3owUrsFjZ4qCjtpPV7G) | [Bist du noch da?](https://open.spotify.com/album/6CNCgL41X0tHnuIlYHNE7P) | 3:22 |
-| 11 | [Alles nur für mich](https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Alles nur für mich](https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP) | 2:21 |
-| 12 | [Bei aller Liebe](https://open.spotify.com/track/6wrD3XPInwH1bO2qqSQwYm) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Anomalie Pt.2](https://open.spotify.com/album/2Fs0D0btaWM1ENQLMTBOKS) | 2:33 |
-| 13 | [Pretty Boys](https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Pretty Boys](https://open.spotify.com/album/4Srash43o3uZAC0y9q4kwe) | 2:20 |
+| 10 | [Alles nur für mich](https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Alles nur für mich](https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP) | 2:21 |
+| 11 | [Bist du noch da?](https://open.spotify.com/track/4jzbviiDmqAPZuqP3KBJxS) | [Jennifer Rostock](https://open.spotify.com/artist/6Sh3owUrsFjZ4qCjtpPV7G) | [Bist du noch da?](https://open.spotify.com/album/6CNCgL41X0tHnuIlYHNE7P) | 3:22 |
+| 12 | [Pretty Boys](https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Pretty Boys](https://open.spotify.com/album/4Srash43o3uZAC0y9q4kwe) | 2:20 |
+| 13 | [Bei aller Liebe](https://open.spotify.com/track/6wrD3XPInwH1bO2qqSQwYm) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Anomalie Pt.2](https://open.spotify.com/album/2Fs0D0btaWM1ENQLMTBOKS) | 2:33 |
 | 14 | [Als wir noch Kinder waren](https://open.spotify.com/track/5m2zVZ8bLhv7HPEvwKy5IU) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Als wir noch Kinder waren](https://open.spotify.com/album/5ORH9EHIBW2KjZfSRIdPFo) | 2:46 |
 | 15 | [sterne](https://open.spotify.com/track/1QDU1uv3AXds91OLk3ElxT) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [sterne](https://open.spotify.com/album/32Tob9NZPAvExxg66FY53y) | 3:27 |
 | 16 | [mit anderen augen](https://open.spotify.com/track/4bEEO0oInGv3OYInricb0k) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [mit anderen augen](https://open.spotify.com/album/3vWSlcVRmnUZiJTBa7z42f) | 2:49 |
@@ -41,18 +41,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 31 | [jeden tag neu](https://open.spotify.com/track/2BgbsLjtIlJke0OWtRynDx) | [cara](https://open.spotify.com/artist/4kfgJKwiBXRK4hrB4vNSV0) | [jeden tag neu](https://open.spotify.com/album/2N2ogz5o77Ii7wreGUffFT) | 2:51 |
 | 32 | [c.260611](https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [c.260611](https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu) | 1:45 |
 | 33 | [Ich hasse die Sonne](https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ich hasse die Sonne](https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA) | 2:44 |
-| 34 | [This Is Nice](https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [This Is Nice](https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l) | 2:38 |
+| 34 | [Hot Girl Summer](https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Hot Girl Summer](https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV) | 2:42 |
 | 35 | [Wachsen \(feat\. MOLA\)](https://open.spotify.com/track/5rk1wfhIEJvvLn5aKHwXcg) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Wachsen \(feat\. MOLA\)](https://open.spotify.com/album/0CE7lHehDeXFkx5pAMUTL7) | 2:29 |
-| 36 | [Wash my hair](https://open.spotify.com/track/4qSrZtU5n9VeZxL1q6DfYB) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wash my hair](https://open.spotify.com/album/5QrUbZtMt52oRRqZzzsQBI) | 3:00 |
-| 37 | [Schön sein \(ist fun\)](https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Schön sein \(ist fun\)](https://open.spotify.com/album/3bTXklMs8lwDmdqMhmKQnH) | 2:25 |
-| 38 | [chasing love and missing people](https://open.spotify.com/track/0b0mBhKTaAbLyFcUanja51) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [chasing love and missing people](https://open.spotify.com/album/1aopweZWLHNYjHoYJwJvqn) | 2:53 |
-| 39 | [Hot Girl Summer](https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Hot Girl Summer](https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV) | 2:42 |
+| 36 | [This Is Nice](https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [This Is Nice](https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l) | 2:38 |
+| 37 | [chasing love and missing people](https://open.spotify.com/track/0b0mBhKTaAbLyFcUanja51) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [chasing love and missing people](https://open.spotify.com/album/1aopweZWLHNYjHoYJwJvqn) | 2:53 |
+| 38 | [Wash my hair](https://open.spotify.com/track/4qSrZtU5n9VeZxL1q6DfYB) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wash my hair](https://open.spotify.com/album/5QrUbZtMt52oRRqZzzsQBI) | 3:00 |
+| 39 | [Schön sein \(ist fun\)](https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Schön sein \(ist fun\)](https://open.spotify.com/album/3bTXklMs8lwDmdqMhmKQnH) | 2:25 |
 | 40 | [Weltuntergang](https://open.spotify.com/track/5gprjELlbURrIgh1tSTrPb) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8) | [Weltuntergang](https://open.spotify.com/album/5mmNtnWk2eUYA1sCV3zlDs) | 3:05 |
 | 41 | [Opium](https://open.spotify.com/track/5nL5mdMNimzgHSZN6ji8kp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Opium](https://open.spotify.com/album/5G6N3XR8brzL9dZBPSQ741) | 2:26 |
 | 42 | [Girl With A Gun, Angry](https://open.spotify.com/track/4xHkDF6YXuIilC1q4sKmJ7) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:26 |
 | 43 | [Ich denk an dich](https://open.spotify.com/track/5ikD0eJ2tR0KGzbNmQaN79) | [Jenny & Joy](https://open.spotify.com/artist/5biUqgfoCEV5HSpWHWUgLH) | [Ich denk an dich](https://open.spotify.com/album/1Kqnz3yaL8gvxP9YUnfr89) | 2:40 |
-| 44 | [T\-Shirt](https://open.spotify.com/track/6Ee9NgRkDfZoqPiXDCHmvr) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [T\-Shirt](https://open.spotify.com/album/1b4eJNwRwScUEyJuNXrVHJ) | 3:06 |
-| 45 | [sterntaler](https://open.spotify.com/track/6QfMdc1DwZGHAXvDfS1LbR) | [LISABETH](https://open.spotify.com/artist/2LB3CqyRr5ttDlWqGl5CEv) | [sterntaler](https://open.spotify.com/album/4IlYEiP1AKTfybEFc9RVqV) | 3:37 |
+| 44 | [sterntaler](https://open.spotify.com/track/6QfMdc1DwZGHAXvDfS1LbR) | [LISABETH](https://open.spotify.com/artist/2LB3CqyRr5ttDlWqGl5CEv) | [sterntaler](https://open.spotify.com/album/4IlYEiP1AKTfybEFc9RVqV) | 3:37 |
+| 45 | [T\-Shirt](https://open.spotify.com/track/6Ee9NgRkDfZoqPiXDCHmvr) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [T\-Shirt](https://open.spotify.com/album/1b4eJNwRwScUEyJuNXrVHJ) | 3:06 |
 | 46 | [I'm In Love With A German Film Star](https://open.spotify.com/track/0OOVYOv8PomdOADlYYj6Wj) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [I'm In Love With A German Film Star](https://open.spotify.com/album/7HFhSoPjp94HllaD56FvRM) | 4:27 |
 | 47 | [Savanna Savage](https://open.spotify.com/track/1ahR23D4S0uyNSQyI1QxDY) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Savanna Savage](https://open.spotify.com/album/7ngqA57C9eOJpdoRukBtnv) | 3:16 |
 | 48 | [Rose Colored Glasses](https://open.spotify.com/track/638bBgP3OMkRKUVPJkkS3l) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Rose Colored Glasses](https://open.spotify.com/album/67daculGwunDLADwaBcuyJ) | 2:51 |

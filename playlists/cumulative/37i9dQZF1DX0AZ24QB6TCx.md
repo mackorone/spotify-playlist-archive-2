@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-335 songs - 1 day 4 hr 45 min
+336 songs - 1 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Hold Your Breath](https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r) | [Thaylo](https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB) | [Hold Your Breath](https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3) | 3:11 | 2023-06-30 | 2025-10-15 |
 | [Holy \(Frank Wiedemann Remix\)](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 | 2022-05-03 | 2026-08-10 |
 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 | 2021-12-23 | 2024-02-17 |
-| [Home](https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Home](https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34) | 3:44 | 2023-11-14 |  |
+| [Home](https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Home](https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34) | 3:44 | 2023-11-14 | 2026-08-18 |
 | [I Am Still Here](https://open.spotify.com/track/3Ccmq7nxS8y44m8HKf3deW) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [I Am Still Here](https://open.spotify.com/album/587BdfJd7CAjF1jgxVv1vi) | 4:24 | 2022-01-14 | 2022-03-21 |
 | [I Want To Be A Tree \- Franca Remix](https://open.spotify.com/track/1sEl6Uga1CfJbkoYd3Dwy2) | [Kuriose Naturale](https://open.spotify.com/artist/3MMmLH0WVlNkJG84bMT5Bq), [Moogli](https://open.spotify.com/artist/6ftRDyQphACQ9Jm7DF9DdV), [Franca](https://open.spotify.com/artist/0T9mocL0H8qcDBnmJVc1gC) | [I Want To Be A Tree](https://open.spotify.com/album/0LxG0GMJGD9qLFQz3BLe00) | 7:35 | 2022-08-19 | 2022-09-03 |
 | [I Won't Be](https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [I Won't Be](https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5) | 3:32 | 2021-12-23 | 2023-08-03 |
@@ -308,6 +308,7 @@
 | [Touch](https://open.spotify.com/track/5Nfu8mqEwGMM0gnPMlAMZp) | [Bankii](https://open.spotify.com/artist/5SVqNCocTWjfVH6TKtbvRw), [Sarah Otto](https://open.spotify.com/artist/0gHKUIuU91ofKBHd0SnJU4) | [Touch](https://open.spotify.com/album/0JEFqZZmeqlnAFOoY2Ye0y) | 4:11 | 2021-12-23 | 2022-07-29 |
 | [Touch the Sky](https://open.spotify.com/track/6dy5GFgwpLfw3DqGFNeoHE) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Hannah Noelle](https://open.spotify.com/artist/1lE36WexHt1gmXkxRt6DYC) | [Idiosynkrasia](https://open.spotify.com/album/1KYaDfuu1zr47kLgRuKGIh) | 5:31 | 2021-12-23 | 2022-07-28 |
 | [Treptow](https://open.spotify.com/track/3xF2Q1ROL2LtMczRnfhvdz) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:42 | 2022-01-14 | 2022-07-27 |
+| [True Crime \(Shortcut\)](https://open.spotify.com/track/6JechHmxFPXf2s6SToxwmI) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5) | [True Crime](https://open.spotify.com/album/2qwn7r37oZFup28M4kTBUu) | 3:56 | 2026-08-14 |  |
 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 | 2023-05-05 | 2025-12-05 |
 | [Un Rêve Étrange \- Rodriguez Jr\. Remix](https://open.spotify.com/track/2bT2dwrc9YzyhVAK48IZ77) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Hicky & Kalo](https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT), [Seth Schwarz](https://open.spotify.com/artist/0zUt9PboFsELRcvO7UWarr) | [Un Rêve Étrange Remix](https://open.spotify.com/album/4ccRH9RUs9y1SgyDkKKLCA) | 6:42 | 2022-01-21 | 2022-04-21 |
 | [Unattached \- Edit](https://open.spotify.com/track/5JmCpVmnLimqB48oQQgHra) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Rise / Unattached](https://open.spotify.com/album/4kjjkpezmBnxGKJjJyvgzd) | 4:12 | 2021-12-23 | 2022-06-28 |

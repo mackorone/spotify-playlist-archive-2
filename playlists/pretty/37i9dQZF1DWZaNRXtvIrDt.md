@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,034 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,025 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 45 | [Back To Reality \- Original Mix \- Mixed](https://open.spotify.com/track/5LM5D4axlHlw25FSLB9yqN) | [RMS](https://open.spotify.com/artist/4pJ8HL3kT31Gc3fqXQBG9c) | [DJ Hybrid presents Welcome To The Jungle \(DJ MIX\)](https://open.spotify.com/album/0px7ovg0arQC3wZvRGo74C) | 1:24 |
 | 46 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 |
 | 47 | [Leave Your Life \- Lonely Hearts Mix](https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL) | [Alex Kassian](https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY) | [Leave Your Life](https://open.spotify.com/album/4qeik8tRjrndVWsaS7bRBS) | 6:09 |
-| 48 | [Blaze That Ass](https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Blaze That Ass](https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL) | 2:55 |
+| 48 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
 | 49 | [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 |
-| 50 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
+| 50 | [No More](https://open.spotify.com/track/56US40GllguPaCuhGcgeUj) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [No More](https://open.spotify.com/album/0TknEB1buXXJWCDutEIHtB) | 3:53 |
 
 Snapshot ID: `AAAAACnEx/fww6yovsKM/m7qxs+pExN6`

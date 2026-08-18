@@ -4,7 +4,7 @@
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-128 songs - 9 hr 21 min
+129 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,10 +124,11 @@
 | [Uncle Salty](https://open.spotify.com/track/3XW2c507flCMzqd7Woc2mr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:09 | 2022-09-18 | 2022-09-20 |
 | [Walk This Way](https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:40 | 2023-01-27 |  |
 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2022-09-17 | 2023-01-28 |
+| [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 | 2026-08-18 |  |
 | [Walkin' The Dog](https://open.spotify.com/track/3TtNZafFdL1ccxVNERnh4w) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 3:12 | 2022-11-20 | 2023-01-26 |
 | [Walkin' The Dog](https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 3:13 | 2023-01-25 | 2025-11-22 |
 | [Walkin' The Dog \- Live At Paul's Mall, 1973](https://open.spotify.com/track/6OUDRrnvT5wtDYtgeYqNje) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Walkin’ The Dog / Mama Kin](https://open.spotify.com/album/3kvNPxK27zpVKjr7hg38Kk) | 3:15 | 2026-03-01 | 2026-04-15 |
-| [Water Song/Janie's Got A Gun](https://open.spotify.com/track/5XPDEg7yZT893Ocru6IEph) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 5:38 | 2022-10-12 |  |
+| [Water Song/Janie's Got A Gun](https://open.spotify.com/track/5XPDEg7yZT893Ocru6IEph) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 5:38 | 2022-10-12 | 2026-08-18 |
 | [What Could Have Been Love](https://open.spotify.com/track/0RWSLyiyfBktTFIs458CWV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ) | 3:44 | 2022-09-17 | 2023-01-27 |
 | [What Could Have Been Love](https://open.spotify.com/track/5FKq1jZkkIC8LHkyp1TSBJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 3:44 | 2023-01-26 |  |
 | [What It Takes](https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:10 | 2022-09-17 |  |

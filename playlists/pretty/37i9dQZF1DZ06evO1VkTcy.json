@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAD7hX6KvaOTkAyZOOkoi+DH",
+  "snapshot_id": "aoD9gAAAAACnQyWvQ+w8EZqj0JpC1ccC",
   "tracks": [
     {
       "added_at": null,
@@ -1435,26 +1435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/7cQXR7MaVQEGjRwCnyoNcL"
+        "name": "Florescer",
+        "url": "https://open.spotify.com/album/4u8IzJipJSQiNrIP1udKHi"
       },
       "artists": [
         {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 181800,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/2WPh5Iwekb2GVG8T3shK3D"
+      "duration_ms": 188162,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/1T6QvU1JMup4x4koI3s5EY"
     }
   ],
   "unique_name": "This Is Lourena",

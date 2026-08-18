@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 395470,
+  "num_followers": 395512,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAWF4//ppBLUvuPF25MTuZS",
+  "snapshot_id": "aoD9gAAAAAAqGlG1j2tbwUebMCy6elEt",
   "tracks": [
     {
       "added_at": null,
@@ -179,30 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tutankamon",
-        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/33THfvKc6inTp3HW93k5jr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ay Weyy",
         "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
       },
@@ -223,6 +199,30 @@
       "duration_ms": 158669,
       "name": "Taco El Flaco",
       "url": "https://open.spotify.com/track/1TKtOAr9HUZyF3dCdwwcJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tutankamon",
+        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/33THfvKc6inTp3HW93k5jr"
     },
     {
       "added_at": null,
@@ -311,6 +311,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA CITA FRESITA 2",
+        "url": "https://open.spotify.com/album/0desTzdOKx9PIxWlAwjoJA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 175023,
+      "name": "LA CITA FRESITA 2",
+      "url": "https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Locos Nunca Mueren",
         "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 153566,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA CITA FRESITA 2",
-        "url": "https://open.spotify.com/album/0desTzdOKx9PIxWlAwjoJA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 175023,
-      "name": "LA CITA FRESITA 2",
-      "url": "https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ"
     },
     {
       "added_at": null,
@@ -563,30 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gavil\u00e1n",
-        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 175295,
-      "name": "El Gavil\u00e1n",
-      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MI PROPIO JEFE",
         "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 210923,
       "name": "MI PROPIO JEFE",
       "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Gavil\u00e1n",
+        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 175295,
+      "name": "El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 205299,
-      "name": "As\u00ed Lo Quiso Dios",
-      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 205299,
+      "name": "As\u00ed Lo Quiso Dios",
+      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
     },
     {
       "added_at": null,

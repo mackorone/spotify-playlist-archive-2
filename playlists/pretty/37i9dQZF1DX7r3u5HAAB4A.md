@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Masicka
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,642 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,688 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 3 | [SUMMER FRUITS \(NA NA\)](https://open.spotify.com/track/4RDnbivXejcWXW4Urdwsla) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [SUMMER FRUITS \(NA NA\)](https://open.spotify.com/album/3HA0DrSHzmKNQwCSaWSXkm) | 2:26 |
 | 4 | [Hello \(feat\. Buju Banton\)](https://open.spotify.com/track/00R468Heq3qV12xMqQFULd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:55 |
 | 5 | [WUL UP \(Walk Out\)](https://open.spotify.com/track/74My9unxFHLmvw0ezYZTBO) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [WUL UP \(Walk Out\)](https://open.spotify.com/album/0jVrMzHjI5RN3lXJQvKBlK) | 2:45 |
-| 6 | [Private Chef \(feat\. MC Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
+| 6 | [Private Chef \(feat\. Mc Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
 | 7 | [RARRI](https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [RARRI](https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C) | 2:10 |
 | 8 | [Holiday](https://open.spotify.com/track/4l1wRHDnzsOd3rrqxMafp4) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [Holiday](https://open.spotify.com/album/3SeCuTVaJdb0hv5JL56otb) | 2:46 |
 | 9 | [Time & Place](https://open.spotify.com/track/02Dt8MN0EAyUeqWnOJdppv) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:39 |

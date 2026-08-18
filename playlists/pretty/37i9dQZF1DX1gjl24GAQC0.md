@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your bias K\-Pop boy group? \(Cover: AxMxP\(에이엠피\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,117 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,112 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 9 | [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 |
 | 10 | [Your Idol](https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:11 |
 | 11 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
-| 12 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
+| 12 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
 | 13 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
-| 14 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
+| 14 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
 | 15 | [Stick With You](https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [7TH YEAR: A Moment of Stillness in the Thorns](https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk) | 2:33 |
 | 16 | [Ride or Die](https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [RIDE OR DIE](https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25) | 2:15 |
 | 17 | [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 44 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Attacca](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
 | 45 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 |
 | 46 | [You, You](https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [NO TRAGEDY](https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co) | 2:45 |
-| 47 | [SERVE](https://open.spotify.com/track/1hFQ6vxNUsrRBgwb8m5b6s) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [I,God](https://open.spotify.com/album/0A1c1SWNQUub5c1BkVzam7) | 3:12 |
-| 48 | [Curious](https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 01: Curiosity](https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD) | 2:58 |
-| 49 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 |
-| 50 | [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 |
+| 47 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 |
+| 48 | [SERVE](https://open.spotify.com/track/1hFQ6vxNUsrRBgwb8m5b6s) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [I,God](https://open.spotify.com/album/0A1c1SWNQUub5c1BkVzam7) | 3:12 |
+| 49 | [Curious](https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 01: Curiosity](https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD) | 2:58 |
+| 50 | [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 |
 
 Snapshot ID: `AAAAABdpmYDNWh6Hu70hqCeBwVPwbM8b`

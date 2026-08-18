@@ -4,7 +4,7 @@
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-166 songs - 10 hr 46 min
+167 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [En El Bajío](https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 3:00 | 2021-12-28 |  |
 | [Encántigo](https://open.spotify.com/track/1LNJ3Ne0gSkGGhkjYMtTN3) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 7:58 | 2026-08-11 | 2026-08-13 |
 | [Esperaré](https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira](https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM) | 2:32 | 2022-01-04 | 2025-11-16 |
-| [Esperaré \- Remastered 2025](https://open.spotify.com/track/31ENOVq4bqIsnhZ2CaroBe) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira \(Remastered 2025\)](https://open.spotify.com/album/1kmTAexmlUr0sN1bAEmNW2) | 2:31 | 2026-08-08 |  |
+| [Esperaré \- Remastered 2025](https://open.spotify.com/track/31ENOVq4bqIsnhZ2CaroBe) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira \(Remastered 2025\)](https://open.spotify.com/album/1kmTAexmlUr0sN1bAEmNW2) | 2:31 | 2026-08-08 | 2026-08-18 |
 | [Espérame En El Cielo](https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:02 | 2021-12-28 |  |
 | [Gracia Divina \- Live](https://open.spotify.com/track/2wBcpqSNc6isZJLuqKEi9S) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J) | [Hommy: A Latin Opera](https://open.spotify.com/album/1WAQ55TokPK6a1OrTnSEW8) | 4:50 | 2023-09-12 | 2024-02-05 |
 | [Gracia Divina \- Live](https://open.spotify.com/track/4GnGZNWpSLN4LfV4eA29bl) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J) | [Celia](https://open.spotify.com/album/2xBaORsHP0AqtXhjTaXFai) | 4:50 | 2021-12-28 | 2023-08-26 |
@@ -131,6 +131,7 @@
 | [Que Le Den Candela](https://open.spotify.com/track/1gMOBywJqIUBLOnFpGqMLK) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Carnaval De Exitos](https://open.spotify.com/album/4O1Y013q4dkng1GGwaEgwM) | 3:52 | 2025-02-19 | 2026-02-26 |
 | [Que Le Den Candela](https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Irrepetible](https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS) | 3:52 | 2021-12-28 |  |
 | [Quimbara](https://open.spotify.com/track/7mqqWVpuUHekEdlVOSQjmy) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Ultimate Duets](https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A) | 4:25 | 2022-10-12 | 2023-12-19 |
+| [Quimbara](https://open.spotify.com/track/1yMMuYe547pEE0LgKkdG8Z) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Inolvidable](https://open.spotify.com/album/4fTZTSPkgeyUxtQeyCnjfh) | 5:26 | 2026-08-18 |  |
 | [Quimbara](https://open.spotify.com/track/1CkuZ3qvhxfMv7y0Nt0sV5) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Johnny Pacheco Y Su Charanga](https://open.spotify.com/artist/2JK0DNoBRuK2rH1tQrBsvA) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:53 | 2026-03-02 |  |
 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 | 2021-12-28 | 2025-11-07 |
 | [Quimbara \- En Vivo](https://open.spotify.com/track/7uLcRFJ4Fa2yIKoR1fTXI0) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [En Vivo \- 100 Años de Azúcar](https://open.spotify.com/album/1aHtTwNnaN5R1FtvKOFZmc) | 5:44 | 2024-05-26 | 2024-06-23 |

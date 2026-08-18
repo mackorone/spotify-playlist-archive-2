@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,919 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,923 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 44 | [Sabes Que Lo Hago](https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Sabes Que Lo Hago](https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz) | 3:13 |
 | 45 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |
 | 46 | [El Tarasco \- En Vivo](https://open.spotify.com/track/59JBXKZfy7XjAz1eVpeFO7) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:01 |
-| 47 | [Los Consentidos De Don Chuy](https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Los Consentidos De Don Chuy](https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W) | 3:44 |
-| 48 | [Fibras Sensibles](https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Fibras Sensibles](https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm) | 3:20 |
+| 47 | [Fibras Sensibles](https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Fibras Sensibles](https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm) | 3:20 |
+| 48 | [Los Consentidos De Don Chuy](https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Los Consentidos De Don Chuy](https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W) | 3:44 |
 | 49 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/5opgaluT0rfHMV2j1o5msW) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/2w7wcxm7qdWAGcwHIyR0WE) | 2:34 |
 | 50 | [El Pistolero \- En Vivo](https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:16 |
 
-Snapshot ID: `an+sAAAAAAAy3J5y5Y+O8C3z/fLT2Sky`
+Snapshot ID: `aoD9gAAAAABfjiBLNuLj5WcWV7UtYpv+`

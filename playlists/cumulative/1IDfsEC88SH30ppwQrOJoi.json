@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "I Don't Think I Can Stop",
+        "url": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226874,
+      "name": "Body Shake",
+      "url": "https://open.spotify.com/track/3oToDCuXNWSgqkxtPKQM3b"
+    },
+    {
+      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
       },

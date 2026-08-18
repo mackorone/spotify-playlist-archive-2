@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Maria Callas - The Platinum Collection 1",
+        "url": "https://open.spotify.com/album/0vAeKe92d9yrFZKbA8Fr5M"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Adriana Lecouvreur (1986 Digital Remaster): Ecco: respiro appena...Io son l'umile ancella",
+      "url": "https://open.spotify.com/track/66OfFALuz5m0OstynWGEDz"
+    },
+    {
+      "album": {
         "name": "Lyric and Coloratura Arias",
         "url": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
       },
@@ -456,6 +478,40 @@
       "duration_ms": 263213,
       "name": "Bizet: Carmen, Act 2: \"Les tringles des sistres tintaient\" (Carmen, Frasquita, Merc\u00e9d\u00e8s)",
       "url": "https://open.spotify.com/track/4Osrui1RbFtmYp4P881GDW"
+    },
+    {
+      "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Choeurs Rene Duclos",
+          "url": "https://open.spotify.com/artist/0iwjANAnsGz9IwE2UXLCFs"
+        },
+        {
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+        },
+        {
+          "name": "Orchestre du Th\u00e9\u00e2tre National de l'Op\u00e9ra de Paris",
+          "url": "https://open.spotify.com/artist/1FurVpamfxhFnAFstxNLM1"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Bizet: Carmen, WD 31, Act 1: Habanera. \"L'amour est un oiseau rebelle\" (Carmen, Ch\u0153ur)",
+      "url": "https://open.spotify.com/track/5Adxsld8lL9MLcaULeoSKu"
     },
     {
       "album": {
@@ -924,7 +980,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 445933,
       "name": "Extrait \"Casta Diva\"",
       "url": "https://open.spotify.com/track/7B4Q37Q7t37yxqY8T47nFo"
@@ -1540,7 +1596,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 281946,
       "name": "Madame Butterfly: Un bel di, vedremo",
       "url": "https://open.spotify.com/track/6oKWBxOT37SPyRkT6xHhH4"
@@ -2340,7 +2396,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 202040,
       "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
       "url": "https://open.spotify.com/track/6f2q4uxbxX4fSotAk7tRxZ"
@@ -2510,7 +2566,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 342440,
       "name": "Puccini: Tosca, Act 1 Scene 5: \"Ah, quegli occhi \u2026 Quale occhio al mondo pu\u00f2 star di paro\" (Tosca, Cavaradossi)",
       "url": "https://open.spotify.com/track/56p2iqses17uxRObZQBCLh"
@@ -2860,7 +2916,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 318826,
       "name": "Samson et Dalila (1997 Digital Remaster): Mon coeur s'ouvre \u00e0 ta voix.",
       "url": "https://open.spotify.com/track/4TyIrhkM8BhVTSaokH40Sx"
@@ -3336,6 +3392,48 @@
       "duration_ms": 289173,
       "name": "Verdi: Otello, Act 4: \"Ave Maria piena di grazia\" (Desdemona)",
       "url": "https://open.spotify.com/track/6DU2Ydz1UPU2zpgc6f930A"
+    },
+    {
+      "album": {
+        "name": "Verdi Rigoletto",
+        "url": "https://open.spotify.com/album/4aHvBC55nXIH6WBEo7XXGC"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Renato Ercolani",
+          "url": "https://open.spotify.com/artist/573mV4UYh7nevzAxYshm1I"
+        },
+        {
+          "name": "William Dickie",
+          "url": "https://open.spotify.com/artist/6t9tn943Zw5EK2vnf5LY84"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455386,
+      "name": "Verdi: Rigoletto, Act 1 Scene 13: No. 6, Scene ed Aria, \"Gualtier Mald\u00e8! \u2026 Caro nome che il mio cor\" (Gilda, Borsa, Ceprano, Marullo, Chorus)",
+      "url": "https://open.spotify.com/track/1F9c9vDQZAMs71UAfpunyO"
     },
     {
       "album": {

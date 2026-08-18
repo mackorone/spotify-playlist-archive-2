@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 269993,
+  "num_followers": 269944,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Somos Navidad",
-        "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
-      },
-      "artists": [
-        {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Santa Claus Lleg\u00f3 A La Ciudad",
         "url": "https://open.spotify.com/album/07xPl363lb9z67lLCtjuNS"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 158629,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Somos Navidad",
+        "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "C\u00f3mo Poder Olvidar (Spotify Sad Sierre\u00f1o Holiday Singles)",
-        "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 216208,
-      "name": "C\u00f3mo Poder Olvidar - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Volvernos a Encontrar",
         "url": "https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 186130,
       "name": "Volvernos a Encontrar",
       "url": "https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "C\u00f3mo Poder Olvidar (Spotify Sad Sierre\u00f1o Holiday Singles)",
+        "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 216208,
+      "name": "C\u00f3mo Poder Olvidar - Spotify Sad Sierre\u00f1o Holiday Singles",
+      "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Emmanuel Jingle Bell Rocks",
-        "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 325397,
-      "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
-      "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "triste navidad",
         "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Emmanuel Jingle Bell Rocks",
+        "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 325397,
+      "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
+      "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6zo0N2JbFT7dfaHpY5ShpX"
       },
@@ -1011,58 +1011,6 @@
       "duration_ms": 143745,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6bCrvUh7PWvHn1Wnbu4Vsi"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/25k4Ptse4uzo6Oiy9Vnmgu"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 181794,
-      "name": "Navidad",
-      "url": "https://open.spotify.com/track/2Qb16NRF8oWi7TMlt8vlQS"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Duende",
-        "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
-      },
-      "artists": [
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 166891,
-      "name": "Duende",
-      "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "voy a pedirte a ti (esta navidad)",
-        "url": "https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 162709,
-      "name": "voy a pedirte a ti (esta navidad)",
-      "url": "https://open.spotify.com/track/7dziPQ5f3Qek1rHouGzsrM"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1115,6 +1063,42 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/25k4Ptse4uzo6Oiy9Vnmgu"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 181794,
+      "name": "Navidad",
+      "url": "https://open.spotify.com/track/2Qb16NRF8oWi7TMlt8vlQS"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Duende",
+        "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 166891,
+      "name": "Duende",
+      "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Mu\u00f1eco de Nieve",
         "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
       },
@@ -1127,22 +1111,6 @@
       "duration_ms": 170856,
       "name": "Mu\u00f1eco de Nieve",
       "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1195,34 +1163,50 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+        "name": "voy a pedirte a ti (esta navidad)",
+        "url": "https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG"
       },
       "artists": [
         {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 195842,
-      "name": "Last Christmas (Spanish Version)",
-      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
+      "duration_ms": 162709,
+      "name": "voy a pedirte a ti (esta navidad)",
+      "url": "https://open.spotify.com/track/7dziPQ5f3Qek1rHouGzsrM"
     },
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "La Navidad Comenz\u00f3",
-        "url": "https://open.spotify.com/album/0hAbjmOFoi35grgTjnQjU2"
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
         }
       ],
-      "duration_ms": 199829,
-      "name": "La Navidad Comenz\u00f3",
-      "url": "https://open.spotify.com/track/0EUjKWaJ3CgAWbNDJ2DkDd"
+      "duration_ms": 160312,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 217024,
+      "name": "Viva La Navidad",
+      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 195842,
+      "name": "Last Christmas (Spanish Version)",
+      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "este diciembre.",
         "url": "https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "La Navidad Comenz\u00f3",
+        "url": "https://open.spotify.com/album/0hAbjmOFoi35grgTjnQjU2"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
         }
       ],
-      "duration_ms": 217024,
-      "name": "Viva La Navidad",
-      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
+      "duration_ms": 199829,
+      "name": "La Navidad Comenz\u00f3",
+      "url": "https://open.spotify.com/track/0EUjKWaJ3CgAWbNDJ2DkDd"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 255125,
+      "name": "Human Nature - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
         "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 213547,
       "name": "A\u00f1o Nuevo, Misma Soledad - Live",
       "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "El Mix-Tape De Santa",
-        "url": "https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 145876,
-      "name": "Lleg\u00f3 La Navidad",
-      "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "El Mix-Tape De Santa",
+        "url": "https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         }
       ],
-      "duration_ms": 255125,
-      "name": "Human Nature - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
+      "duration_ms": 145876,
+      "name": "Lleg\u00f3 La Navidad",
+      "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
     }
   ],
   "unique_name": "Feliz Navidad",

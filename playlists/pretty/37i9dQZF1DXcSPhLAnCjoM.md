@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Frérot" de Jérémy Frerot est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,597 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,536 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22247,
+  "num_followers": 22249,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAvnWuJTkpbMWZOzW/ttmH/",
+  "snapshot_id": "aoD9gAAAAABbUyL3tKg1ZLYt2WAGNYaZ",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can\u00e7\u00e3o dos Redimidos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 413965,
       "name": "Can\u00e7\u00e3o dos Redimidos - Ao Vivo",
       "url": "https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ao Vivo na \u00d3pera de Arame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0x9oovOV9CNm9uXiHEDeRP"
+        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 412295,
-      "name": "Seu Amor Dura Para Sempre (Bonus Track) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FaMoShMm6N9kiZd81IrC9"
+      "duration_ms": 438653,
+      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
+        "name": "Ao Vivo na \u00d3pera de Arame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0x9oovOV9CNm9uXiHEDeRP"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 438653,
-      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
+      "duration_ms": 412295,
+      "name": "Seu Amor Dura Para Sempre (Bonus Track) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FaMoShMm6N9kiZd81IrC9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Hudson Westbrook, Jordan Davis, Little Big Town with Kelsea Ballerini and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,204 likes - 89 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,298 likes - 89 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 6 | [Kicked Out Of Bars](https://open.spotify.com/track/1xL2pFFPFxnk3j5kFH30gc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Kicked Out Of Bars](https://open.spotify.com/album/27u0UlRe5bJkz2ZUsKynsP) | 2:44 |
 | 7 | [Shoes](https://open.spotify.com/track/4YvEgMDAoB4in0hjFu3any) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Shoes](https://open.spotify.com/album/6F4P97Iak39OMIpH0kwvs1) | 3:09 |
 | 8 | [Laundry](https://open.spotify.com/track/54qpzgPAmvN5MNvw0cnYAT) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Laundry](https://open.spotify.com/album/5l4kP1rgvpjec0imMMuyHG) | 3:39 |
-| 9 | [Flowers \- Demo Version](https://open.spotify.com/track/67tLOx8OazyKPLachfrTyg) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Flowers \(Demo Version\)](https://open.spotify.com/album/5nA6V7Bwvoe1AvAHrU7M0p) | 4:03 |
+| 9 | [Flowers \- Demo](https://open.spotify.com/track/67tLOx8OazyKPLachfrTyg) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Flowers \(Demo\)](https://open.spotify.com/album/5nA6V7Bwvoe1AvAHrU7M0p) | 4:03 |
 | 10 | [Take Me Home](https://open.spotify.com/track/404HkGbdie5tqrkFGs1pSB) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Take Me Home](https://open.spotify.com/album/0Oah9EbCYErHmTl68eXbCh) | 3:05 |
 | 11 | [I Wanna Be Bad](https://open.spotify.com/track/7uxmDjx4P4KSMLI2mXwZeF) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [I Wanna Be Bad](https://open.spotify.com/album/6snIP2jUiHg8laMBGmd9rD) | 2:37 |
 | 12 | [Pouring](https://open.spotify.com/track/6x1RfhNMyXuopmGSCPcT4q) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Pouring](https://open.spotify.com/album/4QQmW6sae4Zc48VoDFObQ5) | 3:34 |

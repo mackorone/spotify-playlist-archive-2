@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-194 songs - 10 hr 7 min
+195 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Africa](https://open.spotify.com/track/1Xf60iHndHz5X20e9Kd9RY) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:24 | 2024-06-06 | 2026-08-04 |
 | [Africa Is Where My Heart Lies](https://open.spotify.com/track/2qVnYwhvxDoT82BrHEB1UR) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Homeland](https://open.spotify.com/album/7rpMuQI334lB7NK6fPUZPu) | 4:40 | 2026-03-30 | 2026-04-09 |
 | [African Sunset](https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 5:46 | 2022-06-24 |  |
-| [Aluta Continua](https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX) | 4:49 | 2021-12-28 |  |
+| [Aluta Continua](https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX) | 4:49 | 2021-12-28 | 2026-08-18 |
 | [Amampondo](https://open.spotify.com/track/1Z3lTQYt14dfcZAl7AckQP) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The World of Miriam Makeba](https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um) | 1:56 | 2023-11-10 | 2024-05-08 |
 | [Amampondo](https://open.spotify.com/track/4qMRLtz3i7azhHrnkPPD3k) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX) | 4:19 | 2021-12-28 | 2023-01-13 |
 | [Amampondo \- Live](https://open.spotify.com/track/1p14Xl7OrP4TgT0kgNA6MG) | [LM.ORG](https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Philip Roesler](https://open.spotify.com/artist/43YPcuR8oCpAFUnlrjjo7u) | [Amampondo \(Live\)](https://open.spotify.com/album/0IT3JkCLQuqmtMbOiIcMjX) | 6:10 | 2022-10-12 | 2023-02-12 |
@@ -45,6 +45,7 @@
 | [Down on the Corner \- Remastered](https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:33 | 2022-01-03 |  |
 | [Emabhaceni](https://open.spotify.com/track/27nFGGdYDpN2u2zI8SwUZZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 2:40 | 2021-12-28 |  |
 | [Erev Shel Shoshanim](https://open.spotify.com/track/5bHF4aLdksOMoNzB5micYf) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:19 | 2021-12-28 | 2024-11-22 |
+| [first bagel of the night](https://open.spotify.com/track/2ppGEp1b0Hnj6sH51J0Tjq) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [all will be well](https://open.spotify.com/album/6g3ZSaL6bPdbDzSXLJv8me) | 5:50 | 2026-08-18 |  |
 | [For What It's Worth \- Remastered](https://open.spotify.com/track/4pVVy9TaURIiDdj5gMcIrx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 3:08 | 2021-12-28 |  |
 | [Forbidden Games](https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Forbidden Games](https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3) | 2:56 | 2021-12-28 |  |
 | [Give Us Our Land \- Mabayeke](https://open.spotify.com/track/4XCtKro2JD3tDpnnyTOrZ6) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening with Belafonte/Makeba](https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G) | 2:27 | 2023-04-30 | 2024-09-24 |

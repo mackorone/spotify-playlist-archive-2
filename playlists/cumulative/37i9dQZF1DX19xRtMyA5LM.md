@@ -2,9 +2,9 @@
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> De beste tracks in WS❗️Cover: Jack\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier meer zomer aanbevelingen!</a>
+> Een exclusieve nieuwe track van Jack❗️<a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
 
-532 songs - 1 day 0 hr 1 min
+533 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Dun Talkin](https://open.spotify.com/track/7lmzgl8eDytUb9k4ILf6IM) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Dun Talkin](https://open.spotify.com/album/5MfPtpC7nc4OQqwHmKp2nj) | 2:16 | 2025-07-17 | 2025-09-19 |
 | [Duracell](https://open.spotify.com/track/5gtLS2CnIhKvt1BDAOXVSq) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Duracell](https://open.spotify.com/album/5gvKMvAS0tduRnzlFulKPZ) | 3:02 | 2025-07-17 | 2025-10-31 |
 | [Dure Geintje](https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Dure Geintje](https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr) | 2:16 | 2026-02-12 | 2026-07-24 |
+| [Dylan Klomp](https://open.spotify.com/track/1hXE72kNZzHfLVpPaaPc30) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Dylan Klomp](https://open.spotify.com/album/6CO2svtKVQtbufjL7lQXTU) | 1:48 | 2026-08-17 |  |
 | [Eenzaam](https://open.spotify.com/track/2dg10oKMTxkzABwSythyvK) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Grijze](https://open.spotify.com/album/4J0OXItwOZUFT4QXPu18dw) | 3:04 | 2025-12-18 | 2026-04-17 |
 | [Eenzaam](https://open.spotify.com/track/6J5WlSjIOIQxHUro6UgkRX) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Eenzaam](https://open.spotify.com/album/1vUU3kqZAjhcbN3e2jvIUI) | 2:32 | 2026-04-16 | 2026-05-22 |
 | [Eerste Klus](https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:19 | 2026-03-19 | 2026-06-02 |

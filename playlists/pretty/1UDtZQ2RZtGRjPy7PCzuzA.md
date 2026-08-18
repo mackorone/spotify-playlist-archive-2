@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > yk what else is massive
 
-[lia☀️](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,212 songs - 2 day 20 hr 47 min
+[lia☀️](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,217 songs - 2 day 21 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1220,5 +1220,10 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1210 | [Oh, Pretty Woman](https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Oh, Pretty Woman](https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0) | 2:58 |
 | 1211 | [Misty](https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [I'll Cry If I Want To](https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8) | 2:18 |
 | 1212 | [I Will Follow Him](https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac) | [Peggy March](https://open.spotify.com/artist/5EVZqrbIyEYGGite2sMhDk) | [I Will Follow Him](https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg) | 2:28 |
+| 1213 | [u i need right now](https://open.spotify.com/track/0Zmw4fg8u15iHl10SsS2Yr) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [u i need right now](https://open.spotify.com/album/6JFe1ymU1UusWki2pvf1pK) | 3:36 |
+| 1214 | [Thinking Of You \- Acoustic Version](https://open.spotify.com/track/0Yqu5nJ5GxMR0Iwxo0eHKa) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Thinking Of You](https://open.spotify.com/album/6QMt0VIXFUFDrYaDBnjfYO) | 4:51 |
+| 1215 | [...What Are We?](https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:38 |
+| 1216 | [Love Me](https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 4:15 |
+| 1217 | [Waiting Ain't Easy](https://open.spotify.com/track/40aGiIqPh8pY0qfGwfJ2PR) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [Waiting Ain't Easy](https://open.spotify.com/album/5Ca7m5PEN7V7CXSF9X3T1b) | 3:08 |
 
-Snapshot ID: `AAALwMmyteQFIFSWYYTeg+WFlmNbOL5E`
+Snapshot ID: `AAALxSfgrigIwimoKyzGqNO/qo8y4ppm`

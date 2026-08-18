@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-226 songs - 13 hr 9 min
+227 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Process](https://open.spotify.com/track/45wbaSjwlHfUyLf36DHPtF) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:54 | 2024-06-11 |  |
 | [Promise This](https://open.spotify.com/track/2UKWiHzOTYplGmoGlm4cl5) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:22 | 2024-06-11 |  |
 | [Rainbow](https://open.spotify.com/track/3EPfBCFsE5DzOG5xZGAXcZ) | [Run The World](https://open.spotify.com/artist/0cInwP8nWQOIaTXvjbnh7M), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Run The World](https://open.spotify.com/album/0jlbQ2PsLtIzya4g9xuKul) | 2:58 | 2024-06-11 | 2026-06-28 |
-| [Rainbow](https://open.spotify.com/track/1B1cX30isYsLUv70hvzeHP) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [Sunny Echoes](https://open.spotify.com/album/1nhwj80NecfB2HPmazLzTn) | 2:43 | 2026-06-27 |  |
+| [Rainbow](https://open.spotify.com/track/1B1cX30isYsLUv70hvzeHP) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [Sunny Echoes](https://open.spotify.com/album/1nhwj80NecfB2HPmazLzTn) | 2:43 | 2026-06-27 | 2026-08-18 |
+| [Rainbow](https://open.spotify.com/track/3m8KwDPEbS63xFMtUzoLMV) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [We Will Make Love Under a Rainbow](https://open.spotify.com/album/3OHV4XCXar4eswoHX6WgMu) | 2:46 | 2026-08-17 |  |
 | [Raindrops](https://open.spotify.com/track/5WCqzS7dZp9XLb5IdVGxqH) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:29 | 2024-06-11 |  |
 | [Respect Yourself \- Single Edit](https://open.spotify.com/track/7neZIzWa2nLzl1RFN636Ff) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Short Stax, Vol\. 7](https://open.spotify.com/album/3Bwk9OcKHF8x9SC5jRLyNn) | 3:31 | 2024-06-11 |  |
 | [Revenge](https://open.spotify.com/track/6FLvm4tT3QcTSIA4thfbut) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 4:14 | 2024-11-09 |  |
@@ -201,7 +202,7 @@
 | [Things I Never Said](https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:49 | 2024-12-11 |  |
 | [Thot Thoughts \(feat\. Sukihana\)](https://open.spotify.com/track/1ZXo3QiTqtQdZnO1t1oyCJ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:34 | 2024-06-11 |  |
 | [Thumbs](https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:36 | 2024-06-11 |  |
-| [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 | 2024-06-11 | 2026-08-16 |
+| [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 | 2024-06-11 |  |
 | [Time](https://open.spotify.com/track/1fX5QlNmnqd8mqDGpaNihh) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [More Issues Than Vogue](https://open.spotify.com/album/307Vo39bAFM833KEs9Op54) | 4:37 | 2024-06-11 |  |
 | [Time Machine](https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:42 | 2024-06-11 |  |
 | [Time to Move On](https://open.spotify.com/track/62tQqcU5KUIL8ES3T0Udxi) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [American Nights](https://open.spotify.com/album/04spQ6Xvmym46ohPvZlebg) | 3:03 | 2024-06-11 |  |

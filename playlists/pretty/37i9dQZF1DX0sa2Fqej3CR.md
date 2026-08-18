@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 축구 경기 응원가/테마곡과 함께 대한민국의 경기를 응원해보세요!! 🇰🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,302 likes - 81 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,305 likes - 81 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

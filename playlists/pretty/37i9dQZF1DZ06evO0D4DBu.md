@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,780 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,778 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 34 | [Forever Always](https://open.spotify.com/track/1Ioxy6OY4NwwxHFS7XLh8I) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [CATCH](https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi) | 3:35 |
 | 35 | [Lost](https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Acid Rap](https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid) | 3:04 |
 | 36 | [Ride \(feat\. Do or Die\)](https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 2:59 |
-| 37 | [I Might Need Security](https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [I Might Need Security](https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8) | 4:00 |
-| 38 | [Best Life \(feat\. Chance The Rapper\)](https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:44 |
+| 37 | [Best Life \(feat\. Chance The Rapper\)](https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:44 |
+| 38 | [I Might Need Security](https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [I Might Need Security](https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8) | 4:00 |
 | 39 | [Smoke Again](https://open.spotify.com/track/4qHK2BNxlVpgIxxvt26hTI) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Acid Rap](https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid) | 4:32 |
 | 40 | [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:53 |
 | 41 | [3333](https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [3333](https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 49 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 |
 | 50 | [I Love You \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [A Love Letter To You 4 \(Deluxe\)](https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9) | 3:49 |
 
-Snapshot ID: `an+sAAAAAADv/nHMPDTFMESWUs3roD+o`
+Snapshot ID: `aoD9gAAAAAB9+j4rlE776piFlmb1g2k2`

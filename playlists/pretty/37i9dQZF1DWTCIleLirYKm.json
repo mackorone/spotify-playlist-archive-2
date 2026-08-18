@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 225602,
+  "num_followers": 225673,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Tanya Tucker / Super Hits",
-        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Good Godly Woman",
         "url": "https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 147598,
       "name": "Good Godly Woman",
       "url": "https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Tanya Tucker / Super Hits",
+        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Montana Caf\u00e9",
-        "url": "https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf"
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
         }
       ],
-      "duration_ms": 237866,
-      "name": "Country State Of Mind",
-      "url": "https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA"
+      "duration_ms": 374440,
+      "name": "Ghosts Of Mississippi",
+      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
+        "name": "Montana Caf\u00e9",
+        "url": "https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf"
       },
       "artists": [
         {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 374440,
-      "name": "Ghosts Of Mississippi",
-      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
+      "duration_ms": 237866,
+      "name": "Country State Of Mind",
+      "url": "https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 215744,
+      "name": "$10 Cowboy",
+      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
         "name": "Whiskey Bent And Hell Bound",
         "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 232493,
       "name": "The Conversation",
       "url": "https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
-        "name": "$10 Cowboy",
-        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 215744,
-      "name": "$10 Cowboy",
-      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Morning Bail",
-        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
-      },
-      "artists": [
-        {
-          "name": "Gavin Adcock",
-          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
-        }
-      ],
-      "duration_ms": 174758,
-      "name": "Morning Bail",
-      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Roadrunner!",
         "url": "https://open.spotify.com/album/3j10vE1dzWGEyVj5lcQXX0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 199400,
       "name": "You Ain\u2019t Gotta Die (To Be Dead To Me)",
       "url": "https://open.spotify.com/track/2l71DB43YblEWw73yWzeTm"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Morning Bail",
+        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "duration_ms": 174758,
+      "name": "Morning Bail",
+      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
         "name": "They Call Us The Lucky Ones",
         "url": "https://open.spotify.com/album/3DZjgdx3sRIqhPDgz16A7B"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Let the Rain Come Down",
-      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Kristofferson",
         "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
       },
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
       "artists": [
         {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
         }
       ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+      "duration_ms": 199773,
+      "name": "Let the Rain Come Down",
+      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
+        "name": "Them Dirty Roses",
+        "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
       },
       "artists": [
         {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
         }
       ],
-      "duration_ms": 282293,
-      "name": "Straw in the Wind",
-      "url": "https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8"
+      "duration_ms": 240744,
+      "name": "Whiskey in My Cup",
+      "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Them Dirty Roses",
-        "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
       "artists": [
         {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
         }
       ],
-      "duration_ms": 240744,
-      "name": "Whiskey in My Cup",
-      "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
+      "duration_ms": 282293,
+      "name": "Straw in the Wind",
+      "url": "https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "HANDMADE HORSEPOWER",
-        "url": "https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 167002,
-      "name": "MATTER OF TIME",
-      "url": "https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Love And Danger",
         "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 121400,
       "name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
       "url": "https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "HANDMADE HORSEPOWER",
+        "url": "https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "duration_ms": 167002,
+      "name": "MATTER OF TIME",
+      "url": "https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ"
     },
     {
       "added_at": "2026-07-24 04:01:57",

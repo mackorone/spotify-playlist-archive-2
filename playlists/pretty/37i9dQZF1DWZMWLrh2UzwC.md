@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from KATSEYE, Phoebe Bridgers, XPOSE more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,184 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,170 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

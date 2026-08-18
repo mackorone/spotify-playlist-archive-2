@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Hoochie Coochie Man: Complete Chess Masters (Vol. 2: 1952-1958)",
+        "url": "https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159733,
+      "name": "Baby, Please Don't Go - Single Version",
+      "url": "https://open.spotify.com/track/5u3QdyScilG0iThRgGPQ0S"
+    },
+    {
+      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 649586,
       "name": "Next Time You See Me - Live",
       "url": "https://open.spotify.com/track/0vT9FrD9CKuaospFW6kkRv"

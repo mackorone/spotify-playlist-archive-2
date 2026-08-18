@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: كايروكي
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: تووليت
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,926 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,105 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nesena](https://open.spotify.com/track/43D4HrgNzOW3DOf5Skp7wg) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Supernova](https://open.spotify.com/album/6bMRDWTllCiFBjlbVwiKUh) | 3:35 |
-| 2 | [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 |
-| 3 | [Shoft Kalam](https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [Shoft Kalam](https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX) | 3:29 |
-| 4 | [Men Gheir Kalam](https://open.spotify.com/track/55edd3SDyaoCC8pZ9xhwFz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Sadeek El Bernameg](https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn) | 3:36 |
+| 1 | [Men Gheir Kalam](https://open.spotify.com/track/55edd3SDyaoCC8pZ9xhwFz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Sadeek El Bernameg](https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn) | 3:36 |
+| 2 | [Nesena](https://open.spotify.com/track/43D4HrgNzOW3DOf5Skp7wg) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Supernova](https://open.spotify.com/album/6bMRDWTllCiFBjlbVwiKUh) | 3:35 |
+| 3 | [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 |
+| 4 | [Shoft Kalam](https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [Shoft Kalam](https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX) | 3:29 |
 | 5 | [Msh Fare2ly](https://open.spotify.com/track/1ioPKsnpJvlHtqwENYKL3m) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:44 |
 | 6 | [Getlak](https://open.spotify.com/track/2wBWtiIjpbKjIZGHHi00WY) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Habeitek](https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH) | 3:56 |
 | 7 | [Estanna,](https://open.spotify.com/track/1SIUMgwbaOVdSi5CZ4zOc6) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Chokran,](https://open.spotify.com/album/5j43YfTSj3bqyGRcNvw9tB) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Ahla Rasma](https://open.spotify.com/track/4TOTz0WysSu9eI40QT2vZp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ahla Rasma](https://open.spotify.com/album/5CziKAAQ10z1hfzr8VfnBO) | 3:36 |
 | 50 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 |
 
-Snapshot ID: `AAAAADzMlCjsUTHUugpj5iq7YrsDXdcA`
+Snapshot ID: `AAAAAD+khjFa7mmzbMxO8kFhwLSY5vse`

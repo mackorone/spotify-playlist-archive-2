@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec GreenWoodz, Classe Moyenne, GIMS, Kat Pereira, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,187 likes - 94 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,180 likes - 94 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lonesome Cowboy \(feat\. Trudy\)](https://open.spotify.com/track/4dEdCP7SArFidN9tdqeTOr) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Lonesome Cowboy \(feat\. Trudy\)](https://open.spotify.com/album/1L3fyGhW08OhmNBlhKKWtU) | 2:35 |
+| 1 | [Lonesome Cowboy \(feat\. Trudy\)](https://open.spotify.com/track/4dEdCP7SArFidN9tdqeTOr) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Lonesome Cowboy \(feat\. Trudy\)](https://open.spotify.com/album/1L3fyGhW08OhmNBlhKKWtU) | 2:35 |
 | 2 | [je ne crois plus au karma \- version acoustique](https://open.spotify.com/track/05s9xb7s9LwQtrf2jTs8Xe) | [Kat Pereira](https://open.spotify.com/artist/2zRBWsk11oPp7TrEgdwKC8) | [je ne crois plus au karma](https://open.spotify.com/album/306ZDqm7Ai1DThgNVFcFDl) | 3:11 |
 | 3 | [Coachella](https://open.spotify.com/track/5GW0Vh78Qa8aEVHByOCuYn) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Coachella](https://open.spotify.com/album/3EGnqt7FAO1CbifmJx7a1a) | 2:41 |
 | 4 | [CROCHET](https://open.spotify.com/track/7CktqTmEnenokpOgExGgDD) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [CROCHET](https://open.spotify.com/album/16siOXLLEUd3EiH3t41p3I) | 2:16 |

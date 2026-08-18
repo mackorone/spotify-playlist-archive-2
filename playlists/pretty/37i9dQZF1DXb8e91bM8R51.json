@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 53005,
+  "num_followers": 53001,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "In My Lifetime",
-        "url": "https://open.spotify.com/album/7Am0PvxtFWNhK3s1L2iz6C"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "In My Lifetime",
-      "url": "https://open.spotify.com/track/4BgGvnwGSkFVLO2od8FNUX"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -215,22 +199,34 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+        "name": "In My Lifetime",
+        "url": "https://open.spotify.com/album/7Am0PvxtFWNhK3s1L2iz6C"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 127012,
-      "name": "I CAN\u2019T WAIT",
-      "url": "https://open.spotify.com/track/163l4Itf8oDEK7ZYdVm22N"
+      "duration_ms": 267413,
+      "name": "In My Lifetime",
+      "url": "https://open.spotify.com/track/4BgGvnwGSkFVLO2od8FNUX"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 263941,
+      "name": "Funny Papers",
+      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -255,22 +251,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 263941,
-      "name": "Funny Papers",
-      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 127012,
+      "name": "I CAN\u2019T WAIT",
+      "url": "https://open.spotify.com/track/163l4Itf8oDEK7ZYdVm22N"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "The Machinist",
-        "url": "https://open.spotify.com/album/3G66rZa9aZA7x4L3iBTlHs"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "The Machinist",
-      "url": "https://open.spotify.com/track/5tjMNGX2VF3bZ3xYqin3em"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
         "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 227234,
       "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
       "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "The Machinist",
+        "url": "https://open.spotify.com/album/3G66rZa9aZA7x4L3iBTlHs"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "The Machinist",
+      "url": "https://open.spotify.com/track/5tjMNGX2VF3bZ3xYqin3em"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
+        "name": "Stakes Is High",
+        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 330408,
+      "name": "Stakes Is High",
+      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
         "name": "The House Is Burning [homies begged]",
         "url": "https://open.spotify.com/album/33ichA2TzIOdW248hRlqpH"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 180000,
       "name": "RIP Young (feat. Project Pat & Juicy J) - Remix",
       "url": "https://open.spotify.com/track/6GUiCjtZGTvgUKKm1w9mwG"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
-        "name": "Stakes Is High",
-        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 330408,
-      "name": "Stakes Is High",
-      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Walkin (Key Glock remix)",
-        "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 226115,
-      "name": "Walkin - Key Glock remix",
-      "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "DRILLMATIC Heart vs. Mind",
         "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 233093,
       "name": "Eazy (Feat. Kanye West)",
       "url": "https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "Walkin (Key Glock remix)",
+        "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Walkin - Key Glock remix",
+      "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Imaginary Playerz",
-        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 207380,
-      "name": "Imaginary Playerz",
-      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/5H0rjI1TW8F2tORPYMJXHJ"
       },
@@ -1007,22 +991,18 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "We Set The Trends",
-        "url": "https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq"
+        "name": "Imaginary Playerz",
+        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
       },
       "artists": [
         {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 220043,
-      "name": "We Set The Trends",
-      "url": "https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s"
+      "duration_ms": 207380,
+      "name": "Imaginary Playerz",
+      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1039,6 +1019,26 @@
       "duration_ms": 207507,
       "name": "Balut",
       "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "We Set The Trends",
+        "url": "https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 220043,
+      "name": "We Set The Trends",
+      "url": "https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "FEEL SOMETHING",
-        "url": "https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "FEEL SOMETHING",
-      "url": "https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 275162,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "FEEL SOMETHING",
+        "url": "https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "FEEL SOMETHING",
+      "url": "https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 233090,
-      "name": "RUN [Feat. Young Thug] - Single Version",
-      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "Flowers (feat. MAVI)",
         "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 233090,
+      "name": "RUN [Feat. Young Thug] - Single Version",
+      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Butterfly Effect (feat. RJ Payne)",
-        "url": "https://open.spotify.com/album/7Bo1E59d5xhFdkrwJGUTZ1"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "RJ Payne",
-          "url": "https://open.spotify.com/artist/4GmSZif3utShxikscpSqjy"
-        }
-      ],
-      "duration_ms": 178157,
-      "name": "Butterfly Effect (feat. RJ Payne)",
-      "url": "https://open.spotify.com/track/7vAd8g2Tkwkj7p88S9ksT9"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "Flatline (feat. Kenny Mason)",
         "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 240080,
       "name": "Flatline (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "Butterfly Effect (feat. RJ Payne)",
+        "url": "https://open.spotify.com/album/7Bo1E59d5xhFdkrwJGUTZ1"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "RJ Payne",
+          "url": "https://open.spotify.com/artist/4GmSZif3utShxikscpSqjy"
+        }
+      ],
+      "duration_ms": 178157,
+      "name": "Butterfly Effect (feat. RJ Payne)",
+      "url": "https://open.spotify.com/track/7vAd8g2Tkwkj7p88S9ksT9"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 222497,
-      "name": "Father Time (feat. Sampha)",
-      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "College Park",
         "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 315102,
       "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
       "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
     },
     {
       "added_at": "2026-08-03 21:14:45",

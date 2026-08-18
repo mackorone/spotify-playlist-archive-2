@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Icona Pop",
-  "num_followers": 441175,
+  "num_followers": 441350,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAARK68JuaS4Ht0aWRrNVk2gmcM3d",
+  "snapshot_id": "AAAAAA6ciRJhMNZCJPP6/jnGRI29KW4h",
   "tracks": [
     {
       "added_at": "2026-08-14 04:02:27",
@@ -249,6 +249,22 @@
       "url": "https://open.spotify.com/track/3YCPMgglyGmlBAgIHE8KJw"
     },
     {
+      "added_at": "2026-08-17 21:55:32",
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/7EPiK4GsTGSxPnQnxptvln"
+      },
+      "artists": [
+        {
+          "name": "Pixie Lane",
+          "url": "https://open.spotify.com/artist/3Br6ncRU4z030LyHPpfflF"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/3HVWaByq4vURdqW7whTbEf"
+    },
+    {
       "added_at": "2026-08-14 04:02:27",
       "album": {
         "name": "Push it (cardiac)",
@@ -423,22 +439,6 @@
       "duration_ms": 133840,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/7MKIb9fIg1P7iPBqN0Qqdd"
-    },
-    {
-      "added_at": "2026-08-07 05:24:32",
-      "album": {
-        "name": "The Girl",
-        "url": "https://open.spotify.com/album/6peKOe2jNmiqvLarnjQmhy"
-      },
-      "artists": [
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/1oYs6zcjeVnOAd9x2Jpbc7"
-        }
-      ],
-      "duration_ms": 140409,
-      "name": "The Girl",
-      "url": "https://open.spotify.com/track/7c4Y1rjZZTAqCsETNQ7b8X"
     },
     {
       "added_at": "2026-08-03 19:40:09",

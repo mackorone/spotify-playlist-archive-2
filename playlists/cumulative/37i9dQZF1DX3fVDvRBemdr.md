@@ -2,7 +2,7 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste Hollands & Volkspop releases\. Cover: Mart Hoogkamer
+> De nieuwste Hollands & Volkspop met o.a\. Mart Hoogkamer\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
 765 songs - 1 day 12 hr 37 min
 

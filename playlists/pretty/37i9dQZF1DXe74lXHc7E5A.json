@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Drake",
-  "num_followers": 45707,
+  "num_followers": 45727,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 187368,
       "name": "NO SLEEP $$$ (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
     },
     {
       "added_at": "2026-07-24 00:01:45",
@@ -447,42 +447,6 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
-        "name": "REVIVAL",
-        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 240301,
-      "name": "No Level",
-      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
-        "name": "BEASTMODE VOL1",
-        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "I DONT CARE",
-      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
         "name": "Tequila Ever After",
         "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
@@ -503,18 +467,58 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
-        "name": "BARA BARA",
-        "url": "https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV"
+        "name": "BEASTMODE VOL1",
+        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
       },
       "artists": [
         {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
         }
       ],
-      "duration_ms": 215040,
-      "name": "BARA BARA",
-      "url": "https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r"
+      "duration_ms": 178866,
+      "name": "I DONT CARE",
+      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 240301,
+      "name": "No Level",
+      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
+        "name": "Yeye Talk",
+        "url": "https://open.spotify.com/album/0FaWSXVGY8ZDsJgHyyk6Ug"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        },
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "Yeye Talk",
+      "url": "https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE"
     },
     {
       "added_at": "2026-07-24 00:01:45",
@@ -539,22 +543,18 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
-        "name": "Yeye Talk",
-        "url": "https://open.spotify.com/album/0FaWSXVGY8ZDsJgHyyk6Ug"
+        "name": "BARA BARA",
+        "url": "https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV"
       },
       "artists": [
         {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        },
-        {
-          "name": "Thisizlondon",
-          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
         }
       ],
-      "duration_ms": 125217,
-      "name": "Yeye Talk",
-      "url": "https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE"
+      "duration_ms": 215040,
+      "name": "BARA BARA",
+      "url": "https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r"
     },
     {
       "added_at": "2026-07-24 00:01:45",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 328085,
+      "name": "Fela In Versace",
+      "url": "https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
         "name": "Do I (Remix)",
         "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 138069,
       "name": "Do I - Remix",
       "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 328085,
-      "name": "Fela In Versace",
-      "url": "https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3"
     },
     {
       "added_at": "2026-07-24 00:01:45",
@@ -835,66 +835,6 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/4rrc4bpJQTBYksOfoq7jaD"
-      },
-      "artists": [
-        {
-          "name": "Bkay EastGaad",
-          "url": "https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 149454,
-      "name": "100",
-      "url": "https://open.spotify.com/track/7LASjI4SnF704ycOSLMRIg"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
-        "name": "No Excuses Deluxe",
-        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "FINE SHYT (feat. Tml Vibez)",
-      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "US",
-      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
         "name": "PICANTO",
         "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
@@ -919,6 +859,66 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
+        "name": "US",
+        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
+        "name": "No Excuses Deluxe",
+        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "FINE SHYT (feat. Tml Vibez)",
+      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/4rrc4bpJQTBYksOfoq7jaD"
+      },
+      "artists": [
+        {
+          "name": "Bkay EastGaad",
+          "url": "https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 149454,
+      "name": "100",
+      "url": "https://open.spotify.com/track/7LASjI4SnF704ycOSLMRIg"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
         "name": "Afrikan Alien",
         "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 181600,
       "name": "Big Smile (Pose For Me) [feat. ODUMODUBLVCK]",
       "url": "https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2026-07-24 00:01:45",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
         "name": "Out the Mud",
         "url": "https://open.spotify.com/album/6Gj0e4m1LwALsd3iI8vI1q"
       },
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 175935,
-      "name": "No Sign of Weakness",
-      "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
         "name": "Hello Habibi",
         "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
       },
@@ -1119,6 +1087,22 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 175935,
+      "name": "No Sign of Weakness",
+      "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
         "name": "Lemons (Lemonade)",
         "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
     },
     {
       "added_at": "2026-07-24 00:01:45",

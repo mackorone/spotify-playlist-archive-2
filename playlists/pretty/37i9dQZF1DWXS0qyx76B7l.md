@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > The greatest city on earth!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,598 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,630 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 31 | [Jenny from the Block \(feat\. Jadakiss & Styles P.\) \- Track Masters Remix](https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [This Is Me...Then](https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2) | 3:07 |
 | 32 | [Midnight in Harlem](https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Revelator](https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7) | 5:53 |
 | 33 | [Children's Story](https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 4:02 |
-| 34 | [girl in new york](https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [girl in new york](https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5) | 3:31 |
-| 35 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
+| 34 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
+| 35 | [girl in new york](https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [girl in new york](https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5) | 3:31 |
 | 36 | [New York Groove](https://open.spotify.com/track/1BvpeiApX8qhof8Pmi3YlH) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [Kiss: Ace Frehley](https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg) | 3:03 |
 | 37 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 |
 | 38 | [New York City Boy \- 2017 Remaster](https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nightlife: Further Listening 1996 \- 2000 \(2017 Remaster\)](https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek) | 5:15 |
 | 39 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:11 |
 | 40 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
 | 41 | [Autumn In New York](https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 3:44 |
-| 42 | [I Love New York](https://open.spotify.com/track/44WTY1d9M86PEAgPZNeHHe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:35 |
-| 43 | [Angel Of Harlem](https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 3:49 |
+| 42 | [Angel Of Harlem](https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 3:49 |
+| 43 | [I Love New York](https://open.spotify.com/track/44WTY1d9M86PEAgPZNeHHe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:35 |
 | 44 | [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:54 |
 | 45 | [Brooklyn In The Summer](https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Brooklyn In The Summer](https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L) | 3:28 |
 | 46 | [Chelsea Hotel \#2](https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [New Skin For The Old Ceremony](https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL) | 3:08 |

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158202,
+  "num_followers": 158193,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,26 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
+        "name": "Tom Cinza",
+        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Tom Cinza",
+      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
         "name": "A Casa \u00c9 Tua",
         "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 198667,
       "name": "A Casa \u00c9 Tua",
       "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "Tom Cinza",
-        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
-      },
-      "artists": [
-        {
-          "name": "Cr\u00f4nicas de um Babaca",
-          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Tom Cinza",
-      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "De Longe. (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
-      },
-      "artists": [
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 206549,
-      "name": "De Longe. - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "Ver o Mar",
         "url": "https://open.spotify.com/album/1kNv2xQt9IUQAYYxUyPETs"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 187274,
       "name": "Ver o Mar",
       "url": "https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "De Longe. (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 206549,
+      "name": "De Longe. - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "QUENTE",
-        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
-      },
-      "artists": [
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        }
-      ],
-      "duration_ms": 123128,
-      "name": "QUENTE",
-      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "replay",
         "url": "https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4"
       },
@@ -727,6 +711,42 @@
       "duration_ms": 151360,
       "name": "replay",
       "url": "https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Tanta Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR"
+      },
+      "artists": [
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 195295,
+      "name": "Tanta Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        }
+      ],
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -831,22 +851,22 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Garotas s\u00e3o Confusas (Deluxe)",
-        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
+        "name": "Tira, Coloca De Volta",
+        "url": "https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE"
       },
       "artists": [
         {
-          "name": "Chase",
-          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
         },
         {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "LKAHH",
+          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
         }
       ],
-      "duration_ms": 139780,
-      "name": "A Festa",
-      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
+      "duration_ms": 144117,
+      "name": "Tira, Coloca De Volta",
+      "url": "https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -875,22 +895,22 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Tira, Coloca De Volta",
-        "url": "https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE"
+        "name": "Garotas s\u00e3o Confusas (Deluxe)",
+        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
       },
       "artists": [
         {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
         },
         {
-          "name": "LKAHH",
-          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
         }
       ],
-      "duration_ms": 144117,
-      "name": "Tira, Coloca De Volta",
-      "url": "https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV"
+      "duration_ms": 139780,
+      "name": "A Festa",
+      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -919,6 +939,22 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
         "name": "AIRBNB",
         "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
       },
@@ -935,22 +971,6 @@
       "duration_ms": 146000,
       "name": "AIRBNB",
       "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1231,22 +1251,26 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Jam #2",
-        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
+        "name": "ALAKASAM",
+        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
       },
       "artists": [
         {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
         },
         {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         }
       ],
-      "duration_ms": 214509,
-      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
-      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
+      "duration_ms": 212400,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1271,26 +1295,42 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "ALAKASAM",
-        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
+        "name": "Jam #2",
+        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
       },
       "artists": [
         {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         },
         {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+      "duration_ms": 214509,
+      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
+      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Passa a Bola (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 188319,
+      "name": "Passa a Bola (Ao Vivo em Noronha)",
+      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1319,50 +1359,6 @@
       "duration_ms": 281142,
       "name": "Bate A Onda",
       "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "Passa a Bola (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 188319,
-      "name": "Passa a Bola (Ao Vivo em Noronha)",
-      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     }
   ],
   "unique_name": "Resenha na Praia",

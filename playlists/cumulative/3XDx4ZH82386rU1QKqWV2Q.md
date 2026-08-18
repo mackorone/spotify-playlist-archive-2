@@ -4,7 +4,7 @@
 
 > powered by www.releasejet.ai most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-842 songs - 1 day 13 hr 37 min
+845 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [La Espada](https://open.spotify.com/track/6w969Gr8VhF02vaHs67oo9) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [La Espada](https://open.spotify.com/album/4p60CDGIu3z1Bim1nrtu5R) | 2:57 | 2023-06-12 |  |
 | [Last Ashes](https://open.spotify.com/track/1p0qvVGpA1FZcDK7oKW1KN) | [iagö](https://open.spotify.com/artist/3cgtP27EVZBllD125oC4c1) | [Last Ashes](https://open.spotify.com/album/2GhrwbWGKfoGZR6JhUVlMN) | 4:43 | 2024-01-13 | 2024-03-26 |
 | [Last Glitch Effort](https://open.spotify.com/track/3aZrnyRK9nbP6sii23M7EN) | [Lincoln 6 Echo](https://open.spotify.com/artist/6F225Xirzc3yZPPj7HkOVx) | [Last Glitch Effort](https://open.spotify.com/album/5rY4wHMjlArFM48s0sv0f6) | 3:48 | 2024-07-02 | 2024-09-28 |
+| [Last Signal](https://open.spotify.com/track/4rt41cGkFfslBmqTxneiYW) | [XIVILISATION](https://open.spotify.com/artist/4dqc4asH2WR6ItCplkO2eK) | [Last Signal](https://open.spotify.com/album/2sPMBQCHyaPDi7BAIz3qmv) | 2:14 | 2026-08-17 |  |
 | [Leave It](https://open.spotify.com/track/0kkYUKAgk71Clld1RAqAqo) | [808 APE](https://open.spotify.com/artist/14MHW4dzHKEsSGhywJNHJC) | [Leave It](https://open.spotify.com/album/5YdN0LrW5Dlc8qZdGNv9jV) | 3:01 | 2025-09-25 | 2026-02-19 |
 | [LED Poisoning](https://open.spotify.com/track/4WmCTMxkCHZYXpIiqds8pj) | [James Dece](https://open.spotify.com/artist/5gjFmHkcGaw4xa0n5MH13y) | [LED Poisoning](https://open.spotify.com/album/17k7YvT4HE7Ed3vzCSqY3l) | 3:32 | 2023-12-08 | 2024-02-01 |
 | [Left With Yesterday](https://open.spotify.com/track/6RRaMDs7QA4wuKgO8tlPP1) | [Don Sombra](https://open.spotify.com/artist/2m8fSVToIn9XTxSDS1JZvL) | [Left With Yesterday](https://open.spotify.com/album/2RCR9MSrm5iYv2WNhkWfbd) | 5:54 | 2026-07-10 |  |
@@ -731,6 +732,7 @@
 | [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 | 2023-06-12 | 2023-09-26 |
 | [switch](https://open.spotify.com/track/7EnBPvRlX6gHUGOejwu9vN) | [月月](https://open.spotify.com/artist/1pnCkB1hBxhnyVdyZ1FjuZ) | [switch](https://open.spotify.com/album/22xgZq4eUWoiXExKxFnJFc) | 2:00 | 2024-07-11 | 2024-09-28 |
 | [SWORDS DANCE](https://open.spotify.com/track/5aQulIg4tvbQTRQDZSShDg) | [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [SWORDS DANCE](https://open.spotify.com/album/4jDFu5xgFwkbjh1JdufhHz) | 2:20 | 2023-06-12 | 2023-07-11 |
+| [Synchronise](https://open.spotify.com/track/7D249reAzhquv1304u0fyN) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [PART III \- AWAKENING](https://open.spotify.com/album/2AFcx4PkJV4GVlAUObRuBQ) | 2:57 | 2026-08-17 |  |
 | [SømeØne Like, Damm](https://open.spotify.com/track/2XxKsDRItFCmhaKlpjlTmO) | [HAłłØWMANE](https://open.spotify.com/artist/1PHuqtGb7RbEJLOOdMjInP) | [SømeØne Like, Damm](https://open.spotify.com/album/0ebyNCGkh5NNKhwp49nkbK) | 3:54 | 2023-06-25 | 2023-07-29 |
 | [Taka Taka](https://open.spotify.com/track/7JDMF8H8u8CKQL7OkrN9Em) | [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI), [phonyk](https://open.spotify.com/artist/1F8pvYDKWuWDVVXCaGIC60) | [Taka Taka](https://open.spotify.com/album/3cQsHPLmv6zm4mFYg6d2q6) | 2:04 | 2023-12-08 | 2023-12-17 |
 | [Take It Up a Level](https://open.spotify.com/track/5nfaWREk1t8BKgLO6OVmq3) | [Lucid Vision](https://open.spotify.com/artist/6uNAdHmiicxjoDHSGmaL3u), [Know Self](https://open.spotify.com/artist/6dRfu0anuU9xTPClWedHRW) | [Take It Up a Level](https://open.spotify.com/album/2eAl4tMs1AaNBiNgKeKQD6) | 3:46 | 2023-12-16 | 2024-01-29 |
@@ -802,6 +804,7 @@
 | [Valiant Knight](https://open.spotify.com/track/68m3oQr33jFQQSzTlf5Qhl) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Valiant Knight](https://open.spotify.com/album/0DCfvCLlQ8Qq62j407XfLQ) | 2:05 | 2023-07-19 | 2023-08-20 |
 | [VAMP1R3 QUEEN](https://open.spotify.com/track/2e7kJNQtEV4qYMrNaRDNOP) | [Cruc1fy](https://open.spotify.com/artist/4vwzlrh7OHEFxBxedgWmWI) | [VAMP1R3 QUEEN](https://open.spotify.com/album/1Xe9x0TxOvxmzLBHElZYVf) | 2:12 | 2024-10-07 | 2025-01-14 |
 | [VANQUISH](https://open.spotify.com/track/659X42ZD5hP6w2IlAPZpmH) | [HAIKU](https://open.spotify.com/artist/25c4vcdOlW45YrXxTCBipR), [SAGE](https://open.spotify.com/artist/5Hrr2Bao1LAeHZ5n5kARe4) | [VANQUISH](https://open.spotify.com/album/7uBTvcZiIETXEctgPAccEH) | 3:21 | 2025-11-02 | 2025-12-13 |
+| [VEM NA LUA](https://open.spotify.com/track/12KNDWEyY94P6IyjCb7gyC) | [Corb Schemitz](https://open.spotify.com/artist/2RQo59fKgJAsPJusGYzo4D) | [VEM NA LUA](https://open.spotify.com/album/0cVFMVH5yMkwgqDu0PX6FV) | 1:11 | 2026-08-17 |  |
 | [vendetta II](https://open.spotify.com/track/40B8062uIqH58ZevWSBXQg) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta II](https://open.spotify.com/album/2EvnU7YHD02a3HguaxGi2S) | 1:38 | 2024-05-17 | 2024-07-12 |
 | [Ventricle](https://open.spotify.com/track/2BVWzdXDlOfh85Qsw2IXMQ) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Pay Attention to Me](https://open.spotify.com/album/2JpkP5mLRbWr19HwaYKfqj) | 3:34 | 2026-07-10 |  |
 | [VETEMENTS](https://open.spotify.com/track/3IqoexNro9681MK95oG8mq) | [Fijimacintosh](https://open.spotify.com/artist/5NaFXQQX19INaDDdIZ02sp) | [VETEMENTS](https://open.spotify.com/album/3RzoYUYVjKMwtGme0QaUoz) | 3:40 | 2023-06-12 | 2023-06-19 |

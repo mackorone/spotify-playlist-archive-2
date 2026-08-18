@@ -1199,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Feessie",
+        "url": "https://open.spotify.com/album/4dtiKzti1SpG8AIrkNa2KZ"
+      },
+      "artists": [
+        {
+          "name": "Fons Veurink",
+          "url": "https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188726,
+      "name": "Feessie",
+      "url": "https://open.spotify.com/track/3ZfJ4YkM03y1KLK5pfqz8o"
+    },
+    {
+      "album": {
         "name": "Fikkie",
         "url": "https://open.spotify.com/album/1b143sQ0p9yvz31lZe0KwZ"
       },

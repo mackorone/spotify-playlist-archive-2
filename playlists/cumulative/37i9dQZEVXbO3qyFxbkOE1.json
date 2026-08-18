@@ -7608,7 +7608,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 185326,
       "name": "dopamina",
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
@@ -19495,6 +19495,24 @@
     },
     {
       "album": {
+        "name": "14 Exitos Historia Musical",
+        "url": "https://open.spotify.com/album/6cl0k9zRt5SyAIy1OKYjvp"
+      },
+      "artists": [
+        {
+          "name": "El Cartel De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241360,
+      "name": "Pajarillo",
+      "url": "https://open.spotify.com/track/5Wl63Bz4pPacZwAOIIy61w"
+    },
+    {
+      "album": {
         "name": "Gu\u00e1rdame Esta Noche",
         "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
       },
@@ -21864,10 +21882,32 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 211400,
       "name": "Que Nadie Sepa",
       "url": "https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy"
+    },
+    {
+      "album": {
+        "name": "Que Nadie Sepa",
+        "url": "https://open.spotify.com/album/0A41nuyPGBclpSJX0grBET"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        },
+        {
+          "name": "Los Carnales de Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5FLo9xEfOrh42VWpFIhphx"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208164,
+      "name": "Que Nadie Sepa",
+      "url": "https://open.spotify.com/track/6MNGKzuASaYpdEuyV6ha1V"
     },
     {
       "album": {

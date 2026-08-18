@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,682 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,680 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 20 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
 | 21 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 |
 | 22 | [Boom Boom Room](https://open.spotify.com/track/3aBL75wBGHJnskegE9jyhb) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:47 |
-| 23 | [Marcy Me](https://open.spotify.com/track/5oynsOy80DnodTslgaj3cr) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 2:54 |
-| 24 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
+| 23 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
+| 24 | [Marcy Me](https://open.spotify.com/track/5oynsOy80DnodTslgaj3cr) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 2:54 |
 | 25 | [Strange Fruit](https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 3:28 |
 | 26 | [Wetin Man Go Do](https://open.spotify.com/track/2xXRKDCqZYmbbwwIUerigW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 | 27 | [Movie Knights](https://open.spotify.com/track/5E03l2EB3TAf2xIX7QK5Cc) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:57 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 31 | [Balaya](https://open.spotify.com/track/69D5540LOMCTuTCtV14xn9) | [A\-Star](https://open.spotify.com/artist/1fPa3fXJDNiSCfF9U8uvaT) | [Balaya](https://open.spotify.com/album/4Gv8wCJJRqf0HvRRkQWa9c) | 2:38 |
 | 32 | [Neighbors](https://open.spotify.com/track/4eSn3WcTUYdM5dYnSf7v8K) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3MNP6yEmCAFruLe7pAGKCu) | 3:36 |
 | 33 | [Stay](https://open.spotify.com/track/3xY4TcsCUR8q0J1NgL8QK3) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:45 |
-| 34 | [Love Me Nina / Semiautomatic](https://open.spotify.com/track/6kzkaR1UEKP0XjlK4jFgC7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 4:16 |
-| 35 | [Green Eyes](https://open.spotify.com/track/56B0uGixLoAvJCBj25wBfG) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Love And Liberation](https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR) | 5:19 |
+| 34 | [Green Eyes](https://open.spotify.com/track/56B0uGixLoAvJCBj25wBfG) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Love And Liberation](https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR) | 5:19 |
+| 35 | [Love Me Nina / Semiautomatic](https://open.spotify.com/track/6kzkaR1UEKP0XjlK4jFgC7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 4:16 |
 | 36 | [Goat Level](https://open.spotify.com/track/7eNr4C0NWjNdA8K31s7QAc) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Revenge Is Sweet](https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe) | 4:28 |
 | 37 | [Cold \(feat\. Kaash Paige\)](https://open.spotify.com/track/4KiGhqUwjvrJqVbiwsMwkV) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 4:37 |
 | 38 | [You Raised Me](https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Walk in Da Park](https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v) | 2:50 |

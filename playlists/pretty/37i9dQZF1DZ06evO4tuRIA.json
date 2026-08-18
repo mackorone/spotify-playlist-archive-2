@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 106788,
+  "num_followers": 106807,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAzNc05xjeXFJtVVOMUu9y0",
+  "snapshot_id": "aoD9gAAAAABY/llTH4HJT9BvnmXBidu7",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 207184,
-      "name": "Soy la Suerte",
-      "url": "https://open.spotify.com/track/5XhEmjrN0XylAfyXpSIoTA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEGENDARIO",
         "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 140104,
       "name": "GUERRERO",
       "url": "https://open.spotify.com/track/4G6KB0z16YYcIloutnbnyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 207184,
+      "name": "Soy la Suerte",
+      "url": "https://open.spotify.com/track/5XhEmjrN0XylAfyXpSIoTA"
     },
     {
       "added_at": null,
@@ -774,15 +774,11 @@
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
         }
       ],
-      "duration_ms": 138500,
-      "name": "LOS MIOS",
-      "url": "https://open.spotify.com/track/7yVDlQ0vxFMXteqs2m0aQe"
+      "duration_ms": 119000,
+      "name": "WACHA",
+      "url": "https://open.spotify.com/track/4Pi7Vixpb3L3AVQScwp6uH"
     },
     {
       "added_at": null,
@@ -839,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Magic, Vol.1",
-        "url": "https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 191843,
-      "name": "Pateando Latas",
-      "url": "https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El 7 De Fontana",
         "url": "https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe"
       },
@@ -879,6 +855,26 @@
       "duration_ms": 147506,
       "name": "El 7 De Fontana",
       "url": "https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Magic, Vol.1",
+        "url": "https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 191843,
+      "name": "Pateando Latas",
+      "url": "https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv"
     },
     {
       "added_at": null,

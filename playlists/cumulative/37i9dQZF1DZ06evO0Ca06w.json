@@ -168,7 +168,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 289200,
       "name": "Aluta Continua",
       "url": "https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b"
@@ -688,6 +688,28 @@
       "duration_ms": 139640,
       "name": "Erev Shel Shoshanim",
       "url": "https://open.spotify.com/track/5bHF4aLdksOMoNzB5micYf"
+    },
+    {
+      "album": {
+        "name": "all will be well",
+        "url": "https://open.spotify.com/album/6g3ZSaL6bPdbDzSXLJv8me"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350915,
+      "name": "first bagel of the night",
+      "url": "https://open.spotify.com/track/2ppGEp1b0Hnj6sH51J0Tjq"
     },
     {
       "album": {

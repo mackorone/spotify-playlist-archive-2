@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,087 likes - 37 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,092 likes - 37 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 25 | [loading](https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:06 |
 | 26 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 |
 | 27 | [margiela](https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [margiela](https://open.spotify.com/album/6lCILy46F44uFdrHCunZss) | 2:18 |
-| 28 | [Swag Overload](https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:32 |
-| 29 | [VETERAN \(feat\. Ken Carson\)](https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [NO STYLIST](https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2) | 2:56 |
+| 28 | [VETERAN \(feat\. Ken Carson\)](https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [NO STYLIST](https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2) | 2:56 |
+| 29 | [Swag Overload](https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:32 |
 | 30 | [Lord Of Chaos](https://open.spotify.com/track/2Tif3Rjua8qfTCUFP6lFrV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:01 |
 | 31 | [money & sex](https://open.spotify.com/track/2cQxzcGw5eUJtqIdYuRoLq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 4:32 |
 | 32 | [Teen Bean](https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen Bean](https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB) | 1:59 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 36 | [Murda Musik \(feat\. Destroy Lonely\)](https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:56 |
 | 37 | [LiveLeak](https://open.spotify.com/track/7aURTqVzpZxkJfboCvGc69) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:10 |
 
-Snapshot ID: `an+sAAAAAADUrs5TXueUPZu9NxRZOcpg`
+Snapshot ID: `aoD9gAAAAAB3Tdz6M1C7iOQToIji9HBx`

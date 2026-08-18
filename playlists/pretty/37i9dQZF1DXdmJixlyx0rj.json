@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Winter Back)",
-  "num_followers": 37942,
+  "num_followers": 37948,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        }
-      ],
-      "duration_ms": 141793,
-      "name": "Stars + Yves",
-      "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "Seven (Weekend Ver.)",
         "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 180520,
       "name": "Seven (feat. Latto) (Festival Mix)",
       "url": "https://open.spotify.com/track/79DU9AWxpMpKsGS5yps6sp"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "duration_ms": 141793,
+      "name": "Stars + Yves",
+      "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -383,62 +383,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "My Universe (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 199135,
-      "name": "My Universe - David Guetta Remix",
-      "url": "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "Find The Way",
-        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Find The Way",
-      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "SAINT",
-        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "LIMBO",
-      "url": "https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "3D (feat. Jack Harlow) (MK Remix)",
         "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
       },
@@ -463,6 +407,62 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "Find The Way",
+        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Find The Way",
+      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "My Universe (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 199135,
+      "name": "My Universe - David Guetta Remix",
+      "url": "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "White cat",
         "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 202000,
       "name": "White cat",
       "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "Standing Next to You (The Remixes)",
+        "url": "https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Standing Next to You (Future Funk Remix)",
+      "url": "https://open.spotify.com/track/0nCAwowgJ2bV2g5EOE67Yi"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -531,22 +547,6 @@
       "duration_ms": 179426,
       "name": "SAINT",
       "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "Standing Next to You (The Remixes)",
-        "url": "https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Standing Next to You (Future Funk Remix)",
-      "url": "https://open.spotify.com/track/0nCAwowgJ2bV2g5EOE67Yi"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "INSA",
-        "url": "https://open.spotify.com/album/6OXsPmbBUVrlVFr6QJGVLK"
-      },
-      "artists": [
-        {
-          "name": "LIM KIM",
-          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
-        },
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "INSA",
-      "url": "https://open.spotify.com/track/5GxNvIDQiYLzGVtjz85OUj"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -711,22 +691,6 @@
       "duration_ms": 208780,
       "name": "SCIENTIST (R3HAB Remix)",
       "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "YES",
-        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
-      },
-      "artists": [
-        {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        }
-      ],
-      "duration_ms": 178230,
-      "name": "YES",
-      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -751,6 +715,22 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "duration_ms": 178230,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "Eu li EP",
         "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "INSA",
+        "url": "https://open.spotify.com/album/6OXsPmbBUVrlVFr6QJGVLK"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "INSA",
+      "url": "https://open.spotify.com/track/5GxNvIDQiYLzGVtjz85OUj"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "MONA LISA (Remix so fine)",
         "url": "https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp"
       },
@@ -783,42 +783,6 @@
       "duration_ms": 185142,
       "name": "MONA LISA (Afro House Remix)",
       "url": "https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "Falling In Love (feat. Natalie Major)",
-        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        },
-        {
-          "name": "Natalie Major",
-          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
-        }
-      ],
-      "duration_ms": 214758,
-      "name": "Falling In Love (feat. Natalie Major)",
-      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -863,6 +827,42 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "Falling In Love (feat. Natalie Major)",
+        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        },
+        {
+          "name": "Natalie Major",
+          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
+        }
+      ],
+      "duration_ms": 214758,
+      "name": "Falling In Love (feat. Natalie Major)",
+      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "Mirror ball (feat. Moon Sujin)",
         "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
       },
@@ -879,42 +879,6 @@
       "duration_ms": 193493,
       "name": "Mirror ball (feat. Moon Sujin)",
       "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "Love Eternally (feat. JUNNY)",
-        "url": "https://open.spotify.com/album/3GyXdxYwhVyzlMfUlDBczH"
-      },
-      "artists": [
-        {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/4tux3ya8LhUBgGoXfXsocl"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Love Eternally (feat. JUNNY)",
-      "url": "https://open.spotify.com/track/20YNEkOUj8r3jHscotaGpe"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -963,18 +927,38 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "caffeine withdrawal",
-        "url": "https://open.spotify.com/album/0nJlGYaDlHYfbdRx9NTFe0"
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
       },
       "artists": [
         {
-          "name": "boksed",
-          "url": "https://open.spotify.com/artist/0XKg116o1q0I9pMa3SqpZZ"
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
         }
       ],
-      "duration_ms": 165169,
-      "name": "caffeine withdrawal",
-      "url": "https://open.spotify.com/track/3xSFpa7tcAXZv1oGPZ0ZsO"
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "Love Eternally (feat. JUNNY)",
+        "url": "https://open.spotify.com/album/3GyXdxYwhVyzlMfUlDBczH"
+      },
+      "artists": [
+        {
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/4tux3ya8LhUBgGoXfXsocl"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Love Eternally (feat. JUNNY)",
+      "url": "https://open.spotify.com/track/20YNEkOUj8r3jHscotaGpe"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -991,6 +975,22 @@
       "duration_ms": 213852,
       "name": "Tangerine Fade",
       "url": "https://open.spotify.com/track/4kkwW5Zx780EgDKf4vMSYv"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "caffeine withdrawal",
+        "url": "https://open.spotify.com/album/0nJlGYaDlHYfbdRx9NTFe0"
+      },
+      "artists": [
+        {
+          "name": "boksed",
+          "url": "https://open.spotify.com/artist/0XKg116o1q0I9pMa3SqpZZ"
+        }
+      ],
+      "duration_ms": 165169,
+      "name": "caffeine withdrawal",
+      "url": "https://open.spotify.com/track/3xSFpa7tcAXZv1oGPZ0ZsO"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "Mushroom House",
+        "url": "https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG"
+      },
+      "artists": [
+        {
+          "name": "Tomatomat",
+          "url": "https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mushroom House",
+      "url": "https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 (Effie & Eurohead Remix)",
         "url": "https://open.spotify.com/album/0aYO5sUYrc65edOubY9saN"
       },
@@ -1059,18 +1075,42 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "Mushroom House",
-        "url": "https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG"
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
       },
       "artists": [
         {
-          "name": "Tomatomat",
-          "url": "https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Mushroom House",
-      "url": "https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI"
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
+        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
+      },
+      "artists": [
+        {
+          "name": "KINO",
+          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "UWA",
+          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "DIRTY BOY (feat. JAMIE & UWA)",
+      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1087,22 +1127,6 @@
       "duration_ms": 152079,
       "name": "everybody dies",
       "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1131,30 +1155,6 @@
       "duration_ms": 212352,
       "name": "My Bad (feat. Julie Bergan) - KSHMR Edit",
       "url": "https://open.spotify.com/track/7rM4FWiY8PqU2TxdXX6BXh"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
-        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
-      },
-      "artists": [
-        {
-          "name": "KINO",
-          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        },
-        {
-          "name": "UWA",
-          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "DIRTY BOY (feat. JAMIE & UWA)",
-      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "I,God",
-        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
-      },
-      "artists": [
-        {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Extancy (Wumuti&Rui)",
-      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "iScreaM Vol.10 : Next Level Remixes",
         "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 225789,
       "name": "Next Level - IMLAY Remix",
       "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "I,God",
+        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Extancy (Wumuti&Rui)",
+      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1307,6 +1307,58 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "like JENNIE (Peggy Gou Remix)",
+        "url": "https://open.spotify.com/album/4AqYxQUuZk29apyPYt9aA8"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "like JENNIE (Peggy Gou Remix)",
+      "url": "https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "duration_ms": 255628,
+      "name": "Energetic (Prequel Remix)",
+      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "Always with You",
+        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
+      },
+      "artists": [
+        {
+          "name": "Aseul",
+          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
+        }
+      ],
+      "duration_ms": 239931,
+      "name": "Always with You",
+      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "ScreaM Rookies : The Chase (Remixes)",
         "url": "https://open.spotify.com/album/1KI3YacgsB9kdxCrfttqhq"
       },
@@ -1331,74 +1383,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "allez, pousse!",
-        "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 190151,
-      "name": "allez, pousse!",
-      "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "like JENNIE (Peggy Gou Remix)",
-        "url": "https://open.spotify.com/album/4AqYxQUuZk29apyPYt9aA8"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "like JENNIE (Peggy Gou Remix)",
-      "url": "https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "Green and Pink",
-        "url": "https://open.spotify.com/album/4zqNeC6wVMrKWg5sPhd7Uu"
-      },
-      "artists": [
-        {
-          "name": "Kim Doeon",
-          "url": "https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg"
-        }
-      ],
-      "duration_ms": 257472,
-      "name": "Green and Pink",
-      "url": "https://open.spotify.com/track/1UzTZQXNsoi6EeQmszDqiJ"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "Always with You",
-        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
-      },
-      "artists": [
-        {
-          "name": "Aseul",
-          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
-        }
-      ],
-      "duration_ms": 239931,
-      "name": "Always with You",
-      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "eigensinn",
         "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+        "name": "allez, pousse!",
+        "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
       },
       "artists": [
         {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
         }
       ],
-      "duration_ms": 255628,
-      "name": "Energetic (Prequel Remix)",
-      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
+      "duration_ms": 190151,
+      "name": "allez, pousse!",
+      "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1491,22 +1475,18 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "wo ai ni / break it even",
-        "url": "https://open.spotify.com/album/2GMtWkMoiQifiJB7qDW4XY"
+        "name": "Green and Pink",
+        "url": "https://open.spotify.com/album/4zqNeC6wVMrKWg5sPhd7Uu"
       },
       "artists": [
         {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "Kim Doeon",
+          "url": "https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg"
         }
       ],
-      "duration_ms": 211525,
-      "name": "wo ai ni",
-      "url": "https://open.spotify.com/track/4Tu9m6n8UUrCWo2ULTGm3n"
+      "duration_ms": 257472,
+      "name": "Green and Pink",
+      "url": "https://open.spotify.com/track/1UzTZQXNsoi6EeQmszDqiJ"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1527,22 +1507,22 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "NO DRUGS",
-        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/2GMtWkMoiQifiJB7qDW4XY"
       },
       "artists": [
         {
-          "name": "DPR CREAM",
-          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
         },
         {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 142360,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1maz5QxIWm6ZLyE8m9i56n"
+      "duration_ms": 211525,
+      "name": "wo ai ni",
+      "url": "https://open.spotify.com/track/4Tu9m6n8UUrCWo2ULTGm3n"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1571,6 +1551,26 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "NO DRUGS",
+        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        },
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        }
+      ],
+      "duration_ms": 142360,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1maz5QxIWm6ZLyE8m9i56n"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "BLUSH",
         "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
       },
@@ -1587,6 +1587,26 @@
       "duration_ms": 152505,
       "name": "Bad B**ch (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "iScreaM Vol.25 : Red Flavor Remix",
+        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "MAR VISTA",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Red Flavor - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1643,26 +1663,6 @@
       "duration_ms": 224640,
       "name": "Armageddon (Mount XLR Remix)",
       "url": "https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "iScreaM Vol.25 : Red Flavor Remix",
-        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "MAR VISTA",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Red Flavor - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
@@ -1787,6 +1771,38 @@
       "duration_ms": 134769,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "silkysmooth 05",
+        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 181536,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1811,42 +1827,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "silkysmooth 05",
-        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 181536,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "MOONLIGHT (MOTi Remix)",
-        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
-      },
-      "artists": [
-        {
-          "name": "HENRY LAU",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "MOONLIGHT - MOTi Remix",
-      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "Atmosphere - SM STATION",
         "url": "https://open.spotify.com/album/6F44f0aj0LxqI4hguioxTZ"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 191654,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "MOONLIGHT (MOTi Remix)",
+        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
+      },
+      "artists": [
+        {
+          "name": "HENRY LAU",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "MOONLIGHT - MOTi Remix",
+      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
     }
   ],
   "unique_name": "Electronii[K]",

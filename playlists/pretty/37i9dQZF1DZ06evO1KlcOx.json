@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 8136,
+  "num_followers": 8140,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADEH9AVgC9UNco5hQoVEvaI",
+  "snapshot_id": "aoD9gAAAAAAbq1vvpzlKyOeVYUyQOx4W",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 285866,
-      "name": "Being Her Shadow",
-      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
+      "duration_ms": 201040,
+      "name": "A Light Change",
+      "url": "https://open.spotify.com/track/2wy9QMJdpa74PVkr1V7NmY"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "A Light Change",
-      "url": "https://open.spotify.com/track/2wy9QMJdpa74PVkr1V7NmY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -359,22 +343,6 @@
       "duration_ms": 366373,
       "name": "STS",
       "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 359826,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/7smnmEyvR4MtnyqK9eiAjx"
     },
     {
       "added_at": null,
@@ -395,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 359826,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/7smnmEyvR4MtnyqK9eiAjx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+      "duration_ms": 285866,
+      "name": "Being Her Shadow",
+      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
     },
     {
       "added_at": null,
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 254040,
-      "name": "Vital",
-      "url": "https://open.spotify.com/track/4BzmSQYR6wYkjG894IMfdd"
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": null,
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 375711,
-      "name": "Kelso (Blue sky)",
-      "url": "https://open.spotify.com/track/5gJOdVKBXmyXLHQzLxNDbD"
+      "duration_ms": 254040,
+      "name": "Vital",
+      "url": "https://open.spotify.com/track/4BzmSQYR6wYkjG894IMfdd"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Water People 7\"",
-        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 247713,
-      "name": "Water People",
-      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/6XtReyR9KbyDt8J3Va1UCM"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 173625,
-      "name": "Ode to the blue",
-      "url": "https://open.spotify.com/track/6XtReyR9KbyDt8J3Va1UCM"
+      "duration_ms": 367720,
+      "name": "Down to the Ocean",
+      "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
     },
     {
       "added_at": null,
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 362253,
-      "name": "It Feels Alright",
-      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
+      "duration_ms": 375711,
+      "name": "Kelso (Blue sky)",
+      "url": "https://open.spotify.com/track/5gJOdVKBXmyXLHQzLxNDbD"
     },
     {
       "added_at": null,
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "Water People 7\"",
+        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 169750,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1Kvrqt00lnQgjgHOWku4lF"
+      "duration_ms": 247713,
+      "name": "Water People",
+      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1Kvrqt00lnQgjgHOWku4lF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cover the Windows and the Walls",
         "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 367720,
-      "name": "Down to the Ocean",
-      "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
+      "duration_ms": 362253,
+      "name": "It Feels Alright",
+      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
     },
     {
       "added_at": null,

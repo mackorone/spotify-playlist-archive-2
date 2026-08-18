@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Sarai Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,439 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,447 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

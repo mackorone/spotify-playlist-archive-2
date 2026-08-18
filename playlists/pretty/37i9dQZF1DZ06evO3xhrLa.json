@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 247236,
+  "num_followers": 247274,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACO2l7Vj1TkZ9ngFfzrDdKQ",
+  "snapshot_id": "aoD9gAAAAABNBTi1kXNnQC3h7xdjrFsP",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "I'll Kill You (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/7EkiMl81fUHVwpItgtzI4r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Coppin",
         "url": "https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB"
       },
@@ -331,22 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 252053,
-      "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
+      "duration_ms": 179973,
+      "name": "I'll Kill You (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/7EkiMl81fUHVwpItgtzI4r"
     },
     {
       "added_at": null,
@@ -363,6 +343,26 @@
       "duration_ms": 181860,
       "name": "P*$$Y Fairy (OTW)",
       "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
     },
     {
       "added_at": null,

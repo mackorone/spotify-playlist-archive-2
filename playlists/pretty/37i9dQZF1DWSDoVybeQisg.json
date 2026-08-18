@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1262512,
+  "num_followers": 1262573,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "The Madcap Laughs",
-        "url": "https://open.spotify.com/album/2sKUa8zDgmnn1pHzIou05r"
-      },
-      "artists": [
-        {
-          "name": "Syd Barrett",
-          "url": "https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R"
-        }
-      ],
-      "duration_ms": 302733,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/07QZXkXxtkjlm1GPxfH4gt"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Rainbow Chaser: The 60s Recordings (The Island Years)",
         "url": "https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 158360,
       "name": "Rainbow Chaser",
       "url": "https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "The Madcap Laughs",
+        "url": "https://open.spotify.com/album/2sKUa8zDgmnn1pHzIou05r"
+      },
+      "artists": [
+        {
+          "name": "Syd Barrett",
+          "url": "https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R"
+        }
+      ],
+      "duration_ms": 302733,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/07QZXkXxtkjlm1GPxfH4gt"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "S.F. Sorrow",
-        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "Bracelets Of Fingers",
-      "url": "https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Roger the Engineer",
         "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 195400,
       "name": "Lost Woman - The Mono Album",
       "url": "https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "S.F. Sorrow",
+        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 221013,
+      "name": "Bracelets Of Fingers",
+      "url": "https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
+      },
+      "artists": [
+        {
+          "name": "The Easybeats",
+          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Friday on My Mind",
+      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "The First Edition",
         "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 201213,
       "name": "Just Dropped In (To See What Condition My Condition Was In)",
       "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
-      },
-      "artists": [
-        {
-          "name": "The Easybeats",
-          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Friday on My Mind",
-      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Born To Be Wild (Best Of....)",
         "url": "https://open.spotify.com/album/14Gu72n79AHDrcFWJ86mdc"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 348560,
       "name": "The Pusher",
       "url": "https://open.spotify.com/track/28sa14rbWiHZPs9m1IeDI5"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga"
     },
     {
       "added_at": "2024-07-12 17:17:21",

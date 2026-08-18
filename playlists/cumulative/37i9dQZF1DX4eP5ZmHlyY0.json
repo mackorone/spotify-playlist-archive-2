@@ -8445,6 +8445,24 @@
     },
     {
       "album": {
+        "name": "KO1KEYZ",
+        "url": "https://open.spotify.com/album/0E9jYbwaVVqnB2xP7U3yMQ"
+      },
+      "artists": [
+        {
+          "name": "KO1KEYZ",
+          "url": "https://open.spotify.com/artist/7EuQkJNmjEkhV4TdeHNFEc"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "KO1KEYZ",
+      "url": "https://open.spotify.com/track/0sntN2nuas8OXrvdMoWbqR"
+    },
+    {
+      "album": {
         "name": "Koijanai? - Don't you love me? -",
         "url": "https://open.spotify.com/album/5jFgDZwTLLswYtwPzxplmP"
       },
@@ -10642,7 +10660,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 204395,
       "name": "Nice to Meet Ya",
       "url": "https://open.spotify.com/track/7y0C2c0wVLUivXy6kUM0nQ"
@@ -18461,6 +18479,24 @@
     },
     {
       "album": {
+        "name": "\u30bb\u30c4\u30ca\u30cf\u30ca\u30d3 (Setsuna Hanabi)",
+        "url": "https://open.spotify.com/album/1qa6PpCZqOV4Fge1QL3OoY"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173874,
+      "name": "\u30bb\u30c4\u30ca\u30cf\u30ca\u30d3 (Setsuna Hanabi)",
+      "url": "https://open.spotify.com/track/2Hq8l2e9BkRVaQtJni4Ss9"
+    },
+    {
+      "album": {
         "name": "TRICKSTER",
         "url": "https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB"
       },
@@ -19434,7 +19470,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 248000,
       "name": "\u65b0\u4e16\u754c(SHINSEKAI)",
       "url": "https://open.spotify.com/track/1RKxgExJrU3UM7jM8TcL2G"

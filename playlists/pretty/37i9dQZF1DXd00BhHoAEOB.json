@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 600560,
+  "num_followers": 600544,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
+        "name": "Calle Sin Salida",
+        "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "Calle Sin Salida",
+      "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
         "name": "Eso",
         "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 242944,
       "name": "Eso",
       "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
-        "name": "Calle Sin Salida",
-        "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 170240,
-      "name": "Calle Sin Salida",
-      "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Hace Tiempo",
-        "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 195613,
       "name": "Amores",
       "url": "https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
+        "name": "Hace Tiempo",
+        "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX"
+      "duration_ms": 241626,
+      "name": "Hasta La Piel",
+      "url": "https://open.spotify.com/track/6WiuIpuufnd80FpjA0ZCby"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "8 A\u00f1os",
-        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 200725,
-      "name": "El Jardin",
-      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
+      "duration_ms": 227413,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/6O7IhKaYZSYAUv0u6xVJkl"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1396,25 +1396,25 @@
           "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Hasta La Piel",
-      "url": "https://open.spotify.com/track/6WiuIpuufnd80FpjA0ZCby"
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX"
     },
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O"
+        "name": "8 A\u00f1os",
+        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 227413,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/6O7IhKaYZSYAUv0u6xVJkl"
+      "duration_ms": 200725,
+      "name": "El Jardin",
+      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1523,8 +1523,8 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY"
       },
       "artists": [
         {
@@ -1532,9 +1532,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/36xQ9CL4lcoZ6pK4mA89pJ"
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1615,8 +1615,8 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
       },
       "artists": [
         {
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu"
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/36xQ9CL4lcoZ6pK4mA89pJ"
     },
     {
       "added_at": "2025-01-10 16:11:48",

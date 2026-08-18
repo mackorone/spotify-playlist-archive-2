@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 212547,
+  "num_followers": 212686,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACHbhhCSXPu2Qq+YHVy99kJ",
+  "snapshot_id": "aoD9gAAAAAAiCqDLkOynkIqHirejBYur",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "slow down",
-        "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
-      },
-      "artists": [
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "slow down",
-      "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOMEBODY PRAYED",
         "url": "https://open.spotify.com/album/68Jhhl9zyFSKYaleHuTbJd"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 301584,
       "name": "SOMEBODY PRAYED",
       "url": "https://open.spotify.com/track/0jjnC0eVyhRRYfXLjBYFmg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "slow down",
+        "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
+      },
+      "artists": [
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "slow down",
+      "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRUTH WILL SET YOU FREE",
-        "url": "https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "TRUTH WILL SET YOU FREE",
-      "url": "https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD (DELUXE)",
         "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 185273,
       "name": "HEAVEN ON THIS EARTH",
       "url": "https://open.spotify.com/track/7L2jWNjhI4Y1rUmveOttGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRUTH WILL SET YOU FREE",
+        "url": "https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "TRUTH WILL SET YOU FREE",
+      "url": "https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "BEAUTIFUL AS YOU",
+      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAWN PATROL",
         "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 125952,
       "name": "SOULSHINE",
       "url": "https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "BEAUTIFUL AS YOU",
-      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
     },
     {
       "added_at": null,

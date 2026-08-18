@@ -1,13 +1,449 @@
 {
-  "description": "Senna kiest 20 hits voor de zomer! <a href=\"spotify:presents:jouwzomerid\">Doe de quiz: welke zomer ID ben jij?</a>",
-  "num_followers": 72979,
+  "description": "Justen de Wildt kiest 25 hits voor de zomer! <a href=\"spotify:presents:jouwzomerid\">Doe de quiz: welke zomer ID ben jij?</a>",
+  "num_followers": 73011,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG6MX6OthReBUxf0b7019yO38ciD",
+  "snapshot_id": "AAAAAIDZwhh3vEQO2+f+nz8LcEaQMT4h",
   "tracks": [
+    {
+      "added_at": "2026-08-13 22:00:04",
+      "album": {
+        "name": "Cheerio",
+        "url": "https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "duration_ms": 148815,
+      "name": "Cheerio",
+      "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
+    },
+    {
+      "added_at": "2026-08-13 22:00:04",
+      "album": {
+        "name": "De Tapster Uit Tijuana",
+        "url": "https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL"
+      },
+      "artists": [
+        {
+          "name": "Sander Kwarten",
+          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
+        }
+      ],
+      "duration_ms": 186911,
+      "name": "De Tapster Uit Tijuana",
+      "url": "https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9"
+    },
+    {
+      "added_at": "2026-08-13 22:00:04",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6S3VVsDn0RCwIlSDRIT4uc"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "duration_ms": 153635,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6VDELF4AaHeGlZujv8LaF8"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Cheerio (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/6lm4nGutsJbiG2hByo7rbj"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "Cheerio (Outsiders Remix)",
+      "url": "https://open.spotify.com/track/2iZStQEjwKOiOZHLcaNKpl"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "We Zijn Er",
+        "url": "https://open.spotify.com/album/49LywfHBRIWur1tPzZJ6gJ"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "We Zijn Er",
+      "url": "https://open.spotify.com/track/5ugSvzED7o85U4TaMktaqk"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Baila de Gasolina",
+        "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
+      },
+      "artists": [
+        {
+          "name": "Effe Serieus",
+          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
+        }
+      ],
+      "duration_ms": 140782,
+      "name": "Baila de Gasolina",
+      "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "ZAAZAA",
+        "url": "https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "ZAAZAA",
+      "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Lang Leve De Lol",
+        "url": "https://open.spotify.com/album/5Eu5qhWAnfklaFaVG2P9QY"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "duration_ms": 191574,
+      "name": "Lang Leve De Lol",
+      "url": "https://open.spotify.com/track/1Do8jxwE6zBMHinAEjvfjQ"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Tinto de Verano",
+        "url": "https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "Tinto de Verano",
+      "url": "https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP"
+    },
+    {
+      "added_at": "2026-08-13 22:00:04",
+      "album": {
+        "name": "Niet Voor Lief",
+        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 147367,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Blikkendag",
+        "url": "https://open.spotify.com/album/1BBeHxKMTWkSOb8Qc6FTuY"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Blikkendag",
+      "url": "https://open.spotify.com/track/58UAQKAuiIYgixJ01BVBZc"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Als Ik Aan De Laatste Zit",
+        "url": "https://open.spotify.com/album/3oKjGiy4uBk4NGraTDv24P"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "duration_ms": 161645,
+      "name": "Als Ik Aan De Laatste Zit",
+      "url": "https://open.spotify.com/track/6K18CnzVJB2GImrUaYhFhp"
+    },
+    {
+      "added_at": "2026-08-13 22:00:04",
+      "album": {
+        "name": "Cubaanse Caf\u00e9",
+        "url": "https://open.spotify.com/album/0K7LIzZQOHu8ZNqHjDyUps"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        }
+      ],
+      "duration_ms": 195232,
+      "name": "Cubaanse Caf\u00e9",
+      "url": "https://open.spotify.com/track/7oBclifQe1xdsW96UzDfpS"
+    },
+    {
+      "added_at": "2026-08-13 22:00:04",
+      "album": {
+        "name": "Route Du Soleil",
+        "url": "https://open.spotify.com/album/1W1tLQGBFZZgNlo5Z9sMU7"
+      },
+      "artists": [
+        {
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+        }
+      ],
+      "duration_ms": 148256,
+      "name": "Route Du Soleil",
+      "url": "https://open.spotify.com/track/3gObOLbNKma8EjpByEieBp"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Al Heb Je Niets",
+        "url": "https://open.spotify.com/album/5wmuQkePwbFb0FS0cJuJSE"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "duration_ms": 152458,
+      "name": "Al Heb Je Niets",
+      "url": "https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/5DZAYDrzrs63D6CigorZef"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/04I59pMKCdNbLlSIJNAExH"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Stem In Je Hart",
+        "url": "https://open.spotify.com/album/6kqY2FBr1jp9cQ5FCHPhnW"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "duration_ms": 178572,
+      "name": "Stem In Je Hart",
+      "url": "https://open.spotify.com/track/3gDh5tdexIUxKyRvlqXmxk"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Eindeloos",
+        "url": "https://open.spotify.com/album/0rrsIU1iPUCJlbrxUOeqXs"
+      },
+      "artists": [
+        {
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+        }
+      ],
+      "duration_ms": 178868,
+      "name": "Haal Alles Uit Het Leven",
+      "url": "https://open.spotify.com/track/5vcSCEFx9TJzatiH8BzSbQ"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Weet Wat Je Begint 2.0",
+        "url": "https://open.spotify.com/album/55X4ZpJx6qXdMjWcuOlAB0"
+      },
+      "artists": [
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Weet Wat Je Begint 2.0",
+      "url": "https://open.spotify.com/track/5kslScjYuKwpoI5MvkUsI7"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Maak Me Nou Niet Gek",
+        "url": "https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        },
+        {
+          "name": "De Amsterdamse Zomer",
+          "url": "https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ"
+        }
+      ],
+      "duration_ms": 177205,
+      "name": "Maak Me Nou Niet Gek",
+      "url": "https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW"
+    },
+    {
+      "added_at": "2026-08-13 22:00:04",
+      "album": {
+        "name": "Alles Wat Ik Zoek",
+        "url": "https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3"
+      },
+      "artists": [
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 187420,
+      "name": "Alles Wat Ik Zoek",
+      "url": "https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb"
+    },
+    {
+      "added_at": "2026-08-17 22:00:25",
+      "album": {
+        "name": "Zoet, Zout, Zuur",
+        "url": "https://open.spotify.com/album/6FrJb3MtWlu4EQNbXZsN1P"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 180778,
+      "name": "Zoet, Zout, Zuur",
+      "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
+    },
+    {
+      "added_at": "2026-08-13 22:00:04",
+      "album": {
+        "name": "Heerlijk",
+        "url": "https://open.spotify.com/album/68JDBphxyUiqaNt3qotaf7"
+      },
+      "artists": [
+        {
+          "name": "Danny De Munk",
+          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
+        }
+      ],
+      "duration_ms": 126489,
+      "name": "Heerlijk",
+      "url": "https://open.spotify.com/track/3uNLa5MkTaw3OdXWfXzgXZ"
+    },
+    {
+      "added_at": "2026-08-13 22:00:04",
+      "album": {
+        "name": "Tour de Frans (Hey Fransie)",
+        "url": "https://open.spotify.com/album/0cgw4g3NdnWms9NcPL2P93"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        },
+        {
+          "name": "De Voorhoede",
+          "url": "https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU"
+        }
+      ],
+      "duration_ms": 143636,
+      "name": "Tour de Frans (Hey Fransie)",
+      "url": "https://open.spotify.com/track/59Gt0pczJlB8zYTUqdKzxC"
+    },
     {
       "added_at": "2026-08-13 22:00:04",
       "album": {
@@ -27,22 +463,6 @@
       "duration_ms": 184800,
       "name": "Vuurwerk",
       "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J"
-      },
-      "artists": [
-        {
-          "name": "Monique Smit",
-          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
-        }
-      ],
-      "duration_ms": 166010,
-      "name": "Carrousel",
-      "url": "https://open.spotify.com/track/2AplEaVcnOr9HrjESXJhz1"
     },
     {
       "added_at": "2026-08-13 22:00:04",
@@ -143,38 +563,6 @@
     {
       "added_at": "2026-08-13 22:00:04",
       "album": {
-        "name": "Maak Me Gek",
-        "url": "https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT"
-      },
-      "artists": [
-        {
-          "name": "Gerard Joling",
-          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Maak Me Gek",
-      "url": "https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
-        "name": "Cheerio",
-        "url": "https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh"
-      },
-      "artists": [
-        {
-          "name": "Justen de Wildt",
-          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
-        }
-      ],
-      "duration_ms": 148815,
-      "name": "Cheerio",
-      "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
         "name": "Waar Blijf Je Nou",
         "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
       },
@@ -227,18 +615,18 @@
     {
       "added_at": "2026-08-13 22:00:04",
       "album": {
-        "name": "Toppers Mega Party Mix Vol. 2",
-        "url": "https://open.spotify.com/album/0AMRJGtOvvputWXtPYsOCX"
+        "name": "Zomer, Zon & Strand",
+        "url": "https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB"
       },
       "artists": [
         {
-          "name": "De Toppers",
-          "url": "https://open.spotify.com/artist/77OXNKbzOTqmzhSdHPS187"
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Over De Top!",
-      "url": "https://open.spotify.com/track/331VL6rgKYhIaj0w6pBfes"
+      "duration_ms": 189090,
+      "name": "Zomer, Zon & Strand",
+      "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
     },
     {
       "added_at": "2026-08-13 22:00:04",
@@ -327,30 +715,6 @@
     {
       "added_at": "2026-08-13 22:00:04",
       "album": {
-        "name": "Tour de Frans (Hey Fransie)",
-        "url": "https://open.spotify.com/album/0cgw4g3NdnWms9NcPL2P93"
-      },
-      "artists": [
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        },
-        {
-          "name": "De Voorhoede",
-          "url": "https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU"
-        }
-      ],
-      "duration_ms": 143636,
-      "name": "Tour de Frans (Hey Fransie)",
-      "url": "https://open.spotify.com/track/59Gt0pczJlB8zYTUqdKzxC"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
         "name": "Echte Liefde Is Te Koop",
         "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
       },
@@ -363,22 +727,6 @@
       "duration_ms": 152659,
       "name": "Echte Liefde Is Te Koop",
       "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
-        "name": "Zomer, Zon & Strand",
-        "url": "https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB"
-      },
-      "artists": [
-        {
-          "name": "Rutger van Barneveld",
-          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Zomer, Zon & Strand",
-      "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
     },
     {
       "added_at": "2026-08-13 22:00:04",
@@ -423,22 +771,6 @@
       "duration_ms": 148102,
       "name": "Lichaamstaal",
       "url": "https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
-        "name": "Niet Voor Lief",
-        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
     },
     {
       "added_at": "2026-08-13 22:00:04",
@@ -851,22 +1183,6 @@
     {
       "added_at": "2026-08-13 22:00:04",
       "album": {
-        "name": "Heerlijk",
-        "url": "https://open.spotify.com/album/68JDBphxyUiqaNt3qotaf7"
-      },
-      "artists": [
-        {
-          "name": "Danny De Munk",
-          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
-        }
-      ],
-      "duration_ms": 126489,
-      "name": "Heerlijk",
-      "url": "https://open.spotify.com/track/3uNLa5MkTaw3OdXWfXzgXZ"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
         "name": "Zij Wil Mij",
         "url": "https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR"
       },
@@ -1019,22 +1335,6 @@
     {
       "added_at": "2026-08-13 22:00:04",
       "album": {
-        "name": "Route Du Soleil",
-        "url": "https://open.spotify.com/album/1W1tLQGBFZZgNlo5Z9sMU7"
-      },
-      "artists": [
-        {
-          "name": "Wolter Kroes",
-          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
-        }
-      ],
-      "duration_ms": 148256,
-      "name": "Route Du Soleil",
-      "url": "https://open.spotify.com/track/3gObOLbNKma8EjpByEieBp"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
         "name": "Gooi 'm Dicht",
         "url": "https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN"
       },
@@ -1131,22 +1431,6 @@
     {
       "added_at": "2026-08-13 22:00:04",
       "album": {
-        "name": "De Tapster Uit Tijuana",
-        "url": "https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL"
-      },
-      "artists": [
-        {
-          "name": "Sander Kwarten",
-          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
-        }
-      ],
-      "duration_ms": 186911,
-      "name": "De Tapster Uit Tijuana",
-      "url": "https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
         "name": "CD van mij",
         "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
       },
@@ -1179,22 +1463,6 @@
       "duration_ms": 179400,
       "name": "Waar Ga Je Heen",
       "url": "https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/6S3VVsDn0RCwIlSDRIT4uc"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
-        }
-      ],
-      "duration_ms": 153635,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6VDELF4AaHeGlZujv8LaF8"
     },
     {
       "added_at": "2026-08-13 22:00:04",
@@ -1363,26 +1631,6 @@
     {
       "added_at": "2026-08-13 22:00:04",
       "album": {
-        "name": "R\u00e9mi",
-        "url": "https://open.spotify.com/album/547F3ujAdycIX2OVnI7tkx"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 165534,
-      "name": "Energie",
-      "url": "https://open.spotify.com/track/1riPE3NCV1OBmSXqpYiMJY"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
         "name": "Uitslover",
         "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
       },
@@ -1527,26 +1775,6 @@
     {
       "added_at": "2026-08-13 22:00:04",
       "album": {
-        "name": "Goed Teken",
-        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 225737,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/2Y63yg1Lgdp96IoiZIvjKz"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
         "name": "Kijk Ons Nou",
         "url": "https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt"
       },
@@ -1563,38 +1791,6 @@
       "duration_ms": 163709,
       "name": "Kijk Ons Nou",
       "url": "https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
-        "name": "Honderd Keer",
-        "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "Honderd Keer",
-      "url": "https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
-        "name": "Cubaanse Caf\u00e9",
-        "url": "https://open.spotify.com/album/0K7LIzZQOHu8ZNqHjDyUps"
-      },
-      "artists": [
-        {
-          "name": "Gerrit Schneider",
-          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
-        }
-      ],
-      "duration_ms": 195232,
-      "name": "Cubaanse Caf\u00e9",
-      "url": "https://open.spotify.com/track/7oBclifQe1xdsW96UzDfpS"
     },
     {
       "added_at": "2026-08-13 22:00:04",
@@ -1627,26 +1823,6 @@
       "duration_ms": 160123,
       "name": "Ontspanje",
       "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
-    },
-    {
-      "added_at": "2026-08-13 22:00:04",
-      "album": {
-        "name": "Alles Wat Ik Zoek",
-        "url": "https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3"
-      },
-      "artists": [
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 187420,
-      "name": "Alles Wat Ik Zoek",
-      "url": "https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb"
     },
     {
       "added_at": "2026-08-13 22:00:04",

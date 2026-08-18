@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: girlsweetvoiced",
-  "num_followers": 2336,
+  "num_followers": 2344,
   "original_name": "Editors' Picks: Best Canadian Songs of July",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Men Into Boys",
-        "url": "https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 154448,
-      "name": "Men Into Boys",
-      "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "i have a secret",
         "url": "https://open.spotify.com/album/67boqqAnVnbMBsQ11b7rZR"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 179130,
       "name": "GHOST DOG.",
       "url": "https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Men Into Boys",
+        "url": "https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 154448,
+      "name": "Men Into Boys",
+      "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "intersection",
+        "url": "https://open.spotify.com/album/1QBqcimkOSDc56jvdra679"
+      },
+      "artists": [
+        {
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "intersection",
+      "url": "https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "Rat Race",
         "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "intersection",
-        "url": "https://open.spotify.com/album/1QBqcimkOSDc56jvdra679"
+        "name": "Sunbleach",
+        "url": "https://open.spotify.com/album/3hmDhEeakbYvMhKlPumg89"
       },
       "artists": [
         {
-          "name": "fyodor",
-          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+          "name": "Burgundy",
+          "url": "https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX"
         }
       ],
-      "duration_ms": 198306,
-      "name": "intersection",
-      "url": "https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr"
+      "duration_ms": 184615,
+      "name": "Sunbleach",
+      "url": "https://open.spotify.com/track/0YSI9sXGcmI67ztBV5UVYh"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -427,22 +443,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Sunbleach",
-        "url": "https://open.spotify.com/album/3hmDhEeakbYvMhKlPumg89"
-      },
-      "artists": [
-        {
-          "name": "Burgundy",
-          "url": "https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Sunbleach",
-      "url": "https://open.spotify.com/track/0YSI9sXGcmI67ztBV5UVYh"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "ATMANS",
         "url": "https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Sun Up / Hilly Fields",
-        "url": "https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc"
-      },
-      "artists": [
-        {
-          "name": "Skiifall",
-          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Sun Up",
-      "url": "https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Bad Timing",
-        "url": "https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA"
+        "name": "Sun Up / Hilly Fields",
+        "url": "https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc"
       },
       "artists": [
         {
-          "name": "Zenesoul",
-          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
         }
       ],
-      "duration_ms": 256034,
-      "name": "Bad Timing",
-      "url": "https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w"
+      "duration_ms": 156631,
+      "name": "Sun Up",
+      "url": "https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -531,6 +515,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "Bad Timing",
+        "url": "https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "duration_ms": 256034,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "RaGDOLL",
         "url": "https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA"
       },
@@ -543,26 +543,6 @@
       "duration_ms": 204313,
       "name": "RaGDOLL",
       "url": "https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "Some Kind Of Life",
-        "url": "https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3"
-      },
-      "artists": [
-        {
-          "name": "Perfect Person",
-          "url": "https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ"
-        },
-        {
-          "name": "Holostar",
-          "url": "https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Here & Now",
-      "url": "https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -583,6 +563,26 @@
       "duration_ms": 151794,
       "name": "Billo",
       "url": "https://open.spotify.com/track/2PrWSD6ZQcygasN8Bk7384"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Some Kind Of Life",
+        "url": "https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3"
+      },
+      "artists": [
+        {
+          "name": "Perfect Person",
+          "url": "https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ"
+        },
+        {
+          "name": "Holostar",
+          "url": "https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Here & Now",
+      "url": "https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Bruise",
-        "url": "https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ"
-      },
-      "artists": [
-        {
-          "name": "Dj Cin\u00e9ma Quartier Latin",
-          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "La fin",
         "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 220493,
       "name": "La fin",
       "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Bruise",
+        "url": "https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Cin\u00e9ma Quartier Latin",
+          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "Take Me Under",
+        "url": "https://open.spotify.com/album/1Ho7Ruke16uRkhixyX4SHQ"
+      },
+      "artists": [
+        {
+          "name": "RAJAN",
+          "url": "https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3"
+        }
+      ],
+      "duration_ms": 159259,
+      "name": "Take Me Under",
+      "url": "https://open.spotify.com/track/0brTYG1hUEfpgqCcEhIr9B"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "Don't Eat Don't Sleep",
         "url": "https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn"
       },
@@ -731,6 +747,26 @@
       "duration_ms": 212000,
       "name": "Don't Eat Don't Sleep",
       "url": "https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Nouveaux Langages",
+        "url": "https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3"
+      },
+      "artists": [
+        {
+          "name": "N NAO",
+          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Corps (feat. Lou-Adriane Cassidy)",
+      "url": "https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -755,22 +791,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Take Me Under",
-        "url": "https://open.spotify.com/album/1Ho7Ruke16uRkhixyX4SHQ"
-      },
-      "artists": [
-        {
-          "name": "RAJAN",
-          "url": "https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3"
-        }
-      ],
-      "duration_ms": 159259,
-      "name": "Take Me Under",
-      "url": "https://open.spotify.com/track/0brTYG1hUEfpgqCcEhIr9B"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/6QVu2pywpuoATTXnuGqilj"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 143226,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/23jMmesMkvNstAt0m5lR1W"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "Nouveaux Langages",
-        "url": "https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3"
-      },
-      "artists": [
-        {
-          "name": "N NAO",
-          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
-        },
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Corps (feat. Lou-Adriane Cassidy)",
-      "url": "https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO"
     },
     {
       "added_at": "2026-07-31 15:05:53",

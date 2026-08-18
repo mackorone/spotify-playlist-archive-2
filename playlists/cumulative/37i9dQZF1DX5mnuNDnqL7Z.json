@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "Who run the world? Cover: Ravyn Lenae",
+  "description": "Who run the world? Cover: Phoebe Bridgers",
   "name": "Pop Girlies",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 166360,
       "name": "Almost Over",
       "url": "https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5"
+    },
+    {
+      "album": {
+        "name": "Almost Said I Love You",
+        "url": "https://open.spotify.com/album/3JDKK9683afPYzOusmHZ2U"
+      },
+      "artists": [
+        {
+          "name": "VARITDA",
+          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171300,
+      "name": "Almost Said I Love You",
+      "url": "https://open.spotify.com/track/7tMlvqjC3bV9q8DQRekajk"
     },
     {
       "album": {
@@ -690,7 +708,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 149813,
       "name": "Boy Crazy",
       "url": "https://open.spotify.com/track/7Mt6YOzW8PiraXz7vfbnFc"
@@ -881,6 +899,24 @@
     },
     {
       "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127740,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
+    },
+    {
+      "album": {
         "name": "Click Clack Symphony. (feat. Hans Zimmer)",
         "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
       },
@@ -936,6 +972,24 @@
       "duration_ms": 147706,
       "name": "Club Song",
       "url": "https://open.spotify.com/track/5XzS5QmnzhAyYkVndZro5Y"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/48kNSC9VNag007n2cdI374"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150242,
+      "name": "Cooler",
+      "url": "https://open.spotify.com/track/5qgCGL1lwqx0aAkAVq0pFa"
     },
     {
       "album": {
@@ -1076,7 +1130,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 199953,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/4O4f29FbJH50Nu8jBXKtQT"
@@ -1250,6 +1304,24 @@
       "duration_ms": 213887,
       "name": "DON\u2019T YOU SEE ME TRYING?",
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
+    },
+    {
+      "album": {
+        "name": "Dot Dot Dot",
+        "url": "https://open.spotify.com/album/6J0O8voti0gyJo8qZY05mH"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214216,
+      "name": "Dot Dot Dot",
+      "url": "https://open.spotify.com/track/0rfJWyEgNWNGnzRKgSwe1C"
     },
     {
       "album": {
@@ -1542,7 +1614,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 187058,
       "name": "FRANKENSTEIN",
       "url": "https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk"
@@ -2021,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140720,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
+    },
+    {
+      "album": {
         "name": "Hot Wet Delirious",
         "url": "https://open.spotify.com/album/48RvnMcydial0X4i7D4X8N"
       },
@@ -2184,6 +2274,42 @@
       "duration_ms": 143197,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy"
+    },
+    {
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217205,
+      "name": "I Can\u2019t Wait",
+      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
+    },
+    {
+      "album": {
+        "name": "I Cry in Front of Paintings",
+        "url": "https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175720,
+      "name": "I Cry in Front of Paintings",
+      "url": "https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn"
     },
     {
       "album": {
@@ -2364,6 +2490,24 @@
       "duration_ms": 197573,
       "name": "I'd Be Lyin'",
       "url": "https://open.spotify.com/track/6JmUaJbnsLFKU929yINf0i"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/7cX1drt9t5k6RCJKSbG2C0"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183005,
+      "name": "I'm in Trouble I'm in Love",
+      "url": "https://open.spotify.com/track/4G6GNKuFV9FxreUFzJSlyt"
     },
     {
       "album": {
@@ -2692,7 +2836,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 224347,
       "name": "june",
       "url": "https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA"
@@ -2710,7 +2854,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 139204,
       "name": "junebug!",
       "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
@@ -3327,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Melatonin",
+        "url": "https://open.spotify.com/album/2QbqglNd5wHpE846B0U4Lq"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224469,
+      "name": "Melatonin",
+      "url": "https://open.spotify.com/track/40zNxAC9sb4mHpOBMtmeit"
+    },
+    {
+      "album": {
         "name": "Millions",
         "url": "https://open.spotify.com/album/2FeRaL8MI3Ym6HS7KH2uXa"
       },
@@ -3864,7 +4026,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 209800,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/4Rp718wkIlPZtZuRPYP5qd"
@@ -4026,7 +4188,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 219000,
       "name": "Richest",
       "url": "https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch"
@@ -4326,7 +4488,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 240194,
       "name": "She's My Religion",
       "url": "https://open.spotify.com/track/4Roi9Mr7xgXkdSjpbdgCl4"
@@ -4398,7 +4560,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 168669,
       "name": "So Close",
       "url": "https://open.spotify.com/track/44kxg6qcq8kOSE7D888zGD"
@@ -4532,6 +4694,24 @@
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "album": {
+        "name": "Stay Gone",
+        "url": "https://open.spotify.com/album/0fAfTDRDjfWjs4YryqQARn"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267159,
+      "name": "Stay Gone",
+      "url": "https://open.spotify.com/track/2arjC99T7tiLwCpSFklmmO"
     },
     {
       "album": {
@@ -4806,6 +4986,24 @@
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "album": {
+        "name": "That Ain't You",
+        "url": "https://open.spotify.com/album/5FZhFZbwHtgh1VdseQPD3Q"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156230,
+      "name": "That Ain\u2019t You",
+      "url": "https://open.spotify.com/track/4gPnKC5eNWa3pjMocIPeL7"
     },
     {
       "album": {
@@ -5360,7 +5558,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 150994,
       "name": "Water The Flowers",
       "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
@@ -5728,7 +5926,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 161522,
       "name": "Yellow Top",
       "url": "https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5"

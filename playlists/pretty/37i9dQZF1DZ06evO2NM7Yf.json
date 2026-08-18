@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 479,
+  "num_followers": 480,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACYD8mnTNU2VvEYiZvPk/YG",
+  "snapshot_id": "aoD9gAAAAAC856E5t5Pyj3cOHTIBD9zA",
   "tracks": [
     {
       "added_at": null,
@@ -271,70 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cautiously Optimistic",
-        "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 145674,
-      "name": "Cautiously Optimistic",
-      "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 177808,
-      "name": "DO YOU LIKE ME?",
-      "url": "https://open.spotify.com/track/3apkBldyjHqAn57yzVtYGH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISCO DYSTOPIA",
-        "url": "https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 142419,
-      "name": "I've got a bad feeling...",
-      "url": "https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cross My Heart I Hope U Die",
-        "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 165250,
-      "name": "Why Do I Keep Playing It",
-      "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American in Paris",
         "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
       },
@@ -376,33 +312,73 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 159383,
-      "name": "Hedonistic",
-      "url": "https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY"
+      "duration_ms": 161060,
+      "name": "Girls Just Wanna Be Famous",
+      "url": "https://open.spotify.com/track/1EzqvVdQJh0QgimQMmCGoB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pop Drama",
-        "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
+        "name": "Cautiously Optimistic",
+        "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
       },
       "artists": [
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        },
-        {
-          "name": "Oliver Price",
-          "url": "https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg"
-        },
-        {
-          "name": "Thomas Greenwood",
-          "url": "https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr"
         }
       ],
-      "duration_ms": 220647,
-      "name": "HRDCR",
-      "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
+      "duration_ms": 145674,
+      "name": "Cautiously Optimistic",
+      "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cross My Heart I Hope U Die",
+        "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "Why Do I Keep Playing It",
+      "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 177808,
+      "name": "DO YOU LIKE ME?",
+      "url": "https://open.spotify.com/track/3apkBldyjHqAn57yzVtYGH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO DYSTOPIA",
+        "url": "https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 159383,
+      "name": "Hedonistic",
+      "url": "https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY"
     },
     {
       "added_at": null,
@@ -435,6 +411,30 @@
       "duration_ms": 187839,
       "name": "guitar center",
       "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop Drama",
+        "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        },
+        {
+          "name": "Oliver Price",
+          "url": "https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg"
+        },
+        {
+          "name": "Thomas Greenwood",
+          "url": "https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr"
+        }
+      ],
+      "duration_ms": 220647,
+      "name": "HRDCR",
+      "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
     },
     {
       "added_at": null,

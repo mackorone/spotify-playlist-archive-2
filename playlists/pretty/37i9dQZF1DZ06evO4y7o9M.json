@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 962771,
+  "num_followers": 962905,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADmyEQCmMhgVVlgNc276jkC",
+  "snapshot_id": "aoD9gAAAAABFckWAJqe3zE6po97k806g",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "$ad Boyz 4 Life",
+        "url": "https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "1004 KM",
+      "url": "https://open.spotify.com/track/54udnumOCHpq4SRpbKleat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Volver Al Futuro",
         "url": "https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 204102,
       "name": "Volver Al Futuro",
       "url": "https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "$ad Boyz 4 Life",
-        "url": "https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "1004 KM",
-      "url": "https://open.spotify.com/track/54udnumOCHpq4SRpbKleat"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 272698,
-      "name": "Nac\u00ed Para Amarte",
-      "url": "https://open.spotify.com/track/0x7VKOWpEJflK0gvy3hTmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 240000,
       "name": "TUS BESOX",
       "url": "https://open.spotify.com/track/6hxsXcuaPbHmIR8DsZJCyr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 272698,
+      "name": "Nac\u00ed Para Amarte",
+      "url": "https://open.spotify.com/track/0x7VKOWpEJflK0gvy3hTmk"
     },
     {
       "added_at": null,

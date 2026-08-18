@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-634 songs - 1 day 13 hr 42 min
+636 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Demain ça ira](https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Demain ça ira](https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU) | 2:43 | 2025-10-24 | 2026-08-11 |
 | [Derrière le bruit](https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 4:05 | 2022-07-08 | 2024-04-19 |
 | [Derrière le bruit](https://open.spotify.com/track/4sF6AeNfYOEbTOWuhfix7a) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3) | 4:05 | 2021-01-03\* | 2022-07-29 |
-| [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 | 2021-01-15 |  |
+| [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 | 2021-01-15 | 2026-08-18 |
 | [Deux cœurs vagabonds](https://open.spotify.com/track/6wmSCqAYA4gO9jziPV2SRC) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Deux cœurs vagabonds](https://open.spotify.com/album/7ClSLWsd75Z35uuTmRNWJa) | 4:19 | 2022-01-28 | 2022-04-13 |
 | [Diapason](https://open.spotify.com/track/4J9BGcZInwo34jQz7OoZ6R) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Diapason](https://open.spotify.com/album/6rl0ZMWPSni69nx5kheicc) | 2:26 | 2021-01-30 | 2022-07-27 |
 | [Did Life Work Out for You?](https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 3:19 | 2024-05-17 |  |
@@ -128,7 +128,7 @@
 | [Douceur du mois d'aout](https://open.spotify.com/track/1MvELfNVnESM9z5JONi9qI) | [Jeando](https://open.spotify.com/artist/0R5yr84EzZRFxrF4GFloAO) | [Toutes les étoiles me l'ont dit](https://open.spotify.com/album/4m6vgWkQ14w9EeYM2UXzXi) | 3:06 | 2021-01-03\* | 2021-01-25 |
 | [Doux](https://open.spotify.com/track/1ShsVA7nrhUVGFWXWU3M8T) | [Mariko](https://open.spotify.com/artist/4R9sMVAPeFyuPxtK2mBY0V) | [La fin du printemps](https://open.spotify.com/album/2r332ksd9Zuwv1cu5c2eQB) | 4:07 | 2021-01-03\* | 2022-07-25 |
 | [Doux](https://open.spotify.com/track/5JPj0yjiqe7B3kzGYN900F) | [Sarah Villeneuve](https://open.spotify.com/artist/2KKuXLeQXtuOKKiWP1xdRE) | [Doux](https://open.spotify.com/album/7wBkEWvGeAvdQBeVV5uG4o) | 4:00 | 2022-04-01 | 2022-06-28 |
-| [Down To The Wire](https://open.spotify.com/track/0DagKFYImY7OibkxGqaG5E) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Down To The Wire](https://open.spotify.com/album/1NN37cdEy0sKhZVn7pjRPQ) | 2:49 | 2026-07-03 |  |
+| [Down To The Wire](https://open.spotify.com/track/0DagKFYImY7OibkxGqaG5E) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Down To The Wire](https://open.spotify.com/album/1NN37cdEy0sKhZVn7pjRPQ) | 2:49 | 2026-07-03 | 2026-08-18 |
 | [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 | 2023-10-06 | 2026-07-04 |
 | [Désordre insensé](https://open.spotify.com/track/0LG9F3iWjlzR6q6RpbyJNS) | [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [Les souvenirs flous](https://open.spotify.com/album/2qiD7xcB164I74T1fzHb6c) | 3:30 | 2023-02-17 | 2023-03-12 |
 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 | 2026-07-10 |  |
@@ -219,6 +219,7 @@
 | [intersection](https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr) | [fyodor](https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu) | [intersection](https://open.spotify.com/album/1QBqcimkOSDc56jvdra679) | 3:18 | 2026-07-10 |  |
 | [Inutuulunga \- 2024 Remastered Version](https://open.spotify.com/track/0svw50fDE5pcpcqjjMVu5I) | [Taima](https://open.spotify.com/artist/49Hbj5LLNXQvttMwpApN0r) | [Inutuulunga \(2024 Remastered Version\)](https://open.spotify.com/album/7uxWJQzCCYAz1TlJe7gpi6) | 3:20 | 2024-06-21 | 2024-11-19 |
 | [Invisible](https://open.spotify.com/track/6dstnzUD4KT1IJeHQI6PK7) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/5QwW6pRRmXneSFUjDFFkDt) | 3:43 | 2021-01-15 | 2022-07-24 |
+| [Isabella](https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV) | [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Isabella](https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP) | 4:08 | 2026-08-14 |  |
 | [Islands in the Stream](https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Islands in the Stream](https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8) | 3:14 | 2025-09-05 | 2026-05-21 |
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-22 | 2023-10-24 |
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2lVAxivFrLs61yVFAlnqSb) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:33 | 2023-10-20 | 2025-02-25 |
@@ -551,6 +552,7 @@
 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 | 2021-10-09 | 2025-07-02 |
 | [The Animals](https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:16 | 2023-10-20 | 2025-02-15 |
 | [The Drudge](https://open.spotify.com/track/1FDZsIBVAYiNe56EwH8IWC) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [The Drudge](https://open.spotify.com/album/5gLnMoG5rH3f83ZtnillpH) | 3:05 | 2022-10-14 | 2022-12-19 |
+| [the evergreen, the birch](https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy), [MEGGO](https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc) | [the evergreen, the birch](https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v) | 2:59 | 2026-08-14 |  |
 | [The Good Part](https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [The Good Part](https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1) | 3:31 | 2025-10-17 |  |
 | [The Great Escape](https://open.spotify.com/track/1GIPP103zfsythULEpsmdw) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Close to Paradise](https://open.spotify.com/album/056yp65HkG28gOvkLPWAem) | 3:07 | 2021-10-06 | 2024-08-27 |
 | [The Music That Makes Me Dance](https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Music That Makes Me Dance](https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO) | 5:07 | 2026-06-12 |  |

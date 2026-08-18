@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACU4rn8zrEsOy6fu2Bvi02r",
+  "snapshot_id": "aoD9gAAAAACjCM+p4Ov5ZXmKNkKI0mBr",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+        "name": "Meditation 333",
+        "url": "https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Tree of Light - A Call to Arms",
-      "url": "https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ"
+      "duration_ms": 298468,
+      "name": "Twilight Meditation",
+      "url": "https://open.spotify.com/track/1FQD2zHg3oW1WwN9hAyfDL"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 333",
-        "url": "https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf"
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 298468,
-      "name": "Twilight Meditation",
-      "url": "https://open.spotify.com/track/1FQD2zHg3oW1WwN9hAyfDL"
+      "duration_ms": 154000,
+      "name": "Tree of Light - A Call to Arms",
+      "url": "https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+        "name": "[extended] BLISS",
+        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 227466,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r"
+      "duration_ms": 173920,
+      "name": "Sky opus fire",
+      "url": "https://open.spotify.com/track/17TnDe1wOMBxUAiVtVRot2"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "[extended] BLISS",
-        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 173920,
-      "name": "Sky opus fire",
-      "url": "https://open.spotify.com/track/17TnDe1wOMBxUAiVtVRot2"
+      "duration_ms": 227466,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
       "duration_ms": 339026,
       "name": "Law of One",
       "url": "https://open.spotify.com/track/6F49Fonv14f9GaCLCmLNk3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Love",
         "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 234520,
       "name": "The Heart's Monologue",
       "url": "https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Flo",
-      "url": "https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Flo",
+      "url": "https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Love",
         "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 114633,
-      "name": "Perfect Balance",
-      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 221293,
       "name": "Costa da Caparica",
       "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 114633,
+      "name": "Perfect Balance",
+      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
     },
     {
       "added_at": null,

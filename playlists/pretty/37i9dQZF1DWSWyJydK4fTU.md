@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,680 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,634 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 16 | [American Cars](https://open.spotify.com/track/3WRgRy12YW4I9mjodKXWwy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:32 |
 | 17 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
 | 18 | [We Don't Care](https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:16 |
-| 19 | [The Bitch Is Back](https://open.spotify.com/track/1XbVcWLoN4wZyM77ciEoav) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 3:44 |
-| 20 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
+| 19 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
+| 20 | [The Bitch Is Back](https://open.spotify.com/track/1XbVcWLoN4wZyM77ciEoav) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 3:44 |
 | 21 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 | 22 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |
 | 23 | [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 25 | [If I Ever Talk To God](https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [If I Ever Talk To God](https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy) | 2:40 |
 | 26 | [SHOOK](https://open.spotify.com/track/0wdSmyHGxoNaJmLENqcaUj) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [SHOOK](https://open.spotify.com/album/4lSYuGsPUTHGel906TJCqZ) | 3:03 |
 | 27 | [The Swell](https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Swell](https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y) | 3:27 |
-| 28 | [Sommerregen](https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:26 |
-| 29 | [Memo](https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Memo](https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H) | 3:11 |
-| 30 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
-| 31 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
+| 28 | [Memo](https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Memo](https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H) | 3:11 |
+| 29 | [Sommerregen](https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:26 |
+| 30 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
+| 31 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
 | 32 | [New Heart](https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [New Heart](https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ) | 3:04 |
 | 33 | [Crybaby](https://open.spotify.com/track/1Fedx4qXnX0tpUC5hS7wbJ) | [Max Allais](https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn) | [Crybaby](https://open.spotify.com/album/2Yr0FA0EijQQmir7vSoiq0) | 2:16 |
 | 34 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 39 | [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 |
 | 40 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
 | 41 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
-| 42 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |
-| 43 | [Ein Lied](https://open.spotify.com/track/2nrsfJSYFVmBXe9hc3q3lM) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Ein Lied](https://open.spotify.com/album/60xB6sJ3lZJZBgRdyRzZmO) | 2:31 |
+| 42 | [Ein Lied](https://open.spotify.com/track/2nrsfJSYFVmBXe9hc3q3lM) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Ein Lied](https://open.spotify.com/album/60xB6sJ3lZJZBgRdyRzZmO) | 2:31 |
+| 43 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |
 | 44 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
 | 45 | [4 Life](https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 1:56 |
 | 46 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 48 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
 | 49 | [If You Wanna Be Adored](https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [If You Wanna Be Adored](https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz) | 2:25 |
 | 50 | [Those Were The Days](https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Those Were The Days](https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN) | 3:00 |
-| 51 | [Moment](https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [Moment](https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP) | 3:07 |
-| 52 | [After The Love](https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [After The Love](https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO) | 3:40 |
-| 53 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 |
-| 54 | [BEAUTY QUEEN](https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [BEAUTY QUEEN](https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ) | 3:10 |
+| 51 | [After The Love](https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [After The Love](https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO) | 3:40 |
+| 52 | [Moment](https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [Moment](https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP) | 3:07 |
+| 53 | [BEAUTY QUEEN](https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [BEAUTY QUEEN](https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ) | 3:10 |
+| 54 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 |
 | 55 | [All Your Friends](https://open.spotify.com/track/7G3cCPSnlQryYADVd7W2Lq) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [All Your Friends](https://open.spotify.com/album/0U1JFk8Ry5oEDawNaaHsPo) | 3:09 |
 | 56 | [Alles nur für mich](https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Alles nur für mich](https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP) | 2:21 |
-| 57 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
-| 58 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
+| 57 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
+| 58 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
 | 59 | [pull me out](https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [4 songs](https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU) | 3:04 |
-| 60 | [Gib mir mehr Du](https://open.spotify.com/track/6w0eHk8No2d9hAn9xym7Se) | [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Gib mir mehr Du](https://open.spotify.com/album/03ub248yWebL0kbqooEzpM) | 2:43 |
+| 60 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
 
 Snapshot ID: `AAAAAKm5oYjdYoUomUm68I5141qIrw0n`

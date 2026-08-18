@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 98154,
+  "num_followers": 99355,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADHMyUAMU5n/ZcS1unIqtMf",
+  "snapshot_id": "aoD9gAAAAAAwCNIC843+lCIxqD5t1lrl",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hopes and Dreams",
-        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
-      },
-      "artists": [
-        {
-          "name": "KBong",
-          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 233810,
-      "name": "Livin' Easy",
-      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy to Love You",
         "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 269090,
       "name": "Middle of the Ocean",
       "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hopes and Dreams",
+        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
+      },
+      "artists": [
+        {
+          "name": "KBong",
+          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 233810,
+      "name": "Livin' Easy",
+      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
     },
     {
       "added_at": null,

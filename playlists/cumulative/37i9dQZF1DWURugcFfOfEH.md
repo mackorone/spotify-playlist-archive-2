@@ -4,7 +4,7 @@
 
 > good vibes, all the time
 
-140 songs - 7 hr 51 min
+142 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 | 2025-07-03 |  |
 | [Fucking Wizardry](https://open.spotify.com/track/2vcv0Aagjdd3mxkYDSqWXq) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Prioritise Pleasure](https://open.spotify.com/album/6Q4b8zTe5hFiDaUxNOiBih) | 3:52 | 2025-07-03 | 2026-06-19 |
 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 | 2025-07-03 |  |
-| [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-06-18 |  |
+| [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-06-18 | 2026-08-18 |
 | [God Talks Back](https://open.spotify.com/track/6upguv1cl65uzFbKxvruFI) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [God Talks Back](https://open.spotify.com/album/1OdVoqvuL37xqJB36iOaxN) | 2:52 | 2025-07-03 | 2026-06-19 |
 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 | 2025-07-03 |  |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2025-07-03 |  |
@@ -73,6 +73,7 @@
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2025-07-03 |  |
 | [How It Feels](https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 2:18 | 2025-07-03 |  |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2025-07-03 | 2026-06-19 |
+| [I Lied, You Lied](https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [I Lied, You Lied](https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz) | 3:23 | 2026-08-14 |  |
 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 | 2026-06-18 |  |
 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 | 2025-07-03 |  |
 | [If You Don't Want My Love](https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 2:26 | 2025-07-03 |  |
@@ -90,7 +91,7 @@
 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 | 2025-07-03 |  |
 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 | 2025-07-03 |  |
 | [Lights Burn Dimmer](https://open.spotify.com/track/0ABgQEAsfdvwtOyCe113lt) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Lights Burn Dimmer](https://open.spotify.com/album/0OrWX0oW2b94MfnA1dSeov) | 4:20 | 2026-06-18 |  |
-| [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2025-07-03 |  |
+| [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2025-07-03 | 2026-08-18 |
 | [Lose My Cool](https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:34 | 2025-07-03 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-07-03 |  |
 | [Lucky Again](https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 3:01 | 2026-06-18 |  |
@@ -131,6 +132,7 @@
 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [MALIKAA](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 | 2025-07-03 | 2026-06-19 |
 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 | 2025-07-03 |  |
 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 | 2025-07-03 |  |
+| [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 | 2026-08-14 |  |
 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 | 2025-07-03 |  |
 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 | 2025-07-03 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2025-07-03 |  |

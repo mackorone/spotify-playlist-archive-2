@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Vit\u00e3o",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Laura Schadeck",
   "name": "Palco POP",
   "tracks": [
     {
@@ -5536,6 +5536,28 @@
       "duration_ms": 151048,
       "name": "Cora\u00e7\u00e3o \u00c2ncora",
       "url": "https://open.spotify.com/track/2PIRztrsPMBPRyxMqKaEj9"
+    },
+    {
+      "album": {
+        "name": "COVARDIA",
+        "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
+      },
+      "artists": [
+        {
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161088,
+      "name": "COVARDIA",
+      "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
     },
     {
       "album": {
@@ -11125,6 +11147,24 @@
     },
     {
       "album": {
+        "name": "juro",
+        "url": "https://open.spotify.com/album/15DyIDkY6Rdi7i1QzTUa4H"
+      },
+      "artists": [
+        {
+          "name": "UNNA X",
+          "url": "https://open.spotify.com/artist/0WNiUQbsRbS1Q5UXGAtN8V"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195477,
+      "name": "juro",
+      "url": "https://open.spotify.com/track/0SECdKc6JpbLwsw5mRbqOU"
+    },
+    {
+      "album": {
         "name": "J\u00e1 Era",
         "url": "https://open.spotify.com/album/5L5tyAQX0cihzOp4d5q2JZ"
       },
@@ -14832,7 +14872,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 146538,
       "name": "Noites de Neon",
       "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
@@ -24712,7 +24752,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 185333,
       "name": "Vida N\u00e3o Termina",
       "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"

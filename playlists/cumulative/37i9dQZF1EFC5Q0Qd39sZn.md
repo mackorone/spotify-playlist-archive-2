@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-695 songs - 2 day 0 hr 0 min
+696 songs - 2 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,9 +203,10 @@
 | [How Can We Be Lovers](https://open.spotify.com/track/0ZUjPkZKjzRi6bgIuJovfY) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:55 | 2023-12-30 |  |
 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 | 2023-12-30 |  |
 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 | 2023-12-30 | 2026-02-15 |
+| [How Do I Live](https://open.spotify.com/track/55UDEdpcearZqBPO2aZaGV) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Songbook: A Collection Of Hits](https://open.spotify.com/album/4B7Py5rD8NGboCG8Fr0BHE) | 4:02 | 2026-08-17 |  |
 | [How Do I Live \(Plié\)](https://open.spotify.com/track/1VWZBRhJCy2TAQBO9nryWi) | [Nate Fifield](https://open.spotify.com/artist/1G1Aqwpne900Zzhw3nxNol) | [Pop Hits for Ballet Class, Vol\. 1](https://open.spotify.com/album/2hS9jwGmDYaQiZAZdoJTnf) | 3:41 | 2024-07-10 |  |
 | [How Do I Live \- Extended Mix](https://open.spotify.com/track/7jVkRbHbcw9wO5tNlBOiWR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [You Light Up My Life](https://open.spotify.com/album/5FXJHigDDA8I1xT47xpsWk) | 4:57 | 2024-07-10 |  |
-| [How Do I Live \- Songbook Version](https://open.spotify.com/track/5xM53GMJzt0g16Ke9islN4) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [\(Songbook\) A Collection Of Hits](https://open.spotify.com/album/4EXfiuerqSnUhJ7S4CS0Vj) | 4:03 | 2026-02-14 |  |
+| [How Do I Live \- Songbook Version](https://open.spotify.com/track/5xM53GMJzt0g16Ke9islN4) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [\(Songbook\) A Collection Of Hits](https://open.spotify.com/album/4EXfiuerqSnUhJ7S4CS0Vj) | 4:03 | 2026-02-14 | 2026-08-18 |
 | [How Does Your Heart Forget](https://open.spotify.com/track/0kHOohN33Xh0oU6lrrkQEM) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Elgin](https://open.spotify.com/album/0Zyh1GT3M5v6jqZYaaq5p1) | 3:34 | 2023-12-30 |  |
 | [How Many Times, How Many Lies](https://open.spotify.com/track/41wBXvAim2xfInCEqhy3hW) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 3:55 | 2025-07-19 |  |
 | [How Many Times, How Many Lies](https://open.spotify.com/track/7FUNXj1tiocAaBSvD7stT6) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:55 | 2023-12-30 | 2025-07-20 |

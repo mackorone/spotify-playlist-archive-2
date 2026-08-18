@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADFI7wXfFpq7ZTiyr3D6DMJ",
+  "snapshot_id": "aoD9gAAAAAB7HBzme5W4uL3eY9hcvkaZ",
   "tracks": [
     {
       "added_at": null,
@@ -139,30 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Weekend (feat. Eva Shaw)",
-        "url": "https://open.spotify.com/album/7K2rpxdi4tp8AL6kOBsjJC"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Spree Wilson",
-          "url": "https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 163679,
-      "name": "The Weekend (feat. Eva Shaw)",
-      "url": "https://open.spotify.com/track/68OH3MoN4j2HuJsuco6oZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adult Supervision",
         "url": "https://open.spotify.com/album/2axTzYWvBW5dHXwW9tW6Yb"
       },
@@ -183,6 +159,30 @@
       "duration_ms": 166922,
       "name": "Sleep Like A Baby",
       "url": "https://open.spotify.com/track/51rbNdcxBYcGB3N7Jt9VYs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Weekend (feat. Eva Shaw)",
+        "url": "https://open.spotify.com/album/7K2rpxdi4tp8AL6kOBsjJC"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Spree Wilson",
+          "url": "https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 163679,
+      "name": "The Weekend (feat. Eva Shaw)",
+      "url": "https://open.spotify.com/track/68OH3MoN4j2HuJsuco6oZ9"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
-      },
-      "artists": [
-        {
-          "name": "Hard Rock Sofa",
-          "url": "https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HYPE HOP 001",
         "url": "https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 184000,
       "name": "CLAP - Hype Hop Edit (feat. Nate Husser, Reeves Junya, Nesi)",
       "url": "https://open.spotify.com/track/4IsXsaT7g5hrEXtMKWqsnE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
+      },
+      "artists": [
+        {
+          "name": "Hard Rock Sofa",
+          "url": "https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
     },
     {
       "added_at": null,
@@ -595,26 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "STATIC",
-        "url": "https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC"
+        "name": "Dark Songs To Drive To",
+        "url": "https://open.spotify.com/album/4HzNkBmF4hZcW7Km5aWdw4"
       },
       "artists": [
         {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        },
+        {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        },
-        {
-          "name": "Ching",
-          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
         }
       ],
-      "duration_ms": 155452,
-      "name": "STATIC",
-      "url": "https://open.spotify.com/track/5VElIgwibFEpnP6iIa0PMF"
+      "duration_ms": 153614,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/2RRzkRXHL86gwH6gQmB7BJ"
     },
     {
       "added_at": null,
@@ -659,6 +655,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPE HOP 002",
+        "url": "https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "G Milla",
+          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "MOJO - Hype Hop Edit",
+      "url": "https://open.spotify.com/track/5gl00R577C5llEYqU8dUw5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STATIC",
+        "url": "https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        },
+        {
+          "name": "Ching",
+          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
+        }
+      ],
+      "duration_ms": 155452,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/5VElIgwibFEpnP6iIa0PMF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ba Da Da Ding",
         "url": "https://open.spotify.com/album/69AGVh9lmNbBmK3FbILz2z"
       },
@@ -679,46 +719,6 @@
       "duration_ms": 175132,
       "name": "Ba Da Da Ding",
       "url": "https://open.spotify.com/track/738Lq96Lgoy6oiZx2itjyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dark Songs To Drive To",
-        "url": "https://open.spotify.com/album/4HzNkBmF4hZcW7Km5aWdw4"
-      },
-      "artists": [
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 153614,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/2RRzkRXHL86gwH6gQmB7BJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPE HOP 002",
-        "url": "https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "G Milla",
-          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "MOJO - Hype Hop Edit",
-      "url": "https://open.spotify.com/track/5gl00R577C5llEYqU8dUw5"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/7KxXdsAwi1yz5mUkyG5l2J"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 169173,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/2KrLo6tZVmS9vWGa4rejK5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Swing My Way",
         "url": "https://open.spotify.com/album/7Es7WKNjbtvC4SngCwo6b7"
       },
@@ -903,30 +919,6 @@
       "duration_ms": 192200,
       "name": "Swing My Way",
       "url": "https://open.spotify.com/track/2ijWBJVyDGifalWaAuexVA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Look Down",
-        "url": "https://open.spotify.com/album/0YyZnj5aMm44Ki54CfOolb"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "El Chuape",
-          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
-        },
-        {
-          "name": "TELESCA.",
-          "url": "https://open.spotify.com/artist/7xcTVs6s46xb5VmfbZ89pO"
-        }
-      ],
-      "duration_ms": 182292,
-      "name": "Don't Look Down",
-      "url": "https://open.spotify.com/track/76Q9VH6V8XfWu1AjXoYceU"
     },
     {
       "added_at": null,
@@ -955,18 +947,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "100%",
-        "url": "https://open.spotify.com/album/7KxXdsAwi1yz5mUkyG5l2J"
+        "name": "Snakes",
+        "url": "https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb"
       },
       "artists": [
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "City Fidelia",
+          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
+        },
+        {
+          "name": "DB Bantino",
+          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
         }
       ],
-      "duration_ms": 169173,
-      "name": "100%",
-      "url": "https://open.spotify.com/track/2KrLo6tZVmS9vWGa4rejK5"
+      "duration_ms": 221993,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E"
     },
     {
       "added_at": null,
@@ -995,8 +995,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Snakes",
-        "url": "https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb"
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/0YyZnj5aMm44Ki54CfOolb"
       },
       "artists": [
         {
@@ -1004,17 +1004,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "City Fidelia",
-          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
         },
         {
-          "name": "DB Bantino",
-          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
+          "name": "TELESCA.",
+          "url": "https://open.spotify.com/artist/7xcTVs6s46xb5VmfbZ89pO"
         }
       ],
-      "duration_ms": 221993,
-      "name": "Snakes",
-      "url": "https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E"
+      "duration_ms": 182292,
+      "name": "Don't Look Down",
+      "url": "https://open.spotify.com/track/76Q9VH6V8XfWu1AjXoYceU"
     },
     {
       "added_at": null,
@@ -1063,6 +1063,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIG MON",
+        "url": "https://open.spotify.com/album/0RLe0Jsc7wnkGyaPuuT6Qz"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 140204,
+      "name": "BIG MON",
+      "url": "https://open.spotify.com/track/2d6ZM9zADssISNrtgIw8LS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NT NT",
         "url": "https://open.spotify.com/album/104hydtO8pzeBqrrzpc8xi"
       },
@@ -1087,38 +1107,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG MON",
-        "url": "https://open.spotify.com/album/0RLe0Jsc7wnkGyaPuuT6Qz"
+        "name": "line em up.",
+        "url": "https://open.spotify.com/album/2HoNPzxZQcZEsSjT6TUNp7"
       },
       "artists": [
         {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 140204,
-      "name": "BIG MON",
-      "url": "https://open.spotify.com/track/2d6ZM9zADssISNrtgIw8LS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secret",
-        "url": "https://open.spotify.com/album/116sV035o9y6YoO5Hedty9"
-      },
-      "artists": [
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
         {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
         }
       ],
-      "duration_ms": 188866,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/5HLmbHuDV5XV3o4ycCExOa"
+      "duration_ms": 139424,
+      "name": "line em up.",
+      "url": "https://open.spotify.com/track/67wnr39oFDdVJjRDPb5yGE"
     }
   ],
   "unique_name": "This Is Eva Shaw",

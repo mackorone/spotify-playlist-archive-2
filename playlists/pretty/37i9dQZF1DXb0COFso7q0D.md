@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > Edgardo Nuñez poniendo la Música Mexicana en alto en la playlist sin fronteras\. Powered by <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2">Belicofest</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,161,815 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,161,162 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 23 | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8) | 3:45 |
 | 24 | [Voy Llegando a tu Ciudad](https://open.spotify.com/track/25Um6XtI3adYkxZpl1qtQE) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Experto](https://open.spotify.com/album/1jbw7dNHbODAxiWgugRRdF) | 2:51 |
 | 25 | [Recuerdos en Común](https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Recuerdos en Común](https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT) | 3:34 |
-| 26 | [Amor Secreto \- \(En Vivo\)](https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [En Vivo Desde El Estadio GNP](https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt) | 3:08 |
+| 26 | [Amor Secreto \- En Vivo](https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [En Vivo Desde El Estadio GNP](https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt) | 3:08 |
 | 27 | [MATCHA](https://open.spotify.com/track/7KfaBqVsLdG6AtqHTtX36g) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 2:36 |
 | 28 | [Cambio Mi Suerte](https://open.spotify.com/track/6ZdbHIohiiimLHC5ZSDWDb) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Noches Sin Fin](https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM) | 2:48 |
 | 29 | [Fotografía](https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Fotografía](https://open.spotify.com/album/21uioYBhTjhGisiKunbldo) | 3:32 |

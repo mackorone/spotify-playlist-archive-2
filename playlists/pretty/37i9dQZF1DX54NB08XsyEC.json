@@ -1,6 +1,6 @@
 {
   "description": "pov: minhas favs / Foto: Ariana Grande",
-  "num_followers": 1063018,
+  "num_followers": 1062975,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "the cure",
-        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
         "name": "drop dead",
         "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
       },
@@ -319,18 +335,26 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+        "name": "Mi Chico (Official - Jason Derulo x Melody)",
+        "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "DJ Goja",
+          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
         }
       ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+      "duration_ms": 125357,
+      "name": "Mi Chico - Official - Jason Derulo x Melody",
+      "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -367,26 +391,18 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "Mi Chico (Official - Jason Derulo x Melody)",
-        "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
       "artists": [
         {
-          "name": "DJ Goja",
-          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 125357,
-      "name": "Mi Chico - Official - Jason Derulo x Melody",
-      "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -411,18 +427,18 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+      "duration_ms": 140720,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -439,22 +455,6 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
-        "name": "Look at My Life",
-        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Look at My Life",
-      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -479,6 +479,38 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
+        "name": "Look at My Life",
+        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
         "name": "Save Me Tonight",
         "url": "https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z"
       },
@@ -495,22 +527,6 @@
       "duration_ms": 196003,
       "name": "Save Me Tonight",
       "url": "https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -535,18 +551,26 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "Wink Wink",
-        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 122685,
-      "name": "Wink Wink",
-      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
+      "duration_ms": 150944,
+      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -587,6 +611,38 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
         "name": "Watch It Burn",
         "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
       },
@@ -599,46 +655,6 @@
       "duration_ms": 175555,
       "name": "Watch It Burn",
       "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
-        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
-        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 150944,
-      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
-      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
-        "name": "Camera",
-        "url": "https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151438,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -671,6 +687,22 @@
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
+        "name": "Camera",
+        "url": "https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151438,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -731,22 +763,6 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "SS26",
-        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "SS26",
-      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
         "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
         "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
       },
@@ -771,18 +787,34 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "Stop The Wedding!",
-        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 198840,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -807,18 +839,38 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "When He\u2019s Gone",
-        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 186360,
-      "name": "When He\u2019s Gone",
-      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
+      "duration_ms": 158792,
+      "name": "Heaven Baby (feat. ZAYN)",
+      "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 159700,
+      "name": "Cry Ugly",
+      "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -835,6 +887,22 @@
       "duration_ms": 170533,
       "name": "Focu 'Ranni",
       "url": "https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -859,38 +927,6 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "Remedied",
-        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Remedied",
-      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
-        "name": "Don\u2019t Leave Me on the Dance Floor",
-        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Don\u2019t Leave Me on the Dance Floor",
-      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
         "name": "locket",
         "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
       },
@@ -903,6 +939,22 @@
       "duration_ms": 222512,
       "name": "bad enough",
       "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
+        "name": "Remedied",
+        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Remedied",
+      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -923,38 +975,6 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "DIRTY BLONDE",
-        "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
-        "name": "THERAPY AT THE CLUB",
-        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 159700,
-      "name": "Cry Ugly",
-      "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
         "name": "KONNAKOL",
         "url": "https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG"
       },
@@ -967,6 +987,22 @@
       "duration_ms": 197159,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
+        "name": "DIRTY BLONDE",
+        "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -1027,22 +1063,6 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "Little More Time",
-        "url": "https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 218171,
-      "name": "Little More Time",
-      "url": "https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
         "name": "Die For Me",
         "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
       },
@@ -1059,18 +1079,18 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr"
+        "name": "Little More Time",
+        "url": "https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t"
       },
       "artists": [
         {
-          "name": "December 10",
-          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Us Against The World",
-      "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"
+      "duration_ms": 218171,
+      "name": "Little More Time",
+      "url": "https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -1087,6 +1107,22 @@
       "duration_ms": 163173,
       "name": "nah",
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Us Against The World",
+      "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"
     },
     {
       "added_at": "2026-08-14 03:00:26",
@@ -1171,6 +1207,22 @@
     {
       "added_at": "2026-08-14 03:00:26",
       "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+    },
+    {
+      "added_at": "2026-08-14 03:00:26",
+      "album": {
         "name": "BEAUTIFUL DAY",
         "url": "https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa"
       },
@@ -1231,66 +1283,6 @@
       "duration_ms": 184720,
       "name": "The Pavement",
       "url": "https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
-        "name": "Dua Lipa - Live From Mexico",
-        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Fher de Man\u00e1",
-          "url": "https://open.spotify.com/artist/67dkjmTVB5JjU5S0BIkCs7"
-        }
-      ],
-      "duration_ms": 303489,
-      "name": "Oye Mi Amor (feat. Fher de Man\u00e1) [Live From Mexico]",
-      "url": "https://open.spotify.com/track/6UNEcWHoSn6RGk43mGjQnO"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
-        "name": "Nighttime Thing",
-        "url": "https://open.spotify.com/album/6YUp5vj8ISFc0mcWYVxXBj"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 144300,
-      "name": "Nighttime Thing (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR"
-    },
-    {
-      "added_at": "2026-08-14 03:00:26",
-      "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
     }
   ],
   "unique_name": "pov",

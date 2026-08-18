@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 83 | [just a house](https://open.spotify.com/track/0DzTXqEjas7NYeoLsaw6B9) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING \(DELUXE\)](https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd) | 3:39 |
 | 84 | [A Christmas We'll Remember](https://open.spotify.com/track/19SSpYuUi0ytkavyxX05k9) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 2:31 |
 | 85 | [Too Much Of A Good Thing](https://open.spotify.com/track/1j1hE1uyIWcEMLSvMNPBss) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:14 |
-| 86 | [Like Her](https://open.spotify.com/track/4LqwSyXww9XrEG6cN6w6V1) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 3:22 |
-| 87 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
+| 86 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
+| 87 | [Like Her](https://open.spotify.com/track/4LqwSyXww9XrEG6cN6w6V1) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 3:22 |
 | 88 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
 | 89 | [You Are To Me](https://open.spotify.com/track/3y4OfQMZOrGutkuuVPtBu6) | [Pryor Baird](https://open.spotify.com/artist/4vSCJNeLjX3H9utec8uO58) | [You Are To Me](https://open.spotify.com/album/1IsHAQU91h1cYPJZrt0o3e) | 3:52 |
 | 90 | [Show Up](https://open.spotify.com/track/3geEN1a4mrNshmS2qmuqik) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Mercy & Me](https://open.spotify.com/album/7B3T1gPdw86bz9obq258Rj) | 3:02 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 128 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 129 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcZwpAAAAACOW7aBSsqdsnO+3u1KzNXS`
+Snapshot ID: `AcZ2RAAAAADlNgYP8eL5TJqf+wsom+pM`

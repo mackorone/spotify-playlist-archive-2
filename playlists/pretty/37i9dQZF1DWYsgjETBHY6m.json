@@ -1,6 +1,6 @@
 {
   "description": "\uc720\uc800\ubcc4 \ub9de\ucda4\uc73c\ub85c \ucd94\ucc9c\ub418\ub294 \ud799\ud55c \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!",
-  "num_followers": 133446,
+  "num_followers": 133459,
   "original_name": "\ub108 \ud799 \ub3fc?",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
-    },
-    {
-      "added_at": "2026-07-24 08:44:45",
-      "album": {
         "name": "2093",
         "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
       },
@@ -315,18 +299,34 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
         }
       ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "added_at": "2026-07-24 08:44:45",
+      "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "euphoria",
-        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 383639,
-      "name": "euphoria",
-      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -403,26 +403,22 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 169840,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
+      "duration_ms": 300160,
+      "name": "Poetic Justice",
+      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -443,22 +439,26 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 300160,
-      "name": "Poetic Justice",
-      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
+      "duration_ms": 169840,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
+        "name": "Night Time, My Time",
+        "url": "https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
+    },
+    {
+      "added_at": "2026-07-24 08:44:45",
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
-    },
-    {
-      "added_at": "2026-07-24 08:44:45",
-      "album": {
-        "name": "Night Time, My Time",
-        "url": "https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
-    },
-    {
-      "added_at": "2026-07-24 08:44:45",
-      "album": {
         "name": "Get It Sexyy",
         "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "added_at": "2026-07-24 08:44:45",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "lottery pick",
-        "url": "https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        }
-      ],
-      "duration_ms": 114135,
-      "name": "soak city (do it)",
-      "url": "https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD"
-    },
-    {
-      "added_at": "2026-07-24 08:44:45",
-      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 198292,
       "name": "all of me",
       "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
+    },
+    {
+      "added_at": "2026-07-24 08:44:45",
+      "album": {
+        "name": "lottery pick",
+        "url": "https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 114135,
+      "name": "soak city (do it)",
+      "url": "https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD"
     }
   ],
   "unique_name": "\ub108 \ud799 \ub3fc?",

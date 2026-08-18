@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2016. Cover: Shakira\n\n",
-  "num_followers": 73896,
+  "num_followers": 73912,
   "original_name": "Latin Hits 2016",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Hasta el Amanecer",
-      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
-    },
-    {
-      "added_at": "2024-07-13 01:19:45",
-      "album": {
         "name": "H\u00e1blate de M\u00ed",
         "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 215986,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
+    },
+    {
+      "added_at": "2024-07-13 01:19:45",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Hasta el Amanecer",
+      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
     },
     {
       "added_at": "2024-07-13 01:19:45",
@@ -299,34 +299,6 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "Me Reclama",
-        "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
-      },
-      "artists": [
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 187492,
-      "name": "Me Reclama",
-      "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
-    },
-    {
-      "added_at": "2024-07-13 01:19:45",
-      "album": {
         "name": "La Ocasi\u00f3n",
         "url": "https://open.spotify.com/album/3CgogddksNmKJrnAATIMFG"
       },
@@ -359,6 +331,34 @@
       "duration_ms": 336149,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"
+    },
+    {
+      "added_at": "2024-07-13 01:19:45",
+      "album": {
+        "name": "Me Reclama",
+        "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
+      },
+      "artists": [
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 187492,
+      "name": "Me Reclama",
+      "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
     },
     {
       "added_at": "2024-07-13 01:19:45",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
+        "name": "Sobre El Amor Y Sus Efectos Secundarios",
+        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Aprender A Quererte",
+      "url": "https://open.spotify.com/track/3zNcn4BaVfKORyx3uDfruW"
+    },
+    {
+      "added_at": "2024-07-13 01:19:45",
+      "album": {
         "name": "Me Llamas (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 210322,
       "name": "Me Llamas (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX"
-    },
-    {
-      "added_at": "2024-07-13 01:19:45",
-      "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios",
-        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Aprender A Quererte",
-      "url": "https://open.spotify.com/track/3zNcn4BaVfKORyx3uDfruW"
     },
     {
       "added_at": "2024-07-13 01:19:45",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Que Lo Nuestro Se Quede Nuestro",
-      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
-    },
-    {
-      "added_at": "2024-07-13 01:19:45",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 238800,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
+    },
+    {
+      "added_at": "2024-07-13 01:19:45",
+      "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Que Lo Nuestro Se Quede Nuestro",
+      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
     },
     {
       "added_at": "2024-07-13 01:19:45",
@@ -979,22 +979,18 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
+        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 230373,
-      "name": "Embri\u00e1game (feat. Don Omar) - Remix",
-      "url": "https://open.spotify.com/track/1WOJTQfNUEkLlsinPP95VM"
+      "duration_ms": 278373,
+      "name": "Tu Falta De Querer - En Vivo",
+      "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
     }
   ],
   "unique_name": "Latin Hits 2016",

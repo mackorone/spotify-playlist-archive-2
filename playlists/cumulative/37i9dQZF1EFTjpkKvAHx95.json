@@ -965,6 +965,32 @@
     },
     {
       "album": {
+        "name": "Distant Lover",
+        "url": "https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "FANDOM",
+          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217696,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
+    },
+    {
+      "album": {
         "name": "Dreams 2 Reality",
         "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
       },
@@ -2538,6 +2564,28 @@
       "duration_ms": 175508,
       "name": "Make It Hot",
       "url": "https://open.spotify.com/track/1CbJlw9BG647gPCGoieave"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/7v3EosXU86nuE9Z8BZXc1O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "Mama (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/0LRZg0Mfg4IuIf1UrorpyR"
     },
     {
       "album": {
@@ -4200,7 +4248,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"

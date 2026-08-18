@@ -4,11 +4,12 @@
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-33 songs - 1 hr 58 min
+34 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Attacke](https://open.spotify.com/track/45wHa5cP7fMRhA9iEtDBr9) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Attacke](https://open.spotify.com/album/1NTJot1TTlA1H3goKdzcrp) | 3:50 | 2025-06-28 | 2025-12-12 |
+| [Bora Bora](https://open.spotify.com/track/3GNo7A9Voonfk9AgVFYPsK) | [Magan](https://open.spotify.com/artist/0l3zBG99MlGD6ZAdKAwF6x), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Nova Era Best of 100 Músicas](https://open.spotify.com/album/7L2PwjozCp34dOj5xQJiWx) | 3:46 | 2026-08-18 |  |
 | [Can't Get Away](https://open.spotify.com/track/6pmDqTidfGwyMtUXPogaOM) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:56 | 2023-08-09 |  |
 | [Cause](https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 5:30 | 2023-08-09 |  |
 | [Climb Up On My Music](https://open.spotify.com/track/2Gu7LqbawC5nQ4pQBJHNeQ) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 4:54 | 2023-08-09 |  |

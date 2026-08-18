@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Hello mundo (Ao vivo)",
+        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381299,
+      "name": "Duas doses de saudade / Nunca me ver\u00e1 chorar / N\u00e3o quero mais - Ao vivo",
+      "url": "https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg"
+    },
+    {
+      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -842,7 +860,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 232941,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv"

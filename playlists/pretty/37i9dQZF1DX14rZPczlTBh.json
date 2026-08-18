@@ -1,12 +1,12 @@
 {
   "description": "Themes to groove to from Telugu Movies!\n\nCover: Varanasi",
-  "num_followers": 46843,
+  "num_followers": 46851,
   "original_name": "Tollywood Themes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANG7dUkOti/AmyyKdyBtHdIYWk2Q",
+  "snapshot_id": "AAAAAC+IctmYGSenrdYiXRagP4mdSVCl",
   "tracks": [
     {
       "added_at": "2026-04-08 12:33:16",
@@ -733,20 +733,20 @@
       "url": "https://open.spotify.com/track/3gKc0SULku3Zw4A1ZCAm80"
     },
     {
-      "added_at": "2024-09-16 12:26:09",
+      "added_at": "2025-03-25 10:38:06",
       "album": {
-        "name": "Maa Nanna Super Hero Theme (From \"Maa Nanna Super Hero\")",
-        "url": "https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF"
+        "name": "TEST - Telugu (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1kWdF6bVQ2GZyL96xF3rBO"
       },
       "artists": [
         {
-          "name": "Jay Krish",
-          "url": "https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob"
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
         }
       ],
-      "duration_ms": 74000,
-      "name": "Maa Nanna Super Hero Theme (From \"Maa Nanna Super Hero\")",
-      "url": "https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr"
+      "duration_ms": 90235,
+      "name": "\u2060Fall of the Hero - Instrumental",
+      "url": "https://open.spotify.com/track/2U3155pXVjy5PoPMgahtTK"
     },
     {
       "added_at": "2024-10-07 06:56:11",
@@ -773,20 +773,20 @@
       "url": "https://open.spotify.com/track/6SzhKwa0saR0U6C2ZynpKW"
     },
     {
-      "added_at": "2025-03-25 10:38:06",
+      "added_at": "2024-09-16 12:26:09",
       "album": {
-        "name": "TEST - Telugu (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/1kWdF6bVQ2GZyL96xF3rBO"
+        "name": "Maa Nanna Super Hero Theme (From \"Maa Nanna Super Hero\")",
+        "url": "https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF"
       },
       "artists": [
         {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+          "name": "Jay Krish",
+          "url": "https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob"
         }
       ],
-      "duration_ms": 90235,
-      "name": "\u2060Fall of the Hero - Instrumental",
-      "url": "https://open.spotify.com/track/2U3155pXVjy5PoPMgahtTK"
+      "duration_ms": 74000,
+      "name": "Maa Nanna Super Hero Theme (From \"Maa Nanna Super Hero\")",
+      "url": "https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr"
     },
     {
       "added_at": "2024-11-04 06:50:08",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/0M2CZsPTpNYFUTYlIosMqV"
     },
     {
-      "added_at": "2026-02-09 09:40:30",
-      "album": {
-        "name": "Itlu Kanmani Announcement Theme",
-        "url": "https://open.spotify.com/album/5tg9gAncqIphPnEx6MNJsn"
-      },
-      "artists": [
-        {
-          "name": "Praveen Sriram",
-          "url": "https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6"
-        }
-      ],
-      "duration_ms": 63471,
-      "name": "Itlu Kanmani Announcement Theme",
-      "url": "https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH"
-    },
-    {
       "added_at": "2026-08-10 07:22:26",
       "album": {
         "name": "KJQ",
@@ -857,6 +841,22 @@
       "url": "https://open.spotify.com/track/2KInS1OQxGpILA4LvfA10f"
     },
     {
+      "added_at": "2026-02-09 09:40:30",
+      "album": {
+        "name": "Itlu Kanmani Announcement Theme",
+        "url": "https://open.spotify.com/album/5tg9gAncqIphPnEx6MNJsn"
+      },
+      "artists": [
+        {
+          "name": "Praveen Sriram",
+          "url": "https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6"
+        }
+      ],
+      "duration_ms": 63471,
+      "name": "Itlu Kanmani Announcement Theme",
+      "url": "https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH"
+    },
+    {
       "added_at": "2026-08-10 07:22:26",
       "album": {
         "name": "Title Glimpse (From \"BharataVarsha \u2013 Saga Of Shula\")",
@@ -871,6 +871,30 @@
       "duration_ms": 64615,
       "name": "Title Glimpse (From \"BharataVarsha \u2013 Saga Of Shula\")",
       "url": "https://open.spotify.com/track/1oN3V3I3ZDcae7JKXP4a62"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
+        "name": "Businessman",
+        "url": "https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz"
+      },
+      "artists": [
+        {
+          "name": "Mahesh Babu",
+          "url": "https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK"
+        },
+        {
+          "name": "Puri Jagannath",
+          "url": "https://open.spotify.com/artist/5qRAnJeG7hK5QaUm79GKhg"
+        },
+        {
+          "name": "Chours",
+          "url": "https://open.spotify.com/artist/0GIOsTRn0PVodWAHcc6NkB"
+        }
+      ],
+      "duration_ms": 167240,
+      "name": "Businessman Theme",
+      "url": "https://open.spotify.com/track/7CDtNYmYLreTJB3NCQOOz6"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -891,22 +915,6 @@
       "duration_ms": 189880,
       "name": "Agni Skalana",
       "url": "https://open.spotify.com/track/547drAxnHv6qRwvJMceREO"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Badrenath",
-        "url": "https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw"
-      },
-      "artists": [
-        {
-          "name": "Chorus",
-          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
-        }
-      ],
-      "duration_ms": 137753,
-      "name": "Badrenath Theme",
-      "url": "https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj"
     }
   ],
   "unique_name": "Tollywood Themes",

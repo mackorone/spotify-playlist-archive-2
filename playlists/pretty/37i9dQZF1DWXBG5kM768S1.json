@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 81384,
+  "num_followers": 81385,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+        "name": "Varme Ut Av Is",
+        "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
       },
       "artists": [
         {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+          "name": "J\u00f8rn Hoel",
+          "url": "https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC"
         }
       ],
-      "duration_ms": 219088,
-      "name": "Kj\u00e6rlighetsvisa",
-      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
+      "duration_ms": 234466,
+      "name": "Har En Dr\u00f8m",
+      "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -343,18 +343,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Varme Ut Av Is",
-        "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
       "artists": [
         {
-          "name": "J\u00f8rn Hoel",
-          "url": "https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC"
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
         }
       ],
-      "duration_ms": 234466,
-      "name": "Har En Dr\u00f8m",
-      "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
+      "duration_ms": 219088,
+      "name": "Kj\u00e6rlighetsvisa",
+      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -687,6 +687,26 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Evig kvile",
+        "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 189239,
+      "name": "Evig kvile",
+      "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Hildringstimer - 14 velvalgte viser",
         "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 188796,
       "name": "Aldri i livet",
       "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "Evig kvile",
-        "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 189239,
-      "name": "Evig kvile",
-      "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
     },
     {
       "added_at": "2026-03-12 23:00:43",

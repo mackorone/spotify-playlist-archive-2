@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -9928,7 +9928,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -12546,7 +12546,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -26118,7 +26118,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 237662,
       "name": "Isibaya Sikababa",
       "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
@@ -27026,7 +27026,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 284003,
       "name": "Izinkinga Zami",
       "url": "https://open.spotify.com/track/3cSHiNQ5ntNfERXSxJOPAR"
@@ -28964,7 +28964,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 222000,
       "name": "Kgotso Batswadi",
       "url": "https://open.spotify.com/track/6Y96yBhqz1jTLJo2GJD1Kr"
@@ -32140,7 +32140,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 446316,
       "name": "Lilizela",
       "url": "https://open.spotify.com/track/0EHeLEHLDKzU9eiBd61esH"
@@ -35364,7 +35364,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 286746,
       "name": "Menateng (feat. Patron West, Gallarbass & Stellenbosch)",
       "url": "https://open.spotify.com/track/5QHQ4qcm5VgvAWaKXP7zOA"
@@ -35542,7 +35542,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -39280,7 +39280,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 253743,
       "name": "Ngilimele Kakhulu",
       "url": "https://open.spotify.com/track/6HxcilFI5SZnZYbXWVnMSE"
@@ -47957,6 +47957,24 @@
     },
     {
       "album": {
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/5dTYqWwCrUMSPJX6Um8q3w"
+      },
+      "artists": [
+        {
+          "name": "Sanele Ngubane",
+          "url": "https://open.spotify.com/artist/47i3NWsVnmPQnTvuCPhGnk"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203937,
+      "name": "Savumela izitha",
+      "url": "https://open.spotify.com/track/5zARQ8riwBKYo012GAVCsb"
+    },
+    {
+      "album": {
         "name": "House of Hits, Vol. 3",
         "url": "https://open.spotify.com/album/3lIG3MDgD70U6ldgMZxmS9"
       },
@@ -53310,7 +53328,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 272796,
       "name": "Sulani Igama Lami",
       "url": "https://open.spotify.com/track/3UW749nyBzpq0nyQQn8W0Z"
@@ -54458,7 +54476,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 382442,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/5z6nmZGMQoQGlrB8RhJ5s5"
@@ -57978,7 +57996,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 304448,
       "name": "uBhanyazile",
       "url": "https://open.spotify.com/track/2vAXhH6mBuKPD3hb0xHQne"
@@ -60222,7 +60240,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 284055,
       "name": "Uvume Kanjani?",
       "url": "https://open.spotify.com/track/1SBdVvoxfFvuO6BVY9WqnI"
@@ -60274,7 +60292,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 198009,
       "name": "Uyajola lo",
       "url": "https://open.spotify.com/track/4oqN0vEjGjzwppSJFaFuuH"

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "When Everything Feels\u2026",
+        "url": "https://open.spotify.com/album/2STSvdIO242hXhUbreeEs0"
+      },
+      "artists": [
+        {
+          "name": "Jason Stephenson",
+          "url": "https://open.spotify.com/artist/1DbGUgDfEgFlJpUVCdiBxa"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196625,
+      "name": "174 Hz Some Days Feel Heavier",
+      "url": "https://open.spotify.com/track/1yYgyLlwgeFMLAIKuQWlCx"
+    },
+    {
+      "album": {
         "name": "2003 Toyota Corolla",
         "url": "https://open.spotify.com/album/4oOr6KBLtpEF3zjlK5HMYx"
       },

@@ -4,7 +4,7 @@
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-74 songs - 5 hr 25 min
+75 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Nobody Loves Me Like You Do \(with Jermaine Jackson\)](https://open.spotify.com/track/72NcOvvGdarZaOyKMNHZ1m) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:48 | 2023-08-09 | 2024-07-23 |
 | [Okay \(It's Not Right\)](https://open.spotify.com/track/5xbqHSiuSYrYMNE92JjNhS) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [I Wanna Dance With Somebody \(The Movie: Whitney New, Classic and Reimagined\)](https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv) | 2:16 | 2023-07-28 | 2023-08-20 |
 | [One Moment in Time](https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wanna Dance With Somebody \(The Movie: Whitney New, Classic and Reimagined\)](https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv) | 4:44 | 2023-07-28 | 2024-07-24 |
-| [One Moment in Time](https://open.spotify.com/track/019idzgPu9rb4422DjQcnO) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP) | 4:45 | 2025-07-06 |  |
+| [One Moment in Time](https://open.spotify.com/track/019idzgPu9rb4422DjQcnO) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP) | 4:45 | 2025-07-06 | 2026-08-18 |
 | [One Moment in Time](https://open.spotify.com/track/5IDUGTWbntYwO9SNmhuSWf) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg) | 4:45 | 2024-07-24 | 2025-07-06 |
+| [One Moment in Time](https://open.spotify.com/track/3kzrufwgPqz28dbwoVXQv2) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [WH1TNEY \(Expanded Edition\)](https://open.spotify.com/album/4kpef1wDrE01s55A9z1Qwb) | 4:46 | 2026-08-18 |  |
 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 | 2023-07-28 |  |
 | [Queen of the Night \- Radio Edit](https://open.spotify.com/track/7lARcL3Gu0wKcPcQ3t9xiF) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 3:08 | 2023-07-28 |  |
 | [Run to You](https://open.spotify.com/track/6M1M6cRtVkm5d0qTzkSEuK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:24 | 2023-07-28 |  |

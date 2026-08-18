@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 11811,
+  "num_followers": 11830,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAiThxxRx77Opbl4RoNudaq",
+  "snapshot_id": "aoD9gAAAAAABVTp1QosvUG7b51LUj0j5",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okanlawon, Vol. 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
-      },
-      "artists": [
-        {
-          "name": "Cazulee",
-          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 212871,
-      "name": "The Way (Remix)",
-      "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerous Wavy Baby",
         "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 118938,
       "name": "On D Low",
       "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Okanlawon, Vol. 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
+      },
+      "artists": [
+        {
+          "name": "Cazulee",
+          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 212871,
+      "name": "The Way (Remix)",
+      "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
     },
     {
       "added_at": null,

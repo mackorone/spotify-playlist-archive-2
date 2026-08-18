@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 
 > This is Ludwig Göransson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,982 likes - 27 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,994 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 | 26 | [BETRAYAL](https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 3:55 |
 | 27 | [WINDMILLS](https://open.spotify.com/track/0WBa6rf5NCpkAbvhgWgmEE) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 5:16 |
 
-Snapshot ID: `an+sAAAAAAA5LqK2sCJv432WSnUry/zV`
+Snapshot ID: `aoD9gAAAAAB44AXv7B3fVusAwQ8dAOpD`

@@ -40781,6 +40781,24 @@
     },
     {
       "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
+    },
+    {
+      "album": {
         "name": "Toy With Me",
         "url": "https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H"
       },
@@ -45684,6 +45702,24 @@
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
+    },
+    {
+      "album": {
+        "name": "Tastes Like Summer",
+        "url": "https://open.spotify.com/album/0T7lhonUTlZ7zbzKVIPdvJ"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219808,
+      "name": "Tastes Like Summer",
+      "url": "https://open.spotify.com/track/74jKa2gKnngQwP3HMRke6b"
     },
     {
       "album": {

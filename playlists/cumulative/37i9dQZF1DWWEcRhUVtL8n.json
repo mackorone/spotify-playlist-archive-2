@@ -12951,6 +12951,24 @@
     },
     {
       "album": {
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156640,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
+    },
+    {
+      "album": {
         "name": "Endless Sundays",
         "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
       },
@@ -15872,7 +15890,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 159974,
       "name": "glitter in the night",
       "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
@@ -19116,7 +19134,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
@@ -22802,7 +22820,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 198091,
       "name": "kiss of life. (you\u2019re kinda magical)",
       "url": "https://open.spotify.com/track/4cW17k9yriRkF6j2hz4LPY"
@@ -35303,6 +35321,24 @@
     },
     {
       "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+    },
+    {
+      "album": {
         "name": "Shiny Stockings",
         "url": "https://open.spotify.com/album/7uLkCFhxXT6373P8pulfLC"
       },
@@ -39075,6 +39111,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
+    },
+    {
+      "album": {
         "name": "Sunshine Baby",
         "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
       },
@@ -40186,7 +40240,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 198092,
       "name": "terrible4u",
       "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
@@ -44954,6 +45008,24 @@
       "duration_ms": 128143,
       "name": "Windows - No Rome Remix",
       "url": "https://open.spotify.com/track/5q0Y1svWIHkmx4Q9uH0VxB"
+    },
+    {
+      "album": {
+        "name": "Wine",
+        "url": "https://open.spotify.com/album/3GaZLBgfiD0Z7irkNPNcVm"
+      },
+      "artists": [
+        {
+          "name": "Lila Drew",
+          "url": "https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206247,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/6Ht6IgAvwRHNUDFlwdYdMt"
     },
     {
       "album": {

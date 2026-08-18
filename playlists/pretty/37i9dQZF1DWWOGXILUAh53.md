@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Icona Pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,175 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,350 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 11 | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI) | 3:12 |
 | 12 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 |
 | 13 | [My Darlin'](https://open.spotify.com/track/3YCPMgglyGmlBAgIHE8KJw) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Das Ist Daddy](https://open.spotify.com/album/2YebmkQzLA10QYQc6GOMM6) | 2:49 |
-| 14 | [Push it \(cardiac\)](https://open.spotify.com/track/7rvmTYVaJYbj2RNXnAeJRh) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Push it \(cardiac\)](https://open.spotify.com/album/47JSXSvhUnVxjbkQxnpeba) | 2:50 |
-| 15 | [Magic](https://open.spotify.com/track/0l36pn7VQtGkqdarml0F9o) | [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Magic](https://open.spotify.com/album/63FJCARS25Km4QVmsmD6P4) | 3:12 |
-| 16 | [My People](https://open.spotify.com/track/0IMnvDOnuuBvPWeZoiPVXC) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [My People](https://open.spotify.com/album/6ypD23tp3wECaBpN14ATKD) | 2:44 |
-| 17 | [heyyy](https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0), [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL), [Ruby Bell](https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO) | [Goodbye 2012!](https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi) | 3:02 |
-| 18 | [Alive](https://open.spotify.com/track/75Mvnxpsa42JsQp5xeo00C) | [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF) | [Alive](https://open.spotify.com/album/2VXuMY40qncXU9Bhwsx5aY) | 3:42 |
-| 19 | [Take Me Back](https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Take Me Back](https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju) | 3:21 |
-| 20 | [Only Girl](https://open.spotify.com/track/7g1CPq2enxhjC3L9VB6v4B) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Only Girl](https://open.spotify.com/album/6YT5QPVZzh7JIA7HK4gGHp) | 3:26 |
-| 21 | [FIANCHI](https://open.spotify.com/track/4Mrmo8tcADYG7lNU00lOWk) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [FIANCHI](https://open.spotify.com/album/1LNpW6xFwBPn8gnMlsr9hx) | 2:26 |
-| 22 | [Know U](https://open.spotify.com/track/0WVONyugDaPNyVfPQLILW0) | [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Know U](https://open.spotify.com/album/7lSUo43H1gOjD28zjGVPjX) | 3:22 |
-| 23 | [Set Me Free](https://open.spotify.com/track/7MKIb9fIg1P7iPBqN0Qqdd) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Dony](https://open.spotify.com/artist/2vwh0HUGUXwQAha9E4NiI0) | [Set Me Free](https://open.spotify.com/album/7igfzfElmtfpUYUeNVngSr) | 2:13 |
-| 24 | [The Girl](https://open.spotify.com/track/7c4Y1rjZZTAqCsETNQ7b8X) | [MNDR](https://open.spotify.com/artist/1oYs6zcjeVnOAd9x2Jpbc7) | [The Girl](https://open.spotify.com/album/6peKOe2jNmiqvLarnjQmhy) | 2:20 |
+| 14 | [Your Eyes](https://open.spotify.com/track/3HVWaByq4vURdqW7whTbEf) | [Pixie Lane](https://open.spotify.com/artist/3Br6ncRU4z030LyHPpfflF) | [Your Eyes](https://open.spotify.com/album/7EPiK4GsTGSxPnQnxptvln) | 3:02 |
+| 15 | [Push it \(cardiac\)](https://open.spotify.com/track/7rvmTYVaJYbj2RNXnAeJRh) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Push it \(cardiac\)](https://open.spotify.com/album/47JSXSvhUnVxjbkQxnpeba) | 2:50 |
+| 16 | [Magic](https://open.spotify.com/track/0l36pn7VQtGkqdarml0F9o) | [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Magic](https://open.spotify.com/album/63FJCARS25Km4QVmsmD6P4) | 3:12 |
+| 17 | [My People](https://open.spotify.com/track/0IMnvDOnuuBvPWeZoiPVXC) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [My People](https://open.spotify.com/album/6ypD23tp3wECaBpN14ATKD) | 2:44 |
+| 18 | [heyyy](https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0), [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL), [Ruby Bell](https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO) | [Goodbye 2012!](https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi) | 3:02 |
+| 19 | [Alive](https://open.spotify.com/track/75Mvnxpsa42JsQp5xeo00C) | [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF) | [Alive](https://open.spotify.com/album/2VXuMY40qncXU9Bhwsx5aY) | 3:42 |
+| 20 | [Take Me Back](https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Take Me Back](https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju) | 3:21 |
+| 21 | [Only Girl](https://open.spotify.com/track/7g1CPq2enxhjC3L9VB6v4B) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Only Girl](https://open.spotify.com/album/6YT5QPVZzh7JIA7HK4gGHp) | 3:26 |
+| 22 | [FIANCHI](https://open.spotify.com/track/4Mrmo8tcADYG7lNU00lOWk) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [FIANCHI](https://open.spotify.com/album/1LNpW6xFwBPn8gnMlsr9hx) | 2:26 |
+| 23 | [Know U](https://open.spotify.com/track/0WVONyugDaPNyVfPQLILW0) | [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Know U](https://open.spotify.com/album/7lSUo43H1gOjD28zjGVPjX) | 3:22 |
+| 24 | [Set Me Free](https://open.spotify.com/track/7MKIb9fIg1P7iPBqN0Qqdd) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Dony](https://open.spotify.com/artist/2vwh0HUGUXwQAha9E4NiI0) | [Set Me Free](https://open.spotify.com/album/7igfzfElmtfpUYUeNVngSr) | 2:13 |
 | 25 | [Bulletproof \(This Time Baby\) \[feat\. La Roux\]](https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Bulletproof \(This Time Baby\) \[feat\. La Roux\]](https://open.spotify.com/album/6BlDeDwHOmkE6PerQJE1yV) | 2:38 |
 | 26 | [Say Yea \(feat\. Amira Eldine\)](https://open.spotify.com/track/5AQDvtN8uwUIpEKS2znReK) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [Say Yea \(feat\. Amira Eldine\)](https://open.spotify.com/album/3c0uU6xEkAC44eIgSRbJFG) | 2:39 |
 | 27 | [River](https://open.spotify.com/track/7A9QFSxkFvs2rznGBwhM6M) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [River](https://open.spotify.com/album/5po8JSgrfUUMcc6r9lLawl) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 |
 | 100 | [Remember Us \(feat\. Dustin Lynch\)](https://open.spotify.com/track/2Eg4pK9k0XxiJsta9Q8MrO) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [OASIS](https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq) | 2:50 |
 
-Snapshot ID: `AAAAAARK68JuaS4Ht0aWRrNVk2gmcM3d`
+Snapshot ID: `AAAAAA6ciRJhMNZCJPP6/jnGRI29KW4h`

@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 120127,
+  "num_followers": 120130,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADhHCx/BAinESZWKRztsCwT",
+  "snapshot_id": "aoD9gAAAAACYsl8fJ9JDrTlGD8CBmjS4",
   "tracks": [
     {
       "added_at": null,
@@ -999,6 +999,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where The Shooters Be",
+        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 177731,
+      "name": "Step 1 (with Offset)",
+      "url": "https://open.spotify.com/track/4GpTHfZ8vq7QDGB2fiSV7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hurts Like Hell (feat. Offset)",
         "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 217220,
       "name": "Pink Toes (Offset, DaBaby feat. Gunna)",
       "url": "https://open.spotify.com/track/0W1ZfgXpC23RYQPDq7RM5I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where The Shooters Be",
-        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 177731,
-      "name": "Step 1 (with Offset)",
-      "url": "https://open.spotify.com/track/4GpTHfZ8vq7QDGB2fiSV7Q"
     },
     {
       "added_at": null,

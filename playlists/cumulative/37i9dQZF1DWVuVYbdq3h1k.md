@@ -4,7 +4,7 @@
 
 > Sí, ¡ya estamos viejos! Julieta Venegas en portada.
 
-143 songs - 9 hr 5 min
+144 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Labio Dulce](https://open.spotify.com/track/6PRqxCVfcSaFzRl97xQm9q) | [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p) | [Fresas Con Vodka](https://open.spotify.com/album/71677AuNq2EJeafIOJS3RG) | 3:50 | 2020-11-17 | 2024-04-19 |
 | [A quien tú decidiste amar](https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Lo Que Siempre Soñamos Ser](https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx) | 3:49 | 2020-11-17 |  |
 | [Afortunadamente No Eres Tu](https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Afortunadamente No Eres Tu](https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1) | 3:08 | 2020-11-17 |  |
+| [Alucinado](https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Yahir](https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6) | 5:04 | 2026-05-26 |  |
 | [Amargo Adiós](https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:48 | 2020-11-17 |  |
 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 | 2020-11-17 | 2024-04-19 |
 | [Amor del Bueno](https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 4:02 | 2020-11-17 |  |
@@ -136,7 +137,7 @@
 | [The Ketchup Song \(Aserejé\) \- Spanish Version](https://open.spotify.com/track/6NG2IIXZfC5Notpz0GIODU) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Aserejé \(The Ketchup Song\)](https://open.spotify.com/album/5k9nNGzp6ogw5bBULPeMSz) | 3:33 | 2020-11-17 |  |
 | [Tocando Fondo](https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 4:06 | 2020-11-17 |  |
 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 | 2020-11-17 |  |
-| [Torero](https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 3:37 | 2020-11-17 |  |
+| [Torero](https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 3:37 | 2020-11-17 | 2026-08-18 |
 | [Tu Calorro](https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:10 | 2020-11-17 |  |
 | [Tu Peor Error](https://open.spotify.com/track/7d150WRJT9MyoscfcG0SjX) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [El Mundo Se Equivoca](https://open.spotify.com/album/6C0am1pBvF0viIFsa0FZnp) | 2:47 | 2020-11-17 | 2024-09-28 |
 | [Tu Recuerdo \(feat\. Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 | 2020-11-17 |  |

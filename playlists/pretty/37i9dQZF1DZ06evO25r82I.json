@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 50601,
+  "num_followers": 50613,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAxmxAdVx0Gsaxyvh1flTRD",
+  "snapshot_id": "aoD9gAAAAAAjdQh3lDWWZ8UcpbzUGhKB",
   "tracks": [
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static Prevails (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 154666,
-      "name": "What Would I Say To You Now",
-      "url": "https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc"
+      "duration_ms": 250320,
+      "name": "(Splash) Turn Twist",
+      "url": "https://open.spotify.com/track/1gTxd0qlKXntIjENSRHofF"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "What Would I Say To You Now",
+      "url": "https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 187800,
       "name": "Damage",
       "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 250320,
-      "name": "(Splash) Turn Twist",
-      "url": "https://open.spotify.com/track/1gTxd0qlKXntIjENSRHofF"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Francois van Coke",
-  "num_followers": 28248,
+  "num_followers": 28257,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,22 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
+        "name": "Vanfokkingtasties Akoesties",
+        "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
       "artists": [
         {
-          "name": "GRANGE",
-          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
+          "name": "Vanfokkingtasties",
+          "url": "https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD"
+        },
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
         }
       ],
-      "duration_ms": 239258,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
+      "duration_ms": 210520,
+      "name": "Dagdronk",
+      "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -331,22 +335,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Vanfokkingtasties Akoesties",
-        "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
       },
       "artists": [
         {
-          "name": "Vanfokkingtasties",
-          "url": "https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD"
-        },
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+          "name": "GRANGE",
+          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Dagdronk",
-      "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
+      "duration_ms": 239258,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
     },
     {
       "added_at": "2026-07-30 22:01:23",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "TREAT HIM LIKE A BABY",
-        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 149446,
-      "name": "TREAT HIM LIKE A BABY",
-      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "SELFBEWUS",
         "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 192794,
       "name": "SELFBEWUS",
       "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "TREAT HIM LIKE A BABY",
+        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "TREAT HIM LIKE A BABY",
+      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
     },
     {
       "added_at": "2026-07-02 22:01:16",
@@ -421,20 +421,20 @@
       "url": "https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu"
     },
     {
-      "added_at": "2026-06-12 06:02:15",
+      "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Delete You.",
-        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
       },
       "artists": [
         {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
         }
       ],
-      "duration_ms": 188459,
-      "name": "Delete You.",
-      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
       "added_at": "2026-06-12 06:02:15",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-06-12 06:02:15",
       "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
+        "name": "Delete You.",
+        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
       },
       "artists": [
         {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
         }
       ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+      "duration_ms": 188459,
+      "name": "Delete You.",
+      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
     },
     {
-      "added_at": "2026-07-02 22:01:16",
-      "album": {
-        "name": "HYMN",
-        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
-      },
-      "artists": [
-        {
-          "name": "Pussy Heaven",
-          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
-        }
-      ],
-      "duration_ms": 184682,
-      "name": "GIZMO",
-      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
-    },
-    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Elsie",
@@ -559,6 +543,22 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
+        "name": "KLEUR",
+        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
+      },
+      "artists": [
+        {
+          "name": "MOEGOE",
+          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
+        }
+      ],
+      "duration_ms": 201420,
+      "name": "KLEUR",
+      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
         "name": "By Jou",
         "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
       },
@@ -573,20 +573,20 @@
       "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-07-02 22:01:16",
       "album": {
-        "name": "KLEUR",
-        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
+        "name": "HYMN",
+        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
       },
       "artists": [
         {
-          "name": "MOEGOE",
-          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
+          "name": "Pussy Heaven",
+          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
         }
       ],
-      "duration_ms": 201420,
-      "name": "KLEUR",
-      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+      "duration_ms": 184682,
+      "name": "GIZMO",
+      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
     },
     {
       "added_at": "2026-07-30 22:01:23",
@@ -603,6 +603,26 @@
       "duration_ms": 237456,
       "name": "Bleek",
       "url": "https://open.spotify.com/track/3wMjJvDOlQrlmZTWhImpgy"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Gatvol",
+        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 166031,
+      "name": "Gatvol",
+      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -639,26 +659,6 @@
       "duration_ms": 159253,
       "name": "Hemel Op Die Platteland",
       "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Gatvol",
-        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
-      },
-      "artists": [
-        {
-          "name": "Droomsindroom",
-          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 166031,
-      "name": "Gatvol",
-      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4"
     },
     {
-      "added_at": "2026-07-02 22:01:16",
-      "album": {
-        "name": "Read Your Mind",
-        "url": "https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 123506,
-      "name": "Read Your Mind",
-      "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
-    },
-    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Lego",
@@ -775,6 +759,22 @@
       "duration_ms": 151329,
       "name": "Lego",
       "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
+    },
+    {
+      "added_at": "2026-07-02 22:01:16",
+      "album": {
+        "name": "Read Your Mind",
+        "url": "https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 123506,
+      "name": "Read Your Mind",
+      "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -809,26 +809,6 @@
       "url": "https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH"
     },
     {
-      "added_at": "2026-07-02 22:01:16",
-      "album": {
-        "name": "Groen en Goud",
-        "url": "https://open.spotify.com/album/1TswJWQsVA5EOCbDqNaYjd"
-      },
-      "artists": [
-        {
-          "name": "VOLK",
-          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
-        },
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 132283,
-      "name": "Groen en Goud",
-      "url": "https://open.spotify.com/track/4ECZ8E595VQ5yQFMtCT7s2"
-    },
-    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "A Little Less",
@@ -859,6 +839,22 @@
       "duration_ms": 255722,
       "name": "Berge",
       "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     }
   ],
   "unique_name": "SA Rock ",

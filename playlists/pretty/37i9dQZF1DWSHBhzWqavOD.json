@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 26776,
+  "num_followers": 26830,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Breaking",
-        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Aura Salad",
-      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "SOUTH GIDI",
         "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 375535,
       "name": "MONEY CONSTANT",
       "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Adriano",
-        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 142122,
-      "name": "Adriano",
-      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 231618,
       "name": "Ye",
       "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Adriano",
+        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 142122,
+      "name": "Adriano",
+      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "BAD BOY LOVESTORY",
+        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 184988,
+      "name": "FASHION DESIGNA",
+      "url": "https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Commando",
         "url": "https://open.spotify.com/album/6ag1Md5xNt3VvOdN0UbQDh"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "BAD BOY LOVESTORY",
-        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 184988,
-      "name": "FASHION DESIGNA",
-      "url": "https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Site 15",
         "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Commando",
-        "url": "https://open.spotify.com/album/6ag1Md5xNt3VvOdN0UbQDh"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 196453,
-      "name": "R\u00e9seaux",
-      "url": "https://open.spotify.com/track/0HKNlsZ0zFlSqUqWj1nVVG"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -595,6 +579,22 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/6ag1Md5xNt3VvOdN0UbQDh"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 196453,
+      "name": "R\u00e9seaux",
+      "url": "https://open.spotify.com/track/0HKNlsZ0zFlSqUqWj1nVVG"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 148656,
       "name": "Coco",
       "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -751,6 +751,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Iskaba",
+        "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Iskaba",
+      "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -771,22 +791,18 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Iskaba",
-        "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Iskaba",
-      "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/33okuzZlDmJYJtA7hM4hxK"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -843,22 +859,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/33okuzZlDmJYJtA7hM4hxK"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -903,6 +903,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Blue Disco",
+        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Che Che (feat. Asake)",
+      "url": "https://open.spotify.com/track/6xYaf931EF3ZeurqrMxNCO"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Vuka (feat. Thukuthela)",
         "url": "https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 167027,
       "name": "Maliciosa - Ao Vivo",
       "url": "https://open.spotify.com/track/3CJiho39iutZrDxQG5Vubl"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Che Che (feat. Asake)",
-      "url": "https://open.spotify.com/track/6xYaf931EF3ZeurqrMxNCO"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "forever be mine (feat. Wizkid)",
         "url": "https://open.spotify.com/album/7tWxhICLUYrxpalqEqT4kT"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 184800,
       "name": "Favourite Girl (with Rema)",
       "url": "https://open.spotify.com/track/7u6T1ywvmYjg6bhSCL922T"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "So Mi So",
+        "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 245182,
+      "name": "So Mi So",
+      "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Kilometer II",
         "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "So Mi So",
-        "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 245182,
-      "name": "So Mi So",
-      "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Notumato",
         "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
       },
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Juvie",
-        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/0AFiYwKCOujgiuK0zlXpjb"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "No Sign of Weakness",
         "url": "https://open.spotify.com/album/0K9DQYNFGj1po76L6KgG2g"
       },
@@ -1219,22 +1199,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Always (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+        "name": "Gentility",
+        "url": "https://open.spotify.com/album/5xHAJFZs4692uGn0j79eRZ"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 154957,
-      "name": "Always (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+      "duration_ms": 225729,
+      "name": "Gentility",
+      "url": "https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1255,6 +1235,26 @@
       "duration_ms": 164745,
       "name": "Escaladizzy",
       "url": "https://open.spotify.com/track/258ZOMdFXcoTHA5D2LnCzZ"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Always (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 154957,
+      "name": "Always (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1295,22 +1295,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Gentility",
-        "url": "https://open.spotify.com/album/5xHAJFZs4692uGn0j79eRZ"
+        "name": "Juvie",
+        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         },
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 225729,
-      "name": "Gentility",
-      "url": "https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn"
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/0AFiYwKCOujgiuK0zlXpjb"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Nkao Tempela",
+        "url": "https://open.spotify.com/album/0gsRuYnWqKq0HECQtdVGHx"
+      },
+      "artists": [
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 361528,
+      "name": "Nkao Tempela",
+      "url": "https://open.spotify.com/track/5px6g0U4AmfF8Jx9uhJbVC"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "4 DA STREETS!",
         "url": "https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 351000,
       "name": "Cn I see u (feat. BarbieSZN)",
       "url": "https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Nkao Tempela",
-        "url": "https://open.spotify.com/album/0gsRuYnWqKq0HECQtdVGHx"
-      },
-      "artists": [
-        {
-          "name": "Ch'cco",
-          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        }
-      ],
-      "duration_ms": 361528,
-      "name": "Nkao Tempela",
-      "url": "https://open.spotify.com/track/5px6g0U4AmfF8Jx9uhJbVC"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1651,22 +1651,18 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Juvie",
-        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
+        "name": "Coup\u00e9 bibamba",
+        "url": "https://open.spotify.com/album/5LmpNCsae8Eti1itcgku5b"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
         }
       ],
-      "duration_ms": 161938,
-      "name": "\u2060Morocco",
-      "url": "https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta"
+      "duration_ms": 396226,
+      "name": "G\u00e2t\u00e9 le coin",
+      "url": "https://open.spotify.com/track/7JwMYisgPeWOY2i6bCkoO4"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1691,18 +1687,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Coup\u00e9 bibamba",
-        "url": "https://open.spotify.com/album/5LmpNCsae8Eti1itcgku5b"
+        "name": "Juvie",
+        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
       },
       "artists": [
         {
-          "name": "Awilo Longomba",
-          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
         }
       ],
-      "duration_ms": 396226,
-      "name": "G\u00e2t\u00e9 le coin",
-      "url": "https://open.spotify.com/track/7JwMYisgPeWOY2i6bCkoO4"
+      "duration_ms": 161938,
+      "name": "\u2060Morocco",
+      "url": "https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+        "name": "R2Bees, Vol. 2",
+        "url": "https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Bundle By Bundle",
-      "url": "https://open.spotify.com/track/3jzdiPzvbVGH3kSTlsMxNo"
+      "duration_ms": 220474,
+      "name": "Life (Walaahi)",
+      "url": "https://open.spotify.com/track/0P29bgcXgz7oG6pvzThEl7"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "R2Bees, Vol. 2",
-        "url": "https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf"
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 220474,
-      "name": "Life (Walaahi)",
-      "url": "https://open.spotify.com/track/0P29bgcXgz7oG6pvzThEl7"
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/3jzdiPzvbVGH3kSTlsMxNo"
     },
     {
       "added_at": "2026-06-30 14:51:43",

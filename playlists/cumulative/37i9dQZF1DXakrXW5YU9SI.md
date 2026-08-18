@@ -4,7 +4,7 @@
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-1,050 songs - 2 day 10 hr 37 min
+1,051 songs - 2 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Good Reason](https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:08 | 2026-07-17 |  |
 | [Goodbye Henry\. \(feat\. Al Green\)](https://open.spotify.com/track/5lBL8xRTXIDpPDJcuPL9UH) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:20 | 2026-03-27 | 2026-06-10 |
 | [Gorset](https://open.spotify.com/track/5KkcaqjflHxH2MenhXxhXQ) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/2C6jNdGg4KZG0AdBJEKFuv) | 3:28 | 2025-02-28 | 2025-04-05 |
-| [Gotham](https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Gotham](https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU) | 2:55 | 2026-06-12 |  |
+| [Gotham](https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Gotham](https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU) | 2:55 | 2026-06-12 | 2026-08-18 |
 | [Grawitacja](https://open.spotify.com/track/580hVA2gNGGXw3A7lRGt4o) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2), [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Grawitacja](https://open.spotify.com/album/7z7UtlzDsbXxFbQNHDSfJ8) | 3:03 | 2026-06-09 | 2026-06-13 |
 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 | 2025-05-31 | 2025-06-22 |
 | [Gruby, mały](https://open.spotify.com/track/2WaOaEIZr4oh0ln0L97VjQ) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Gruby, mały](https://open.spotify.com/album/1UXja0VTnnSZ08viavGIp7) | 4:01 | 2026-05-15 | 2026-06-27 |
@@ -827,6 +827,7 @@
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2024-07-05 | 2024-07-12 |
 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 | 2025-12-05 | 2026-03-14 |
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-14 | 2025-05-24 |
+| [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 | 2026-08-14 |  |
 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 | 2025-03-28 | 2025-06-01 |
 | [Sunshine In The Room \(feat\. Jon Batiste\)](https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Sunshine In The Room](https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW) | 3:02 | 2025-02-07 | 2025-03-01 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-16 | 2025-09-16 |

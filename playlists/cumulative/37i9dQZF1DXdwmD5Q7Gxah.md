@@ -4,7 +4,7 @@
 
 > art takes time, six long years worth the wait\. Phoebe Bridgers on the cover\. <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-3,938 songs - 8 day 23 hr 54 min
+3,940 songs - 9 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1183,6 +1183,7 @@
 | [FEELS LIKE HOME](https://open.spotify.com/track/0T9un1tCka7l3lwsJmmLLU) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FEELS LIKE HOME](https://open.spotify.com/album/5HHEFnwQ2n6rkUOiRLkv3G) | 3:31 | 2019-08-23 | 2019-10-29 |
 | [Feels Like The First Time](https://open.spotify.com/track/3ebtMrN6PQnfmmbecwxCqB) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [The Sea](https://open.spotify.com/album/6RWaO30cfIopmf7CqNfCVH) | 3:13 | 2020-10-10 | 2020-11-27 |
 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 | 2020-12-29 | 2021-03-14 |
+| [Fell Asleep in the Sun](https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Fell Asleep in the Sun](https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd) | 3:51 | 2026-08-17 |  |
 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 | 2019-08-10 | 2019-10-03 |
 | [Fences](https://open.spotify.com/track/0RFyoGSaZdA6QVHMah5l8f) | [coleiiio](https://open.spotify.com/artist/6g5g5ggja2zXohmYkTOgnE) | [Fences](https://open.spotify.com/album/074gBHzURDaLMLRE9Gzlu3) | 3:28 | 2025-05-16 | 2025-08-02 |
 | [fetišh](https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [KLEPTO](https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT) | 2:13 | 2023-07-27 | 2023-10-11 |
@@ -2539,6 +2540,7 @@
 | [Pack a Punch](https://open.spotify.com/track/2YmHg6zdtaGNYI31CkjN5p) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Pack a Punch](https://open.spotify.com/album/4Anv5S75ByF5yZlbh6Lgc8) | 3:42 | 2021-10-26 | 2022-02-12 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-07-04 | 2023-07-06 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-08-05 | 2021-11-13 |
+| [Pain is the Heart of Love](https://open.spotify.com/track/16aCAD1wmZL2slFfxT7zs2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs), [Paul Buchanan](https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7) | [Pain is the Heart of Love](https://open.spotify.com/album/50AYDE2EHtdousV5nZ4S17) | 4:05 | 2026-08-17 |  |
 | [pains of falling in love](https://open.spotify.com/track/6JVl0PrnA0cT45eXHAGQBP) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [camogirl3000](https://open.spotify.com/artist/28jJdp3i6BntofRp7t8N31) | [pains of falling in love](https://open.spotify.com/album/62NXg5kjzD9TzjdylSvkd2) | 2:08 | 2025-12-02 | 2026-04-18 |
 | [Painting \(Masterpiece\)](https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Painting \(Masterpiece\)](https://open.spotify.com/album/7jMTaMVtCLUU0jFtASijhC) | 4:03 | 2019-07-30\* | 2019-08-02 |
 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 | 2025-02-28 | 2025-09-24 |
@@ -3191,7 +3193,7 @@
 | [STILL IN LOVE](https://open.spotify.com/track/2FNDyU7qtE3U4UGZTO1NCo) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [STILL IN LOVE](https://open.spotify.com/album/5fOFmxmkcpTTdC1UloGZG6) | 2:38 | 2022-06-03 | 2022-07-07 |
 | [Still Light](https://open.spotify.com/track/6eoYZc5CfMDGTpVmeUEwvs) | [Carol Robbins](https://open.spotify.com/artist/3ubBLtq6B8zdmMACO9Bkd2) | [Jazz Play](https://open.spotify.com/album/0Lbyil0O0YXcGpXB5IGYEd) | 5:50 | 2021-07-17 | 2021-07-23 |
 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 | 2025-03-03 | 2025-09-12 |
-| [Still Standing](https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:56 | 2026-08-14 |  |
+| [Still Standing](https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:56 | 2026-08-14 | 2026-08-18 |
 | [STILL WITH U](https://open.spotify.com/track/2rH5V5b9LaYu3NhGKqigd8) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [STILL WITH U](https://open.spotify.com/album/3oXSU7U0mL1ynT8ne1yBZh) | 3:08 | 2021-01-27 | 2021-03-06 |
 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 | 2023-01-06 | 2023-04-15 |
 | [Stomping](https://open.spotify.com/track/2RCxfudVc5y1cPvppLwVAp) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:12 | 2021-01-07 | 2021-03-09 |

@@ -4,7 +4,7 @@
 
 > Songs for the warm pavement, cracked windows, and falling in love with music in the sun.
 
-639 songs - 1 day 11 hr 46 min
+640 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 | 2023-07-24 |  |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2023-07-19 |  |
 | [Sunset](https://open.spotify.com/track/203bhpOhWluOytYjvwQfl7) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 2:42 | 2023-05-25 | 2024-05-10 |
+| [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 | 2026-08-14 |  |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:53 | 2023-05-19 |  |
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-19 | 2023-07-25 |
 | [Sunshine Baby](https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:39 | 2023-11-24 | 2024-04-19 |
@@ -609,7 +610,7 @@
 | [Watch Me Break Apart](https://open.spotify.com/track/2Jz1wxAIf1GMP4Zamk79En) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Watch Me Break Apart](https://open.spotify.com/album/6kjvqn8olE0GLWe3vSzOrF) | 3:55 | 2021-08-13 | 2022-05-11 |
 | [Waterfall](https://open.spotify.com/track/18dLNiaYuTkTJv75oE9RQc) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Waterfall](https://open.spotify.com/album/4M3EW2YEjaUKwDUyCXOWC6) | 2:59 | 2023-06-30 | 2023-07-04 |
 | [Waves](https://open.spotify.com/track/6BqqBaaQPILuPRKqwl7Gyq) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Waves](https://open.spotify.com/album/4BiUDSP16xxTY1xowEipas) | 4:04 | 2022-03-24 | 2022-06-25 |
-| [waves \- Tame Impala Remix](https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:13 | 2024-05-17 |  |
+| [waves \- Tame Impala Remix](https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:13 | 2024-05-17 | 2026-08-18 |
 | [We Don't Know What Tomorrow Brings](https://open.spotify.com/track/0ks2zjjl7XhJVqBU60GhHR) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 3:16 | 2023-05-19 | 2023-05-26 |
 | [Weather \(feat\. Spill Tab\)](https://open.spotify.com/track/37gqLs74suBBjQf4nPv5UV) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Weather \(feat\. Spill Tab\)](https://open.spotify.com/album/6d0IKj81ve9Pj76Aw1wn6B) | 2:23 | 2022-03-24 | 2022-04-20 |
 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 | 2022-03-24 | 2026-08-08 |

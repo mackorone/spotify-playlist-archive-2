@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,391 likes - 41 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,508 likes - 41 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 40 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
 | 41 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
 
-Snapshot ID: `an+sAAAAAADg9KCw0y1eHgKvRrUI8fuj`
+Snapshot ID: `aoD9gAAAAAC1ht/1kcU3HJhQmR8LSY4Z`

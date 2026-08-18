@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31953,
+  "num_followers": 31952,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACCrIssRU+W9Xb/pdV9H+yl",
+  "snapshot_id": "aoD9gAAAAAAMOUxhbn4EqxPBL5meNjYU",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "50 Meses Tarde (Ptm)",
-        "url": "https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf"
-      },
-      "artists": [
-        {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 214557,
-      "name": "50 Meses Tarde (Ptm)",
-      "url": "https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 157066,
       "name": "Polvo de Gigantes",
       "url": "https://open.spotify.com/track/64pNSO9BmlNkUe2j8hO9PV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "50 Meses Tarde (Ptm)",
+        "url": "https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf"
+      },
+      "artists": [
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 214557,
+      "name": "50 Meses Tarde (Ptm)",
+      "url": "https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE"
     },
     {
       "added_at": null,

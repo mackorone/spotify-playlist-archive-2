@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-218 songs - 22 hr 44 min
+219 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Buscar\-Me\-Eis e Me Achareis \- Ao Vivo](https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [Buscar\-Me\-Eis e Me Achareis \(Ao Vivo\)](https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8) | 8:39 | 2025-04-14 |  |
 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 | 2023-11-24 | 2024-07-19 |
 | [Caminho no Deserto](https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Caminho no Deserto](https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62) | 6:49 | 2022-09-02 | 2025-06-07 |
-| [Canção de Paulo \(Ao Vivo\)](https://open.spotify.com/track/5tDZvfCT14AJW5sM1t81iD) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 8:43 | 2024-08-23 |  |
+| [Canção de Paulo \(Ao Vivo\)](https://open.spotify.com/track/5tDZvfCT14AJW5sM1t81iD) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 8:43 | 2024-08-23 | 2026-08-18 |
 | [Começo, Meio e Fim / Mais Perto Quero Estar \- Ao Vivo](https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Começo, Meio e Fim / Mais Perto Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E) | 5:37 | 2022-09-02 | 2025-10-05 |
 | [Cristo + Tudo É Teu \- Ao Vivo no Jesus Vida Verão](https://open.spotify.com/track/3aAk05LYyipr9PaHUp9ZDW) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Paulo e Rebeca](https://open.spotify.com/artist/3F7NaiORn4f5JGZrhcggo8), [Hamilton Rabelo](https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X) | [Cristo + Tudo É Teu \(Ao Vivo no Jesus Vida Verão\)](https://open.spotify.com/album/7AVVWCuSmShe5MeFw6R6lf) | 8:51 | 2025-05-16 |  |
 | [Cuido dos Detalhes](https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Cuido dos Detalhes](https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp) | 3:33 | 2022-09-02 | 2024-08-31 |
@@ -154,6 +154,7 @@
 | [Ousado Amor](https://open.spotify.com/track/1Pf1iSsQ7fpSQa7hG3IwQd) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Ousado Amor](https://open.spotify.com/album/5OJWqVSt6IRFzXO6wmLEY7) | 5:33 | 2022-10-07 | 2022-11-13 |
 | [Ousado Amor](https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Isaias Saad](https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc) | 5:33 | 2022-09-02 | 2024-04-19 |
 | [Outro Igual Não Há \(Ao Rei Nós Coroamos\) \- Ao Vivo](https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Outro Igual Não Há \(Ao Rei Nós Coroamos\) \[Ao Vivo\]](https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66) | 6:30 | 2025-02-21 |  |
+| [Ovelha Em Treinamento](https://open.spotify.com/track/2enOwKM3juIzJQS9pkrSo5) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelha Em Treinamento](https://open.spotify.com/album/6kUI9W1yLD53e0oBIabItL) | 4:15 | 2026-08-17 |  |
 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 | 2024-06-28 |  |
 | [Palavras](https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Palavras](https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625) | 5:17 | 2026-07-24 |  |
 | [Paz Sem Fim \(Nada Quebrado\) \- Ao Vivo](https://open.spotify.com/track/2mXl01XyGFBLmZEv4M1dzf) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Fogo Que Consome \(Ao Vivo\)](https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj) | 5:48 | 2025-05-23 |  |

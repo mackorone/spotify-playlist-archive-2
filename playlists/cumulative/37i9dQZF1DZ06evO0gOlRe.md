@@ -4,7 +4,7 @@
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-83 songs - 3 hr 53 min
+84 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Blame On You](https://open.spotify.com/track/5GtX45E7JO3hrC1Ihq5A2T) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Blame On You](https://open.spotify.com/album/06SBGJoEvUHa2V3AnCWxEO) | 2:26 | 2025-07-27 | 2025-11-26 |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2024-01-10 | 2026-08-17 |
 | [blame's on me](https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:18 | 2025-09-16 |  |
-| [broken by you](https://open.spotify.com/track/1rbaFEbVhbv1jCc2Dg63Qq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:52 | 2025-04-17 |  |
+| [broken by you](https://open.spotify.com/track/1rbaFEbVhbv1jCc2Dg63Qq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:52 | 2025-04-17 | 2026-08-18 |
 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 | 2024-03-09 | 2025-04-17 |
 | [Compare Myself](https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv) | 3:31 | 2024-01-10 | 2025-10-26 |
 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 | 2024-10-07 |  |
@@ -60,7 +60,8 @@
 | [i wish you cheated](https://open.spotify.com/track/6yCcEYC4iWqMGqOsmQV99o) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:10 | 2026-08-15 |  |
 | [i wish you cheated \(Frank Walker Remix\)](https://open.spotify.com/track/17CUvkkdv6B1sRM99Mx1nN) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [i wish you cheated \(Frank Walker Remix\)](https://open.spotify.com/album/3uAhzxv1CblM1UuaHDUfzz) | 3:30 | 2024-02-15 | 2025-10-28 |
 | [I'm trying](https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [I'm trying](https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m) | 2:44 | 2024-01-10 |  |
-| [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 | 2024-01-10 |  |
+| [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 | 2024-01-10 | 2026-08-18 |
+| [if you only knew](https://open.spotify.com/track/3xbvoHRRmgl2VJJ6vo5F4y) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:42 | 2026-08-18 |  |
 | [knowing you exist](https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:24 | 2024-01-10 |  |
 | [leave me in the dark](https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [leave me in the dark](https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe) | 2:29 | 2024-01-10 |  |
 | [Let Me Hate You](https://open.spotify.com/track/0T5IGPG06a7eiEA0AhTzZ6) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Let Me Hate You](https://open.spotify.com/album/541ALHb5R7lQuceoBLiKFk) | 3:16 | 2024-01-10 | 2025-10-29 |

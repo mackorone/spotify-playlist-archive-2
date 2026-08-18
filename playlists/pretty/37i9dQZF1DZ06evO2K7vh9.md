@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,521 likes - 46 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,537 likes - 46 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 33 | [Dead or Alive](https://open.spotify.com/track/5itTZ7kNRBl65Nn1QO9Ax9) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:02 |
 | 34 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
 | 35 | [Come Through \(feat\. Lil Tecca\)](https://open.spotify.com/track/7I7y5vl3dEZFIdWSB2O1ZZ) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [29](https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh) | 1:52 |
-| 36 | [SEASIDE \(feat\. iann dior\)](https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:12 |
+| 36 | [Poppin](https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Evolution](https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m) | 2:53 |
 | 37 | [Gist](https://open.spotify.com/track/6dkffLWo31KnXmwCLsgA2K) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:10 |
-| 38 | [Poppin](https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Evolution](https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m) | 2:53 |
+| 38 | [SEASIDE \(feat\. iann dior\)](https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:12 |
 | 39 | [GRAMMY \(Freestyle\)](https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:11 |
 | 40 | [Blessing](https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Blessing](https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT) | 2:24 |
 | 41 | [Need Me](https://open.spotify.com/track/6hAsChsFiKALkmIishhyVT) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:20 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 45 | [Memories in My Head](https://open.spotify.com/track/6FQtgWGaP23uTMtjfIs2tZ) | [icyslug](https://open.spotify.com/artist/2JjRgfsTKxurqJfBz8FgZu), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Memories in My Head](https://open.spotify.com/album/78hRaefit0PBhkcXmFmZL2) | 3:11 |
 | 46 | [All Star \(with Lil Tjay\)](https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [All Star](https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD) | 3:00 |
 
-Snapshot ID: `an+sAAAAAABO/09eUiS1AUjpDbqTgr/Z`
+Snapshot ID: `aoD9gAAAAAAUzlo0GIGK21fchfh/SA+S`

@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3232652,
+  "num_followers": 3232860,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABgJFH3z7gOvgaaY9pF4lBx",
+  "snapshot_id": "aoD9gAAAAADWfxaVjn8tD01wGy7MtEqT",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rated R",
-        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Rude Boy",
-      "url": "https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 256320,
       "name": "Loveeeeeee Song",
       "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF"
     },
     {
       "added_at": null,

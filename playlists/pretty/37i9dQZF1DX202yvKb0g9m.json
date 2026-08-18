@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 152041,
+  "num_followers": 152059,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Alientronic",
-        "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
-      },
-      "artists": [
-        {
-          "name": "Ellen Allien",
-          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
-        }
-      ],
-      "duration_ms": 382531,
-      "name": "Bowie in Harmony",
-      "url": "https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "What Time Is Love",
         "url": "https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 375013,
       "name": "What Time Is Love / Time Of Love",
       "url": "https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Alientronic",
+        "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
+      },
+      "artists": [
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        }
+      ],
+      "duration_ms": 382531,
+      "name": "Bowie in Harmony",
+      "url": "https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "United Acid Emirates",
-        "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
-      },
-      "artists": [
-        {
-          "name": "Ceephax Acid Crew",
-          "url": "https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I"
-        }
-      ],
-      "duration_ms": 331373,
-      "name": "Commuter",
-      "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Alternative",
         "url": "https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 250973,
       "name": "Miserablism",
       "url": "https://open.spotify.com/track/20GBfHqwta4csdKTDVjZ9F"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "United Acid Emirates",
+        "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
+      },
+      "artists": [
+        {
+          "name": "Ceephax Acid Crew",
+          "url": "https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Commuter",
+      "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Rip It Up",
-        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
-      },
-      "artists": [
-        {
-          "name": "Orange Juice",
-          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "A-Sides, Vol. 6",
         "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
       },
@@ -455,6 +439,38 @@
       "duration_ms": 393740,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Washing Machine",
+        "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fingers",
+          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
+        }
+      ],
+      "duration_ms": 344013,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -487,22 +503,6 @@
       "duration_ms": 272419,
       "name": "Acid Thunder",
       "url": "https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Washing Machine",
-        "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
-      },
-      "artists": [
-        {
-          "name": "Mr. Fingers",
-          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
-        }
-      ],
-      "duration_ms": 344013,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
     },
     {
       "added_at": "2024-07-10 08:16:23",

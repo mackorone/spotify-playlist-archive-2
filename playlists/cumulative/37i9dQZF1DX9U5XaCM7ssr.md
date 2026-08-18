@@ -4,7 +4,7 @@
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-263 songs - 18 hr 10 min
+264 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 | 2023-04-30 | 2023-07-27 |
 | [Cinta Tak Pada Waktunya](https://open.spotify.com/track/3QqZEiJytmm7Av6FRoknRQ) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Sendiri](https://open.spotify.com/album/3QIzUyXYgnKHDcPmoch1MR) | 4:09 | 2023-07-13 | 2023-08-31 |
 | [Cinta Takkan Usai](https://open.spotify.com/track/2znqSI4yjhozKqBuAPdKmx) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Mutia Ayu](https://open.spotify.com/artist/79OLLTbSJiF902xNECCrV6) | [Cinta Takkan Usai](https://open.spotify.com/album/1lni0LznmjMWpBp9em36Wa) | 4:21 | 2025-06-02 | 2025-08-04 |
+| [Cinta Terbaik](https://open.spotify.com/track/0Afs1hDADIDxx31FyJIEXm) | [Cassandra](https://open.spotify.com/artist/0BUTvSwaoKcP9ucuEyyYpr) | [Cinta Terbaik](https://open.spotify.com/album/1QZ1303FrXfo2SJJa6UC5K) | 4:01 | 2026-05-01 |  |
 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2024-01-31 | 2025-11-05 |
 | [Dan...](https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:48 | 2022-11-28 |  |
 | [Dawai \(From "Air Mata Di Ujung Sajadah"\)](https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Dawai \(From "Air Mata Di Ujung Sajadah"\)](https://open.spotify.com/album/4eRO6qTZCzTqibBy1j9lHz) | 4:39 | 2023-09-27 | 2024-02-03 |
@@ -94,7 +95,7 @@
 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2023-11-13 | 2024-09-10 |
 | [Kasar](https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7) | [Syarla](https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx) | [Kasar](https://open.spotify.com/album/6pYBCfqmjcJSWrGzYo28V9) | 3:49 | 2024-01-11 | 2024-02-01 |
 | [Kasih Putih](https://open.spotify.com/track/3Qiv7UhkqYeBExD6gZ1m3k) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Kembali](https://open.spotify.com/album/7c9NuorRkB2t9ioSaRucBx) | 3:57 | 2025-08-22 |  |
-| [Kasih Tak Sampai](https://open.spotify.com/track/1oAWbr6TXkRajJKgSm1vF5) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg) | [Sesuatu Yang Tertunda](https://open.spotify.com/album/6mkU1z9nlxjLcmFHz7TsX1) | 4:53 | 2026-02-27 |  |
+| [Kasih Tak Sampai](https://open.spotify.com/track/1oAWbr6TXkRajJKgSm1vF5) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg) | [Sesuatu Yang Tertunda](https://open.spotify.com/album/6mkU1z9nlxjLcmFHz7TsX1) | 4:53 | 2026-02-27 | 2026-08-18 |
 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/6wj06az0WX7fClA2w319dO) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:11 | 2024-09-09 |  |
 | [Kau Masih Kekasihku](https://open.spotify.com/track/0WBDoX8ANjfEI4QriFDziF) | [Eby](https://open.spotify.com/artist/5gDlLgkZisEeYWMUvarltN) | [Kau Masih Kekasihku](https://open.spotify.com/album/0L7YRvxp0tSp6wshW0ImcY) | 4:22 | 2025-08-14 | 2025-10-08 |
 | [Kau Masih Kekasihku](https://open.spotify.com/track/4bf1MapeofdB3XKUqDMUOm) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [Isyarat Hati](https://open.spotify.com/album/1muxhaxJ0RScTQiWp7cpBJ) | 4:45 | 2025-02-11 | 2025-08-28 |

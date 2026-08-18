@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,415 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,429 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 21 | [N17](https://open.spotify.com/track/6AiLTwftiFAjGsnVDXBPnB) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [If This Is Rock and Roll, I Want My Old Job Back](https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR) | 4:36 |
 | 22 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/24rv66H94QGVqIXHjA3kn6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 3:48 |
 | 23 | [Jackie And Wilson](https://open.spotify.com/track/5xo1Gj4WTssjQgQ0w03cf2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:43 |
-| 24 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
+| 24 | [Galway Girl](https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8) | [Mundy](https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR) | [Live at Oxegen 2008](https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq) | 4:00 |
 | 25 | [Comeback Girl](https://open.spotify.com/track/6BikNH6NZ8zYfexFiQGnxA) | [Republic Of Loose](https://open.spotify.com/artist/0t6MU9jroaufCbqZF6UpSU) | [Aaagh!](https://open.spotify.com/album/4ew7a5WNxErs5FDpF4H2eV) | 3:58 |
-| 26 | [Galway Girl](https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8) | [Mundy](https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR) | [Live at Oxegen 2008](https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq) | 4:00 |
-| 27 | [A Rainy Night in Soho](https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 4:43 |
+| 26 | [A Rainy Night in Soho](https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 4:43 |
+| 27 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 28 | [I Useta Lover](https://open.spotify.com/track/319YqFvUODaOVRbRc0i9zD) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [If This Is Rock and Roll, I Want My Old Job Back](https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR) | 2:43 |
-| 29 | [Revelate](https://open.spotify.com/track/18OnYhBaL7FTC1mYonXPKv) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM) | [Fitzcarraldo](https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu) | 3:46 |
+| 29 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 30 | [Drink Before the War](https://open.spotify.com/track/2fgsTIpGlD5odlua0y7gIQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc) | 5:23 |
-| 31 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
-| 32 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 |
+| 31 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 |
+| 32 | [Revelate](https://open.spotify.com/track/18OnYhBaL7FTC1mYonXPKv) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM) | [Fitzcarraldo](https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu) | 3:46 |
 | 33 | [Crazy World](https://open.spotify.com/track/5akihxQPVtNGkZV2uAImMY) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Goodbye Charlie Moonhead](https://open.spotify.com/album/2fCCCqys40hYZqNktMAq3T) | 4:32 |
 | 34 | [Don't Believe A Word](https://open.spotify.com/track/19Db89BvpKxmuT4S31OkRX) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/4mxKyD8U3gtuLha0YdQbpD) | 2:17 |
 | 35 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |

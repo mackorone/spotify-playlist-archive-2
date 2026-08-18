@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 285000,
       "name": "One Moment in Time",
       "url": "https://open.spotify.com/track/019idzgPu9rb4422DjQcnO"
@@ -1056,6 +1056,24 @@
       "duration_ms": 285000,
       "name": "One Moment in Time",
       "url": "https://open.spotify.com/track/5IDUGTWbntYwO9SNmhuSWf"
+    },
+    {
+      "album": {
+        "name": "WH1TNEY (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4kpef1wDrE01s55A9z1Qwb"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286910,
+      "name": "One Moment in Time",
+      "url": "https://open.spotify.com/track/3kzrufwgPqz28dbwoVXQv2"
     },
     {
       "album": {

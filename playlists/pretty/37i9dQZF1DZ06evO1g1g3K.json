@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7640,
+  "num_followers": 7644,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAB2Byp03TIjfFKHKalDAMbu",
+  "snapshot_id": "aoD9gAAAAAC0ak50RlK+N8e6mhOQMGL5",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unblocked",
-        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 315072,
-      "name": "Sam\u2019s Vibe",
-      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Isle Of Queens Deluxe",
         "url": "https://open.spotify.com/album/3dboSC2J6m8aQLJv19g7SL"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 231133,
       "name": "New Phone, Who Dis? (Remix) [feat. Durand Bernarr]",
       "url": "https://open.spotify.com/track/0Di4yxIcNrsj0cXORiYdFM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unblocked",
+        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 315072,
+      "name": "Sam\u2019s Vibe",
+      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
     },
     {
       "added_at": null,
@@ -339,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+        "name": "baby, can we?",
+        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
       },
       "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 353242,
-      "name": "Leveled",
-      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
+      "duration_ms": 246422,
+      "name": "baby, can we?",
+      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
     },
     {
       "added_at": null,
@@ -391,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "baby, can we?",
-        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
       "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 246422,
-      "name": "baby, can we?",
-      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
+      "duration_ms": 353242,
+      "name": "Leveled",
+      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
     },
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "DeShawn Jenkins",
+          "url": "https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1"
+        }
+      ],
+      "duration_ms": 91994,
+      "name": "PIT STOP",
+      "url": "https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -555,22 +575,6 @@
       "duration_ms": 218571,
       "name": "Rollin\u2019",
       "url": "https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 236904,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
     },
     {
       "added_at": null,
@@ -611,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 236904,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Humo en la Trampa 3",
         "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 161929,
       "name": "Get Paid (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "DeShawn Jenkins",
-          "url": "https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1"
-        }
-      ],
-      "duration_ms": 91994,
-      "name": "PIT STOP",
-      "url": "https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Route",
         "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 207947,
       "name": "Neutral",
       "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
     },
     {
       "added_at": null,
@@ -839,6 +839,30 @@
       "duration_ms": 222173,
       "name": "Lil Bit (feat. METTA)",
       "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
+      },
+      "artists": [
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Rose Gold",
+          "url": "https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb"
+        }
+      ],
+      "duration_ms": 268668,
+      "name": "minding_my business",
+      "url": "https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

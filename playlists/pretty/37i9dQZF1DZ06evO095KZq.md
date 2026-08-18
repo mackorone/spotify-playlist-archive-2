@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,576 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,584 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 14 | [El Pantro](https://open.spotify.com/track/24cV01L64dQsqRP4PEANUs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [Pa' Los Recuerdos, Vol\. 8](https://open.spotify.com/album/2CtM0Dc9UkDa3B8znLi8tw) | 3:38 |
 | 15 | [Guárdame Esta Noche](https://open.spotify.com/track/6a3Y5DF19Zcw1rpW5NXxks) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 2:56 |
 | 16 | [El Perseverante](https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [10 Kilates \(Con Norteño\)](https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt) | 2:47 |
-| 17 | [El Gato](https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Gato](https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9) | 3:19 |
-| 18 | [Mi 45](https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Equipo Armado](https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt) | 2:31 |
+| 17 | [Mi 45](https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Equipo Armado](https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt) | 2:31 |
+| 18 | [El Gato](https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Gato](https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9) | 3:19 |
 | 19 | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/track/126OceJdkcpvQre3orMumy) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV) | 3:26 |
 | 20 | [GDL](https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:44 |
-| 21 | [De Puntitas](https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 2:39 |
-| 22 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
+| 21 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
+| 22 | [De Puntitas](https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 2:39 |
 | 23 | [Seré un Borracho](https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 1:44 |
 | 24 | [De Mi Viejo](https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:03 |
 | 25 | [El Culpable](https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Culpable](https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R) | 3:33 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 43 | [Equipo RR](https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Equipo RR](https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5) | 2:39 |
 | 44 | [El Tatuado](https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [El Tatuado](https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV) | 3:09 |
 | 45 | [Enseñanza De Los Viejos](https://open.spotify.com/track/05Lnoy1GuU0GNzVIthSYBo) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enseñanza De Los Viejos](https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH) | 3:06 |
-| 46 | [Tus Desprecios](https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 2:23 |
-| 47 | [De Bota y Sombrero](https://open.spotify.com/track/22ThBLl9Cytr6KlSnaCQ84) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:43 |
+| 46 | [De Bota y Sombrero](https://open.spotify.com/track/22ThBLl9Cytr6KlSnaCQ84) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:43 |
+| 47 | [Tus Desprecios](https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 2:23 |
 | 48 | [El De Las Artilladas](https://open.spotify.com/track/2XD79HazZ2iYDcuF2bYLSw) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El De Las Artilladas](https://open.spotify.com/album/2nBQ9GQcml324VeeguWl4P) | 4:17 |
 | 49 | [Hombre de Rancho](https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:35 |
 | 50 | [El Selectivo](https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Selectivo](https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s) | 3:07 |
 
-Snapshot ID: `an+sAAAAAAA9/8gkkn40pkzNITL6Tt4a`
+Snapshot ID: `aoD9gAAAAAAhGqNYVP1v/d9URW7RMvfY`

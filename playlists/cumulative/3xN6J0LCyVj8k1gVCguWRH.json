@@ -9725,6 +9725,28 @@
     },
     {
       "album": {
+        "name": "BARCELONA",
+        "url": "https://open.spotify.com/album/757zpWTwkNpCIVt1li3FyL"
+      },
+      "artists": [
+        {
+          "name": "Andre Mateo",
+          "url": "https://open.spotify.com/artist/5nDCqbcrEQ6nxjmKKs83JB"
+        },
+        {
+          "name": "Letizia Mateo",
+          "url": "https://open.spotify.com/artist/0mEKO2xwxoyrjeNk4V8akj"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177348,
+      "name": "BARCELONA",
+      "url": "https://open.spotify.com/track/7xzld1tbn93d7weuxuxqUL"
+    },
+    {
+      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/5elT6rdNKhsu6iq0iQr7wt"
       },
@@ -9794,6 +9816,24 @@
       "duration_ms": 158109,
       "name": "Basic Being Basic",
       "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
+    },
+    {
+      "album": {
+        "name": "BBB",
+        "url": "https://open.spotify.com/album/797Eser7orhivYjvA676HM"
+      },
+      "artists": [
+        {
+          "name": "Kin$uyi",
+          "url": "https://open.spotify.com/artist/150TIAI0Wnu0LGaN3ECtqk"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144571,
+      "name": "BBB",
+      "url": "https://open.spotify.com/track/6DvrxUekTfPtZDRBWkerNI"
     },
     {
       "album": {
@@ -36124,6 +36164,28 @@
       "duration_ms": 217552,
       "name": "Fire on Cloud 9",
       "url": "https://open.spotify.com/track/7rnfP3Cq6zxXbOW6z6NIC1"
+    },
+    {
+      "album": {
+        "name": "Fire Up the Record",
+        "url": "https://open.spotify.com/album/6X7fLmPqmRIfTsqdDTvzLv"
+      },
+      "artists": [
+        {
+          "name": "Nature's Groove",
+          "url": "https://open.spotify.com/artist/1rhEmM9UY5uJOp2qPrbg9N"
+        },
+        {
+          "name": "Krysta Youngs",
+          "url": "https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218526,
+      "name": "Fire Up the Record",
+      "url": "https://open.spotify.com/track/4rOGZgJhmGmYDRrBWMvNyA"
     },
     {
       "album": {
@@ -66144,7 +66206,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 183208,
       "name": "Mango Kisses",
       "url": "https://open.spotify.com/track/63I2uzAux5w5T6F0KwkcoP"
@@ -73374,7 +73436,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 190484,
       "name": "No Confio En Nadie",
       "url": "https://open.spotify.com/track/4vEZ6LSOXMTnLMnZYhjC80"
@@ -73458,6 +73520,24 @@
       "duration_ms": 188000,
       "name": "no doubt",
       "url": "https://open.spotify.com/track/3hm1vdAOy3t2nvFfXRlo0Y"
+    },
+    {
+      "album": {
+        "name": "No Era El Plan",
+        "url": "https://open.spotify.com/album/577TEkqeYU0F3iqerqpq45"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pagan",
+          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229755,
+      "name": "No Era El Plan",
+      "url": "https://open.spotify.com/track/5LDqBgLOxIslR3T1LcDuE3"
     },
     {
       "album": {
@@ -84250,7 +84330,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 171965,
       "name": "Que Lio",
       "url": "https://open.spotify.com/track/20VRVqZfKFem9wpVVZTE8t"
@@ -107204,7 +107284,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 183333,
       "name": "Through Tonight",
       "url": "https://open.spotify.com/track/5akzoEy2MIHpt5vI5nH1ke"

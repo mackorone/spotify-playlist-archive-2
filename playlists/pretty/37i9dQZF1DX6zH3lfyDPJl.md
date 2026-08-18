@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,113 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,129 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 14 | [homesick](https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:06 |
 | 15 | [Next Semester](https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:54 |
 | 16 | [0+0](https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:12 |
-| 17 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
-| 18 | [Never Not](https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:28 |
+| 17 | [Never Not](https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:28 |
+| 18 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
 | 19 | [Break My Heart Again](https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj) | 3:57 |
 | 20 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 |
 | 21 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 34 | [Patience](https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:13 |
 | 35 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 |
 | 36 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 |
-| 37 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 |
-| 38 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
+| 37 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
+| 38 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 |
 | 39 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/08QharKdouaH70SCqhfcZM) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Model](https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ) | 2:47 |
 | 40 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 | 41 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 45 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 46 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
 | 47 | [November Rain](https://open.spotify.com/track/14Np50ZA2kLzYwtJezBFqJ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [November Rain](https://open.spotify.com/album/2538KLlnCjm3paWVwn5MjX) | 4:18 |
-| 48 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 |
-| 49 | [Taking Off](https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Ambitions](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) | 3:38 |
-| 50 | [Heya](https://open.spotify.com/track/0V3eVNmgkOzJ5wQztnCpAV) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 5:25 |
+| 48 | [Heya](https://open.spotify.com/track/0V3eVNmgkOzJ5wQztnCpAV) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 5:25 |
+| 49 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 |
+| 50 | [Taking Off](https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Ambitions](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) | 3:38 |
 
 Snapshot ID: `AAAAAKKDbmqfIdQouUeCYzHAoruI0kF2`

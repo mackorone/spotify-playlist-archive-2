@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Ah Be Manolya",
+        "url": "https://open.spotify.com/album/0w21vGqaC3h0KLyXsNSAb8"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "Ah Be Manolya",
+      "url": "https://open.spotify.com/track/6jufCZrWWPnuL8ozXjMqIp"
+    },
+    {
+      "album": {
         "name": "Kan II",
         "url": "https://open.spotify.com/album/1kdUoniEe1g2Fwgyt614Hn"
       },
@@ -122,7 +140,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 195917,
       "name": "Akl\u0131n Hep Bende",
       "url": "https://open.spotify.com/track/0a2J5WonJyiDaO1cOLsIuj"
@@ -2729,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Ha Leylim",
+        "url": "https://open.spotify.com/album/1ymhtkA6s0diNC71vDoZFL"
+      },
+      "artists": [
+        {
+          "name": "Mabel Matiz",
+          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216397,
+      "name": "Ha Leylim",
+      "url": "https://open.spotify.com/track/75WVsYxlIGjuTiCl2roWlQ"
+    },
+    {
+      "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ"
       },
@@ -3012,7 +3048,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 81290,
       "name": "Herm\u00e8s 2.0",
       "url": "https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9"
@@ -3202,7 +3238,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 146470,
       "name": "\u0130htimal",
       "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
@@ -5701,6 +5737,28 @@
     },
     {
       "album": {
+        "name": "Ta Burama",
+        "url": "https://open.spotify.com/album/4Ze8NzsnRkfOU2J3qJhPaq"
+      },
+      "artists": [
+        {
+          "name": "KARM6",
+          "url": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
+        },
+        {
+          "name": "Serdar Orta\u00e7",
+          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164690,
+      "name": "Ta Burama",
+      "url": "https://open.spotify.com/track/1ljQ6p7H1xYqiuOYF67MUQ"
+    },
+    {
+      "album": {
         "name": "TAK TAK TAK",
         "url": "https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr"
       },
@@ -5886,7 +5944,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 218251,
       "name": "Umrumd\u0131\u015f\u0131",
       "url": "https://open.spotify.com/track/14xSndBPmB5bsYmKbwkhnB"

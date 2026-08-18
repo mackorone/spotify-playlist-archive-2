@@ -1,6 +1,6 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 223110,
+  "num_followers": 223190,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
+        "name": "Peluson Of Milk",
+        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Seguir Viviendo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
         "name": "Circo Beat",
         "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Peluson Of Milk",
-        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Seguir Viviendo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "ARRANC\u00c1RMELO",
-        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 183547,
-      "name": "ARRANC\u00c1RMELO",
-      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 316426,
       "name": "Luna de Miel en la Mano",
       "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "ARRANC\u00c1RMELO",
+        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 183547,
+      "name": "ARRANC\u00c1RMELO",
+      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
       "artists": [
         {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+      "duration_ms": 308946,
+      "name": "Lago en el Cielo",
+      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -503,6 +503,22 @@
       "duration_ms": 194186,
       "name": "Romantinaitis",
       "url": "https://open.spotify.com/track/7tcDyQV1rbY4IRiGWWVetW"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -535,22 +551,6 @@
       "duration_ms": 185866,
       "name": "Ese Maldito Momento",
       "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 308946,
-      "name": "Lago en el Cielo",
-      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Himno De Mi Corazon",
         "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 194226,
       "name": "Lunes Por La Madrugada",
       "url": "https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
         "name": "Me Cans\u00e9",
         "url": "https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 199457,
       "name": "Me Cans\u00e9",
       "url": "https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Magia Blanca",
         "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
         "name": "Flores Robadas",
         "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 201920,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+      },
+      "artists": [
+        {
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "Muchacha (Ojos de Papel)",
+      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+        "name": "Donde estabas tu... en el 93?",
+        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
       },
       "artists": [
         {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 187786,
-      "name": "Muchacha (Ojos de Papel)",
-      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
+      "duration_ms": 285093,
+      "name": "Sin documentos",
+      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1547,22 +1563,6 @@
       "duration_ms": 220240,
       "name": "El Problema Del Amor",
       "url": "https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
-        "name": "Donde estabas tu... en el 93?",
-        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Sin documentos",
-      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Ramma + Cindy Cats - Spotify Sessions",
-        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW"
       },
       "artists": [
         {
-          "name": "Ramma",
-          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
-        },
-        {
-          "name": "Cindy Cats",
-          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 286035,
-      "name": "Bicho de Ciudad - Spotify Sessions",
-      "url": "https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL"
+      "duration_ms": 250762,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1655,18 +1651,22 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW"
+        "name": "Ramma + Cindy Cats - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        },
+        {
+          "name": "Cindy Cats",
+          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
         }
       ],
-      "duration_ms": 250762,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe"
+      "duration_ms": 286035,
+      "name": "Bicho de Ciudad - Spotify Sessions",
+      "url": "https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL"
     },
     {
       "added_at": "2026-07-31 03:00:15",

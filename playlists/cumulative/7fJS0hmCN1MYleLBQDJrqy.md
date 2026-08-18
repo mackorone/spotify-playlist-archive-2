@@ -4,7 +4,7 @@
 
 > De beste Studenten Hits 2026 op één plek! 🍻 Dé ultieme playlist voor je huisfeest of de kroeg\. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker\. 🎤🔥 Cover: Roxy Dekker
 
-175 songs - 7 hr 53 min
+176 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [FALL AGAIN](https://open.spotify.com/track/5OwcN7VpWuViKrtYlZuzTn) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [FALL AGAIN](https://open.spotify.com/album/2Gwa3T4RlRVl2EBuDiiLEB) | 2:47 | 2025-10-31 | 2026-02-11 |
 | [Fata Morgana](https://open.spotify.com/track/0ChKnEMUsi8rZts7tGzUi8) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Gezichten](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:36 | 2025-07-18 | 2026-02-11 |
 | [Feel It Still](https://open.spotify.com/track/7FESgYLcOufHqKlwrvJN60) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Feel It Still](https://open.spotify.com/album/2fbps64P1Z4EEktydBn9yZ) | 2:43 | 2026-02-10 |  |
+| [Feessie](https://open.spotify.com/track/3ZfJ4YkM03y1KLK5pfqz8o) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Feessie](https://open.spotify.com/album/4dtiKzti1SpG8AIrkNa2KZ) | 3:08 | 2026-08-17 |  |
 | [Fikkie](https://open.spotify.com/track/0lLdt9dyVwcLlxr9eSEnrg) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Fikkie](https://open.spotify.com/album/1b143sQ0p9yvz31lZe0KwZ) | 2:47 | 2025-07-18 | 2026-02-11 |
 | [Fluitend naar Huis](https://open.spotify.com/track/6Swd0Th7cvQH4bywi4eHak) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:12 | 2025-07-18 | 2026-02-11 |
 | [Frans Duits](https://open.spotify.com/track/11NPNsUO5J4BU25VHX6N8Q) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [De Kibbelingsound](https://open.spotify.com/album/40yS6T66cMLBlrHKQNoInS) | 2:52 | 2026-04-24 |  |

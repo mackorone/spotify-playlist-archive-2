@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: L'Rain",
-  "num_followers": 1607074,
+  "num_followers": 1606906,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-08-14 04:02:13",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 293200,
+      "name": "Wandering Star",
+      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
+    },
+    {
+      "added_at": "2026-08-14 04:02:13",
+      "album": {
         "name": "Aquamarine / Arcamarine",
         "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 194180,
       "name": "Aquamarine / Arcamarine",
       "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
-    },
-    {
-      "added_at": "2026-08-14 04:02:13",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "Wandering Star",
-      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
     },
     {
       "added_at": "2026-08-14 04:02:13",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2026-08-14 04:02:13",
       "album": {
-        "name": "The Road To Hell Is Paved With Good Intentions",
-        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
       },
       "artists": [
         {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        },
-        {
-          "name": "L\u00e9a Sen",
-          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
         }
       ],
-      "duration_ms": 174579,
-      "name": "Turn Me Inside",
-      "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
+      "duration_ms": 414466,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
     },
     {
       "added_at": "2026-08-14 04:02:13",
@@ -1067,18 +1063,42 @@
     {
       "added_at": "2026-08-14 04:02:13",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
+        "name": "The Road To Hell Is Paved With Good Intentions",
+        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
       "artists": [
         {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
         }
       ],
-      "duration_ms": 414466,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
+      "duration_ms": 174579,
+      "name": "Turn Me Inside",
+      "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
+    },
+    {
+      "added_at": "2026-08-14 04:02:13",
+      "album": {
+        "name": "NO SZNS",
+        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "NO SZNS",
+      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
       "added_at": "2026-08-14 04:02:13",
@@ -1119,26 +1139,6 @@
       "duration_ms": 202867,
       "name": "Famous Last Words (An Ode to Eaters)",
       "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
-    },
-    {
-      "added_at": "2026-08-14 04:02:13",
-      "album": {
-        "name": "NO SZNS",
-        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "NO SZNS",
-      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
       "added_at": "2026-08-14 04:02:13",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-08-14 04:02:13",
       "album": {
-        "name": "flora maniia",
-        "url": "https://open.spotify.com/album/2VJWNCadN7DfQ3XThbvlUk"
-      },
-      "artists": [
-        {
-          "name": "Temachii",
-          "url": "https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "may you never forget me",
-      "url": "https://open.spotify.com/track/2sV11xuq4U8KlGWKCtGNpx"
-    },
-    {
-      "added_at": "2026-08-14 04:02:13",
-      "album": {
         "name": "Post",
         "url": "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
       },
@@ -1319,6 +1303,26 @@
       "duration_ms": 162077,
       "name": "uwu ^^",
       "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
+    },
+    {
+      "added_at": "2026-08-14 04:02:13",
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Con La Brisa - Film Version",
+      "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
     }
   ],
   "unique_name": "Ethereal",

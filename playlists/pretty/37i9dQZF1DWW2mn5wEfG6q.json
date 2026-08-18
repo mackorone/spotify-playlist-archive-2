@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 97320,
+  "num_followers": 97340,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "When It Was Now",
-        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
-      },
-      "artists": [
-        {
-          "name": "Atlas Genius",
-          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Trojans",
-      "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Spreading Rumours",
         "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 215520,
       "name": "Ways to Go",
       "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "When It Was Now",
+        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
+      },
+      "artists": [
+        {
+          "name": "Atlas Genius",
+          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Trojans",
+      "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -659,38 +659,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Changing of the Seasons",
-        "url": "https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 222880,
-      "name": "Changing of the Seasons",
-      "url": "https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Spreading Rumours",
-        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Raspberry",
-      "url": "https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Cupid Deluxe",
         "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
       },
@@ -711,6 +679,38 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Spreading Rumours",
+        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Raspberry",
+      "url": "https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Changing of the Seasons",
+        "url": "https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Changing of the Seasons",
+      "url": "https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "MoM & DaD",
-        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 323480,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "If You Wait (Deluxe Version)",
         "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 270586,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/4MKO1xltVSQlMMZUfOMEA1"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "MoM & DaD",
+        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 323480,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "6 Feet Beneath the Moon",
-        "url": "https://open.spotify.com/album/3nR8btC3svZmUktrXDBuRY"
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/1RRBuxXdsIB0yazqGDlKTj"
+      "duration_ms": 160066,
+      "name": "Diane Young",
+      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -935,18 +935,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+        "name": "6 Feet Beneath the Moon",
+        "url": "https://open.spotify.com/album/3nR8btC3svZmUktrXDBuRY"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 160066,
-      "name": "Diane Young",
-      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
+      "duration_ms": 215506,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/1RRBuxXdsIB0yazqGDlKTj"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1423,22 +1423,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
       },
       "artists": [
         {
-          "name": "Big Data",
-          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
-        },
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 280426,
-      "name": "Dangerous (feat. Joywave)",
-      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
+      "duration_ms": 532306,
+      "name": "Under The Pressure",
+      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1459,22 +1455,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 532306,
-      "name": "Under The Pressure",
-      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8"
       },
@@ -1491,6 +1471,26 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
+      },
+      "artists": [
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Dangerous (feat. Joywave)",
+      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
       },
@@ -1500,9 +1500,25 @@
           "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 309590,
-      "name": "Howling",
-      "url": "https://open.spotify.com/track/4ySB5vX2121c5L705ZbZTq"
+      "duration_ms": 268455,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 431746,
+      "name": "An Ocean In Between The Waves",
+      "url": "https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1543,34 +1559,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
+        "name": "Thr!!!er",
+        "url": "https://open.spotify.com/album/3ywERU9rVKEpCQE50fQOgM"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "!!!",
+          "url": "https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg"
         }
       ],
-      "duration_ms": 431746,
-      "name": "An Ocean In Between The Waves",
-      "url": "https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "The Double EP: A Sea of Split Peas",
-        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 312226,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
+      "duration_ms": 243626,
+      "name": "One Girl / One Boy",
+      "url": "https://open.spotify.com/track/7y8aVfDkqt6qirGNivvs0M"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1584,9 +1584,9 @@
           "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 268455,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
+      "duration_ms": 309590,
+      "name": "Howling",
+      "url": "https://open.spotify.com/track/4ySB5vX2121c5L705ZbZTq"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "The Double EP: A Sea of Split Peas",
+        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 312226,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Muchacho De Lujo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 370200,
       "name": "Song For Zula",
       "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Miracle Mile",
-        "url": "https://open.spotify.com/album/5S4tasGYxpQuSEWLYvgyQp"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "While I'm Alive",
-      "url": "https://open.spotify.com/track/6wtcxwSJs82tpdeIoj93LF"
     }
   ],
   "unique_name": "Best of Indie 2013",

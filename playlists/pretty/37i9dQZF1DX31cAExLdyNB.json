@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 86001,
+  "num_followers": 86016,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
-      },
-      "artists": [
-        {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
-        }
-      ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 217151,
       "name": "Se Eu Soubesse",
       "url": "https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+        }
+      ],
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Chapstick",
-        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Keep Moving",
         "url": "https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938"
       },
@@ -759,6 +743,42 @@
       "duration_ms": 240880,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Digging Deeper",
+        "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Digging Deeper",
+      "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Chapstick",
+        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -827,26 +847,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Digging Deeper",
-        "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
-      },
-      "artists": [
-        {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Digging Deeper",
-      "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "A Hero's Death (Soulwax Remix)",
         "url": "https://open.spotify.com/album/1mGTbl8vSVXxpMJPD6OEfo"
       },
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Pala",
+        "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 302573,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Bonafide (feat. Chiiild)",
         "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Pala",
-        "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 302573,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB"
     },
     {
       "added_at": "2024-06-28 21:13:36",

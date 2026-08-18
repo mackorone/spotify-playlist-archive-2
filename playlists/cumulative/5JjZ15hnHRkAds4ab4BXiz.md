@@ -4,7 +4,7 @@
 
 > 
 
-924 songs - 2 day 10 hr 33 min
+928 songs - 2 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Barely Legal](https://open.spotify.com/track/21Ay8Y9Pr91nSauPGtK6MW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:54 | 2024-06-16 |  |
 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 | 2024-07-11 |  |
 | [Beach Walk](https://open.spotify.com/track/1KN9HelgzrT0jMQ5Ju8u8Y) | [Whitewoods ](https://open.spotify.com/artist/1wDDq31Nz0yzwObGFUfsp1) | [Beach Walk](https://open.spotify.com/album/24gMCxaIG3mEj4VW9ZPx1h) | 2:19 | 2023-11-19 |  |
+| [Beat Connection](https://open.spotify.com/track/7rHWWHXB9TDNwivu6bTSwQ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 8:07 | 2026-08-17 |  |
 | [Beat One](https://open.spotify.com/track/5OL8HjEaCktRvu6CKwe9rj) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ferric Oxide \(Demos 1997 \- 2001\)](https://open.spotify.com/album/2XEgoiYtf35w31ZZm3isN0) | 3:50 | 2026-05-17 |  |
 | [Beat Two](https://open.spotify.com/track/50zyrXbIMesDH1h65b9wiM) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ferric Oxide \(Demos 1997 \- 2001\)](https://open.spotify.com/album/2XEgoiYtf35w31ZZm3isN0) | 3:16 | 2026-05-17 |  |
 | [Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO) | 5:20 | 2026-05-15 |  |
@@ -270,6 +271,7 @@
 | [Gimme My Money](https://open.spotify.com/track/5HJMApQBAW2GxGfFmEUUbD) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Gimme My Money](https://open.spotify.com/album/4csBWvSmvRW7ZHy897I2mY) | 3:55 | 2026-03-09 | 2026-04-10 |
 | [Girl Afraid \- 2011 Remaster](https://open.spotify.com/track/3UPpzmVM8UHimVKfpAg4xP) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 2:46 | 2025-12-14 |  |
 | [Girlfriend in a Coma \- 2011 Remaster](https://open.spotify.com/track/01q4ccXbvPlCwZ1fPiFaeM) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:02 | 2024-04-22 |  |
+| [Give It Up](https://open.spotify.com/track/12ETjGIhfZnlNocWEOGpMO) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 3:55 | 2026-08-17 |  |
 | [Given Up](https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:09 | 2024-01-17 | 2024-01-21 |
 | [Glass](https://open.spotify.com/track/1eSNIUtkDHVOMSBpE1aOcq) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 5:20 | 2024-06-10 |  |
 | [Go Away](https://open.spotify.com/track/0NwuqeOCKJ0YpoqZSENzhp) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ) | 3:13 | 2024-05-19 | 2025-12-29 |
@@ -656,6 +658,7 @@
 | [Slave](https://open.spotify.com/track/2puGRTU4wKLn6sPF5eUzmR) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:53 | 2024-04-10 | 2024-04-22 |
 | [Sleeping in Cars](https://open.spotify.com/track/2tLzANaWVDw9q40ghprFh4) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/7K4MJf0pCkZGoxGvYJebWD) | 3:36 | 2026-03-12 | 2026-05-07 |
 | [Slob](https://open.spotify.com/track/5dK5UBnOnmdf68I7qinfD9) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 3:08 | 2024-04-09 |  |
+| [Slowdive \- XFM Session](https://open.spotify.com/track/5Cux3rsN6IjuhVF8fs99mG) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Introns](https://open.spotify.com/album/1COpEJLhNViHDdh2fRn72r) | 4:10 | 2026-08-17 |  |
 | [Smile](https://open.spotify.com/track/3dYi32XQ9mVplNKDcWp59K) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:38 | 2024-03-10 |  |
 | [Snow Song](https://open.spotify.com/track/7DdkMm05oJ14yqf2gs6ddW) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [Everything Is](https://open.spotify.com/album/1bJ7SFKnVcexGafRpKmLKO) | 3:42 | 2024-04-20 | 2024-04-28 |
 | [So He Begins to Lie](https://open.spotify.com/track/2AJVVg68zFCgY3xC7NeVBY) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 3:34 | 2025-12-15 |  |
@@ -930,6 +933,7 @@
 | [Young Love \(feat\. Laura Marling\)](https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:22 | 2025-11-20 |  |
 | [Your Visits Are Getting Shorter](https://open.spotify.com/track/65IcXV8f2HfDYyA9T2H6on) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Intimacy](https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl) | 4:19 | 2026-02-05 |  |
 | [Youth Rebellion](https://open.spotify.com/track/5CCwwVc7CGu3tbbrnx8noX) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO) | 7:00 | 2026-05-16 |  |
+| [Yr City's a Sucker](https://open.spotify.com/track/4lL35nfQSgSvDsVFQtJ4Wp) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 9:22 | 2026-08-17 |  |
 | [Yum Yum](https://open.spotify.com/track/021d2sLQVQM8iXR4gA8rDh) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Into Vastness](https://open.spotify.com/album/52p7pRiQmXD92QG6m4v8CM) | 2:41 | 2026-03-11 | 2026-04-08 |
 | [Zephyrus](https://open.spotify.com/track/1fmCIpRoakvPCOKdh6kPHO) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Intimacy](https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl) | 4:34 | 2026-02-04 |  |
 

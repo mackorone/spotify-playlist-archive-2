@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 36 | [ASK HOW I AM \(feat\. Jo’s Boyfriend\)](https://open.spotify.com/track/3DOH4dZTZbluriBGx42OwT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8), [Jo’s Boyfriend](https://open.spotify.com/artist/2IuJdsDiwAHANMu3St7dFC) | [Down at The Res](https://open.spotify.com/album/2vGN8iGA2kWBSkqve6Cmk7) | 3:01 |
 | 37 | [Cooler](https://open.spotify.com/track/5qgCGL1lwqx0aAkAVq0pFa) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 2:30 |
 
-Snapshot ID: `AcZwpAAAAAAwvWbTujCNQmnafWXdfeIz`
+Snapshot ID: `AcZ2RAAAAAD9n4dHFlJJM+zsuFJnIFL1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,963 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,980 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 49 | [Ride the River](https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:35 |
 | 50 | [Bad Love](https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 5:08 |
 
-Snapshot ID: `an+sAAAAAABDoFzmv+uDxvqt/wVdNJFY`
+Snapshot ID: `aoD9gAAAAABv+xuviRnLzy03rzL6PqwQ`

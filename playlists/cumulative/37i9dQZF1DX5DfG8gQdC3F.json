@@ -140827,7 +140827,7 @@
     },
     {
       "album": {
-        "name": "Flowers (Demo Version)",
+        "name": "Flowers (Demo)",
         "url": "https://open.spotify.com/album/5nA6V7Bwvoe1AvAHrU7M0p"
       },
       "artists": [
@@ -140840,7 +140840,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 243914,
-      "name": "Flowers - Demo Version",
+      "name": "Flowers - Demo",
       "url": "https://open.spotify.com/track/67tLOx8OazyKPLachfrTyg"
     },
     {
@@ -240076,6 +240076,22 @@
         {
           "name": "Classe Moyenne",
           "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
         },
         {
           "name": "Trudy",
@@ -360264,7 +360280,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164750,
-      "name": "Simple Man",
+      "name": "Simple Man (feat. Pertinence)",
       "url": "https://open.spotify.com/track/0IKkgsrvHfJmnmfY16Mp52"
     },
     {
@@ -419167,7 +419183,7 @@
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 161609,
+      "duration_ms": 161374,
       "name": "Trance (Walk It Down)",
       "url": "https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw"
     },

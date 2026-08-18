@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,285 songs - 2 day 23 hr 15 min
+1,286 songs - 2 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [ghost](https://open.spotify.com/track/6W8Lsm34rvaH4kO7NLleGD) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [osc444](https://open.spotify.com/artist/5jpSwadofNqbsUatpqn4Rj) | [ghost](https://open.spotify.com/album/7CLTFzrXxQS5IWgSO1e8aq) | 4:02 | 2026-05-21 |  |
 | [Ghost](https://open.spotify.com/track/6nRh4WwS6Xf8j87U8YFWnh) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Ghost](https://open.spotify.com/album/2AOQq9d3D4CL1rngPMYxBy) | 3:03 | 2022-10-29 | 2023-01-24 |
 | [Ghost in the Shadows](https://open.spotify.com/track/12WC62EwZGMhDLi8fEF85j) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Derpcat](https://open.spotify.com/artist/3o8xPY8Zencrdc3RtvVaQM) | [Ghost in the Shadows](https://open.spotify.com/album/6cEeqaX97sbKSaoxafEkQ4) | 3:47 | 2024-07-29 | 2024-10-19 |
+| [Gift](https://open.spotify.com/track/2YntYGCGeFc2b5kSW2yNJS) | [Lilygarden](https://open.spotify.com/artist/3PZVu8hJP0OYo49wwf8pyt) | [Monstercat Instinct Selections 03](https://open.spotify.com/album/2aKZFdo7ciQtWAtLzZ1YBr) | 2:50 | 2026-08-17 |  |
 | [Give in to you](https://open.spotify.com/track/4ISgMfSWEuwVRj76YPVopn) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Give in to you](https://open.spotify.com/album/5waNDGxDsidfGG5PzJlji0) | 3:21 | 2024-09-13 | 2024-12-06 |
 | [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-09 | 2022-10-21 |
 | [Give Me A Second](https://open.spotify.com/track/2UkcQ2khDIdFRIr9VG28l2) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Give Me A Second](https://open.spotify.com/album/075F3FRDl5aFv3PJBq8id0) | 4:22 | 2022-01-21 | 2022-03-30 |

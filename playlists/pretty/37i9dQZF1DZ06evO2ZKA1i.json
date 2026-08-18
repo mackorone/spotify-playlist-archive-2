@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303268,
+  "num_followers": 303286,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABepaODgPDw39nkY5qtH4iH",
+  "snapshot_id": "aoD9gAAAAADuPNOxTB2ekeBo8GqYEQal",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/6ivsgcVBWi6Etm2EldytF4"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Strange Kind of Woman - 2002 Remaster",
-      "url": "https://open.spotify.com/track/3T6TEPxUsMFw9SejwRFe6z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 442840,
       "name": "Lazy - Remastered 2012",
       "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/6ivsgcVBWi6Etm2EldytF4"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Strange Kind of Woman - 2002 Remaster",
+      "url": "https://open.spotify.com/track/3T6TEPxUsMFw9SejwRFe6z"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fireball (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Fireball - 1996 Remaster",
-      "url": "https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 272996,
       "name": "Space Truckin' - Remastered 2012",
       "url": "https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fireball (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Fireball - 1996 Remaster",
+      "url": "https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 352760,
-      "name": "Speed King - 1995 Remaster",
-      "url": "https://open.spotify.com/track/7L1GZDz4fGQGkpXpGaLV55"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Taste The Band: 35th Anniversary Edition",
         "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 324733,
       "name": "You Keep On Moving - 2010 Digital Remaster",
       "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 352760,
+      "name": "Speed King - 1995 Remaster",
+      "url": "https://open.spotify.com/track/7L1GZDz4fGQGkpXpGaLV55"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guilt Trippin'",
-        "url": "https://open.spotify.com/album/5r5vvtabYJy7A62oBAbVuX"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 289273,
-      "name": "Anya - Live in Dresden 2024",
-      "url": "https://open.spotify.com/track/18tQ8FDUNKO2loHzEsSvta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purpendicular",
         "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 256626,
       "name": "Vavoom: Ted The Mechanic",
       "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guilt Trippin'",
+        "url": "https://open.spotify.com/album/5r5vvtabYJy7A62oBAbVuX"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 289273,
+      "name": "Anya - Live in Dresden 2024",
+      "url": "https://open.spotify.com/track/18tQ8FDUNKO2loHzEsSvta"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "De b\u00e4sta indiel\u00e5tarna - klassiker som Dansa Fast\u00e4n, Shoreline och Helgen v. 48! ",
-  "num_followers": 74656,
+  "num_followers": 74657,
   "original_name": "Indieklassiker",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
+        "name": "Wounded Rhymes (The Lost Sessions)",
+        "url": "https://open.spotify.com/album/0KJBXTa4Mwz0zDO2kQ0FD8"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/3DsDDXmMtucnf7Etgr0n7x"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
         "name": "Living in America (US version)",
         "url": "https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 201066,
       "name": "Hon har ett s\u00e4tt",
       "url": "https://open.spotify.com/track/1nrvksAMsxoiEbUkQyxOXo"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Wounded Rhymes (The Lost Sessions)",
-        "url": "https://open.spotify.com/album/0KJBXTa4Mwz0zDO2kQ0FD8"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/3DsDDXmMtucnf7Etgr0n7x"
     },
     {
       "added_at": "2024-06-24 11:47:22",

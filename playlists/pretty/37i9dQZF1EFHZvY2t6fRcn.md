@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 91 | [Say You Will](https://open.spotify.com/track/24621dQUWcjiLGtxunbyM2) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Salt](https://open.spotify.com/album/1F79OPZHaIXS1eZkkeCTeq) | 3:18 |
 | 92 | [Scars](https://open.spotify.com/track/2W4WKyY97XlPzUOuj0x2ac) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 2:40 |
 | 93 | [Sweet Like](https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 3:39 |
-| 94 | [flicker start](https://open.spotify.com/track/5u0YYzDVA1HNBBDbVYeCah) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:40 |
-| 95 | [UNDER THE RHYTHM](https://open.spotify.com/track/3mrdcNlgn5CRc0nUgKvrYd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 2:50 |
+| 94 | [UNDER THE RHYTHM](https://open.spotify.com/track/3mrdcNlgn5CRc0nUgKvrYd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 2:50 |
+| 95 | [flicker start](https://open.spotify.com/track/5u0YYzDVA1HNBBDbVYeCah) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:40 |
 | 96 | [Chasers](https://open.spotify.com/track/0nwAgXvY8LlVaImad8XCdF) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/3oz8jw6YLEOSf032rck2GY) | 3:00 |
 | 97 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 |
 | 98 | [Differently](https://open.spotify.com/track/4lZ7ulKpCoSkCu8mAbu2KE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [DONT PANIC!](https://open.spotify.com/album/3dAtB9xY7UrJAMgTOIeuQE) | 3:11 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 161 | [Tomorrow](https://open.spotify.com/track/1xpn9Jf6SaJJ6mworiNQjf) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/4BVvO0gBRjK5m5SlyXd4qy) | 2:22 |
 | 162 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `AcZwpAAAAACeWU0irQF4TMh920rZyA4l`
+Snapshot ID: `AcZ2RAAAAADz8BjDbHnQih94ipGYy6yx`

@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19556,
+  "num_followers": 19559,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACZbV/KoM7+tsRyQyX68UDb",
+  "snapshot_id": "aoD9gAAAAAArisl+IcnpYei4vPNOkuxO",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blick Blick",
-        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "Blick Blick (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomboy (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 190355,
       "name": "Tomboy (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blick Blick",
+        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "Blick Blick (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "Make My Day (with David Guetta)",
-      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Sleep? (Deluxe)",
         "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 119715,
       "name": "2055 (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Make My Day (with David Guetta)",
+      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
     },
     {
       "added_at": null,
@@ -539,22 +539,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+        "name": "Die 4 Respect",
+        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Man's World (with James Brown)",
-      "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
+      "duration_ms": 245621,
+      "name": "Impatient (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
     },
     {
       "added_at": null,
@@ -579,26 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die 4 Respect",
-        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
       "artists": [
         {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        },
-        {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 245621,
-      "name": "Impatient (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
+      "duration_ms": 196373,
+      "name": "Man's World (with James Brown)",
+      "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1738 (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 230293,
-      "name": "1738 (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here 2 Stay",
         "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 162386,
       "name": "Upnow (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/4NWmEDnhyn4kUZGyCgx047"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1738 (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 230293,
+      "name": "1738 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
     },
     {
       "added_at": null,

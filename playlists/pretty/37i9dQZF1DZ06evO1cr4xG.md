@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,455 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,465 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 46 | [Brave This Storm](https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 47 | [Inception of the End](https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:48 |
 | 48 | [Six Walls](https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Struck Dead](https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ) | 7:18 |
-| 49 | [Amongst The Shadows & The Stones](https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 5:40 |
-| 50 | [Master of Puppets](https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy \(Special Edition\)](https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF) | 8:09 |
+| 49 | [Master of Puppets](https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy \(Special Edition\)](https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF) | 8:09 |
+| 50 | [Amongst The Shadows & The Stones](https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 5:40 |
 
-Snapshot ID: `an+sAAAAAACSHS/rEKeFvZicVsUXnuC/`
+Snapshot ID: `aoD9gAAAAADiIPdS0Im3phnjwfYCDD3i`

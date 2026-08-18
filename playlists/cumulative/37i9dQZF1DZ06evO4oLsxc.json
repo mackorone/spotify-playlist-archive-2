@@ -187,6 +187,28 @@
     },
     {
       "album": {
+        "name": "The Yussef Dayes Experience - Live From Malibu",
+        "url": "https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405840,
+      "name": "Black Classical Music / Afro Cubanism (feat. Venna) - Live From Malibu",
+      "url": "https://open.spotify.com/track/46YmGTsOcQRAjYr7waaAMs"
+    },
+    {
+      "album": {
         "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
         "url": "https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM"
       },
@@ -280,7 +302,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 206315,
       "name": "Deeper One",
       "url": "https://open.spotify.com/track/3uNCnf0Ha0Cf6JNzs7W59j"

@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 150832,
+  "num_followers": 150857,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-08-15 03:01:18",
       "album": {
-        "name": "+ Swag",
-        "url": "https://open.spotify.com/album/5IQmCzhhAqtJRRkdgH2HAD"
-      },
-      "artists": [
-        {
-          "name": "Phl Notunrboy",
-          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "+ Swag",
-      "url": "https://open.spotify.com/track/7f3vml3PGJoz0AWEth6KVK"
-    },
-    {
-      "added_at": "2026-08-15 03:01:18",
-      "album": {
         "name": "M.A.D 2",
         "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 173114,
       "name": "Lado Negro",
       "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
+    },
+    {
+      "added_at": "2026-08-15 03:01:18",
+      "album": {
+        "name": "+ Swag",
+        "url": "https://open.spotify.com/album/5IQmCzhhAqtJRRkdgH2HAD"
+      },
+      "artists": [
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "+ Swag",
+      "url": "https://open.spotify.com/track/7f3vml3PGJoz0AWEth6KVK"
     },
     {
       "added_at": "2026-08-15 03:01:18",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-08-15 03:01:18",
       "album": {
+        "name": "CAM",
+        "url": "https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 167633,
+      "name": "CAM",
+      "url": "https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV"
+    },
+    {
+      "added_at": "2026-08-15 03:01:18",
+      "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 140338,
       "name": "Pr\u00f3ximo Passo",
       "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
-    },
-    {
-      "added_at": "2026-08-15 03:01:18",
-      "album": {
-        "name": "CAM",
-        "url": "https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 167633,
-      "name": "CAM",
-      "url": "https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV"
     },
     {
       "added_at": "2026-08-15 03:01:18",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-08-15 03:01:18",
       "album": {
+        "name": "Mr. Lupa Freestyle",
+        "url": "https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "duration_ms": 147129,
+      "name": "Mr. Lupa Freestyle",
+      "url": "https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg"
+    },
+    {
+      "added_at": "2026-08-15 03:01:18",
+      "album": {
         "name": "SP",
         "url": "https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX"
       },
@@ -855,26 +875,6 @@
     {
       "added_at": "2026-08-15 03:01:18",
       "album": {
-        "name": "Mr. Lupa Freestyle",
-        "url": "https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        }
-      ],
-      "duration_ms": 147129,
-      "name": "Mr. Lupa Freestyle",
-      "url": "https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg"
-    },
-    {
-      "added_at": "2026-08-15 03:01:18",
-      "album": {
         "name": "Alta Massa (ATM)",
         "url": "https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE"
       },
@@ -931,34 +931,6 @@
     {
       "added_at": "2026-08-15 03:01:18",
       "album": {
-        "name": "GET RICH",
-        "url": "https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm"
-      },
-      "artists": [
-        {
-          "name": "TheJovemJota",
-          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
-        },
-        {
-          "name": "Mvt",
-          "url": "https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ"
-        },
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
-        },
-        {
-          "name": "CASA 11",
-          "url": "https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy"
-        }
-      ],
-      "duration_ms": 139281,
-      "name": "GET RICH",
-      "url": "https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v"
-    },
-    {
-      "added_at": "2026-08-15 03:01:18",
-      "album": {
         "name": "N\u00d3S CONTRA O MUNDO",
         "url": "https://open.spotify.com/album/2Cs5AiZ8KTYGWPA5vqIMni"
       },
@@ -983,78 +955,6 @@
       "duration_ms": 167575,
       "name": "EU SOU A FONTE",
       "url": "https://open.spotify.com/track/7DvBUHXM86WjVQiDLASMyy"
-    },
-    {
-      "added_at": "2026-08-15 03:01:18",
-      "album": {
-        "name": "Spliff",
-        "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        },
-        {
-          "name": "Vertigo",
-          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Spliff",
-      "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
-    },
-    {
-      "added_at": "2026-08-15 03:01:18",
-      "album": {
-        "name": "PRETO DE VITRINE",
-        "url": "https://open.spotify.com/album/3YDq0DisiOVRN4khwWJH6X"
-      },
-      "artists": [
-        {
-          "name": "Druhh e Drehh",
-          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
-        },
-        {
-          "name": "Miranda On The Trk!",
-          "url": "https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc"
-        },
-        {
-          "name": "MixbyGaijin",
-          "url": "https://open.spotify.com/artist/5yiQQsEuh10OhXClxBtYMM"
-        }
-      ],
-      "duration_ms": 173852,
-      "name": "PRETO DE VITRINE",
-      "url": "https://open.spotify.com/track/5gvLZphACEQd8O49b0dvac"
-    },
-    {
-      "added_at": "2026-08-15 03:01:18",
-      "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        }
-      ],
-      "duration_ms": 115384,
-      "name": "Ciclo",
-      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
     },
     {
       "added_at": "2026-08-15 03:01:18",
@@ -1091,6 +991,78 @@
     {
       "added_at": "2026-08-15 03:01:18",
       "album": {
+        "name": "Spliff",
+        "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Spliff",
+      "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
+    },
+    {
+      "added_at": "2026-08-15 03:01:18",
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "duration_ms": 115384,
+      "name": "Ciclo",
+      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
+    },
+    {
+      "added_at": "2026-08-15 03:01:18",
+      "album": {
+        "name": "PRETO DE VITRINE",
+        "url": "https://open.spotify.com/album/3YDq0DisiOVRN4khwWJH6X"
+      },
+      "artists": [
+        {
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+        },
+        {
+          "name": "Miranda On The Trk!",
+          "url": "https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc"
+        },
+        {
+          "name": "MixbyGaijin",
+          "url": "https://open.spotify.com/artist/5yiQQsEuh10OhXClxBtYMM"
+        }
+      ],
+      "duration_ms": 173852,
+      "name": "PRETO DE VITRINE",
+      "url": "https://open.spotify.com/track/5gvLZphACEQd8O49b0dvac"
+    },
+    {
+      "added_at": "2026-08-15 03:01:18",
+      "album": {
         "name": "Ruas Frias",
         "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
       },
@@ -1103,6 +1075,34 @@
       "duration_ms": 213333,
       "name": "Ruas Frias",
       "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
+    },
+    {
+      "added_at": "2026-08-15 03:01:18",
+      "album": {
+        "name": "GET RICH",
+        "url": "https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm"
+      },
+      "artists": [
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        },
+        {
+          "name": "Mvt",
+          "url": "https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "CASA 11",
+          "url": "https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy"
+        }
+      ],
+      "duration_ms": 139281,
+      "name": "GET RICH",
+      "url": "https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v"
     },
     {
       "added_at": "2026-08-15 03:01:18",

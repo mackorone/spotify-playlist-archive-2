@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc?si=9d4c2de5d15c4aaa">Devin Donnell</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,471 likes - 155 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,527 likes - 155 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

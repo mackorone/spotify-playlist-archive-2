@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 261427,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
@@ -9957,7 +9957,7 @@
     },
     {
       "album": {
-        "name": "Spis din syvende sans (cover)",
+        "name": "Spis din syvende sans (Cover)",
         "url": "https://open.spotify.com/album/7B1OAVrW3sgf9gazdH0CNw"
       },
       "artists": [
@@ -9970,7 +9970,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184800,
-      "name": "Spis din syvende sans - cover",
+      "name": "Spis din syvende sans - Cover",
       "url": "https://open.spotify.com/track/1MJy59Y0nppwYBji4i2J6J"
     },
     {
@@ -10022,7 +10022,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 167674,
       "name": "SS26",
       "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"

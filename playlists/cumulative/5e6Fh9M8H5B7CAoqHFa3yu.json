@@ -30601,6 +30601,24 @@
     },
     {
       "album": {
+        "name": "Love Was Over 2",
+        "url": "https://open.spotify.com/album/5LifJ9RHvyofajKP1YZrGl"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mendes",
+          "url": "https://open.spotify.com/artist/6zFDDWxcLKsKBMUwQhvZkL"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274879,
+      "name": "Pieces of What Remains",
+      "url": "https://open.spotify.com/track/5QQTMMGeU7V3FPyOROA8xN"
+    },
+    {
+      "album": {
         "name": "Pijane Zombie",
         "url": "https://open.spotify.com/album/42sdo9NngvHMJCigtLGXFS"
       },

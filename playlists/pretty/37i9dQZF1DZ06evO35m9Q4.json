@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 169478,
+  "num_followers": 169500,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAD2NMpuPmnLiY2JPGMvyrUM",
+  "snapshot_id": "aoD9gAAAAAB2ola77TXfBwufJR+ehCKh",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 280740,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/6pFQLoJefvBCTXtjO2dn4t"
+      "duration_ms": 144571,
+      "name": "The House Is Rockin'",
+      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 144571,
-      "name": "The House Is Rockin'",
-      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
+      "duration_ms": 280740,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/6pFQLoJefvBCTXtjO2dn4t"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 144600,
-      "name": "Wham",
-      "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 910573,
       "name": "Blues At Sunrise",
       "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 144600,
+      "name": "Wham",
+      "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
     },
     {
       "added_at": null,

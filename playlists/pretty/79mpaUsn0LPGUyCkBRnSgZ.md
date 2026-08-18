@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 769 songs - 2 day 1 hr 36 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 769 songs - 2 day 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -775,7 +775,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 765 | [Chimacum Rain](https://open.spotify.com/track/0PSxgms5q4pEtRGXRw2oWK) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 3:24 |
 | 766 | [French Radio](https://open.spotify.com/track/2DFY5xoMUyUMColK7xaRi8) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [They Spent Their Wild Youthful Days In The Glittering World Of The Salons](https://open.spotify.com/album/3bEI2P01ZCL5AnpAY7GGcg) | 0:18 |
 | 767 | [89 Days](https://open.spotify.com/track/14twvCzXql2brH14KA7vzX) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Melt the Honey](https://open.spotify.com/album/1b3i2e3n3ayNsVKXANYsPz) | 2:42 |
-| 768 | [This Is Radio Etienne](https://open.spotify.com/track/6AP9itKfq3NiSGpkpXWWI5) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 0:42 |
-| 769 | [Hercules](https://open.spotify.com/track/15bg8bsx2AoqHu7hgRK6PU) | [Tracey Nelson](https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J) | [Hercules](https://open.spotify.com/album/5QWEWV25nYifxXjOYPkxjA) | 4:05 |
+| 768 | [Hercules](https://open.spotify.com/track/15bg8bsx2AoqHu7hgRK6PU) | [Tracey Nelson](https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J) | [Hercules](https://open.spotify.com/album/5QWEWV25nYifxXjOYPkxjA) | 4:05 |
+| 769 | [I Think I'm Ready Now](https://open.spotify.com/track/7gfQLX2KvnLP4LHnuW1hWi) | [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm) | [Profound](https://open.spotify.com/album/08NmkFu1rWiXZk9ZblZ959) | 3:13 |
 
-Snapshot ID: `AAAJaGNDxzBPcYGza0BgRfSclkL4Zwow`
+Snapshot ID: `AAAJalxgor6ziSlbZPm7KsBxrzaeGBPm`

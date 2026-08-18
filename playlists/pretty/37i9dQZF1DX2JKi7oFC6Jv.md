@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,365 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,368 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 23 | [Lighter VIP](https://open.spotify.com/track/58mlFUs5fy2d6B7bGA06iV) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Lighter EP](https://open.spotify.com/album/1aMv0600AWsjglH7gdeOuL) | 4:33 |
 | 24 | [Are You Gonna Bang Doe? \- Radio Edit](https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW) | [Funky Dee](https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv) | [Street Nation](https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd) | 2:43 |
 | 25 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
-| 26 | [Daydreaming \- Radio Edit](https://open.spotify.com/track/51JHr7mOf85cBREWpKlVLK) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Daydreaming \(Radio Edit\)](https://open.spotify.com/album/3eIj8Z11UWvxinKSUe8qUt) | 3:13 |
+| 26 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
 | 27 | [BLU Magic](https://open.spotify.com/track/7jXF5MEo0MBRjdf5Uy7j1t) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [The BLU Magic Project Remix EP](https://open.spotify.com/album/1p8R2BA13zfBxEO5fMlImp) | 4:32 |
-| 28 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
+| 28 | [Daydreaming \- Radio Edit](https://open.spotify.com/track/51JHr7mOf85cBREWpKlVLK) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Daydreaming \(Radio Edit\)](https://open.spotify.com/album/3eIj8Z11UWvxinKSUe8qUt) | 3:13 |
 | 29 | [Timbao](https://open.spotify.com/track/5sNy4a6dJKPNb2DFZ4qvxZ) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/2YgTYx8XxrFbOy08eVyNpA) | 3:48 |
 | 30 | [Tribal Warrior](https://open.spotify.com/track/0VhVO2DHLPRptJhTg60stS) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [Tribal Warrior](https://open.spotify.com/album/5qCvhwNOVnIunkiBwnbBYs) | 5:08 |
 | 31 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
-| 32 | [Bongo Jam \- Club Mix](https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Bongo Jam](https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN) | 7:41 |
-| 33 | [Emotions](https://open.spotify.com/track/2RMg1XOdQPxDesC5ihYk90) | [Zinc](https://open.spotify.com/artist/2XbmF8oDG2rPuuWfnrCGPF), [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx), [Nikki](https://open.spotify.com/artist/0jMnOC6Aa7ayV4nBZrGEwm) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:05 |
+| 32 | [Emotions](https://open.spotify.com/track/2RMg1XOdQPxDesC5ihYk90) | [Zinc](https://open.spotify.com/artist/2XbmF8oDG2rPuuWfnrCGPF), [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx), [Nikki](https://open.spotify.com/artist/0jMnOC6Aa7ayV4nBZrGEwm) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:05 |
+| 33 | [Bongo Jam \- Club Mix](https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Bongo Jam](https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN) | 7:41 |
 | 34 | [Ravers](https://open.spotify.com/track/1Zk2e5gEbJbAqjC1HIozCc) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [European 305](https://open.spotify.com/artist/1UB3q4Ly1A7pOno5OMLENU) | [Ravers](https://open.spotify.com/album/6AOBVhxdU833s723ef7IrE) | 2:28 |
 | 35 | [T\-Shirt \- Crazy Cousinz Vocal Remix](https://open.spotify.com/track/5skRvPNGdQMBORLv1UTt0c) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [T\-Shirt \(UK remixes\)](https://open.spotify.com/album/7yqRpx812OgyuspBHWbPzn) | 5:35 |
 | 36 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |

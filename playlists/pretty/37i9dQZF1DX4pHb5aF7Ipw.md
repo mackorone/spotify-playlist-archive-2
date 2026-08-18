@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Iqbal, BAD Junkie, Dhoot Mani and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,057 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,074 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 2 | [666](https://open.spotify.com/track/1gZSbOKG32gpjVjy29TQGR) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [SoundsbyJeremy](https://open.spotify.com/artist/2lUHRrqFWCiW9Fv3GJsrwQ) | [666](https://open.spotify.com/album/11wizp7coeLp55KLgbdTLm) | 2:47 |
 | 3 | [SOLO](https://open.spotify.com/track/3Ew6vefMmYgQt7qvsjFv9L) | [4tee7ven](https://open.spotify.com/artist/6EjilIQSEv30SRtJCx506v), [Jee Pro Beats](https://open.spotify.com/artist/05hXkdZe2i2rwXjnHsgChz) | [SOLO](https://open.spotify.com/album/1YeZjlXGkNtCN6l1ROyhez) | 2:28 |
 | 4 | [They Call Me](https://open.spotify.com/track/6U9fUXfhdkjdpqfxr4acfh) | [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [They Call Me](https://open.spotify.com/album/6N1tvDuiSFWrEwTC61sNk1) | 2:53 |
-| 5 | [No Expectation](https://open.spotify.com/track/3t8YomlzmLEnQh1CcX1TYc) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [HighRoller](https://open.spotify.com/album/16ruaAgfRR4m2IpNdpa012) | 2:28 |
+| 5 | [No Expectation](https://open.spotify.com/track/3t8YomlzmLEnQh1CcX1TYc) | [Rav Dhaliwal](https://open.spotify.com/artist/3baxKbDHRBBht0hRIlFdnB) | [HighRoller](https://open.spotify.com/album/16ruaAgfRR4m2IpNdpa012) | 2:28 |
 | 6 | [Young Code](https://open.spotify.com/track/6tn4DK4gDIaFN78JyziB2X) | [Kulwinder Sohi](https://open.spotify.com/artist/4ZuPcTmzv64QazoSJizaxe), [Dr.Sidhu](https://open.spotify.com/artist/26zNI72NLoi14xOYoYjWKg), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Young Code](https://open.spotify.com/album/7fBCglldtl1JySIWOwDy36) | 2:51 |
 | 7 | [Aura Change](https://open.spotify.com/track/0uQST5LgmdaJCZYgm0SjKH) | [SINGAAX](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Drippy](https://open.spotify.com/artist/1jkknDhiQJBRpS9DIbf8QA) | [Punjab's Blood](https://open.spotify.com/album/0RSf8YEGSGEWfYeWWV5SGd) | 2:36 |
 | 8 | [Trophy](https://open.spotify.com/track/07KLnLi64F3u5qQgxHrl8a) | [Dhoot Mani](https://open.spotify.com/artist/4Qxx0J73vOmSCfMCAgwRzd), [Shehbaaz](https://open.spotify.com/artist/0eOgf3NSBxsGIhXqhSfX3P) | [Trophy](https://open.spotify.com/album/4Hf53dEgoBQnR0YGwiE7xK) | 3:10 |
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 23 | [Love Me Tomorrow](https://open.spotify.com/track/2pJbinioXWMsbigNyG4ssr) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Amrit Randhawa](https://open.spotify.com/artist/3rDsVH9W3JfU3JuGX7wZux) | [Karta Na Ohi Kamm](https://open.spotify.com/album/4uYQLberG1eJrPfvqJlBti) | 2:59 |
 | 24 | [Count Up](https://open.spotify.com/track/0HrvMctFuMdDnZeD4ijw5s) | [Hairat Aulakh](https://open.spotify.com/artist/2NoWAo6B7GYkhnst4yz4yh), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [O'Clock](https://open.spotify.com/album/6kAdQwCiTiB02wVnG4tvt1) | 3:13 |
 | 25 | [Tere Utte](https://open.spotify.com/track/0MruIf4S5qdOD1j5GZaR9m) | [Avy](https://open.spotify.com/artist/60LOC5YjxUz2giCuSG8vgY), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP), [Sam Malhi](https://open.spotify.com/artist/325CacP4L0R2VaghEMgsOg), [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv) | [Tere Utte](https://open.spotify.com/album/7gJhbtNpecX33xYkkykmxB) | 2:08 |
-| 26 | [Identity](https://open.spotify.com/track/5XSrQZfOXVDdgsU2RyoVew) | [Hukam Grewal](https://open.spotify.com/artist/3Ul9bcv32tvMWRptReSBcs) | [Identity](https://open.spotify.com/album/3EwcgIVB0yVekvRlcRwS84) | 2:44 |
+| 26 | [Identity](https://open.spotify.com/track/5XSrQZfOXVDdgsU2RyoVew) | [Hukam Grewal](https://open.spotify.com/artist/6Z1wk2UpA2FvhmqvDztoAJ) | [Identity](https://open.spotify.com/album/3EwcgIVB0yVekvRlcRwS84) | 2:44 |
 | 27 | [PB36 Anthem](https://open.spotify.com/track/4REW2PGwXifTMprxtrkqJO) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [PB36 Anthem](https://open.spotify.com/album/2SDmvvajibFcqxJgWUmvQV) | 3:06 |
 | 28 | [Selfmade](https://open.spotify.com/track/3k8bEDfJY5Hdu7d4UNGmzT) | [Krma](https://open.spotify.com/artist/4sBNHDKJHXwpXVoMNRV3Ol), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Selfmade](https://open.spotify.com/album/6SOSv6oER9YEXYe6pFkYhN) | 2:31 |
-| 29 | [Naami Saami](https://open.spotify.com/track/7FBQ1SA5iIVKSugThmBzkY) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Naami Saami](https://open.spotify.com/album/1owoBBslNJR4DMUuby4x6N) | 2:39 |
+| 29 | [Naami Saami](https://open.spotify.com/track/7FBQ1SA5iIVKSugThmBzkY) | [Sunny Randhawa](https://open.spotify.com/artist/33Yylbc57eiuuNTJ4rvffX) | [Naami Saami](https://open.spotify.com/album/1owoBBslNJR4DMUuby4x6N) | 2:39 |
 | 30 | [We First](https://open.spotify.com/track/4dcoyb8LCXrb7Vc7ED8Z9c) | [JAGDEEEP SANGALA](https://open.spotify.com/artist/0uNWUtyWGwhQ2W13L27QW9) | [We First](https://open.spotify.com/album/53bz6ABNPdMiD8fe9AXw4G) | 2:27 |
 | 31 | [Chal Challiye](https://open.spotify.com/track/6G4XB06Zc8lG713ngFBjKA) | [NAGRA](https://open.spotify.com/artist/51l8rmbjDP18wUxOBat7ri), [avx](https://open.spotify.com/artist/3FOd1FgMNLy4M6f278xfLp) | [Chal Challiye](https://open.spotify.com/album/6z6fAVDzviHyyNZ2qrlVdj) | 3:18 |
 | 32 | [Unbothered](https://open.spotify.com/track/7AmRaS14D6tGKKsRMobs0L) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Unbothered](https://open.spotify.com/album/47ECgr1igZBs9vM0v4mSXL) | 2:37 |

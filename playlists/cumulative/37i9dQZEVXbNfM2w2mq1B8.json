@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 247500,
       "name": "#MeGusta",
       "url": "https://open.spotify.com/track/3m6oTpy4U4L8Zf0HIMpCQw"
@@ -21492,7 +21492,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 171655,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/2oKS0CqaDbIpAt8RUnBVfA"
@@ -24897,6 +24897,44 @@
     },
     {
       "album": {
+        "name": "Move (feat. Camila Cabello & Malachiii)",
+        "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
+      },
+      "artists": [
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Orso",
+          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180236,
+      "name": "Move (feat. Camila Cabello & Malachiii)",
+      "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
+    },
+    {
+      "album": {
         "name": "Movin' To The Sun",
         "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
       },
@@ -25958,7 +25996,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 246099,
       "name": "Ne se iztrivash",
       "url": "https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1"
@@ -26176,7 +26214,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 121500,
       "name": "NeNeNe",
       "url": "https://open.spotify.com/track/6xB0FzhcDdFZBMIdKmoTu6"
@@ -27588,7 +27626,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 204923,
       "name": "OPA OPA",
       "url": "https://open.spotify.com/track/7Lnx7UuA0rf3o8G0VtZzP5"
@@ -36316,7 +36354,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -44480,7 +44518,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -44838,7 +44876,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 205102,
       "name": "\u0414\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
       "url": "https://open.spotify.com/track/7DLnkcz4EU04ghpTIQcEqL"
@@ -46646,7 +46684,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 199090,
       "name": "\u041a\u0423-\u041a\u0423",
       "url": "https://open.spotify.com/track/5DhNN329T0nLSSE1mkjGmW"
@@ -48748,7 +48786,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 240937,
       "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
       "url": "https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA"
@@ -49496,7 +49534,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 189285,
       "name": "\u041f\u0440\u043e\u0441\u0442\u043e \u0428\u043e\u0443",
       "url": "https://open.spotify.com/track/35CkOCdXZ6mx4QRHuI6C9O"

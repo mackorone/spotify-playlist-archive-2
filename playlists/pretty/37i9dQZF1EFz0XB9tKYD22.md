@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614 likes - 351 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 351 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 78 | [Way Too Pretty for Prison \(with Maren Morris\)](https://open.spotify.com/track/6ZShReTf4SiT7LYXnRCks0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:14 |
 | 79 | [Two Things](https://open.spotify.com/track/3FydZFxDIfVEFojIxd5flv) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:35 |
 | 80 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 |
-| 81 | [Like I'll Never Love You Again](https://open.spotify.com/track/7utpHSZSjZY0u4OqeSNR9G) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:36 |
-| 82 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
+| 81 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
+| 82 | [Like I'll Never Love You Again](https://open.spotify.com/track/7utpHSZSjZY0u4OqeSNR9G) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:36 |
 | 83 | [Lopen Op Het Water](https://open.spotify.com/track/3w0op8UIfndZVmTiQzo4z1) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:28 |
 | 84 | [Chaser](https://open.spotify.com/track/76vVrWGgSYz7r0rYEwU807) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 4:23 |
 | 85 | [Pain Killer](https://open.spotify.com/track/7kieCiVmj4StWHclc04u3M) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:11 |
@@ -260,8 +260,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 250 | [That's Why God Made Guitars](https://open.spotify.com/track/0PLDRD7EXSVkFcR2Xy3eAo) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Pick Me Up](https://open.spotify.com/album/2AIjGgi7S3zWimTIekSxYj) | 3:19 |
 | 251 | [So Magical](https://open.spotify.com/track/7bWS811PjUHfEd25PKIPen) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/1OtyAbeM8Ex503oamdpmzQ) | 3:51 |
 | 252 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 |
-| 253 | [Mine](https://open.spotify.com/track/1cCs7Wvv4EZ88lHjN1FbWz) | [SingLike](https://open.spotify.com/artist/0BBdrDvbZmjZykvWZwIuL6) | [Mine \- Single](https://open.spotify.com/album/6G35RpfTGXJMde1BRuoY82) | 3:52 |
-| 254 | [Hell Of A Heartbreak](https://open.spotify.com/track/1YtSJkaTnzV2TNkGo2045F) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hell Of A Heartbreak](https://open.spotify.com/album/3JFCNlunpvtxLZiGO3OQ5Z) | 3:02 |
+| 253 | [Hell Of A Heartbreak](https://open.spotify.com/track/1YtSJkaTnzV2TNkGo2045F) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hell Of A Heartbreak](https://open.spotify.com/album/3JFCNlunpvtxLZiGO3OQ5Z) | 3:02 |
+| 254 | [Mine](https://open.spotify.com/track/1cCs7Wvv4EZ88lHjN1FbWz) | [SingLike](https://open.spotify.com/artist/0BBdrDvbZmjZykvWZwIuL6) | [Mine \- Single](https://open.spotify.com/album/6G35RpfTGXJMde1BRuoY82) | 3:52 |
 | 255 | [When You Love Me](https://open.spotify.com/track/67c475WKa7gaIykBVVW3J3) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/1OtyAbeM8Ex503oamdpmzQ) | 4:30 |
 | 256 | [North Pole](https://open.spotify.com/track/0dQE4CFjAG204JLAML95Cm) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:35 |
 | 257 | [Keep Us Safe](https://open.spotify.com/track/0kB7qEUgE7H9FlM7vIElfX) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [Stand By Me](https://open.spotify.com/album/2sJR7qAA6tIf92QQ7i9R4X) | 3:53 |
@@ -360,4 +360,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 350 | [Relapse](https://open.spotify.com/track/2QSx7YmaQeEF1Orrymng9h) | [Romantic](https://open.spotify.com/artist/6kopcZ58fkBTfUzDAQcb4n) | [Dying of The Light](https://open.spotify.com/album/7dYlb4zkngh3DRGGfcj0vC) | 3:30 |
 | 351 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcZw1gAAAAAmjZUn0eKzp2AuS1IvJ3Jq`
+Snapshot ID: `AcZ2bAAAAADZt2mjRauU1M/MgDNazFiN`

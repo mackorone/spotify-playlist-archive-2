@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 84393,
+  "num_followers": 84498,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAA8sqTXeT2onhkxgKCbMT2",
+  "snapshot_id": "aoD9gAAAAABT8OH9qoERAslVGkuphbJf",
   "tracks": [
     {
       "added_at": null,
@@ -95,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chanel (feat. Asake)",
-        "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "Chanel (feat. Asake)",
-      "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eja Meja (feat. Asake)",
         "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 158108,
       "name": "Eja Meja (feat. Asake)",
       "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chanel (feat. Asake)",
+        "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "Chanel (feat. Asake)",
+      "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omo Ope",
-        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Omo Ope (feat. Olamide)",
-      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 174743,
       "name": "Happiness \u200b(f\u200beat\u200b. Asake, Gunna\u200b)",
       "url": "https://open.spotify.com/track/3Y1hrPPs0FFtXodEE7HkrN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omo Ope",
+        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Omo Ope (feat. Olamide)",
+      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
     },
     {
       "added_at": null,

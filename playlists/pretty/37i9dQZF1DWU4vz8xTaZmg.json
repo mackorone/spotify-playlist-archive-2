@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 75645,
+  "num_followers": 75648,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
+        "name": "JACKBOYS",
+        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
+      },
+      "artists": [
+        {
+          "name": "JACKBOYS",
+          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "GANG GANG",
+      "url": "https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
         "name": "CARAVANA",
         "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 254723,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/4IO8X9W69dIQe0EC5ALXhq"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
-        "name": "JACKBOYS",
-        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
-      },
-      "artists": [
-        {
-          "name": "JACKBOYS",
-          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
-        },
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "GANG GANG",
-      "url": "https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "TRES PUNTOS SUSPENSIVOS",
-        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "ALMA DINAMITA",
-      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 193767,
       "name": "PIENSO EN TU MIR\u00c1 - Cap.3: Celos",
       "url": "https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
+        "name": "TRES PUNTOS SUSPENSIVOS",
+        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "ALMA DINAMITA",
+      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "PHOLKS",
-        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
         }
       ],
-      "duration_ms": 165599,
-      "name": "My Muse",
-      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
+      "duration_ms": 248693,
+      "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy?",
+      "url": "https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 165599,
+      "name": "My Muse",
+      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
         "name": "Morad: Bzrp Music Sessions, Vol. 47/66",
         "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 177583,
       "name": "Morad: Bzrp Music Sessions, Vol. 47/66",
       "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 248693,
-      "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy?",
-      "url": "https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
+        "name": "Herstory in the Making",
+        "url": "https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG"
+      },
+      "artists": [
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        }
+      ],
+      "duration_ms": 225919,
+      "name": "BIG",
+      "url": "https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "Herstory in the Making",
-        "url": "https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG"
-      },
-      "artists": [
-        {
-          "name": "Young M.A",
-          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
-        }
-      ],
-      "duration_ms": 225919,
-      "name": "BIG",
-      "url": "https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -1435,8 +1435,8 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
-        "url": "https://open.spotify.com/album/1LFRuZl97Bf8wdeVqpnZcH"
+        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13/66",
+        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
       },
       "artists": [
         {
@@ -1444,13 +1444,13 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 199391,
-      "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
-      "url": "https://open.spotify.com/track/4jTKJOFxaqEcm558JYi4Dh"
+      "duration_ms": 143291,
+      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13/66",
+      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -1555,8 +1555,8 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13/66",
-        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
+        "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
+        "url": "https://open.spotify.com/album/1LFRuZl97Bf8wdeVqpnZcH"
       },
       "artists": [
         {
@@ -1564,13 +1564,29 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 143291,
-      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13/66",
-      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
+      "duration_ms": 199391,
+      "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
+      "url": "https://open.spotify.com/track/4jTKJOFxaqEcm558JYi4Dh"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Fortune Faded",
+      "url": "https://open.spotify.com/track/37sSud1ZrTpwXPGJP0dbXI"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -1591,22 +1607,6 @@
       "duration_ms": 128409,
       "name": "THRU THE NIGHT (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Fortune Faded",
-      "url": "https://open.spotify.com/track/37sSud1ZrTpwXPGJP0dbXI"
     },
     {
       "added_at": "2026-02-04 16:00:35",

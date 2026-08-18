@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,432 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,445 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
-| 2 | [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 |
-| 3 | [Big Ole Freak](https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:34 |
+| 2 | [Big Ole Freak](https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:34 |
+| 3 | [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 |
 | 4 | [Preach](https://open.spotify.com/track/6FzjhVjXDoBGfq1sSdNq7S) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Cross Country Trappin](https://open.spotify.com/album/4R64QNV35UNIjVeWjDSIJS) | 3:26 |
 | 5 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 |
 | 6 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 38 | [FRIENDS](https://open.spotify.com/track/28meAZD8uiVdp2sNcK8Ahl) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 3:25 |
 | 39 | [Gucci Bag](https://open.spotify.com/track/3pNeE3ImWzplc0tnUpmh2a) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Pressure](https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8) | 2:15 |
 | 40 | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/track/0YrYVhq0EukTxojdqLh2Sj) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [AzSwaye](https://open.spotify.com/artist/5tg5JDw7tQiZdJCShs9rk9), [Pjay](https://open.spotify.com/artist/6rB1jv0emRIkbLluXskjt9) | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/album/4aBeGq3hlU2z7c6EvKjHpc) | 2:36 |
-| 41 | [Foot Fungus](https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:09 |
-| 42 | [212](https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 3:24 |
+| 41 | [212](https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 3:24 |
+| 42 | [Foot Fungus](https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:09 |
 | 43 | [The Ave in You](https://open.spotify.com/track/3AIx2mvrJJuCaea9ImEkr1) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Lil Mont from The Ave](https://open.spotify.com/album/1cZLwwMVQDCEOErLWjJD6X) | 2:56 |
 | 44 | [Sleeping With the Enemy](https://open.spotify.com/track/0ISoKjo9JVUB97JMgygRZP) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [The Bastard Tape, Vol\. 1](https://open.spotify.com/album/2N2geXZotNXw4nqi2bk00J) | 3:49 |
 | 45 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 |

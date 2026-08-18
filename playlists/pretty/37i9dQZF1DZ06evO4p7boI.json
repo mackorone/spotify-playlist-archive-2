@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96302,
+  "num_followers": 96305,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABM0nRmdxxP4c9Z8RjqDBLb",
+  "snapshot_id": "aoD9gAAAAADBnb4XhuwwBPyLWmDxgzvz",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 119965,
       "name": "MUTT",
       "url": "https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "ABOUT YOU (with NAV)",
-      "url": "https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SAME DIFFERENCE",
         "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 316097,
       "name": "NO CALL NO SHOW (feat. NAV)",
       "url": "https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "ABOUT YOU (with NAV)",
+      "url": "https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rexdale",
-        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 125093,
-      "name": "Rexdale",
-      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WUNNA (Deluxe)",
         "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 165013,
       "name": "NOTHING 4 FREE (feat. NAV)",
       "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rexdale",
+        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 125093,
+      "name": "Rexdale",
+      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
     },
     {
       "added_at": null,

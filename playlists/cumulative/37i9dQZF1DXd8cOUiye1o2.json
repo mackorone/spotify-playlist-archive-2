@@ -5289,6 +5289,32 @@
     },
     {
       "album": {
+        "name": "Dil Mera Ro Raha",
+        "url": "https://open.spotify.com/album/0r3zdYIsdAB0HxBQnxfy63"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Jackie Vanjari",
+          "url": "https://open.spotify.com/artist/4Ye3MAp70s7AUbzr3ZBlbV"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222218,
+      "name": "Dil Mera Ro Raha",
+      "url": "https://open.spotify.com/track/32efGou1XJkHVkPbMTjH2D"
+    },
+    {
+      "album": {
         "name": "Tu Meri Main Tera Main Tera Tu Meri",
         "url": "https://open.spotify.com/album/237OmhF9Vu3GATeI30W4ci"
       },
@@ -7814,7 +7840,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 385882,
       "name": "Hoor | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/0XiZEqOr2ZF4EzQaBzUGIg"
@@ -12888,7 +12914,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 167885,
       "name": "Malang",
       "url": "https://open.spotify.com/track/20jUHx00ZA2HgmPpkwtK7t"
@@ -13142,7 +13168,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 170000,
       "name": "Marham",
       "url": "https://open.spotify.com/track/4vgWEM1dc8S3JMjHrSdFTo"
@@ -14752,6 +14778,28 @@
       "duration_ms": 213152,
       "name": "Nazar Battu",
       "url": "https://open.spotify.com/track/5vRJOAa7gYCcvHn5ETs4ns"
+    },
+    {
+      "album": {
+        "name": "Nazar Lagi",
+        "url": "https://open.spotify.com/album/2iWpte3fx59HAv0YqTNV4q"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Nazar Lagi",
+      "url": "https://open.spotify.com/track/3MC7xAf4DcyWYnYfU933rj"
     },
     {
       "album": {
@@ -17242,6 +17290,28 @@
       "duration_ms": 170624,
       "name": "RED PILL",
       "url": "https://open.spotify.com/track/31kpp32NUZoyOHTofbQWHS"
+    },
+    {
+      "album": {
+        "name": "Rehbara",
+        "url": "https://open.spotify.com/album/0WNynwU2UJGix7oCG7FKfR"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Rehbara",
+      "url": "https://open.spotify.com/track/1q82k8tuu1t6t8H8zHMqWs"
     },
     {
       "album": {
@@ -22611,7 +22681,7 @@
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 320885,
+      "duration_ms": 320905,
       "name": "Waqt - From \"Toxic\"",
       "url": "https://open.spotify.com/track/3MEy93ybbMkNpYc0UYcucp"
     },

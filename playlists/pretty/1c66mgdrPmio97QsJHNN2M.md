@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,844 likes - 225 songs - 11 hr 32 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,848 likes - 238 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,5 +233,18 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 223 | [I Don't Know](https://open.spotify.com/track/6tP6OG9FDD9WgAfNLttPoA) | [ARIA](https://open.spotify.com/artist/6RB7SGb8IwhFmtyb7XTwmt) | [I Don't Know](https://open.spotify.com/album/1VFlfFdzrolaD5PamsgJWD) | 2:34 |
 | 224 | [M Queens](https://open.spotify.com/track/7bELheeMzEvZU95hfxSmp5) | [Vegas Girls 74](https://open.spotify.com/artist/25tCFYmFkIJ97sQNSCVOzK) | [M Queens](https://open.spotify.com/album/0f38Mr3NFgfmRz1jmSLirS) | 2:50 |
 | 225 | [One More Chance](https://open.spotify.com/track/7KyKFtimPJjcJt1UJngbDa) | [FAKU](https://open.spotify.com/artist/7DymESApuSIYnaSjg0Teor) | [One More Chance](https://open.spotify.com/album/7ifSpmilNeNCywRLsNCmlr) | 3:24 |
+| 226 | [Dawnline](https://open.spotify.com/track/5oyyqC9gOUx02bkkc0o05a) | [Terralyn](https://open.spotify.com/artist/612jV8ZK2XQWHlMLRwoap4) | [Dawnline](https://open.spotify.com/album/2bTu85DQEXXxJ4F87TUp5V) | 3:59 |
+| 227 | [Harlequin](https://open.spotify.com/track/7A7y6uCfd3mPSsya8YOcms) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [Harlequin](https://open.spotify.com/album/7FXa7VysnuvTxgsKQkccZP) | 3:19 |
+| 228 | [Lock Up Your Daughters \(Pray For Your Sons\)](https://open.spotify.com/track/55brq7guRO2ZWAXM8abnKh) | [Nick Liberty](https://open.spotify.com/artist/7gZABCcTRzonnDKgDt0lV1) | [Lock Up Your Daughters \(Pray For Your Sons\)](https://open.spotify.com/album/12JUhrTK8lgp3EL575a8QT) | 2:22 |
+| 229 | [Blue Moon](https://open.spotify.com/track/4m2UAM01oIEJwfPRjME7r7) | [Haaniel](https://open.spotify.com/artist/3rNsxByNqSJjegnFQHkkeK) | [Blue Moon](https://open.spotify.com/album/69kDNBcKnalwKCwXzazQpz) | 3:03 |
+| 230 | [See You Again](https://open.spotify.com/track/1wBhT1Y5VhsypwZhKzrvaG) | [gryphn](https://open.spotify.com/artist/1A0hHk6U35jdx5dF42ylLv) | [See You Again](https://open.spotify.com/album/0DXonCmPyUazF9yWmFIONq) | 1:46 |
+| 231 | [Queen They Love to Hate](https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Queen They Love to Hate](https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC) | 2:37 |
+| 232 | [Disco Ball](https://open.spotify.com/track/4NLHF9zeoMmGBvgtRX7Yno) | [Flo Matey](https://open.spotify.com/artist/3mePI95jW7FgoR0BcDZiFi) | [Disco Ball](https://open.spotify.com/album/2le7xex5u55H87G4UmiC0l) | 3:20 |
+| 233 | [On the Rocks](https://open.spotify.com/track/1Ua903v0nO7X1itpxm65TU) | [Michael Dulin](https://open.spotify.com/artist/2xYSU8vyiMk8S1Nm7CN44t) | [On the Rocks](https://open.spotify.com/album/3ZO7FHvm3KTJJSRsO4REtD) | 3:30 |
+| 234 | [Both of us](https://open.spotify.com/track/6sc1iqgln5j2wUZwBwStwh) | [ChriShendOh](https://open.spotify.com/artist/5IGzHuOFnjrMT9yVXuck6X) | [Both of us](https://open.spotify.com/album/4GaYZGF9nRhWoeRJNuP811) | 3:14 |
+| 235 | [Twilight](https://open.spotify.com/track/0Xz9elyyOAWMymtoBw3FSl) | [Watty](https://open.spotify.com/artist/01PCMdhyi6PhsWe63oYYkq), [LRE](https://open.spotify.com/artist/12gq5gJa0dPXJUDpJF8c6I) | [Twilight](https://open.spotify.com/album/4ElFAEW2Kuyl8yWBGFoJ4W) | 3:17 |
+| 236 | [Fighting Shadows](https://open.spotify.com/track/5Je4cjbgFp4eOUeT1VFPNb) | [Sams Beatz](https://open.spotify.com/artist/31sor2nBOhCr8OTC2X92wI) | [Fighting Shadows](https://open.spotify.com/album/6MmwI1527M4BinNWo3227H) | 3:02 |
+| 237 | [HIGH SCHOOL](https://open.spotify.com/track/16noJaTnjhTFQVIndW63Cn) | [yungsaint✞✞✞](https://open.spotify.com/artist/3BqwY2JmYDFLd2QZtwbtUQ) | [HIGH SCHOOL](https://open.spotify.com/album/1peDkOntME2cFsek0rtDyR) | 2:02 |
+| 238 | [Outed Now](https://open.spotify.com/track/791mkxaPDt239fHRBl6Xf5) | [Gawd](https://open.spotify.com/artist/76xDrhcwYuayzbzIkR3mBD) | [American Closet](https://open.spotify.com/album/2JJBoMlIWcIHhnsbt7Hnld) | 3:46 |
 
-Snapshot ID: `AAA7jT9Y/OV9ZaE0Fac6202HLMSsMQ3O`
+Snapshot ID: `AAA7mvuK/BkMo5Toz1Yz37Uxd1tcEINi`

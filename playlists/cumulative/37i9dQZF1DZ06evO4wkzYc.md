@@ -4,7 +4,7 @@
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-116 songs - 7 hr 7 min
+117 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Buena Suerte](https://open.spotify.com/track/7bl6zLYsNqpNQnI2bT8bR6) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Buena Suerte](https://open.spotify.com/album/6q7qOFkHzyucZQVIcCJOYo) | 3:54 | 2025-02-10 |  |
 | [Cada Noche](https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Cada Noche](https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy) | 3:41 | 2025-02-02 |  |
 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 | 2024-01-29 |  |
+| [Corre Corazon](https://open.spotify.com/track/7KrmAnoOVfDJZgonCZS3Mz) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:38 | 2026-08-18 |  |
 | [Culpables](https://open.spotify.com/track/2XoKzEPIDorxowyezrPPyv) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/1w4MR0JOdHYw7QMWhJTuqQ) | 4:12 | 2026-05-11 |  |
 | [Culpables](https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV) | 4:12 | 2024-01-29 | 2024-12-15 |
 | [Culpables](https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/4N3szQ2TAQeozENZC7xou8) | 4:12 | 2024-12-15 | 2026-05-11 |
@@ -86,7 +87,7 @@
 | [Mingo](https://open.spotify.com/track/0P3YnLaoAqN45hH34Jgiwj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mingo](https://open.spotify.com/album/0Eh9VKm1zUBjXMRNXqwrtx) | 3:08 | 2024-01-29 | 2024-09-21 |
 | [Mingo](https://open.spotify.com/track/6poGqH4EycO2RXBFElcK5w) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mingo](https://open.spotify.com/album/3Jg86eGRRn6XLMDl0uiKPE) | 3:08 | 2024-09-21 | 2026-05-09 |
 | [Mingo](https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mingo](https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq) | 3:08 | 2026-05-09 |  |
-| [Nestor \(El Nini\)](https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:49 | 2024-01-29 |  |
+| [Nestor \(El Nini\)](https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:49 | 2024-01-29 | 2026-08-18 |
 | [No Me Quiero Enamorar](https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP) | 2:39 | 2024-01-29 | 2024-08-21 |
 | [No Me Quiero Enamorar](https://open.spotify.com/track/738iesV0OE6jDUGr1f8YZE) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/05MOmiCmOiE1pmkUGdrMZE) | 2:39 | 2024-08-21 | 2026-05-12 |
 | [No Me Quiero Enamorar](https://open.spotify.com/track/2Ja6U7PQLuaGxIcJJFXl7r) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/7jn9Kcmsj8wkXhXEzbBjMb) | 2:39 | 2026-05-12 |  |

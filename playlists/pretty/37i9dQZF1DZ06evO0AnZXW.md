@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,939,455 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,939,345 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 7 | [BAD!](https://open.spotify.com/track/22An65gG31JLf9n18qjdhZ) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:34 |
 | 8 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 |
 | 9 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 |
-| 10 | [I Don't Wanna Do This Anymore](https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:27 |
-| 11 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 |
+| 10 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 |
+| 11 | [I Don't Wanna Do This Anymore](https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:27 |
 | 12 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 |
 | 13 | [NUMB](https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 3:06 |
 | 14 | [bad vibes forever \(feat\. PnB Rock & Trippie Redd\)](https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [Don't Cry \(feat\. XXXTENTACION\)](https://open.spotify.com/track/5BQrp63SHCVf4bzCzJePne) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 4:09 |
 | 50 | [Take A Step Back](https://open.spotify.com/track/5o8aC5bXYVmXjKz1aCBnN2) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/4DkkDn10C4ZXjJAkDkCryx) | 3:30 |
 
-Snapshot ID: `an+sAAAAAABRfvUL5XbIidrPtlOF0SpG`
+Snapshot ID: `aoD9gAAAAAA5XrgYXO61kCYHOcbIX9VA`

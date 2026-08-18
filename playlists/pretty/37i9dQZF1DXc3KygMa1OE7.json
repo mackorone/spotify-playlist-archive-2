@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2613730,
+  "num_followers": 2613744,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -251,18 +251,18 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+        "name": "True - The Digital E.P.",
+        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
         }
       ],
-      "duration_ms": 242678,
-      "name": "Nothing's Gonna Change My Love for You",
-      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
+      "duration_ms": 329146,
+      "name": "True - Single Edit",
+      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 242678,
+      "name": "Nothing's Gonna Change My Love for You",
+      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
-        "name": "True - The Digital E.P.",
-        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 329146,
-      "name": "True - Single Edit",
-      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Hi Infidelity (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Keep on Loving You",
-      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "No Brakes",
         "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Heart Of Stone",
-        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
+        "name": "Hi Infidelity (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
       "artists": [
         {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
         }
       ],
-      "duration_ms": 239826,
-      "name": "If I Could Turn Back Time",
-      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
+      "duration_ms": 200293,
+      "name": "Keep on Loving You",
+      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -439,6 +423,22 @@
       "duration_ms": 229706,
       "name": "I'll Be Over You",
       "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Heart Of Stone",
+        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "If I Could Turn Back Time",
+      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "...But Seriously (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 275986,
-      "name": "Do You Remember? - 2016 Remaster",
-      "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "What A Feeling",
         "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 267000,
       "name": "Every Time You Go Away - Radio Edit",
       "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "...But Seriously (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 275986,
+      "name": "Do You Remember? - 2016 Remaster",
+      "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
+        "name": "Electric Youth",
+        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Lost in Your Eyes",
+      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 253784,
       "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
       "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
-        "name": "Electric Youth",
-        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
-      },
-      "artists": [
-        {
-          "name": "Debbie Gibson",
-          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Lost in Your Eyes",
-      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "No Fun Aloud",
-        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "The One You Love",
-      "url": "https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "We've Got Tonight",
         "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 234560,
       "name": "We've Got Tonight",
       "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "No Fun Aloud",
+        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "The One You Love",
+      "url": "https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b"
-      },
-      "artists": [
-        {
-          "name": "Debbie Gibson",
-          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
-        }
-      ],
-      "duration_ms": 262413,
-      "name": "Foolish Beat",
-      "url": "https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "The Best of Chicago, 40th Anniversary Edition",
         "url": "https://open.spotify.com/album/13etqTFFO9ZKGD3LeRMROL"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 223280,
       "name": "Hard to Say I'm Sorry - 2007 Remaster",
       "url": "https://open.spotify.com/track/7boKWlaNVmrhJdX8IbzUdD"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "duration_ms": 262413,
+      "name": "Foolish Beat",
+      "url": "https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1"
     },
     {
       "added_at": "2026-02-25 17:39:27",

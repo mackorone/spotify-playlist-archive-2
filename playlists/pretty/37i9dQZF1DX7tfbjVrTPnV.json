@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Sheryl Crow",
-  "num_followers": 238927,
+  "num_followers": 238935,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "John Prine",
-        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 272026,
-      "name": "Hello in There",
-      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "Pontiac",
         "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 187106,
       "name": "If I Had A Boat",
       "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 272026,
+      "name": "Hello in There",
+      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Sandusky",
-      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "George Jones - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
       },
@@ -327,18 +311,18 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Rumor And Sigh",
-        "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
       },
       "artists": [
         {
-          "name": "Richard Thompson",
-          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
         }
       ],
-      "duration_ms": 283493,
-      "name": "1952 Vincent Black Lightning",
-      "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
+      "duration_ms": 223640,
+      "name": "Sandusky",
+      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -355,6 +339,22 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "Rumor And Sigh",
+        "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Thompson",
+          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "1952 Vincent Black Lightning",
+      "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
+        "name": "Out Among The Stars",
+        "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Out Among the Stars",
+      "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4eZanBieJfTfgXAcnk9uaf"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 242875,
       "name": "The Other Side Of Blue",
       "url": "https://open.spotify.com/track/1orTjCUpOGDVxhpqqv6G9L"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
-        "name": "Out Among The Stars",
-        "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Out Among the Stars",
-      "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+        "name": "The New World Wave",
+        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
         }
       ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+      "duration_ms": 307706,
+      "name": "The New World Wave",
+      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -635,18 +635,34 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "The New World Wave",
-        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
       "artists": [
         {
-          "name": "Lambchop",
-          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 307706,
-      "name": "The New World Wave",
-      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Moonshiner",
+      "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -671,22 +687,6 @@
       "duration_ms": 243106,
       "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
       "url": "https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Moonshiner",
-      "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -771,6 +771,38 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
+        "name": "Crossroads (Original Sountrack)",
+        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Crossroads - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
         "name": "Am I Missing Out",
         "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
       },
@@ -799,38 +831,6 @@
       "duration_ms": 267648,
       "name": "Strangers Here",
       "url": "https://open.spotify.com/track/3eLPKY49y4mi29pjkpimkw"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
-        "name": "Crossroads (Original Sountrack)",
-        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Crossroads - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "Look What the Cat Drug In",
         "url": "https://open.spotify.com/album/5UJQYneuqPNCDbtYl734ey"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 163939,
       "name": "Look What the Cat Drug In",
       "url": "https://open.spotify.com/track/4O3rtAR2Xh2iQUP3GJ3SjL"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Too Blessed to Be Stressed",
-        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
-      },
-      "artists": [
-        {
-          "name": "Paul Thorn",
-          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
-        }
-      ],
-      "duration_ms": 284253,
-      "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "Still Woman Enough",
         "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
@@ -1239,6 +1223,38 @@
       "duration_ms": 161023,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "Too Blessed to Be Stressed",
+        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
+      },
+      "artists": [
+        {
+          "name": "Paul Thorn",
+          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
+        }
+      ],
+      "duration_ms": 284253,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1263,34 +1279,22 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
       "artists": [
         {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
-        "name": "The River & The Thread (Deluxe)",
-        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
-      },
-      "artists": [
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        },
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 160120,
-      "name": "Tell Heaven",
-      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
+      "duration_ms": 175400,
+      "name": "Detour (feat. Emmylou Harris)",
+      "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
+        "name": "The River & The Thread (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
         }
       ],
-      "duration_ms": 175400,
-      "name": "Detour (feat. Emmylou Harris)",
-      "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
+      "duration_ms": 160120,
+      "name": "Tell Heaven",
+      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "You're My Favorite Song / Wild At Heart",
-        "url": "https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "You're My Favorite Song",
-      "url": "https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "Killin' Uncle Buzzy",
         "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 298520,
       "name": "I Shall Not Be Moved (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "You're My Favorite Song / Wild At Heart",
+        "url": "https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "You're My Favorite Song",
+      "url": "https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Finest Feelings",
-        "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
+        "name": "Airline Highway (Deluxe)",
+        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
       },
       "artists": [
         {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
         }
       ],
-      "duration_ms": 205348,
-      "name": "Finest Feelings",
-      "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
+      "duration_ms": 236920,
+      "name": "When You\u2019re With Him - Bonus Track",
+      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1587,22 +1587,6 @@
       "duration_ms": 158834,
       "name": "Got Your Six",
       "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
-        "name": "Airline Highway (Deluxe)",
-        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "When You\u2019re With Him - Bonus Track",
-      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1631,22 +1615,18 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Wynonna & The Big Noise",
-        "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
+        "name": "Finest Feelings",
+        "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
       },
       "artists": [
         {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
         }
       ],
-      "duration_ms": 251826,
-      "name": "Keeps Me Alive",
-      "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
+      "duration_ms": 205348,
+      "name": "Finest Feelings",
+      "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
+        "name": "Wynonna & The Big Noise",
+        "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+        }
+      ],
+      "duration_ms": 251826,
+      "name": "Keeps Me Alive",
+      "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
         "name": "Electro Melodier",
         "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
       },
@@ -1679,22 +1679,6 @@
       "duration_ms": 215570,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
-        "name": "Love Wore A Halo (Back Before the War)",
-        "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Love Wore A Halo (Back Before The War)",
-      "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1715,6 +1699,22 @@
       "duration_ms": 263000,
       "name": "The Killing Fields",
       "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "Love Wore A Halo (Back Before the War)",
+        "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Love Wore A Halo (Back Before The War)",
+      "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
         "name": "Time (The Revelator)",
         "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
       },
@@ -2087,18 +2103,18 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+        "name": "Tapestry (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -2123,22 +2139,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "My Favorite Picture Of You",
-      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "Copperhead Road (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
       },
@@ -2151,6 +2151,22 @@
       "duration_ms": 270066,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "My Favorite Picture Of You",
+      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -2219,18 +2235,18 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Tapestry (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
+        "name": "Traveling Alone (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
         }
       ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -2247,22 +2263,6 @@
       "duration_ms": 241957,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
-        "name": "Traveling Alone (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
+        "name": "Give the People What They Want",
+        "url": "https://open.spotify.com/album/2gXqj7ah9qGergzhQhkfrf"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Stranger to My Happiness",
+      "url": "https://open.spotify.com/track/1Ow1h8ipU0S07gGcJYfVkg"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 149422,
       "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
       "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
-        "name": "Give the People What They Want",
-        "url": "https://open.spotify.com/album/2gXqj7ah9qGergzhQhkfrf"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Stranger to My Happiness",
-      "url": "https://open.spotify.com/track/1Ow1h8ipU0S07gGcJYfVkg"
     },
     {
       "added_at": "2026-08-14 00:00:15",

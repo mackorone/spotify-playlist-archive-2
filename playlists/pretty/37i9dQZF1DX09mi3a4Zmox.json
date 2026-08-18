@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3811364,
+  "num_followers": 3810922,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "Mi Vida Sin Tu Amor",
+        "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 272200,
+      "name": "Por Amarte As\u00ed",
+      "url": "https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Reyli En La Luna",
         "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 227613,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Mi Vida Sin Tu Amor",
-        "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 272200,
-      "name": "Por Amarte As\u00ed",
-      "url": "https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Escucha",
         "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
@@ -267,18 +283,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 204173,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -303,18 +319,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+      "duration_ms": 217986,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -355,18 +371,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 217986,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
+      "duration_ms": 288893,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -387,6 +403,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 159172,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Primavera anticipada",
         "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
       },
@@ -403,34 +435,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+        "name": "Pablo Alboran (Deluxe)",
+        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 288893,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
+      "duration_ms": 247186,
+      "name": "Solamente t\u00fa",
+      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -451,22 +467,6 @@
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Pablo Alboran (Deluxe)",
-        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Solamente t\u00fa",
-      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 258532,
       "name": "Al\u00e9jate de M\u00ed",
       "url": "https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -607,38 +607,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -671,6 +639,38 @@
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -743,18 +743,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -791,18 +791,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+      "duration_ms": 306986,
+      "name": "Coleccionista de Canciones",
+      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "La Nave del Olvido",
         "url": "https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 215400,
       "name": "La Nave del Olvido",
       "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 306986,
-      "name": "Coleccionista de Canciones",
-      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -923,6 +923,42 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "Vicentico 5",
+        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        },
+        {
+          "name": "Valeria Bertuccelli",
+          "url": "https://open.spotify.com/artist/1Kz4kgtxJWKTmi4w2ZnDEN"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "No Te Apartes de M\u00ed (feat. Valeria Bertuccelli)",
+      "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "El Arte De Roberto Carlos",
+        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
+      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -959,42 +995,6 @@
       "duration_ms": 210440,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Vicentico 5",
-        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        },
-        {
-          "name": "Valeria Bertuccelli",
-          "url": "https://open.spotify.com/artist/1Kz4kgtxJWKTmi4w2ZnDEN"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "No Te Apartes de M\u00ed (feat. Valeria Bertuccelli)",
-      "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "El Arte De Roberto Carlos",
-        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
-      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Me Enamor\u00e9 De Ti",
-        "url": "https://open.spotify.com/album/01akT8TopYGRiYtyeN0qTU"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 206173,
-      "name": "Me Enamor\u00e9 De Ti",
-      "url": "https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 281640,
       "name": "A Medio Vivir",
       "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Me Enamor\u00e9 De Ti",
+        "url": "https://open.spotify.com/album/01akT8TopYGRiYtyeN0qTU"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 206173,
+      "name": "Me Enamor\u00e9 De Ti",
+      "url": "https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "El Amor",
-        "url": "https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE"
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/4H1sa79MAZ1neRpTKa5Idz"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 288600,
-      "name": "Como Yo Te Amo",
-      "url": "https://open.spotify.com/track/2WGYmstMZN1Kbz2sKiguFB"
+      "duration_ms": 227422,
+      "name": "Simplemente T\u00fa",
+      "url": "https://open.spotify.com/track/6n5bmDFKf6PNPfyMBxYdyA"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1471,34 +1471,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Mil Ciudades",
-        "url": "https://open.spotify.com/album/1SXUz690tncddHzbcj4wPT"
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 225266,
-      "name": "Por el Resto de Mi Vida",
-      "url": "https://open.spotify.com/track/0gjhhuqKxswtR1KzYSpSfd"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/4H1sa79MAZ1neRpTKa5Idz"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 227422,
-      "name": "Simplemente T\u00fa",
-      "url": "https://open.spotify.com/track/6n5bmDFKf6PNPfyMBxYdyA"
+      "duration_ms": 288600,
+      "name": "Como Yo Te Amo",
+      "url": "https://open.spotify.com/track/2WGYmstMZN1Kbz2sKiguFB"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1515,6 +1499,22 @@
       "duration_ms": 224373,
       "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/41MbmJ4NShxvMc8KrsmiiE"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Mil Ciudades",
+        "url": "https://open.spotify.com/album/1SXUz690tncddHzbcj4wPT"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Por el Resto de Mi Vida",
+      "url": "https://open.spotify.com/track/0gjhhuqKxswtR1KzYSpSfd"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "S\u00f3lo Para Mujeres",
+        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Te Conozco",
+      "url": "https://open.spotify.com/track/5nAiSK9L3OG1v3HEgZmnoz"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -1643,38 +1659,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "S\u00f3lo Para Mujeres",
-        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Te Conozco",
-      "url": "https://open.spotify.com/track/5nAiSK9L3OG1v3HEgZmnoz"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "La vida es",
-        "url": "https://open.spotify.com/album/27oOsrkjlJBqWjHxokkazD"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5GxyKXhr5OyFJqoM4Vs5Vh"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Mi Verdad (feat. Shakira)",
         "url": "https://open.spotify.com/album/0sdNte5fJ855Bcut5yF9Sv"
       },
@@ -1691,6 +1675,26 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3fLULPPtmfVkGMnwAhHAij"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Si Te Quedas (feat. Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "Si Te Quedas (feat. Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC"
     },
     {
       "added_at": "2025-12-05 05:00:17",

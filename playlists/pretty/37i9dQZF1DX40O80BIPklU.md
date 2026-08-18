@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Bardero$ en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,878 likes - 103 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,876 likes - 103 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

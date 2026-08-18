@@ -1,6 +1,6 @@
 {
   "description": "Is it your bias K-Pop boy group? (Cover: AxMxP(\uc5d0\uc774\uc5e0\ud53c)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
-  "num_followers": 844117,
+  "num_followers": 844112,
   "original_name": "BIASBOYS",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2026-08-14 07:55:36",
       "album": {
-        "name": "SHOT CALLERS",
-        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
       },
       "artists": [
         {
-          "name": "LNGSHOT",
-          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 208495,
-      "name": "Moonwalkin'",
-      "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
+      "duration_ms": 157531,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
     },
     {
       "added_at": "2026-08-14 07:55:36",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-08-14 07:55:36",
       "album": {
-        "name": "DARK BLOOD",
-        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+        "name": "SHOT CALLERS",
+        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
         }
       ],
-      "duration_ms": 157531,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
+      "duration_ms": 208495,
+      "name": "Moonwalkin'",
+      "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
     },
     {
       "added_at": "2026-08-14 07:55:36",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-08-14 07:55:36",
       "album": {
+        "name": "Rover - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "Rover",
+      "url": "https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA"
+    },
+    {
+      "added_at": "2026-08-14 07:55:36",
+      "album": {
         "name": "I,God",
         "url": "https://open.spotify.com/album/0A1c1SWNQUub5c1BkVzam7"
       },
@@ -831,34 +847,18 @@
     {
       "added_at": "2026-08-14 07:55:36",
       "album": {
-        "name": "Rover - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U"
+        "name": "Back to Life",
+        "url": "https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c"
       },
       "artists": [
         {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
         }
       ],
-      "duration_ms": 174506,
-      "name": "Rover",
-      "url": "https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA"
-    },
-    {
-      "added_at": "2026-08-14 07:55:36",
-      "album": {
-        "name": "ddok ddok ddok",
-        "url": "https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 155054,
-      "name": "ddok ddok ddok",
-      "url": "https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP"
+      "duration_ms": 199660,
+      "name": "Back to Life",
+      "url": "https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS"
     }
   ],
   "unique_name": "BIASBOYS",

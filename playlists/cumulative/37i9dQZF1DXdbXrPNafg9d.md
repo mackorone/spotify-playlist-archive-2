@@ -4,7 +4,7 @@
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Gus Dapperton
 
-10,663 songs - 25 day 21 hr 21 min
+10,664 songs - 25 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6947,6 +6947,7 @@
 | [Pacific Ave](https://open.spotify.com/track/4sUznhMUu1NCVZYuO5mVkF) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Pacific Ave](https://open.spotify.com/album/58pgoNAcylx4R5K0k2wOWI) | 3:22 | 2022-11-04 | 2022-12-10 |
 | [Padam Padam](https://open.spotify.com/track/4qAIlXdkdXvQIOpkF9dC2f) | [Route 500](https://open.spotify.com/artist/7KdLalL74q6v7fQA60osrz) | [Padam Padam](https://open.spotify.com/album/0U0UC9FkMUy8aA3xCFY5dV) | 3:16 | 2023-07-28 | 2023-08-26 |
 | [Paige Machine](https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Paige Machine](https://open.spotify.com/album/1taSivISnY9TU6rfNuRS3y) | 2:40 | 2023-12-15 | 2024-02-03 |
+| [Pain is the Heart of Love](https://open.spotify.com/track/16aCAD1wmZL2slFfxT7zs2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs), [Paul Buchanan](https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7) | [Pain is the Heart of Love](https://open.spotify.com/album/50AYDE2EHtdousV5nZ4S17) | 4:05 | 2026-08-17 |  |
 | [Painless](https://open.spotify.com/track/4hMjAmwoUCDCXHO0aAnshF) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Painless](https://open.spotify.com/album/5srVsRgd3pNpsc8ccpAGL7) | 3:14 | 2023-06-02 | 2023-07-08 |
 | [pains of falling in love](https://open.spotify.com/track/6JVl0PrnA0cT45eXHAGQBP) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [camogirl3000](https://open.spotify.com/artist/28jJdp3i6BntofRp7t8N31) | [pains of falling in love](https://open.spotify.com/album/62NXg5kjzD9TzjdylSvkd2) | 2:08 | 2025-11-28 | 2026-01-31 |
 | [paint](https://open.spotify.com/track/0NOH9lB24CM0QhW8twOLVd) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [paint](https://open.spotify.com/album/4NvBU0GMRRr17J4LMsk06z) | 4:06 | 2021-10-02 | 2021-10-23 |

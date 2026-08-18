@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314 likes - 173 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 313 likes - 173 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 16 | [Kingdom of Fear](https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:41 |
 | 17 | [Options](https://open.spotify.com/track/2mqAwLuAZBIVEAOaDTScEm) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:49 |
 | 18 | [Raincoat](https://open.spotify.com/track/1fuv5IQZYgYZAe5ob2wswo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Too Much](https://open.spotify.com/album/3BmIiIVp13T2mlqH39gos5) | 3:37 |
-| 19 | [All The Way](https://open.spotify.com/track/0SB9oIIBgZaYdV2GrwkxbX) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 2:59 |
-| 20 | [Maybe Next Time](https://open.spotify.com/track/32r7xn09FoylHoSOatv4dy) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/3MmEb9UgXMbg02WG29sE3a) | 3:08 |
+| 19 | [Maybe Next Time](https://open.spotify.com/track/32r7xn09FoylHoSOatv4dy) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/3MmEb9UgXMbg02WG29sE3a) | 3:08 |
+| 20 | [All The Way](https://open.spotify.com/track/0SB9oIIBgZaYdV2GrwkxbX) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 2:59 |
 | 21 | [You Can't Stop This](https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 |
 | 22 | [Gravity](https://open.spotify.com/track/6egBojmNB8FSSgmxsBUNMg) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Gravity](https://open.spotify.com/album/4jbJAaML36E3R5RFTORxnN) | 3:34 |
 | 23 | [Hundred Mile High](https://open.spotify.com/track/3Wu3mne1wqfsHKEnLnmQjG) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:52 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 32 | [Stuck With Me](https://open.spotify.com/track/6Ej6WtjqLbro72mF4Y1Xdb) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:52 |
 | 33 | [Never Be Far](https://open.spotify.com/track/73ktcMfFRcoXlednsDvH3X) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:17 |
 | 34 | [Last Call](https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Last Call](https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l) | 2:31 |
-| 35 | [I Choose U](https://open.spotify.com/track/75NpB97pPgk2OcVF8d7zgV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 3:47 |
-| 36 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 |
+| 35 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 |
+| 36 | [I Choose U](https://open.spotify.com/track/75NpB97pPgk2OcVF8d7zgV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 3:47 |
 | 37 | [Adelaide](https://open.spotify.com/track/6Ptb2JSW4var9dPGCmsm3s) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It’s Never Really Over \(Expanded\)](https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm) | 3:02 |
 | 38 | [Little Bit](https://open.spotify.com/track/1CCtxXoJGt2EnTuVufRTxT) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Little Bit](https://open.spotify.com/album/4CKqbCxNCPt0hnGdvqDeex) | 2:43 |
 | 39 | [Getaway Car](https://open.spotify.com/track/6xRG0mGtTLvJDFnytx1eoj) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:04 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 75 | [First Time](https://open.spotify.com/track/15WZDJ3x5Pten9aiwTZUpL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [First Time](https://open.spotify.com/album/45YwthVD7vszVB1cHzdemk) | 3:22 |
 | 76 | [Holiday](https://open.spotify.com/track/75A2Cy7UhkRFUDbWMuDd4b) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:00 |
 | 77 | [Lose Me](https://open.spotify.com/track/2oiK2e9MKtpEPeOHaa2OUD) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:46 |
-| 78 | [All We Got Is Time](https://open.spotify.com/track/4k7vLiIEziG6nTPqVrANgr) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:35 |
-| 79 | [U WON'T!](https://open.spotify.com/track/3gkBo3bJwBj31Fca505oGi) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [SUPERLAME](https://open.spotify.com/album/7E5My62HQLSG3cn6R2FnG9) | 2:01 |
-| 80 | [Want For Nothing](https://open.spotify.com/track/62FoSy5jJ0m06S1uMIPhw1) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:47 |
+| 78 | [Want For Nothing](https://open.spotify.com/track/62FoSy5jJ0m06S1uMIPhw1) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:47 |
+| 79 | [All We Got Is Time](https://open.spotify.com/track/4k7vLiIEziG6nTPqVrANgr) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:35 |
+| 80 | [U WON'T!](https://open.spotify.com/track/3gkBo3bJwBj31Fca505oGi) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [SUPERLAME](https://open.spotify.com/album/7E5My62HQLSG3cn6R2FnG9) | 2:01 |
 | 81 | [Amy](https://open.spotify.com/track/75lW6fLpTMTyrCNUCr66p2) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:13 |
 | 82 | [SMFWU](https://open.spotify.com/track/5JufegG0WcgTwd3fTm7v3v) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Warning Signs](https://open.spotify.com/album/0c8G4kwWZRRBNf0O7HfWjF) | 3:07 |
 | 83 | [Way It Was](https://open.spotify.com/track/5DeYzhFraf23cUaakwghkP) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Way It Was](https://open.spotify.com/album/1XtPqp4pKKRTOi5hc5oWIW) | 3:19 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 103 | [Tonight I Can't Say No](https://open.spotify.com/track/5IGnTCrguYRCEOcDU7Cd8m) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [One Night EP](https://open.spotify.com/album/04xXTzwHFjgXj7KH26U1aQ) | 3:29 |
 | 104 | [Yeah](https://open.spotify.com/track/7H4VU04Xw54HtErX68kymy) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:37 |
 | 105 | [Fuckin Amazing \(feat\. Cal\)](https://open.spotify.com/track/2eNLKFGQvLXkWW1Fnwnegt) | [Kap Slap](https://open.spotify.com/artist/1yRxS3CXYM7s6amlkEmozI), [Cal](https://open.spotify.com/artist/0hsokEgVmrRVMeirBtwr9p) | [Fuckin Amazing \(feat\. Cal\)](https://open.spotify.com/album/3fSxf3JM0SMi1HS6NnF4zX) | 3:24 |
-| 106 | [Lose My Mind](https://open.spotify.com/track/6KfBu4i8fZr8lUDO8Ij21F) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Lose My Mind](https://open.spotify.com/album/1bSmaHKIa6Q53BSMRXT7zy) | 3:29 |
-| 107 | [Back in Bed](https://open.spotify.com/track/0I0TUxg86elyu6LFIwTMOX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Stand By You](https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT) | 2:38 |
+| 106 | [Back in Bed](https://open.spotify.com/track/0I0TUxg86elyu6LFIwTMOX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Stand By You](https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT) | 2:38 |
+| 107 | [Lose My Mind](https://open.spotify.com/track/6KfBu4i8fZr8lUDO8Ij21F) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Lose My Mind](https://open.spotify.com/album/1bSmaHKIa6Q53BSMRXT7zy) | 3:29 |
 | 108 | [Sideways](https://open.spotify.com/track/6k7cZRYaWybpcu4K7SDTP6) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 2:44 |
 | 109 | [Prosecco](https://open.spotify.com/track/21RpxKRagsCUsiqJe2zg9Z) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:25 |
 | 110 | [Crystal Ball](https://open.spotify.com/track/2if88MyNq14tVvQg49WwqP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:00 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 172 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 173 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcZwpAAAAAATKDTdfZ4R24NhDPYCMUBq`
+Snapshot ID: `AcZ2RAAAAACzQqx08MEwcJ2t01k+hAhz`

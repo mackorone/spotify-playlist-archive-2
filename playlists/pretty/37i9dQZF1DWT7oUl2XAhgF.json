@@ -1,6 +1,6 @@
 {
   "description": "A new take on a classic sound. Cover: The Womack Sisters",
-  "num_followers": 403224,
+  "num_followers": 403309,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,26 @@
       "duration_ms": 223729,
       "name": "One and the Same",
       "url": "https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY"
+    },
+    {
+      "added_at": "2026-07-17 04:00:03",
+      "album": {
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/7p8b2CqEXLdqcI37YKX9Fm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        },
+        {
+          "name": "Joey Qui\u00f1ones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "How Lonely Is Lonely",
+      "url": "https://open.spotify.com/track/2xRFQskIigKmmYlXm7cjc3"
     },
     {
       "added_at": "2026-06-26 04:01:04",

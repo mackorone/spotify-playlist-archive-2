@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124923,
+      "name": "Good Chance (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj"
+    },
+    {
+      "album": {
         "name": "Good To Me",
         "url": "https://open.spotify.com/album/3ITvNAnHd2Ub45NyQLmZ2k"
       },
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 194716,
       "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"

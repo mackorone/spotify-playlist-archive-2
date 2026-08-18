@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-613 songs - 1 day 13 hr 55 min
+616 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [c'mon automaton](https://open.spotify.com/track/5IhRVOxwJeCFxzSMqWTECf) | [paradiso PDE](https://open.spotify.com/artist/08rzidI7HeLZCssOCMhvsW) | [c'mon automaton](https://open.spotify.com/album/3ELYkRNUubpuw4Gu3xCP3g) | 3:42 | 2026-07-23 |  |
 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-12-01 | 2025-12-28 |
 | [Cage](https://open.spotify.com/track/3TurCW23kV3k57o4L96Y8R) | [Wave Raiders](https://open.spotify.com/artist/3gHc7IjiVFconlcRcSpXXn) | [Cage](https://open.spotify.com/album/5DwSWfbBq628mkcHtn4VaP) | 3:23 | 2026-07-02 | 2026-08-08 |
+| [Calm After The Storm](https://open.spotify.com/track/6HhTEmSzmipGU5O5EzBfqp) | [Help Wanted](https://open.spotify.com/artist/0omDhJzmgZ8tu73lHdwi5T) | [Calm After The Storm](https://open.spotify.com/album/5gsFwal4tWt1KHDChP4xBS) | 3:17 | 2026-08-17 |  |
 | [Camgirl](https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Camgirl](https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt) | 4:08 | 2026-02-04 | 2026-05-08 |
 | [Chasing Taste](https://open.spotify.com/track/2OnXAQlNqA5ulvDJAdMbNm) | [ANCR TO PAST](https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul) | [fibres](https://open.spotify.com/album/4yHAxaNLLxheJ688GXi9ko) | 3:51 | 2026-06-02 | 2026-08-08 |
 | [Chicago](https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Chicago](https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB) | 3:09 | 2026-05-29 | 2026-08-08 |
@@ -363,6 +364,7 @@
 | [Of a Beautiful Dream](https://open.spotify.com/track/48T7NGSrmgHx40d3H3Iwl6) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Of a Beautiful Dream](https://open.spotify.com/album/7q1s3GZxJQ6CMES2udqaue) | 2:52 | 2026-04-06 | 2026-05-08 |
 | [Oh Lord \- DEMO](https://open.spotify.com/track/5B7Z958xoP5tSH4PAP0zwF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Oh Lord \(DEMO\)](https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g) | 3:36 | 2025-12-28 | 2026-01-21 |
 | [On the Loose](https://open.spotify.com/track/7d1lvt879yCYPAGbpacM04) | [Middle Ages](https://open.spotify.com/artist/0NyhABi9Cb2nGLMMoG6KQF) | [On the Loose](https://open.spotify.com/album/7MWN8qgtZP8KKe5yS0SfmH) | 3:35 | 2025-11-26 | 2026-01-05 |
+| [Once More Again \(Alternative Version\)](https://open.spotify.com/track/0t7ydqOC1zuSjvidhHWWqB) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [Once More Again](https://open.spotify.com/album/2iK2jSzblXqV1SSozzXQU8) | 4:53 | 2026-08-17 |  |
 | [One Life in a Second](https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [One Life in a Second](https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es) | 4:41 | 2026-07-13 | 2026-08-08 |
 | [One More Time](https://open.spotify.com/track/65DXx4MjmlPwm1RlWtuPvZ) | [Stopgap Solution](https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb) | [One More Time](https://open.spotify.com/album/3QUosDhdcGqOSgxXxagaFo) | 3:10 | 2026-02-16 | 2026-03-22 |
 | [One of a Kind](https://open.spotify.com/track/3E0wt0y6e6lNaX2fsyhAop) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Invisible People](https://open.spotify.com/album/2Ll9ZEs3ab6t1apPx4Oj5g) | 3:59 | 2026-02-08 | 2026-03-04 |
@@ -431,6 +433,7 @@
 | [Schön und dumm](https://open.spotify.com/track/2C1cJLs5i7whe4nxVbSHs6) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Schön und dumm](https://open.spotify.com/album/0LIfzYI7U1mP56NgLwQ7TU) | 3:52 | 2026-06-11 | 2026-08-08 |
 | [Screamin' My Name](https://open.spotify.com/track/7L8C8wcnRF6zXkBb0qMtA5) | [Celina Rescott](https://open.spotify.com/artist/1IPJQoIPovq22uQFKnX4V1) | [Screamin' My Name](https://open.spotify.com/album/2Exfjw6PxyqsezGMChKZTR) | 3:05 | 2026-06-06 | 2026-08-08 |
 | [Searching for gold](https://open.spotify.com/track/5e25FIH9dH5BOArsdZd7zm) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 3:39 | 2026-03-27 | 2026-04-20 |
+| [Searching For The Meaning Of Life](https://open.spotify.com/track/2dDRJHzBOszwRqvi9m4xTh) | [The Render Line](https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR) | [You Can Do The Impossible](https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh) | 2:36 | 2026-08-17 |  |
 | [Season 2](https://open.spotify.com/track/3E3HFi5uwVHOv7R37gzHuu) | [Tenkila](https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0) | [Season 2](https://open.spotify.com/album/3PRuwaXPbL17pqH1OnpNke) | 3:44 | 2026-04-02 | 2026-04-20 |
 | [Set Your Life On Fire](https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Set Your Life On Fire](https://open.spotify.com/album/4rUIlLpeOwgUvfJ8NMkmeD) | 3:28 | 2026-05-02 | 2026-05-26 |
 | [Seven Lonely People](https://open.spotify.com/track/3ocMF7DBq8yujdIdACsdEc) | [There Will Be Robots](https://open.spotify.com/artist/4Q0upjqxErqYJsGxHB7TPf) | [Seven Lonely People](https://open.spotify.com/album/7KQLW76v12XsJYVE9LHf6W) | 4:44 | 2026-06-15 | 2026-08-08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2445,
+  "num_followers": 2446,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAv6igVCW0kHzmbAzgstwaD",
+  "snapshot_id": "aoD9gAAAAADYeXiP5aazVRcgfwzeFe9N",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PVTIVUELTA",
+        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 143798,
+      "name": "PVTIVUELTA",
+      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MASARYK / BIEN PEDO",
         "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
       },
@@ -311,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PVTIVUELTA",
-        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 143798,
-      "name": "PVTIVUELTA",
-      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMSTRDM",
         "url": "https://open.spotify.com/album/1ofQJpWN8JjJRST6hGcwNI"
       },
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Corona",
+        "url": "https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 119210,
+      "name": "La Corona",
+      "url": "https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Casa Siempre Gana",
         "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 140820,
       "name": "GPI - Remix",
       "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Corona",
-        "url": "https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 119210,
-      "name": "La Corona",
-      "url": "https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLOSS DIOR",
+        "url": "https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "GLOSS DIOR",
+      "url": "https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RUMBA",
         "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 181818,
       "name": "RUMBA",
       "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLOSS DIOR",
-        "url": "https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "GLOSS DIOR",
-      "url": "https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MASARYK / BIEN PEDO",
+        "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "BIEN PEDO",
+      "url": "https://open.spotify.com/track/7sduQZMezgZjyUkPhZjz8a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BELIKBOY",
         "url": "https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 165000,
       "name": "BELIKBOY",
       "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MASARYK / BIEN PEDO",
-        "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "BIEN PEDO",
-      "url": "https://open.spotify.com/track/7sduQZMezgZjyUkPhZjz8a"
     },
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bsod3",
-        "url": "https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx"
+        "name": "El Uno Al 7 (En Vivo)",
+        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
       },
       "artists": [
         {
-          "name": "GHT Official",
-          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
-        },
-        {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 194645,
-      "name": "Bsod3",
-      "url": "https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD"
+      "duration_ms": 204826,
+      "name": "El Uno Al 7 - En Vivo",
+      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
     },
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Uno Al 7 (En Vivo)",
-        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
+        "name": "Bsod3",
+        "url": "https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "GHT Official",
+          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
         },
         {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 204826,
-      "name": "El Uno Al 7 - En Vivo",
-      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
+      "duration_ms": 194645,
+      "name": "Bsod3",
+      "url": "https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,537 likes - 392 songs - 1 day 2 hr 20 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,536 likes - 392 songs - 1 day 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

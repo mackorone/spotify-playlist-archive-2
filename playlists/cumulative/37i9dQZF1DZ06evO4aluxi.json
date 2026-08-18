@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "A Christmas To Remember",
+        "url": "https://open.spotify.com/album/28s7UItD76Qj0S3P8KmZb2"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134960,
+      "name": "Gabriel's Oboe",
+      "url": "https://open.spotify.com/track/3ZSQESabKAEHtellVD8GyY"
+    },
+    {
+      "album": {
         "name": "Heart In Motion",
         "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 267026,
       "name": "Jesus, Take All Of Me (Just As I Am)",
       "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"

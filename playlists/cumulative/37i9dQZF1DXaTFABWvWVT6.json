@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 262976,
       "name": "Even Angels Ghost",
       "url": "https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q"
@@ -2936,6 +2936,32 @@
       "duration_ms": 179408,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
+    },
+    {
+      "album": {
+        "name": "Holding You Back",
+        "url": "https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT"
+      },
+      "artists": [
+        {
+          "name": "Vivace",
+          "url": "https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt"
+        },
+        {
+          "name": "Gusta",
+          "url": "https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS"
+        },
+        {
+          "name": "K.ONE",
+          "url": "https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Holding You Back",
+      "url": "https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH"
     },
     {
       "album": {

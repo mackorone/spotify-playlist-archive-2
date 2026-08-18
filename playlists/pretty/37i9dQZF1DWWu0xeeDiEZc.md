@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,612 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,627 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 18 | [Skidamarink](https://open.spotify.com/track/5GjXNfKlNfOgacGtTUMXKe) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [It's Time for Bed](https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe) | 2:16 |
 | 19 | [Rainbow Connection](https://open.spotify.com/track/1SJ4ycWow4yz6z4oFz8NAG) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 3:08 |
 | 20 | [Bananaphone](https://open.spotify.com/track/2Uu4AnnMTJpevC0IrwAuOW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Bananaphone](https://open.spotify.com/album/1y772v6xDzzRWlaYWcNWHq) | 3:14 |
-| 21 | [Mr\. Sun](https://open.spotify.com/track/69UCsdTNjYAgot1sIjviwD) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 1:38 |
-| 22 | [Just Sing](https://open.spotify.com/track/4vUq9Q0kgdgy2YZr1ugqge) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI) | 3:41 |
+| 21 | [Just Sing](https://open.spotify.com/track/4vUq9Q0kgdgy2YZr1ugqge) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI) | 3:41 |
+| 22 | [Mr\. Sun](https://open.spotify.com/track/69UCsdTNjYAgot1sIjviwD) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 1:38 |
 | 23 | [Five Little Monkeys](https://open.spotify.com/track/475LPQIUiT6SqfwuqWYtU2) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 2:05 |
 | 24 | [Looby Loo \- Toddler Version](https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Toddler Party](https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21) | 2:03 |
 | 25 | [Boom Chicka Boom](https://open.spotify.com/track/3wwjGWZLyBv4SJwYxc9KZy) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Toddler Action Learning Songs](https://open.spotify.com/album/5MTRkg3C6Sk2am4AbN3h3F) | 2:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 478 likes - 54 songs - 3 hr 30 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 478 likes - 56 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 52 | [Te Quedaste Aqui](https://open.spotify.com/track/0M1N6VKGZOT31h5hVeHB2l) | [NBA D OG](https://open.spotify.com/artist/0XOLgv10SqN7yAZ5JGHtjy) | [Te Quedaste Aqui](https://open.spotify.com/album/3ZPvwZaFc4cQ1l2J1xgXR0) | 3:46 |
 | 53 | [Somos Argentina](https://open.spotify.com/track/0m8Xw5K1ElsnwYbw9annKa) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Somos Argentina](https://open.spotify.com/album/5mV30PKE8ngjym6n1kfegH) | 4:54 |
 | 54 | [Tu Primera](https://open.spotify.com/track/2YlY78siKTJAfYyLF1yAB4) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Tu Primera](https://open.spotify.com/album/7ad6EW2XS1NfyktvuJl1uz) | 3:30 |
+| 55 | [Me Perdiste](https://open.spotify.com/track/1cqGYfBmRlSuKdsICL6NlJ) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Me Perdiste](https://open.spotify.com/album/6I4YSYqOfTf9QYpjonc4tR) | 3:16 |
+| 56 | [Eres Tú](https://open.spotify.com/track/5eE6XuwOh8Y5PhQ9W0OKE5) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Eres Tú](https://open.spotify.com/album/3QCzmTe5ZqdamwPHdIrwBe) | 3:28 |
 
-Snapshot ID: `AAACR9lUqnMyxWIKv6lyGwc1GD5FvCrp`
+Snapshot ID: `AAACSRP1EyjM9DVC6G9C0j7ZcfCWzprv`

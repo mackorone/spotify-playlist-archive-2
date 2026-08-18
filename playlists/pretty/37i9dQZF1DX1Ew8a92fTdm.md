@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Ew8a92fTdm.md) - [plain]
 
 > Peaceful music box tunes for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,998 likes - 100 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,002 likes - 100 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

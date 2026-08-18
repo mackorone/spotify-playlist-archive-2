@@ -1,6 +1,6 @@
 {
   "description": "Fresh Prince,  Game Boy  and MSN, this one's for you!",
-  "num_followers": 193728,
+  "num_followers": 193735,
   "original_name": "Born in the 80s",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        }
-      ],
-      "duration_ms": 340920,
-      "name": "Clint Eastwood",
-      "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -315,6 +295,26 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "duration_ms": 340920,
+      "name": "Clint Eastwood",
+      "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
+      "duration_ms": 258826,
+      "name": "Say It Ain't So - Original Mix",
+      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "Ghost In The Machine (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
         }
       ],
-      "duration_ms": 260573,
-      "name": "Every Little Thing She Does Is Magic",
-      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
+      "duration_ms": 261853,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 258826,
-      "name": "Say It Ain't So - Original Mix",
-      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
       },
       "artists": [
         {
-          "name": "Bell Biv DeVoe",
-          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 261853,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic",
+      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "La Folie",
-        "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
+        "name": "'N Sync UK Version",
+        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
       },
       "artists": [
         {
-          "name": "The Stranglers",
-          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 206760,
-      "name": "Golden Brown",
-      "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
+      "duration_ms": 200440,
+      "name": "I Want You Back - Radio Edit",
+      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
+        "name": "La Folie",
+        "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Golden Brown",
+      "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
         "name": "Children (Dance Vault Mixes)",
         "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 243266,
       "name": "Children",
       "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
-        "name": "'N Sync UK Version",
-        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "I Want You Back - Radio Edit",
-      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 244200,
       "name": "What's The Difference",
       "url": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Hand in My Pocket - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "World Clique",
         "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 231786,
       "name": "Groove Is in the Heart",
       "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Hand in My Pocket - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "You Make Me Wanna...",
-      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 260066,
       "name": "Fu-Gee-La",
       "url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "You Make Me Wanna...",
+      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "No Holding Back",
-        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
-      },
-      "artists": [
-        {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "No Holding Back",
+        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "MMMBop",
-      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "I Ain't Movin'",
         "url": "https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
         }
       ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -1251,6 +1235,22 @@
       "duration_ms": 262173,
       "name": "Do You Really Want To Hurt Me",
       "url": "https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "Pieces of A Dream",
-        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
-      },
-      "artists": [
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "Left Outside Alone",
-      "url": "https://open.spotify.com/track/2uNq2hKb4X1S30hBgoywOF"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
+        "name": "Pieces of A Dream",
+        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
+      },
+      "artists": [
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Left Outside Alone",
+      "url": "https://open.spotify.com/track/2uNq2hKb4X1S30hBgoywOF"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
         "name": "Devils Night",
         "url": "https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA"
       },
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
       "artists": [
         {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
         }
       ],
-      "duration_ms": 205066,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
+      "duration_ms": 360426,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
     }
   ],
   "unique_name": "Born in the 80s",

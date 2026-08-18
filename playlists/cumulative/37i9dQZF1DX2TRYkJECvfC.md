@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-712 songs - 2 day 10 hr 14 min
+713 songs - 2 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,7 +465,7 @@
 | [Other Side](https://open.spotify.com/track/1ry89zeBvACJDv7jjMv9lT) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Other Side](https://open.spotify.com/album/2TjPI6SuKlhoH93A5x9iqD) | 6:09 | 2023-11-10 | 2024-04-13 |
 | [our lives entwined](https://open.spotify.com/track/7tOWUn8XTf062wu1Okb80B) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [our lives entwined](https://open.spotify.com/album/5s2Wb9fq6Uf86p4qBi1g7k) | 5:56 | 2026-01-09 |  |
 | [Our Summer](https://open.spotify.com/track/4ZIEZTost2ONUFPCSoUOYH) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Our Summer](https://open.spotify.com/album/5elpbAhvASwbEyxrF3Ayd3) | 3:05 | 2025-08-29 |  |
-| [Out And About](https://open.spotify.com/track/3AS1TWe3yT71QdFUztoIpP) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Bassic Rollers EP](https://open.spotify.com/album/2LGnxEXxcqhevEBNZNaCOY) | 5:18 | 2026-05-15 |  |
+| [Out And About](https://open.spotify.com/track/3AS1TWe3yT71QdFUztoIpP) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Bassic Rollers EP](https://open.spotify.com/album/2LGnxEXxcqhevEBNZNaCOY) | 5:18 | 2026-05-15 | 2026-08-18 |
 | [Out Of The Woods](https://open.spotify.com/track/4kXibedUZqFewRsRQGzxjh) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Out Of The Woods](https://open.spotify.com/album/49WuLA5VuGqvSnat6CGcQ5) | 4:35 | 2023-04-04 | 2025-08-30 |
 | [Outro](https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sine Wave Party EP](https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm) | 4:24 | 2021-12-08 | 2023-08-11 |
 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 | 2023-09-22 | 2024-11-23 |
@@ -660,6 +660,7 @@
 | [Trilobit](https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov) | [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Sarcophyton / Trilobit](https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E) | 7:40 | 2021-12-08 | 2023-07-03 |
 | [Trip](https://open.spotify.com/track/4cB25NdVYiWdIYgJK1rT7L) | [Synnhaven](https://open.spotify.com/artist/62qkg383IzmNCzdmfcvFvy) | [Trip](https://open.spotify.com/album/5kwF0RSijxJ2bOqfkRLdvg) | 3:55 | 2026-05-15 |  |
 | [Trouble](https://open.spotify.com/track/6nhUxgNa071Y79ihXy8K1c) | [Friz07](https://open.spotify.com/artist/39HPoPdSDDc9nJO6d3mOZR) | [Save The Night \- House: Trouble](https://open.spotify.com/album/4WyBZhrBG7FJTKXFRBLRf6) | 7:13 | 2021-12-08 | 2022-07-22 |
+| [True Crime \(Shortcut\)](https://open.spotify.com/track/6JechHmxFPXf2s6SToxwmI) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5) | [True Crime](https://open.spotify.com/album/2qwn7r37oZFup28M4kTBUu) | 3:56 | 2026-08-14 |  |
 | [tu tienes mi corazón](https://open.spotify.com/track/2b4xMVXYYIIbWjDLSy1Wcv) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [tu tienes mi corazón](https://open.spotify.com/album/6JcbnYuwiJ1UYCAtlwSWlo) | 4:09 | 2021-12-08 | 2025-08-30 |
 | [Turning My Head](https://open.spotify.com/track/3HG0bL6apxDTfjijRapnI2) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/7rRwW48AX1FwDvBl8Oalap) | 6:41 | 2021-12-08 | 2024-07-13 |
 | [Turning My Head](https://open.spotify.com/track/6n9S8Xb2FzvKsHnsZczfm4) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/4FfW2yPHUeipHkGhp64PKI) | 6:41 | 2022-05-03 | 2023-03-06 |

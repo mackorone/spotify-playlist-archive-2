@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-203 songs - 2 day 1 hr 12 min
+204 songs - 2 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,10 +111,11 @@
 | [Navkar Mantra](https://open.spotify.com/track/07AfFQCy6XRavj2i9JLijB) | [Geetu Unplugged](https://open.spotify.com/artist/1YlyMSSdwqA3t3goVRqoHK) | [Navkar Mantra](https://open.spotify.com/album/5SxS1qHZUBNPN2rVVAeErq) | 3:30 | 2022-01-24 | 2023-10-24 |
 | [O Radhe Radhe \- LoFi](https://open.spotify.com/track/6mFhoNjcnmxQp4cjM6EL19) | [Srijita Mitra](https://open.spotify.com/artist/5Ho1z9E6aqNw2e5iRTwjZb) | [O Radhe Radhe \- LoFi](https://open.spotify.com/album/5WRtfUxBOVkKrOLniPEy3P) | 2:18 | 2025-01-23 | 2026-07-15 |
 | [Offering Chant](https://open.spotify.com/track/542Ucy3XlU0OsIVXKZzBKi) | [Lama Gyurme](https://open.spotify.com/artist/4GwVYugBix3aehjspW1uqG), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn) | [Roads Of Blessings \- Songs Of Awakening](https://open.spotify.com/album/4grwUAIp3r6OBmsS6D2ZGV) | 7:07 | 2024-12-30 |  |
+| [Om \(108 Times\)](https://open.spotify.com/track/0GNSiQSLW3prouiKYpBQP2) | [Shatadru Kabir](https://open.spotify.com/artist/5bb745rKiFbHL6P9wgm8GJ) | [Om \(108 Times\)](https://open.spotify.com/album/5QzfxsH70odAMuAAyuRTak) | 21:43 | 2026-08-17 |  |
 | [OM \- 108 Times](https://open.spotify.com/track/1t5yedcqt2kacFRM8uXMwP) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1) | 31:12 | 2022-01-24 | 2024-04-19 |
 | [OM \- 108 Times](https://open.spotify.com/track/2KHcNmJUnVFXSX63rrD4st) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/5nQV0wq77XlLeRHXCregdk) | 31:12 | 2022-01-24 | 2024-12-31 |
 | [Om Bhur Bhuvah Swaha\- Gayatri Mantra \- Meditative Chants](https://open.spotify.com/track/5RUSSmZ7vbtRc3ZPDoENoP) | [Bhakti Choir](https://open.spotify.com/artist/3hFVgyDqcY7Od03ErfoxEl) | [Om Bhur Bhuvah Swaha\- Gayatri Mantra \- Meditative Chants](https://open.spotify.com/album/3oxxfzWdXsWc7XuZn7sU5l) | 6:34 | 2025-10-22 |  |
-| [Om Chakra Mantra To Find Your True Purpose](https://open.spotify.com/track/7JOIEkKNLcydn9p2BjlFZ6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:42 | 2026-07-03 |  |
+| [Om Chakra Mantra To Find Your True Purpose](https://open.spotify.com/track/7JOIEkKNLcydn9p2BjlFZ6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:42 | 2026-07-03 | 2026-08-18 |
 | [Om Chanting](https://open.spotify.com/track/5klNR4AlnRhWqP7vgqmWkB) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Om Chanting](https://open.spotify.com/album/5LAEodG3B8AITPjaSAY42X) | 5:44 | 2025-02-07 |  |
 | [Om Chanting](https://open.spotify.com/track/5JuFkSsuadASsHKgKtFLl8) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 21:58 | 2022-01-24 | 2022-07-29 |
 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 | 2024-09-30 |  |

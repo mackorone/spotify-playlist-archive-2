@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIViYkelREWYq>Surf Curse</a>, <a href=spotify:playlist:37i9dQZF1EIZlNy1eYPptu>Shawn Mendes</a>, <a href=spotify:playlist:37i9dQZF1EIZdd6v2TrO2y>Juice WRLD</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIWgyOG2kVVJa>Snow Patrol</a>, <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
-| 2 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
-| 3 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 |
+| 1 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
+| 2 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
+| 3 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 | 4 | [Life is Beautiful](https://open.spotify.com/track/5rYpwP1dHWGVMrSZbTmt3e) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:27 |
 | 5 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
 | 6 | [Im Doing Fine](https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG) | [Im Doing Fine](https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb) | 1:39 |

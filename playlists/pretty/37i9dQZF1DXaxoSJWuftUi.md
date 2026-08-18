@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxoSJWuftUi.md) - [plain]
 
 > Your favorite kids songs and nursery rhymes, now with videos\. Music videos available only on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,066 likes - 38 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,110 likes - 38 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

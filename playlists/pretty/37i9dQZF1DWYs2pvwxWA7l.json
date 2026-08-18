@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Kunmie",
-  "num_followers": 651543,
+  "num_followers": 651631,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
+        "name": "TEA",
+        "url": "https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "TEA",
+      "url": "https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK"
+    },
+    {
+      "added_at": "2026-08-14 00:01:42",
+      "album": {
         "name": "FRE$H",
         "url": "https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3"
       },
@@ -227,26 +243,6 @@
       "duration_ms": 138000,
       "name": "FRE$H",
       "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
-    },
-    {
-      "added_at": "2026-08-14 00:01:42",
-      "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "forever be mine (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -287,38 +283,42 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
-        "name": "TEA",
-        "url": "https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj"
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 192000,
-      "name": "TEA",
-      "url": "https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK"
+      "duration_ms": 173253,
+      "name": "forever be mine (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
     },
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         },
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 150147,
-      "name": "Tell Everybody (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -339,22 +339,22 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
-        "name": "REAL, Vol. 1",
-        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 145492,
-      "name": "Turbulence",
-      "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
+      "duration_ms": 150147,
+      "name": "Tell Everybody (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -411,18 +411,22 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
-        "name": "IS IT LOVE",
-        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 187714,
-      "name": "IS IT LOVE",
-      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
+      "duration_ms": 145492,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -447,42 +451,38 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
-        "name": "THAT GIRL!",
-        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+        "name": "The Game Needs Us",
+        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 132817,
-      "name": "THAT GIRL!",
-      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+      "duration_ms": 155294,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -507,22 +507,22 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
-        "name": "The Game Needs Us",
-        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         }
       ],
-      "duration_ms": 155294,
-      "name": "Already",
-      "url": "https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3"
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -659,6 +659,26 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
+        "name": "On my mind",
+        "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "On my mind",
+      "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
+    },
+    {
+      "added_at": "2026-08-14 00:01:42",
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
       },
@@ -691,6 +711,26 @@
       "duration_ms": 192419,
       "name": "I AM",
       "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
+    },
+    {
+      "added_at": "2026-08-14 00:01:42",
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -755,46 +795,6 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 162587,
-      "name": "golibe",
-      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
-    },
-    {
-      "added_at": "2026-08-14 00:01:42",
-      "album": {
-        "name": "On my mind",
-        "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
-      },
-      "artists": [
-        {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "On my mind",
-      "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
-    },
-    {
-      "added_at": "2026-08-14 00:01:42",
-      "album": {
         "name": "Bout U",
         "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 163481,
       "name": "Bout U",
       "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
-    },
-    {
-      "added_at": "2026-08-14 00:01:42",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Slow (feat. Ana\u00efs Cardot)",
-      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -871,6 +851,26 @@
       "duration_ms": 149786,
       "name": "Intentions (feat. Urban Chords)",
       "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
+    },
+    {
+      "added_at": "2026-08-14 00:01:42",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -927,6 +927,38 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "added_at": "2026-08-14 00:01:42",
+      "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "added_at": "2026-08-14 00:01:42",
+      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -939,6 +971,22 @@
       "duration_ms": 161086,
       "name": "hell and back",
       "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
+    },
+    {
+      "added_at": "2026-08-14 00:01:42",
+      "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -963,50 +1011,18 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         }
       ],
-      "duration_ms": 189015,
-      "name": "American Love",
-      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
-    },
-    {
-      "added_at": "2026-08-14 00:01:42",
-      "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
-    },
-    {
-      "added_at": "2026-08-14 00:01:42",
-      "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+      "duration_ms": 185973,
+      "name": "Masculine Love",
+      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -1031,38 +1047,6 @@
       "duration_ms": 188803,
       "name": "GBESUNMO",
       "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
-    },
-    {
-      "added_at": "2026-08-14 00:01:42",
-      "album": {
-        "name": "IGBO",
-        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 133852,
-      "name": "IGBO",
-      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
-    },
-    {
-      "added_at": "2026-08-14 00:01:42",
-      "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Masculine Love",
-      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -1103,6 +1087,42 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
+    },
+    {
+      "added_at": "2026-08-14 00:01:42",
+      "album": {
+        "name": "IGBO",
+        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 133852,
+      "name": "IGBO",
+      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
+    },
+    {
+      "added_at": "2026-08-14 00:01:42",
+      "album": {
+        "name": "alone (feat. BhadBoi OML)",
+        "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 153098,
+      "name": "alone (feat. BhadBoi OML)",
+      "url": "https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -1179,26 +1199,6 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2026-08-14 00:01:42",
-      "album": {
-        "name": "alone (feat. BhadBoi OML)",
-        "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 153098,
-      "name": "alone (feat. BhadBoi OML)",
-      "url": "https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg"
     },
     {
       "added_at": "2026-08-14 00:01:42",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-08-14 00:01:42",
       "album": {
-        "name": "Chai ya saa kumi",
-        "url": "https://open.spotify.com/album/6zo9fgnkIliVQoZLSB9Wh5"
-      },
-      "artists": [
-        {
-          "name": "Ywaya Tajiri",
-          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Chai ya saa kumi",
-      "url": "https://open.spotify.com/track/1gQsbe5nVBPmfj5Y1d1kec"
-    },
-    {
-      "added_at": "2026-08-14 00:01:42",
-      "album": {
         "name": "SWAGGA",
         "url": "https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 190270,
       "name": "SWAGGA",
       "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
+    },
+    {
+      "added_at": "2026-08-14 00:01:42",
+      "album": {
+        "name": "2026 Golden Run",
+        "url": "https://open.spotify.com/album/5vUhGARSLeXAnVkauLN6Vg"
+      },
+      "artists": [
+        {
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
+        }
+      ],
+      "duration_ms": 173471,
+      "name": "Numero Uno",
+      "url": "https://open.spotify.com/track/6vKcCo9wDTcjBiETLlVgul"
     }
   ],
   "unique_name": "Afropop",

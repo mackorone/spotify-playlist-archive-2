@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al agua! Nosotros ponemos la m\u00fasica.",
-  "num_followers": 497315,
+  "num_followers": 497322,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -975,26 +959,6 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Volv\u00ed",
-        "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230125,
-      "name": "Volv\u00ed",
-      "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1023,22 +987,22 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+        "name": "Volv\u00ed",
+        "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         },
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
+      "duration_ms": 230125,
+      "name": "Volv\u00ed",
+      "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1059,6 +1023,26 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1103,42 +1103,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -1163,6 +1127,42 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1259,42 +1259,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -1311,6 +1275,26 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1363,6 +1347,42 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "Dream Girl (Remix)",
+        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Dream Girl - Remix",
+      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Dream Girl (Remix)",
-        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Dream Girl - Remix",
-      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "El Efecto (Remix)",
         "url": "https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo"
       },
@@ -1563,22 +1547,18 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Savage Love (Laxed - Siren Beat)",
-        "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "Jawsh 685",
-          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 171374,
-      "name": "Savage Love (Laxed - Siren Beat)",
-      "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1603,6 +1583,26 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "Savage Love (Laxed - Siren Beat)",
+        "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw"
+      },
+      "artists": [
+        {
+          "name": "Jawsh 685",
+          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 171374,
+      "name": "Savage Love (Laxed - Siren Beat)",
+      "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -1739,26 +1739,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "FERXXO (VOL 1: M.O.R)",
-        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "PORFA",
-      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1847,6 +1827,26 @@
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "PORFA",
+      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1975,34 +1975,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -2031,6 +2003,34 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2067,6 +2067,30 @@
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 248345,
+      "name": "Parce (feat. Justin Quiles)",
+      "url": "https://open.spotify.com/track/4RJz8NfIe09gpKMiRUWKhJ"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2123,30 +2147,6 @@
       "duration_ms": 205604,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 248345,
-      "name": "Parce (feat. Justin Quiles)",
-      "url": "https://open.spotify.com/track/4RJz8NfIe09gpKMiRUWKhJ"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
         "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
@@ -2271,6 +2255,38 @@
       "duration_ms": 197721,
       "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2307,22 +2323,6 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Saving Up",
-        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Saving Up",
-      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2391,58 +2391,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Holy (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Future Nostalgia (The Moonlight Edition)",
-        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "We're Good",
-      "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 184254,
-      "name": "Relaci\u00f3n",
-      "url": "https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -2463,6 +2411,26 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Holy (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2519,6 +2487,38 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "We're Good",
+      "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 184254,
+      "name": "Relaci\u00f3n",
+      "url": "https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "Mujeriego",
         "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
       },
@@ -2531,22 +2531,6 @@
       "duration_ms": 142500,
       "name": "Mujeriego",
       "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Celestial",
-        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2587,6 +2571,22 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
       },
@@ -2619,54 +2619,6 @@
       "duration_ms": 190570,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Family Affair (Dance For Me)",
-        "url": "https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 158391,
-      "name": "Family Affair (Dance For Me)",
-      "url": "https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Sobrio",
-        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 201180,
-      "name": "Sobrio",
-      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2711,18 +2663,50 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "EXPERIMENTO",
-        "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
+        "name": "Family Affair (Dance For Me)",
+        "url": "https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 222728,
-      "name": "EXPERIMENTO",
-      "url": "https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON"
+      "duration_ms": 158391,
+      "name": "Family Affair (Dance For Me)",
+      "url": "https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 201180,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2759,6 +2743,46 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "EXPERIMENTO",
+        "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222728,
+      "name": "EXPERIMENTO",
+      "url": "https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 226532,
+      "name": "Sigues Con El",
+      "url": "https://open.spotify.com/track/1XxmTx7ZzI2xLvS8SqlXs9"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2819,30 +2843,6 @@
       "duration_ms": 184104,
       "name": "Summer of Love (Shawn Mendes & Tainy)",
       "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 226532,
-      "name": "Sigues Con El",
-      "url": "https://open.spotify.com/track/1XxmTx7ZzI2xLvS8SqlXs9"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2923,6 +2923,30 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "Be Like That (feat. Swae Lee & Khalid)",
+        "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 191406,
+      "name": "Be Like That - feat. Swae Lee & Khalid",
+      "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
       },
@@ -2951,30 +2975,6 @@
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Be Like That (feat. Swae Lee & Khalid)",
-        "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 191406,
-      "name": "Be Like That - feat. Swae Lee & Khalid",
-      "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
     },
     {
       "added_at": "2025-06-06 18:29:24",

@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 441760,
+  "num_followers": 441790,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABCxoMkW1eW1/1F7JYHMWHM",
+  "snapshot_id": "aoD9gAAAAACAEILCLN2thKg2iceDbR+X",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Good Times Roll (feat. The Offspring)",
-        "url": "https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt"
-      },
-      "artists": [
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        },
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 210913,
-      "name": "Let The Good Times Roll (feat. The Offspring)",
-      "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 220946,
       "name": "Original Prankster",
       "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Good Times Roll (feat. The Offspring)",
+        "url": "https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 210913,
+      "name": "Let The Good Times Roll (feat. The Offspring)",
+      "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f"
     },
     {
       "added_at": null,

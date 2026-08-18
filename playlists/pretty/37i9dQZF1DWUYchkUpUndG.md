@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Gaise Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,565 likes - 99 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,604 likes - 99 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

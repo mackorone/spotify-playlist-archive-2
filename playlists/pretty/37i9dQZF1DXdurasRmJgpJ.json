@@ -1,6 +1,6 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 388960,
+  "num_followers": 389077,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
+        "name": "mosi mosi?",
+        "url": "https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5"
+      },
+      "artists": [
+        {
+          "name": "\u697d\u97f3",
+          "url": "https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "mosi mosi?",
+      "url": "https://open.spotify.com/track/76oCvJj6LRoed2754GybpH"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
         "name": "Five",
         "url": "https://open.spotify.com/album/2ZujTUIlfon5IhGbUfFaYO"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "mosi mosi?",
-        "url": "https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5"
+        "name": "GO GHOST",
+        "url": "https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN"
       },
       "artists": [
         {
-          "name": "\u697d\u97f3",
-          "url": "https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 163750,
-      "name": "mosi mosi?",
-      "url": "https://open.spotify.com/track/76oCvJj6LRoed2754GybpH"
+      "duration_ms": 170100,
+      "name": "GO GHOST",
+      "url": "https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -355,54 +371,6 @@
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "\u9752\u306e\u3059\u307f\u304b",
-        "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "\u9752\u306e\u3059\u307f\u304b",
-      "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "GO GHOST",
-        "url": "https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 170100,
-      "name": "GO GHOST",
-      "url": "https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "hope",
-        "url": "https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 200219,
-      "name": "\u604b\u4eba\u3054\u3063\u3053",
-      "url": "https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -459,18 +427,34 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+        "name": "hope",
+        "url": "https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
         }
       ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+      "duration_ms": 200219,
+      "name": "\u604b\u4eba\u3054\u3063\u3053",
+      "url": "https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
+        "name": "\u9752\u306e\u3059\u307f\u304b",
+        "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "\u9752\u306e\u3059\u307f\u304b",
+      "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -487,6 +471,22 @@
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
         "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 288200,
       "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
       "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
+        "name": "WHATCHA DOIN",
+        "url": "https://open.spotify.com/album/5bUWg5P0OFvGtGT0ePJsEb"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 202725,
+      "name": "WHATCHA DOIN",
+      "url": "https://open.spotify.com/track/0jIdJN8ZjQNVLmikkg0mnF"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
         "name": "STARRING",
         "url": "https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 200226,
       "name": "Theater",
       "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "Almond Chocolate",
-        "url": "https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Almond Chocolate",
-      "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -651,34 +651,18 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "Never Grow Up",
-        "url": "https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH"
+        "name": "Almond Chocolate",
+        "url": "https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 196253,
-      "name": "Never Grow Up",
-      "url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
-        "url": "https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y"
-      },
-      "artists": [
-        {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
-        }
-      ],
-      "duration_ms": 226786,
-      "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
-      "url": "https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U"
+      "duration_ms": 201760,
+      "name": "Almond Chocolate",
+      "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -699,6 +683,22 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
+        "name": "Never Grow Up",
+        "url": "https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Never Grow Up",
+      "url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
         "name": "ReTake",
         "url": "https://open.spotify.com/album/1Nv9mMQS5u5gRYP9iNmcLu"
       },
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
+        "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
+        "url": "https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 226786,
+      "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
+      "url": "https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
         "name": "LOVE ALL SERVE ALL",
         "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 229333,
       "name": "\u30ac\u30fc\u30c7\u30f3",
       "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "WHATCHA DOIN",
-        "url": "https://open.spotify.com/album/5bUWg5P0OFvGtGT0ePJsEb"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 202725,
-      "name": "WHATCHA DOIN",
-      "url": "https://open.spotify.com/track/0jIdJN8ZjQNVLmikkg0mnF"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
-        "url": "https://open.spotify.com/album/0ipnPh5eIiWftThZl0CL11"
+        "name": "SKYWALK",
+        "url": "https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr"
       },
       "artists": [
         {
-          "name": "Snow Man",
-          "url": "https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N"
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
         }
       ],
-      "duration_ms": 201293,
-      "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
-      "url": "https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg"
+      "duration_ms": 223186,
+      "name": "Walking with you",
+      "url": "https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "SKYWALK",
-        "url": "https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr"
-      },
-      "artists": [
-        {
-          "name": "Novelbright",
-          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Walking with you",
-      "url": "https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -927,22 +911,6 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "Kodoku EP",
-        "url": "https://open.spotify.com/album/6eyBRckyqEPv8wxYz7FWpg"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "duration_ms": 181836,
-      "name": "Kodoku",
-      "url": "https://open.spotify.com/track/6bOpaowQXoFxpPYAXEejSp"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
         "name": "All Right",
         "url": "https://open.spotify.com/album/46YRge9mufTuhuFD4IZr1n"
       },
@@ -959,18 +927,34 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+        "name": "Kodoku EP",
+        "url": "https://open.spotify.com/album/6eyBRckyqEPv8wxYz7FWpg"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
         }
       ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+      "duration_ms": 181836,
+      "name": "Kodoku",
+      "url": "https://open.spotify.com/track/6bOpaowQXoFxpPYAXEejSp"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
+        "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/0ipnPh5eIiWftThZl0CL11"
+      },
+      "artists": [
+        {
+          "name": "Snow Man",
+          "url": "https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -991,6 +975,22 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
+        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
         "name": "summer film",
         "url": "https://open.spotify.com/album/1NE7XgXb1YQFCyco6AsEmC"
       },
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
       "artists": [
         {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 243026,
-      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+        "name": "Mela!",
+        "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+      "duration_ms": 242066,
+      "name": "Mela!",
+      "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -1103,34 +1103,18 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv"
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 257070,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "Mela!",
-        "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Mela!",
-      "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 257070,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
         "name": "Get Litty? (Deluxe)",
         "url": "https://open.spotify.com/album/6UMWTseCkEKRCrR5cJ8DYE"
       },
@@ -1171,38 +1171,6 @@
       "duration_ms": 176344,
       "name": "WASSUP (feat. NORIKIYO)",
       "url": "https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
-        "url": "https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 252811,
-      "name": "\u98db\u3076\u6642",
-      "url": "https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "\u30c0\u30fc\u30ea\u30f3",
-        "url": "https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "\u30c0\u30fc\u30ea\u30f3",
-      "url": "https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -1239,6 +1207,38 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 184898,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
+        "name": "\u30c0\u30fc\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "\u30c0\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
         "name": "Bad Girl",
         "url": "https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH"
       },
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c",
-        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
+        "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
+        "url": "https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH"
       },
       "artists": [
         {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 184898,
-      "name": "\u6b8b\u97ff\u6563\u6b4c",
-      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+      "duration_ms": 252811,
+      "name": "\u98db\u3076\u6642",
+      "url": "https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
         "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
         "url": "https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 298663,
       "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
       "url": "https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "Face the Sun",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
         "name": "I believe in you",
         "url": "https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 208896,
       "name": "\u9b54\u6cd5\u306e\u7d68\u6bef",
       "url": "https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
+        "name": "Face the Sun",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "BE:FIRST ALL DAY",
-        "url": "https://open.spotify.com/album/69eatCsaFiBwrSIaXbCkj6"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "BE:FIRST ALL DAY",
-      "url": "https://open.spotify.com/track/3C7208lbsu1qFo5oNfYG2I"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
         "name": "So Strawberry",
         "url": "https://open.spotify.com/album/1pxxaEGuwHtpdwtIgv99xW"
       },
@@ -1471,18 +1455,34 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "\u3089\u3057\u3055",
-        "url": "https://open.spotify.com/album/7395bs9ImOdA2k9hsKQjry"
+        "name": "BE:FIRST ALL DAY",
+        "url": "https://open.spotify.com/album/69eatCsaFiBwrSIaXbCkj6"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
         }
       ],
-      "duration_ms": 302880,
-      "name": "\u3089\u3057\u3055",
-      "url": "https://open.spotify.com/track/2TRxremVZ0t2JVu5OFxbiA"
+      "duration_ms": 155400,
+      "name": "BE:FIRST ALL DAY",
+      "url": "https://open.spotify.com/track/3C7208lbsu1qFo5oNfYG2I"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
+        "name": "I believe in you",
+        "url": "https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL"
+      },
+      "artists": [
+        {
+          "name": "\u5ddd\u5d0e\u9df9\u4e5f",
+          "url": "https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k"
+        }
+      ],
+      "duration_ms": 313877,
+      "name": "\u541b\u306e\u70ba\u306e\u30ad\u30df\u30ce\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
+        "name": "\u3089\u3057\u3055",
+        "url": "https://open.spotify.com/album/7395bs9ImOdA2k9hsKQjry"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 302880,
+      "name": "\u3089\u3057\u3055",
+      "url": "https://open.spotify.com/track/2TRxremVZ0t2JVu5OFxbiA"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
         "name": "BOW AND ARROW",
         "url": "https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh"
       },
@@ -1519,34 +1535,18 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "THE BOOK for,",
-        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 206586,
-      "name": "\u30aa\u30ea\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "I believe in you",
-        "url": "https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL"
-      },
-      "artists": [
-        {
-          "name": "\u5ddd\u5d0e\u9df9\u4e5f",
-          "url": "https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k"
-        }
-      ],
-      "duration_ms": 313877,
-      "name": "\u541b\u306e\u70ba\u306e\u30ad\u30df\u30ce\u30a6\u30bf",
-      "url": "https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU"
+      "duration_ms": 200241,
+      "name": "\u4e0d\u53ef\u5e78\u529b",
+      "url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
+        "name": "\u50d5\u305f\u3061\u304c\u3084\u308a\u307e\u3057\u305f",
+        "url": "https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0"
+      },
+      "artists": [
+        {
+          "name": "DISH//",
+          "url": "https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil"
+        }
+      ],
+      "duration_ms": 276040,
+      "name": "\u732b",
+      "url": "https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
         "name": "more than words",
         "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 289720,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
-        "name": "strobo",
-        "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 200241,
-      "name": "\u4e0d\u53ef\u5e78\u529b",
-      "url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA"
     },
     {
       "added_at": "2026-08-12 07:31:56",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "Vivarium",
-        "url": "https://open.spotify.com/album/3oyndt1RMCFGQLnZMYPmML"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 243317,
-      "name": "Vivarium",
-      "url": "https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL"
-    },
-    {
-      "added_at": "2026-08-12 07:31:56",
-      "album": {
         "name": "\u6669\u9910\u6b4c - Bansanka",
         "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
       },
@@ -1663,18 +1647,34 @@
     {
       "added_at": "2026-08-12 07:31:56",
       "album": {
-        "name": "\u50d5\u305f\u3061\u304c\u3084\u308a\u307e\u3057\u305f",
-        "url": "https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0"
+        "name": "THE BOOK for,",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
       },
       "artists": [
         {
-          "name": "DISH//",
-          "url": "https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 276040,
-      "name": "\u732b",
-      "url": "https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx"
+      "duration_ms": 206586,
+      "name": "\u30aa\u30ea\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z"
+    },
+    {
+      "added_at": "2026-08-12 07:31:56",
+      "album": {
+        "name": "Vivarium",
+        "url": "https://open.spotify.com/album/3oyndt1RMCFGQLnZMYPmML"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 243317,
+      "name": "Vivarium",
+      "url": "https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL"
     }
   ],
   "unique_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",

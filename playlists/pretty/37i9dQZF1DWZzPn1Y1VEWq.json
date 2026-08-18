@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 391570,
+  "num_followers": 391583,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "Arde la Ciudad",
-      "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Airbag",
-        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Solo aqu\u00ed",
-      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
+      "duration_ms": 252760,
+      "name": "Arde la Ciudad",
+      "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -319,18 +303,18 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+        "name": "Airbag",
+        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 248600,
-      "name": "Esta Saliendo El Sol",
-      "url": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
+      "duration_ms": 234146,
+      "name": "Solo aqu\u00ed",
+      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -367,18 +351,18 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Rocanroles Sin Destino",
-        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
       "artists": [
         {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
+      "duration_ms": 248600,
+      "name": "Esta Saliendo El Sol",
+      "url": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -399,6 +383,22 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
+        "name": "Rocanroles Sin Destino",
+        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 266133,
       "name": "A Veces Vuelvo",
       "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
-        "name": "De Bichos Y Flores",
-        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -447,18 +431,18 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Los Rayos",
-        "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
+        "name": "De Bichos Y Flores",
+        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
       },
       "artists": [
         {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 239040,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
+      "duration_ms": 187066,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -479,6 +463,22 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
+        "name": "Los Rayos",
+        "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
         "name": "Blanco y Negro",
         "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
       },
@@ -491,38 +491,6 @@
       "duration_ms": 197386,
       "name": "Amor de verano",
       "url": "https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
-        "name": "Turfshow",
-        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "Loco Un Poco",
-      "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -543,18 +511,34 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+        "name": "Turfshow",
+        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+      "duration_ms": 207280,
+      "name": "Loco Un Poco",
+      "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -571,6 +555,22 @@
       "duration_ms": 248400,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Vicio",
-        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Descontrolado",
-      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Sigo Por El Objetivo",
         "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 146240,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Vicio",
+        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Descontrolado",
+      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -735,34 +719,18 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Esp\u00edritu",
-        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
       "artists": [
         {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
-        "name": "Libertinaje",
-        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 259813,
-      "name": "Sr. Cobranza",
-      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -783,18 +751,34 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "El regreso",
-        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 182680,
-      "name": "Tuyo siempre - En directo 2005",
-      "url": "https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh"
+      "duration_ms": 259813,
+      "name": "Sr. Cobranza",
+      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Esp\u00edritu",
+        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -811,6 +795,22 @@
       "duration_ms": 330600,
       "name": "Luna Roja - Remasterizado 2007",
       "url": "https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "El regreso",
+        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "Tuyo siempre - En directo 2005",
+      "url": "https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
         }
       ],
-      "duration_ms": 263315,
-      "name": "Se Te Ve la Tanga",
-      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
+      "duration_ms": 244653,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -927,6 +911,22 @@
       "duration_ms": 330840,
       "name": "Influencia",
       "url": "https://open.spotify.com/track/7B8W8kfQwcVubGo2EGosID"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 263315,
+      "name": "Se Te Ve la Tanga",
+      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Primavera 0 - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Operacion Damas Gratis",
         "url": "https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 219693,
       "name": "Quieren bajarme",
       "url": "https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Primavera 0 - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Sin Remedio",
         "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 247336,
       "name": "No Se Llama Amor",
       "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Fue Amor",
+      "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 305400,
       "name": "Que No Me Pierda",
       "url": "https://open.spotify.com/track/1hddbV736FaAFxMho50n75"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Fue Amor",
-      "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Cuarto Creciente",
-        "url": "https://open.spotify.com/album/23f7vw1xTj95F2gmhly8n8"
-      },
-      "artists": [
-        {
-          "name": "Leo Garc\u00eda",
-          "url": "https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb"
-        }
-      ],
-      "duration_ms": 290946,
-      "name": "Tesoro",
-      "url": "https://open.spotify.com/track/4Lo9osdsopemnKIfgi6IqW"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Vicentico",
         "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
+        "name": "Cuarto Creciente",
+        "url": "https://open.spotify.com/album/23f7vw1xTj95F2gmhly8n8"
+      },
+      "artists": [
+        {
+          "name": "Leo Garc\u00eda",
+          "url": "https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb"
+        }
+      ],
+      "duration_ms": 290946,
+      "name": "Tesoro",
+      "url": "https://open.spotify.com/track/4Lo9osdsopemnKIfgi6IqW"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
         "name": "Naturaleza Sangre",
         "url": "https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 181373,
       "name": "Volver a M\u00ed",
       "url": "https://open.spotify.com/track/5vWgQ5tRPZ7enuuqBDDniZ"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 172251,
-      "name": "Ser\u00e1 - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -1575,6 +1559,22 @@
       "duration_ms": 210426,
       "name": "Una Tregua",
       "url": "https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 172251,
+      "name": "Ser\u00e1 - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
     },
     {
       "added_at": "2026-06-26 15:38:11",

@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 843234,
+  "num_followers": 843248,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Cool Cat - Remastered 2011",
+      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -115,18 +131,18 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+        "name": "For Mary",
+        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
         }
       ],
-      "duration_ms": 209106,
-      "name": "Cool Cat - Remastered 2011",
-      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/4aQVmxRFRT0EhGNkLyzUXJ"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -143,22 +159,6 @@
       "duration_ms": 219560,
       "name": "Give Me the Night - Edit",
       "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "For Mary",
-        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/4aQVmxRFRT0EhGNkLyzUXJ"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Soundtrack For A Movie That Has Not Been Written Yet",
-        "url": "https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS"
-      },
-      "artists": [
-        {
-          "name": "Rikas",
-          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 242440,
       "name": "Golden Cage",
       "url": "https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Soundtrack For A Movie That Has Not Been Written Yet",
+        "url": "https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 297717,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -475,38 +475,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "'Justments",
-        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 229849,
-      "name": "Can We Pretend",
-      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "man oh man !",
-        "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Luke Brown",
-          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
-        }
-      ],
-      "duration_ms": 170903,
-      "name": "hello !",
-      "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
@@ -523,6 +491,22 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 229849,
+      "name": "Can We Pretend",
+      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "Into The Blue",
         "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 230466,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "man oh man !",
+        "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "duration_ms": 170903,
+      "name": "hello !",
+      "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Sugar at the Gate",
-        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
-      },
-      "artists": [
-        {
-          "name": "TOPS",
-          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
-        }
-      ],
-      "duration_ms": 174535,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 246120,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Sugar at the Gate",
+        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "duration_ms": 174535,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Sings Love",
-        "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
-      },
-      "artists": [
-        {
-          "name": "Sonya Spence",
-          "url": "https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ"
-        }
-      ],
-      "duration_ms": 222981,
-      "name": "Let Love Flow On",
-      "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "New Me, Same Us",
         "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "Sings Love",
+        "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
+      },
+      "artists": [
+        {
+          "name": "Sonya Spence",
+          "url": "https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ"
+        }
+      ],
+      "duration_ms": 222981,
+      "name": "Let Love Flow On",
+      "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "The Miraculous Hump Returns From The Moon",
         "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 314653,
       "name": "Fazon",
       "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "Time to Melt",
-        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        },
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Dream Free",
-      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -879,22 +859,22 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Anticipate",
-        "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
+        "name": "Time to Melt",
+        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
         },
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 189284,
-      "name": "Anticipate",
-      "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
+      "duration_ms": 258026,
+      "name": "Dream Free",
+      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -915,6 +895,26 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "Anticipate",
+        "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 189284,
+      "name": "Anticipate",
+      "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Brenton Wood's 18 Best",
-        "url": "https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 138226,
-      "name": "Great Big Bundle Of Love",
-      "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/3UGeIKs2PcNCp4nphu9BMf"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 214142,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/6EWbV0FVnL9CHiSrMyhtpR"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Brenton Wood's 18 Best",
+        "url": "https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 138226,
+      "name": "Great Big Bundle Of Love",
+      "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "Euphrates River (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0QAgVwKBZAZFMkCDzmmBBj"
+      },
+      "artists": [
+        {
+          "name": "The Main Ingredient",
+          "url": "https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm"
+        }
+      ],
+      "duration_ms": 256240,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/5i6CpkeePD4aKacf0cmZqg"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "Imaginary Audience",
         "url": "https://open.spotify.com/album/6zG512i8DvxsxOaM10l8sk"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 191451,
       "name": "The End of a Gun",
       "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "Euphrates River (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0QAgVwKBZAZFMkCDzmmBBj"
-      },
-      "artists": [
-        {
-          "name": "The Main Ingredient",
-          "url": "https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm"
-        }
-      ],
-      "duration_ms": 256240,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/5i6CpkeePD4aKacf0cmZqg"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
-      },
-      "artists": [
-        {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 239093,
       "name": "Red Wine",
       "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+      },
+      "artists": [
+        {
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Always on My Mind (Acoustic)",
-        "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
-      },
-      "artists": [
-        {
-          "name": "Nan\u00e9",
-          "url": "https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7"
-        },
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 214820,
-      "name": "Always on My Mind (Acoustic)",
-      "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 303871,
       "name": "RISE",
       "url": "https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Always on My Mind (Acoustic)",
+        "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
+      },
+      "artists": [
+        {
+          "name": "Nan\u00e9",
+          "url": "https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7"
+        },
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 214820,
+      "name": "Always on My Mind (Acoustic)",
+      "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "I Just Want To Talk To You",
-        "url": "https://open.spotify.com/album/68DJRWdkFtRIMxYURX7zDX"
-      },
-      "artists": [
-        {
-          "name": "Charles Brown",
-          "url": "https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg"
-        },
-        {
-          "name": "Sleepy Creek",
-          "url": "https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97"
-        }
-      ],
-      "duration_ms": 191039,
-      "name": "I Just Want To Talk To You",
-      "url": "https://open.spotify.com/track/4TmnRITTYSRhgY2zmEAJQ3"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Freedom to Talk",
         "url": "https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf"
       },
@@ -1555,6 +1535,42 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "I Just Want To Talk To You",
+        "url": "https://open.spotify.com/album/68DJRWdkFtRIMxYURX7zDX"
+      },
+      "artists": [
+        {
+          "name": "Charles Brown",
+          "url": "https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg"
+        },
+        {
+          "name": "Sleepy Creek",
+          "url": "https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97"
+        }
+      ],
+      "duration_ms": 191039,
+      "name": "I Just Want To Talk To You",
+      "url": "https://open.spotify.com/track/4TmnRITTYSRhgY2zmEAJQ3"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "My Conversation",
+        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
+      },
+      "artists": [
+        {
+          "name": "Silas Short",
+          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "My Conversation",
+      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "My Conversation",
-        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
-      },
-      "artists": [
-        {
-          "name": "Silas Short",
-          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "My Conversation",
-      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Fossils",
-        "url": "https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf"
-      },
-      "artists": [
-        {
-          "name": "THAO",
-          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
-        }
-      ],
-      "duration_ms": 243365,
-      "name": "Fossils",
-      "url": "https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 189536,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Fossils",
+        "url": "https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf"
+      },
+      "artists": [
+        {
+          "name": "THAO",
+          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
+        }
+      ],
+      "duration_ms": 243365,
+      "name": "Fossils",
+      "url": "https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1775,38 +1775,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
-      },
-      "artists": [
-        {
-          "name": "Hope Winter",
-          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "Maybe Later",
-        "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
-      },
-      "artists": [
-        {
-          "name": "Neighbor Lady",
-          "url": "https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Quadron",
         "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
       },
@@ -1819,38 +1787,6 @@
       "duration_ms": 272466,
       "name": "Slippin",
       "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "TORNADO",
-        "url": "https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv"
-      },
-      "artists": [
-        {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 204817,
-      "name": "Where's My Beach Hat",
-      "url": "https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1883,6 +1819,54 @@
       "duration_ms": 262184,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "TORNADO",
+        "url": "https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 204817,
+      "name": "Where's My Beach Hat",
+      "url": "https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Maybe Later",
+        "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
+      },
+      "artists": [
+        {
+          "name": "Neighbor Lady",
+          "url": "https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Oh Honey",
+      "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1935,6 +1919,22 @@
       "duration_ms": 184776,
       "name": "Favorite Kind of People",
       "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
     },
     {
       "added_at": "2026-07-28 22:35:25",

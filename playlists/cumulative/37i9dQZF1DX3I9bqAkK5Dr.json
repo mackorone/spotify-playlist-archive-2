@@ -332,7 +332,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 171000,
       "name": "Anaganaga Jasti",
       "url": "https://open.spotify.com/track/7c2OpCYcjMm13Y4Qs2KO48"
@@ -4458,6 +4458,32 @@
       "duration_ms": 213473,
       "name": "Lekha",
       "url": "https://open.spotify.com/track/5r0F3Ujnoo6xufzw9fH5GO"
+    },
+    {
+      "album": {
+        "name": "LITE LELO",
+        "url": "https://open.spotify.com/album/6YpenHWeeQRxtCVepibAzv"
+      },
+      "artists": [
+        {
+          "name": "Faria Abdullah",
+          "url": "https://open.spotify.com/artist/638uCpbXcepPKOZdNfAHLv"
+        },
+        {
+          "name": "Asura",
+          "url": "https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6"
+        },
+        {
+          "name": "Addyction",
+          "url": "https://open.spotify.com/artist/6UIOk5wIHMUWs30ISs4vXl"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304350,
+      "name": "LITE LELO",
+      "url": "https://open.spotify.com/track/1S9UjPfddiONdqYS8HP2Aq"
     },
     {
       "album": {

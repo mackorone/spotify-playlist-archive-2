@@ -18546,7 +18546,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 198450,
       "name": "P Ramlee Saloma",
       "url": "https://open.spotify.com/track/7totacaqk0aGyO8evCjzOh"
@@ -22422,7 +22422,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 342573,
       "name": "Siapa Di Hatimu",
       "url": "https://open.spotify.com/track/1nPkL63Uxaw84801K23KNr"
@@ -24641,6 +24641,24 @@
     },
     {
       "album": {
+        "name": "Tak Adil",
+        "url": "https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188012,
+      "name": "Tak Adil",
+      "url": "https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V"
+    },
+    {
+      "album": {
         "name": "Tak Dianggap",
         "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
       },
@@ -24998,7 +25016,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 218006,
       "name": "Takkan Pergi",
       "url": "https://open.spotify.com/track/4RpBCmAFDHmUGGrYKMySQI"

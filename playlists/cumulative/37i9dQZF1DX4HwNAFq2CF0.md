@@ -4,7 +4,7 @@
 
 > The hits that keep on rocking your world\. Cover: Angine de Poitrine
 
-210 songs - 12 hr 44 min
+211 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 | 2023-02-10 | 2024-04-19 |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2023-02-10 | 2023-08-26 |
 | [San Quentin](https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb) | 3:31 | 2023-10-20 | 2024-04-19 |
+| [Sans Soleil](https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:04 | 2026-05-06 |  |
 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 | 2026-05-28 |  |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2023-02-10 | 2026-07-10 |
 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2023-12-08 |  |
@@ -193,7 +194,7 @@
 | [The Way You Used To Do](https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 4:34 | 2023-02-10 | 2024-04-19 |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2023-02-10 |  |
 | [Time Machine](https://open.spotify.com/track/0Id1uGKixXaLt8v4wFfUS6) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Time Machine](https://open.spotify.com/album/6nygUYRnelgPrDgOTSvV3U) | 3:45 | 2026-05-29 |  |
-| [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-09-04 |  |
+| [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-09-04 | 2026-08-18 |
 | [Together Right](https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Together Right](https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9) | 3:01 | 2026-05-06 | 2026-08-10 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-11-15 |  |
 | [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:44 | 2025-12-12 |  |

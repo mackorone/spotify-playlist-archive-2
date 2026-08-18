@@ -1,6 +1,6 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 693247,
+  "num_followers": 693269,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 276186,
       "name": "One",
       "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "In My Place",
-      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 298760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "In My Place",
+      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 318533,
+      "name": "Let Her Cry",
+      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 318533,
-      "name": "Let Her Cry",
-      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -751,6 +735,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 260173,
       "name": "Every Rose Has Its Thorn - 2003 Remaster",
       "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Frontiers (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "Faithfully (2023 Remaster)",
-      "url": "https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -799,18 +783,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+        "name": "Frontiers (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 282693,
-      "name": "Everglow",
-      "url": "https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU"
+      "duration_ms": 266946,
+      "name": "Faithfully (2023 Remaster)",
+      "url": "https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -843,6 +827,22 @@
       "duration_ms": 228800,
       "name": "Sing",
       "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 282693,
+      "name": "Everglow",
+      "url": "https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Shake Your Money Maker",
-        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 329400,
-      "name": "She Talks To Angels",
-      "url": "https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 260532,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Shake Your Money Maker",
+        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 329400,
+      "name": "She Talks To Angels",
+      "url": "https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 346960,
-      "name": "Love Bites - Remastered 2017",
-      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 250906,
       "name": "Everlong - Acoustic Version",
       "url": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 346960,
+      "name": "Love Bites - Remastered 2017",
+      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Collective Soul",
-        "url": "https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "The World I Know",
-      "url": "https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 267853,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Lap Of Luxury",
         "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
       },
@@ -1135,50 +1103,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
+        "name": "Collective Soul",
+        "url": "https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE"
       },
       "artists": [
         {
-          "name": "The Connells",
-          "url": "https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb"
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
         }
       ],
-      "duration_ms": 278973,
-      "name": "'74-'75",
-      "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Hear You Me",
-      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 230293,
-      "name": "Plush - Acoustic",
-      "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
+      "duration_ms": 255466,
+      "name": "The World I Know",
+      "url": "https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1199,6 +1135,54 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Hear You Me",
+      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
+      },
+      "artists": [
+        {
+          "name": "The Connells",
+          "url": "https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "'74-'75",
+      "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 230293,
+      "name": "Plush - Acoustic",
+      "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 297426,
       "name": "Eyes Without A Face - Remastered 1999",
       "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 267853,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
     },
     {
       "added_at": "2023-04-11 13:31:58",

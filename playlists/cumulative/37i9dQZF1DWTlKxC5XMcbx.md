@@ -4,7 +4,7 @@
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-153 songs - 12 hr 23 min
+154 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Forenet](https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 1:58 | 2022-11-07 |  |
 | [From Gagarin's Point of View](https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [From Gagarin's Point of View](https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138) | 4:03 | 2022-09-12 | 2024-04-19 |
 | [Gary's Theme \- Remastered](https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 4:17 | 2022-09-12 | 2024-04-19 |
+| [Gloomy Sunday](https://open.spotify.com/track/1E8CLofdHL6FVq4PXIIw9x) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Eternal](https://open.spotify.com/album/75PATxS9geJNjgSfdGzwGf) | 12:43 | 2026-02-09 |  |
 | [Good Morning Heartache](https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Remembering Billie](https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd) | 5:22 | 2022-09-12 |  |
 | [Good Morning.Goodbye](https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 5:36 | 2022-09-12 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:44 | 2022-09-12 |  |
@@ -69,7 +70,7 @@
 | [In A Sentimental Mood](https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [In A Sentimental Mood](https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y) | 2:42 | 2022-09-12 | 2025-06-17 |
 | [In Your Own Sweet Way](https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:52 | 2022-09-12 | 2025-11-04 |
 | [Infant Eyes \- Remastered1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 6:54 | 2022-09-12 |  |
-| [Interlude No\. 3](https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Mourning of a Star](https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP) | 1:17 | 2023-09-18 |  |
+| [Interlude No\. 3](https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Mourning of a Star](https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP) | 1:17 | 2023-09-18 | 2026-08-18 |
 | [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 6:13 | 2022-09-12 | 2023-01-24 |
 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 | 2022-11-07 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/6QlkHjQmo2YncQN5MQXgPZ) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin' With The Miles Davis Quintet](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 5:23 | 2022-09-12 | 2024-04-19 |

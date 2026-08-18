@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 169062,
+  "num_followers": 169079,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADWTkTnXQddRiQKBQVsiuzx",
+  "snapshot_id": "aoD9gAAAAABotl5C9SkLxK4fRKmbziYc",
   "tracks": [
     {
       "added_at": null,
@@ -86,15 +86,11 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
         }
       ],
-      "duration_ms": 234000,
-      "name": "The Way You Move (feat. Sleepy Brown)",
-      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+      "duration_ms": 369573,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
     },
     {
       "added_at": null,
@@ -158,11 +154,15 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
         }
       ],
-      "duration_ms": 369573,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "added_at": null,

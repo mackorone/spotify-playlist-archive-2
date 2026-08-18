@@ -5653,6 +5653,28 @@
     },
     {
       "album": {
+        "name": "Not Free Money",
+        "url": "https://open.spotify.com/album/5gdNgqZU8jMZe21r90uJeK"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183911,
+      "name": "BAD HiPPiE (with MiHALi)",
+      "url": "https://open.spotify.com/track/2u5FvWhFwLjUtRbNFmFxUP"
+    },
+    {
+      "album": {
         "name": "BAD HiPPiE (with MiHALi)",
         "url": "https://open.spotify.com/album/3pklCYiNOCfWAiffU3kOSK"
       },
@@ -5668,7 +5690,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 183911,
       "name": "BAD HiPPiE (with MiHALi)",
       "url": "https://open.spotify.com/track/4zp8NK2qMlIw84Aof4GyCc"
@@ -24678,7 +24700,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 209480,
       "name": "Four In One - Alternate Take",
       "url": "https://open.spotify.com/track/0bHx49sOlTCZTtDCsFYuXr"
@@ -27420,7 +27442,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 314200,
       "name": "Gjallarhorn",
       "url": "https://open.spotify.com/track/1rouZuMqJonxGcQcM1ZFRT"
@@ -27804,7 +27826,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 197782,
       "name": "GMFU (feat. Big Sean)",
       "url": "https://open.spotify.com/track/4WRSuXKiVASgd9z6sk1yZL"
@@ -37112,7 +37134,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 180281,
       "name": "Just My Type (feat. Phoelix)",
       "url": "https://open.spotify.com/track/1msQ1lHgSrbkXUSocGkmzM"
@@ -46658,7 +46680,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 164516,
       "name": "Mutual Respect (feat. Phoelix)",
       "url": "https://open.spotify.com/track/5xjILyg4FBMlNlOAGQ9BPq"
@@ -71497,6 +71519,24 @@
     },
     {
       "album": {
+        "name": "The Time Of My Life",
+        "url": "https://open.spotify.com/album/3cioBqHvC9NN9SQVSQP5Uh"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237458,
+      "name": "The Time Of My Life",
+      "url": "https://open.spotify.com/track/5APLZ2fyg5ksgX5t3xh4G9"
+    },
+    {
+      "album": {
         "name": "The Town I Loved So Well",
         "url": "https://open.spotify.com/album/7yfvse8LXS3xkqm3JinFA3"
       },
@@ -77856,7 +77896,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 246546,
       "name": "Welcome the End",
       "url": "https://open.spotify.com/track/4QaeezfKQ7M4EZvd44jvKb"

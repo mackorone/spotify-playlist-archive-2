@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,480 likes - 121 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,471 likes - 121 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
 | 2 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
-| 3 | [Hurt](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 3:24 |
-| 4 | [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 |
-| 5 | [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 |
+| 3 | [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 |
+| 4 | [Hurt](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 3:24 |
+| 5 | [Before You Go](https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Good Times](https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB) | 3:36 |
 | 6 | [Gravity](https://open.spotify.com/track/27NCPgfAJ3i4epMbWcMfd1) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Gravity](https://open.spotify.com/album/4KaqbSuXThiupKsPGA097L) | 3:13 |
-| 7 | [Before You Go](https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Good Times](https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB) | 3:36 |
+| 7 | [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 |
 | 8 | [Bitterljuva unga dar](https://open.spotify.com/track/1tIxDrDWsjUJxyJe4diD6t) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Bitterljuva unga dar](https://open.spotify.com/album/157gmJw8xPyZn5dHShHTBP) | 3:42 |
-| 9 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 |
-| 10 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
-| 11 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
-| 12 | [All Eyes On Me](https://open.spotify.com/track/66t3qGcPbN7Hl6LMmNk6SS) | [Margaux Flavet](https://open.spotify.com/artist/2lj99Le4XXGP1pU59UhihV) | [All Eyes On Me](https://open.spotify.com/album/1hNvbJrPOufssHeWHCg6bs) | 3:00 |
+| 9 | [All Eyes On Me](https://open.spotify.com/track/66t3qGcPbN7Hl6LMmNk6SS) | [Margaux Flavet](https://open.spotify.com/artist/2lj99Le4XXGP1pU59UhihV) | [All Eyes On Me](https://open.spotify.com/album/1hNvbJrPOufssHeWHCg6bs) | 3:00 |
+| 10 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 |
+| 11 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
+| 12 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
 | 13 | [Sommarflamma](https://open.spotify.com/track/4Yy2IG4c2R5SpmqmZWmXNM) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Sommarflamma](https://open.spotify.com/album/7cBwO2EKohCzADXdUBn9lI) | 2:47 |
 | 14 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
 | 15 | [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 120 | [I Be Okay](https://open.spotify.com/track/3lru6TFuKGTO2TQn13mvnF) | [LARA](https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ) | [I Be Okay](https://open.spotify.com/album/6TNKtbUAb3PQwvCcGwykcX) | 2:46 |
 | 121 | [One Day](https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 3:08 |
 
-Snapshot ID: `AAAAAGx/9kM5oDkNVlBOJoNdrPuyipez`
+Snapshot ID: `AAAAANwwXPQKkDQQg6gNU1I4o9XF//t8`

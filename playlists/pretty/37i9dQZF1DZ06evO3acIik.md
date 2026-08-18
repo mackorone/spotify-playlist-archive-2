@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,686 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,680 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 27 | [Is it a Crime?](https://open.spotify.com/track/7dr1xuaEhYlykaoGNP10a3) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 3:20 |
 | 28 | [Bodies](https://open.spotify.com/track/21yc8LrPyJ8v52s4PC1hUC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb) | 0:56 |
 | 29 | [Better Off](https://open.spotify.com/track/66xRBkSLMayKuFHVVSiqNY) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD) | 1:50 |
-| 30 | [Mercy](https://open.spotify.com/track/21EIQVCOJd52ka7xpmIcQP) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/0EXsVBTG8GyITT2d6q9ECW) | 2:29 |
-| 31 | [On My Way.](https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [On My Way.](https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST) | 3:07 |
+| 30 | [On My Way.](https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [On My Way.](https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST) | 3:07 |
+| 31 | [Mercy](https://open.spotify.com/track/21EIQVCOJd52ka7xpmIcQP) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/0EXsVBTG8GyITT2d6q9ECW) | 2:29 |
 | 32 | [If Only I Could Tell You \(T.S.S.R\. Piano Edit\)](https://open.spotify.com/track/0dXUlj0Jj1rPdUi5r1GTKG) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 1:40 |
 | 33 | [We Are Still In Love](https://open.spotify.com/track/3JJhBch0AWO0QY18dSd0Wc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD) | 3:35 |
 | 34 | [You Changed on Me.](https://open.spotify.com/track/4zPtXbC2XnYo6AoEArcJBx) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 2:04 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 45 | [Hold](https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB) | 2:31 |
 | 46 | [God or The Devil?](https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 1:20 |
 | 47 | [Wings](https://open.spotify.com/track/09qORSpYUi5pq5jcqQtaS7) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/2mDcwqDBXlbxUp2N3GObTj) | 2:48 |
-| 48 | [Crumble](https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [SOPHIETHEHOMIE](https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:55 |
-| 49 | [6:16am](https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO) | 1:59 |
+| 48 | [6:16am](https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO) | 1:59 |
+| 49 | [Crumble](https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [SOPHIETHEHOMIE](https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:55 |
 | 50 | [Only Death Can Separate Us](https://open.spotify.com/track/6wLP6lDOoap3D3T2Tjkt8u) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:26 |
 
-Snapshot ID: `an+sAAAAAADLDIEfjgANjTu6Xo8iAzNZ`
+Snapshot ID: `aoD9gAAAAACzziGBlvLzbfiinZ17LAU6`

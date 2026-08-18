@@ -4,7 +4,7 @@
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-127 songs - 6 hr 11 min
+128 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Cazador de Asesinos](https://open.spotify.com/track/67FqUlBZL2ljoMOC2eQKFW) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Cazador de Asesinos](https://open.spotify.com/album/4irooFudmMNZGIKIAYdQmk) | 3:02 | 2026-07-08 |  |
 | [Cazador de Asesinos](https://open.spotify.com/track/411L3G5Fym2P3aiMey6ATm) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 3:03 | 2022-06-01 | 2026-01-03 |
 | [Cazador de Asesinos](https://open.spotify.com/track/699gstMwCAfQ0UXovIw3Ch) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7) | 3:03 | 2026-01-03 | 2026-07-08 |
-| [Cielo Azul Cielo Nublado](https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [30 Cadetazos](https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8) | 2:00 | 2022-06-01 |  |
+| [Cielo Azul Cielo Nublado](https://open.spotify.com/track/2TSnh3icR23mUQC3wIOorU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Auténticos](https://open.spotify.com/album/5thl5PvQuIr1UIF1q8HEwo) | 1:59 | 2026-08-18 |  |
+| [Cielo Azul Cielo Nublado](https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [30 Cadetazos](https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8) | 2:00 | 2022-06-01 | 2026-08-18 |
 | [Contrabando Por Amor](https://open.spotify.com/track/1NoPsquz9i9s8Ybo86u1Ku) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Señor de los Cielos](https://open.spotify.com/album/72h9sjxf1AtzemsvDifpGn) | 3:04 | 2022-07-09 | 2022-07-21 |
 | [Corridos de los Perez](https://open.spotify.com/track/4vzCg8pdKm9b6IzVnUbIIa) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Jesus Malverde](https://open.spotify.com/album/6iQ9C4j0Esy5BPxfeC6lLo) | 3:29 | 2022-06-01 | 2022-10-13 |
 | [Cosas del Ayer](https://open.spotify.com/track/19mX627iFZeXidj0akB9aT) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:52 | 2022-06-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,127 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,130 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 44 | [Don't Lose Me](https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:20 |
 | 45 | [Alive \(with Offset & 2 Chainz\)](https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Alive \(with Offset & 2 Chainz\)](https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2) | 3:55 |
 | 46 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
-| 47 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE) | 3:27 |
-| 48 | [Pink Toes \(Offset, DaBaby feat\. Gunna\)](https://open.spotify.com/track/0W1ZfgXpC23RYQPDq7RM5I) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:37 |
-| 49 | [Step 1 \(with Offset\)](https://open.spotify.com/track/4GpTHfZ8vq7QDGB2fiSV7Q) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 2:57 |
+| 47 | [Step 1 \(with Offset\)](https://open.spotify.com/track/4GpTHfZ8vq7QDGB2fiSV7Q) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 2:57 |
+| 48 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE) | 3:27 |
+| 49 | [Pink Toes \(Offset, DaBaby feat\. Gunna\)](https://open.spotify.com/track/0W1ZfgXpC23RYQPDq7RM5I) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:37 |
 | 50 | [Hook Up](https://open.spotify.com/track/0gUGjvCXLxvLoBLXJVrUSl) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:27 |
 
-Snapshot ID: `an+sAAAAAADhHCx/BAinESZWKRztsCwT`
+Snapshot ID: `aoD9gAAAAACYsl8fJ9JDrTlGD8CBmjS4`

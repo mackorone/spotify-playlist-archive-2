@@ -154,7 +154,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 243880,
       "name": "(When You Gonna) Give It Up to Me - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
@@ -8416,7 +8416,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -10432,7 +10432,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
@@ -13226,7 +13226,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
@@ -22858,7 +22858,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -36868,7 +36868,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -53304,7 +53304,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 166401,
       "name": "misery.",
       "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
@@ -60434,7 +60434,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 235493,
       "name": "Only Girl (In The World)",
       "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
@@ -61500,7 +61500,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 156363,
       "name": "panzerknacker.wav",
       "url": "https://open.spotify.com/track/40NjASTBlqkyCZ9bPVDcMK"
@@ -68502,7 +68502,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -83682,7 +83682,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 128735,
       "name": "Verschwommen",
       "url": "https://open.spotify.com/track/1km0nSYg3uFU7ezuRbbwyL"
@@ -84416,6 +84416,24 @@
       "duration_ms": 155986,
       "name": "VON DA WO ICH KOMME",
       "url": "https://open.spotify.com/track/3uBsCp12X74MIcqTItpz3i"
+    },
+    {
+      "album": {
+        "name": "Von hier an blind",
+        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
+      },
+      "artists": [
+        {
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Von hier an blind",
+      "url": "https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU"
     },
     {
       "album": {

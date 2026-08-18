@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Eres T\u00fa",
+        "url": "https://open.spotify.com/album/3QCzmTe5ZqdamwPHdIrwBe"
+      },
+      "artists": [
+        {
+          "name": "Carmen Ferrer",
+          "url": "https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208958,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5eE6XuwOh8Y5PhQ9W0OKE5"
+    },
+    {
+      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/46dhue9XFeA6RvJUQREOb1"
       },
@@ -3440,6 +3458,24 @@
       "duration_ms": 139842,
       "name": "Me Meti En Su Juego",
       "url": "https://open.spotify.com/track/2QIvd6YjX1c4pNVGE1oiDQ"
+    },
+    {
+      "album": {
+        "name": "Me Perdiste",
+        "url": "https://open.spotify.com/album/6I4YSYqOfTf9QYpjonc4tR"
+      },
+      "artists": [
+        {
+          "name": "Carmen Ferrer",
+          "url": "https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196414,
+      "name": "Me Perdiste",
+      "url": "https://open.spotify.com/track/1cqGYfBmRlSuKdsICL6NlJ"
     },
     {
       "album": {

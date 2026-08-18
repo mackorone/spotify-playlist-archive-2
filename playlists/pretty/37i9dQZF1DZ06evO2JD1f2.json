@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13653,
+  "num_followers": 13656,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAIU3bCDHRpuRt5An5uhI0c",
+  "snapshot_id": "aoD9gAAAAACwEUhDuqPLmbwkGAeLbQDO",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death (Deluxe)",
-        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
+        "name": "My World",
+        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
       },
       "artists": [
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 156981,
-      "name": "Balloons (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
+      "duration_ms": 157354,
+      "name": "Tug of War March17",
+      "url": "https://open.spotify.com/track/5Ol3Ltzg948mZyNVSacwhx"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
+        "name": "Bigger Than Life Or Death (Deluxe)",
+        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
       "artists": [
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 157354,
-      "name": "Tug of War March17",
-      "url": "https://open.spotify.com/track/5Ol3Ltzg948mZyNVSacwhx"
+      "duration_ms": 156981,
+      "name": "Balloons (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
     },
     {
       "added_at": null,

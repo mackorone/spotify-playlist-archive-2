@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Vishwanath & Sons",
-  "num_followers": 213578,
+  "num_followers": 213666,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOyfx2joy1sVnR5o0/Kzjx9FaNvy",
+  "snapshot_id": "AAAAAAqg/5AZW2DjZXvRWhrZujlVgopQ",
   "tracks": [
     {
       "added_at": "2026-06-19 13:18:57",
@@ -283,6 +283,30 @@
       "duration_ms": 210975,
       "name": "Ayyayo Ammaadi (From \"Sigma\") (Tamil)",
       "url": "https://open.spotify.com/track/2LYWdd1UKFfBWQI5zOd47v"
+    },
+    {
+      "added_at": "2026-08-17 13:33:23",
+      "album": {
+        "name": "Aasai Varame (From \"Anbil Avan\")",
+        "url": "https://open.spotify.com/album/6BS5SUmKQpkOzGgW3chxxx"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Madrashe",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        }
+      ],
+      "duration_ms": 286200,
+      "name": "Aasai Varame - From \"Anbil Avan\"",
+      "url": "https://open.spotify.com/track/7LjXOglx1K698kPUfQfgrQ"
     },
     {
       "added_at": "2026-03-03 07:39:34",
@@ -1115,30 +1139,6 @@
       "duration_ms": 247000,
       "name": "Maaya Kanavo - From \"Nooru Sami\"",
       "url": "https://open.spotify.com/track/4VkXElhX16SRomE5YQzDeE"
-    },
-    {
-      "added_at": "2026-02-27 09:09:09",
-      "album": {
-        "name": "Uyire Uyire (From \"Mental Manadhil\")",
-        "url": "https://open.spotify.com/album/6V7r8EuWfb5PJSUrdj7xLd"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Selvaraghavan",
-          "url": "https://open.spotify.com/artist/0e2qa5GKTSaX0Q0tYVg62n"
-        }
-      ],
-      "duration_ms": 234418,
-      "name": "Uyire Uyire (From \"Mental Manadhil\")",
-      "url": "https://open.spotify.com/track/4A0m4j8tHJwkT0w0pXs6zm"
     },
     {
       "added_at": "2026-03-11 12:14:26",

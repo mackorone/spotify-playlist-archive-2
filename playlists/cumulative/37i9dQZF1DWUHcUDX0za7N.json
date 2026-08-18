@@ -14535,6 +14535,28 @@
     },
     {
       "album": {
+        "name": "Splendid (with ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
+      },
+      "artists": [
+        {
+          "name": "Osaze & Marcus",
+          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Splendid (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
+    },
+    {
+      "album": {
         "name": "Stacks",
         "url": "https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u"
       },
@@ -15558,7 +15580,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 169301,
       "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
       "url": "https://open.spotify.com/track/2OBS1RvTy6qlzwEKDzdZcW"

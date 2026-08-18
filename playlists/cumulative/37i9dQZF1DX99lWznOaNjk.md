@@ -4,7 +4,7 @@
 
 > Today's biggest and most exciting videos\. Music videos available only on Premium.
 
-79 songs - 4 hr 29 min
+80 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2026-02-06 | 2026-04-29 |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2026-02-06 |  |
 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 | 2026-06-27 |  |
-| [NOBLE](https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE \(Slowed Down\)](https://open.spotify.com/album/3MXz6kSonuMCXDZoOmNRom) | 3:05 | 2026-06-10 |  |
+| [NOBLE](https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE \(Slowed Down\)](https://open.spotify.com/album/3MXz6kSonuMCXDZoOmNRom) | 3:05 | 2026-06-10 | 2026-08-18 |
 | [NORMAL](https://open.spotify.com/track/1FnbkQ5WqapDIp0GOVufpO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL](https://open.spotify.com/album/41K5jLsbiHSIneJHTkcaar) | 3:01 | 2026-07-21 |  |
 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2026-06-10 |  |
 | [Opalite](https://open.spotify.com/track/3cWbxSR8DZS4Zu8cGwYlPT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Opalite](https://open.spotify.com/album/3QFoWoSKxCdj8Ad28kstOp) | 5:59 | 2026-02-06 | 2026-06-10 |
@@ -76,6 +76,7 @@
 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 | 2026-06-10 | 2026-06-28 |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-02-24 |  |
 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 | 2026-06-12 |  |
+| [Sue me](https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:50 | 2026-08-17 |  |
 | [Sugar On My Tongue](https://open.spotify.com/track/5NUHcOdBIhbq9K2ksWEjhh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Sugar On My Tongue](https://open.spotify.com/album/7vqUPziG3E5XenIIiRoJvQ) | 2:44 | 2026-02-06 | 2026-03-21 |
 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-20 | 2026-06-10 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2026-02-06 | 2026-04-29 |

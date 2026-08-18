@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,368 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,380 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,23 +23,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 13 | [I'll Look Around](https://open.spotify.com/track/1wAURZCIA0k5RNwaJN3dH3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:15 |
 | 14 | [Stormy Weather](https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 3:41 |
 | 15 | [Moonglow](https://open.spotify.com/track/1rUpHU45dBawthkWVugcQn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 |
-| 16 | [Autumn In New York](https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 3:44 |
-| 17 | [Crazy He Calls Me](https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 3:05 |
+| 16 | [Crazy He Calls Me](https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 3:05 |
+| 17 | [Autumn In New York](https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 3:44 |
 | 18 | [On The Sunny Side Of The Street](https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 2:59 |
-| 19 | [Easy To Love](https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 |
-| 20 | [Love Is Here To Stay](https://open.spotify.com/track/1OO3dnVkQTe3gQM1ItasyR) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 3:42 |
+| 19 | [Love Is Here To Stay](https://open.spotify.com/track/1OO3dnVkQTe3gQM1ItasyR) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 3:42 |
+| 20 | [Easy To Love](https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 |
 | 21 | [When You're Smiling \(The Whole World Smiles with You\) \(with Teddy Wilson & His Orchestra\) \- Take 3](https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 2:49 |
 | 22 | [Easy Living](https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 3:01 |
-| 23 | [How Deep Is The Ocean?](https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:59 |
-| 24 | [Do Nothin' Till You Hear From Me \- 1956 Version](https://open.spotify.com/track/2b27XKoKxVf2OpoSPnJilL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 4:15 |
+| 23 | [Do Nothin' Till You Hear From Me \- 1956 Version](https://open.spotify.com/track/2b27XKoKxVf2OpoSPnJilL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 4:15 |
+| 24 | [How Deep Is The Ocean?](https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:59 |
 | 25 | [Too Marvelous For Words](https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 2:12 |
 | 26 | [I'm a Fool to Want You](https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:25 |
 | 27 | [You Turned The Tables On Me](https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:26 |
 | 28 | [It Had To Be You](https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Music For Torching](https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY) | 4:03 |
 | 29 | [I Must Have That Man!](https://open.spotify.com/track/00V6rYQ0nyE5KOLDMAlloC) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:03 |
 | 30 | [The Way You Look Tonight \(with Teddy Wilson & His Orchestra\) \- Take 2](https://open.spotify.com/track/7Ma4ykGEYiOofyWiR6tfEG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Lady Day: The Complete Billie Holiday On Columbia \- Vol\. 2](https://open.spotify.com/album/61OLLuUN2R0ZO24IrS3W2T) | 3:00 |
-| 31 | [Fine And Mellow](https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:16 |
-| 32 | [Good Morning Heartache](https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:08 |
+| 31 | [Good Morning Heartache](https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:08 |
+| 32 | [Fine And Mellow](https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:16 |
 | 33 | [Come Rain Or Come Shine](https://open.spotify.com/track/20lPX0g0lacr7c72M8A0OR) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Music For Torching](https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY) | 4:24 |
 | 34 | [This Year's Kisses \(with Teddy Wilson & His Orchestra\)](https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 3:07 |
 | 35 | [Body And Soul](https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Body and Soul](https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3) | 6:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 49 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 |
 | 50 | [East Of The Sun \(West Of The Moon\)](https://open.spotify.com/track/1zE0JZiHOBPlHwLsf4wBld) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 |
 
-Snapshot ID: `an+sAAAAAACJdvxEdxqsjh7uWUuFc/3R`
+Snapshot ID: `aoD9gAAAAABOxXOv0ln6uB7ZdviYO1CR`

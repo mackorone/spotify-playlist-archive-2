@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 2410,
+  "num_followers": 2411,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 228734,
-      "name": "Interior - Edit",
-      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Good Lies",
         "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 312029,
       "name": "Skulled",
       "url": "https://open.spotify.com/track/74zH3oGg6qcrm58X7Q1cjw"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 228734,
+      "name": "Interior - Edit",
+      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Ante",
+        "url": "https://open.spotify.com/album/0luWrdUTM961z0xjXPgJm7"
+      },
+      "artists": [
+        {
+          "name": "Cousin",
+          "url": "https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q"
+        }
+      ],
+      "duration_ms": 260168,
+      "name": "Ante",
+      "url": "https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Call of the Whipbird",
         "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
       },
@@ -271,18 +287,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Ante",
-        "url": "https://open.spotify.com/album/0luWrdUTM961z0xjXPgJm7"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
       },
       "artists": [
         {
-          "name": "Cousin",
-          "url": "https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q"
+          "name": "Nice Girl",
+          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
         }
       ],
-      "duration_ms": 260168,
-      "name": "Ante",
-      "url": "https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT"
+      "duration_ms": 270271,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -307,18 +323,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
+        "name": "I Want an Earth",
+        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
       },
       "artists": [
         {
-          "name": "Nice Girl",
-          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
         }
       ],
-      "duration_ms": 270271,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
+      "duration_ms": 362626,
+      "name": "I Want an Earth",
+      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -339,22 +355,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "I Want an Earth",
-        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
-      },
-      "artists": [
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
-        }
-      ],
-      "duration_ms": 362626,
-      "name": "I Want an Earth",
-      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Whatever Happens, Happens",
         "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
       },
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 308623,
-      "name": "by the reservoir",
-      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "RUSH (Blush)",
         "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 242545,
       "name": "RUSH (Blush)",
       "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 308623,
+      "name": "by the reservoir",
+      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Halcyon (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
-      },
-      "artists": [
-        {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Push Power ( a 1 )",
         "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
       },
@@ -671,22 +655,6 @@
       "duration_ms": 249261,
       "name": "Push Power ( a 1 )",
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Blue Spring",
-        "url": "https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -707,18 +675,34 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "ENCLOSURE",
-        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+        "name": "Blue Spring",
+        "url": "https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35"
       },
       "artists": [
         {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         }
       ],
-      "duration_ms": 259805,
-      "name": "ENCLOSURE",
-      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
+      "duration_ms": 203493,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -735,6 +719,22 @@
       "duration_ms": 314504,
       "name": "Minoxidil Life crisis",
       "url": "https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "ENCLOSURE",
+        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 259805,
+      "name": "ENCLOSURE",
+      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Jesper",
-        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Jesper",
-      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "'I Wanted More' EP",
         "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5"
+        "name": "Jesper",
+        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
       },
       "artists": [
         {
-          "name": "Polito",
-          "url": "https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO"
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
         }
       ],
-      "duration_ms": 220743,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC"
+      "duration_ms": 261333,
+      "name": "Jesper",
+      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "BOY / if u wanna cry",
+        "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "duration_ms": 183204,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
     }
   ],
   "unique_name": "Night Shift",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: beabadoobee",
+  "description": "Nieuwe alternative & rock releases. Cover: Royal Blood",
   "name": "New Alternative",
   "tracks": [
     {
@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/7BnlbgZHEuZJ7LwgzPMDfB"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efr Faria",
+          "url": "https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "August",
+      "url": "https://open.spotify.com/track/0tyEv1QWVG3be1geQDqkD0"
+    },
+    {
+      "album": {
         "name": "AUTONOMY",
         "url": "https://open.spotify.com/album/31NLkXt7yqS8Ugi7DvkxQm"
       },
@@ -1148,6 +1166,24 @@
       "duration_ms": 166730,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV"
+    },
+    {
+      "album": {
+        "name": "Baby Kool (Evelyn)",
+        "url": "https://open.spotify.com/album/5FiEKdAi2sTPyyLAB3B4JJ"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224199,
+      "name": "Baby Kool (Evelyn)",
+      "url": "https://open.spotify.com/track/2uPY68Mxt9CqEc7i3o4BTy"
     },
     {
       "album": {
@@ -1566,7 +1602,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 179396,
       "name": "Big Dog",
       "url": "https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX"
@@ -1624,6 +1660,24 @@
       "duration_ms": 158760,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/47x33fckrWvLk82Hc4cJfK"
+    },
+    {
+      "album": {
+        "name": "Big Strong Man",
+        "url": "https://open.spotify.com/album/2KLdQb39rhE54nb7Razscv"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229682,
+      "name": "Big Strong Man",
+      "url": "https://open.spotify.com/track/0dIqX63wlCNs47iwUOq0G3"
     },
     {
       "album": {
@@ -2096,7 +2150,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 213794,
       "name": "Call It In",
       "url": "https://open.spotify.com/track/6g5oAr4QtYRYOdWUihyiK4"
@@ -4894,7 +4948,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 208780,
       "name": "forget me",
       "url": "https://open.spotify.com/track/4NiS0gmFzaou8wBy9AnxeE"
@@ -5238,6 +5292,24 @@
       "duration_ms": 168838,
       "name": "GHOST TOWN",
       "url": "https://open.spotify.com/track/6Wxj4f1gCgclhSCgyJWgB5"
+    },
+    {
+      "album": {
+        "name": "Ghostly Mourning Man",
+        "url": "https://open.spotify.com/album/6dFmM8WzoK7HrZ1GiszMIZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Ghostly Mourning Man",
+      "url": "https://open.spotify.com/track/1pRMk3zJ1OGc1WEvNO2CoR"
     },
     {
       "album": {
@@ -5605,6 +5677,24 @@
     },
     {
       "album": {
+        "name": "The Veil",
+        "url": "https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9"
+      },
+      "artists": [
+        {
+          "name": "Gliiico",
+          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145266,
+      "name": "Gut",
+      "url": "https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl"
+    },
+    {
+      "album": {
         "name": "H.Y",
         "url": "https://open.spotify.com/album/1fuBJlgtkvc97Bp4QGZTP7"
       },
@@ -5706,7 +5796,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 212538,
       "name": "Hanging Out To Dry",
       "url": "https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8"
@@ -6192,7 +6282,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 333800,
       "name": "Hold Me (Mantra)",
       "url": "https://open.spotify.com/track/4531KTSpDcgxSWksAYKQhg"
@@ -9781,6 +9871,24 @@
     },
     {
       "album": {
+        "name": "New Kind Of Shame",
+        "url": "https://open.spotify.com/album/5jrHKf65WuE6zg3AAx3nma"
+      },
+      "artists": [
+        {
+          "name": "Apeshit",
+          "url": "https://open.spotify.com/artist/60idytqipfbGaZr3u2a0QG"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206733,
+      "name": "New Kind Of Shame",
+      "url": "https://open.spotify.com/track/3vaVzX1UEj5hvIuy79YjN9"
+    },
+    {
+      "album": {
         "name": "New To Me",
         "url": "https://open.spotify.com/album/13Q3tr5LwSC5w8sqoXX51K"
       },
@@ -10113,6 +10221,42 @@
     },
     {
       "album": {
+        "name": "NOTHING BETTER THAN THIS",
+        "url": "https://open.spotify.com/album/78D6ZKU4ejLoZF7ghxaqTP"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158243,
+      "name": "NOTHING BETTER THAN THIS",
+      "url": "https://open.spotify.com/track/2TjPB2mMfxORhUkJYJ9rj8"
+    },
+    {
+      "album": {
+        "name": "Nothing Happens Twice",
+        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222395,
+      "name": "Nothing Happens Twice",
+      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
+    },
+    {
+      "album": {
         "name": "Nothing On Me",
         "url": "https://open.spotify.com/album/603CwAyUDL1CurqYiYltjM"
       },
@@ -10250,7 +10394,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 160517,
       "name": "okaydokay_",
       "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
@@ -10308,6 +10452,24 @@
       "duration_ms": 151030,
       "name": "ON AND ON (Song for Jasmin)",
       "url": "https://open.spotify.com/track/2PBRGvWLBnC1qyvcdT0jwq"
+    },
+    {
+      "album": {
+        "name": "On My Back",
+        "url": "https://open.spotify.com/album/7j9BRQYAJ9OkYSgAyczAHo"
+      },
+      "artists": [
+        {
+          "name": "Triggerfinger",
+          "url": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238006,
+      "name": "On My Back",
+      "url": "https://open.spotify.com/track/5e8sYEzj9q5wswFCSW2z6p"
     },
     {
       "album": {
@@ -10614,7 +10776,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 178648,
       "name": "Out of Context",
       "url": "https://open.spotify.com/track/5fJTo2ubmucz5Q5A981p3o"
@@ -11136,7 +11298,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 202056,
       "name": "Punch Drunk Love",
       "url": "https://open.spotify.com/track/4Wjkr8CJNktlfHz3iA2Dwu"
@@ -11522,7 +11684,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 272878,
       "name": "Ride Lonesome",
       "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
@@ -13481,6 +13643,24 @@
     },
     {
       "album": {
+        "name": "Sweet Devotion",
+        "url": "https://open.spotify.com/album/3FrGuGvVyXcdj92kxZc5Pg"
+      },
+      "artists": [
+        {
+          "name": "Queen of Jeans",
+          "url": "https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188207,
+      "name": "Sweet Devotion",
+      "url": "https://open.spotify.com/track/0uc65AORg4dIHJknwx4hAV"
+    },
+    {
+      "album": {
         "name": "Sweet Fame",
         "url": "https://open.spotify.com/album/3XAtF4x4O83uJGnDOaBjBN"
       },
@@ -13914,6 +14094,24 @@
       "duration_ms": 194917,
       "name": "TELL THE KIDS IT'S ALRIGHT",
       "url": "https://open.spotify.com/track/6rpNv2vLGet7q5p0Ct0imO"
+    },
+    {
+      "album": {
+        "name": "Ten Over Ten",
+        "url": "https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197323,
+      "name": "Ten Over Ten",
+      "url": "https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m"
     },
     {
       "album": {
@@ -14492,7 +14690,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 351536,
       "name": "The Payoff",
       "url": "https://open.spotify.com/track/3jPynNG4zK7VbbWrnbQYib"
@@ -15367,6 +15565,24 @@
     },
     {
       "album": {
+        "name": "Tyres Skid",
+        "url": "https://open.spotify.com/album/4ZjX4tXzkJzDv7dUlQ32tn"
+      },
+      "artists": [
+        {
+          "name": "Personal Trainer",
+          "url": "https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223106,
+      "name": "Tyres Skid",
+      "url": "https://open.spotify.com/track/7pDiItQYf77e1vuum6S4e3"
+    },
+    {
+      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
       },
@@ -15760,7 +15976,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 284298,
       "name": "wake up",
       "url": "https://open.spotify.com/track/4Gfc7k9NB7Sq6aiZuXvlie"
@@ -16286,7 +16502,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 217373,
       "name": "Window",
       "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"

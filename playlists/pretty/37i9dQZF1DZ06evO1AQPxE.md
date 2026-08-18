@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,783 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,777 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [GHOST](https://open.spotify.com/track/6ki0Gavv009DU2nBvtzzjb) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/25Hk9EaZCYzWpIABUIKrz2) | 2:20 |
 | 50 | [Tap In \(feat\. Post Malone, DaBaby & Jack Harlow\)](https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tap In \(feat\. Post Malone, DaBaby & Jack Harlow\)](https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft) | 4:13 |
 
-Snapshot ID: `an+sAAAAAABOpTNY3CU2F7GcAk9XhOGh`
+Snapshot ID: `aoD9gAAAAABsAuTImCBdRTFNOCb9iwdf`

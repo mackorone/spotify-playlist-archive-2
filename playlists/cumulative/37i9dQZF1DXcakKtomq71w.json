@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Alterego (Deluxe)",
+        "url": "https://open.spotify.com/album/6jOdwUUp5v7JGEr8IhbMMJ"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177786,
+      "name": "Benjam\u00edn Carri\u00f3n",
+      "url": "https://open.spotify.com/track/0Iiz1SRKpK99qdUvPiiVgu"
+    },
+    {
+      "album": {
         "name": "Benjam\u00edn Carri\u00f3n",
         "url": "https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k"
       },
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 143385,
       "name": "Boogaloo",
       "url": "https://open.spotify.com/track/0eYpLugRO6whWHj9NrJo4G"
@@ -1411,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "Late Night Questions",
+        "url": "https://open.spotify.com/album/5g13SavDTz7Ygya0YF96e2"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/34ZT3gHdqrJAcl9MxsyZoK"
+    },
+    {
+      "album": {
         "name": "Dub kantine EP",
         "url": "https://open.spotify.com/album/1jmVe0TmBy5dJPFk0HD30n"
       },
@@ -1514,6 +1550,32 @@
       "duration_ms": 432792,
       "name": "Caracas Way",
       "url": "https://open.spotify.com/track/0MBNwxvakbag0EI1QJJVt3"
+    },
+    {
+      "album": {
+        "name": "Catch & Release (Bren Lock Remix)",
+        "url": "https://open.spotify.com/album/11X5TPl2tlXATkKM4rl1KV"
+      },
+      "artists": [
+        {
+          "name": "UOAK",
+          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
+        },
+        {
+          "name": "Can Aydin",
+          "url": "https://open.spotify.com/artist/1cHZ6ItejgYOQwmHHcKBQl"
+        },
+        {
+          "name": "Bren Lock",
+          "url": "https://open.spotify.com/artist/6WXUodSXGrrJ07pBQFyvwt"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262735,
+      "name": "Catch & Release - Bren Lock Remix",
+      "url": "https://open.spotify.com/track/2Ro69RfCfng4Ivyr7lwlos"
     },
     {
       "album": {
@@ -1719,6 +1781,32 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3UFSz2Y1CXg9QskndC7Ep7"
+      },
+      "artists": [
+        {
+          "name": "D.J.S.",
+          "url": "https://open.spotify.com/artist/3tbuFxkU3aZ2pH8n6Z5M6o"
+        },
+        {
+          "name": "Jay Fase",
+          "url": "https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd"
+        },
+        {
+          "name": "Dymos & Shizzo",
+          "url": "https://open.spotify.com/artist/7owJmPvRxNxReTkZV4s40k"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201355,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3sp3iWWeTYNCN0at7qtW74"
+    },
+    {
+      "album": {
         "name": "Compasi\u00f3n",
         "url": "https://open.spotify.com/album/3i1Q855IcPJMP0S610TQ0D"
       },
@@ -1866,7 +1954,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 255609,
       "name": "Dame M\u00e1s",
       "url": "https://open.spotify.com/track/5mCt7RDTgqxPMZs1E8ZepY"
@@ -1910,6 +1998,32 @@
       "duration_ms": 196957,
       "name": "Danza Organica - Musumeci Remix Hot Version",
       "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
+    },
+    {
+      "album": {
+        "name": "Darkest Nights (andhim Remix)",
+        "url": "https://open.spotify.com/album/63zVgMTLTUMcTQD6RPFHjf"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Clemente",
+          "url": "https://open.spotify.com/artist/6Fd984bTk8JnpVROSaUbhn"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285268,
+      "name": "Darkest Nights - andhim Remix",
+      "url": "https://open.spotify.com/track/04fUL4OB03Zr8HD6zX1jef"
     },
     {
       "album": {
@@ -3007,6 +3121,32 @@
     },
     {
       "album": {
+        "name": "Firme Forte e Fiel",
+        "url": "https://open.spotify.com/album/0fYFC3erF1QvqIRtFz1zgu"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
+        },
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226467,
+      "name": "Firme Forte e Fiel",
+      "url": "https://open.spotify.com/track/7gjdw7zbEnF9gdlpl1IKxO"
+    },
+    {
+      "album": {
         "name": "Temple Of Dreams",
         "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
       },
@@ -3029,6 +3169,28 @@
     },
     {
       "album": {
+        "name": "Flotando",
+        "url": "https://open.spotify.com/album/2Cf1aTm4Lq8W5Gus37qAsA"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235795,
+      "name": "Flotando",
+      "url": "https://open.spotify.com/track/58MWnFm9Hm6h84hh3bZz1E"
+    },
+    {
+      "album": {
         "name": "Flying Away With You Remixes",
         "url": "https://open.spotify.com/album/4Wt02ELW10Qyj9OkWMjL6q"
       },
@@ -3048,7 +3210,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 272640,
       "name": "Flying Away With You - Notre Dame Remix",
       "url": "https://open.spotify.com/track/7pr3sX0AR5UazQ23qexRG5"
@@ -3110,6 +3272,24 @@
       "duration_ms": 446557,
       "name": "Fugitivo",
       "url": "https://open.spotify.com/track/7LW8l60uYQeauWg1G39sdH"
+    },
+    {
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/1FNDBQA8vCw775bm5BrVLb"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/5EJ6xAvHPJmPqmgxDzIEwK"
     },
     {
       "album": {
@@ -3585,6 +3765,28 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/5gPQStZ112bHjLB4Gx4JFj"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Kingstarlight",
+          "url": "https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196096,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1gp6J1CXS73DDYmSop5UfS"
+    },
+    {
+      "album": {
         "name": "Hustla",
         "url": "https://open.spotify.com/album/4oofnyX49L9k555nOKILFI"
       },
@@ -3630,6 +3832,32 @@
       "duration_ms": 209512,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/505V8I63QiIHDkpjHHBnUd"
+    },
+    {
+      "album": {
+        "name": "I Cared For You (Remixes)",
+        "url": "https://open.spotify.com/album/6q4c7paWmSehuZgYCuL1PG"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Noah Kulaga",
+          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270476,
+      "name": "I Cared For You",
+      "url": "https://open.spotify.com/track/2c2KtRKoFja6BvY9f4QV3s"
     },
     {
       "album": {
@@ -4030,7 +4258,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 310375,
       "name": "Kozi Kozi - Original mix",
       "url": "https://open.spotify.com/track/4uykMvvKED73e2Pi1YZB7L"
@@ -4470,7 +4698,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 210440,
       "name": "Loca",
       "url": "https://open.spotify.com/track/5ORpO8cp3xWPfAwvICnFe0"
@@ -4662,7 +4890,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 194758,
       "name": "Mala",
       "url": "https://open.spotify.com/track/2LTDoJXKif735jmUZwafPH"
@@ -5012,7 +5240,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 168276,
       "name": "Mi Pena - AM\u00c9M\u00c9 Remix",
       "url": "https://open.spotify.com/track/6iICF4b8n2gV78lijHoCdT"
@@ -5118,7 +5346,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 404083,
       "name": "Money Power",
       "url": "https://open.spotify.com/track/5AMI6GaE2bhnHAc0eKH8CD"
@@ -7234,7 +7462,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 256475,
       "name": "Si Vas Al mar",
       "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
@@ -7380,7 +7608,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 351219,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/1ujnqItR6qmrowmlBucSLQ"
@@ -7737,6 +7965,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3o5xa0ZxSugbMwbQvihRr7"
+      },
+      "artists": [
+        {
+          "name": "LYRONIQ",
+          "url": "https://open.spotify.com/artist/6noBW2v07LyKq1DU0KNqhA"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4EntXHsQVElqb7eo6WAa13"
+    },
+    {
+      "album": {
         "name": "TERRITORY (SOMMA REMIX)",
         "url": "https://open.spotify.com/album/0iRdy6JJlVlZ52ZUXodKpA"
       },
@@ -7770,7 +8016,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 297968,
       "name": "Tete Ete",
       "url": "https://open.spotify.com/track/63qYpGi0f1GVEzCcH5bgh4"
@@ -8019,6 +8265,24 @@
     },
     {
       "album": {
+        "name": "This Way",
+        "url": "https://open.spotify.com/album/5Hk0B43vjBA4YyJuItpmQd"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281379,
+      "name": "This Way",
+      "url": "https://open.spotify.com/track/5DjKYHA5HKdwJylVBPprQU"
+    },
+    {
+      "album": {
         "name": "Temple Of Dreams",
         "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
       },
@@ -8074,6 +8338,24 @@
       "duration_ms": 349850,
       "name": "Togetha",
       "url": "https://open.spotify.com/track/6WG7oKgwft5KdqBdQ4CViq"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Happens",
+        "url": "https://open.spotify.com/album/27Ks82pViH0M4IeLXEFmbn"
+      },
+      "artists": [
+        {
+          "name": "Ewerseen",
+          "url": "https://open.spotify.com/artist/23BaLIAqxy7EayKqACLKPG"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209254,
+      "name": "Tomorrow Never Happens",
+      "url": "https://open.spotify.com/track/79TPVv7xzE0vZZuHvrme1n"
     },
     {
       "album": {
@@ -8266,7 +8548,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 254000,
       "name": "Tu Vera - FNX OMAR Remix",
       "url": "https://open.spotify.com/track/1XMJnJourAHufAzJdmV9Bs"
@@ -8474,6 +8756,28 @@
       "duration_ms": 420000,
       "name": "Una Vida",
       "url": "https://open.spotify.com/track/1mOICLQ9wAw069fKRhnvQ6"
+    },
+    {
+      "album": {
+        "name": "Unconditional (Xinobi Remix)",
+        "url": "https://open.spotify.com/album/7y7K9C6OsKluOGCzBMv2tK"
+      },
+      "artists": [
+        {
+          "name": "Sainte Vie",
+          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242926,
+      "name": "Unconditional - Xinobi Remix",
+      "url": "https://open.spotify.com/track/5m4mnJ1lot8geJyIDHp2Ld"
     },
     {
       "album": {
@@ -9154,7 +9458,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 443346,
       "name": "Y Que Tengo - Joeski Remix",
       "url": "https://open.spotify.com/track/0hnaEoTFfiyTT6Q6Dz55wM"
@@ -9172,7 +9476,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 307972,
       "name": "Yali",
       "url": "https://open.spotify.com/track/0tUy2htwSX9x7Q44RLsare"

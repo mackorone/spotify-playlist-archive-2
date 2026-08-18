@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,681 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,717 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 36 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 |
 | 37 | [Backwards](https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:44 |
 | 38 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 2:58 |
-| 39 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
-| 40 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
+| 39 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
+| 40 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
 | 41 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 |
 | 42 | [Don't Watch Me Cry](https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:10 |
 | 43 | [Home](https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 2:46 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 45 | [By Any Means](https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [By Any Means](https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ) | 3:45 |
 | 46 | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 |
 | 47 | [Down For You](https://open.spotify.com/track/5hKjvZFDOkBcJgeT7bF61A) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Infinite](https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3) | 3:40 |
-| 48 | [Nice Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/7IWJTrZvS11K1ziaS3JvYT) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:34 |
-| 49 | [On My Mind \(acoustic\)](https://open.spotify.com/track/4ktAIutrCjL3oD9rR1aEWU) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [On My Mind \(acoustic\)](https://open.spotify.com/album/2Ux9Grnth3hkFGnMnfOwau) | 2:56 |
+| 48 | [On My Mind \(acoustic\)](https://open.spotify.com/track/4ktAIutrCjL3oD9rR1aEWU) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [On My Mind \(acoustic\)](https://open.spotify.com/album/2Ux9Grnth3hkFGnMnfOwau) | 2:56 |
+| 49 | [Nice Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/7IWJTrZvS11K1ziaS3JvYT) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:34 |
 | 50 | [Reason in Disguise](https://open.spotify.com/track/0ebJuVgQ6VoS1mc7b713J2) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [You Can't Steal My Joy](https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl) | 3:41 |
 
-Snapshot ID: `an+sAAAAAAAP18xnJvT0G+5t5mVtX0hT`
+Snapshot ID: `aoD9gAAAAAAtIsR/qIScPjp8xOuREZ5z`

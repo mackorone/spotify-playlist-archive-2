@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,057 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,190 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 47 | [Can I Get an Outlaw](https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:58 |
 | 48 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 2:57 |
 
-Snapshot ID: `an+sAAAAAAAFOgW01ogOY4lM3zNKd3k3`
+Snapshot ID: `aoD9gAAAAAALukXTBGZYO2rYgEH1tg6i`

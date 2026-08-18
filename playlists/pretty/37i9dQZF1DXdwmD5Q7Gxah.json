@@ -1,12 +1,12 @@
 {
   "description": "art takes time, six long years worth the wait. Phoebe Bridgers on the cover. <a href=\"https://loremandfriends.substack.com/p/millennial-optimism-we-missed-you\">(p.s. read our substack!)</a>   ",
-  "num_followers": 1184922,
+  "num_followers": 1184910,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANhQBTwzd9wKpOyBshUDN8tThp3Y",
+  "snapshot_id": "AAAAAPP3wrClf5IBF73DaBj4+nJuBZ2+",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:40",
@@ -93,22 +93,6 @@
       "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
     },
     {
-      "added_at": "2026-08-10 19:16:49",
-      "album": {
-        "name": "C,XOXO (Magic City Edition)",
-        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "B.O.A.T.",
-      "url": "https://open.spotify.com/track/1jrW4fPx5gavi8sw9QlnS6"
-    },
-    {
       "added_at": "2026-08-14 04:01:40",
       "album": {
         "name": "Now I've Got A Lot You Know",
@@ -123,6 +107,22 @@
       "duration_ms": 310596,
       "name": "Now I've Got A Lot You Know",
       "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
+    },
+    {
+      "added_at": "2026-08-10 19:16:49",
+      "album": {
+        "name": "C,XOXO (Magic City Edition)",
+        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "B.O.A.T.",
+      "url": "https://open.spotify.com/track/1jrW4fPx5gavi8sw9QlnS6"
     },
     {
       "added_at": "2026-08-07 04:02:01",
@@ -157,6 +157,22 @@
       "url": "https://open.spotify.com/track/5gVu2dpIYNh64WzlqthDyr"
     },
     {
+      "added_at": "2026-08-17 22:27:19",
+      "album": {
+        "name": "Fell Asleep in the Sun",
+        "url": "https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Fell Asleep in the Sun",
+      "url": "https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp"
+    },
+    {
       "added_at": "2026-08-14 04:01:40",
       "album": {
         "name": "Lost Weekend",
@@ -171,6 +187,22 @@
       "duration_ms": 239007,
       "name": "Bobby",
       "url": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
+    },
+    {
+      "added_at": "2026-07-31 04:02:08",
+      "album": {
+        "name": "Crab",
+        "url": "https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Crab",
+      "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
     },
     {
       "added_at": "2026-08-07 04:02:01",
@@ -191,6 +223,22 @@
       "duration_ms": 135306,
       "name": "The World Keeps Spinning",
       "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
+    },
+    {
+      "added_at": "2026-08-14 04:01:40",
+      "album": {
+        "name": "Tails",
+        "url": "https://open.spotify.com/album/0uihj4MTBA9uH6QtWaorS0"
+      },
+      "artists": [
+        {
+          "name": "Alann8h",
+          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
+        }
+      ],
+      "duration_ms": 244615,
+      "name": "Tails",
+      "url": "https://open.spotify.com/track/2Mx3rxRrUuZQjYGyZgQTPR"
     },
     {
       "added_at": "2026-07-31 04:02:08",
@@ -225,20 +273,24 @@
       "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
     },
     {
-      "added_at": "2026-08-14 04:01:40",
+      "added_at": "2026-08-17 22:27:19",
       "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+        "name": "Pain is the Heart of Love",
+        "url": "https://open.spotify.com/album/50AYDE2EHtdousV5nZ4S17"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        },
+        {
+          "name": "Paul Buchanan",
+          "url": "https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7"
         }
       ],
-      "duration_ms": 236205,
-      "name": "Still Standing",
-      "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
+      "duration_ms": 245626,
+      "name": "Pain is the Heart of Love",
+      "url": "https://open.spotify.com/track/16aCAD1wmZL2slFfxT7zs2"
     },
     {
       "added_at": "2026-08-07 04:02:01",
@@ -287,38 +339,6 @@
       "duration_ms": 238505,
       "name": "brand new chanel$",
       "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
-    },
-    {
-      "added_at": "2026-07-31 04:02:08",
-      "album": {
-        "name": "Crab",
-        "url": "https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B"
-      },
-      "artists": [
-        {
-          "name": "Pool Girl",
-          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
-        }
-      ],
-      "duration_ms": 195577,
-      "name": "Crab",
-      "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
-    },
-    {
-      "added_at": "2026-08-14 04:01:40",
-      "album": {
-        "name": "Tails",
-        "url": "https://open.spotify.com/album/0uihj4MTBA9uH6QtWaorS0"
-      },
-      "artists": [
-        {
-          "name": "Alann8h",
-          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
-        }
-      ],
-      "duration_ms": 244615,
-      "name": "Tails",
-      "url": "https://open.spotify.com/track/2Mx3rxRrUuZQjYGyZgQTPR"
     },
     {
       "added_at": "2026-08-07 04:02:01",

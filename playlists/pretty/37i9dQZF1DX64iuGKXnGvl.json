@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 251998,
+  "num_followers": 252116,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
-        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
+        "name": "Rocanrol Bumerang",
+        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
       },
       "artists": [
         {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
         }
       ],
-      "duration_ms": 190564,
-      "name": "Sera Porque Te Amo",
-      "url": "https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F"
+      "duration_ms": 224826,
+      "name": "Santa Lucia - Remastered 2005",
+      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Rocanrol Bumerang",
-        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
+        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
+        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
       },
       "artists": [
         {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Santa Lucia - Remastered 2005",
-      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
+      "duration_ms": 190564,
+      "name": "Sera Porque Te Amo",
+      "url": "https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "20 Millas",
-        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "T\u00edmido",
-      "url": "https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "Bravo Bos\u00e9 - 30 Grandes Exitos",
         "url": "https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 263173,
       "name": "Amante Bandido",
       "url": "https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "20 Millas",
+        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "T\u00edmido",
+      "url": "https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "En El Boulevard (Corre, Corre)",
-      "url": "https://open.spotify.com/track/6Uxus4vvORyWbkEdHxAYEj"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 241733,
       "name": "No Huyas de Mi",
       "url": "https://open.spotify.com/track/4Zt2Sl24XNWTMOUhJNDwdx"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "En El Boulevard (Corre, Corre)",
+      "url": "https://open.spotify.com/track/6Uxus4vvORyWbkEdHxAYEj"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Flans",
-        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "No Controles",
-      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "!Volare! The Very Best of the Gipsy Kings",
         "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 203173,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/4EveU9Zb50mjgi5avDNqlK"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "No Controles",
+      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
     },
     {
       "added_at": "2024-06-12 20:35:23",

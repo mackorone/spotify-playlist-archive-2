@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,762 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,866 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 58 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
 | 59 | [Ghosts](https://open.spotify.com/track/33QpFUeut0hAVQ8dqhwsCM) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Homecoming](https://open.spotify.com/album/2vrDdwbqzL9edJ53azSCn6) | 1:53 |
 | 60 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
-| 61 | [OMENS](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [OMENS](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
-| 62 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 |
+| 61 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 |
+| 62 | [OMENS](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [OMENS](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
 | 63 | [Sacrifice](https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Sacrifice](https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN) | 2:47 |
 | 64 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 |
 | 65 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 89 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 |
 | 90 | [Give Blood](https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Give Blood](https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv) | 4:22 |
 | 91 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
-| 92 | [Surrender](https://open.spotify.com/track/5gcuhVVuh0BFDJo5m62HJ0) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Surrender](https://open.spotify.com/album/4kGdD69S719G72vgoRxUEl) | 3:36 |
-| 93 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
+| 92 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
+| 93 | [Surrender](https://open.spotify.com/track/5gcuhVVuh0BFDJo5m62HJ0) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Surrender](https://open.spotify.com/album/4kGdD69S719G72vgoRxUEl) | 3:36 |
 | 94 | [Closer](https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 6:13 |
 | 95 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
 | 96 | [THE DRAIN](https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3) | [THE DRAIN](https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz) | 3:45 |

@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112754,
+  "num_followers": 112791,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "Man\u2019s Best Friend (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 232378,
-      "name": "Such A Funny Way",
-      "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
-    },
-    {
-      "added_at": "2026-08-14 07:39:41",
-      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "added_at": "2026-08-14 07:39:41",
+      "album": {
+        "name": "Man\u2019s Best Friend (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 232378,
+      "name": "Such A Funny Way",
+      "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "added_at": "2026-08-14 07:39:41",
+      "album": {
         "name": "Privacy",
         "url": "https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 194656,
       "name": "Privacy",
       "url": "https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY"
-    },
-    {
-      "added_at": "2026-08-14 07:39:41",
-      "album": {
-        "name": "Big Disgrace",
-        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 187658,
-      "name": "Shy Girl",
-      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+        "name": "Bez ko\u0144ca",
+        "url": "https://open.spotify.com/album/1j0BJwMQ93VjRqerPUfV5e"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
         }
       ],
-      "duration_ms": 237952,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
+      "duration_ms": 155076,
+      "name": "Bez ko\u0144ca",
+      "url": "https://open.spotify.com/track/65EGTb29Squ7K3HHh3sKi8"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -735,18 +735,34 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "Bez ko\u0144ca",
-        "url": "https://open.spotify.com/album/1j0BJwMQ93VjRqerPUfV5e"
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
       },
       "artists": [
         {
-          "name": "Oskar Cyms",
-          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Bez ko\u0144ca",
-      "url": "https://open.spotify.com/track/65EGTb29Squ7K3HHh3sKi8"
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
+    },
+    {
+      "added_at": "2026-08-14 07:39:41",
+      "album": {
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -771,18 +787,18 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "Wracam",
-        "url": "https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR"
+        "name": "Szkic i kontury",
+        "url": "https://open.spotify.com/album/55Uor5uEjfvg4XaGmelGrv"
       },
       "artists": [
         {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
         }
       ],
-      "duration_ms": 185880,
-      "name": "Wracam",
-      "url": "https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB"
+      "duration_ms": 197647,
+      "name": "Zabierz mnie",
+      "url": "https://open.spotify.com/track/3l4SiHIrsbFqVW1xjWZk6W"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -815,22 +831,6 @@
       "duration_ms": 175364,
       "name": "Gotham",
       "url": "https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe"
-    },
-    {
-      "added_at": "2026-08-14 07:39:41",
-      "album": {
-        "name": "Szkic i kontury",
-        "url": "https://open.spotify.com/album/55Uor5uEjfvg4XaGmelGrv"
-      },
-      "artists": [
-        {
-          "name": "Oskar Cyms",
-          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Zabierz mnie",
-      "url": "https://open.spotify.com/track/3l4SiHIrsbFqVW1xjWZk6W"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
+        "name": "Music Sounds",
+        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Music Sounds",
+      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
+    },
+    {
+      "added_at": "2026-08-14 07:39:41",
+      "album": {
         "name": "Don't Say That",
         "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "Music Sounds",
-        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
+        "name": "halo Houston",
+        "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
       },
       "artists": [
         {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "Jasiek Piwowarczyk",
+          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
         }
       ],
-      "duration_ms": 159551,
-      "name": "Music Sounds",
-      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
+      "duration_ms": 143048,
+      "name": "halo Houston",
+      "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "halo Houston",
-        "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K"
       },
       "artists": [
         {
-          "name": "Jasiek Piwowarczyk",
-          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
         }
       ],
-      "duration_ms": 143048,
-      "name": "halo Houston",
-      "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
+      "duration_ms": 210927,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -1035,22 +1051,6 @@
       "duration_ms": 211000,
       "name": "Maj",
       "url": "https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1"
-    },
-    {
-      "added_at": "2026-08-14 07:39:41",
-      "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K"
-      },
-      "artists": [
-        {
-          "name": "Maciej Musia\u0142owski",
-          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
-        }
-      ],
-      "duration_ms": 210927,
-      "name": "Flora",
-      "url": "https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "DZI\u015a SOBIE DAM",
-        "url": "https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP"
+        "name": "\u015awiat\u0142ocienie EP",
+        "url": "https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw"
       },
       "artists": [
         {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
         }
       ],
-      "duration_ms": 167920,
-      "name": "DZI\u015a SOBIE DAM",
-      "url": "https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj"
+      "duration_ms": 161656,
+      "name": "A Nu\u017c",
+      "url": "https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv"
     }
   ],
   "unique_name": "... ale najpierw kawa",

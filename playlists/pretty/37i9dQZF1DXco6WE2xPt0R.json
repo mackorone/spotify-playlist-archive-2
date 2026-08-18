@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 128090,
+  "num_followers": 128088,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
+        "name": "LVRS PARADISE (SIDE B)",
+        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "HONEYBUTTER",
+      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
         "name": "Body So Tea",
         "url": "https://open.spotify.com/album/2mG7Jq4OnkQdpmemAmtXAQ"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 291513,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "LVRS PARADISE (SIDE B)",
-        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "HONEYBUTTER",
-      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 254015,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "C\u00d3DiGOS DE MU\u00d1EKA",
         "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
       },
@@ -263,18 +247,18 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "BACK IN MY ARMS",
-        "url": "https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd"
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
         }
       ],
-      "duration_ms": 223498,
-      "name": "BACK IN MY ARMS",
-      "url": "https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI"
+      "duration_ms": 254015,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -291,6 +275,22 @@
       "duration_ms": 196908,
       "name": "Changes Rising",
       "url": "https://open.spotify.com/track/2w506gm1anuCes4phbCaMP"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "BACK IN MY ARMS",
+        "url": "https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 223498,
+      "name": "BACK IN MY ARMS",
+      "url": "https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Lil' Obsession",
-        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 181921,
-      "name": "Lil' Obsession",
-      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Slow Grind",
         "url": "https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 219000,
       "name": "Slow Grind",
       "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "Lil' Obsession",
+        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 181921,
+      "name": "Lil' Obsession",
+      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -551,6 +551,26 @@
       "duration_ms": 209302,
       "name": "Maybe Again",
       "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "I Belong To You [Feat. Ledisi]",
+        "url": "https://open.spotify.com/album/3x5COvOp1lLkAE3uil0SIj"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "I Belong To You [Feat. Ledisi]",
+      "url": "https://open.spotify.com/track/3azayAcrGBdQy6TTl8fMWK"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -655,26 +675,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "I Belong To You [Feat. Ledisi]",
-        "url": "https://open.spotify.com/album/3x5COvOp1lLkAE3uil0SIj"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        },
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "I Belong To You [Feat. Ledisi]",
-      "url": "https://open.spotify.com/track/3azayAcrGBdQy6TTl8fMWK"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
+        "name": "Scene 1 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 180100,
+      "name": "Scene 1 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 152574,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "Want Love",
-        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 200791,
-      "name": "Want Love",
-      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -759,18 +759,34 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Scene 1 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh"
+        "name": "Want Love",
+        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
       },
       "artists": [
         {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 180100,
-      "name": "Scene 1 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5"
+      "duration_ms": 200791,
+      "name": "Want Love",
+      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "Kissing Underwater",
+        "url": "https://open.spotify.com/album/2TgfwqCYZyTv4n8omjFnqK"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Kissing Underwater",
+      "url": "https://open.spotify.com/track/6bmcfa6rrkP63zqB3f3v9f"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -791,6 +807,26 @@
       "duration_ms": 179500,
       "name": "Don't Play - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2416mFSovCiMHfpvExCNaa"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "i do this sh*t in my sleep",
+        "url": "https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 123820,
+      "name": "YOU DON\u2019T KNOW (feat. Alex Isley)",
+      "url": "https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -835,58 +871,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "He's Not Me",
-        "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 207762,
-      "name": "He's Not Me",
-      "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "i do this sh*t in my sleep",
-        "url": "https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 123820,
-      "name": "YOU DON\u2019T KNOW (feat. Alex Isley)",
-      "url": "https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "playing tricks",
-        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 184257,
-      "name": "playing tricks",
-      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -911,6 +895,38 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
+        "name": "playing tricks",
+        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 184257,
+      "name": "playing tricks",
+      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "He's Not Me",
+        "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 207762,
+      "name": "He's Not Me",
+      "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
         "name": "moonlit room",
         "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
       },
@@ -923,30 +939,6 @@
       "duration_ms": 250679,
       "name": "moonlit room",
       "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "What's Going On (Don't Rush)",
-        "url": "https://open.spotify.com/album/2R6KXVWCi4eUSVoVwKoWAd"
-      },
-      "artists": [
-        {
-          "name": "Lizzen",
-          "url": "https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl"
-        },
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        }
-      ],
-      "duration_ms": 204264,
-      "name": "What's Going On (Don't Rush)",
-      "url": "https://open.spotify.com/track/4FBhmyeFonHfP20kClXg20"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -971,34 +963,26 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Kissing Underwater",
-        "url": "https://open.spotify.com/album/2TgfwqCYZyTv4n8omjFnqK"
+        "name": "What's Going On (Don't Rush)",
+        "url": "https://open.spotify.com/album/2R6KXVWCi4eUSVoVwKoWAd"
       },
       "artists": [
         {
-          "name": "Benita",
-          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Kissing Underwater",
-      "url": "https://open.spotify.com/track/6bmcfa6rrkP63zqB3f3v9f"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "Tricks Are For Kids",
-        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
-      },
-      "artists": [
+          "name": "Lizzen",
+          "url": "https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl"
+        },
         {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
         }
       ],
-      "duration_ms": 140259,
-      "name": "Tricks Are For Kids",
-      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
+      "duration_ms": 204264,
+      "name": "What's Going On (Don't Rush)",
+      "url": "https://open.spotify.com/track/4FBhmyeFonHfP20kClXg20"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -1031,6 +1015,22 @@
       "duration_ms": 189426,
       "name": "Diamonds And Pearls",
       "url": "https://open.spotify.com/track/2fKW2z6VAOGSaEeOTBTOWt"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "Tricks Are For Kids",
+        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        }
+      ],
+      "duration_ms": 140259,
+      "name": "Tricks Are For Kids",
+      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Distant Lover",
-        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        }
-      ],
-      "duration_ms": 178085,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Choosin'",
         "url": "https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 176480,
       "name": "Choosin'",
       "url": "https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "Distant Lover",
+        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "duration_ms": 178085,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
     },
     {
       "added_at": "2026-08-07 14:25:39",

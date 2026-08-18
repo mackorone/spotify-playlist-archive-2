@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,963 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,960 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 19 | [You Ignore Them All](https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Sound Of The Republic](https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm) | 3:32 |
 | 20 | [Total War](https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Neutralize the Threat](https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1) | 3:38 |
 | 21 | [World Peace](https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 2:15 |
-| 22 | [Break Through It All](https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Count Me In](https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv) | 3:01 |
-| 23 | [Element](https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [Vision of Disorder](https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD) | 3:13 |
+| 22 | [Element](https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [Vision of Disorder](https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD) | 3:13 |
+| 23 | [Break Through It All](https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Count Me In](https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv) | 3:01 |
 | 24 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 |
 | 25 | [Over the Years](https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Friendship Loyalty Commitment](https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I) | 2:05 |
 | 26 | [Blood](https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe) | [Candiria](https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp) | [What Doesn't Kill You Will Make You Stronger](https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ) | 3:16 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 38 | [Caboose](https://open.spotify.com/track/4XetuNNt2wx5lkZGS4L5r5) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/7rIYvEhntzeIkIE78b486h) | 2:33 |
 | 39 | [Here to Stay](https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 2:24 |
 | 40 | [Family Tree](https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:55 |
-| 41 | [Choices Made](https://open.spotify.com/track/6RwlqbbXVy8DjRmTgxxRx5) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Solid Bond: The Complete Discography](https://open.spotify.com/album/4e36aYT7dRveOWWd5HPAgY) | 2:28 |
-| 42 | [Blistered](https://open.spotify.com/track/0qFcZFSH5P6gT5FnPvCQ7X) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR) | 2:27 |
+| 41 | [Blistered](https://open.spotify.com/track/0qFcZFSH5P6gT5FnPvCQ7X) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR) | 2:27 |
+| 42 | [Choices Made](https://open.spotify.com/track/6RwlqbbXVy8DjRmTgxxRx5) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Solid Bond: The Complete Discography](https://open.spotify.com/album/4e36aYT7dRveOWWd5HPAgY) | 2:28 |
 | 43 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS) | 2:04 |
 | 44 | [Just Can't Hate Enough](https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 1:44 |
 | 45 | [Scratch The Surface](https://open.spotify.com/track/6ukEuZo9JvnltTgSqnnAVp) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop \(Re\-recordings\)](https://open.spotify.com/album/3IZxVsIZ6U6HACFqjDkiak) | 2:45 |

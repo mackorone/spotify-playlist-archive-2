@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-430 songs - 23 hr 34 min
+431 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Aurora Crest](https://open.spotify.com/track/1VOQPL4KzM4lSA8B3a6Poy) | [Lost storys](https://open.spotify.com/artist/5z30j24d40G43dHG9LDa3e) | [Aurora Crest](https://open.spotify.com/album/5wFQjHfxLhZBxtJhky5sBX) | 2:38 | 2025-05-14 | 2025-12-30 |
 | [Autumnal](https://open.spotify.com/track/2DR3RcQLkcx9KqBEx9Raf7) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/3dHqf7HmYlEfJQNp0RL7mg) | 5:28 | 2020-12-08\* | 2021-05-27 |
 | [Avori](https://open.spotify.com/track/2Fq3ZwxleE9ahYEAvcZSji) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Avori](https://open.spotify.com/album/4pWrxItDLygNwhM6pHIgeO) | 2:51 | 2022-12-30 | 2025-12-11 |
-| [Awa To Koi](https://open.spotify.com/track/7IuFNGDAQvfaVCwaHFX3d9) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Maboroshi No Sazanami](https://open.spotify.com/album/18X35cKJVDH2iZUiI02wLH) | 2:57 | 2022-12-30 |  |
+| [Awa To Koi](https://open.spotify.com/track/7IuFNGDAQvfaVCwaHFX3d9) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Maboroshi No Sazanami](https://open.spotify.com/album/18X35cKJVDH2iZUiI02wLH) | 2:57 | 2022-12-30 | 2026-08-18 |
 | [Awash](https://open.spotify.com/track/4vU5TfGGHeIwKVzWSov8TM) | [Manual](https://open.spotify.com/artist/57OTTQNo2lt78ydJsxwOLm) | [Awash](https://open.spotify.com/album/5G1QrK23ZwsQrKDjpbVNo7) | 5:39 | 2020-12-08\* | 2021-05-27 |
 | [Back to the Start](https://open.spotify.com/track/10yIs9zsN0BNnXJpejnZ2v) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Back to the Start \- Single](https://open.spotify.com/album/5nIpv7xaUzcjTyp3V1jgd9) | 4:46 | 2021-01-15 | 2022-07-29 |
 | [Back to the Start](https://open.spotify.com/track/4Pdnt4VOAv26b1ILvtAoRj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves \(Deluxe Version\)](https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD) | 4:47 | 2022-07-22 | 2023-02-27 |
@@ -144,7 +144,7 @@
 | [Empty](https://open.spotify.com/track/1M0kmnY1ztJC0ZNQxCS7st) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Longing EP](https://open.spotify.com/album/0ajy8kD383s9wmYBq4ADnE) | 4:21 | 2025-02-26 | 2026-02-13 |
 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 | 2020-12-08\* | 2025-07-16 |
 | [Enchanted Lakes](https://open.spotify.com/track/5rF6ZCev458A3utp4XC36X) | [Yuddhapoot](https://open.spotify.com/artist/36ZKzVYdFd6bTpTOm94bcH) | [Enchanted Lakes](https://open.spotify.com/album/4W2qw0HykU5XyZ4GQKjMvR) | 3:15 | 2026-02-12 | 2026-04-30 |
-| [Endless Horizons](https://open.spotify.com/track/4aX9oNml3NCLc7BymvyKwi) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Endless Horizons](https://open.spotify.com/album/616Kuhwk6PUqLzZwInp9yW) | 2:22 | 2025-02-26 |  |
+| [Endless Horizons](https://open.spotify.com/track/4aX9oNml3NCLc7BymvyKwi) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Endless Horizons](https://open.spotify.com/album/616Kuhwk6PUqLzZwInp9yW) | 2:22 | 2025-02-26 | 2026-08-18 |
 | [Endless Sky](https://open.spotify.com/track/07uOWWv9HviCYCc0D6xE2A) | [Waking Up Inside](https://open.spotify.com/artist/2nFUQ65Yx9UWldBxOmBKlG) | [Endless Sky](https://open.spotify.com/album/5FP33gbyS9UDYVK5viOH2O) | 3:01 | 2026-02-12 |  |
 | [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 | 2022-11-22 |  |
 | [Envision](https://open.spotify.com/track/3QG6JoaGwxU2zNUDg0Zcac) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Envision](https://open.spotify.com/album/2IgSdhA4y6Dv3D7q54OyT0) | 2:34 | 2023-07-28 | 2023-10-24 |
@@ -188,7 +188,7 @@
 | [Glaciers](https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Glaciers](https://open.spotify.com/album/5DAdHl1zMFWuxnpF72sqP7) | 3:04 | 2020-12-08\* | 2025-05-14 |
 | [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-02-03 | 2024-12-21 |
 | [Grace](https://open.spotify.com/track/3MzxKAvFXnnhg5G5hDjalU) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Grace](https://open.spotify.com/album/0ah3BJBZZiHi3i45kk5qn4) | 2:47 | 2025-10-01 |  |
-| [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 | 2022-09-30 | 2026-08-08 |
+| [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 | 2022-09-30 |  |
 | [Greenland](https://open.spotify.com/track/2SPTGg9SC5MT1FwNX4IYfx) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:11 | 2020-12-08\* | 2021-03-06 |
 | [Grounding](https://open.spotify.com/track/0lR3KWoaXzVNZqSz4tbJ5R) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Grounding](https://open.spotify.com/album/5Do97UOdHnE2zG1IGsesZ6) | 2:48 | 2024-11-14 | 2026-02-13 |
 | [Healing Stones](https://open.spotify.com/track/3W2j6BipXBlTPfErJTyJWo) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Healing Stones](https://open.spotify.com/album/0N4dk5ISyVfLM7Es4zEsCr) | 2:37 | 2022-04-21 | 2025-05-27 |
@@ -222,6 +222,7 @@
 | [Kanta's Theme](https://open.spotify.com/track/2im8y2Qrnj0xvt5c9BgNYF) | [Chris Walla](https://open.spotify.com/artist/4UP7ibAacJ5joROTv4ShG5) | [Tape Loops](https://open.spotify.com/album/78oxfIEDfWlUw8vFSDvoSq) | 6:42 | 2022-07-22 | 2022-10-18 |
 | [Kanta's Theme](https://open.spotify.com/track/4l2yPgS0exxRHRXOaiqksw) | [Chris Walla](https://open.spotify.com/artist/4UP7ibAacJ5joROTv4ShG5) | [Kanta's Theme \- Single](https://open.spotify.com/album/0c2jq5ML6NCy5HjTMnT46m) | 6:42 | 2020-12-08\* | 2022-07-29 |
 | [Kanta's Theme](https://open.spotify.com/track/64aH6OkIpw6f0edTLMx2VU) | [Chris Walla](https://open.spotify.com/artist/4UP7ibAacJ5joROTv4ShG5) | [Tape Loops](https://open.spotify.com/album/2VNgo52l7JCwA03x4QKPGN) | 6:42 | 2022-11-22 | 2024-04-19 |
+| [Katharsis](https://open.spotify.com/track/2EDKmd2QEyMLOrAFv8L3AT) | [WIDE HORIZON](https://open.spotify.com/artist/5EEy0pxsYQurmMjiSXB9g0) | [Katharsis](https://open.spotify.com/album/6dzDDjTSjYu0t5GkIa4Ku2) | 2:49 | 2026-07-07 |  |
 | [Kepesh](https://open.spotify.com/track/0p8gq23UoCaw6mfndx470w) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [The Organ Hearts](https://open.spotify.com/album/4Fb3dmmuXqDzsa1BtaP9JR) | 5:28 | 2021-01-15 | 2021-05-27 |
 | [Kilika](https://open.spotify.com/track/2GvS6SG9VHxRgMbLLPFEVI) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Kilika](https://open.spotify.com/album/665D0qSJx36civibfzbJ3B) | 4:44 | 2020-12-08\* | 2021-03-18 |
 | [Know Where](https://open.spotify.com/track/0iT8tYZ3haeUUXWogdRJh0) | [Holy Other](https://open.spotify.com/artist/7txCfGfh46OwoUBDPj4HKL) | [With U](https://open.spotify.com/album/5eIrB1QIV8Yz2tbGaw2S9D) | 3:28 | 2020-12-08\* | 2021-03-06 |

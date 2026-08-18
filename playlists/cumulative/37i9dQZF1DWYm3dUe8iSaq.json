@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 184000,
       "name": "Crimes of the Heart",
       "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 238986,
       "name": "Drug Dealer",
       "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
@@ -4761,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102513,
+      "name": "Never Going Back!",
+      "url": "https://open.spotify.com/track/7tQxEN6xSkPvnL1kPFB9Bj"
+    },
+    {
+      "album": {
         "name": "Never, No Not Once",
         "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
       },
@@ -6212,6 +6230,24 @@
       "duration_ms": 265937,
       "name": "stepping outside",
       "url": "https://open.spotify.com/track/6i7QPGVpVmltzVDNDnRhPV"
+    },
+    {
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236205,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
     },
     {
       "album": {

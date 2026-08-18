@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-162 songs - 8 hr 7 min
+163 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 | 2022-09-16 | 2024-03-18 |
 | [Tocas El Cielo](https://open.spotify.com/track/3x27kK7eSGhxc6PzSgPoeh) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo](https://open.spotify.com/album/6xSYTJWevYBfj3ss9Jciuv) | 3:05 | 2022-09-16 |  |
 | [TODO](https://open.spotify.com/track/1EmlHrs93OOsyz8lAMfmCW) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 4:02 | 2025-01-09 |  |
+| [Todo El Año](https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo El Año](https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e) | 2:52 | 2026-08-17 |  |
 | [Top 3](https://open.spotify.com/track/493nGQfnCmfvxD2s8VC59m) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Top 3](https://open.spotify.com/album/3JOf9ABKYYD2hiCdUMLsDB) | 3:10 | 2025-08-26 |  |
 | [Tragos En Mi Mesa](https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4YXv1lZBaFinDMRgfgktjN) | 3:17 | 2022-09-16 | 2025-04-01 |
 | [Tragos En Mi Mesa](https://open.spotify.com/track/4F8RQF4VdR0WWuv1OfCIW3) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4RmBffeqCWf8nG39vydGv7) | 3:17 | 2025-03-31 |  |

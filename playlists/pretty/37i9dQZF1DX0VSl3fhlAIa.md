@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,234 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,273 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 27 | [Buddies](https://open.spotify.com/track/5MUtNMkyc3wG8k4Zwzdvmv) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Buddies](https://open.spotify.com/album/6vDY8mPP5fAjhbk5T2reay) | 3:59 |
 | 28 | [LOOP](https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 5:05 |
 | 29 | [四季ノ唄](https://open.spotify.com/track/1iTvJFjCflwCz9RYJXzcsz) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3) | [アイの実](https://open.spotify.com/album/1TI6TIPrTHe2WV8GrUAVKC) | 4:58 |
-| 30 | [been so long](https://open.spotify.com/track/1mBq2k3CJq5bXWDrprKbNi) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [Planet Shining](https://open.spotify.com/album/2cPylo5CrePCII64XeTZnT) | 5:51 |
-| 31 | [Over The Moon \- feat\. Sagiri Sól](https://open.spotify.com/track/2WPC6nZTTdbDJ5J2KMkhRN) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Juliet is the moon](https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19) | 3:23 |
+| 30 | [Over The Moon \- feat\. Sagiri Sól](https://open.spotify.com/track/2WPC6nZTTdbDJ5J2KMkhRN) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Juliet is the moon](https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19) | 3:23 |
+| 31 | [been so long](https://open.spotify.com/track/1mBq2k3CJq5bXWDrprKbNi) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [Planet Shining](https://open.spotify.com/album/2cPylo5CrePCII64XeTZnT) | 5:51 |
 | 32 | [HIT NUMBER \- EVISBEATSとPUNCH REMIX](https://open.spotify.com/track/3qAT9iw2AiiJ0CxTcqxQn1) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li), [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ストライク！](https://open.spotify.com/album/5mJrUjgKk7jzSr9TohY7qx) | 3:28 |
 | 33 | [YOU NEVER SAY THAT](https://open.spotify.com/track/7zHvV0uRh49mI9qm3yywus) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [YOU NEVER SAY THAT](https://open.spotify.com/album/5EjcsYJZgSh5OjOgKD6RNK) | 3:14 |
 | 34 | [the Sound of Carnival](https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [As One](https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS) | 4:43 |
-| 35 | [FAKE](https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [FAKE feat． 安室奈美恵](https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U) | 4:15 |
-| 36 | [Shake \- \(Original\)](https://open.spotify.com/track/2i2dlGChzEtkAOB5RSP8gd) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:31 |
+| 35 | [Shake \- \(Original\)](https://open.spotify.com/track/2i2dlGChzEtkAOB5RSP8gd) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:31 |
+| 36 | [FAKE](https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [FAKE feat． 安室奈美恵](https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U) | 4:15 |
 | 37 | [Slow brew morning](https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Slow brew morning](https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv) | 2:42 |
 | 38 | [緩りらら](https://open.spotify.com/track/6riSc8FTUeqwFvClmN6M73) | [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [緩りらら](https://open.spotify.com/album/1CJAwiWiBFKgxbkxNhHzLv) | 4:00 |
 | 39 | [14](https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 3:21 |

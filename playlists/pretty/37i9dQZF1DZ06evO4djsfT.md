@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,034 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,035 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 22 | [Let It Reign \(feat\. Bizzle\)](https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 4:19 |
 | 23 | [FLEX](https://open.spotify.com/track/1wmJZpCns6dHVDd4TGzXoD) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [THIS CANNOT BE SOLD](https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC) | 3:28 |
 | 24 | [Not Today Satan](https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:06 |
-| 25 | [BLOOD 2](https://open.spotify.com/track/3vYdFpkCK3OzNjLxEvhCMR) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [CALEB CONLEY](https://open.spotify.com/artist/1qBL71UwVI5rFWyhIXuDA4) | [BLOOD 2](https://open.spotify.com/album/3u5CY0qvMmaIIM6Smj2MyX) | 2:38 |
-| 26 | [The Saints](https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Heroes for Sale](https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL) | 3:58 |
+| 25 | [Lifeline](https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB) | [Carly Ann Taylor](https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Lifeline](https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA) | 3:33 |
+| 26 | [BLOOD 2](https://open.spotify.com/track/3vYdFpkCK3OzNjLxEvhCMR) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [CALEB CONLEY](https://open.spotify.com/artist/1qBL71UwVI5rFWyhIXuDA4) | [BLOOD 2](https://open.spotify.com/album/3u5CY0qvMmaIIM6Smj2MyX) | 2:38 |
 | 27 | [KEANU'S SONG](https://open.spotify.com/track/1bn3ZWsILMV0dFn0qMvgSw) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [KEANU](https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY) | [THIS CANNOT BE SOLD](https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC) | 2:32 |
-| 28 | [Lifeline](https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB) | [Carly Ann Taylor](https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Lifeline](https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA) | 3:33 |
+| 28 | [The Saints](https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Heroes for Sale](https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL) | 3:58 |
 | 29 | [Built For This](https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 2:53 |
 | 30 | [Long Live the Champion](https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Yariel](https://open.spotify.com/artist/2eu1Av4h29jABu0xlHSt2T) | [Long Live the Champion](https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW) | 4:23 |
 | 31 | [Long Way \(feat\. KB\)](https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Let's Be Honest \- EP](https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [It Ain't Safe](https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 2:57 |
 | 50 | [One Sixteen](https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [The Good Life](https://open.spotify.com/album/4isPEpuar7DBekswZNoawh) | 4:06 |
 
-Snapshot ID: `an+sAAAAAAASFx0o8svkcc1kGEOPeqwZ`
+Snapshot ID: `aoD9gAAAAAB6Rouk+LencHQEE3ZHlFBr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Wage War
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,615 likes - 205 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,683 likes - 205 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2137,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        },
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310375,
+      "name": "Walk This Way (feat. Aerosmith)",
+      "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
+    },
+    {
+      "album": {
         "name": "Aerosmith",
         "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
       },
@@ -2202,7 +2224,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 338840,
       "name": "Water Song/Janie's Got A Gun",
       "url": "https://open.spotify.com/track/5XPDEg7yZT893Ocru6IEph"

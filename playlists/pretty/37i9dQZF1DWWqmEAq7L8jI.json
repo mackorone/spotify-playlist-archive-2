@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Benjamin Amadeo",
-  "num_followers": 279263,
+  "num_followers": 279255,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -215,30 +215,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -275,6 +251,30 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 222647,
-      "name": "ALL MY LOVE",
-      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Un Mundo Diferente",
         "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 267106,
       "name": "Color Esperanza",
       "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 214933,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "Calambre",
-        "url": "https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 240315,
-      "name": "BUENOS AIRES",
-      "url": "https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Algo de m\u00ed",
         "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 181914,
       "name": "Algo de m\u00ed",
       "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "Calambre",
+        "url": "https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 240315,
+      "name": "BUENOS AIRES",
+      "url": "https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Abel",
         "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 181933,
       "name": "Motivos",
       "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "La del Primer Puesto",
-        "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "La del Primer Puesto",
-      "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Baloncito Viejo",
         "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 170862,
       "name": "Baloncito Viejo",
       "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "La del Primer Puesto",
+        "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "La del Primer Puesto",
+      "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "Como T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 192757,
-      "name": "Como T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Llamada Perdida",
         "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "Como T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 192757,
+      "name": "Como T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 190580,
-      "name": "Toda la Vida",
-      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Amor Pasajero",
         "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 232800,
       "name": "Rojo Rub\u00ed",
       "url": "https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 190580,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Trepando Paredes",
         "url": "https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC"
       },
@@ -1579,6 +1563,42 @@
       "duration_ms": 233738,
       "name": "Trepando Paredes",
       "url": "https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "La despedida",
+        "url": "https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        },
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "duration_ms": 214928,
+      "name": "La despedida",
+      "url": "https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1619,26 +1639,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "La despedida",
-        "url": "https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        },
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        }
-      ],
-      "duration_ms": 214928,
-      "name": "La despedida",
-      "url": "https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
+        "name": "El Problema Del Amor",
+        "url": "https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "El Problema Del Amor",
+      "url": "https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
         "name": "elegir a quien te elige",
         "url": "https://open.spotify.com/album/42NP0aHNqMNItswl0iqQxw"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 146666,
       "name": "elegir a quien te elige",
       "url": "https://open.spotify.com/track/3ZtHjYs3YXt2STS9w4mULJ"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
-        "name": "El Problema Del Amor",
-        "url": "https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "El Problema Del Amor",
-      "url": "https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
+        "name": "CUERPO",
+        "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "cuerpo",
+      "url": "https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
         "name": "Te Cre\u00ed",
         "url": "https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 242400,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
-        "name": "CUERPO",
-        "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 198813,
-      "name": "cuerpo",
-      "url": "https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/00V6VizOVi4q0XTlC1MOgM"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 222083,
-      "name": "Ni\u00f1a",
-      "url": "https://open.spotify.com/track/7p2DcY1E4IcPxCi1dxYfpX"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Corriendo Con Tijeras",
         "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 195133,
       "name": "Corriendo Con Tijeras",
       "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
     }
   ],
   "unique_name": "Radio Pop",

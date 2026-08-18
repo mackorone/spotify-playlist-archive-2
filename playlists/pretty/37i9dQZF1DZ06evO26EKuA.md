@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,595 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,619 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 28 | [Los "Pajaros" \- Bonus Track](https://open.spotify.com/track/6M517vjML2dFAE41OfF1JA) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Sin Censura Su Último Concierto \(En Vivo Desde Los Angeles CA, 2006 / Componente 2\)](https://open.spotify.com/album/509Khys7Q3ZDhPuGaDL11p) | 2:56 |
 | 29 | [El Hijo Del Pueblo](https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [3 Grandes De La Banda En Homenaje A José Alfredo Jiménez](https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u) | 3:07 |
 | 30 | [Ni Dada La Quiero](https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:49 |
-| 31 | [El Sinaloense](https://open.spotify.com/track/64s6BmkogWiJCeFyzSveiM) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Vivo Desde Villa Juarez Sonora](https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy) | 3:52 |
-| 32 | [La Papa](https://open.spotify.com/track/0vpd52xfWmxpRTZeeQ9gkQ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Corridos Y Algo Mas](https://open.spotify.com/album/27gnrHBeKww4XnaEAV5ifr) | 3:28 |
-| 33 | [118 Balazos](https://open.spotify.com/track/58J0a3eXA1BtCODfBVwOIe) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Corridos Entre Amigos](https://open.spotify.com/album/5agaJQWKkXpk8wESkYJPeo) | 2:53 |
+| 31 | [La Papa](https://open.spotify.com/track/0vpd52xfWmxpRTZeeQ9gkQ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Corridos Y Algo Mas](https://open.spotify.com/album/27gnrHBeKww4XnaEAV5ifr) | 3:28 |
+| 32 | [118 Balazos](https://open.spotify.com/track/58J0a3eXA1BtCODfBVwOIe) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Corridos Entre Amigos](https://open.spotify.com/album/5agaJQWKkXpk8wESkYJPeo) | 2:53 |
+| 33 | [El Sinaloense](https://open.spotify.com/track/64s6BmkogWiJCeFyzSveiM) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Vivo Desde Villa Juarez Sonora](https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy) | 3:52 |
 | 34 | [La Tambora Va A Sonar](https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:36 |
 | 35 | [Sobre La Tumba De Mi Padre](https://open.spotify.com/track/6jVcf6qobg1VLoYah4jomr) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Íconos 25 Éxitos](https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV) | 3:51 |
 | 36 | [Gracias Por Que Volviste](https://open.spotify.com/track/2FtixLUEMUI7eT5Zc02s7B) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 3:25 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 44 | [Hola Y Adios](https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 3:27 |
 | 45 | [Y No Me Lo Das](https://open.spotify.com/track/4gyXD97usXdbOUrsP95PaC) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3) | 2:04 |
 | 46 | [Las Tres Mujeres \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/1YJDWGOYsWDzbf2n6TlwzD) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:50 |
-| 47 | [La Tambora Va A Sonar](https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [La Mejor Colección De Corridos](https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ) | 2:37 |
+| 47 | [Linda Guerita](https://open.spotify.com/track/2WRpGwqb4fKaeXUAIOJdzS) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Ultima Bohemia \(En Vivo\)](https://open.spotify.com/album/3C5E0uhfa1NHmS7ftJ9W7y) | 2:47 |
 | 48 | [Tu Mirada, Tu Pelo, Y Tu Boca\(La Playa\)](https://open.spotify.com/track/1Pa2qNJPCTp2PahIdZ3Fyf) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/3aFk1AI4jvwBZEVeH4DeI4) | 3:01 |
-| 49 | [Linda Guerita](https://open.spotify.com/track/2WRpGwqb4fKaeXUAIOJdzS) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Ultima Bohemia \(En Vivo\)](https://open.spotify.com/album/3C5E0uhfa1NHmS7ftJ9W7y) | 2:47 |
+| 49 | [La Banda Borracha](https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 4:10 |
 | 50 | [Clave Privada \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/03UlkuvBTpbvaSbAaJUriF) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 6:43 |
 
-Snapshot ID: `an+sAAAAAABy1lS8U8V+iSJ3on0PmExX`
+Snapshot ID: `aoD9gAAAAABQd+fEkW+l9CcTcPIWiCHi`

@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 165800,
       "name": "Brainrot",
       "url": "https://open.spotify.com/track/5josBrgpHkfKRmQavbuiM7"
@@ -12263,6 +12263,24 @@
     },
     {
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6b3P6AbnblAGTtgCgcxe25"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169232,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/1Rssvx3YWK4LiS681JgsAq"
+    },
+    {
+      "album": {
         "name": "HAPPY FEELS LIKE",
         "url": "https://open.spotify.com/album/7nMQFa6bK6jv7IRDcRLuTT"
       },
@@ -14736,6 +14754,24 @@
       "duration_ms": 279880,
       "name": "In The Night (feat. Underoath)",
       "url": "https://open.spotify.com/track/3N7XPzpAbWmMCxLbcp54KD"
+    },
+    {
+      "album": {
+        "name": "In the Ruins",
+        "url": "https://open.spotify.com/album/7a1CEuXEMOLoO9HVHSxqH6"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337503,
+      "name": "In the Ruins",
+      "url": "https://open.spotify.com/track/3mJ58zxE8PT1j2tnpGLcA0"
     },
     {
       "album": {
@@ -22459,6 +22495,24 @@
     },
     {
       "album": {
+        "name": "Where The Light Begins To Fade",
+        "url": "https://open.spotify.com/album/3mZAly1A8xuqNu3ut6kW3l"
+      },
+      "artists": [
+        {
+          "name": "If Not For Me",
+          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205846,
+      "name": "Prey For Me",
+      "url": "https://open.spotify.com/track/4fkPGprhPvRQtwmKyoAJ8h"
+    },
+    {
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/0roQxmiNVQ53PwY1XfNxw9"
       },
@@ -22614,7 +22668,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 112750,
       "name": "Pull That Trigger",
       "url": "https://open.spotify.com/track/6j3G1JD4VUzcod6vSpeIg4"
@@ -24894,7 +24948,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 194536,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/5332V1NVIYcKxW1zftGGWH"
@@ -27173,6 +27227,24 @@
     },
     {
       "album": {
+        "name": "SWALLOW",
+        "url": "https://open.spotify.com/album/5EpAybJJ0kQgwGbqPGv38p"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209422,
+      "name": "SWALLOW",
+      "url": "https://open.spotify.com/track/7zbGyhYLWxgpiWyGqdNWUI"
+    },
+    {
+      "album": {
         "name": "Swallow This",
         "url": "https://open.spotify.com/album/5Qs7xaSy2n64WKlwe8bA3H"
       },
@@ -27354,7 +27426,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 209453,
       "name": "Take Me to the Start",
       "url": "https://open.spotify.com/track/2uy6p50yA029wrv17jNljJ"

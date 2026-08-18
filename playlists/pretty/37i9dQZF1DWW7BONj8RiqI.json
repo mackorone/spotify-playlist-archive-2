@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 249453,
+  "num_followers": 249479,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "The A List",
-        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
-      },
-      "artists": [
-        {
-          "name": "Pumpa",
-          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
-        }
-      ],
-      "duration_ms": 217913,
-      "name": "The A List",
-      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Mind My Business",
         "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 119040,
       "name": "Mind My Business",
       "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "The A List",
+        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
+      },
+      "artists": [
+        {
+          "name": "Pumpa",
+          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
+        }
+      ],
+      "duration_ms": 217913,
+      "name": "The A List",
+      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Hard Fete",
-        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Hard Fete",
-      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Doux Doux Darlin",
         "url": "https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 192601,
       "name": "Doux Doux Darlin",
       "url": "https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Hard Fete",
+        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Hard Fete",
+      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 160965,
-      "name": "Big Bad Soca",
-      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Spirit Of Carnival Project",
         "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 184273,
       "name": "Mental Day",
       "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 160965,
+      "name": "Big Bad Soca",
+      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Dear Promoter",
-        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
-      },
-      "artists": [
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 244578,
-      "name": "Dear Promoter",
-      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "In the Water",
         "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
       },
@@ -563,18 +543,22 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
+        "name": "Dear Promoter",
+        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
       },
       "artists": [
         {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+      "duration_ms": 244578,
+      "name": "Dear Promoter",
+      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -595,6 +579,22 @@
       "duration_ms": 238153,
       "name": "Workout",
       "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Alien Head Riddim",
         "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 145500,
       "name": "Explore",
       "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "No Behavior Shell Down",
         "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
       },
@@ -835,26 +819,6 @@
       "duration_ms": 262556,
       "name": "No Behavior Shell Down",
       "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
-        "name": "Tack Back",
-        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
-        }
-      ],
-      "duration_ms": 198671,
-      "name": "Tack Back",
-      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -879,18 +843,22 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "D N A",
-        "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
+        "name": "Tack Back",
+        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
       },
       "artists": [
         {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
         }
       ],
-      "duration_ms": 206250,
-      "name": "D N A",
-      "url": "https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws"
+      "duration_ms": 198671,
+      "name": "Tack Back",
+      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -911,18 +879,34 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Born Wit It (Bumpa Riddim)",
-        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
+        "name": "D N A",
+        "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
       },
       "artists": [
         {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
         }
       ],
-      "duration_ms": 202448,
-      "name": "Born Wit It (Bumpa Riddim)",
-      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
+      "duration_ms": 206250,
+      "name": "D N A",
+      "url": "https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -943,6 +927,22 @@
       "duration_ms": 133141,
       "name": "Down Dey",
       "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Born Wit It (Bumpa Riddim)",
+        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 202448,
+      "name": "Born Wit It (Bumpa Riddim)",
+      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
       },
       "artists": [
         {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 193488,
-      "name": "Fattt",
-      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
+      "duration_ms": 220500,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Soca Gold 2007",
         "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Fattt",
+      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 295106,
       "name": "Trini 2 De Bone",
       "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Sit on My Face",
+        "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
+      },
+      "artists": [
+        {
+          "name": "Zido",
+          "url": "https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq"
+        }
+      ],
+      "duration_ms": 87086,
+      "name": "Sit on My Face",
+      "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Sit on My Face",
-        "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
-      },
-      "artists": [
-        {
-          "name": "Zido",
-          "url": "https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq"
-        }
-      ],
-      "duration_ms": 87086,
-      "name": "Sit on My Face",
-      "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Dig",
         "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Hot and Groovy",
-        "url": "https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5"
-      },
-      "artists": [
-        {
-          "name": "Militant",
-          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
-        }
-      ],
-      "duration_ms": 282567,
-      "name": "Hot and Groovy",
-      "url": "https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Carnival Contract",
         "url": "https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+        "name": "Hot and Groovy",
+        "url": "https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5"
       },
       "artists": [
         {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+          "name": "Militant",
+          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
         }
       ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+      "duration_ms": 282567,
+      "name": "Hot and Groovy",
+      "url": "https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1303,6 +1287,38 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Invasion Band Feat. Naya George",
+          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
         "name": "Blockbuster Riddim",
         "url": "https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr"
       },
@@ -1319,6 +1335,22 @@
       "duration_ms": 197607,
       "name": "One For The Team",
       "url": "https://open.spotify.com/track/1hEcR23cJ3K9GRlEPsvavJ"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Hello (Iced Heart Riddim)",
+        "url": "https://open.spotify.com/album/6zVypAXMxiDbknsJ5dK0N4"
+      },
+      "artists": [
+        {
+          "name": "muddy",
+          "url": "https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Hello (Iced Heart Riddim)",
+      "url": "https://open.spotify.com/track/6coofViEiuNH9OT1T1piL1"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1347,18 +1379,18 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Hello (Iced Heart Riddim)",
-        "url": "https://open.spotify.com/album/6zVypAXMxiDbknsJ5dK0N4"
+        "name": "Retro Fete Riddim",
+        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
       },
       "artists": [
         {
-          "name": "muddy",
-          "url": "https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM"
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Hello (Iced Heart Riddim)",
-      "url": "https://open.spotify.com/track/6coofViEiuNH9OT1T1piL1"
+      "duration_ms": 152624,
+      "name": "Party Nice",
+      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1379,38 +1411,6 @@
       "duration_ms": 180272,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Invasion Band Feat. Naya George",
-          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
-        "name": "Retro Fete Riddim",
-        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "Party Nice",
-      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
         "name": "Front Yard Wet",
         "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
       },
@@ -1531,6 +1531,34 @@
       "duration_ms": 171885,
       "name": "Front Yard Wet",
       "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP"
+      },
+      "artists": [
+        {
+          "name": "Baron",
+          "url": "https://open.spotify.com/artist/2sRsSGDTIpVs0r5UQ4OA3p"
+        },
+        {
+          "name": "Shurwayne Winchester",
+          "url": "https://open.spotify.com/artist/2dqzb4OvhCxwr9ogGBEsQx"
+        },
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        },
+        {
+          "name": "The KVG",
+          "url": "https://open.spotify.com/artist/34ElLOqbMNKj5XkHsaFUx2"
+        }
+      ],
+      "duration_ms": 164409,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1583,6 +1611,22 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
         "name": "Dingolay",
         "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
       },
@@ -1603,22 +1647,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Spoil You",
         "url": "https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb"
       },
@@ -1631,34 +1659,6 @@
       "duration_ms": 188842,
       "name": "Spoil You",
       "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
-        "name": "Rock It",
-        "url": "https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP"
-      },
-      "artists": [
-        {
-          "name": "Baron",
-          "url": "https://open.spotify.com/artist/2sRsSGDTIpVs0r5UQ4OA3p"
-        },
-        {
-          "name": "Shurwayne Winchester",
-          "url": "https://open.spotify.com/artist/2dqzb4OvhCxwr9ogGBEsQx"
-        },
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        },
-        {
-          "name": "The KVG",
-          "url": "https://open.spotify.com/artist/34ElLOqbMNKj5XkHsaFUx2"
-        }
-      ],
-      "duration_ms": 164409,
-      "name": "Rock It",
-      "url": "https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA"
     },
     {
       "added_at": "2026-07-02 16:13:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,628 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,640 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 46 | [El pañuelo](https://open.spotify.com/track/2jZuDQPI6TFiN15wYsmaDS) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 2:21 |
 | 47 | [En toda la chapa](https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:33 |
 | 48 | [Dime Ven](https://open.spotify.com/track/4v2pHWmKEn3L3OmptYIImz) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Si Volviera a Nacer](https://open.spotify.com/album/34UGiWYpnkLidBg7MOnJYF) | 3:35 |
-| 49 | [Vivir sin ella](https://open.spotify.com/track/2CAPJjivO1styJgQW0ukVP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Vivir sin ella](https://open.spotify.com/album/0CcVWEAEAyZiKxGRkcIOwE) | 3:51 |
-| 50 | [A Capa y Espada](https://open.spotify.com/track/4g8IpeTFKxoDYIIPBu4Dv8) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa y Espada](https://open.spotify.com/album/7LA0pBjRzz4A623ZAaZbAT) | 4:31 |
+| 49 | [A Capa y Espada](https://open.spotify.com/track/4g8IpeTFKxoDYIIPBu4Dv8) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa y Espada](https://open.spotify.com/album/7LA0pBjRzz4A623ZAaZbAT) | 4:31 |
+| 50 | [Vivir sin ella](https://open.spotify.com/track/2CAPJjivO1styJgQW0ukVP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Vivir sin ella](https://open.spotify.com/album/0CcVWEAEAyZiKxGRkcIOwE) | 3:51 |
 
-Snapshot ID: `an+sAAAAAAAFZo8YKE+1NEr3e+n0IVo8`
+Snapshot ID: `aoD9gAAAAAAF1F3dxmINBlKshkE3qTkp`

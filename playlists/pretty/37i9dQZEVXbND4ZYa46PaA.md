@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,807 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,808 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 43 | [Atlas](https://open.spotify.com/track/3tLAAzVOXdrORIALmSfKV3) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Gedoe](https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R) | 3:00 |
 | 44 | [MON BÉBÉ](https://open.spotify.com/track/1twXUY8kbuu6uUKIHeFuHM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 2:10 |
 | 45 | [RENÉ CAOVILLA](https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [RENÉ CAOVILLA](https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR) | 2:17 |
-| 46 | [Kingdom of Fear](https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:41 |
+| 46 | [Kingdom of Fear](https://open.spotify.com/track/1zPpQABUmm6RzLAC7X4DB2) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:41 |
 | 47 | [La pétasse](https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Destinée Supremacy](https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t) | 2:30 |
 | 48 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 49 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 50 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 |
 
-Snapshot ID: `MhUXOAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MhZouAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-111 songs - 9 hr 8 min
+112 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Merry Xmas Everybody](https://open.spotify.com/track/27N1KikJjyMPpcLZ3Fz0mN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [1 Love](https://open.spotify.com/album/6jf84Ka45iQmAdaVCnRS9u) | 4:20 | 2022-01-11 | 2022-05-13 |
 | [Morning Glory \- Remastered](https://open.spotify.com/track/0awZMpokrVSdvtYe1MdcWM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 5:03 | 2025-11-22 | 2025-12-08 |
 | [Morning Glory \- Remastered](https://open.spotify.com/track/1H0K1GVwLteCZrPquy7qkM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 5:03 | 2022-01-17 | 2026-05-21 |
-| [My Big Mouth \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:10 | 2022-01-11 | 2026-02-06 |
+| [My Big Mouth \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:10 | 2022-01-11 |  |
 | [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/03QZPaiw1N94aAFDv7k5Em) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\)](https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy) | 5:22 | 2025-11-27 | 2025-12-13 |
 | [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 5:22 | 2022-01-11 | 2025-09-16 |
 | [Rockin' Chair](https://open.spotify.com/track/0cinxoejsLL50k5BN8AQlK) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:35 | 2025-06-23 | 2026-02-03 |
@@ -85,6 +85,7 @@
 | [She Is Love](https://open.spotify.com/track/01uctxky5IDj8UQvdmcLIv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:09 | 2022-01-11 |  |
 | [She Is Love](https://open.spotify.com/track/78BHYuPCnUBh9wlbNWTCqC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T) | 3:09 | 2023-06-13 | 2026-01-04 |
 | [She's Electric \- Remastered](https://open.spotify.com/track/60QLLec3yKDwloXCyummPy) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 3:40 | 2022-01-11 |  |
+| [Sitting Here In Silence \(On My Own\)](https://open.spotify.com/track/3NYrnO20SSqCSTvvGaK7tc) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Let There Be Love](https://open.spotify.com/album/6wQ1KhOZLQDmOAZRNdvkNi) | 1:58 | 2026-08-18 |  |
 | [Slide Away \- Remastered](https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 6:32 | 2022-01-11 |  |
 | [Slide Away \- Remastered](https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\)](https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy) | 6:32 | 2025-11-20 | 2026-01-15 |
 | [Some Might Say](https://open.spotify.com/track/6CpEUxOlhcynZpIvPY08iv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 5:27 | 2025-07-17 | 2025-11-16 |

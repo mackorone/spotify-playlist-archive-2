@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3286,
+  "num_followers": 3288,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABdaMdpSLtoeKazuep5Mc9x",
+  "snapshot_id": "aoD9gAAAAABLwt6hBAIu+vC6LuOGxqbU",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 213906,
-      "name": "FM",
-      "url": "https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV"
+      "duration_ms": 195693,
+      "name": "Spend, Spend, Spend",
+      "url": "https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Spend, Spend, Spend",
-      "url": "https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67"
+      "duration_ms": 213906,
+      "name": "FM",
+      "url": "https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Return of the Giant Slits",
-        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
+        "name": "Revenge of the Killer Slits",
+        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 261853,
-      "name": "Face Place",
-      "url": "https://open.spotify.com/track/5b7PGHS5XOiLwWtg7voKJM"
+      "duration_ms": 247666,
+      "name": "Kill Them Wtih love",
+      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge of the Killer Slits",
-        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
+        "name": "Return of the Giant Slits",
+        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Kill Them Wtih love",
-      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
+      "duration_ms": 261853,
+      "name": "Face Place",
+      "url": "https://open.spotify.com/track/5b7PGHS5XOiLwWtg7voKJM"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
       "duration_ms": 113960,
       "name": "Split (Live at The Gibus Club, 1978)",
       "url": "https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Return of the Giant Slits",
-        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 267293,
-      "name": "Improperly Dressed",
-      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 134213,
       "name": "Number One Enemy",
       "url": "https://open.spotify.com/track/2KtEq0B5iP9iVkPbY6mu5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Return of the Giant Slits",
+        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 267293,
+      "name": "Improperly Dressed",
+      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
     },
     {
       "added_at": null,

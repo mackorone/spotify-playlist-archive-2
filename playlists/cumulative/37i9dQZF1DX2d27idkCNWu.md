@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-190 songs - 11 hr 1 min
+191 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Castle on the Hill \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 3:45 | 2021-11-05 |  |
 | [Chandelier](https://open.spotify.com/track/2mO2pVseoh8i0MRjkajuGj) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/6ZzJOsg3G90a3ASCT94KDm) | 5:13 | 2023-11-03 | 2024-04-19 |
 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 | 2021-11-05 | 2023-11-05 |
-| [Cigana \(Maia Sessions\)](https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Maia Sessions](https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS) | 2:17 | 2024-07-12 |  |
+| [Cigana \(Maia Sessions\)](https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Maia Sessions](https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS) | 2:17 | 2024-07-12 | 2026-08-18 |
 | [Coast \(feat\. Anderson .Paak\) \[Acoustic\]](https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast \(Acoustic\)](https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO) | 2:46 | 2022-12-09 |  |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Releituras](https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM) | 2:58 | 2023-03-24 |  |
 | [Como se o amanhã não fosse chegar \- Acústico](https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Como se o amanhã não fosse chegar](https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT) | 3:27 | 2026-05-15 |  |
@@ -136,6 +136,7 @@
 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 | 2021-11-05 |  |
 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 | 2022-10-28 |  |
 | [please](https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2021-11-05 |  |
+| [Poema](https://open.spotify.com/track/5Ej9jsKKWRnogY4ct3ETLr) | [Dani Flomin](https://open.spotify.com/artist/4HSYM8llhUFCWgPhwUcMGJ), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Poema](https://open.spotify.com/album/1vYw1oycPT5VI2FYEw94iX) | 3:48 | 2026-08-14 |  |
 | [Pointless \- Strings Acoustic](https://open.spotify.com/track/27tnkW0WtnEFj4kmMV4DbF) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless \(Strings Acoustic\)](https://open.spotify.com/album/102iyvAz8Z5WnUZUlFN6Mi) | 4:00 | 2023-05-26 | 2024-04-19 |
 | [Pointless \- Strings Acoustic](https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless \(Strings Acoustic\)](https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy) | 4:00 | 2023-02-12 | 2023-05-28 |
 | [Por Você \- Sozinho e Bem Acompanhado](https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Sozinho e Bem Acompanhado](https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto) | 3:26 | 2026-08-07 |  |

@@ -2729,6 +2729,36 @@
     },
     {
       "album": {
+        "name": "Roy",
+        "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Aditi Singh Sharma",
+          "url": "https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264854,
+      "name": "Sooraj Dooba Hain",
+      "url": "https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn"
+    },
+    {
+      "album": {
         "name": "Zindagi Na Milegi Dobara",
         "url": "https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24"
       },
@@ -2936,7 +2966,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 201714,
       "name": "Vyah Karwado Ji (From \"Hai Jawani Toh Ishq Hona Hai\")",
       "url": "https://open.spotify.com/track/2Pe1rwZD3B69lhovqKqvP0"

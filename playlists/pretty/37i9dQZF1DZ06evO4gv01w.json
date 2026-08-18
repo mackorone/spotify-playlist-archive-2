@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30593,
+  "num_followers": 30592,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACjiNq3gxuKoWsPJX5aReMd",
+  "snapshot_id": "aoD9gAAAAADDIEvWTrpCcA+SqAd2nrN9",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 240469,
-      "name": "Nowhere Fast",
-      "url": "https://open.spotify.com/track/0nJR5oxBrPR8XpxIPWMSYy"
+      "duration_ms": 246472,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/7pSWWuXmp8oczjUqZPq5Td"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 246472,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/7pSWWuXmp8oczjUqZPq5Td"
+      "duration_ms": 240469,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/0nJR5oxBrPR8XpxIPWMSYy"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 201526,
+      "name": "In The Air Tonight",
+      "url": "https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Co-Starring",
         "url": "https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin'",
-      "url": "https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reskinned",
         "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
       },
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 201526,
-      "name": "In The Air Tonight",
-      "url": "https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq"
+      "duration_ms": 193389,
+      "name": "Keep Diggin'",
+      "url": "https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT"
     },
     {
       "added_at": null,
@@ -684,41 +684,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 193063,
-      "name": "Hard Time Killing Floor Blues",
-      "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 164340,
-      "name": "God Moves On The Water",
-      "url": "https://open.spotify.com/track/6WO209fUKXVhYhUwlJxp9w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "When God Closes a Door",
-      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
+      "duration_ms": 171256,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
     },
     {
       "added_at": null,
@@ -739,6 +707,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "When God Closes a Door",
+      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 164340,
+      "name": "God Moves On The Water",
+      "url": "https://open.spotify.com/track/6WO209fUKXVhYhUwlJxp9w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 171256,
-      "name": "Blue Ridge Mountains",
-      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
+      "duration_ms": 193063,
+      "name": "Hard Time Killing Floor Blues",
+      "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
     },
     {
       "added_at": null,

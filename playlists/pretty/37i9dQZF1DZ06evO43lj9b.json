@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16715,
+  "num_followers": 16714,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADGuiJ7Tpvi/JpNsjgztXvL",
+  "snapshot_id": "aoD9gAAAAAAiAd+URSP+Rk7qDhWkxhd/",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Share My World",
-        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
       "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 305800,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
+      "duration_ms": 418173,
+      "name": "Can't You See Me",
+      "url": "https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr"
     },
     {
       "added_at": null,
@@ -479,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
       },
       "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 418173,
-      "name": "Can't You See Me",
-      "url": "https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr"
+      "duration_ms": 305800,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roy Ayers JID002",
-        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
+        "name": "Roy Ayers Delfonic Reworked #1",
+        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
       },
       "artists": [
         {
@@ -664,17 +664,17 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         },
         {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+          "name": "Delfonic",
+          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
         },
         {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+          "name": "Merry Clayton",
+          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
         }
       ],
-      "duration_ms": 180549,
-      "name": "Soulful and Unique",
-      "url": "https://open.spotify.com/track/6eA9vRrNPGGPMszrBcOn3a"
+      "duration_ms": 350293,
+      "name": "Oh What A Lonely Feeling - Delfonic Rework",
+      "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"
     },
     {
       "added_at": null,
@@ -703,26 +703,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Time",
-        "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
+        "name": "Roy Ayers JID002",
+        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
       "artists": [
         {
-          "name": "Richard Earnshaw",
-          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
-        },
-        {
-          "name": "Erik Dillard",
-          "url": "https://open.spotify.com/artist/1Zepv2yyM4iZMjIKoMmvnH"
-        },
-        {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
         }
       ],
-      "duration_ms": 523840,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I"
+      "duration_ms": 180549,
+      "name": "Soulful and Unique",
+      "url": "https://open.spotify.com/track/6eA9vRrNPGGPMszrBcOn3a"
     },
     {
       "added_at": null,
@@ -747,6 +747,30 @@
       "duration_ms": 183853,
       "name": "Coffy Is The Color",
       "url": "https://open.spotify.com/track/2LrD0ffUIfUdffoE1d2d3k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
+      },
+      "artists": [
+        {
+          "name": "Richard Earnshaw",
+          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
+        },
+        {
+          "name": "Erik Dillard",
+          "url": "https://open.spotify.com/artist/1Zepv2yyM4iZMjIKoMmvnH"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 523840,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I"
     },
     {
       "added_at": null,
@@ -779,30 +803,6 @@
       "duration_ms": 230733,
       "name": "For Real",
       "url": "https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roy Ayers Delfonic Reworked #1",
-        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Delfonic",
-          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
-        },
-        {
-          "name": "Merry Clayton",
-          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
-        }
-      ],
-      "duration_ms": 350293,
-      "name": "Oh What A Lonely Feeling - Delfonic Rework",
-      "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Terri Wells",
-          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
-        }
-      ],
-      "duration_ms": 427906,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 280840,
       "name": "The Boogie Back",
       "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Terri Wells",
+          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
+        }
+      ],
+      "duration_ms": 427906,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7"
     },
     {
       "added_at": null,

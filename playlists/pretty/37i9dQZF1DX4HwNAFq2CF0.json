@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Angine de Poitrine",
-  "num_followers": 77583,
+  "num_followers": 77591,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 139460,
       "name": "my ex's best friend (with blackbear)",
       "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Bank On The Funeral",
-        "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Hallucinogenics",
-      "url": "https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 186813,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Bank On The Funeral",
+        "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Hallucinogenics",
+      "url": "https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
     },
     {
-      "added_at": "2026-05-29 16:00:59",
-      "album": {
-        "name": "Going Shopping",
-        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 261747,
-      "name": "Going Shopping",
-      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
-    },
-    {
       "added_at": "2026-05-06 20:31:40",
       "album": {
         "name": "Watch The World Burn",
@@ -693,20 +677,20 @@
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
-      "added_at": "2026-05-28 21:10:12",
+      "added_at": "2026-05-29 16:00:59",
       "album": {
-        "name": "Vol.II",
-        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
       },
       "artists": [
         {
-          "name": "Angine de Poitrine",
-          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 275599,
-      "name": "Sarniezz",
-      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -725,20 +709,20 @@
       "url": "https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA"
     },
     {
-      "added_at": "2026-05-06 20:31:40",
+      "added_at": "2026-05-28 21:10:12",
       "album": {
-        "name": "God Of Angels Trust",
-        "url": "https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC"
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
         }
       ],
-      "duration_ms": 222960,
-      "name": "By a Monster\u2019s Hand",
-      "url": "https://open.spotify.com/track/6okhNU97I9bKQ1wCbtleOQ"
+      "duration_ms": 275599,
+      "name": "Sarniezz",
+      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -755,6 +739,22 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "God Of Angels Trust",
+        "url": "https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "By a Monster\u2019s Hand",
+      "url": "https://open.spotify.com/track/6okhNU97I9bKQ1wCbtleOQ"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/5F2l8MpjysPrqxk0xq7fiU"
     },
     {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
+    },
+    {
       "added_at": "2026-07-10 01:13:08",
       "album": {
         "name": "We Might as Well Be Strangers (ft. Wednesday)",
@@ -919,22 +935,6 @@
       "duration_ms": 214346,
       "name": "We Might as Well Be Strangers (ft. Wednesday)",
       "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 183602,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Crisis of Faith",
-        "url": "https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 204076,
-      "name": "Reckless Paradise",
-      "url": "https://open.spotify.com/track/78RNxc9EMBSlv5yWIOjIzs"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Digital Silence",
         "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 198026,
       "name": "Digital Silence",
       "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Crisis of Faith",
+        "url": "https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 204076,
+      "name": "Reckless Paradise",
+      "url": "https://open.spotify.com/track/78RNxc9EMBSlv5yWIOjIzs"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 353986,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
-    },
-    {
-      "added_at": "2026-05-29 16:00:59",
-      "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/6nygUYRnelgPrDgOTSvV3U"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 225012,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/0Id1uGKixXaLt8v4wFfUS6"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 353986,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 314486,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn"
+    },
+    {
+      "added_at": "2026-05-29 16:00:59",
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/6nygUYRnelgPrDgOTSvV3U"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 225012,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/0Id1uGKixXaLt8v4wFfUS6"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1315,22 +1315,6 @@
       "duration_ms": 312084,
       "name": "Meeting The Master",
       "url": "https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ"
-    },
-    {
-      "added_at": "2026-07-10 01:13:08",
-      "album": {
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Violins",
-      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1367,6 +1351,22 @@
       "duration_ms": 97577,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/1bxMHHxV6ghlLPCW06raOt"
+    },
+    {
+      "added_at": "2026-07-10 01:13:08",
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Lux \u00c6terna",
-        "url": "https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Young Beauties and Fools",
         "url": "https://open.spotify.com/album/1YExkEfG8yevSjaWg5Z8xv"
       },
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "Lux \u00c6terna",
+        "url": "https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "Dirty Honey",
         "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 205090,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "The Human Condition",
-        "url": "https://open.spotify.com/album/6B5lqns5bfyeAStm1vLj9e"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 235672,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/79wVMF2iOCML96gdWYqO9L"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1503,22 +1487,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "The Sheepdogs (Deluxe)",
-        "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Always There",
         "url": "https://open.spotify.com/album/414wrfaGvmBqnPt3iqT5ZV"
       },
@@ -1531,6 +1499,22 @@
       "duration_ms": 322000,
       "name": "Always There",
       "url": "https://open.spotify.com/track/2xQJwReGvxioWM9jeehAEh"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "The Human Condition",
+        "url": "https://open.spotify.com/album/6B5lqns5bfyeAStm1vLj9e"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 235672,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/79wVMF2iOCML96gdWYqO9L"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "The Sheepdogs (Deluxe)",
+        "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "EVERGREEN",
         "url": "https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 152133,
       "name": "GODDESS",
       "url": "https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "Late Show",
-        "url": "https://open.spotify.com/album/3UC6PUVkyKlZ2ygOYH2RGN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "T-Shirt",
-      "url": "https://open.spotify.com/track/6T0Nh56rt7qHHaG6tAcGiz"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1599,22 +1583,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Ohio Players",
-        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 167312,
-      "name": "Beautiful People (Stay High)",
-      "url": "https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Morning Report (Deluxe)",
         "url": "https://open.spotify.com/album/2qzcSOkX6xYvlC2RPAqboQ"
       },
@@ -1631,18 +1599,50 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Today's Song",
-        "url": "https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct"
+        "name": "Late Show",
+        "url": "https://open.spotify.com/album/3UC6PUVkyKlZ2ygOYH2RGN"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 194819,
-      "name": "Today's Song",
-      "url": "https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36"
+      "duration_ms": 186373,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/6T0Nh56rt7qHHaG6tAcGiz"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Ohio Players",
+        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 167312,
+      "name": "Beautiful People (Stay High)",
+      "url": "https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 304986,
+      "name": "Sans Soleil",
+      "url": "https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s"
     }
   ],
   "unique_name": "Rock Favourites",

@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-1,005 songs - 1 day 23 hr 24 min
+1,006 songs - 1 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [2 Different](https://open.spotify.com/track/400E4VtxGIS50h6x6phoL1) | [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V) | [2 Different](https://open.spotify.com/album/69VQCDmPBxe0LiZOG2hGuE) | 2:17 | 2025-07-18 |  |
 | [2 Major](https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [2 Major](https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn) | 2:18 | 2025-04-04 | 2026-05-02 |
 | [2003](https://open.spotify.com/track/2kQhnUGXjDIpG6yCn5Rzll) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Ots J Huncho](https://open.spotify.com/artist/3t0reSevrtrvnbSccbMo7l) | [2003](https://open.spotify.com/album/47A2NYUmjD9qRnO48VgNxN) | 2:26 | 2025-11-07 |  |
-| [24/7](https://open.spotify.com/track/3oxp442Q1TqAQmcZ54PBpI) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [24/7](https://open.spotify.com/album/0oG5vIJ8i1hrSxBSEPfAJ9) | 2:19 | 2026-08-07 |  |
+| [24/7](https://open.spotify.com/track/3oxp442Q1TqAQmcZ54PBpI) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [24/7](https://open.spotify.com/album/0oG5vIJ8i1hrSxBSEPfAJ9) | 2:19 | 2026-08-07 | 2026-08-18 |
 | [2BIG!](https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [2BIG!](https://open.spotify.com/album/3P5YjGhkXFyHHYxxR9IHPL) | 3:14 | 2024-02-02 | 2024-07-06 |
 | [400 Down](https://open.spotify.com/track/1g4IKIdKCx12iox1JPD6bR) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ) | [400 Down](https://open.spotify.com/album/6PXoM9qRW5BiS3WpEGKasf) | 3:15 | 2026-07-03 |  |
 | [Abacus](https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Abacus](https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1) | 2:03 | 2025-05-09 | 2026-02-21 |
@@ -536,6 +536,7 @@
 | [Long Time Coming](https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Long Time Coming](https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7) | 2:53 | 2024-03-20 | 2024-11-09 |
 | [Long Way \(feat\. KB\)](https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Let's Be Honest \- EP](https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y) | 2:16 | 2022-09-03 | 2024-01-13 |
 | [LOOK AT ME NOW](https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [NOW OR LATER](https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp) | 2:26 | 2022-10-01 | 2022-11-23 |
+| [Look At Me Now](https://open.spotify.com/track/2IurA2kNqM5SksokM24EOa) | [Tylan1k](https://open.spotify.com/artist/6PY88og97O47AlwuyFFRhr) | [From the Secret Place](https://open.spotify.com/album/0YIamQNVsMlQQEHw22xwtA) | 2:35 | 2026-08-07 |  |
 | [Look at Me Now](https://open.spotify.com/track/0D0cxJpnhijpr5QMmKmYDL) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Look at Me Now](https://open.spotify.com/album/430Kd4ZOu31gytgHSIk4Jh) | 3:58 | 2022-05-28 | 2022-07-24 |
 | [LORD JESUS](https://open.spotify.com/track/3fhJOOW5qVGpdUWbogQZOx) | [Trendsetter Sense](https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [LORD JESUS](https://open.spotify.com/album/49xq5t53YZm4bKkPqaQ9B7) | 2:42 | 2026-02-20 |  |
 | [Lord Knows](https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Lord Knows](https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o) | 3:02 | 2022-11-04 | 2024-01-13 |

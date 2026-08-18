@@ -460,7 +460,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 275155,
       "name": "Alles was atmet",
       "url": "https://open.spotify.com/track/1MykT5b0IeEMvh42jPn1Le"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 259806,
       "name": "Carnival Freak Show",
       "url": "https://open.spotify.com/track/2tusekaOabDIj1HajqDmoy"
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "Commander Cruel - Rework 2026",
       "url": "https://open.spotify.com/track/1cz2tkOAJEnaOr4DLp16hH"
@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 220376,
       "name": "Deep",
       "url": "https://open.spotify.com/track/3sUcCa6qKH6d7Lo0epfqTW"
@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 299000,
       "name": "Definition Of Fun",
       "url": "https://open.spotify.com/track/3F1kea4h1Mr8IyZS6BCC9K"
@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 306375,
       "name": "Drag Me to Hell",
       "url": "https://open.spotify.com/track/0OgHz5cn4QUTzqW9FHEHvj"
@@ -4346,7 +4346,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 99552,
       "name": "Fall Of A Good Man",
       "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 144428,
       "name": "Fire On Horizon",
       "url": "https://open.spotify.com/track/38vqJVPPCCBlirU7xNRWOd"
@@ -6114,7 +6114,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "I Need Something Stronger",
       "url": "https://open.spotify.com/track/4nAeuKOsuzJHWubLQzBrwr"
@@ -6636,7 +6636,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -7048,7 +7048,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 243191,
       "name": "Krev teenager\u016f",
       "url": "https://open.spotify.com/track/1hoao7Ln8xcqKL5tAzPVMe"
@@ -7156,7 +7156,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 69743,
       "name": "Last Gasp Dispatch",
       "url": "https://open.spotify.com/track/3nOM6Zb7SLjREBzdVILcei"
@@ -7419,6 +7419,24 @@
     },
     {
       "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/5a9HfS97nJTSRaL4IwEtpz"
+      },
+      "artists": [
+        {
+          "name": "Blood and Sun",
+          "url": "https://open.spotify.com/artist/4e9azv2Fs42jb4NFZtlcu5"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160710,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/3BuexI2QpXVYeXvo6NmSxO"
+    },
+    {
+      "album": {
         "name": "Life Whisper",
         "url": "https://open.spotify.com/album/39x2ldLiTSQdP8LJ71MEzt"
       },
@@ -7430,7 +7448,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -8896,7 +8914,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 255812,
       "name": "My Elegy",
       "url": "https://open.spotify.com/track/1affhJbiFkgnBpxzeQ5WFh"
@@ -9246,7 +9264,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 205653,
       "name": "Nighttrippin",
       "url": "https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH"
@@ -10145,6 +10163,28 @@
     },
     {
       "album": {
+        "name": "Pansarvagn",
+        "url": "https://open.spotify.com/album/7uuRGCICat42obm1p4D1Tg"
+      },
+      "artists": [
+        {
+          "name": "SVART",
+          "url": "https://open.spotify.com/artist/6kaIL1HuDfBO4SSjbOjOu7"
+        },
+        {
+          "name": "Ulverheim",
+          "url": "https://open.spotify.com/artist/438bQDlvWba3ISadct02Lt"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246152,
+      "name": "Pansarvagn",
+      "url": "https://open.spotify.com/track/3t1sCUXzrIzE4mz4CNBlbu"
+    },
+    {
+      "album": {
         "name": "Parade",
         "url": "https://open.spotify.com/album/0pH5IOXaRf6f5xSKRAH30g"
       },
@@ -10358,7 +10398,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -10604,7 +10644,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 147278,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/7hund5bivOghcZsQu1PdNp"
@@ -12468,7 +12508,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -13146,7 +13186,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 154000,
       "name": "The Darker Side Of You",
       "url": "https://open.spotify.com/track/746dCKOe8C7g1yF65hCGE1"
@@ -15890,7 +15930,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 306938,
       "name": "Where is the rainbow?",
       "url": "https://open.spotify.com/track/2vdp5KyKYH5t2hoR6W9OzC"
@@ -16456,7 +16496,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 333000,
       "name": "Zelts",
       "url": "https://open.spotify.com/track/5hUZLAo0wGQmshciviNTJ4"

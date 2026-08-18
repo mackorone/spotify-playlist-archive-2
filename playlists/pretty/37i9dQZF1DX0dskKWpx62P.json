@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 68489,
+  "num_followers": 68514,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Nuestra Promesa",
-        "url": "https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob"
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
       },
       "artists": [
         {
-          "name": "William Luna",
-          "url": "https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw"
-        },
-        {
-          "name": "Magaly Solier",
-          "url": "https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6"
+          "name": "Estudiantina Per\u00fa",
+          "url": "https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC"
         }
       ],
-      "duration_ms": 290853,
-      "name": "Nuestra Promesa",
-      "url": "https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR"
+      "duration_ms": 177653,
+      "name": "Convoycito de Huancayo",
+      "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -243,18 +239,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+        "name": "Nuestra Promesa",
+        "url": "https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob"
       },
       "artists": [
         {
-          "name": "Estudiantina Per\u00fa",
-          "url": "https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC"
+          "name": "William Luna",
+          "url": "https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw"
+        },
+        {
+          "name": "Magaly Solier",
+          "url": "https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6"
         }
       ],
-      "duration_ms": 177653,
-      "name": "Convoycito de Huancayo",
-      "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
+      "duration_ms": 290853,
+      "name": "Nuestra Promesa",
+      "url": "https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "Serenata Condemayta",
-      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 163080,
       "name": "Mi Linda Ni\u00f1a",
       "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Serenata Condemayta",
+      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Al Comp\u00e1s de Mi Guitarra",
+      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "Sobreviviendo",
         "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 222973,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Al Comp\u00e1s de Mi Guitarra",
-      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "Carrito del Gobierno",
+      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+        "name": "Folklore",
+        "url": "https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h"
       },
       "artists": [
         {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+          "name": "Tupay",
+          "url": "https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F"
         }
       ],
-      "duration_ms": 160200,
-      "name": "Carrito del Gobierno",
-      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
+      "duration_ms": 228800,
+      "name": "Granadita",
+      "url": "https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -515,22 +531,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Folklore",
-        "url": "https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h"
-      },
-      "artists": [
-        {
-          "name": "Tupay",
-          "url": "https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Granadita",
-      "url": "https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "El Jilguero de Huascar\u00e1n",
         "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 340653,
       "name": "Yo Soy el Amor",
       "url": "https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Ayacucho En El Corazon De Todos Vol.2",
+        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
+      },
+      "artists": [
+        {
+          "name": "Kiko Revatta",
+          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Donde Estar\u00e1s Palomita",
+      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -595,22 +611,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Ayacucho En El Corazon De Todos Vol.2",
-        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
-      },
-      "artists": [
-        {
-          "name": "Kiko Revatta",
-          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Donde Estar\u00e1s Palomita",
-      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "La Santa Tierra",
         "url": "https://open.spotify.com/album/1Et11TUnb0Hw7NcqpmAZYC"
       },
@@ -639,6 +639,34 @@
       "duration_ms": 237506,
       "name": "Bella Mestiza",
       "url": "https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Huaynos corazon y alma",
+        "url": "https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ"
+      },
+      "artists": [
+        {
+          "name": "Pastorita Huaracina",
+          "url": "https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF"
+        },
+        {
+          "name": "Estrellita de Pomabamba",
+          "url": "https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX"
+        },
+        {
+          "name": "Semilia Collas",
+          "url": "https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc"
+        },
+        {
+          "name": "Pallasquinita",
+          "url": "https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw"
+        }
+      ],
+      "duration_ms": 186723,
+      "name": "A los filos de un cuchillo",
+      "url": "https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -899,22 +927,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX"
-      },
-      "artists": [
-        {
-          "name": "Pelo D'Ambrosio",
-          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
-        }
-      ],
-      "duration_ms": 281730,
-      "name": "Ay Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N"
       },
@@ -927,6 +939,22 @@
       "duration_ms": 264736,
       "name": "Tu recuerdo",
       "url": "https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX"
+      },
+      "artists": [
+        {
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+        }
+      ],
+      "duration_ms": 281730,
+      "name": "Ay Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -959,26 +987,6 @@
       "duration_ms": 269640,
       "name": "Cajamarquina",
       "url": "https://open.spotify.com/track/4TV3DDrm1RixW2HT7lQLeC"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Tu Puedes Volar",
-        "url": "https://open.spotify.com/album/46QKsVjYkxcFHBqTYp0GvF"
-      },
-      "artists": [
-        {
-          "name": "Damaris",
-          "url": "https://open.spotify.com/artist/6FjlllIP4Dqj9PEEZX8f0j"
-        },
-        {
-          "name": "Raices de Jauja",
-          "url": "https://open.spotify.com/artist/13fJROwEQGh0hO2BK0SVmP"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Amor Verdadero (feat. Raices de Jauja)",
-      "url": "https://open.spotify.com/track/6mfSHLAzJIg8WRPPiytos7"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

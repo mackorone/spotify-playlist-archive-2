@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9253,
+  "num_followers": 9257,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABWIMELTZOHOfgx9r85xyDN",
+  "snapshot_id": "aoD9gAAAAAASef4K7f47YR7Wb68+w/wD",
   "tracks": [
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 168426,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
+      "duration_ms": 152560,
+      "name": "Dame Chance (Rayuela)",
+      "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 152560,
-      "name": "Dame Chance (Rayuela)",
-      "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
+      "duration_ms": 168426,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
     },
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00cdO",
-        "url": "https://open.spotify.com/album/11rPbUpu1jCyf674N8Nkdk"
+        "name": "Parece Un Chiste Con RENEE",
+        "url": "https://open.spotify.com/album/3SlWcRle7SqfiMXwrzOAK0"
       },
       "artists": [
         {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 217232,
-      "name": "M\u00cdO",
-      "url": "https://open.spotify.com/track/5zoOsXcKzGKyfqKgxbJYI4"
+      "duration_ms": 149731,
+      "name": "Parece Un Chiste",
+      "url": "https://open.spotify.com/track/3FaN4AqtGkSMZQ1AzhEzev"
     },
     {
       "added_at": null,
@@ -791,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parece Un Chiste Con RENEE",
-        "url": "https://open.spotify.com/album/3SlWcRle7SqfiMXwrzOAK0"
+        "name": "M\u00cdO",
+        "url": "https://open.spotify.com/album/11rPbUpu1jCyf674N8Nkdk"
       },
       "artists": [
         {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 149731,
-      "name": "Parece Un Chiste",
-      "url": "https://open.spotify.com/track/3FaN4AqtGkSMZQ1AzhEzev"
+      "duration_ms": 217232,
+      "name": "M\u00cdO",
+      "url": "https://open.spotify.com/track/5zoOsXcKzGKyfqKgxbJYI4"
     },
     {
       "added_at": null,

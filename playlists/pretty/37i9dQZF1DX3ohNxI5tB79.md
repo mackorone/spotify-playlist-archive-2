@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of soul & jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,479 likes - 94 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,525 likes - 94 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,804 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,815 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 17 | [Cuanto Te Quiero](https://open.spotify.com/track/7pm5uUs8o5GE9T5oIAbeED) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/0rLXapbkgFxBsutqWfvijP) | 2:43 |
 | 18 | [Ya lo Superé](https://open.spotify.com/track/7KLvYoh4CK9FSzQvQGmCTh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:49 |
 | 19 | [Hablemos](https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:07 |
-| 20 | [Hay Niveles](https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w) | [Hay Niveles](https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb) | 4:12 |
-| 21 | [Me Llamas \- En Vivo](https://open.spotify.com/track/3SqC8hNt1YsnlJj1uYPWCw) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Banda Sinaloense La Tuyia de Culiacán](https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C) | 4:42 |
+| 20 | [Me Llamas \- En Vivo](https://open.spotify.com/track/3SqC8hNt1YsnlJj1uYPWCw) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Banda Sinaloense La Tuyia de Culiacán](https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C) | 4:42 |
+| 21 | [Hay Niveles](https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w) | [Hay Niveles](https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb) | 4:12 |
 | 22 | [Te Voy a Olvidar](https://open.spotify.com/track/3L9b67Rz7l93Wl6rSUwsIY) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 2:43 |
 | 23 | [El Güero Colorado](https://open.spotify.com/track/6lY8neQ9mPQnUge2Gsex14) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:39 |
 | 24 | [Y Si Capeas](https://open.spotify.com/track/0E6g2ECvCoHIGtQTErHLkN) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Y Si Capeas](https://open.spotify.com/album/3NdwMk3O7Tg3C716PqSSR6) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [El Karma](https://open.spotify.com/track/6e1Kq7zm6Tu4XZrSTGxgqt) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/2w5x87DU6Bzd3kLqwHjzd6) | 3:30 |
 | 50 | [Enseñame A Olvidar \- En Vivo](https://open.spotify.com/track/2HN0Bn8umnSKcxPxSwZlQq) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa, Vol.2](https://open.spotify.com/album/3d4KPI8PpjCibhriQ9DSSS) | 3:07 |
 
-Snapshot ID: `an+sAAAAAAAIOb7jVZg0X3viANuhUFgG`
+Snapshot ID: `aoD9gAAAAACZh1YGig/XaqBqnJRTs88i`

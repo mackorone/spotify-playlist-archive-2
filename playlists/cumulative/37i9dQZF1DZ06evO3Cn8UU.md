@@ -4,7 +4,7 @@
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-83 songs - 7 hr 8 min
+84 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [I Can't Live Without Your Love](https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 3:00 | 2024-01-01 |  |
 | [I Don't Love You Anymore](https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 3:58 | 2022-05-25 |  |
 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 | 2022-05-25 |  |
+| [I Miss You, Pt\. 1 \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4kSXMdCeFLEbjlPfgOnlT5) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [I Miss You \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Z62kgqZsdk7BdUjSHyxt3) | 3:18 | 2026-08-18 |  |
 | [I Want My Baby Back](https://open.spotify.com/track/466Nltju0Om75oImtmEyR5) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Heaven Only Knows](https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK) | 4:00 | 2022-05-25 |  |
 | [I'll Never See Heaven Again](https://open.spotify.com/track/6Tc8ylJyphdbGoZiW4OxQK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 4:45 | 2022-05-29 | 2024-05-26 |
 | [I'm Always Thinking About You](https://open.spotify.com/track/62vbkUH43O7M9fPMtyVbbq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [A Little More Magic](https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm) | 5:20 | 2025-12-13 |  |
@@ -61,7 +62,7 @@
 | [Love Is the Power](https://open.spotify.com/track/5yHIHTCmT4Y5XdmUFUjX5r) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 6:17 | 2022-05-25 |  |
 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 | 2022-05-25 |  |
 | [Only You](https://open.spotify.com/track/2OH7gEuDmtdlUce6y0u7EP) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:03 | 2022-05-25 | 2024-03-20 |
-| [Satisfaction Guaranteed \(Or Take Your Love Back\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:30 | 2022-10-12 |  |
+| [Satisfaction Guaranteed \(Or Take Your Love Back\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:30 | 2022-10-12 | 2026-08-18 |
 | [Set Me Free](https://open.spotify.com/track/2hQGpKLIdSx4SvpNtBwqI7) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:04 | 2022-06-01 | 2022-08-28 |
 | [So Sad the Song](https://open.spotify.com/track/3kWjPq2O2bK8RzfoYutWPv) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [BILL SCHNEE](https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 3:20 | 2022-05-25 | 2022-10-13 |
 | [Somebody Told Me](https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 5:11 | 2022-06-15 |  |

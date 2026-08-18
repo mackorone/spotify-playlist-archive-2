@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 210163,
+  "num_followers": 210200,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Immer in Bewegung",
-        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
-      },
-      "artists": [
-        {
-          "name": "Revolverheld",
-          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
-        }
-      ],
-      "duration_ms": 212522,
-      "name": "Ich lass f\u00fcr dich das Licht an",
-      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 230419,
       "name": "Wenn du tanzt",
       "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Immer in Bewegung",
+        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
+      },
+      "artists": [
+        {
+          "name": "Revolverheld",
+          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
+        }
+      ],
+      "duration_ms": 212522,
+      "name": "Ich lass f\u00fcr dich das Licht an",
+      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Falle F\u00fcr Dich",
-        "url": "https://open.spotify.com/album/0P5Ge8SdDUCZRmaLPNUeNH"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 150465,
-      "name": "Falle F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/1RUp6d887zj0N9CrTwYb1j"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "LIEBE IN GEFAHR",
         "url": "https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Mit K",
-        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+        "name": "Falle F\u00fcr Dich",
+        "url": "https://open.spotify.com/album/0P5Ge8SdDUCZRmaLPNUeNH"
       },
       "artists": [
         {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
         }
       ],
-      "duration_ms": 258360,
-      "name": "Kein Liebeslied",
-      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+      "duration_ms": 150465,
+      "name": "Falle F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/1RUp6d887zj0N9CrTwYb1j"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -315,6 +299,22 @@
       "duration_ms": 180200,
       "name": "Er geh\u00f6rt zu mir",
       "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Mit K",
+        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Kein Liebeslied",
+      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "KIOX",
-        "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
-      },
-      "artists": [
-        {
-          "name": "KUMMER",
-          "url": "https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "Bei Dir",
-      "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Laut Gedacht (Re-Edition)",
         "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "KIOX",
+        "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
+      },
+      "artists": [
+        {
+          "name": "KUMMER",
+          "url": "https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "Bei Dir",
+      "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "Gr\u00f6\u00dfer als Liebe",
         "url": "https://open.spotify.com/album/4dnAM5LPg5SUh0umeW2Ogd"
       },
@@ -431,6 +431,26 @@
       "duration_ms": 186666,
       "name": "Gr\u00f6\u00dfer als Liebe",
       "url": "https://open.spotify.com/track/6xPHZX2KN3tY2gW0LWvrBl"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -467,22 +487,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+        "name": "Bunte Scherben",
+        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
       },
       "artists": [
         {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+          "name": "Keimzeit",
+          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
         }
       ],
-      "duration_ms": 220706,
-      "name": "So perfekt",
-      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+      "duration_ms": 226440,
+      "name": "Kling Klang",
+      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -499,22 +515,6 @@
       "duration_ms": 182523,
       "name": "Wenn Du mich l\u00e4sst",
       "url": "https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
-        "name": "Bunte Scherben",
-        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
-      },
-      "artists": [
-        {
-          "name": "Keimzeit",
-          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Kling Klang",
-      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Zwischen meinen Zeilen (Deluxe)",
-        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
-      },
-      "artists": [
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Zu dir",
-      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Herz",
         "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 210693,
       "name": "Liebe ist alles",
       "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Zwischen meinen Zeilen (Deluxe)",
+        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Zu dir",
+      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Diese Eine",
-        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 138924,
-      "name": "Diese Eine",
-      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Es ist Abend und wir sitzen bei mir",
         "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 180186,
       "name": "Katharina",
       "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Diese Eine",
+        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 138924,
+      "name": "Diese Eine",
+      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Was Muss Muss - Best Of",
-        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
-      },
-      "artists": [
-        {
-          "name": "Herbert Gr\u00f6nemeyer",
-          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Demo (Letzter Tag)",
-      "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Es ist Juli",
         "url": "https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 215786,
       "name": "Regen und Meer",
       "url": "https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Was Muss Muss - Best Of",
+        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
+      },
+      "artists": [
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Demo (Letzter Tag)",
+      "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
-      },
-      "artists": [
-        {
-          "name": "becks",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "June",
-      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Nur ein bisschen",
         "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Was Muss Muss - Best Of",
-        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
+        "name": "June",
+        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
       },
       "artists": [
         {
-          "name": "Herbert Gr\u00f6nemeyer",
-          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+          "name": "becks",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
         }
       ],
-      "duration_ms": 259346,
-      "name": "Der Weg",
-      "url": "https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU"
+      "duration_ms": 164840,
+      "name": "June",
+      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -831,6 +815,22 @@
       "duration_ms": 265026,
       "name": "Ultraleicht",
       "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Was Muss Muss - Best Of",
+        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
+      },
+      "artists": [
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        }
+      ],
+      "duration_ms": 259346,
+      "name": "Der Weg",
+      "url": "https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Meine Liebe",
+        "url": "https://open.spotify.com/album/5Sm78Vs7XZ2TGEm4Sr6lbV"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "duration_ms": 188446,
+      "name": "Meine Liebe",
+      "url": "https://open.spotify.com/track/15vtqlvHAnWjaiQdf87zRr"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "paris syndrom (dach session)",
         "url": "https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Meine Liebe",
-        "url": "https://open.spotify.com/album/5Sm78Vs7XZ2TGEm4Sr6lbV"
-      },
-      "artists": [
-        {
-          "name": "Wilhelmine",
-          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
-        }
-      ],
-      "duration_ms": 188446,
-      "name": "Meine Liebe",
-      "url": "https://open.spotify.com/track/15vtqlvHAnWjaiQdf87zRr"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Wenn Worte meine Sprache w\u00e4ren",
         "url": "https://open.spotify.com/album/2ai3kNWda8ZBpeL9Shfxbc"
       },
@@ -951,22 +951,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "2012",
-        "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
+        "name": "F\u00fcr immer ab jetzt",
+        "url": "https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+          "name": "Johannes Oerding",
+          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
         }
       ],
-      "duration_ms": 170200,
-      "name": "2012",
-      "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+      "duration_ms": 231946,
+      "name": "F\u00fcr immer ab jetzt",
+      "url": "https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -987,18 +983,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Beste",
-        "url": "https://open.spotify.com/album/6tlPvg7QG4hlG193DFDXeV"
+        "name": "2012",
+        "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
       },
       "artists": [
         {
-          "name": "Mark Forster",
-          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
         }
       ],
-      "duration_ms": 128354,
-      "name": "Beste",
-      "url": "https://open.spotify.com/track/3q5MXFeYu0f7XMDgqFhWJv"
+      "duration_ms": 170200,
+      "name": "2012",
+      "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
     }
   ],
   "unique_name": "Liebeslieder",

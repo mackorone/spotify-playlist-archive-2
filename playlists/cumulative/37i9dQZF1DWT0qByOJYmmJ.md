@@ -4,7 +4,7 @@
 
 > Tristeza independiente para aquellos días de bajón.
 
-207 songs - 11 hr 51 min
+208 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Al Final](https://open.spotify.com/track/6YwQwgNUvquozKP41xGmRs) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 3:17 | 2022-09-09 | 2023-09-09 |
 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 | 2022-07-11 | 2024-04-19 |
 | [Alguien Como Tú](https://open.spotify.com/track/2qXwXciJwW4Qdg7KDesOCQ) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [El Futuro No Existe](https://open.spotify.com/album/7u4Q7oQOCM6tB5v806Ya84) | 3:45 | 2022-05-27 | 2022-07-06 |
+| [Alma](https://open.spotify.com/track/4ntfDDzYtwkw2NdStMTrER) | [Gus Vazquez](https://open.spotify.com/artist/02ZQCHMjjOq0naJ8M4e5XZ) | [Alma](https://open.spotify.com/album/7qlpuc4FbwRwUgAbCe8XsD) | 2:28 | 2024-07-11 |  |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2022-05-27 |  |
 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 | 2022-05-27 |  |
 | [AMOR O PAZ](https://open.spotify.com/track/5MmZSE6JhMbup6hx3Dy1lg) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [AMOR O PAZ](https://open.spotify.com/album/4IBFRVzPbX1s20RUSf0kD5) | 4:10 | 2024-07-11 |  |
@@ -89,7 +90,7 @@
 | [Honey, No Estás](https://open.spotify.com/track/1E6QpX1YCNfyXtZ4e6HUuS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/2DKRDBbJUMsolMv7mu9epd) | 3:26 | 2022-05-27 | 2022-07-29 |
 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 | 2022-07-11 | 2024-04-19 |
 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 | 2022-05-27 | 2026-05-15 |
-| [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 | 2022-07-11 |  |
+| [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 | 2022-07-11 | 2026-08-18 |
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-08-05 |  |
 | [Jeff Hardy \(Todos se besan con todos\)](https://open.spotify.com/track/4gWwX9Y3e6ddRhKOJGwKwY) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Jeff Hardy \(Todos se besan con todos\)](https://open.spotify.com/album/4bnNqryqYcLIqnROgd04Ts) | 1:31 | 2024-05-10 | 2024-07-11 |
 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 | 2022-05-27 |  |

@@ -4,7 +4,7 @@
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 52 min
+111 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Pesar De Ti y De Mi](https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [A Pesar De Ti y De Mi](https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8) | 4:09 | 2026-06-11 | 2026-06-14 |
 | [Algo Es Mejor](https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:00 | 2025-01-18 | 2026-06-15 |
 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 | 2023-03-24 | 2025-01-18 |
+| [Aline](https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aline](https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE) | 2:36 | 2026-08-18 |  |
 | [Amado Mío](https://open.spotify.com/track/16B4vpVzBCj9muuoxPchlP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:08 | 2024-12-22 | 2025-10-26 |
 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 | 2023-12-13 |  |
 | [Amigos Simplemente](https://open.spotify.com/track/1koHbG9KKSn7p8jyJueSp4) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 | 2023-03-24 | 2025-08-01 |
@@ -26,7 +27,7 @@
 | [Autopoiética](https://open.spotify.com/track/7vNHNUWpNNW9G5hokRWVpH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 2:32 | 2023-12-13 | 2024-03-11 |
 | [BOLERo LIBRA](https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [BOLERo LIBRA](https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk) | 2:52 | 2024-10-25 | 2025-03-14 |
 | [Bonita \- Bonus Track](https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 3:39 | 2023-03-24 |  |
-| [Caderas Blancas](https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:45 | 2023-03-24 |  |
+| [Caderas Blancas](https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:45 | 2023-03-24 | 2026-08-18 |
 | [Callejón de los Secretos](https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cosa Nuestra: Capítulo 0](https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR) | 3:44 | 2025-09-28 | 2026-06-16 |
 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 | 2023-03-24 | 2026-03-18 |
 | [Celos](https://open.spotify.com/track/7eihx3GaEiFI3OGhQo6oL2) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Vive](https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G) | 3:20 | 2023-03-24 | 2025-10-26 |

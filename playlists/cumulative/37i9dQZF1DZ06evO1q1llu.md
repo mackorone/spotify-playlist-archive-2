@@ -4,7 +4,7 @@
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-106 songs - 4 hr 48 min
+107 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Goodbye](https://open.spotify.com/track/0Oj2M3M04NoakUWdC9CQa9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:41 | 2024-12-01 | 2024-12-12 |
 | [Goodbye](https://open.spotify.com/track/4crL6Uy4ghQGJiuUHNJIqK) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:41 | 2024-12-12 |  |
 | [Hate The Other Side \(with Marshmello & The Kid Laroi\)](https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 2:40 | 2023-12-18 |  |
+| [HATRED](https://open.spotify.com/track/4qjUzU7liGURmzCCSNJoOE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f) | 2:52 | 2026-08-18 |  |
 | [HATRED](https://open.spotify.com/track/6PHPKgCfIFUx0WfA4GnHJx) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:52 | 2024-08-11 | 2026-05-11 |
 | [HEAVEN](https://open.spotify.com/track/4euVJGt9jXfLpCtZWYhqj4) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:54 | 2024-08-23 | 2024-10-27 |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-01-27 | 2024-08-23 |
@@ -88,7 +89,7 @@
 | [SORRY](https://open.spotify.com/track/1pF83Xsd9JUGJukVAfwLV5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 3:12 | 2024-09-29 | 2024-10-12 |
 | [SORRY](https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:12 | 2023-12-18 | 2024-09-01 |
 | [Speak](https://open.spotify.com/track/6MiklcQlQKHGqM7VV1mWKo) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:02 | 2023-12-18 | 2026-04-26 |
-| [STAY](https://open.spotify.com/track/0BgOAuclkKvafDSqcTBov2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SWAG LIVE FROM COACHELLA \(Weekend I\)](https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8) | 2:31 | 2026-06-29 |  |
+| [STAY](https://open.spotify.com/track/0BgOAuclkKvafDSqcTBov2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SWAG LIVE FROM COACHELLA \(Weekend I\)](https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8) | 2:31 | 2026-06-29 | 2026-08-18 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2024-01-04 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2023-12-18 | 2025-07-21 |
 | [STICK WITH ME](https://open.spotify.com/track/3ALRBJsse1uiDIVY7SrRux) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:32 | 2024-08-11 | 2026-05-10 |

@@ -4,7 +4,7 @@
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 30 min
+90 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Jeserawa](https://open.spotify.com/track/3A8N17kmwoEdxVXnLB7NuE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [TerryTheVoice](https://open.spotify.com/artist/5L8YTHHqLLEseeaYSqvtDc), [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:10 | 2025-10-19 | 2025-10-21 |
 | [JET](https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [JET](https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW) | 2:55 | 2026-05-17 |  |
 | [Jordan](https://open.spotify.com/track/2Fn9hIUPRQDVFUvaMmAHnw) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jordan](https://open.spotify.com/album/3O0giSD7PgRGCWJEkEYa5o) | 2:25 | 2025-09-12 | 2025-09-16 |
-| [Killin Dem](https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Killin Dem](https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW) | 3:40 | 2025-07-12 |  |
+| [Killin Dem](https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Killin Dem](https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW) | 3:40 | 2025-07-12 | 2026-08-18 |
 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:43 | 2025-07-12 |  |
 | [Lagos Anthem](https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lagos Anthem](https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr) | 3:29 | 2025-07-12 |  |
 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 | 2025-07-12 |  |
@@ -86,6 +86,7 @@
 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 | 2025-08-24 | 2026-05-19 |
 | [Paypal](https://open.spotify.com/track/37DgW8ZSJ1whds7V47YF1Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:32 | 2025-10-19 | 2025-11-25 |
 | [PICANTO \(feat\. Zlatan and ECko Miles\)](https://open.spotify.com/track/08tSNwcNYM9yjuYF9jFvOu) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:04 | 2025-07-12 |  |
+| [Pressure](https://open.spotify.com/track/6EHjqiRgBtgzrlAKgC43bQ) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [22](https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb) | 2:49 | 2026-08-18 |  |
 | [Say No to Big Fall](https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk) | [DaBlixx Osha](https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Sick Six](https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD) | 2:08 | 2025-07-13 | 2026-05-29 |
 | [Secure](https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:19 | 2025-07-12 |  |
 | [Skeleton](https://open.spotify.com/track/4XLhRj4ISLtlPBpARNsrT1) | [FEMI VEGA](https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Skeleton](https://open.spotify.com/album/4qf70z1GM2v5MGbbXRtehp) | 2:24 | 2026-07-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Shin In Ryu) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 251190,
+  "num_followers": 251183,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "added_at": "2026-08-13 11:06:03",
+      "album": {
         "name": "Take-off",
         "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 167573,
       "name": "eight(Prod.&Feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
-    },
-    {
-      "added_at": "2026-08-13 11:06:03",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "for lovers who hesitate",
-      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -423,22 +423,18 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "can't love (feat. HAN (Stray Kids))",
-        "url": "https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm"
+        "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+        "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
       },
       "artists": [
         {
-          "name": "can't be blue",
-          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
-        },
-        {
-          "name": "HAN",
-          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 195000,
-      "name": "can't love (feat. HAN (Stray Kids))",
-      "url": "https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA"
+      "duration_ms": 300786,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -459,34 +455,22 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
+        "name": "can't love (feat. HAN (Stray Kids))",
+        "url": "https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm"
       },
       "artists": [
         {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 300786,
-      "name": "Event Horizon",
-      "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
-    },
-    {
-      "added_at": "2026-08-13 11:06:03",
-      "album": {
-        "name": "ASTERUM : 134-1",
-        "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
-      },
-      "artists": [
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        },
         {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+          "name": "HAN",
+          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
         }
       ],
-      "duration_ms": 219453,
-      "name": "WAY 4 LUV",
-      "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
+      "duration_ms": 195000,
+      "name": "can't love (feat. HAN (Stray Kids))",
+      "url": "https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -503,6 +487,22 @@
       "duration_ms": 231586,
       "name": "Traffic light",
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
+    },
+    {
+      "added_at": "2026-08-13 11:06:03",
+      "album": {
+        "name": "ASTERUM : 134-1",
+        "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "WAY 4 LUV",
+      "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "Caligo Pt.1",
-        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Dash",
-      "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
-    },
-    {
-      "added_at": "2026-08-13 11:06:03",
-      "album": {
         "name": "DEAR.",
         "url": "https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 251293,
       "name": "Flowering",
       "url": "https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V"
+    },
+    {
+      "added_at": "2026-08-13 11:06:03",
+      "album": {
+        "name": "Caligo Pt.1",
+        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -611,8 +611,8 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
       },
       "artists": [
         {
@@ -620,9 +620,25 @@
           "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
+      "duration_ms": 217067,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
+    },
+    {
+      "added_at": "2026-08-13 11:06:03",
+      "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI"
+      },
+      "artists": [
+        {
+          "name": "Alice Syndrome",
+          "url": "https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -659,22 +675,6 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "Deep Dive",
-        "url": "https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI"
-      },
-      "artists": [
-        {
-          "name": "Alice Syndrome",
-          "url": "https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC"
-    },
-    {
-      "added_at": "2026-08-13 11:06:03",
-      "album": {
         "name": "AMNESIA",
         "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
       },
@@ -691,8 +691,8 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "Fourever",
-        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 217067,
-      "name": "Welcome to the Show",
-      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "Pump Up The Volume!",
-        "url": "https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 179386,
-      "name": "Pump Up The Volume!",
-      "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
-    },
-    {
-      "added_at": "2026-08-13 11:06:03",
-      "album": {
         "name": "H1-KEY 4th Mini Album [Lovestruck]",
         "url": "https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 192040,
       "name": "Summer Was You",
       "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"
+    },
+    {
+      "added_at": "2026-08-13 11:06:03",
+      "album": {
+        "name": "Pump Up The Volume!",
+        "url": "https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Pump Up The Volume!",
+      "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -819,18 +819,18 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "Archive. 1",
-        "url": "https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
       "artists": [
         {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Human Extinction",
-      "url": "https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr"
+      "duration_ms": 186000,
+      "name": "TOGETHER!",
+      "url": "https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

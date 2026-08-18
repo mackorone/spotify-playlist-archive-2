@@ -4,7 +4,7 @@
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: مُسلِم
 
-516 songs - 1 day 6 hr 37 min
+517 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Eftahli Albak](https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Eftahli Albak](https://open.spotify.com/album/0vg1yWxtXpaFXGDFPbr3BX) | 3:13 | 2023-05-25 | 2023-08-05 |
 | [Ehtirami](https://open.spotify.com/track/6G7ZvwAVPFyBLwYtBZeIk8) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Ehtirami](https://open.spotify.com/album/3yvKVLjqfhqsPoUliqRAkW) | 3:49 | 2023-05-17 | 2023-05-26 |
 | [Eih Mastakfitsh](https://open.spotify.com/track/4FdE80MQin0VNEucCOyx7V) | [Hamada Majrshi](https://open.spotify.com/artist/56dos4HeHr1HpSmROilHHb) | [Eih Mastakfitsh](https://open.spotify.com/album/18vY1101trpdjYEOalqpPE) | 4:16 | 2026-07-13 | 2026-08-07 |
+| [EKDEB W OUL](https://open.spotify.com/track/160pEuFoT79CDoQf4q4MDv) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1) | [EKDEB W OUL](https://open.spotify.com/album/4ywsfJ6EGEtwg6TjmnY5MS) | 3:22 | 2026-08-17 |  |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2022-05-04 | 2023-05-18 |
 | [El Dahab](https://open.spotify.com/track/7mrLcboFABy7lyKCYxgimY) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [El Dahab](https://open.spotify.com/album/5Edgo5uHVbQVkYzRTYrO60) | 3:09 | 2024-04-11 | 2024-08-10 |
 | [El Donya Ray2a](https://open.spotify.com/track/6NWF2mXdfLwRZ4jkX6rL6S) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [El Donya Ray2a](https://open.spotify.com/album/5RLLHfOvHrCcbENPjdjOxX) | 3:01 | 2025-07-17 | 2026-04-09 |
@@ -351,7 +352,7 @@
 | [Zahmet Weshoush](https://open.spotify.com/track/75oCHG4P4pcpTx79twBdpF) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Zahmet Weshoush](https://open.spotify.com/album/5htGDfQfI8xRnbI2S1G7h8) | 3:49 | 2022-05-04 | 2022-10-25 |
 | [Zahra Hala Helwa \(Maa Myriam Fares W Asser Yassin\)](https://open.spotify.com/track/5ksURzwZba1aZd7LVyU9DL) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [Zahra Hala Helwa \(Maa Myriam Fares W Asser Yassin\)](https://open.spotify.com/album/2coqbgNvH5tanBqXSlZrt4) | 1:57 | 2022-07-14 | 2022-09-23 |
 | [ZANN](https://open.spotify.com/track/5qFmwvoaeilACAQCYF7OC0) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [ZANN](https://open.spotify.com/album/5X6rLBXxEMNfl4I1FieiGX) | 2:56 | 2024-08-01 | 2024-12-06 |
-| [Zay El Fol](https://open.spotify.com/track/3VW9yR3VmBwCYaookLhhNx) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Zay El Fol](https://open.spotify.com/album/1LpYeLFdve4nJmUubYDvz2) | 2:57 | 2026-07-22 |  |
+| [Zay El Fol](https://open.spotify.com/track/3VW9yR3VmBwCYaookLhhNx) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Zay El Fol](https://open.spotify.com/album/1LpYeLFdve4nJmUubYDvz2) | 2:57 | 2026-07-22 | 2026-08-18 |
 | [Zayaha Meen](https://open.spotify.com/track/26YGvlmMNFT41QtXWGR0Xi) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:24 | 2022-07-14 | 2023-05-31 |
 | [Zayaha Meen](https://open.spotify.com/track/5NBR9Pd73CpmzdCWTpBbFj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Zayaha Meen](https://open.spotify.com/album/4ousdr4gRYNebJqEgz0pGs) | 3:24 | 2022-05-04 | 2022-07-29 |
 | [Zidini](https://open.spotify.com/track/1b7xtXSt71WhXrL9khIlCK) | [Dunia Batma](https://open.spotify.com/artist/3GCRdccrBJ7DKUQvNMHQmU) | [Zidini](https://open.spotify.com/album/6ezbHGVbpC41VtjbLJn4Vs) | 3:20 | 2023-05-30 | 2023-09-02 |

@@ -3981,6 +3981,28 @@
     },
     {
       "album": {
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/7p8b2CqEXLdqcI37YKX9Fm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        },
+        {
+          "name": "Joey Qui\u00f1ones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "How Lonely Is Lonely",
+      "url": "https://open.spotify.com/track/2xRFQskIigKmmYlXm7cjc3"
+    },
+    {
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
       },

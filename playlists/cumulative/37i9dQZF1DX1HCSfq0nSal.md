@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. mvrk
+> Si está pegao, está aquí\. Feat\. Omar Courtz, Ozuna
 
-991 songs - 2 day 6 hr 32 min
+992 songs - 2 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [don't liE](https://open.spotify.com/track/6e46jZKoeaOCShrVJK1XzN) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 3:33 | 2023-06-23 | 2023-07-18 |
 | [don't liE](https://open.spotify.com/track/7GpSrZ9BAnu5l5ahjRS8KC) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 3:33 | 2023-07-17 | 2023-07-22 |
 | [Donde CRJ \- Remix](https://open.spotify.com/track/63RgY9Eph41dal0MYH4d6V) | [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Donde CRJ \(Remix\)](https://open.spotify.com/album/4m0EGRYRzekBkg9pVRNrKN) | 4:16 | 2023-05-25 | 2023-07-07 |
+| [Donde Hubo Fuego Cenizas Quedan](https://open.spotify.com/track/2ffXkUDtPJ29jZulZjPqqJ) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Donde Hubo Fuego Cenizas Quedan](https://open.spotify.com/album/6hyjCpbJz8IQAvIU13xbiL) | 3:28 | 2026-08-17 |  |
 | [DONDE TE ESCONDES?](https://open.spotify.com/track/7DiNJqM6uyiYqqWX1wsqxG) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn) | [DONDE TE ESCONDES?](https://open.spotify.com/album/1vrAnAX1vy8ALSS9l25aGE) | 2:14 | 2025-01-20 | 2025-04-04 |
 | [DONDE TE ESCONDES? 2.0](https://open.spotify.com/track/4l6Mq0db5Qoi97nhNlEey4) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [DONDE TE ESCONDES? 2.0](https://open.spotify.com/album/1obdhRgr52J2lFgbPlxb40) | 2:49 | 2025-09-01 | 2025-11-04 |
 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 | 2026-01-14 | 2026-03-21 |
@@ -326,7 +327,7 @@
 | [Extasisssssss](https://open.spotify.com/track/5R4NkcQZB1kQXMoCFhl4OH) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 1:56 | 2023-12-21 | 2024-04-19 |
 | [Extasisssssss](https://open.spotify.com/track/7enPATEvctXpgSCydNDgeq) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/129C5hRkXdcOKu5FnuXzeS) | 1:56 | 2023-12-18 | 2024-04-23 |
 | [Facetime!](https://open.spotify.com/track/56lJV1gCYzU3ks2Q42NTWx) | [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0) | [Facetime!](https://open.spotify.com/album/2EBJSi8C01VS8x9sfRvxPH) | 2:01 | 2025-03-31 | 2025-04-04 |
-| [Falsas Promesas \(Remix\)](https://open.spotify.com/track/09djeJtz8wrtQFs5YtwgD4) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Falsas Promesas \(Remix\)](https://open.spotify.com/album/14FAowouxDrPZQOhqrH2SM) | 6:55 | 2026-02-23 |  |
+| [Falsas Promesas \(Remix\)](https://open.spotify.com/track/09djeJtz8wrtQFs5YtwgD4) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Falsas Promesas \(Remix\)](https://open.spotify.com/album/14FAowouxDrPZQOhqrH2SM) | 6:55 | 2026-02-23 | 2026-08-18 |
 | [Fantasia](https://open.spotify.com/track/2cu9stofbXbOFmaIFJzItd) | [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk) | [Belladonna](https://open.spotify.com/album/279QwBqCJMO7irKwrB7024) | 4:02 | 2026-05-18 |  |
 | [FANTASMA \| AVC](https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [FANTASMA \| AVC](https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP) | 4:45 | 2023-06-07 | 2023-06-30 |
 | [FARDOS](https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [FARDOS](https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1) | 3:03 | 2024-02-19 | 2024-04-23 |

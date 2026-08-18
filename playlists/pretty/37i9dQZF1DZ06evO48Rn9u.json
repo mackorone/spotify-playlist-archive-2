@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 156855,
+  "num_followers": 156868,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADPC0Z/TZhG3pi501YsT0IB",
+  "snapshot_id": "aoD9gAAAAAAk5MredMKVMg8CFeCDXflX",
   "tracks": [
     {
       "added_at": null,
@@ -384,21 +384,17 @@
       "added_at": null,
       "album": {
         "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
       },
       "artists": [
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 219357,
-      "name": "Everybody Wants To Be A Cowboy (feat. Billy Strings)",
-      "url": "https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2"
+      "duration_ms": 156973,
+      "name": "Middle of Nowhere",
+      "url": "https://open.spotify.com/track/2s89PsJuhdfQKiHa0pTJcu"
     },
     {
       "added_at": null,

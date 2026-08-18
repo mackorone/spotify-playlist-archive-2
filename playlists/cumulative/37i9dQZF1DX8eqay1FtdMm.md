@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: JEONG EUN JI \(정은지\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-667 songs - 1 day 19 hr 30 min
+668 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Hug Me](https://open.spotify.com/track/29iBmddkKfwYrUbfJmjj6K) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Hug Me](https://open.spotify.com/album/4l2KIzsKsMlYzn9TNS458F) | 2:46 | 2024-05-20 | 2024-08-01 |
 | [I \(feat\. MINSEO\)](https://open.spotify.com/track/0OmPQqX1CajqAZ4MkBz6tb) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [I \(feat\. MINSEO\)](https://open.spotify.com/album/7wcgA4iskyzVb8s4w7St3e) | 4:00 | 2021-12-20 | 2022-07-29 |
 | [I can't forget you](https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [If You Wish Upon Me OST Part.3](https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9) | 3:38 | 2022-08-19 | 2025-09-13 |
-| [I Can't Help It \(Prod\. Jungkey\)](https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can't Help It](https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd) | 3:44 | 2022-09-21 |  |
+| [I Can't Help It \(Prod\. Jungkey\)](https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can't Help It](https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd) | 3:44 | 2022-09-21 | 2026-08-18 |
 | [I Can’t](https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can’t \(Re:WIND 4MEN Vol.02\)](https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6) | 4:10 | 2022-10-08 | 2025-12-05 |
 | [I Don't Want](https://open.spotify.com/track/3aNsBkmdh6MO8UkLd42BUA) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 3:43 | 2022-01-14 | 2022-04-16 |
 | [I hate you](https://open.spotify.com/track/4cuvGQEBMIWnGBQu9yLgOh) | [ZOIN](https://open.spotify.com/artist/6piQESINjWBSElYa126dD7) | [I hate you](https://open.spotify.com/album/0p4tIoEV2Z60mUexJyY4SD) | 3:56 | 2022-03-31 | 2022-06-07 |
@@ -269,7 +269,7 @@
 | [If you see me](https://open.spotify.com/track/1kJSVgmiirpy69GZYealwW) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [If you see me](https://open.spotify.com/album/3Ib1E0Oc3d6OzEAMZoSYXy) | 4:03 | 2024-12-05 | 2025-02-04 |
 | [If you were.](https://open.spotify.com/track/1z7iHdFB9B2RudJJsqoIb8) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [ONE MIND 3](https://open.spotify.com/album/6M5jzARlZqnZhUqMXuzriG) | 4:24 | 2022-03-24 | 2022-04-16 |
 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 | 2021-12-20 | 2024-05-22 |
-| [Invitation](https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Invitation](https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2) | 3:30 | 2022-05-03 | 2026-08-13 |
+| [Invitation](https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Invitation](https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2) | 3:30 | 2022-05-03 |  |
 | [Is it me?](https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Lovers of the Red Sky OST Part.1](https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe) | 4:08 | 2021-12-20 | 2026-01-18 |
 | [Island](https://open.spotify.com/track/3owarI3zuA4HiGWZCVE817) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [CROSSROAD](https://open.spotify.com/album/1UQfHVOBlIFd5YJ1PaM6GG) | 4:29 | 2022-03-31 | 2022-04-24 |
 | [Island](https://open.spotify.com/track/3ICrCBhFiLaX0qP7KErHLe) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 4:16 | 2025-02-10 |  |
@@ -311,7 +311,7 @@
 | [Like nothing happened](https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 3:59 | 2022-04-01 | 2022-07-29 |
 | [Like The Winter That Loved Spring](https://open.spotify.com/track/6tIcrtTCwfaFTojXWNGh0e) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Men Are Men \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/5FxDU6d9QK7gU2bGkFSRm6) | 4:06 | 2022-03-24 | 2022-05-04 |
 | [like wind](https://open.spotify.com/track/22s6kCFuBnnggy3Cio3JPh) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [like wind](https://open.spotify.com/album/4Vmyjv0QUcoTpHY0N3K26x) | 2:49 | 2023-03-27 | 2023-05-04 |
-| [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 | 2022-03-07 |  |
+| [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 | 2022-03-07 | 2026-08-18 |
 | [Lim Jae Beum \- v o K a l \(EN\)](https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:02 | 2022-10-26 |  |
 | [Lim Jae Beum \- v o K a l \(KR\)](https://open.spotify.com/track/1wjeOAasitMZuBLt2PE1YM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:03 | 2022-10-26 |  |
 | [Lingering](https://open.spotify.com/track/0rubDl8akBZ3qP5CWDmmV9) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Lingering](https://open.spotify.com/album/6VMORU9yksutF9zwmP9g4u) | 3:36 | 2024-01-12 | 2024-02-12 |
@@ -437,6 +437,7 @@
 | [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 | 2025-03-15 |
 | [Po.Ong \(feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/5H14NYlM5sV4FTL2NHzych) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Kim Min Seok of MeloMance](https://open.spotify.com/artist/65a7h2pva5HZy6aZA9bvdW) | [Po.Ong \(Hug\)](https://open.spotify.com/album/0F6Yr8EQDnuHn19ZcTMcqj) | 3:47 | 2023-12-20 | 2024-01-02 |
 | [Poem for you](https://open.spotify.com/track/7FTA2rnH392cty5UFNS8gg) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Old story](https://open.spotify.com/album/17n1MjwV3qBfhgjeixlUHE) | 3:39 | 2021-12-27 | 2022-07-29 |
+| [Polaris](https://open.spotify.com/track/6QGqi4zoMNSxrktzLKgp4B) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy), [주시크](https://open.spotify.com/artist/5MzBor5xeZxucJb4XhAXNj) | [\[Vol\. 1\] <Happy Together>](https://open.spotify.com/album/7oL519vywzi9QiNWOEx6au) | 3:27 | 2026-08-12 |  |
 | [Press](https://open.spotify.com/track/0M6VybCyWscrHKcf8ZIzgU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Press \(re;code Episode Ⅸ\)](https://open.spotify.com/album/4yOOZtIGZaX2uEBXUjl5s9) | 3:57 | 2022-01-26 | 2022-06-30 |
 | [Pretty Girl \(Feat\. Dearming\)](https://open.spotify.com/track/7oo3WuG6LuSaAzErdAkzS7) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Dearming](https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx) | [Pretty Girl](https://open.spotify.com/album/7Lq9j14RVf8D7F8Nk2ZIC5) | 3:04 | 2022-02-25 | 2022-04-16 |
 | [Purple Breeze](https://open.spotify.com/track/20NLPjMKvWxEkqT04T1HDD) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [\[Vol.5\] You Hee yul's Sketchbook 10th Anniversary Project : 2nd Voice 'Sketchbook X Ben'](https://open.spotify.com/album/07u6A8DhvM1hTFTQy9qRIw) | 4:11 | 2022-01-21 | 2022-07-20 |

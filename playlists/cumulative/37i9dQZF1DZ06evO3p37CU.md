@@ -4,7 +4,7 @@
 
 > This is EARTHGANG\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 26 min
+73 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Missed Calls](https://open.spotify.com/track/3Z7dieIRSquTYqLVR15mov) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 4:30 | 2025-02-25 |  |
 | [Momma Told Me](https://open.spotify.com/track/6eSTuG07FIPpLkekbpYIsZ) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 3:54 | 2025-08-17 | 2025-08-28 |
 | [Monday](https://open.spotify.com/track/1xSRhbrcNp5Nhfq3wLbNVP) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Torba](https://open.spotify.com/album/1bfSnW4xc5x4T49TRrDelF) | 5:36 | 2025-07-07 | 2025-09-19 |
-| [Nirvana](https://open.spotify.com/track/0zbVUavSPx1L6KdlTEKxZO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [sadMONTH](https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9) | [AHHCade](https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo) | 2:58 | 2026-08-14 |  |
+| [Nirvana](https://open.spotify.com/track/0zbVUavSPx1L6KdlTEKxZO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [sadMONTH](https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9) | [AHHCade](https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo) | 2:58 | 2026-08-14 | 2026-08-18 |
 | [Nirvana](https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [sadMONTH](https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9) | [Nirvana](https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI) | 3:00 | 2026-05-10 | 2026-07-22 |
+| [Nirvana \- Benny Benassi Remix](https://open.spotify.com/track/3QW1NlUehukxZb1YBGBbml) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [sadMONTH](https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Nirvana](https://open.spotify.com/album/3IFIDcn1OpA40MxMPrDxM7) | 2:45 | 2026-08-18 |  |
 | [No Fear No More \(Remix\)](https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [No Fear No More \(Remix\)](https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t) | 2:54 | 2025-02-25 |  |
 | [Opium \(feat\. EARTHGANG\)](https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 6:50 | 2025-02-25 |  |
 | [Options \(with Wale\)](https://open.spotify.com/track/4BcJTOfO1EI6sn1TEKZUyR) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Options \(with Wale\)](https://open.spotify.com/album/32JawunWi79g0aZOpjr0Os) | 2:34 | 2025-09-19 | 2025-11-18 |

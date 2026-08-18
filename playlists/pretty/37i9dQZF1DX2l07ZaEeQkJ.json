@@ -1,6 +1,6 @@
 {
   "description": "trakas hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 191689,
+  "num_followers": 191713,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 166801,
+      "name": "M&M",
+      "url": "https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "ROSONES",
         "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 178079,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "M&M",
-      "url": "https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -691,42 +691,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Por Mi M\u00e9xico (Remix)",
-        "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 405000,
-      "name": "Por Mi M\u00e9xico (Remix)",
-      "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Vaquero (Remix)",
         "url": "https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt"
       },
@@ -763,26 +727,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "FIRST LOVE",
-        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "FIRST LOVE",
-      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Apaga El Cel",
         "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
       },
@@ -799,6 +743,62 @@
       "duration_ms": 170832,
       "name": "Apaga El Cel",
       "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Por Mi M\u00e9xico (Remix)",
+        "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 405000,
+      "name": "Por Mi M\u00e9xico (Remix)",
+      "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "FIRST LOVE",
+        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
-        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 187172,
-      "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
-      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
+        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 187172,
+      "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
+      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 163341,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Pocos A\u00f1os Mil Errores",
         "url": "https://open.spotify.com/album/3Ss2agKWd4oBWEBcdKsZPe"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 185567,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/2eCJD7rEAjSt5zdV76qumQ"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 163341,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 307565,
+      "name": "EN MI MUNDO",
+      "url": "https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -1299,26 +1319,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 307565,
-      "name": "EN MI MUNDO",
-      "url": "https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "SANTAL 33",
         "url": "https://open.spotify.com/album/0shplQLEuJb5ycfUS7Ngli"
       },
@@ -1355,6 +1355,26 @@
       "duration_ms": 249464,
       "name": "La Intenci\u00f3n",
       "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "No Son Doritos",
+        "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "NO SON DORITOS",
+      "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1407,26 +1427,6 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "No Son Doritos",
-        "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "NO SON DORITOS",
-      "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1631,22 +1631,26 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+        "name": "Y Yo Me Le Pego",
+        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
         }
       ],
-      "duration_ms": 150528,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+      "duration_ms": 172806,
+      "name": "Y Yo Me Le Pego",
+      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1671,26 +1675,22 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Y Yo Me Le Pego",
-        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         },
         {
-          "name": "Profeta Yao Yao",
-          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
-        },
-        {
-          "name": "Smi-Lee",
-          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 172806,
-      "name": "Y Yo Me Le Pego",
-      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
     },
     {
       "added_at": "2025-02-14 19:20:37",

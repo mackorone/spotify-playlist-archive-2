@@ -2791,6 +2791,44 @@
     },
     {
       "album": {
+        "name": "Hadestown: Live From London",
+        "url": "https://open.spotify.com/album/2CggytMzFmVTrJavX5Nbus"
+      },
+      "artists": [
+        {
+          "name": "Melanie La Barrie",
+          "url": "https://open.spotify.com/artist/4qNlLAmNX0MLUIKl9I8vA1"
+        },
+        {
+          "name": "D\u00f3nal Finn",
+          "url": "https://open.spotify.com/artist/0l07GPpx3SgsDWdJ2kueVQ"
+        },
+        {
+          "name": "Bella Brown",
+          "url": "https://open.spotify.com/artist/0FBt0ZjUovRqcnQbQWs5Dc"
+        },
+        {
+          "name": "Madeline Charlemagne",
+          "url": "https://open.spotify.com/artist/0EfknWC39zJQh8okf4YJIJ"
+        },
+        {
+          "name": "Allie Daniel",
+          "url": "https://open.spotify.com/artist/4Y4qcx8XscyZ3TFeMwfh6l"
+        },
+        {
+          "name": "Hadestown Original West End Cast",
+          "url": "https://open.spotify.com/artist/53L1U5MOITzbFM1H6O8Y3C"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231695,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/6UpYEpNUC5WcqBkONs33eM"
+    },
+    {
+      "album": {
         "name": "Newsies (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
       },

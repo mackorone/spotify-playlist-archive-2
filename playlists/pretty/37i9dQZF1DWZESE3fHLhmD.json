@@ -1,6 +1,6 @@
 {
   "description": "sonnige songs weil sommer und so \ud83e\udd1d \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1307340,
+  "num_followers": 1307228,
   "original_name": "Sommergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -223,6 +239,22 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -243,18 +275,18 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         }
       ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -323,22 +355,6 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
       },
@@ -371,34 +387,18 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "Ain't In LA",
-        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
-        "name": "Oh yeah?",
-        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 170584,
-      "name": "oh yeah?",
-      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
         "name": "Daughter from Hell",
         "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 120340,
       "name": "Minibar",
       "url": "https://open.spotify.com/track/4bDlONk2X1TMBHKaf8tjCn"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 317961,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 183747,
       "name": "Siren sounds (bonus)",
       "url": "https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
         "name": "someone new",
         "url": "https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything",
-      "url": "https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi"
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -1119,6 +1103,22 @@
       "duration_ms": 208829,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything",
+      "url": "https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "Hoffnungslos Hoffnungsvoll",
-        "url": "https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc"
-      },
-      "artists": [
-        {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Sommerregen",
-      "url": "https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
         "name": "this is what autumn feels like",
         "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 219909,
       "name": "this is what autumn feels like",
       "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
+        "name": "Hoffnungslos Hoffnungsvoll",
+        "url": "https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc"
+      },
+      "artists": [
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "frieden",
-        "url": "https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku"
-      },
-      "artists": [
-        {
-          "name": "Mika No\u00e9",
-          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "frieden",
-      "url": "https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
         "name": "Sing Like Madonna",
         "url": "https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 213678,
       "name": "Sing Like Madonna",
       "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
+        "name": "frieden",
+        "url": "https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "frieden",
+      "url": "https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "duration_ms": 210944,
+      "name": "See Her Out (Thats Just Life)",
+      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
         "name": "FEAR",
         "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "Farewell, Starlite!",
-        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+        "name": "Zu sp\u00e4t um umzudrehen - EP",
+        "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
       },
       "artists": [
         {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
         }
       ],
-      "duration_ms": 210944,
-      "name": "See Her Out (Thats Just Life)",
-      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
+      "duration_ms": 177818,
+      "name": "Zimmer",
+      "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -1547,22 +1563,6 @@
       "duration_ms": 191840,
       "name": "My Regards",
       "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
-        "name": "Zu sp\u00e4t um umzudrehen - EP",
-        "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
-      },
-      "artists": [
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Zimmer",
-      "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -1635,22 +1635,26 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "nie wieder normal",
-        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
+        "name": "The Little Mess You Made",
+        "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
       },
       "artists": [
         {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
         },
         {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 197618,
-      "name": "nie wieder normal",
-      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
+      "duration_ms": 201284,
+      "name": "The Little Mess You Made",
+      "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
     }
   ],
   "unique_name": "Sommergef\u00fchle",

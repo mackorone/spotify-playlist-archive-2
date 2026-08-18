@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: KATSEYE
 
-2,957 songs - 6 day 8 hr 57 min
+2,959 songs - 6 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2200,6 +2200,7 @@
 | [She Knows](https://open.spotify.com/track/3y1Rph556oNF0ihNrd6iIq) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [She Knows](https://open.spotify.com/album/5YkoSEj8ITLtDF0pgeZhYU) | 1:50 | 2024-06-07 | 2024-07-12 |
 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2024-04-04 | 2024-05-03 |
 | [Sheets](https://open.spotify.com/track/5XrnVelufxFVFEFvuiuQMi) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Sheets](https://open.spotify.com/album/2nbxTiFjqe6n8UmgtdRZqY) | 3:49 | 2025-01-30 | 2025-03-14 |
+| [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 | 2026-08-17 |  |
 | [Shimmer](https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:47 | 2026-04-23 | 2026-05-29 |
 | [Shiny New Thing](https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:38 | 2024-05-16 | 2024-06-21 |
 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 | 2025-07-10 | 2025-08-15 |
@@ -2463,6 +2464,7 @@
 | [talking to myself](https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [talking to myself](https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq) | 2:53 | 2024-07-04 | 2024-08-02 |
 | [Tantrum](https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown \(Deluxe Edition\)](https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR) | 2:50 | 2025-08-14 | 2025-09-12 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-22 | 2024-10-25 |
+| [Tastes Like Summer](https://open.spotify.com/track/74jKa2gKnngQwP3HMRke6b) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tastes Like Summer](https://open.spotify.com/album/0T7lhonUTlZ7zbzKVIPdvJ) | 3:39 | 2026-08-17 |  |
 | [Tattoos](https://open.spotify.com/track/55IJRlxMamDtU7gzGerJKr) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Tattoos](https://open.spotify.com/album/1jC9ONIxVSNK1KW2I7m4dU) | 2:55 | 2026-02-12 | 2026-03-20 |
 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2024-06-20 | 2024-08-02 |
 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 | 2024-02-29 | 2024-03-29 |

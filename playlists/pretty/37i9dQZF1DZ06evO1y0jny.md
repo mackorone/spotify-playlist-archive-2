@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1y0jny.md) - [plain]
 | 7 | [Kapiʻolani Pāka](https://open.spotify.com/track/33viZQGMaRtqCzBCAD28sd) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:08 |
 | 8 | [It's a Small World \- Hawaiian Version](https://open.spotify.com/track/7jmFUb4cFl2qzvfODI8Ne0) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Disney Hawaiian Album \~DA BEST!\~](https://open.spotify.com/album/0A7jcBToDjWVYphBypyghi) | 1:46 |
 | 9 | [Hanohano Haiku](https://open.spotify.com/track/7vhH5BJgH5Cr9jlWwfXtXJ) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:28 |
-| 10 | [Kuʻu Ipo Onaona](https://open.spotify.com/track/1mkJROOWWEhGilNP9d4pVr) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:12 |
+| 10 | [Hoe, Hoe Nā Waʻa](https://open.spotify.com/track/6f7SJ19dAiDoHjUGaP3gia) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:48 |
 | 11 | [Maui](https://open.spotify.com/track/7cZpEshCy8Ncbd6jIDXbux) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:04 |
-| 12 | [Hoe, Hoe Nā Waʻa](https://open.spotify.com/track/6f7SJ19dAiDoHjUGaP3gia) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:48 |
+| 12 | [Kuʻu Ipo Onaona](https://open.spotify.com/track/1mkJROOWWEhGilNP9d4pVr) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:12 |
 | 13 | [Namolokama Medley: Lei i ka Mokihana / Kani Uina / Ka Wai Nakolokolo](https://open.spotify.com/track/7ye9DYAYDXDHty7nHdIdJ9) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 1:49 |
 | 14 | [Na Puuwai Haokila](https://open.spotify.com/track/5I0FPQKECMecGJTkney4jd) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Kūhaʻo Maunakea](https://open.spotify.com/album/59nqTMWkBplZCBqsXwBBcY) | 3:07 |
 | 15 | [No ʻĀnela Uʻilani, He Inoa](https://open.spotify.com/track/4GpEb52SHnvTBEZNG07UbD) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:32 |
@@ -35,6 +35,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1y0jny.md) - [plain]
 | 25 | [O Ukumehame](https://open.spotify.com/track/4Ys4eKlU4mKNE2l5N1qZTy) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Lei Nāhonoapiʻilani: Nā Mele Hou](https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5) | 3:22 |
 | 26 | [Ka Ua Noe o Kōloa](https://open.spotify.com/track/5AfsmGrCkrQ6mEgqW1FF7y) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:58 |
 | 27 | [Koni Au i ka Wai / Ka Ipo Lauaʻe](https://open.spotify.com/track/3NIoUqAtDrrLT8nFpndYmT) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:30 |
-| 28 | [He Māmane Paha ʻOe](https://open.spotify.com/track/4sSdtXAPpiexrddxJdojY6) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:25 |
+| 28 | [Nā Pua Lei ʻIlima](https://open.spotify.com/track/1SGHYS9DFVMxckXH7u59yl) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:42 |
 
-Snapshot ID: `an+sAAAAAAAn/Q4uKY6Cl7ZEPXiKZ0pb`
+Snapshot ID: `aoD9gAAAAACo4nAjcPn8W32eiHNvzSO8`

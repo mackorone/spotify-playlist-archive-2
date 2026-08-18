@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Carín León & Ke Personajes
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,650 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,523 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

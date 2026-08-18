@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 88 | [Lay Your Head On Me](https://open.spotify.com/track/6ToFgoFy8Lx5T5OOpdJFZa) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Olé el viaje de Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DdHSJKH7HD2sdaG0HA7DW) | 3:16 |
 | 89 | [Heaven](https://open.spotify.com/track/6npZ8fQgQqvXwqzLzFhkhb) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Heaven](https://open.spotify.com/album/6qgCzcQfYKGv15NnFCoY2K) | 3:24 |
 | 90 | [Don't Come Around \(feat\. Kendall Morgan\)](https://open.spotify.com/track/4E4rmyjWo1BNduBxUcAf62) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Kendall Morgan](https://open.spotify.com/artist/31T99HEreO5nDrKT4H84Gl) | [I Am](https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74) | 3:10 |
-| 91 | [Little Light](https://open.spotify.com/track/6SHau4eC5m5Eo5Gwti5upF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:00 |
-| 92 | [Hate You](https://open.spotify.com/track/5WN4ByXJLl7SmsQMsx2yQr) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
+| 91 | [Hate You](https://open.spotify.com/track/5WN4ByXJLl7SmsQMsx2yQr) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
+| 92 | [Little Light](https://open.spotify.com/track/6SHau4eC5m5Eo5Gwti5upF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:00 |
 | 93 | [Vans On](https://open.spotify.com/track/620HJqJyx6sB4yt5WdHuPg) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [Vans On](https://open.spotify.com/album/54AFsTGuBaGll5nhcCZbwX) | 2:57 |
 | 94 | [Fool](https://open.spotify.com/track/3tS2dDHAc35hdy3rDIP55U) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:00 |
 | 95 | [Not Done Yet](https://open.spotify.com/track/43xjMIpJBtPsCd8QdVTyf7) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:20 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 148 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 149 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcZwpAAAAAAckZQJztNZ5AbZl5F0Wmas`
+Snapshot ID: `AcZ2RAAAAAATii8g49640/3jUx4oUq8S`

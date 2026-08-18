@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 11996,
+  "num_followers": 12001,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -63,26 +63,6 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-07-01 09:21:31",
-      "album": {
         "name": "19.99",
         "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "added_at": "2026-07-01 09:21:31",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2026-07-01 09:21:31",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
-        "name": "Pink cheeks",
-        "url": "https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "Pink cheeks",
-      "url": "https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ"
-    },
-    {
-      "added_at": "2026-07-01 09:21:31",
-      "album": {
         "name": "cassette",
         "url": "https://open.spotify.com/album/70fVyVGMetHBwXFHnMp4zS"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 231043,
       "name": "let's go picnic",
       "url": "https://open.spotify.com/track/6nLK3EpVQLW1SC3lmlejoU"
+    },
+    {
+      "added_at": "2026-07-01 09:21:31",
+      "album": {
+        "name": "Pink cheeks",
+        "url": "https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Pink cheeks",
+      "url": "https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ"
     },
     {
       "added_at": "2026-07-01 09:21:31",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "Picnic",
+      "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
+    },
+    {
+      "added_at": "2026-07-01 09:21:31",
+      "album": {
         "name": "WEAK",
         "url": "https://open.spotify.com/album/7JErMWy5j6BAaQ6brtCsU5"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
         }
       ],
-      "duration_ms": 184680,
-      "name": "Picnic",
-      "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2026-07-01 09:21:31",
@@ -799,22 +815,6 @@
       "duration_ms": 196000,
       "name": "La Vie En Bleu",
       "url": "https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y"
-    },
-    {
-      "added_at": "2026-07-01 09:21:31",
-      "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
-      },
-      "artists": [
-        {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2026-07-01 09:21:31",

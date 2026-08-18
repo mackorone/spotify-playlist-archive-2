@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 
 > This is Tex Tex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,283 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,285 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 2 | [Un Toque Mágico](https://open.spotify.com/track/3evzqsMCYMDStKIp8ecpMf) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 4:17 |
 | 3 | [Adolorido](https://open.spotify.com/track/15Piouu29zcmBKPE7rMGwY) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Súbete al Tren](https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC) | 4:23 |
 | 4 | [Perdido](https://open.spotify.com/track/5d0l3GHvTz5qgGAvMitN7T) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN) | 3:00 |
-| 5 | [Ahora Que No Vives Conmigo](https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:08 |
+| 5 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 |
 | 6 | [Ahora Que Vives Conmigo](https://open.spotify.com/track/6qge5eo4FexKVvYVQVqMbL) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Espíritu del Rock \(30 Aniversario\)](https://open.spotify.com/album/4LK54gmmwCo3XczNXE3eTV) | 3:16 |
 | 7 | [Algo Tiene Este Café](https://open.spotify.com/track/0gDIjC1PsO7NhiHeIM1lZM) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 4:03 |
 | 8 | [Amigo](https://open.spotify.com/track/1n5eTCtbooyfCnsPWoBYFl) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN) | 3:29 |
-| 9 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 |
+| 9 | [Ahora Que No Vives Conmigo](https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:08 |
 | 10 | [Te Vas a Acordar de Mí, Anda Borracho Pancho, Tlatelolco Místico, No Tengo Tiempo \- Unidos por el Rock](https://open.spotify.com/track/0x75mir58ij8rxyYmskgLQ) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4), [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb), [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ) | [Te Vas a Acordar de Mí, Anda Borracho Pancho, Tlatelolco Místico, No Tengo Tiempo \(Unidos por el Rock\)](https://open.spotify.com/album/7abal0FXuwfI15XtxPleU2) | 5:36 |
 | 11 | [Paredes](https://open.spotify.com/track/2UFT8lz00XGCHwLG6okHMP) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:06 |
 | 12 | [Artesano de la Construccion](https://open.spotify.com/track/1kQVH6InNjUsoicAN9aqtH) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN) | 3:56 |
@@ -36,22 +36,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 26 | [Me Haces Volar](https://open.spotify.com/track/5FSwwcIQYjXcqb2TiBOHiH) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Espíritu del Rock \(30 Aniversario\)](https://open.spotify.com/album/4LK54gmmwCo3XczNXE3eTV) | 2:47 |
 | 27 | [Srita Martinez Punk](https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Srita Martinez Punk](https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV) | 3:18 |
 | 28 | [Acción y Reacción \- En Vivo](https://open.spotify.com/track/0BD1TZW7Q9I78kXjTfuuQu) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:09 |
-| 29 | [Asesinos del Rock](https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:21 |
-| 30 | [Devuelvelo](https://open.spotify.com/track/1aDWrIwFmHwWV7yaf91f6r) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 2:36 |
+| 29 | [Devuelvelo](https://open.spotify.com/track/1aDWrIwFmHwWV7yaf91f6r) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 2:36 |
+| 30 | [Asesinos del Rock](https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:21 |
 | 31 | [Ya Te Rogue](https://open.spotify.com/track/3lBWJL1zvWsmLml9uiBjmp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:14 |
 | 32 | [Fast Food](https://open.spotify.com/track/5tZQcnx2HRbeRwBp8P24U9) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Súbete al Tren](https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC) | 2:27 |
-| 33 | [Esta en Su Mes](https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 2:45 |
-| 34 | [San Francisco](https://open.spotify.com/track/0ZS7t81n7h6VByNbogOOIB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 1:46 |
+| 33 | [San Francisco](https://open.spotify.com/track/0ZS7t81n7h6VByNbogOOIB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 1:46 |
+| 34 | [Esta en Su Mes](https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 2:45 |
 | 35 | [Despedazado](https://open.spotify.com/track/1MjmLzB2iNhtGfGi7EhoGw) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 4:12 |
 | 36 | [Vestido Blanco](https://open.spotify.com/track/3WVRoIs8UO1OV89G3ezp6O) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP) | 3:59 |
-| 37 | [Se Fue Con Otro](https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:16 |
-| 38 | [La Calle 16](https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 5:21 |
+| 37 | [La Calle 16](https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 5:21 |
+| 38 | [Se Fue Con Otro](https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:16 |
 | 39 | [Pancho Panchito](https://open.spotify.com/track/6C6d8o2Hh5wxaYPr76bhMC) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:19 |
 | 40 | [Vengador Anónimo](https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 |
-| 41 | [4to y 5to Paso](https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 4:03 |
-| 42 | [Déjame](https://open.spotify.com/track/5s7HtPMmg3KSlu7x3HpC73) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 5:42 |
-| 43 | [Martin Rocka](https://open.spotify.com/track/5xL2vEGWsqCX6xW6iHwdWB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:49 |
-| 44 | [Deja en Paz Mi Corazón](https://open.spotify.com/track/4RLpfRZGOJQzlXf48iSm4H) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [40 Años de Exitos](https://open.spotify.com/album/6navihTqrcu44gEpGrStuw) | 3:49 |
+| 41 | [Déjame](https://open.spotify.com/track/5s7HtPMmg3KSlu7x3HpC73) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 5:42 |
+| 42 | [Deja en Paz Mi Corazón](https://open.spotify.com/track/4RLpfRZGOJQzlXf48iSm4H) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [40 Años de Exitos](https://open.spotify.com/album/6navihTqrcu44gEpGrStuw) | 3:49 |
+| 43 | [4to y 5to Paso](https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 4:03 |
+| 44 | [Martin Rocka](https://open.spotify.com/track/5xL2vEGWsqCX6xW6iHwdWB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:49 |
 | 45 | [Dinero \- En Vivo](https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:24 |
 | 46 | [Tex Tex Boogie](https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Hombre Afortunado](https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW) | 4:37 |
 | 47 | [La Culpa](https://open.spotify.com/track/6xzN2GeFUEzrCobeGICtFz) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 49 | [Funky, Pt\. 1 \- En Vivo](https://open.spotify.com/track/5gYOs5IL03sXdbsYT58xeI) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 5:11 |
 | 50 | [La Niebla](https://open.spotify.com/track/7eK5IAzMYqfsVB4BMK5S4Y) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP) | 4:41 |
 
-Snapshot ID: `an+sAAAAAACvUvGoO+VhT41Xf0QbZG4Y`
+Snapshot ID: `aoD9gAAAAACTOd9OAQxRav7IiwC1d/CA`

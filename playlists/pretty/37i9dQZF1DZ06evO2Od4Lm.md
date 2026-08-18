@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,948 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,967 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 16 | [The Predatory Wasp of the Palisades Is Out to Get Us!](https://open.spotify.com/track/4wFBbeR03fah9nwy0isyO8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:23 |
 | 17 | [The Dress Looks Nice on You](https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:32 |
 | 18 | [Murder And Crime](https://open.spotify.com/track/43flDuyszwqpgsukkqMVea) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:30 |
-| 19 | [Eugene](https://open.spotify.com/track/7o3Zup0nTRFAFAPKBpS72G) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 2:26 |
+| 19 | [All of Me Wants All of You](https://open.spotify.com/track/4lyIHAc8sk6lm9iN5B8nmj) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:41 |
 | 20 | [John Wayne Gacy, Jr.](https://open.spotify.com/track/2R3g9k14OAcUzZYwo90Tx6) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 3:19 |
 | 21 | [Romulus](https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 4:41 |
 | 22 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 |
-| 23 | [All of Me Wants All of You](https://open.spotify.com/track/4lyIHAc8sk6lm9iN5B8nmj) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:41 |
+| 23 | [Eugene](https://open.spotify.com/track/7o3Zup0nTRFAFAPKBpS72G) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 2:26 |
 | 24 | [A short reprise for Mary Todd, who went insane, but for very good reasons](https://open.spotify.com/track/6hfxGStZ4L3IBvRaCqmPQc) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 0:47 |
 | 25 | [A Running Start](https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:21 |
 | 26 | [For the Widows in Paradise, For the Fatherless in Ypsilanti](https://open.spotify.com/track/1dkHo0hS9KnzlsRSbIjZzi) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 49 | [Vesuvius](https://open.spotify.com/track/3GWZX3YtldXCdSQqrzGgV5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Age of Adz](https://open.spotify.com/album/4kRMCapj9nEyBWnM0kc9OX) | 5:28 |
 | 50 | [With My Whole Heart](https://open.spotify.com/track/7rqey0cROVeOo2hOlB2imu) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/73IMTdj6ERTJdITZNNBIpE) | 5:14 |
 
-Snapshot ID: `an+sAAAAAADEnnB71WgYpOzIC3TOvtNt`
+Snapshot ID: `aoD9gAAAAADsE6tTpViRH7qrutmaOLxY`

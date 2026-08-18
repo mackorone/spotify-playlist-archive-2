@@ -962,7 +962,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 123973,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP"
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 119106,
       "name": "Come Along With Me",
       "url": "https://open.spotify.com/track/3l7oSOoUbW38CkgcCq4Iv3"
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 119173,
       "name": "Come Along with Me",
       "url": "https://open.spotify.com/track/2Xx6NtWl4pC4IyjOVxXbIx"
@@ -8845,6 +8845,24 @@
     },
     {
       "album": {
+        "name": "Stars Legacy",
+        "url": "https://open.spotify.com/album/4SkLp4Mq1K7rZmiV9aVeR8"
+      },
+      "artists": [
+        {
+          "name": "The Diamonds",
+          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150992,
+      "name": "One Summer Night",
+      "url": "https://open.spotify.com/track/1VUK0BnDIE06kxrE4GdHiO"
+    },
+    {
+      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/3Ru54yj2eYlR23YqGtZYPJ"
       },
@@ -8892,7 +8910,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 152266,
       "name": "One Summer Night",
       "url": "https://open.spotify.com/track/5vy5uUCQdGm8sRSebr4D93"
@@ -10860,10 +10878,28 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 173160,
       "name": "So Near and yet so Far",
       "url": "https://open.spotify.com/track/3Q5oxHAJaJj4Ev9IxFjvwq"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "So Near and yet so Far",
+      "url": "https://open.spotify.com/track/1Y4X3MgUjgeHQSTkY0JNAU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Säm Wilder
 
-374 songs - 20 hr 16 min
+375 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Max](https://open.spotify.com/track/46fRys6UjCRJESL2yv0gcp) | [Amani](https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3) | [Max](https://open.spotify.com/album/7JThK5VKLEQDzwChzoUVy6) | 2:00 | 2026-05-11 |  |
 | [ME HART IS OP](https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W) | [kruzer](https://open.spotify.com/artist/7t1cc3OFyt4UbJnQNaTAcY) | [WEET NIET WAT JE ZIET IN MIJ](https://open.spotify.com/album/6QCoW49AfDKtQsk3A3SjJJ) | 2:49 | 2026-05-11 |  |
 | [Melanotan](https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L) | [Cardigan Inn](https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2) | [Melanotan \- Detonate](https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7) | 2:22 | 2024-07-01 | 2025-05-08 |
-| [Memories](https://open.spotify.com/track/3SD4rpJ0PeaIPzJUi0SRSE) | [Faradays](https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD) | [Memories](https://open.spotify.com/album/7db55fGyJSN2PBidi9pPM1) | 3:39 | 2026-05-11 |  |
+| [Memories](https://open.spotify.com/track/3SD4rpJ0PeaIPzJUi0SRSE) | [Faradays](https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD) | [Memories](https://open.spotify.com/album/7db55fGyJSN2PBidi9pPM1) | 3:39 | 2026-05-11 | 2026-08-18 |
 | [Metaphor](https://open.spotify.com/track/0bOLYkauum1DwqHTQKyncC) | [Rockpool Dramas](https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq) | [Metaphor](https://open.spotify.com/album/6nkNsqeclDEQ5iHbyjL9j5) | 2:48 | 2025-05-07 | 2026-05-12 |
 | [Miss Trutti Finally Found Her Gem](https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u) | [FAST DE](https://open.spotify.com/artist/1mPTqlPMcf8FZFVrEj9TbR) | [Sight Inside](https://open.spotify.com/album/23B33mwDhnWQcwXUZbc2ra) | 3:36 | 2025-05-07 | 2026-05-12 |
 | [Moment](https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [On Top Of The World](https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43) | 2:44 | 2026-05-11 |  |
@@ -314,6 +314,7 @@
 | [Sun Flavoured Ice Cream](https://open.spotify.com/track/5Y8KBgWc4NKiDdCeIl2KUO) | [Wortel](https://open.spotify.com/artist/3RiUJH3gqK11PH3k4rd3Sz) | [Sun Flavoured Ice Cream](https://open.spotify.com/album/62PrBLRNfcdDzqi3U7ZVeg) | 3:22 | 2024-07-01 | 2024-10-22 |
 | [sunflower boy](https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [sunflower boy](https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM) | 2:26 | 2024-07-01 | 2025-05-08 |
 | [Superficial Girl](https://open.spotify.com/track/68ODURPoZdrI92TjFMe6cZ) | [Jackie & The Facts](https://open.spotify.com/artist/4Q8G8g6rH2LHLPJLS1tOLf) | [Superficial Girl](https://open.spotify.com/album/7kCM6kZYqbxgSFx9XuheSY) | 2:49 | 2025-07-16 | 2025-10-01 |
+| [swim \(play me the deep cut\)](https://open.spotify.com/track/4JDW9ypwDDopsSk8ZXZz8D) | [Faradays](https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD) | [swim \(play me the deep cut\)](https://open.spotify.com/album/5G871464XFiXsCzwJczt4X) | 3:04 | 2026-08-17 |  |
 | [Take Me Somewhere Nice](https://open.spotify.com/track/5XzKAjlorf06g0LWQE3VYV) | [32elephants](https://open.spotify.com/artist/1Gn8d7ZMm7DysJLkJj3NR3) | [Take Me Somewhere Nice](https://open.spotify.com/album/7HypvdZKOCDMUFjKuhpa8W) | 2:55 | 2024-07-01 | 2025-05-08 |
 | [Tanjiro](https://open.spotify.com/track/0CcdB5iv26yiENNayybuZB) | [FAMKE](https://open.spotify.com/artist/554ztB5FNpDfdPmHYf59w3) | [Tanjiro](https://open.spotify.com/album/5IDIwsUx4ts2YqG3z8ftDY) | 2:21 | 2025-05-07 | 2026-05-12 |
 | [That Day \- Live At Wisseloord Studios](https://open.spotify.com/track/6pX7qn0BCudhLdKQprzytg) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ), [3SOME](https://open.spotify.com/artist/5U0pkfGtvIQC43ZirKRqHh) | [That Day \(Live At Wisseloord Studios\)](https://open.spotify.com/album/5vhyyMG04e9SON9vlBJMKa) | 3:29 | 2024-07-01 | 2024-09-17 |

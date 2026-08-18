@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 439747,
+  "num_followers": 439771,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADL9qESLFWe6xFsu0ogrukr",
+  "snapshot_id": "aoD9gAAAAAD6JlKBVcm6Ow1KkB9r8LWx",
   "tracks": [
     {
       "added_at": null,
@@ -95,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "Bon App\u00e9tit",
-      "url": "https://open.spotify.com/track/4rHmKlFRiFzabiVO6e9w2e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 343150,
       "name": "Bad and Boujee (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "Bon App\u00e9tit",
+      "url": "https://open.spotify.com/track/4rHmKlFRiFzabiVO6e9w2e"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Taco Tuesday",
+        "url": "https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 96563,
+      "name": "Taco Tuesday",
+      "url": "https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 295997,
       "name": "Too Hotty",
       "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taco Tuesday",
-        "url": "https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 96563,
-      "name": "Taco Tuesday",
-      "url": "https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP"
     },
     {
       "added_at": null,
@@ -554,35 +554,11 @@
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 212520,
-      "name": "Picasso (feat. Future)",
-      "url": "https://open.spotify.com/track/2kPlWEOm2tQlaZRE01IbBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quality Control: Control The Streets Volume 1",
-        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 241505,
-      "name": "Bosses Don't Speak",
-      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
+      "duration_ms": 241790,
+      "name": "Modern Day",
+      "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
     },
     {
       "added_at": null,
@@ -603,6 +579,26 @@
       "duration_ms": 247612,
       "name": "Peek A Boo",
       "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 241505,
+      "name": "Bosses Don't Speak",
+      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
     },
     {
       "added_at": null,

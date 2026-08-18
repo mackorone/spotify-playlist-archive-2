@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Lo más nuevo de tus artistas favoritos, en un solo lugar\. Edgardo Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,284 likes - 83 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,410 likes - 83 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 6 | [Tuvo Que Tubo Tuvo](https://open.spotify.com/track/7jV8ic1nInd0QSfkNMOOoi) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Tuvo Que Tubo Tuvo](https://open.spotify.com/album/3HaSZroQxsAz7Tw9wz0yoL) | 3:00 |
 | 7 | [Ponte Bonita](https://open.spotify.com/track/7i5KGCofSsgoU801R2wW8m) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Ponte Bonita](https://open.spotify.com/album/7MwgfDkiNM51w3v3gf145j) | 2:41 |
 | 8 | [Es Triiste](https://open.spotify.com/track/04245jmXa38WxGA4clZMXC) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [Es Triiste](https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw) | 3:05 |
-| 9 | [Amor Secreto \- \(En Vivo\)](https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [En Vivo Desde El Estadio GNP](https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt) | 3:08 |
+| 9 | [Amor Secreto \- En Vivo](https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [En Vivo Desde El Estadio GNP](https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt) | 3:08 |
 | 10 | [HD](https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [HD](https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC) | 3:13 |
 | 11 | [Libertad](https://open.spotify.com/track/0uRXsS2ACTGMCJ7W65Nicw) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Libertad](https://open.spotify.com/album/4IlYtYRBYoQDnSU9wV5mCH) | 2:51 |
 | 12 | [Cero Miedo](https://open.spotify.com/track/45ehHeg9Kr5ZK3sFRnbjOv) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Cero Miedo](https://open.spotify.com/album/3VSPApAscAKQvMYgdGBzJK) | 2:24 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 79 | [ploko](https://open.spotify.com/track/7iV7QYyOLJm5TlLp8P5riu) | [Eyle](https://open.spotify.com/artist/3ghtelqziX5LAXUmd3JR6M) | [ploko](https://open.spotify.com/album/5pvfir8U2tAGHgNXdhGS5w) | 2:33 |
 | 80 | [Aléjate](https://open.spotify.com/track/3spIY9SvJwCwK8KVrtioVh) | [Fvtvra Nostalgia](https://open.spotify.com/artist/7LXOKtoH4HylozlcCPaxr3), [Pepe Nungaray](https://open.spotify.com/artist/56CgM09yZsTWauH3l4CqKs) | [Aléjate](https://open.spotify.com/album/2QDmWGre2ZYgTRymFbvJIG) | 3:13 |
 | 81 | [Besito](https://open.spotify.com/track/0SzVrwgjmTI6iZ4Llsk7J0) | [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm), [Ekstra Bonus](https://open.spotify.com/artist/7HhjQ7M6KloGuoUB4ruvSq) | [Besito](https://open.spotify.com/album/3PRa9hpMWrpNOhOieAjHdJ) | 2:08 |
-| 82 | [SUIZA](https://open.spotify.com/track/4hqt4IjJOeEs1bvObzujuw) | [New Norte MX](https://open.spotify.com/artist/1ikU0TQsEjscHm5y8xU1BL) | [SUIZA](https://open.spotify.com/album/6tXXbHHlSUpogyEp1hjST1) | 2:31 |
+| 82 | [SUIZA](https://open.spotify.com/track/4hqt4IjJOeEs1bvObzujuw) | [New Norte MX](https://open.spotify.com/artist/1ikU0TQsEjscHm5y8xU1BL) | [SUIZA](https://open.spotify.com/album/6tXXbHHlSUpogyEp1hjST1) | 2:21 |
 | 83 | [Explota](https://open.spotify.com/track/2KDERTO2wgJzNPMKEeVruP) | [Andrea Bayardo](https://open.spotify.com/artist/7ltZTIPxGZ7TbQDPZvMMDo) | [Explota](https://open.spotify.com/album/71XKxvJXVlBOAlSeEPY8ve) | 3:14 |
 
 Snapshot ID: `AAAAAO12z9uji75ugpTkMU1wvN1Aqi8t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > أفضل الاغاني العراقية\. الغلاف: كاظم الساهر
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,705 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,741 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

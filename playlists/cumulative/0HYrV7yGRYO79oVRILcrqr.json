@@ -2499,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "Day 1",
+        "url": "https://open.spotify.com/album/7mDgY829FEFXFUXZIhbtJF"
+      },
+      "artists": [
+        {
+          "name": "Jacky Allmaier",
+          "url": "https://open.spotify.com/artist/7GmSHcmbgwvCbppnB0cJWl"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159299,
+      "name": "Day 1",
+      "url": "https://open.spotify.com/track/6BdpRsiLiH1To91cVlsHrX"
+    },
+    {
+      "album": {
         "name": "See the Sun",
         "url": "https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs"
       },

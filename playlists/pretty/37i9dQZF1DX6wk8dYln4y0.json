@@ -1,6 +1,6 @@
 {
   "description": "pop that *hits different* featuring daine",
-  "num_followers": 629466,
+  "num_followers": 629398,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2026-07-30 14:00:28",
-      "album": {
         "name": "Run Rabbit",
         "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-07-30 14:00:28",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "added_at": "2026-07-30 14:00:28",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
+        "name": "Right Back!",
+        "url": "https://open.spotify.com/album/4Dr66VzqLpQ1l6eg8ZyJgW"
+      },
+      "artists": [
+        {
+          "name": "KARLEE GIRL",
+          "url": "https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX"
+        }
+      ],
+      "duration_ms": 198391,
+      "name": "Right Back!",
+      "url": "https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n"
+    },
+    {
+      "added_at": "2026-07-30 14:00:28",
+      "album": {
         "name": "A Matter of Time: The Final Hour",
         "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 168767,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
-      "added_at": "2026-07-30 14:00:28",
-      "album": {
-        "name": "Right Back!",
-        "url": "https://open.spotify.com/album/4Dr66VzqLpQ1l6eg8ZyJgW"
-      },
-      "artists": [
-        {
-          "name": "KARLEE GIRL",
-          "url": "https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX"
-        }
-      ],
-      "duration_ms": 198391,
-      "name": "Right Back!",
-      "url": "https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n"
     },
     {
       "added_at": "2026-07-30 14:00:28",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
-        "name": "Who is she",
-        "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
       },
       "artists": [
         {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Who is she",
-      "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
     },
     {
       "added_at": "2026-07-30 14:00:28",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
-        "name": "Promise?",
-        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
+        "name": "Who is she",
+        "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
       },
       "artists": [
         {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         }
       ],
-      "duration_ms": 192100,
-      "name": "Promise?",
-      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
+      "duration_ms": 159000,
+      "name": "Who is she",
+      "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
     },
     {
       "added_at": "2026-07-30 14:00:28",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
-        "name": "Twiggy",
-        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
+        "name": "Promise?",
+        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 209258,
-      "name": "Twiggy",
-      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
     },
     {
       "added_at": "2026-07-30 14:00:28",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
-        "name": "Loveland",
-        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
         }
       ],
-      "duration_ms": 190213,
-      "name": "Notting Hill",
-      "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
+      "duration_ms": 185533,
+      "name": "Thirst Trap",
+      "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"
     },
     {
       "added_at": "2026-07-30 14:00:28",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
-        "name": "Who's the Clown?",
-        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
       },
       "artists": [
         {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Thirst Trap",
-      "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"
+      "duration_ms": 190213,
+      "name": "Notting Hill",
+      "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
     },
     {
       "added_at": "2026-07-30 14:00:28",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "added_at": "2026-07-30 14:00:28",
+      "album": {
         "name": "Loveland",
         "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 178880,
       "name": "CHOOM",
       "url": "https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT"
-    },
-    {
-      "added_at": "2026-07-30 14:00:28",
-      "album": {
-        "name": "Big Disgrace",
-        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 187658,
-      "name": "Shy Girl",
-      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
     },
     {
       "added_at": "2026-07-30 14:00:28",

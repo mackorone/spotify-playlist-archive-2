@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1033298,
+  "num_followers": 1033164,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "The House That Dirt Built",
-        "url": "https://open.spotify.com/album/7DjSNptx7IUVoWuSeN4rxA"
-      },
-      "artists": [
-        {
-          "name": "The Heavy",
-          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "How You Like Me Now",
-      "url": "https://open.spotify.com/track/0kHwTHf8ye0mSd66pwcrEN"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 206866,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "The House That Dirt Built",
+        "url": "https://open.spotify.com/album/7DjSNptx7IUVoWuSeN4rxA"
+      },
+      "artists": [
+        {
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "How You Like Me Now",
+      "url": "https://open.spotify.com/track/0kHwTHf8ye0mSd66pwcrEN"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Echoing",
-        "url": "https://open.spotify.com/album/6A2VAAC2N3GBc3UkSfJqaF"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 217338,
-      "name": "Echoing",
-      "url": "https://open.spotify.com/track/7ab894xLywHmwswdr00QSr"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/7hK48vJsNdxAT9hLwpWsAd"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 211191,
       "name": "Shockwave",
       "url": "https://open.spotify.com/track/2UnqgtIfVMfZOvCDGZuUMI"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Echoing",
+        "url": "https://open.spotify.com/album/6A2VAAC2N3GBc3UkSfJqaF"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 217338,
+      "name": "Echoing",
+      "url": "https://open.spotify.com/track/7ab894xLywHmwswdr00QSr"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Carnavas",
-        "url": "https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Carnavas",
+        "url": "https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X"
     },
     {
       "added_at": "2024-07-12 17:56:50",

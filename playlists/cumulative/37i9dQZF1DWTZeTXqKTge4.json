@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 129845,
       "name": "A Lot On My Mind",
       "url": "https://open.spotify.com/track/4QlGJHFHgnHA2dgWRG4zZO"
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 162162,
       "name": "AMBITION",
       "url": "https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS"
@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 213669,
       "name": "Baby Back Ribs",
       "url": "https://open.spotify.com/track/4cEiIAK4GkmKpyakj94ZA6"
@@ -3570,7 +3570,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 169552,
       "name": "Blue Volvo",
       "url": "https://open.spotify.com/track/6vdWn7Pxc4u7om93eXRkfy"
@@ -14990,7 +14990,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 118176,
       "name": "Ma Vi2le",
       "url": "https://open.spotify.com/track/6DlTLfWBKAVoyj4f5vgV0V"
@@ -16162,6 +16162,24 @@
       "duration_ms": 265786,
       "name": "Mon Neighborwood",
       "url": "https://open.spotify.com/track/01OjQjWVcCx2rZVSlDV6sU"
+    },
+    {
+      "album": {
+        "name": "MON TOUR",
+        "url": "https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "MON TOUR",
+      "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
     },
     {
       "album": {

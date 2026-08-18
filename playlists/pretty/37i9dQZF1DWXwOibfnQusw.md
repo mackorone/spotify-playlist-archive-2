@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,075 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,077 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 11 | [Dios Es Amor](https://open.spotify.com/track/17MQ9P5y3CNy75tBJYsIEa) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:27 |
 | 12 | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/track/3XnQMj2uZMzUaPrNfbn8rT) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/album/2Dx8LkBcbxmBgKAXgOzmj8) | 2:20 |
 | 13 | [Sansón](https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:22 |
-| 14 | [A Danzar](https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [A Danzar](https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1) | 1:31 |
+| 14 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3QtTQ2uFHqHqMj3IWYpjQb) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Que Se Llene Tu Casa](https://open.spotify.com/album/7dMAKj2uWzdtjrEVE4ZEAm) | 3:15 |
 | 15 | [Fuerza y Movimiento](https://open.spotify.com/track/70Y52BJMJP4avDjtdlEUjZ) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Fuerza y Movimiento](https://open.spotify.com/album/5KzC1eJSOrCtlPQ2SvlbBM) | 2:04 |
-| 16 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3QtTQ2uFHqHqMj3IWYpjQb) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Que Se Llene Tu Casa](https://open.spotify.com/album/7dMAKj2uWzdtjrEVE4ZEAm) | 3:15 |
+| 16 | [A Danzar](https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [A Danzar](https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1) | 1:31 |
 | 17 | [Yo Tengo un Gran Dios](https://open.spotify.com/track/1KMOWC6BE1OeE5uim8VT2g) | [Planet Kids](https://open.spotify.com/artist/4xNAhG6OP1NLaxUCPK3iJo) | [Grandes Promesas](https://open.spotify.com/album/4amlLsph2ZhuQvSwRtBcdQ) | 3:36 |
-| 18 | [Cuidado Mis Ojitos al Mirar](https://open.spotify.com/track/30IXNi5WlQcTfAHRGzXc53) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:29 |
-| 19 | [No Hay Lugar Más Alto](https://open.spotify.com/track/7GprxftlfJVlGnkVfxhegJ) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek) | [No Hay Lugar Más Alto](https://open.spotify.com/album/26iKn1gikP7rCaL7yVsLpU) | 3:37 |
+| 18 | [Rompecabezas](https://open.spotify.com/track/0BNEWo5YxjTfd9cZYhD15I) | [Xtreme Kids](https://open.spotify.com/artist/6cf6SfcHT6kRhSFghWqEId) | [Rompecabezas](https://open.spotify.com/album/4B9XjpBnhILvNXCFGPBGd5) | 2:57 |
+| 19 | [Cuidado Mis Ojitos al Mirar](https://open.spotify.com/track/30IXNi5WlQcTfAHRGzXc53) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:29 |
 | 20 | [Jesús Mi Capitán](https://open.spotify.com/track/5ZhEWpTyy6EA7tIXQdiKuI) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Jesús Mi Capitán](https://open.spotify.com/album/3KccNlVBTeL8wzHDpSza7k) | 2:45 |
 | 21 | [La Vaca Tita](https://open.spotify.com/track/2yovTUgzyJ6naFFq0wjdBc) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [La Vaca Tita](https://open.spotify.com/album/2g9IxC1lhO9sKoxP7TSksR) | 2:09 |
-| 22 | [Rompecabezas](https://open.spotify.com/track/0BNEWo5YxjTfd9cZYhD15I) | [Xtreme Kids](https://open.spotify.com/artist/6cf6SfcHT6kRhSFghWqEId) | [Rompecabezas](https://open.spotify.com/album/4B9XjpBnhILvNXCFGPBGd5) | 2:57 |
+| 22 | [No Hay Lugar Más Alto](https://open.spotify.com/track/7GprxftlfJVlGnkVfxhegJ) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek) | [No Hay Lugar Más Alto](https://open.spotify.com/album/26iKn1gikP7rCaL7yVsLpU) | 3:37 |
 | 23 | [Verano Con Jesús](https://open.spotify.com/track/4cQfWBzuw1CawGIxjADbfa) | [Los Gigantes De La Fe](https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh) | [Verano Con Jesús](https://open.spotify.com/album/4XRuN8MX1YcoWisEwV2ljn) | 3:07 |
 | 24 | [El Guerrero David](https://open.spotify.com/track/7DvTLiPIjB04LonPbAp73A) | [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [El Guerrero David](https://open.spotify.com/album/0slP2biIxokHqSumBe0Mvt) | 2:49 |
 | 25 | [Yo Te Alabo de Corazón](https://open.spotify.com/track/46EFrvB241699KfRrG7GEe) | [Coro Alegria](https://open.spotify.com/artist/56TFN5FLx50mR6SzLZ5aCJ) | [Grande Es el Señor](https://open.spotify.com/album/127zvUZME3NL01sSaC9wIq) | 2:16 |

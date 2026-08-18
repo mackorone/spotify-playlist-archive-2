@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,034 likes - 49 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,053 likes - 49 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In the Ruins](https://open.spotify.com/track/3mJ58zxE8PT1j2tnpGLcA0) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [In the Ruins](https://open.spotify.com/album/7a1CEuXEMOLoO9HVHSxqH6) | 5:37 |
 | 2 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
 | 3 | [The Motherload](https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:59 |
-| 4 | [Snakes for Dinner](https://open.spotify.com/track/1QJTU1IJBWu8oTzKIt4n6r) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Snakes for Dinner](https://open.spotify.com/album/6hfWE4ne6vuflQER7tVs0E) | 4:57 |
-| 5 | [Your Ghost Again](https://open.spotify.com/track/0DR0WsV57b7ZyiHCEBvKQY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Your Ghost Again](https://open.spotify.com/album/03rT8X0sUnxyKN8TECd1xA) | 4:35 |
+| 4 | [Your Ghost Again](https://open.spotify.com/track/0DR0WsV57b7ZyiHCEBvKQY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Your Ghost Again](https://open.spotify.com/album/03rT8X0sUnxyKN8TECd1xA) | 4:35 |
+| 5 | [Snakes for Dinner](https://open.spotify.com/track/1QJTU1IJBWu8oTzKIt4n6r) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Snakes for Dinner](https://open.spotify.com/album/6hfWE4ne6vuflQER7tVs0E) | 4:57 |
 | 6 | [Steambreather](https://open.spotify.com/track/4Ut80ggQbyiJN2pGCs7VfB) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 5:03 |
 | 7 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 |
 | 8 | [More Than I Could Chew](https://open.spotify.com/track/50cqylMZEIcdJu3XDm1Tro) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 6:51 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 48 | [March of the Fire Ants](https://open.spotify.com/track/1KcVOoLXfpbadmBz0HkJ1r) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission](https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA) | 4:25 |
 | 49 | [Stargasm](https://open.spotify.com/track/5QMcwznMFieF1zUUElE5TR) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 4:39 |
 
-Snapshot ID: `an+sAAAAAADw6cDphzy/ZwSKLvVdyD0K`
+Snapshot ID: `aoD9gAAAAAAIGVK4pbwwq7MfmTwAi60A`

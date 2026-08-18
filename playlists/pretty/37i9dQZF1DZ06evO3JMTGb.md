@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 
 > This is Sofie Birch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216 likes - 41 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 42 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 | 33 | [Connotes Beauty](https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 3:50 |
 | 34 | [Silver Age](https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 5:11 |
 | 35 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 |
-| 36 | [Me of Ocean](https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:41 |
+| 36 | [Behind the Hill](https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:47 |
 | 37 | [Portal Of](https://open.spotify.com/track/1cVO0Xcf4ZhZXjz2NOSBZI) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 1:42 |
 | 38 | [Endowment](https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 4:58 |
 | 39 | [Mu Evans](https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 5:44 |
-| 40 | [Behind the Hill](https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:47 |
-| 41 | [The Journey](https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:55 |
+| 40 | [Me of Ocean](https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:41 |
+| 41 | [Kandisae](https://open.spotify.com/track/5UKjl5phwLwc2tXb7aiBjg) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 2:55 |
+| 42 | [The Journey](https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:55 |
 
-Snapshot ID: `an+sAAAAAABUEE+pypfL1Vkz9jYa6W3q`
+Snapshot ID: `aoD9gAAAAABBqAqZvCcCxw9dwiIHHcvP`

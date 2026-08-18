@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Damini Bhatla
 
-569 songs - 1 day 9 hr 53 min
+570 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [AMMA \- Janmaala Runamu Kanipinchava](https://open.spotify.com/track/14VaG9fGETELHF1EkbWO5N) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [AMMA \(Janmaala Runamu Kanipinchava\)](https://open.spotify.com/album/3aBG1lIVqPWTUQDphSNQXN) | 3:24 | 2023-05-16 | 2024-11-05 |
 | [Amma Paata](https://open.spotify.com/track/72PJ4xPZPVugEzylXYHWz4) | [Janhavi Yerram](https://open.spotify.com/artist/2S1gi8rHfqRE7XyNiAHj9n) | [Amma Paata](https://open.spotify.com/album/5NjRW3fcSvXnTkXZA97GT7) | 3:32 | 2024-07-16 | 2025-09-06 |
 | [Ammo](https://open.spotify.com/track/2qsXy3JujFJ597668kUuDS) | [Seerav Tammara](https://open.spotify.com/artist/6u8DgIy4JSJm85szKvjeDx), [Aditya Sreeram](https://open.spotify.com/artist/1Erxu142KcX6XXDnS1I8Qf) | [Ammo](https://open.spotify.com/album/6fonx5Dyk0gypIlkOOHYaJ) | 3:10 | 2026-08-06 |  |
-| [Anaganaga Jasti](https://open.spotify.com/track/7c2OpCYcjMm13Y4Qs2KO48) | [Paul Prashanth](https://open.spotify.com/artist/5bIgxzh5iv4FXQpJcFWcGf) | [Anaganaga Jasti](https://open.spotify.com/album/2yTlCK9RC9SHT6f1OJ9ji5) | 2:51 | 2026-02-20 |  |
+| [Anaganaga Jasti](https://open.spotify.com/track/7c2OpCYcjMm13Y4Qs2KO48) | [Paul Prashanth](https://open.spotify.com/artist/5bIgxzh5iv4FXQpJcFWcGf) | [Anaganaga Jasti](https://open.spotify.com/album/2yTlCK9RC9SHT6f1OJ9ji5) | 2:51 | 2026-02-20 | 2026-08-18 |
 | [Andame](https://open.spotify.com/track/5CHTjwWyqr4uhkRWNcT3Vf) | [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Andame](https://open.spotify.com/album/7BP2lZYx8RrW8fICweQynt) | 3:28 | 2023-02-21 | 2023-11-21 |
 | [Andhami Swapnam](https://open.spotify.com/track/1BtRSvbXdLyZEweikCLqsm) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/5qIsGKX1MhrYRXrMO4eDIo) | 4:26 | 2023-05-02 | 2024-04-19 |
 | [Andhami Swapnam](https://open.spotify.com/track/3tiYuEpEjZGuFLjfDf0UyX) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/6IUYeqHEcXN6OYusVU3b8z) | 4:26 | 2023-05-02 | 2024-07-31 |
@@ -218,6 +218,7 @@
 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2022-07-18 | 2023-08-26 |
 | [Laya](https://open.spotify.com/track/74x8AK6doFpc9hXiPolBay) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Laya](https://open.spotify.com/album/5upnKToHtUzOuHz9BrbhIK) | 2:35 | 2023-02-03 | 2023-05-27 |
 | [Lekha](https://open.spotify.com/track/5r0F3Ujnoo6xufzw9fH5GO) | [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Ayaan](https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS) | [Lekha](https://open.spotify.com/album/0vPN0XkMtISoHD9xaVNi0T) | 3:33 | 2026-02-06 |  |
+| [LITE LELO](https://open.spotify.com/track/1S9UjPfddiONdqYS8HP2Aq) | [Faria Abdullah](https://open.spotify.com/artist/638uCpbXcepPKOZdNfAHLv), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Addyction](https://open.spotify.com/artist/6UIOk5wIHMUWs30ISs4vXl) | [LITE LELO](https://open.spotify.com/album/6YpenHWeeQRxtCVepibAzv) | 5:04 | 2026-08-17 |  |
 | [Local Ra Bhai](https://open.spotify.com/track/1IZFt9ykS2FV9HLbzu4xoq) | [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC), [Prateek Naganatham](https://open.spotify.com/artist/7x5gokOMGW3Ipsyh7AMdQT) | [Local Ra Bhai](https://open.spotify.com/album/2zofdePkx9U6syXxSCKHVp) | 3:31 | 2025-09-03 | 2025-10-09 |
 | [Lokulu Kakulu](https://open.spotify.com/track/6ROzWTFZMRjzFwQrf19bmA) | [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Baidurjya Banerjee](https://open.spotify.com/artist/2qnVYtcJJ7SzjuOJdxTuNZ) | [Lokulu Kakulu](https://open.spotify.com/album/05yU1IGH4XqBzwNSFgdep8) | 2:14 | 2025-02-10 | 2025-04-18 |
 | [Lollipop](https://open.spotify.com/track/5ZtrYdXOsYCRLXuGKR7nt6) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Lollipop](https://open.spotify.com/album/40SOtgPjx3Ic3fI6wig7Qs) | 5:29 | 2022-07-18 | 2023-05-23 |

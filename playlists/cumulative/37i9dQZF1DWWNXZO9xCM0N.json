@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/28XYByFxlXtbd7fIxOqCLM"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Narvaez",
+          "url": "https://open.spotify.com/artist/2KHXHxzeiRJN4cxyG5dzhj"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320447,
+      "name": "Sabidur\u00eda",
+      "url": "https://open.spotify.com/track/2Dk80FVOx8yfUhTUWsmNga"
+    },
+    {
+      "album": {
         "name": "Salsa Y Control",
         "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
       },
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 240760,
       "name": "Solitario",
       "url": "https://open.spotify.com/track/0FW28wRArRJSuWnHwE415S"

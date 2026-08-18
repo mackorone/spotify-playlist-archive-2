@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,047 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,062 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 6 | [On The Street Where You Live \- Remastered 1998](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 |
 | 7 | [Buona Sera \- 1998 Digital Remaster](https://open.spotify.com/track/3G3sjrRx3BwAkuqYbLDHEk) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 2:21 |
 | 8 | [On An Evening In Roma \(Sott'er Celo De Roma\) \- Remastered 1998](https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:31 |
-| 9 | [Dream A Little Dream](https://open.spotify.com/track/66Ra2l0vQTGFBcCL8vUwlI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 3:16 |
-| 10 | [Sway \(Quien Sera\)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:42 |
+| 9 | [Sway \(Quien Sera\)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:42 |
+| 10 | [Dream A Little Dream](https://open.spotify.com/track/66Ra2l0vQTGFBcCL8vUwlI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 3:16 |
 | 11 | [Blue Moon](https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:07 |
 | 12 | [Heaven Can Wait \- Remastered 1998](https://open.spotify.com/track/291IQsv9uraExolqtoRczv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:29 |
 | 13 | [My Rifle, My Pony And Me \- Remastered](https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK) | 2:48 |
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 30 | [Innamorata \(Sweetheart\) \- Remastered 1998](https://open.spotify.com/track/0dGbCGeiRDAbFXwGJPZP7m) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/1RBtf2WFlp9BxQrsbeO3I2) | 2:25 |
 | 31 | [Non Dimenticar \- Remastered 1998](https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 3:05 |
 | 32 | [The Man Who Plays The Mandolino](https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:55 |
-| 33 | [Come Back To Sorrento](https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:15 |
+| 33 | [You Belong To Me](https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:06 |
 | 34 | [Hit The Road To Dreamland](https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:51 |
 | 35 | [Vieni Su \(Say You Love Me, Too\) \- Remastered 1998](https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:26 |
 | 36 | [The One I Love \(Belongs to Somebody Else\)](https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin TV Show](https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR) | 2:15 |
-| 37 | [You Belong To Me](https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:06 |
+| 37 | [Come Back To Sorrento](https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:15 |
 | 38 | [Good Mornin' Life](https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 8 \(1957\-1958\)](https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK) | 2:16 |
 | 39 | [I Have But One Heart \('O Marenariello\) \- Remastered 1998](https://open.spotify.com/track/0Um5yRo7dOIKpIQpGKT4mW) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 3:02 |
-| 40 | [The Birds and the Bees](https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:09 |
-| 41 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:05 |
+| 40 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:05 |
+| 41 | [The Birds and the Bees](https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:09 |
 | 42 | [Goodnight Sweetheart](https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 3:10 |
 | 43 | [In Napoli](https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:56 |
 | 44 | [I Wish You Love](https://open.spotify.com/track/6rE5UhskbiwqzvkPB33MF9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Lee Herschberg](https://open.spotify.com/artist/7GDDpChEAyRCUfb5On65Vr) | [Cha Cha De Amor](https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [I've Grown Accustomed to Her Face \(feat\. Dean Martin\)](https://open.spotify.com/track/6g5aYgw2cdd4rFDpZ7bnxT) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italia](https://open.spotify.com/album/5V2wSvrTzQRRLA7RRXfekM) | 3:08 |
 | 50 | [C'est si bon](https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [French Style](https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm) | 2:55 |
 
-Snapshot ID: `an+sAAAAAAD1lkleHnXmz7kEayn999jb`
+Snapshot ID: `aoD9gAAAAABnsraOaVk62OmYabnmw9Pd`

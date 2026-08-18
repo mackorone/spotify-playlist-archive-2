@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 131837,
+  "num_followers": 131825,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,46 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
+        "name": "Debo Entender",
+        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 238419,
+      "name": "Debo Entender",
+      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
       },
@@ -107,46 +147,6 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "Debo Entender",
-        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 238419,
-      "name": "Debo Entender",
-      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "N\u00e1ufrago",
-        "url": "https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 202617,
-      "name": "Extra\u00f1os",
-      "url": "https://open.spotify.com/track/1ZlBHkvF6NgMuoXTbAvJT9"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Globoscopio",
         "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 273266,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "N\u00e1ufrago",
+        "url": "https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 202617,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/1ZlBHkvF6NgMuoXTbAvJT9"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "El Mariachi Loco",
-      "url": "https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "La Invasion De Los Blatidos",
         "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Red Album",
-        "url": "https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse"
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7"
       },
       "artists": [
         {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 311493,
-      "name": "Remote Control",
-      "url": "https://open.spotify.com/track/223Aw7RpWKcmhgGJ2mYoAt"
+      "duration_ms": 177306,
+      "name": "El Mariachi Loco",
+      "url": "https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -631,6 +615,22 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
+        "name": "Red Album",
+        "url": "https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        }
+      ],
+      "duration_ms": 311493,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/223Aw7RpWKcmhgGJ2mYoAt"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
         "name": "Lo Mejor De La Baraja Con El Rey",
         "url": "https://open.spotify.com/album/4AbxC9BjfOj9T5pQ665zzs"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 277893,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/35xHpveqPB1hlw6a1S7VWU"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "Fiesta Mexicana Con Mariachi (USA)",
-        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "El son de la negra",
-      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -679,6 +663,22 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
+        "name": "Fiesta Mexicana Con Mariachi (USA)",
+        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "El son de la negra",
+      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
         "name": "Tal y cual",
         "url": "https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP"
       },
@@ -695,22 +695,18 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Lumbares",
-        "url": "https://open.spotify.com/album/50uTJZJwNQtZURKqy0Tqwx"
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
       },
       "artists": [
         {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
         }
       ],
-      "duration_ms": 202542,
-      "name": "Lumbares",
-      "url": "https://open.spotify.com/track/4tmysdLhoRXXi7jfq7Ke7i"
+      "duration_ms": 159227,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -727,22 +723,6 @@
       "duration_ms": 179533,
       "name": "El Tapat\u00edo",
       "url": "https://open.spotify.com/track/3Wn26lOa4L5gMFxQOSrvGX"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "Las Numero 1 Del Mariachi Vargas De Tecalitlan",
-        "url": "https://open.spotify.com/album/7bfB8Xz308wXzASUXxQKIy"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 156066,
-      "name": "Jarabe Tapat\u00edo",
-      "url": "https://open.spotify.com/track/7MrFOPlklS8xnxElrcJWXl"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -767,18 +747,38 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
+        "name": "Las Numero 1 Del Mariachi Vargas De Tecalitlan",
+        "url": "https://open.spotify.com/album/7bfB8Xz308wXzASUXxQKIy"
       },
       "artists": [
         {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 159227,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
+      "duration_ms": 156066,
+      "name": "Jarabe Tapat\u00edo",
+      "url": "https://open.spotify.com/track/7MrFOPlklS8xnxElrcJWXl"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Lumbares",
+        "url": "https://open.spotify.com/album/50uTJZJwNQtZURKqy0Tqwx"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 202542,
+      "name": "Lumbares",
+      "url": "https://open.spotify.com/track/4tmysdLhoRXXi7jfq7Ke7i"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Quiero Habitarme",
-        "url": "https://open.spotify.com/album/2LhfFRIeIQByxX28IxUkfI"
-      },
-      "artists": [
-        {
-          "name": "The Space Ocean",
-          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
-        }
-      ],
-      "duration_ms": 176102,
-      "name": "Ni\u00f1o asustado",
-      "url": "https://open.spotify.com/track/2qyt4T7NGc5eI1WRqm0AWp"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Electrodom\u00e9stico",
         "url": "https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 212093,
       "name": "Brillantina",
       "url": "https://open.spotify.com/track/3E0oe6DSQ7f4v9EJ8lZaiu"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Quiero Habitarme",
+        "url": "https://open.spotify.com/album/2LhfFRIeIQByxX28IxUkfI"
+      },
+      "artists": [
+        {
+          "name": "The Space Ocean",
+          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
+        }
+      ],
+      "duration_ms": 176102,
+      "name": "Ni\u00f1o asustado",
+      "url": "https://open.spotify.com/track/2qyt4T7NGc5eI1WRqm0AWp"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Luz Escondida",
-        "url": "https://open.spotify.com/album/7lvaNgNthi0xhNeUOHsma3"
-      },
-      "artists": [
-        {
-          "name": "Radaid",
-          "url": "https://open.spotify.com/artist/6L5ZxnA0J7H0pjubBZFDMz"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "Cuando Salga la Luna",
-      "url": "https://open.spotify.com/track/7tla7OE84fevuyEqNgOjwH"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "La Dosis",
         "url": "https://open.spotify.com/album/1w7s38LGudL6tMQ5cJURlQ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 230760,
       "name": "Vud\u00fa",
       "url": "https://open.spotify.com/track/3NOqbsgsUlgDIqSyUGy85R"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Luz Escondida",
+        "url": "https://open.spotify.com/album/7lvaNgNthi0xhNeUOHsma3"
+      },
+      "artists": [
+        {
+          "name": "Radaid",
+          "url": "https://open.spotify.com/artist/6L5ZxnA0J7H0pjubBZFDMz"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "Cuando Salga la Luna",
+      "url": "https://open.spotify.com/track/7tla7OE84fevuyEqNgOjwH"
     },
     {
       "added_at": "2026-06-08 22:39:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 
 > The most iconic indie needle drops from the last two decades.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,189 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,253 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 30 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
 | 31 | [Magic Man](https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 5:28 |
 | 32 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
-| 33 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:01 |
-| 34 | [Stuck on the puzzle](https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:31 |
+| 33 | [Stuck on the puzzle](https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:31 |
+| 34 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:01 |
 | 35 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 |
 | 36 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
 | 37 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 42 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 43 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
 | 44 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 |
-| 45 | [If I Had a Heart](https://open.spotify.com/track/3eJyXwiYepWvEDKABhm7lL) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Fever Ray](https://open.spotify.com/album/019nA7vSKz0dD5yRKYRpbM) | 3:49 |
-| 46 | [ur so pretty](https://open.spotify.com/track/1N6yLqYILv6h09MUcTIttf) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [My Vine](https://open.spotify.com/album/4qBisrnVON2gyBr6ZrFnHp) | 2:12 |
+| 45 | [ur so pretty](https://open.spotify.com/track/1N6yLqYILv6h09MUcTIttf) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [My Vine](https://open.spotify.com/album/4qBisrnVON2gyBr6ZrFnHp) | 2:12 |
+| 46 | [If I Had a Heart](https://open.spotify.com/track/3eJyXwiYepWvEDKABhm7lL) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Fever Ray](https://open.spotify.com/album/019nA7vSKz0dD5yRKYRpbM) | 3:49 |
 | 47 | [sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:19 |
 | 48 | [Ultraviolet \- From "Angus, Thongs and Perfect Snogging"](https://open.spotify.com/track/4Zf3vqW6M3tAQAvywYgKU6) | [Stiff Dylans](https://open.spotify.com/artist/1IaGetA2lSiOaDPMfHxzSM) | [Ultraviolet](https://open.spotify.com/album/2BEfAkOz9rNk16wdwLtAiS) | 3:46 |
-| 49 | [Come On Eileen](https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC) | 4:33 |
-| 50 | [Mykonos](https://open.spotify.com/track/7H71gZwWs3xPWnHM30NDUp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection: 2006\-2009](https://open.spotify.com/album/2m7zr13OtqMWyPkO32WRo0) | 4:35 |
+| 49 | [Mykonos](https://open.spotify.com/track/7H71gZwWs3xPWnHM30NDUp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection: 2006\-2009](https://open.spotify.com/album/2m7zr13OtqMWyPkO32WRo0) | 4:35 |
+| 50 | [Come On Eileen](https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC) | 4:33 |
 
 Snapshot ID: `AAAAAP5FC5WdodFMXWsT94fo/eu6N8xo`

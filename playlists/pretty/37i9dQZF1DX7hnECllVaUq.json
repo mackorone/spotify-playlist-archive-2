@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Wade Forster",
-  "num_followers": 339097,
+  "num_followers": 339149,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,18 @@
     {
       "added_at": "2026-08-14 04:02:14",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 184517,
-      "name": "What I Want (feat. Tate McRae)",
-      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+      "duration_ms": 171782,
+      "name": "Austin (Boots Stop Workin')",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "added_at": "2026-08-14 04:02:14",
@@ -651,18 +647,22 @@
     {
       "added_at": "2026-08-14 04:02:14",
       "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 171782,
-      "name": "Austin (Boots Stop Workin')",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
     },
     {
       "added_at": "2026-08-14 04:02:14",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-08-14 04:02:14",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+      "duration_ms": 178723,
+      "name": "Religiously",
+      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
     },
     {
       "added_at": "2026-08-14 04:02:14",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-08-14 04:02:14",
       "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+    },
+    {
+      "added_at": "2026-08-14 04:02:14",
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 277573,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
-    },
-    {
-      "added_at": "2026-08-14 04:02:14",
-      "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Religiously",
-      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
     },
     {
       "added_at": "2026-08-14 04:02:14",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-08-14 04:02:14",
       "album": {
-        "name": "Porch Light",
-        "url": "https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 184949,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU"
-    },
-    {
-      "added_at": "2026-08-14 04:02:14",
-      "album": {
         "name": "The Select",
         "url": "https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 246141,
       "name": "Thought It Was Love",
       "url": "https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF"
+    },
+    {
+      "added_at": "2026-08-14 04:02:14",
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 184949,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU"
     },
     {
       "added_at": "2026-08-14 04:02:14",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-08-14 04:02:14",
       "album": {
-        "name": "Am I Okay?",
-        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 235002,
-      "name": "Am I Okay?",
-      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
-    },
-    {
-      "added_at": "2026-08-14 04:02:14",
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 164011,
       "name": "Guy For That (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6StwwqB84sJeLr7tZDTxEX"
+    },
+    {
+      "added_at": "2026-08-14 04:02:14",
+      "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
       "added_at": "2026-08-14 04:02:14",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-08-14 04:02:14",
       "album": {
-        "name": "Livin' My Best Life (Still)",
-        "url": "https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 153906,
-      "name": "What He'll Never Have",
-      "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"
-    },
-    {
-      "added_at": "2026-08-14 04:02:14",
-      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 179294,
       "name": "Where It Ends",
       "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"
+    },
+    {
+      "added_at": "2026-08-14 04:02:14",
+      "album": {
+        "name": "Livin' My Best Life (Still)",
+        "url": "https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 153906,
+      "name": "What He'll Never Have",
+      "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"
     },
     {
       "added_at": "2026-08-14 04:02:14",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-08-14 04:02:14",
       "album": {
+        "name": "Think I\u2019m In Love With You",
+        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Think I'm In Love With You",
+      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
+    },
+    {
+      "added_at": "2026-08-14 04:02:14",
+      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2026-08-14 04:02:14",
-      "album": {
-        "name": "Think I\u2019m In Love With You",
-        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Think I'm In Love With You",
-      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
     },
     {
       "added_at": "2026-08-14 04:02:14",

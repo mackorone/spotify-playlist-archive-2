@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 184080,
       "name": "Default",
       "url": "https://open.spotify.com/track/0d2O5TNHO2T5XR95TVmgfp"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 220600,
       "name": "Forest Whitaker",
       "url": "https://open.spotify.com/track/2kW59AS9OrpFsuXbi2939R"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 226373,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4LidQrfqHouXmnAWlJu5vO"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 218240,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/4VPZX5qq0mujdIrVhLFROu"

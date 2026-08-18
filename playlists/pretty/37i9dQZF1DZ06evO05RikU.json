@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43818,
+  "num_followers": 43816,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABw2hmrhrFs/hUkxTc9Rjey",
+  "snapshot_id": "aoD9gAAAAAC56510M/6CG4f0UwPDmVjQ",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louder!.",
-        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 225072,
-      "name": "Llegaste t\u00fa (feat. Reykon)",
-      "url": "https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hotel Miranda!",
         "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 174428,
       "name": "Ya Lo Sab\u00eda",
       "url": "https://open.spotify.com/track/7w84NiIflcJxIOcvgUm1iB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louder!.",
+        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 225072,
+      "name": "Llegaste t\u00fa (feat. Reykon)",
+      "url": "https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 148700,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 136015,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 148700,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
     },
     {
       "added_at": null,
@@ -727,30 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MiuMiu",
-        "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 179374,
-      "name": "MiuMiu",
-      "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gotta Be Patient",
         "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 160318,
       "name": "Gotta Be Patient",
       "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MiuMiu",
+        "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "MiuMiu",
+      "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
     },
     {
       "added_at": null,

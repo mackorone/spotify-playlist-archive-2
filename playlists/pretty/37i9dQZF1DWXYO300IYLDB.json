@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 137045,
+  "num_followers": 137043,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
-        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 205483,
-      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 205483,
+      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 332960,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 332960,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -523,22 +539,6 @@
       "duration_ms": 170213,
       "name": "The Longest Goodbye (feat. Laufey)",
       "url": "https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+        "name": "Soft Spot (Alternate Versions)",
+        "url": "https://open.spotify.com/album/54QpKvhFEDWb9U0NhSeZVe"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
+      "duration_ms": 208039,
+      "name": "Soft Spot - Acoustic",
+      "url": "https://open.spotify.com/track/7FB6Nx7TK8y1Ke8dY6ROpQ"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -763,22 +779,6 @@
       "duration_ms": 270698,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
-        "name": "Soft Spot (Alternate Versions)",
-        "url": "https://open.spotify.com/album/54QpKvhFEDWb9U0NhSeZVe"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 208039,
-      "name": "Soft Spot - Acoustic",
-      "url": "https://open.spotify.com/track/7FB6Nx7TK8y1Ke8dY6ROpQ"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Get Lucky",
-        "url": "https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ"
-      },
-      "artists": [
-        {
-          "name": "Bossanova Tribute",
-          "url": "https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic"
-        }
-      ],
-      "duration_ms": 231983,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ"
+      },
+      "artists": [
+        {
+          "name": "Bossanova Tribute",
+          "url": "https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic"
+        }
+      ],
+      "duration_ms": 231983,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
         "name": "Simply the Best (From \"Schitt's Creek\")",
         "url": "https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 177918,
       "name": "Simply the Best (From \"Schitt's Creek\")",
       "url": "https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
-        "name": "here comes the sun",
-        "url": "https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "here comes the sun",
-      "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+        "name": "here comes the sun",
+        "url": "https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
+      "duration_ms": 167293,
+      "name": "here comes the sun",
+      "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1127,6 +1111,22 @@
       "duration_ms": 353958,
       "name": "\u591c\u306e\u6b6f\u8eca",
       "url": "https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "rain",
-        "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 254230,
-      "name": "rain",
-      "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Highlights",
         "url": "https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 152293,
       "name": "Highlights",
       "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 254230,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "My Maker",
-        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 259842,
-      "name": "My Maker",
-      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Dear Jubilee -RADWIMPS TRIBUTE-",
         "url": "https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 409000,
       "name": "\u305d\u3063\u3051\u306a\u3044",
       "url": "https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "My Maker",
+        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 259842,
+      "name": "My Maker",
+      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Dialogue \uff0dMiki Imai Sings Yuming Classics\uff0d",
-        "url": "https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq"
-      },
-      "artists": [
-        {
-          "name": "Miki Imai",
-          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "\u5352\u696d\u5199\u771f",
-      "url": "https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "\u30b5\u30e8\u30ca\u30e9COLOR (feat. \u5fcc\u91ce\u6e05\u5fd7\u90ce)",
         "url": "https://open.spotify.com/album/5Vh1RJMPCuj0BnibZCtg2Q"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "GOOD BOY (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm"
+        "name": "Dialogue \uff0dMiki Imai Sings Yuming Classics\uff0d",
+        "url": "https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq"
       },
       "artists": [
         {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+          "name": "Miki Imai",
+          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU"
+      "duration_ms": 194400,
+      "name": "\u5352\u696d\u5199\u771f",
+      "url": "https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1495,6 +1479,22 @@
       "duration_ms": 179871,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "GOOD BOY (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "It's a Mirror",
-        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "It's a Mirror",
-      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Velvet Petals",
         "url": "https://open.spotify.com/album/6fFHDyWW8d4wTqkRbBKFcA"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 200571,
       "name": "Velvet Love",
       "url": "https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "It's a Mirror",
+        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "It's a Mirror",
+      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
     }
   ],
   "unique_name": "Acoustic Melodies Tokyo",

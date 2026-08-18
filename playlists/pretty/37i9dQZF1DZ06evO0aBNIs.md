@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 > This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,894 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,938 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 29 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 |
 | 30 | [Tomorrow](https://open.spotify.com/track/1T0Dv84b0Za7FoLcoeajgh) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:48 |
 | 31 | [Let Me Go \(feat\. Chad Kroeger\)](https://open.spotify.com/track/2o0V0AATmWmCmMOAFWDuEV) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 4:27 |
-| 32 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
-| 33 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/7CLZA5K0fklYClw6NUqxhM) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [California Gold](https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3) | 3:30 |
+| 32 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/7CLZA5K0fklYClw6NUqxhM) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [California Gold](https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3) | 3:30 |
+| 33 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
 | 34 | [He Wasn't](https://open.spotify.com/track/0VRxqpFICUHJKuWx9sQrm6) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 2:59 |
 | 35 | [Knockin' on Heaven's Door \- Studio Version](https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Nobody's Home](https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV) | 2:50 |
 | 36 | [Why](https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 49 | [F.U.](https://open.spotify.com/track/2pp1JDxpXuqRINtpxl0e4h) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:47 |
 | 50 | [Bad Reputation](https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 2:42 |
 
-Snapshot ID: `an+sAAAAAAA8ieH5RGdfdUeqhhrkXc+J`
+Snapshot ID: `aoD9gAAAAADs9Gvb4rUWkh7MpzGV9WaK`

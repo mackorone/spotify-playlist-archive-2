@@ -2,7 +2,7 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With UrvTek, sixwing, Learke and more
+> With sixwing, UrvTek, Learke and more
 
 349 songs - 15 hr 51 min
 

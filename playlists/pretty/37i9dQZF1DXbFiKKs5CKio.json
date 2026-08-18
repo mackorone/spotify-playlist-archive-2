@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73180,
+  "num_followers": 73190,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADkcK817u+vFqagqZPZHqPdDMWek",
+  "snapshot_id": "AAAAAAaIHbZS0H+hYTX7n42W4nQLD8Zf",
   "tracks": [
     {
       "added_at": "2026-08-07 14:24:16",
@@ -51,22 +51,6 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -83,6 +67,42 @@
       "duration_ms": 215005,
       "name": "Rota",
       "url": "https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Relevuras",
+        "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Prisioneira de Mim",
+      "url": "https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -131,42 +151,6 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Relevuras",
-        "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Prisioneira de Mim",
-      "url": "https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 178352,
-      "name": "Amor da Minha Vida",
-      "url": "https://open.spotify.com/track/1cbLFYmad56AWDBu6HNIW0"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -195,6 +179,22 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 178352,
+      "name": "Amor da Minha Vida",
+      "url": "https://open.spotify.com/track/1cbLFYmad56AWDBu6HNIW0"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
         "name": "rara e Brasileira",
         "url": "https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr"
       },
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
         "name": "Ainda \u00e9 pouco",
         "url": "https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 174377,
       "name": "Ainda \u00e9 pouco",
       "url": "https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Allefez",
-          "url": "https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Gaveta/Onironauta",
-      "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
         "name": "Fiquei assim",
         "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 218662,
       "name": "Fiquei assim",
       "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Allefez",
+          "url": "https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Gaveta/Onironauta",
+      "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -375,18 +375,22 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
+        "name": "Desalinho",
+        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
       },
       "artists": [
         {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 198101,
-      "name": "Aprendi a Viver S\u00f3",
-      "url": "https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy"
+      "duration_ms": 205357,
+      "name": "Desalinho",
+      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -407,22 +411,18 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Desalinho",
-        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
       },
       "artists": [
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
         }
       ],
-      "duration_ms": 205357,
-      "name": "Desalinho",
-      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
+      "duration_ms": 198101,
+      "name": "Aprendi a Viver S\u00f3",
+      "url": "https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -463,42 +463,6 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Sexto Sentido",
-      "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
-        "name": "Abre Alas",
-        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
-      },
-      "artists": [
-        {
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 311811,
-      "name": "Abre Alas",
-      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
         "name": "Jeito Certo",
         "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
@@ -515,6 +479,22 @@
       "duration_ms": 190993,
       "name": "Jeito Certo",
       "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Sexto Sentido",
+      "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -539,6 +519,42 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Abre Alas",
+        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
+      },
+      "artists": [
+        {
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 311811,
+      "name": "Abre Alas",
+      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Romance Fora de Hora",
+      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -571,22 +587,6 @@
       "duration_ms": 220728,
       "name": "Fim\u2026",
       "url": "https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "Romance Fora de Hora",
-      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Passageiro do Bem - LADO B",
-        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Voc\u00ea Merece",
-      "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
         "name": "Dava Praia",
         "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Passageiro do Bem - LADO B",
+        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Voc\u00ea Merece",
+      "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
     },
     {
       "added_at": "2026-08-07 14:24:16",

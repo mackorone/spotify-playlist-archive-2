@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,015 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,020 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 3 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
 | 4 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 5 | [Ghetto Love Story](https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:58 |
-| 6 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
+| 6 | [Something To Lose](https://open.spotify.com/track/78lR1li9wdwunwNoVYiBpE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2), [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Something To Lose](https://open.spotify.com/album/7jBvgF3VkF58blzE4NWOye) | 2:55 |
 | 7 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 |
 | 8 | [ocean mail](https://open.spotify.com/track/0Hj430PIncM2dpgZAxPcue) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [daydream radio](https://open.spotify.com/album/2QDEGhH0dJtK4IjjSL7tE4) | 3:47 |
 | 9 | [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 |
 | 10 | [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 |
-| 11 | [Something To Lose](https://open.spotify.com/track/78lR1li9wdwunwNoVYiBpE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2), [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Something To Lose](https://open.spotify.com/album/7jBvgF3VkF58blzE4NWOye) | 2:55 |
+| 11 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 |
 | 12 | [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 |
 | 13 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
-| 14 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 |
+| 14 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 15 | [ROM\-COM \(feat\. Vulgar Savior\)](https://open.spotify.com/track/0R0VjchMqv1ty9Np0E9DVT) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3), [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [i love your complex](https://open.spotify.com/album/1b7KIjcXrhfSDsuS8l9Ngo) | 5:17 |
 | 16 | [Skagen](https://open.spotify.com/track/33uq9UYbtgn9ez1h8zew6t) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm), [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Skagen](https://open.spotify.com/album/5eGhFkivRRpuMB8nFtaTnI) | 4:17 |
 | 17 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 43 | [GOOD DAY](https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [GOOD DAY](https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv) | 4:17 |
 | 44 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
 | 45 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
-| 46 | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR) | 3:33 |
-| 47 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
+| 46 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
+| 47 | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR) | 3:33 |
 | 48 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 49 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 |
 | 50 | [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 |

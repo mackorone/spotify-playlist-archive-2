@@ -1,6 +1,6 @@
 {
   "description": "100% cl\u00e1ssicos.",
-  "num_followers": 539550,
+  "num_followers": 539753,
   "original_name": "EDM Hits",
   "owner": {
     "name": "Spotify",
@@ -303,8 +303,8 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "Only One Flo (Part 1)",
-        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
       "artists": [
         {
@@ -312,13 +312,13 @@
           "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Club Can't Handle Me (feat. David Guetta)",
-      "url": "https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -383,46 +383,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
-        }
-      ],
-      "duration_ms": 219043,
-      "name": "Sugar (feat. Francesco Yates)",
-      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Wild Ones (feat. Sia)",
-      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "New Eyes",
         "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
       },
@@ -439,6 +399,46 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "Only One Flo (Part 1)",
+        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Club Can't Handle Me (feat. David Guetta)",
+      "url": "https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "duration_ms": 219043,
+      "name": "Sugar (feat. Francesco Yates)",
+      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -523,6 +523,26 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "I Need Your Love (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 271634,
       "name": "Firestone",
       "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "I Need Your Love (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -627,46 +627,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "THIS IS... ICONA POP",
-        "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 157152,
-      "name": "I Love It (feat. Charli XCX)",
-      "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Middle",
-      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -711,6 +671,26 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
+        "name": "THIS IS... ICONA POP",
+        "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 157152,
+      "name": "I Love It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
         "name": "Pharmacy",
         "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 227073,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -747,26 +747,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "GIGI D'AGOSTINO",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 210090,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "GIGI D'AGOSTINO",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "The Beginning (Deluxe)",
-        "url": "https://open.spotify.com/album/0BkpKcHw606at6Y2cp8kdE"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 307640,
-      "name": "The Time (Dirty Bit)",
-      "url": "https://open.spotify.com/track/7vWFaMq63AwkFDhS2OAg5u"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
+        "name": "The Beginning (Deluxe)",
+        "url": "https://open.spotify.com/album/0BkpKcHw606at6Y2cp8kdE"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 307640,
+      "name": "The Time (Dirty Bit)",
+      "url": "https://open.spotify.com/track/7vWFaMq63AwkFDhS2OAg5u"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
         "name": "Intense",
         "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
       },
@@ -1091,26 +1091,6 @@
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero]",
-        "url": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 208316,
-      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
-      "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -1155,6 +1135,26 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "url": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 208316,
+      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+      "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
     },
     {
       "added_at": "2025-01-16 12:30:53",

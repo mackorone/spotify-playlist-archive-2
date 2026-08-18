@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 64902,
+  "num_followers": 64911,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Seoul Check-in OST Part 5",
-        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 200460,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "\u2018The ReVe Festival\u2019 Day 2",
         "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 236746,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Seoul Check-in OST Part 5",
+        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 200460,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
+        "name": "City View / Her",
+        "url": "https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        },
+        {
+          "name": "Slom",
+          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
+        }
+      ],
+      "duration_ms": 208875,
+      "name": "City View",
+      "url": "https://open.spotify.com/track/4di5ecJU8Rl40CgNvsV98Z"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
         "name": "Called Love",
         "url": "https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD"
       },
@@ -831,22 +851,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Dancing in the dark",
-        "url": "https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF"
-      },
-      "artists": [
-        {
-          "name": "YEOJIN(L\u221ena)",
-          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "Dancing in the dark",
-      "url": "https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "Kim Hyun Chul 10Th \"Sale\"",
         "url": "https://open.spotify.com/album/6xqjeBCnTkA68QjSNmwOst"
       },
@@ -867,22 +871,18 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "City View / Her",
-        "url": "https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW"
+        "name": "Dancing in the dark",
+        "url": "https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF"
       },
       "artists": [
         {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        },
-        {
-          "name": "Slom",
-          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
+          "name": "YEOJIN(L\u221ena)",
+          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
         }
       ],
-      "duration_ms": 208875,
-      "name": "City View",
-      "url": "https://open.spotify.com/track/4di5ecJU8Rl40CgNvsV98Z"
+      "duration_ms": 168026,
+      "name": "Dancing in the dark",
+      "url": "https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
+      },
+      "artists": [
+        {
+          "name": "JuJu Secret",
+          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 223351,
       "name": "Haru (with meenoi)",
       "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
-      },
-      "artists": [
-        {
-          "name": "JuJu Secret",
-          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Marry My Husband OST Special Track",
-        "url": "https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh"
-      },
-      "artists": [
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        }
-      ],
-      "duration_ms": 230617,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "AOA 4th Mini Album Good Luck",
         "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
+        "name": "Marry My Husband OST Special Track",
+        "url": "https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "duration_ms": 230617,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
         "name": "5min to heartbreak",
         "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Typhoon Family, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3t10HzKUKgOls7N5MRKgv0"
-      },
-      "artists": [
-        {
-          "name": "Lee WonSeok",
-          "url": "https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Once again, With you",
-      "url": "https://open.spotify.com/track/31zBA8IjlBAcO261hgEtcV"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 231294,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Typhoon Family, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3t10HzKUKgOls7N5MRKgv0"
+      },
+      "artists": [
+        {
+          "name": "Lee WonSeok",
+          "url": "https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Once again, With you",
+      "url": "https://open.spotify.com/track/31zBA8IjlBAcO261hgEtcV"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "Onstage Digging Club Seoul Part.05",
         "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Good Luck",
-        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
+        "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
+        "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
       },
       "artists": [
         {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
+      "duration_ms": 250000,
+      "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
+      "url": "https://open.spotify.com/track/4b4hrrDEP5ZrF5n1mePurX"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1319,22 +1323,18 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
-        "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
       },
       "artists": [
         {
-          "name": "Yoon Jong Shin",
-          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
         }
       ],
-      "duration_ms": 250000,
-      "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
-      "url": "https://open.spotify.com/track/4b4hrrDEP5ZrF5n1mePurX"
+      "duration_ms": 220000,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
-      },
-      "artists": [
-        {
-          "name": "RYEOWOOK",
-          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
-        }
-      ],
-      "duration_ms": 201223,
-      "name": "\uadf8\ub300 Hello",
-      "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "Time-Lapse",
         "url": "https://open.spotify.com/album/6qqlPpYvObYNofsPxve7cT"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 208240,
       "name": "I want to be closer to you",
       "url": "https://open.spotify.com/track/1WfxhZEtlQ9J0B4325cBsF"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        }
+      ],
+      "duration_ms": 201223,
+      "name": "\uadf8\ub300 Hello",
+      "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1475,30 +1475,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Do Worry Be Happy",
-        "url": "https://open.spotify.com/album/7hcRYQuywqZ7syYMNX2XmQ"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Anda",
-          "url": "https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4"
-        },
-        {
-          "name": "colde",
-          "url": "https://open.spotify.com/artist/1QIQMfnfyVmZsE6lGOaiMN"
-        }
-      ],
-      "duration_ms": 268847,
-      "name": "The open boat",
-      "url": "https://open.spotify.com/track/4RGt40uIy9faZvgLFb9XDa"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -1531,6 +1507,30 @@
       "duration_ms": 209453,
       "name": "Like Heaven (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Do Worry Be Happy",
+        "url": "https://open.spotify.com/album/7hcRYQuywqZ7syYMNX2XmQ"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Anda",
+          "url": "https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4"
+        },
+        {
+          "name": "colde",
+          "url": "https://open.spotify.com/artist/1QIQMfnfyVmZsE6lGOaiMN"
+        }
+      ],
+      "duration_ms": 268847,
+      "name": "The open boat",
+      "url": "https://open.spotify.com/track/4RGt40uIy9faZvgLFb9XDa"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Scent",
-        "url": "https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN"
-      },
-      "artists": [
-        {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Get up",
-      "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "TALK",
         "url": "https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 203927,
       "name": "TALK",
       "url": "https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Scent",
+        "url": "https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Get up",
+      "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "New Edition 72",
-        "url": "https://open.spotify.com/album/380DJfrIbF1vhKHSbtasEN"
+        "name": "nokdu ep vol.1",
+        "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
       },
       "artists": [
         {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+          "name": "nokdu",
+          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
+        },
+        {
+          "name": "JINBO the SuperFreak",
+          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
         }
       ],
-      "duration_ms": 226182,
-      "name": "Glimmers",
-      "url": "https://open.spotify.com/track/46w28mpfJkCHaybepEd3Eb"
+      "duration_ms": 219818,
+      "name": "Just The Two of Us (feat. Jinbo)",
+      "url": "https://open.spotify.com/track/6HyBiexwqyNzDAJ72azjKo"
     }
   ],
   "unique_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",

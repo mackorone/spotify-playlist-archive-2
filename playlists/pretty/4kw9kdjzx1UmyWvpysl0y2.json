@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123012,
+  "num_followers": 122997,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVqqOEIw79mMfEvAuMUMfpdkkg8USy",
+  "snapshot_id": "AAAVq1Nhhc6I708uVo+auaE77ioKHfhQ",
   "tracks": [
+    {
+      "added_at": "2026-08-17 15:58:04",
+      "album": {
+        "name": "Monstercat Instinct Selections 03",
+        "url": "https://open.spotify.com/album/2aKZFdo7ciQtWAtLzZ1YBr"
+      },
+      "artists": [
+        {
+          "name": "Lilygarden",
+          "url": "https://open.spotify.com/artist/3PZVu8hJP0OYo49wwf8pyt"
+        }
+      ],
+      "duration_ms": 170597,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/2YntYGCGeFc2b5kSW2yNJS"
+    },
     {
       "added_at": "2026-08-14 15:41:56",
       "album": {

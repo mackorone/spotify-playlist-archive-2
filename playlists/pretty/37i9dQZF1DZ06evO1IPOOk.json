@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1921975,
+  "num_followers": 1921961,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACGa6EAquUgoUweKqHP8oy0",
+  "snapshot_id": "aoD9gAAAAABYGaDlOnnPODUReZoPeWmL",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i",
-        "url": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "i",
-      "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 210226,
       "name": "The Greatest (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i",
+        "url": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "i",
+      "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz"
     },
     {
       "added_at": null,

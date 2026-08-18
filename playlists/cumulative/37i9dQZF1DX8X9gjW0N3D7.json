@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 195000,
       "name": "Fleuron (feat. Helena Deland)",
       "url": "https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT"
@@ -9402,6 +9402,28 @@
       "duration_ms": 219533,
       "name": "That I could",
       "url": "https://open.spotify.com/track/1p2XBDrwARmuqxcaQ72oNY"
+    },
+    {
+      "album": {
+        "name": "the evergreen, the birch",
+        "url": "https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        },
+        {
+          "name": "MEGGO",
+          "url": "https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179050,
+      "name": "the evergreen, the birch",
+      "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
     },
     {
       "album": {

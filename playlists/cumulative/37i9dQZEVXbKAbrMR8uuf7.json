@@ -8760,7 +8760,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 121191,
       "name": "Culpa Mia",
       "url": "https://open.spotify.com/track/00LVVrNNugENHTqeRDyjvv"
@@ -11770,7 +11770,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 172233,
       "name": "DIOS LO QUIZO AS\u00cd",
       "url": "https://open.spotify.com/track/0eYxHp5xLmvIgvVWs32BwG"
@@ -12180,7 +12180,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -12198,7 +12198,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 333000,
       "name": "Duele",
       "url": "https://open.spotify.com/track/4CGMZlGcSOqmLppzU4t7oK"
@@ -18660,7 +18660,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -19906,7 +19906,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 199114,
       "name": "KLOuFRENS",
       "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
@@ -26878,7 +26878,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
@@ -32051,6 +32051,24 @@
     },
     {
       "album": {
+        "name": "Perra",
+        "url": "https://open.spotify.com/album/1KfdPsy8gYxJDSkW2poBnM"
+      },
+      "artists": [
+        {
+          "name": "ReindeerMusic",
+          "url": "https://open.spotify.com/artist/0LJxbNTIrGbogtlHh3kUVv"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77438,
+      "name": "Perra",
+      "url": "https://open.spotify.com/track/3LW1UnuYz16UvqOsa6YAq9"
+    },
+    {
+      "album": {
         "name": "Perreando Tra Tra",
         "url": "https://open.spotify.com/album/6LEmS4V7I1S2S1XvCN4aLr"
       },
@@ -35716,7 +35734,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 146823,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3m8S31BMGE9Hck6heXw10X"
@@ -39093,6 +39111,24 @@
     },
     {
       "album": {
+        "name": "Siento Que Te Quiero 2.0",
+        "url": "https://open.spotify.com/album/4TZEOKbybR39v6J6dpOtnd"
+      },
+      "artists": [
+        {
+          "name": "El Rubio Acorde\u00f3n",
+          "url": "https://open.spotify.com/artist/4Vvu7tVzLF5tA19BpNTgm1"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484000,
+      "name": "Siento Que Te Quiero 2.0",
+      "url": "https://open.spotify.com/track/5cuOJQHZqNDTdMJChwRtN2"
+    },
+    {
+      "album": {
         "name": "Sigo Aqui",
         "url": "https://open.spotify.com/album/2Kks6QGA5JPE27U9B2CT6J"
       },
@@ -39892,7 +39928,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 150260,
       "name": "Sofoke + Kinky",
       "url": "https://open.spotify.com/track/2e72ZHOt9enJAjL60GUdSS"
@@ -47632,7 +47668,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 216506,
       "name": "\u2060LUCES DE COLORES",
       "url": "https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"

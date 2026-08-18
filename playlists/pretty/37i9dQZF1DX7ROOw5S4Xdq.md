@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,216 likes - 49 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,271 likes - 49 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 23 | [Isaías](https://open.spotify.com/track/36PKCPADlGkdPgQr1SmTjX) | [David Cardoso](https://open.spotify.com/artist/3Ogh2gtYE5AdFkucntqTqn), [ONE\-Sounds](https://open.spotify.com/artist/71awyf4ddRgZM3UXc9s7ki) | [Primeiros Versos](https://open.spotify.com/album/2nNZiOFimPlgD7BtW9q62a) | 4:20 |
 | 24 | [Manso E Humilde \- Ao Vivo](https://open.spotify.com/track/5dKnvCUp7jX85aQZsdFdlT) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Jessé Perão](https://open.spotify.com/artist/4F0ulsWKtKLdRkhxXDWv7l) | [Bethânia \(Ao Vivo\)](https://open.spotify.com/album/0tU16xF0z8Vsbnoqq13nC9) | 12:11 |
 | 25 | [Agindo Diferente \- Ao Vivo](https://open.spotify.com/track/514iKhGRzeO2zNogmHMgoY) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Agindo Diferente \(Ao Vivo\)](https://open.spotify.com/album/54yBgdjOqnR1f1TEHo1vdx) | 5:23 |
-| 26 | [Só Você é Deus](https://open.spotify.com/track/30wWUZxqjdgSSlc61gOSkJ) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Paixão & Devoção Vol\. 2 \(Acústico\)](https://open.spotify.com/album/6BdFlr7wgarEwe1n7QVVqt) | 3:27 |
+| 26 | [Só Você é Deus](https://open.spotify.com/track/30wWUZxqjdgSSlc61gOSkJ) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Paixão & Devoção Vol\. 2](https://open.spotify.com/album/6BdFlr7wgarEwe1n7QVVqt) | 3:27 |
 | 27 | [Os 10 Leprosos](https://open.spotify.com/track/3Prns4NkrWd99Dv4LTjGyi) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [A Vida](https://open.spotify.com/album/0WMTKjElVvsBjjXGoTf8Dr) | 4:52 |
 | 28 | [Rude Cruz](https://open.spotify.com/track/1gHHUpvKmNsO9QnBfxwkXa) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Rude Cruz](https://open.spotify.com/album/08kXDtJsFDxcZUxzpzZPy6) | 5:51 |
 | 29 | [+Maria+Jesus](https://open.spotify.com/track/5ALrCIAYdORYahMzFu6fRE) | [MICHELLE CAMPOS](https://open.spotify.com/artist/2uYOdjQRzMUmEg9xAeWpcw), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [+Maria+Jesus](https://open.spotify.com/album/6kDHmR7NsfyzBTxq3XPjmi) | 4:39 |

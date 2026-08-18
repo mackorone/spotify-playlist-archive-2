@@ -4,7 +4,7 @@
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-313 songs - 18 hr 23 min
+314 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2024-03-08 | 2025-01-28 |
 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 | 2023-08-29 | 2024-03-09 |
 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-05-10 | 2023-08-07 |
+| [Minutos de Aire \(feat\. Jorge Gonzalez\)](https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 5 Coyote Nights](https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F) | 4:37 | 2024-06-14 |  |
 | [Mira cómo vuelo](https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Detroit](https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT) | 3:09 | 2024-03-08 |  |
 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 | 2023-03-31 | 2023-07-12 |
 | [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 | 2023-03-19 | 2023-06-04 |
@@ -250,7 +251,7 @@
 | [Problema](https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Problema](https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV) | 2:44 | 2023-03-19 | 2023-04-24 |
 | [Provoqué](https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Provoqué](https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE) | 3:38 | 2023-04-20 | 2023-07-24 |
 | [PUEDE SER](https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 | 2024-06-14 |  |
-| [Que No](https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 3:50 | 2024-06-14 |  |
+| [Que No](https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 3:50 | 2024-06-14 | 2026-08-18 |
 | [Que Venís](https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u) | [Juli Gervasoni](https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb), [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Que Venís](https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2) | 3:50 | 2023-05-08 | 2023-08-04 |
 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 | 2024-03-08 |  |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-04-13 | 2023-07-17 |

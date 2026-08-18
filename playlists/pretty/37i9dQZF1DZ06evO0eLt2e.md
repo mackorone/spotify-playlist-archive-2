@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,211 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,216 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 49 | [Jody and the Kid](https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 3:08 |
 | 50 | [The Lonely Night \- Reprise Version](https://open.spotify.com/track/6g7BOAGapOkrpCfSLgvaUv) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Lonely Night \(Reprise Version\)](https://open.spotify.com/album/6tFLaFzsYAWNv0VctKguZk) | 5:42 |
 
-Snapshot ID: `an+sAAAAAACqbp8u3ZXhRbIQx7OFx5Zb`
+Snapshot ID: `aoD9gAAAAACQwvYiE2/AJxx9e9UbcnNQ`

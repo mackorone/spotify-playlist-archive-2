@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 148857,
+  "num_followers": 148848,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
         "name": "Rei da Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP"
       },
@@ -263,38 +279,6 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
-        "name": "Acalma Minha Tempestade (Ao Vivo no Hopi Hari)",
-        "url": "https://open.spotify.com/album/4KwN3i68S1leYaMz96oXTD"
-      },
-      "artists": [
-        {
-          "name": "Guilherme de S\u00e1",
-          "url": "https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9"
-        }
-      ],
-      "duration_ms": 329258,
-      "name": "Acalma Minha Tempestade (Ao Vivo no Hopi Hari)",
-      "url": "https://open.spotify.com/track/7ecqcznNojGqvYN08opRgp"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
         "name": "Daniel (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
+        "name": "Acalma Minha Tempestade (Ao Vivo no Hopi Hari)",
+        "url": "https://open.spotify.com/album/4KwN3i68S1leYaMz96oXTD"
+      },
+      "artists": [
+        {
+          "name": "Guilherme de S\u00e1",
+          "url": "https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9"
+        }
+      ],
+      "duration_ms": 329258,
+      "name": "Acalma Minha Tempestade (Ao Vivo no Hopi Hari)",
+      "url": "https://open.spotify.com/track/7ecqcznNojGqvYN08opRgp"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Pra Descobrir",
-        "url": "https://open.spotify.com/album/19eaAqFmX3ElvRtszgvPDV"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 257068,
-      "name": "Pra Descobrir",
-      "url": "https://open.spotify.com/track/2OdrzlIu1hxjbDeWaVYAhb"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
         "name": "Rodolfo Abrantes + Orquestra Sinf\u00f4nica de Santa Catarina (Ao Vivo em Florian\u00f3polis)",
         "url": "https://open.spotify.com/album/0Kd6WjHFSxtVcuDGyCS47n"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 576682,
       "name": "Isaias 9 - Ao Vivo em Florian\u00f3polis",
       "url": "https://open.spotify.com/track/68EXQVZ1awR51KrRamWmDk"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
+        "name": "Pra Descobrir",
+        "url": "https://open.spotify.com/album/19eaAqFmX3ElvRtszgvPDV"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 257068,
+      "name": "Pra Descobrir",
+      "url": "https://open.spotify.com/track/2OdrzlIu1hxjbDeWaVYAhb"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
+        "name": "Falhas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
+      },
+      "artists": [
+        {
+          "name": "Daniel Juan",
+          "url": "https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH"
+        }
+      ],
+      "duration_ms": 379130,
+      "name": "Falhas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
         "name": "O Meu Lugar",
         "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 245912,
       "name": "O Meu Lugar",
       "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
-        "name": "Falhas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
-      },
-      "artists": [
-        {
-          "name": "Daniel Juan",
-          "url": "https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH"
-        }
-      ],
-      "duration_ms": 379130,
-      "name": "Falhas - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Filho do Homem",
-        "url": "https://open.spotify.com/album/5kKHNpbsFy6TgEUN1JL8Ee"
-      },
-      "artists": [
-        {
-          "name": "Rafa Couto",
-          "url": "https://open.spotify.com/artist/6GvcizsywEFhUPUn7Ibkw3"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 177608,
-      "name": "Filho do Homem",
-      "url": "https://open.spotify.com/track/68yyZSK9zTuvtCBq7vt2cR"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
         "name": "Imerecido Amor",
         "url": "https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 190967,
       "name": "Imerecido Amor",
       "url": "https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
+        "name": "Filho do Homem",
+        "url": "https://open.spotify.com/album/5kKHNpbsFy6TgEUN1JL8Ee"
+      },
+      "artists": [
+        {
+          "name": "Rafa Couto",
+          "url": "https://open.spotify.com/artist/6GvcizsywEFhUPUn7Ibkw3"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 177608,
+      "name": "Filho do Homem",
+      "url": "https://open.spotify.com/track/68yyZSK9zTuvtCBq7vt2cR"
     },
     {
       "added_at": "2026-08-03 21:13:53",

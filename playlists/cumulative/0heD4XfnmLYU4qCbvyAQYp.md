@@ -4,10 +4,11 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-157 songs - 10 hr 4 min
+158 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A blaze of light](https://open.spotify.com/track/4tFLN0VdJ96FIawiBLSiI2) | [momo.wav](https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA) | [A blaze of light](https://open.spotify.com/album/2Re0mJ0x041tvrH1qlNRWr) | 2:50 | 2026-08-17 |  |
 | [A Ghost](https://open.spotify.com/track/3iqVEqY5MhqWWnefad3AAr) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [A Ghost](https://open.spotify.com/album/1Q7KenxMx2VIjtfAIoZh1R) | 3:01 | 2026-02-06 | 2026-04-05 |
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2025-11-04 | 2025-12-08 |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-10 | 2026-02-07 |

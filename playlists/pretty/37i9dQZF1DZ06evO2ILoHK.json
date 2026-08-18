@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 13297,
+  "num_followers": 13299,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABnKs+238rywaRhXYplAsvL",
+  "snapshot_id": "aoD9gAAAAAD+0Yj8PqXX8e2A6lqZskFJ",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wish I Could Stay Here",
-        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
+        "name": "Further Sky",
+        "url": "https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Earl Grey",
-      "url": "https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54"
+      "duration_ms": 211943,
+      "name": "Summer's Colour",
+      "url": "https://open.spotify.com/track/2hcvWC5XQHYhjH0oGEbsxr"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Further Sky",
-        "url": "https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX"
+        "name": "I Wish I Could Stay Here",
+        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 211943,
-      "name": "Summer's Colour",
-      "url": "https://open.spotify.com/track/2hcvWC5XQHYhjH0oGEbsxr"
+      "duration_ms": 154560,
+      "name": "Earl Grey",
+      "url": "https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 123589,
-      "name": "Skip Town",
-      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
+      "duration_ms": 37421,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 37421,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
+      "duration_ms": 123589,
+      "name": "Skip Town",
+      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
     },
     {
       "added_at": null,

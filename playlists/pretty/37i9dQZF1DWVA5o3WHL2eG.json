@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Luna Simao",
-  "num_followers": 50814,
+  "num_followers": 50831,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Bist du noch da?",
-        "url": "https://open.spotify.com/album/6CNCgL41X0tHnuIlYHNE7P"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Rostock",
-          "url": "https://open.spotify.com/artist/6Sh3owUrsFjZ4qCjtpPV7G"
-        }
-      ],
-      "duration_ms": 202363,
-      "name": "Bist du noch da?",
-      "url": "https://open.spotify.com/track/4jzbviiDmqAPZuqP3KBJxS"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "Alles nur f\u00fcr mich",
         "url": "https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP"
       },
@@ -187,18 +171,18 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Anomalie Pt.2",
-        "url": "https://open.spotify.com/album/2Fs0D0btaWM1ENQLMTBOKS"
+        "name": "Bist du noch da?",
+        "url": "https://open.spotify.com/album/6CNCgL41X0tHnuIlYHNE7P"
       },
       "artists": [
         {
-          "name": "Madeline Juno",
-          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+          "name": "Jennifer Rostock",
+          "url": "https://open.spotify.com/artist/6Sh3owUrsFjZ4qCjtpPV7G"
         }
       ],
-      "duration_ms": 153550,
-      "name": "Bei aller Liebe",
-      "url": "https://open.spotify.com/track/6wrD3XPInwH1bO2qqSQwYm"
+      "duration_ms": 202363,
+      "name": "Bist du noch da?",
+      "url": "https://open.spotify.com/track/4jzbviiDmqAPZuqP3KBJxS"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -215,6 +199,22 @@
       "duration_ms": 140960,
       "name": "Pretty Boys",
       "url": "https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "Anomalie Pt.2",
+        "url": "https://open.spotify.com/album/2Fs0D0btaWM1ENQLMTBOKS"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "duration_ms": 153550,
+      "name": "Bei aller Liebe",
+      "url": "https://open.spotify.com/track/6wrD3XPInwH1bO2qqSQwYm"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "This Is Nice",
-        "url": "https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l"
+        "name": "Hot Girl Summer",
+        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
       },
       "artists": [
         {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
         }
       ],
-      "duration_ms": 158426,
-      "name": "This Is Nice",
-      "url": "https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z"
+      "duration_ms": 162781,
+      "name": "Hot Girl Summer",
+      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -571,6 +571,38 @@
       "duration_ms": 149796,
       "name": "Wachsen (feat. MOLA)",
       "url": "https://open.spotify.com/track/5rk1wfhIEJvvLn5aKHwXcg"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "This Is Nice",
+        "url": "https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "This Is Nice",
+      "url": "https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "chasing love and missing people",
+        "url": "https://open.spotify.com/album/1aopweZWLHNYjHoYJwJvqn"
+      },
+      "artists": [
+        {
+          "name": "Malou Lovis",
+          "url": "https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U"
+        }
+      ],
+      "duration_ms": 173773,
+      "name": "chasing love and missing people",
+      "url": "https://open.spotify.com/track/0b0mBhKTaAbLyFcUanja51"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -603,38 +635,6 @@
       "duration_ms": 145641,
       "name": "Sch\u00f6n sein (ist fun)",
       "url": "https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
-        "name": "chasing love and missing people",
-        "url": "https://open.spotify.com/album/1aopweZWLHNYjHoYJwJvqn"
-      },
-      "artists": [
-        {
-          "name": "Malou Lovis",
-          "url": "https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U"
-        }
-      ],
-      "duration_ms": 173773,
-      "name": "chasing love and missing people",
-      "url": "https://open.spotify.com/track/0b0mBhKTaAbLyFcUanja51"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
-        "name": "Hot Girl Summer",
-        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162781,
-      "name": "Hot Girl Summer",
-      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "T-Shirt",
-        "url": "https://open.spotify.com/album/1b4eJNwRwScUEyJuNXrVHJ"
-      },
-      "artists": [
-        {
-          "name": "K\u00c4SSY",
-          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "T-Shirt",
-      "url": "https://open.spotify.com/track/6Ee9NgRkDfZoqPiXDCHmvr"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "sterntaler",
         "url": "https://open.spotify.com/album/4IlYEiP1AKTfybEFc9RVqV"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 217017,
       "name": "sterntaler",
       "url": "https://open.spotify.com/track/6QfMdc1DwZGHAXvDfS1LbR"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "T-Shirt",
+        "url": "https://open.spotify.com/album/1b4eJNwRwScUEyJuNXrVHJ"
+      },
+      "artists": [
+        {
+          "name": "K\u00c4SSY",
+          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/6Ee9NgRkDfZoqPiXDCHmvr"
     },
     {
       "added_at": "2026-08-04 22:00:28",

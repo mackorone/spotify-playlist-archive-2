@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Hailey Benedict
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,211 likes - 200 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,217 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 14 | [Slow Boil](https://open.spotify.com/track/769dy0aC0sk72ixtjUiIBg) | [Dallas Alexander](https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv) | [Slow Boil](https://open.spotify.com/album/0K1BwxBhJFMAR0zGG6hxNz) | 3:11 |
 | 15 | [Death Of Me](https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [The Tenth Album \(Side A\)](https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD) | 2:24 |
 | 16 | [Home In Your Broken Heart](https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Home In Your Broken Heart](https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9) | 3:42 |
-| 17 | [Lonesome Cowboy \(feat\. Trudy\)](https://open.spotify.com/track/4dEdCP7SArFidN9tdqeTOr) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Lonesome Cowboy \(feat\. Trudy\)](https://open.spotify.com/album/1L3fyGhW08OhmNBlhKKWtU) | 2:35 |
+| 17 | [Lonesome Cowboy \(feat\. Trudy\)](https://open.spotify.com/track/4dEdCP7SArFidN9tdqeTOr) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Lonesome Cowboy \(feat\. Trudy\)](https://open.spotify.com/album/1L3fyGhW08OhmNBlhKKWtU) | 2:35 |
 | 18 | [The Right Drugs](https://open.spotify.com/track/4DCkuwPkIoIu0E6flgv8Cg) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [The Right Drugs](https://open.spotify.com/album/4WOGeT4i8Dj82RBPrmwmZD) | 3:03 |
 | 19 | [Johnny Blue](https://open.spotify.com/track/5s6tqSuCg0G9tS2ugLHvZF) | [Zayne Zemoroz](https://open.spotify.com/artist/5n4oKb1NvxrdaaTXihMsVp) | [Johnny Blue](https://open.spotify.com/album/3erkApnVWwCR1wQOChCObA) | 3:08 |
 | 20 | [Nowhere Town](https://open.spotify.com/track/7tynHnjfKqq7YdJkWC3a0E) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [Nowhere Town](https://open.spotify.com/album/2Gw39R0Jykz65QynSgU4XF) | 2:34 |

@@ -287,6 +287,32 @@
     },
     {
       "album": {
+        "name": "No Rain, No Rose",
+        "url": "https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        },
+        {
+          "name": "Shook Twins",
+          "url": "https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266866,
+      "name": "Highway Blood",
+      "url": "https://open.spotify.com/track/7vTNOsVw99CjBeniyjJzqC"
+    },
+    {
+      "album": {
         "name": "No Rain, No Rose (Vinyl)",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -306,7 +332,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 266894,
       "name": "Highway Blood (feat. Shook Twins & Gregory Alan Isakov)",
       "url": "https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU"

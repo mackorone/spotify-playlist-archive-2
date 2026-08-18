@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-256 songs - 14 hr 57 min
+257 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ar Fresco](https://open.spotify.com/track/2n2J1IyAZQcAJZnekdnEPM) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A), [Rachel Kitchlew](https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C), [Sreya](https://open.spotify.com/artist/3dr0bDqmElcH4qBAN5j5GV) | [Ar Fresco](https://open.spotify.com/album/3X7cwZY7OQlkq2BZvfXSCF) | 4:02 | 2026-07-02 | 2026-07-25 |
 | [Baby](https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [What Will We Be \(Standard\)](https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI) | 3:05 | 2025-07-18 | 2026-04-11 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-18 |  |
+| [Beast of the Night](https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Beast of the Night](https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU) | 3:40 | 2026-08-17 |  |
 | [Belle âme](https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Gringa](https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX) | 3:07 | 2025-12-04 | 2026-03-13 |
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2025-07-18 |  |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-07-18 | 2026-06-13 |
@@ -61,7 +62,7 @@
 | [De Cara a la Pared](https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:15 | 2025-07-18 |  |
 | [Delay](https://open.spotify.com/track/4S8ClIfm6X0ddX7YaDjx1o) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Delay](https://open.spotify.com/album/4u5PEdBoOdNSQo1KhlYSWw) | 2:43 | 2025-11-06 | 2026-01-23 |
 | [Diamantes](https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW) | [Bon Calso](https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Diamantes](https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU) | 4:10 | 2026-07-10 | 2026-07-25 |
-| [Didn't Mean To](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Beginner Again](https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI) | 2:36 | 2025-11-06 |  |
+| [Didn't Mean To](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Beginner Again](https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI) | 2:36 | 2025-11-06 | 2026-08-18 |
 | [Don't Forget Yourself](https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [California Calling](https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp) | 3:21 | 2026-02-27 |  |
 | [Dream House](https://open.spotify.com/track/04kUzwSMwCIsuXoxqeaZ75) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dream House](https://open.spotify.com/album/6ztAmj7OoaQHdyqzaDK9pZ) | 2:54 | 2026-03-24 | 2026-07-25 |
 | [Driving on the Highway](https://open.spotify.com/track/1BctvielVTwcdifVKIYT1N) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 3:29 | 2025-11-06 | 2026-05-01 |

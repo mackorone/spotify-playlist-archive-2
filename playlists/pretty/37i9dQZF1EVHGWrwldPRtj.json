@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYUrLnXLnv8n>F3miii</a>, <a href=spotify:playlist:37i9dQZF1EIZobirLlpmBa>Mac Miller</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a>, <a href=spotify:playlist:37i9dQZF1EIUXx6OHYXD1I>pupsies</a>, <a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
@@ -11,54 +11,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOBLE (Slowed Down)",
-        "url": "https://open.spotify.com/album/3MXz6kSonuMCXDZoOmNRom"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
       "artists": [
         {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 185806,
-      "name": "NOBLE",
-      "url": "https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv"
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+        "name": "misery.",
+        "url": "https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "pupsies",
+          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
         }
       ],
-      "duration_ms": 480186,
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+      "duration_ms": 166401,
+      "name": "misery.",
+      "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "added_at": null,
@@ -159,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fell Again / Stranger What's Your Name?",
         "url": "https://open.spotify.com/album/7vtM9KciF7hHUN7bIBegdf"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 161803,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 180000,
       "name": "Sweet Boy",
       "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 161803,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
     },
     {
       "added_at": null,
@@ -555,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talk2Me",
+        "url": "https://open.spotify.com/album/3QaH6xmZlzDtgvlBdSlvaP"
+      },
+      "artists": [
+        {
+          "name": "Jackson Laird",
+          "url": "https://open.spotify.com/artist/3wfaQl2GKJEpFHpjFJbw2i"
+        }
+      ],
+      "duration_ms": 187981,
+      "name": "Talk2Me",
+      "url": "https://open.spotify.com/track/1rkQJDZ2ys9tZepdoaAKuw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trance Dance",
         "url": "https://open.spotify.com/album/1e8U5hkbsm7CxYLVnvdLVk"
       },
@@ -571,18 +603,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk2Me",
-        "url": "https://open.spotify.com/album/3QaH6xmZlzDtgvlBdSlvaP"
+        "name": "are you sleeping alone again?",
+        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
       },
       "artists": [
         {
-          "name": "Jackson Laird",
-          "url": "https://open.spotify.com/artist/3wfaQl2GKJEpFHpjFJbw2i"
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
         }
       ],
-      "duration_ms": 187981,
-      "name": "Talk2Me",
-      "url": "https://open.spotify.com/track/1rkQJDZ2ys9tZepdoaAKuw"
+      "duration_ms": 125793,
+      "name": "endlessly",
+      "url": "https://open.spotify.com/track/3AxPuwVYgZ3EfBsoPQFbh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "hypocritical (feat. starfall)",
+        "url": "https://open.spotify.com/album/4HpSaThVXe2TDz2uALVXaC"
+      },
+      "artists": [
+        {
+          "name": "Joon",
+          "url": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
+        },
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "duration_ms": 177455,
+      "name": "hypocritical (feat. starfall)",
+      "url": "https://open.spotify.com/track/6KkVYJfUpNjRvRWeNXOnQB"
     },
     {
       "added_at": null,
@@ -631,42 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "are you sleeping alone again?",
-        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "endlessly",
-      "url": "https://open.spotify.com/track/3AxPuwVYgZ3EfBsoPQFbh8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "hypocritical (feat. starfall)",
-        "url": "https://open.spotify.com/album/4HpSaThVXe2TDz2uALVXaC"
-      },
-      "artists": [
-        {
-          "name": "Joon",
-          "url": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
-        },
-        {
-          "name": "starfall",
-          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
-        }
-      ],
-      "duration_ms": 177455,
-      "name": "hypocritical (feat. starfall)",
-      "url": "https://open.spotify.com/track/6KkVYJfUpNjRvRWeNXOnQB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "lowkey",
-        "url": "https://open.spotify.com/album/22Es8oTgrk3zdUcoV9gW9y"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 171355,
-      "name": "lowkey",
-      "url": "https://open.spotify.com/track/7ipqVwkp2MhZv0Ojzqy1NV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/0q639LSjyKvvKZlMO8Kdl0"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 113556,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/1JHJWwjCJa9jZvAA235QVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lowkey",
+        "url": "https://open.spotify.com/album/22Es8oTgrk3zdUcoV9gW9y"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 171355,
+      "name": "lowkey",
+      "url": "https://open.spotify.com/track/7ipqVwkp2MhZv0Ojzqy1NV"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 262231,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Notion",
-        "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
     },
     {
       "added_at": null,

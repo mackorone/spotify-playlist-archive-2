@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 368127,
+  "num_followers": 368110,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -199,22 +215,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -227,26 +227,6 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
-        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 213241,
-      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -279,6 +259,26 @@
       "duration_ms": 175763,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Bring Your Love",
-        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 222161,
-      "name": "Bring Your Love",
-      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Club To Your Arms",
         "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 153351,
       "name": "Fabulous",
       "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 222161,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 144501,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 163472,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "WIR",
-        "url": "https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd"
-      },
-      "artists": [
-        {
-          "name": "KAFFKIEZ",
-          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
-        }
-      ],
-      "duration_ms": 207113,
-      "name": "In N\u00e4chten Wie Diesen",
-      "url": "https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "WIR",
+        "url": "https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "duration_ms": 207113,
+      "name": "In N\u00e4chten Wie Diesen",
+      "url": "https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Sometimes I Love You",
         "url": "https://open.spotify.com/album/6AWIvvr6r4FqMsckCPtp2V"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 177938,
       "name": "Sometimes I Love You",
       "url": "https://open.spotify.com/track/3IxzyR8pkkHdSjpR15Smfc"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Wer wenn nicht wir",
-        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
-      },
-      "artists": [
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Wer wenn nicht wir",
-      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 215000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Wer wenn nicht wir",
+        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Wer wenn nicht wir",
+      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Don't Stop The Car",
-        "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Don't Stop The Car",
-      "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Kuss.",
         "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
+        "name": "Don't Stop The Car",
+        "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
         }
       ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
+      "duration_ms": 194013,
+      "name": "Don't Stop The Car",
+      "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -979,6 +963,22 @@
       "duration_ms": 179893,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/4oWMKNeoD1ghLCy37m0wQ1"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6itWOqDXkixKxRimD02770"
-      },
-      "artists": [
-        {
-          "name": "Dominic Neill",
-          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
-        }
-      ],
-      "duration_ms": 180071,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Kreise",
         "url": "https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 221004,
       "name": "Kreise",
       "url": "https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6itWOqDXkixKxRimD02770"
+      },
+      "artists": [
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        }
+      ],
+      "duration_ms": 180071,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Someday Soon",
-        "url": "https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 204802,
-      "name": "Someday Soon",
-      "url": "https://open.spotify.com/track/4rscYJB15d31PhkminLefg"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "20s",
         "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 184457,
       "name": "20s",
       "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Someday Soon",
+        "url": "https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 204802,
+      "name": "Someday Soon",
+      "url": "https://open.spotify.com/track/4rscYJB15d31PhkminLefg"
     },
     {
       "added_at": "2026-08-06 22:00:47",

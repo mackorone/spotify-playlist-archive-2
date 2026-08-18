@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Luvstruck, Leena Punks
 
-2,057 songs - 4 day 3 hr 6 min
+2,058 songs - 4 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1165,6 +1165,7 @@
 | [Meet Me](https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [JONOS](https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Meet Me](https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5) | 3:15 | 2025-11-06 |  |
 | [Meet Me In The Dark](https://open.spotify.com/track/4qDBXgjpBItXeXoCLdEuS6) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Meet Me In The Dark](https://open.spotify.com/album/4jM92VN44r0AGwSAXGfKI4) | 2:55 | 2026-05-21 |  |
 | [Melissa I'm Drunk And Outside](https://open.spotify.com/track/3uary9jAaYITd9tT7YkSU0) | [Jay Baptiste](https://open.spotify.com/artist/71RgT2mhLUY2lxk8GF9YnU) | [Melissa I'm Drunk And Outside](https://open.spotify.com/album/7GmXYIFfByeWpiUXv5t6vn) | 1:39 | 2026-06-08 | 2026-06-13 |
+| [Melissa I'm Outside](https://open.spotify.com/track/4IZm4diq6J9CN1Gk5wtROB) | [Jay Baptiste](https://open.spotify.com/artist/71RgT2mhLUY2lxk8GF9YnU) | [Melissa I'm Outside](https://open.spotify.com/album/0bsP0GO3yUob8RNpfOeTXr) | 2:17 | 2026-08-17 |  |
 | [Mera Dil](https://open.spotify.com/track/4CgB8kj1mrBOkeGnTTw28m) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Adnan Ahmad](https://open.spotify.com/artist/7qFEucMhWHhPO9LftYsTcO) | [Mera Dil](https://open.spotify.com/album/3TPaXFvYWPk2F9WqGiGM0c) | 3:15 | 2023-04-06 | 2023-04-22 |
 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 | 2022-08-05 | 2022-08-20 |
 | [MF Mosh Pit](https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Und3rsound](https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47) | [MF Mosh Pit](https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk) | 2:14 | 2024-12-19 | 2025-01-31 |

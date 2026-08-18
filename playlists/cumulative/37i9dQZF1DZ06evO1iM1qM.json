@@ -68,7 +68,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 437840,
       "name": "A Love Supreme, Pt. II - Resolution",
       "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
@@ -511,6 +511,36 @@
     },
     {
       "album": {
+        "name": "The Legendary Music of Cannonball Adderley, Lambert, Horace Silver, Stan Getz, Nat King Cole and Other Hits, Vol. 6 (150 Songs)",
+        "url": "https://open.spotify.com/album/1X1mDB6bs2vE9e2YItECKC"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576783,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/4OMxTfe96Bjy6EL8hNycBF"
+    },
+    {
+      "album": {
         "name": "Kind Of Blue",
         "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
       },
@@ -538,7 +568,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 588410,
       "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
       "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
@@ -1002,6 +1032,36 @@
       "duration_ms": 265049,
       "name": "Naima - Mono",
       "url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589200,
+      "name": "On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/0tUq1zaYNoV6ZiYRU2bjqf"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 501781,
+  "num_followers": 501932,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "Sonne Geht Auf",
-        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
-      },
-      "artists": [
-        {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 126538,
-      "name": "Sonne Geht Auf",
-      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
         "name": "Domino (Space 92 Remix)",
         "url": "https://open.spotify.com/album/3RVpReOX57xE9g6OdqaXtF"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 232500,
       "name": "Domino - Space 92 Remix",
       "url": "https://open.spotify.com/track/2sksm6zC7U7fRmAGSQICiF"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
+        "name": "Sonne Geht Auf",
+        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 126538,
+      "name": "Sonne Geht Auf",
+      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -399,6 +399,26 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
+        "name": "run",
+        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 262297,
+      "name": "run",
+      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
         "name": "Voices In My Head (Amelie Lens Remix)",
         "url": "https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9"
       },
@@ -427,22 +447,6 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 235045,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
         "name": "Holy Place",
         "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
       },
@@ -455,6 +459,22 @@
       "duration_ms": 193345,
       "name": "Holy Place",
       "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -479,18 +499,18 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
       },
       "artists": [
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+      "duration_ms": 235045,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -515,26 +535,6 @@
       "duration_ms": 181333,
       "name": "ACID",
       "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
-        "name": "run",
-        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        },
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 262297,
-      "name": "run",
-      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
+        "name": "Rave Harder Techno Bass",
+        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Rave Harder Techno Bass",
+      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 238270,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
-        "name": "Rave Harder Techno Bass",
-        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
-      },
-      "artists": [
-        {
-          "name": "Mark Dekoda",
-          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Rave Harder Techno Bass",
-      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -751,34 +751,22 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 169105,
-      "name": "Testo Skin Part 1",
-      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
-      },
-      "artists": [
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+      "duration_ms": 218978,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -799,22 +787,34 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "Eyes On Me",
-        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
       },
       "artists": [
         {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
         }
       ],
-      "duration_ms": 218978,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 169105,
+      "name": "Testo Skin Part 1",
+      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "A Prayer for the Dancefloor",
-        "url": "https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Conduit",
-          "url": "https://open.spotify.com/artist/3J3JzOfRbzpAf7gKnJv5iy"
-        }
-      ],
-      "duration_ms": 414918,
-      "name": "A Prayer for the Dancefloor (feat. Conduit)",
-      "url": "https://open.spotify.com/track/1tBbAzbOg9qZJrSZBlHlXT"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
         "name": "Acid Blood",
         "url": "https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf"
       },
@@ -939,8 +919,28 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
+        "name": "Charlotte de Witte",
+        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 423244,
+      "name": "The Heads That Know (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/34yR53qn56KlYXmhbuwjaa"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/0ePKlamVthL7qhAoE4Z3zU"
       },
       "artists": [
         {
@@ -948,13 +948,13 @@
           "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
         },
         {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+          "name": "Alex Farell",
+          "url": "https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I"
         }
       ],
-      "duration_ms": 259023,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
+      "duration_ms": 266151,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/0PSrRU6sH2eDW4b0feGhT5"
     },
     {
       "added_at": "2026-08-07 04:11:56",

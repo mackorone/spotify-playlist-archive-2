@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Calm After The Storm",
+        "url": "https://open.spotify.com/album/5gsFwal4tWt1KHDChP4xBS"
+      },
+      "artists": [
+        {
+          "name": "Help Wanted",
+          "url": "https://open.spotify.com/artist/0omDhJzmgZ8tu73lHdwi5T"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197455,
+      "name": "Calm After The Storm",
+      "url": "https://open.spotify.com/track/6HhTEmSzmipGU5O5EzBfqp"
+    },
+    {
+      "album": {
         "name": "Camgirl",
         "url": "https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt"
       },
@@ -6443,6 +6461,24 @@
     },
     {
       "album": {
+        "name": "Once More Again",
+        "url": "https://open.spotify.com/album/2iK2jSzblXqV1SSozzXQU8"
+      },
+      "artists": [
+        {
+          "name": "Karyttah",
+          "url": "https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293893,
+      "name": "Once More Again (Alternative Version)",
+      "url": "https://open.spotify.com/track/0t7ydqOC1zuSjvidhHWWqB"
+    },
+    {
+      "album": {
         "name": "One Life in a Second",
         "url": "https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es"
       },
@@ -7676,6 +7712,24 @@
       "duration_ms": 219160,
       "name": "Searching for gold",
       "url": "https://open.spotify.com/track/5e25FIH9dH5BOArsdZd7zm"
+    },
+    {
+      "album": {
+        "name": "You Can Do The Impossible",
+        "url": "https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh"
+      },
+      "artists": [
+        {
+          "name": "The Render Line",
+          "url": "https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Searching For The Meaning Of Life",
+      "url": "https://open.spotify.com/track/2dDRJHzBOszwRqvi9m4xTh"
     },
     {
       "album": {

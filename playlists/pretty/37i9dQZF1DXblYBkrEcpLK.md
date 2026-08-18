@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Daoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,851 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,850 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 9 | [Wanna me](https://open.spotify.com/track/2JUjL1621goUg9JbLGUsrA) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [Wanna me](https://open.spotify.com/album/5Gm9NPCshVejCzruoNJRuh) | 3:56 |
 | 10 | [ヒトコト](https://open.spotify.com/track/0Kzf7ao8k7KK8JtdV18X6X) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ヒトコト](https://open.spotify.com/album/1oWqBdPvnWGa8wfivCO2yd) | 3:24 |
 | 11 | [猫日](https://open.spotify.com/track/0xqOOO6CG11e3Wu20cElk7) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [猫日](https://open.spotify.com/album/1QY871uDh8leKT0faCZ5dA) | 3:50 |
-| 12 | [あぶく](https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [あぶく](https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L) | 3:54 |
+| 12 | [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 |
 | 13 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 | 14 | [たりない](https://open.spotify.com/track/7vVkzs4nqxCsF2SY1JLbuQ) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [たりない](https://open.spotify.com/album/3lLEAOFcIpzCTZn2ZaGaJk) | 3:27 |
 | 15 | [今日の日はさようなら](https://open.spotify.com/track/3IWNiORy6MsChBDce2Fhjn) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [森山良子　THE BEST](https://open.spotify.com/album/0Q3luKdx5wNNb1deCnoWft) | 2:21 |
 | 16 | [ユーレカ・エヴリカ](https://open.spotify.com/track/6rAEhMCtqizqu2sKQ4b9TI) | [五阿弥ルナ](https://open.spotify.com/artist/6XpeGgtA0Z7973S5G8ocsw) | [ユーレカ・エヴリカ](https://open.spotify.com/album/7HIUZurOb6D7njS8ZpPs6L) | 3:57 |
 | 17 | [気味が悪いんだからねっ](https://open.spotify.com/track/3hyNZA0uhduY32EVZWTIC3) | [SWEET STEADY](https://open.spotify.com/artist/1UyIqMBjk0DMexWtQF2X1i) | [気味が悪いんだからねっ](https://open.spotify.com/album/0eK1XZS14rQqmtia00MAyU) | 3:42 |
-| 18 | [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 |
+| 18 | [あぶく](https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [あぶく](https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L) | 3:54 |
 | 19 | [Fig Smoke](https://open.spotify.com/track/1SzUveFBheIYBW1n758uTt) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Fig Smoke](https://open.spotify.com/album/4Y2u6eHHFMsoCKftRR63ab) | 3:55 |
 | 20 | [命短し対する乙女よ](https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [命短し対する乙女よ](https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC) | 3:48 |
 | 21 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 28 | [BURNING GOLD](https://open.spotify.com/track/1jE6DU7txBjWgsYC6TUXLW) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [twice upon a time](https://open.spotify.com/album/4Cds0e3SueZskz3N2sm4Uy) | 3:02 |
 | 29 | [ルミナス \- Luminous](https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [ルミナス \- Luminous](https://open.spotify.com/album/4N1jAPvr2Mf3WuWbogas36) | 3:55 |
 | 30 | [わたしシュガースパイス](https://open.spotify.com/track/3JmagYOBsOwYxhuKQA8NYZ) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [グッバイ・ララバイ](https://open.spotify.com/album/7m7bX9ag4J9jpGjeez0m94) | 3:30 |
-| 31 | [ラストダンスあなたと](https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [ラストダンスあなたと](https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb) | 3:33 |
+| 31 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:04 |
 | 32 | [Not My Paradiso](https://open.spotify.com/track/44u0inwWZaHRNr4XQSFG50) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Not My Paradiso](https://open.spotify.com/album/7zLpBQPxH9F6s9wexP6HKA) | 4:06 |
 | 33 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
 | 34 | [ラブカルチャー](https://open.spotify.com/track/6NVb6b8PK625eLcKkZnrEx) | [GROTESQQQUE](https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [ラブカルチャー \- LOVECULTURE](https://open.spotify.com/album/5glMDIvbqjDYYB8La1UYhK) | 3:14 |
 | 35 | [MAGIC](https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MAGIC](https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM) | 2:52 |
-| 36 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:04 |
+| 36 | [ラストダンスあなたと](https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [ラストダンスあなたと](https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb) | 3:33 |
 | 37 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
 | 38 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
 | 39 | [キュートなキューたい](https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キュートなキューたい / ナイスだね](https://open.spotify.com/album/5QyLCkfnwgEYLaf2ji21or) | 3:56 |

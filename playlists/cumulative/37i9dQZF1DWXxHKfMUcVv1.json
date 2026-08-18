@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 142016,
       "name": "Auto",
       "url": "https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv"
@@ -328,6 +328,24 @@
       "duration_ms": 237546,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n Sin Nombre Numero 477",
+        "url": "https://open.spotify.com/album/4kjO6dDuzfOoKQx4AtxBwu"
+      },
+      "artists": [
+        {
+          "name": "Joshua Dietrich",
+          "url": "https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Canci\u00f3n Sin Nombre Numero 477",
+      "url": "https://open.spotify.com/track/6By9OQDpPYsAlZDW0OZ7tQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,983 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,987 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 18 | [Good To Go](https://open.spotify.com/track/2YTLWdi3LS7YsMenX0qZIS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Good To Go](https://open.spotify.com/album/57D6Bp11c96DE7F1I40F7w) | 3:02 |
 | 19 | [Let It Go](https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:16 |
 | 20 | [Failure's Not Flattering](https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:51 |
-| 21 | [Something I Call Personality](https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 2:40 |
-| 22 | [Part of Your World](https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 2:58 |
+| 21 | [Part of Your World](https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 2:58 |
+| 22 | [Something I Call Personality](https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 2:40 |
 | 23 | [The Glory Of Love](https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:19 |
 | 24 | [100%](https://open.spotify.com/track/26IlCzN5laD4d0QF7pHIiG) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:30 |
 | 25 | [At Least I'm Known For Something](https://open.spotify.com/track/4lFvQm71y6KF1J4M6IkbOv) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Happy Being Miserable](https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:00 |
 | 50 | [Summer Fling, Don't Mean a Thing](https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 2:57 |
 
-Snapshot ID: `an+sAAAAAACCIDAT2JLdthpKJBcgqUEh`
+Snapshot ID: `aoD9gAAAAAAMtZxzLxU2kyJgljAVq6fK`

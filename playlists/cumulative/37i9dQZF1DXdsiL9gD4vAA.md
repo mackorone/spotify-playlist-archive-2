@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-238 songs - 21 hr 7 min
+239 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Dil Ke Chhaale](https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo) | [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Shahab Hussain](https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv) | [Dil Ke Chhaale](https://open.spotify.com/album/13Lq2RJ7uLtN0NOpSg6aEt) | 5:22 | 2026-04-10 |  |
 | [Dil Ko Kya Ho Gaya](https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Shom Chaterjjee](https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf) | [Dil Ko Kya Ho Gaya](https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ) | 5:20 | 2026-05-04 |  |
 | [Dil Lagta Hi Nahi](https://open.spotify.com/track/5TyvTWaL4SPH3jkCnBAIcL) | [AASHI TITORIA](https://open.spotify.com/artist/0ZgI3wn1xsCsYxVLofMu5q) | [Dil Lagta Hi Nahi](https://open.spotify.com/album/3zW2rhHAI9vwmL8VPQaIv3) | 3:22 | 2023-06-30 | 2023-07-26 |
+| [Dil Men Naa Jhaanke Koii](https://open.spotify.com/track/2zNYKQ58opcJxYj8ZESBqO) | [Ashish Kulkarni](https://open.spotify.com/artist/7BMPTaeySeMLpzMq60vgYE), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Ankit Gautam](https://open.spotify.com/artist/2RU2O5VsZLgL7ORMNQkh9u) | [Dil Men Naa Jhaanke Koii](https://open.spotify.com/album/1fIbtLqaiat2oV1DTf0JAL) | 5:28 | 2026-08-13 |  |
 | [Dil Todne Wale](https://open.spotify.com/track/5VfIOKBXuOYhgxrx0t1oez) | [Sudeep Banerji](https://open.spotify.com/artist/7FdTsGrbJB8uVpWbTrKR2H) | [Charlie Chopra And The Mystery of Solang Valley](https://open.spotify.com/album/4ug5MhYUma7sriDVktAmwm) | 3:58 | 2024-04-18 | 2025-10-22 |
 | [Dil Todne Wale](https://open.spotify.com/track/6xO3SmNmVtaygvN66l0tAT) | [Sudeep Banerji](https://open.spotify.com/artist/7FdTsGrbJB8uVpWbTrKR2H), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Charlie Chopra and the Mystery of Solang Valley \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2iosAMmpoI7hP5N6ArzvR8) | 3:58 | 2023-10-09 | 2024-04-19 |
 | [Dil\-E\-Naadaan Tujhe Hua Kya Hai](https://open.spotify.com/track/32pak2UWgCO1r5fZwUPKOa) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU), [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Main Ghalib](https://open.spotify.com/album/7qyzHkSbeQgKvrwLaaCYM1) | 1:00 | 2024-04-18 |  |
@@ -229,7 +230,7 @@
 | [Virah](https://open.spotify.com/track/44SQLK6OS7gadq8h8Le57b) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Virah](https://open.spotify.com/album/1sF096U2dFacXRfS7l3vaT) | 3:27 | 2024-08-20 | 2024-09-30 |
 | [Vo Haseen Raat](https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw) | [Daboo Malik](https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1), [Sarrika Singh](https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7) | [Vo Haseen Raat](https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v) | 4:06 | 2024-08-19 |  |
 | [Voh Tere Mere Ishq Ka](https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 5:13 | 2023-03-31 |  |
-| [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m) | [Rubai](https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r), [Gufy](https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv) | [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/album/38CLfNETJOIYjRCz9ug5fe) | 3:46 | 2025-09-15 |  |
+| [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m) | [Rubai](https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r), [Gufy](https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv) | [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/album/38CLfNETJOIYjRCz9ug5fe) | 3:46 | 2025-09-15 | 2026-08-18 |
 | [Wo Baat Kahan](https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Wo Baat Kahan](https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS) | 4:57 | 2025-02-28 |  |
 | [Woh Dehleez](https://open.spotify.com/track/7417MJt7NRvYGAcltQ5fyr) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/65E83zzOXqaokPZl6yO1pN) | 5:28 | 2023-12-12 | 2024-04-19 |
 | [Woh Dehleez](https://open.spotify.com/track/7ywmyRfxqVjuVVRFL9JdyZ) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/380FWdzxBJTUcBwiGAAJch) | 5:28 | 2023-06-09 | 2025-01-01 |

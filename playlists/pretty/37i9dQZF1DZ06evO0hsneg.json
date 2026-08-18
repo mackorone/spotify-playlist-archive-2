@@ -1,12 +1,12 @@
 {
   "description": "This is Ramengvrl. The essential tracks, all in one playlist.",
-  "num_followers": 776,
+  "num_followers": 777,
   "original_name": "This Is Ramengvrl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACaTloKQ9PGm6ZnOQ5OGXP1",
+  "snapshot_id": "aoD9gAAAAAC4ZrupRl6RA8hnhHj9fS7o",
   "tracks": [
     {
       "added_at": null,
@@ -163,46 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bossy",
-        "url": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Cinta Laura Kiehl",
-          "url": "https://open.spotify.com/artist/6fUp4eQI2LWQCp4mfPnVMF"
-        }
-      ],
-      "duration_ms": 134947,
-      "name": "Bossy",
-      "url": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Pyra",
-          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
-        }
-      ],
-      "duration_ms": 222357,
-      "name": "Foreign",
-      "url": "https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GERCEP (feat. Mamang Kesbor, A. Nayaka, Kenz, Soren Kai)",
         "url": "https://open.spotify.com/album/4arXtb34VDRQv9lbliNAvJ"
       },
@@ -235,6 +195,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        }
+      ],
+      "duration_ms": 222357,
+      "name": "Foreign",
+      "url": "https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bossy",
+        "url": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Cinta Laura Kiehl",
+          "url": "https://open.spotify.com/artist/6fUp4eQI2LWQCp4mfPnVMF"
+        }
+      ],
+      "duration_ms": 134947,
+      "name": "Bossy",
+      "url": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOMBAE",
         "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
       },
@@ -251,30 +251,6 @@
       "duration_ms": 146184,
       "name": "BOMBAE",
       "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gue Gak Mau Kawin",
-        "url": "https://open.spotify.com/album/66K4RpnoJl4auky5Uii8oK"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "toxicdev!",
-          "url": "https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev"
-        },
-        {
-          "name": "Young Lex",
-          "url": "https://open.spotify.com/artist/2GP0U8IbD2C8CeVbtuyDaX"
-        }
-      ],
-      "duration_ms": 229870,
-      "name": "Gue Gak Mau Kawin",
-      "url": "https://open.spotify.com/track/71EvzawCJqi1b0D5ItB9SE"
     },
     {
       "added_at": null,
@@ -303,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+        "name": "Gue Gak Mau Kawin",
+        "url": "https://open.spotify.com/album/66K4RpnoJl4auky5Uii8oK"
       },
       "artists": [
         {
@@ -312,13 +288,17 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "euro",
-          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+          "name": "toxicdev!",
+          "url": "https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev"
+        },
+        {
+          "name": "Young Lex",
+          "url": "https://open.spotify.com/artist/2GP0U8IbD2C8CeVbtuyDaX"
         }
       ],
-      "duration_ms": 157498,
-      "name": "Vaselina (feat. euro)",
-      "url": "https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy"
+      "duration_ms": 229870,
+      "name": "Gue Gak Mau Kawin",
+      "url": "https://open.spotify.com/track/71EvzawCJqi1b0D5ItB9SE"
     },
     {
       "added_at": null,
@@ -343,6 +323,26 @@
       "duration_ms": 141833,
       "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) - REMIX",
       "url": "https://open.spotify.com/track/1uZ8vgCwplmJ18HIDcirB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+        }
+      ],
+      "duration_ms": 157498,
+      "name": "Vaselina (feat. euro)",
+      "url": "https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mardial & Friends",
-        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
-      },
-      "artists": [
-        {
-          "name": "Mardial",
-          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 185892,
-      "name": "Digital Love",
-      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onto The Next",
         "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
       },
@@ -539,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't No MF (feat. pH-1)",
-        "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
+        "name": "Mardial & Friends",
+        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
       },
       "artists": [
         {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+          "name": "Mardial",
+          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
         },
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 149783,
-      "name": "Ain't No MF (feat. pH-1)",
-      "url": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
+      "duration_ms": 185892,
+      "name": "Digital Love",
+      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
     },
     {
       "added_at": null,
@@ -583,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lit in Shanghai",
-        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
+        "name": "Ain't No MF (feat. pH-1)",
+        "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
       },
       "artists": [
         {
@@ -592,13 +572,13 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "PSY.P",
-          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 179277,
-      "name": "Lit in Shanghai",
-      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
+      "duration_ms": 149783,
+      "name": "Ain't No MF (feat. pH-1)",
+      "url": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
     },
     {
       "added_at": null,
@@ -615,6 +595,26 @@
       "duration_ms": 124987,
       "name": "WHO DIS?",
       "url": "https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lit in Shanghai",
+        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "PSY.P",
+          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
+        }
+      ],
+      "duration_ms": 179277,
+      "name": "Lit in Shanghai",
+      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 150929,
-      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 154583,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Ugly",
         "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
       },
@@ -903,26 +919,6 @@
       "duration_ms": 142018,
       "name": "I'm Ugly",
       "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Ted Park",
-          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
-        }
-      ],
-      "duration_ms": 169796,
-      "name": "Look At Me Now",
-      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
     },
     {
       "added_at": null,
@@ -947,38 +943,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "FASHION",
-        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
       "artists": [
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Ted Park",
+          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
         }
       ],
-      "duration_ms": 193853,
-      "name": "FASHION",
-      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
+      "duration_ms": 169796,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
-        "url": "https://open.spotify.com/album/3hnyY0tfk314wgzqQUPrqm"
+        "name": "Ain't Gonna Give Up",
+        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
       },
       "artists": [
         {
-          "name": "\u963f\u8fbe\u5a03",
-          "url": "https://open.spotify.com/artist/2eeDDDoYRBX8a2jRxLSv3D"
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
         },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 182727,
-      "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
-      "url": "https://open.spotify.com/track/6dnmu3KE5rm82eOSejssef"
+      "duration_ms": 233170,
+      "name": "Ain't Gonna Give Up",
+      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Give Up",
-        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
+        "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
+        "url": "https://open.spotify.com/album/3hnyY0tfk314wgzqQUPrqm"
       },
       "artists": [
         {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+          "name": "\u963f\u8fbe\u5a03",
+          "url": "https://open.spotify.com/artist/2eeDDDoYRBX8a2jRxLSv3D"
         },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 233170,
-      "name": "Ain't Gonna Give Up",
-      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
+      "duration_ms": 182727,
+      "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
+      "url": "https://open.spotify.com/track/6dnmu3KE5rm82eOSejssef"
     },
     {
       "added_at": null,

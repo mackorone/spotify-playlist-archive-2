@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,975 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,961 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 34 | [hey now \(feat\. dody6\)](https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:37 |
 | 35 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 |
 | 36 | [DUCKWORTH.](https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:08 |
-| 37 | [i](https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [i](https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x) | 3:51 |
-| 38 | [The Greatest \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:30 |
+| 37 | [The Greatest \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:30 |
+| 38 | [i](https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [i](https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x) | 3:51 |
 | 39 | [Wesley's Theory](https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:47 |
 | 40 | [Sidewalks](https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:51 |
 | 41 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 49 | [Bad Blood](https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Bad Blood](https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE) | 3:20 |
 | 50 | [Mona Lisa \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 5:24 |
 
-Snapshot ID: `an+sAAAAAACGa6EAquUgoUweKqHP8oy0`
+Snapshot ID: `aoD9gAAAAABYGaDlOnnPODUReZoPeWmL`

@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Keb' Mo'
 
-502 songs - 1 day 7 hr 24 min
+503 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Heathen's Hymn](https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X) | [Kam Franklin](https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40) | [Didn't I](https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr) | 3:12 | 2026-07-17 |  |
 | [A Thousand Heartaches](https://open.spotify.com/track/2GXG2FPTU6zMsr8qaL52HU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/2YDalbMwI6cOhTzTCUwvCc) | 5:00 | 2023-03-10 | 2023-03-20 |
 | [A Thousand Heartaches](https://open.spotify.com/track/3M4wqYQdjjQMEtEVprBflj) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blood Brothers](https://open.spotify.com/album/5KE2nGwb7wlAw4DdwlMXV4) | 5:00 | 2023-03-10 | 2024-04-19 |
-| [A Thousand Heartaches](https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj) | 5:00 | 2023-10-06 |  |
+| [A Thousand Heartaches](https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj) | 5:00 | 2023-10-06 | 2026-08-18 |
 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 | 2021-12-17 | 2024-06-29 |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/112GY487AYZ0Q0zB9KYv3x) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Ain't Gotta Worry Child](https://open.spotify.com/album/5z25YPZkf3WB9Eh94EEwFw) | 3:05 | 2021-12-17 | 2022-07-27 |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome as a Shadow](https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE) | 3:05 | 2022-05-27 | 2023-02-25 |
@@ -451,6 +451,7 @@
 | [This Will Be Our Year](https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [This Will Be Our Year](https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT) | 2:37 | 2022-11-11 | 2023-03-25 |
 | [Through The Darkest Night](https://open.spotify.com/track/0L5K4w34pUNo5azuKac5zd) | [Ollee Owens](https://open.spotify.com/artist/36BxlE2IWlXTNTAwyMx1DD) | [CANNOT BE UNHEARD](https://open.spotify.com/album/72GY9mSMI5tivnkggaudXS) | 5:14 | 2022-09-16 | 2023-03-11 |
 | [Throw That Stone](https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Throw That Stone](https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV) | 2:58 | 2023-01-20 | 2023-07-22 |
+| [Thunder](https://open.spotify.com/track/7IPWvyxrS6Uyo9HkyMiYBf) | [Evan Bartels](https://open.spotify.com/artist/1Ylh9mfN4qqJMl2uDr6sUd) | [Thunder](https://open.spotify.com/album/4DnJCBBVCwRkqIxb35BUTj) | 3:16 | 2026-08-14 |  |
 | [Tin Cups](https://open.spotify.com/track/622IlDFXeH6TSdmPJCBJCz) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Tin Cups](https://open.spotify.com/album/6OJY1tKwM6ZCTsWANfRT1e) | 3:02 | 2022-10-14 | 2023-11-18 |
 | [To Rise You Gotta Fall](https://open.spotify.com/track/5zp4hfK7UcGn9EHhcP6bDE) | [Nicki Bluhm](https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh) | [To Rise You Gotta Fall](https://open.spotify.com/album/4lgm1KUaNO3bp6FYRImcPL) | 4:56 | 2021-12-17 | 2023-03-11 |
 | [Tonight Belongs to You](https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Hammer & The Rose](https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v) | 4:07 | 2025-04-25 |  |

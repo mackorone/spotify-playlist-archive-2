@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 894051,
+  "num_followers": 1072739,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF8e75txtGP1yA3tcEVOFQ5g+CrW",
+  "snapshot_id": "AAAAAFbY8P56DSStJUkE0nKmapWtVv/S",
   "tracks": [
     {
       "added_at": "2026-07-23 22:00:57",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 168756,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Road Trippin'",
-      "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Road Trippin'",
+      "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 157491,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "Colour Me Free",
         "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 306266,
       "name": "4 And 20",
       "url": "https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -943,18 +943,18 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
       },
       "artists": [
         {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 192144,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
+      "duration_ms": 257400,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -979,34 +979,18 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
         }
       ],
-      "duration_ms": 257400,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
+      "duration_ms": 192144,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1027,6 +1011,22 @@
       "duration_ms": 274725,
       "name": "I Found (with Freya Ridings)",
       "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
+        "name": "Rupture (Version acoustique)",
+        "url": "https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun"
+      },
+      "artists": [
+        {
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+        }
+      ],
+      "duration_ms": 150896,
+      "name": "Rupture - Version acoustique",
+      "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
         "name": "Sonatine",
         "url": "https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 233666,
       "name": "Sonatine",
       "url": "https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
-        "name": "Rupture (Version acoustique)",
-        "url": "https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun"
-      },
-      "artists": [
-        {
-          "name": "Laurie Darmon",
-          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
-        }
-      ],
-      "duration_ms": 150896,
-      "name": "Rupture - Version acoustique",
-      "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211027,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
         "name": "and we\u2019ll leave it there\u2026",
         "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 219840,
       "name": "and we\u2019ll leave it there\u2026",
       "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211027,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Paris-Madrid",
-        "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
-      },
-      "artists": [
-        {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
-        },
-        {
-          "name": "Inazio",
-          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
-        }
-      ],
-      "duration_ms": 199833,
-      "name": "Paris-Madrid",
-      "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
       },
@@ -1383,18 +1363,22 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "only human",
-        "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
+        "name": "Paris-Madrid",
+        "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        },
+        {
+          "name": "Inazio",
+          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
         }
       ],
-      "duration_ms": 214032,
-      "name": "only human",
-      "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
+      "duration_ms": 199833,
+      "name": "Paris-Madrid",
+      "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Oser",
-        "url": "https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC"
+        "name": "only human",
+        "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
       },
       "artists": [
         {
-          "name": "Ys\u00e9",
-          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         }
       ],
-      "duration_ms": 202226,
-      "name": "Ose",
-      "url": "https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx"
+      "duration_ms": 214032,
+      "name": "only human",
+      "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1467,6 +1451,22 @@
       "duration_ms": 307333,
       "name": "Helsinki",
       "url": "https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Oser",
+        "url": "https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC"
+      },
+      "artists": [
+        {
+          "name": "Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Ose",
+      "url": "https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 208890,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "La nuit",
         "url": "https://open.spotify.com/album/3V75nRjPbeRtz8idxYojm5"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 207024,
       "name": "La nuit",
       "url": "https://open.spotify.com/track/4AlhY7cFD946eYQZgW3WSo"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 208890,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/7d05HveiLG4742vBLElcSE"
-      },
-      "artists": [
-        {
-          "name": "Aiden",
-          "url": "https://open.spotify.com/artist/4hQe9URLHobODCosOur1Ma"
-        }
-      ],
-      "duration_ms": 186869,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "On dansera encore",
         "url": "https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 182770,
       "name": "On dansera encore",
       "url": "https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/7d05HveiLG4742vBLElcSE"
+      },
+      "artists": [
+        {
+          "name": "Aiden",
+          "url": "https://open.spotify.com/artist/4hQe9URLHobODCosOur1Ma"
+        }
+      ],
+      "duration_ms": 186869,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR"
     }
   ],
   "unique_name": "Au calme",

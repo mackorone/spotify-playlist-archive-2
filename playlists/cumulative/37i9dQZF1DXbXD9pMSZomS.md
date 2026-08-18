@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-287 songs - 22 hr 49 min
+288 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Love Is](https://open.spotify.com/track/1eaFEHIMGrTJ5hyPoPhq9v) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys), [Cazeaux O.S.L.O](https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f) | [Love Is](https://open.spotify.com/album/3yiqXQbtkNBn25h3ZA8ciM) | 3:30 | 2021-12-17 | 2022-07-29 |
 | [Love Is](https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys), [Cazeaux O.S.L.O](https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f) | [Love Is](https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX) | 3:30 | 2022-07-01 | 2024-03-13 |
 | [LS Anthem](https://open.spotify.com/track/2XWMTMDNwFXhyixyVRGo47) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Ally McMahon](https://open.spotify.com/artist/5w7j2molEa1LERPdgAGxE8), [Andy K](https://open.spotify.com/artist/3KpjuhTVVqFMM5eAwGPjbn) | [LS Anthem](https://open.spotify.com/album/4dCSTghFf46oiXMcYW13Um) | 4:27 | 2021-12-17 | 2022-07-29 |
-| [Lullaby](https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Lullaby](https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an) | 3:41 | 2022-10-21 |  |
+| [Lullaby](https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Lullaby](https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an) | 3:41 | 2022-10-21 | 2026-08-18 |
 | [Make It Last](https://open.spotify.com/track/3GcQOMGQ8cXwitx8Koe7NG) | [Lunchbag](https://open.spotify.com/artist/0wpNQXkeGHEGwq5oQ5rKJo), [Theo Spazzatura](https://open.spotify.com/artist/0CtUtQnYbMoO34lexNEojz) | [Beats On Boat: Lunchbag](https://open.spotify.com/album/7bGOZvIRLW5Lie8eJv1tRb) | 3:22 | 2021-12-17 | 2023-10-30 |
 | [Matano Trumpet Jam](https://open.spotify.com/track/0FXRcUaFhMIUGJ3oVkDB3e) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Bells Creek Road](https://open.spotify.com/album/6FihE91MUfN7iwUsAs3t76) | 7:36 | 2021-12-17 | 2022-06-03 |
 | [Maxi Dance](https://open.spotify.com/track/6O3CR2AhsWtwNioBZ5VDJX) | [Gene On Earth](https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj) | [Top Cat](https://open.spotify.com/album/41poT64RJZs8slyiEoAAx5) | 6:02 | 2023-06-01 | 2023-06-10 |
@@ -248,6 +248,7 @@
 | [Superimposition](https://open.spotify.com/track/5EbNBRk0GQyoWeJ8AMlact) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Superimposition](https://open.spotify.com/album/67YwJykfKm5kWsMuwoiUii) | 7:19 | 2022-03-31 | 2022-07-29 |
 | [Szikra](https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Szikra](https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi) | 6:41 | 2022-03-25 | 2024-02-11 |
 | [Szikra](https://open.spotify.com/track/3yKtOUp5t6SyL3SK0fb2yX) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Szikra](https://open.spotify.com/album/1N1F3zh2a1GbJiUmmxT6oS) | 6:41 | 2024-02-02 | 2024-04-19 |
+| [Take It For Granted](https://open.spotify.com/track/222hw1bqvfjHI8eGaKRg7A) | [QUASAR](https://open.spotify.com/artist/0TQgpQgq7wSCeohL4uc1pL) | [Take It For Granted](https://open.spotify.com/album/14Th8ev4esmoDwb7ljoz8J) | 2:36 | 2026-04-03 |  |
 | [Take Me Home](https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Take Me Home](https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti) | 2:59 | 2025-05-30 |  |
 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 | 2022-07-01 | 2024-04-19 |
 | [Talk To Me You'll Understand](https://open.spotify.com/track/7vt3bmjV7nBiXFSORkjeFO) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/0PS8yuHp9CAqDguXPKSJAg) | 6:57 | 2022-03-25 | 2022-04-19 |

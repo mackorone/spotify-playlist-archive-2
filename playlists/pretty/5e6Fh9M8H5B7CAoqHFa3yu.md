@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 351 likes - 2,550 songs - 6 day 5 hr 51 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 351 likes - 2,551 songs - 6 day 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2558,5 +2558,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2548 | [Aura](https://open.spotify.com/track/4AUYrKOFthHYiUtDQ8zGFY) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Aura](https://open.spotify.com/album/4fP2OCd9IEgSxVBg5153av) | 3:01 |
 | 2549 | [New Beginnings](https://open.spotify.com/track/7BsjpAyf895DsnKwJRgVCz) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [New Beginnings](https://open.spotify.com/album/3ugLThsefNvx96vqsIxRkz) | 2:29 |
 | 2550 | [Riempimi la vita](https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Riempimi la vita](https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH) | 4:20 |
+| 2551 | [Pieces of What Remains](https://open.spotify.com/track/5QQTMMGeU7V3FPyOROA8xN) | [Eduardo Mendes](https://open.spotify.com/artist/6zFDDWxcLKsKBMUwQhvZkL) | [Love Was Over 2](https://open.spotify.com/album/5LifJ9RHvyofajKP1YZrGl) | 4:34 |
 
-Snapshot ID: `AAAK1e62wgZqrjWlw7CHDm/XOrW4faKb`
+Snapshot ID: `AAAK1kd7FeAmqkevedVrVWmn6Jm6Qlib`

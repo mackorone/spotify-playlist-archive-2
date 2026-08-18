@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81726,
+  "num_followers": 81730,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABq0qqZSvB/IwwSHKEX6W8N",
+  "snapshot_id": "aoD9gAAAAADgGASA0vtO4lXbHKNRgiaw",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Universal Mother",
         "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
       },
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 201826,
-      "name": "Emma's Song",
-      "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
+      "duration_ms": 181280,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
     },
     {
       "added_at": null,
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
       "artists": [
         {
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 206880,
-      "name": "8 Good Reasons",
-      "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
+      "duration_ms": 201826,
+      "name": "Emma's Song",
+      "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
     },
     {
       "added_at": null,
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 179266,
-      "name": "Daddy I'm Fine",
-      "url": "https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c"
+      "duration_ms": 206880,
+      "name": "8 Good Reasons",
+      "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 418226,
       "name": "Don't Give Up (feat. Sin\u00e9ad O'Connor)",
       "url": "https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "Daddy I'm Fine",
+      "url": "https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 367973,
-      "name": "'Til I Whisper U Something",
-      "url": "https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 215587,
       "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
       "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 367973,
+      "name": "'Til I Whisper U Something",
+      "url": "https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K"
     },
     {
       "added_at": null,
@@ -867,22 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le premier cri",
-        "url": "https://open.spotify.com/album/7w6VcRLFzLLmlLUQrol4OF"
+        "name": "Goodbye Jumbo",
+        "url": "https://open.spotify.com/album/0NHOAAAuzEglpm88igZi1a"
       },
       "artists": [
         {
-          "name": "Armand Amar",
-          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
+          "name": "World Party",
+          "url": "https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE"
         },
         {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 209480,
-      "name": "A New Born Child",
-      "url": "https://open.spotify.com/track/4gH669pWOPQMVlTnUV0PnA"
+      "duration_ms": 279600,
+      "name": "Sweet Soul Dream",
+      "url": "https://open.spotify.com/track/1IQYwIAj7XMrL5ilfyprkd"
     }
   ],
   "unique_name": "This Is Sin\u00e9ad O'Connor",

@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 560702,
+  "num_followers": 560711,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 243875,
-      "name": "I Hate It Here",
-      "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Songs from the Valley",
         "url": "https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 256519,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 243875,
+      "name": "I Hate It Here",
+      "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -511,26 +511,6 @@
       "duration_ms": 261734,
       "name": "August",
       "url": "https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 278670,
-      "name": "Call Your Mom (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/3guGAtyo4OMdTZzOshIugb"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -687,6 +667,30 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201284,
+      "name": "The Little Mess You Made",
+      "url": "https://open.spotify.com/track/7m6v28coJpF6mr6LEHbmce"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "Found",
         "url": "https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1"
       },
@@ -715,30 +719,6 @@
       "duration_ms": 187266,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
-      },
-      "artists": [
-        {
-          "name": "The Favors",
-          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201284,
-      "name": "The Little Mess You Made",
-      "url": "https://open.spotify.com/track/7m6v28coJpF6mr6LEHbmce"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -791,22 +771,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Kansas Anymore",
         "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
       },
@@ -823,18 +787,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "This World's A Giant",
-        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 216160,
-      "name": "This World's A Giant",
-      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -863,6 +827,22 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "This World's A Giant",
+        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "This World's A Giant",
+      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -879,22 +859,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 306880,
-      "name": "Lord, Let That Tesla Crash",
-      "url": "https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -907,6 +871,22 @@
       "duration_ms": 194277,
       "name": "Magical",
       "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 306880,
+      "name": "Lord, Let That Tesla Crash",
+      "url": "https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -943,22 +923,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Hey Ma",
-        "url": "https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi"
-      },
-      "artists": [
-        {
-          "name": "Aaron Rowe",
-          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
-        }
-      ],
-      "duration_ms": 240123,
-      "name": "Hey Ma",
-      "url": "https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
       },
@@ -971,6 +935,22 @@
       "duration_ms": 279457,
       "name": "Above the Clouds of Pompeii",
       "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Hey Ma",
+        "url": "https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "duration_ms": 240123,
+      "name": "Hey Ma",
+      "url": "https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1123,22 +1103,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
       },
@@ -1151,6 +1115,22 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1171,6 +1151,22 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "Never, No Not Once",
+        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 298864,
+      "name": "Never, No Not Once",
+      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "Double Infinity",
         "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
@@ -1185,20 +1181,20 @@
       "url": "https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi"
     },
     {
-      "added_at": "2025-09-23 14:16:54",
+      "added_at": "2025-10-17 10:54:21",
       "album": {
-        "name": "Never, No Not Once",
-        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+        "name": "All is Love and Pain in the Mouse Parade",
+        "url": "https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 298864,
-      "name": "Never, No Not Once",
-      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
+      "duration_ms": 186320,
+      "name": "Tuna in a Can",
+      "url": "https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1219,22 +1215,6 @@
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
-    },
-    {
-      "added_at": "2025-10-17 10:54:21",
-      "album": {
-        "name": "All is Love and Pain in the Mouse Parade",
-        "url": "https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "Tuna in a Can",
-      "url": "https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1367,42 +1347,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "What A Relief",
-        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
-      },
-      "artists": [
-        {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
-        },
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 182110,
-      "name": "As Good As It Gets",
-      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Triple Marathon",
         "url": "https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh"
       },
@@ -1415,6 +1359,22 @@
       "duration_ms": 157223,
       "name": "Triple Marathon",
       "url": "https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1447,6 +1407,26 @@
       "duration_ms": 220955,
       "name": "Heaven in the Right Light",
       "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "What A Relief",
+        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 182110,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1659,6 +1639,22 @@
       "duration_ms": 176506,
       "name": "Look Out!",
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Cairngorms",
+        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 252878,
+      "name": "Cairngorms",
+      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     }
   ],
   "unique_name": "pumpkin spice",

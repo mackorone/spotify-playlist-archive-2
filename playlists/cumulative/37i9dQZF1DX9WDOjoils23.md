@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-120 songs - 13 hr 58 min
+121 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Jo Tere Gham Nu](https://open.spotify.com/track/2K3UgM88aTk52ZqMPW7qAF) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Voice of Punjab](https://open.spotify.com/album/4ikiTmyjDT7NSdCG6UpPZm) | 5:12 | 2023-09-04 | 2024-04-19 |
 | [Jogi](https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt), [Manpreet Singh](https://open.spotify.com/artist/0vqqFNT40Yi47BEE0XBkfg), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Jogi](https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb) | 4:45 | 2026-04-17 |  |
 | [Jugni Kehndi Aa \| Folk & Rock](https://open.spotify.com/track/4y0HMpAmZMMZYr9f44FHv6) | [Raman Kapoor](https://open.spotify.com/artist/24G6ZqD5Ia9B402pUd0ePh) | [Jugni Kehndi Aa \| Folk & Rock](https://open.spotify.com/album/5BmWoNx2ItokOGwEmfP0ta) | 3:10 | 2025-02-21 | 2025-03-01 |
-| [Kaaga](https://open.spotify.com/track/3ugd8mBNtw0naDSaLrBRMA) | [Gulshan Meer](https://open.spotify.com/artist/1EZcVTGSDVhB72lBtf6SjP), [Sultana Nooran](https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG), [Sahil Meer](https://open.spotify.com/artist/5HZhpZWXJlL7ayDmFh5ueT), [Daman](https://open.spotify.com/artist/3duxzUqOrJ1iNR0mjlzAGm) | [Kaaga](https://open.spotify.com/album/2H4HwRqgmm9J5sA1WYAGhI) | 3:45 | 2026-08-14 |  |
+| [Kaaga](https://open.spotify.com/track/3ugd8mBNtw0naDSaLrBRMA) | [Gulshan Meer](https://open.spotify.com/artist/1EZcVTGSDVhB72lBtf6SjP), [Sultana Nooran](https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG), [Sahil Meer](https://open.spotify.com/artist/5HZhpZWXJlL7ayDmFh5ueT), [Daman](https://open.spotify.com/artist/3duxzUqOrJ1iNR0mjlzAGm) | [Kaaga](https://open.spotify.com/album/2H4HwRqgmm9J5sA1WYAGhI) | 3:45 | 2026-08-14 | 2026-08-18 |
 | [Kadi Aa Mil Sanwal](https://open.spotify.com/track/4tGycbAMbMuajOmaSgCkI8) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Kadi Aa Mil Sanwal](https://open.spotify.com/album/1FCU1d6a7oTjGpT4zytkAH) | 4:08 | 2025-02-01 |  |
 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 | 2023-02-15 |  |
 | [Kavita](https://open.spotify.com/track/0YXrj0gYt6QKj9Kwni5QMt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Shikhar](https://open.spotify.com/album/6ylmH5wcCn80rTOLsfYwkd) | 3:49 | 2025-08-28 |  |
@@ -84,6 +84,7 @@
 | [Mukh Tera](https://open.spotify.com/track/66TCpFnHV47Y5LDbUzF4mz) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Mukh Tera](https://open.spotify.com/album/3dOJFWM5LcWCAt1FPr3c85) | 5:26 | 2025-05-13 | 2025-07-04 |
 | [Nazaraa](https://open.spotify.com/track/06u4Dl0Rx1CTT84L2YdCBX) | [Puranchand Wadali](https://open.spotify.com/artist/4Ya6sj5W70ZEa0ghrJYk8h), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO), [Aar Bee](https://open.spotify.com/artist/1ztfAE52RW11rNYUZaINIc), [Sufi Bhatt](https://open.spotify.com/artist/0p3gHGl9hJrATChGbWrbe4) | [Nazaraa](https://open.spotify.com/album/5iCcHyEBQZgTVScHW89gf3) | 5:10 | 2025-05-13 |  |
 | [Neendar Nain Aawndi](https://open.spotify.com/track/2rlxA33dXhCL6XGBYMz0Ce) | [Noor Jehan](https://open.spotify.com/artist/0LruguA5aIP6yvLUIkxANh) | [Meri Pasand](https://open.spotify.com/album/6ZAFPHUK38sQGNeLoqFl76) | 3:17 | 2024-04-24 | 2025-02-28 |
+| [Ni Mein Kamli Aa](https://open.spotify.com/track/0Iwrvl0JoQj2JbAgdwwHjc) | [Monika Athwal](https://open.spotify.com/artist/1JaJczN5yy3Bv1Hjct1iyZ), [MR Music](https://open.spotify.com/artist/3HitoCKdWKqWjvZeiH2a6D) | [Ni Mein Kamli Aa](https://open.spotify.com/album/7B5kb2fzlv7yt75I0x0NEv) | 5:42 | 2026-08-14 |  |
 | [Ni Uthan Waley](https://open.spotify.com/track/3x8r2uTRILoLmbLOz8PIQk) | [Attaullah Khan Essakhelvi](https://open.spotify.com/artist/0UJeYZQqhmJT9706RaFOzj) | [Meri Pasand, Vol\. 1](https://open.spotify.com/album/44WjmR6pmbOcZ0bxt3CXcZ) | 5:26 | 2025-02-27 | 2025-05-14 |
 | [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 | 2025-07-11 |  |
 | [Nit Khair Manga Sohneya](https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Big Boss Of Sufi Nusrat Fateh Ali Khan](https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN) | 15:19 | 2023-12-18 | 2026-07-18 |

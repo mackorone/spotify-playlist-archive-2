@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156240,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
+    },
+    {
+      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -360,7 +382,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 225400,
       "name": "Caderas Blancas",
       "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"

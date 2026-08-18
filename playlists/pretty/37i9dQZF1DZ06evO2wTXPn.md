@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,953 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,952 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 8 | [Contigo](https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:47 |
 | 9 | [Vengo Del Futuro](https://open.spotify.com/track/4mvtqRJpySaswY75a9WfVm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:16 |
 | 10 | [Espectador](https://open.spotify.com/track/7K6VPsAtUg6aWoeUoeSkPC) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Espectador](https://open.spotify.com/album/0ekLp83yAHBExNAvnFgJBV) | 3:20 |
-| 11 | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf) | 3:34 |
-| 12 | [Polvo de Gigantes](https://open.spotify.com/track/64pNSO9BmlNkUe2j8hO9PV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Kintsugi](https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ) | 2:37 |
+| 11 | [Polvo de Gigantes](https://open.spotify.com/track/64pNSO9BmlNkUe2j8hO9PV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Kintsugi](https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ) | 2:37 |
+| 12 | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf) | 3:34 |
 | 13 | [Se Fuerte Corazón](https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:12 |
 | 14 | [Por Si Te Quieres Quedar](https://open.spotify.com/track/1IOFN550MP5nd2qRfoDaTG) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Por Si Te Quieres Quedar](https://open.spotify.com/album/5cKAoN0HixEqmJvIM9WyHC) | 3:34 |
 | 15 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 49 | [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 |
 | 50 | [No Lo Estás Logrando](https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [No Lo Estás Logrando](https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U) | 3:03 |
 
-Snapshot ID: `an+sAAAAAACCrIssRU+W9Xb/pdV9H+yl`
+Snapshot ID: `aoD9gAAAAAAMOUxhbn4EqxPBL5meNjYU`

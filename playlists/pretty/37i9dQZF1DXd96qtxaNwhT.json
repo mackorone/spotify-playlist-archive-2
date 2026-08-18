@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 303165,
+  "num_followers": 303166,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "FOREVER AGAIN",
-        "url": "https://open.spotify.com/album/0j9WkluXe8I6DNPWyYTevQ"
+        "name": "Love Is A Stillness",
+        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
       },
       "artists": [
         {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 160147,
-      "name": "FOREVER AGAIN",
-      "url": "https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj"
+      "duration_ms": 114637,
+      "name": "Love Is A Stillness",
+      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Love Is A Stillness",
-        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
+        "name": "FOREVER AGAIN",
+        "url": "https://open.spotify.com/album/0j9WkluXe8I6DNPWyYTevQ"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
         }
       ],
-      "duration_ms": 114637,
-      "name": "Love Is A Stillness",
-      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
+      "duration_ms": 160147,
+      "name": "FOREVER AGAIN",
+      "url": "https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
         "name": "Everytime (BBC Radio 1 Live Lounge)",
         "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 177601,
       "name": "I Stay I Leave I Love I Lose",
       "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
-        "name": "Momma Song",
-        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Momma Song",
-      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "RATHER BE",
-        "url": "https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 171873,
-      "name": "RATHER BE",
-      "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "To Be Free (Demo Version)",
         "url": "https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 255155,
       "name": "To Be Free - Demo Version",
       "url": "https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
+        "name": "RATHER BE",
+        "url": "https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 171873,
+      "name": "RATHER BE",
+      "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+        "name": "Learning To Fly",
+        "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+      "duration_ms": 176941,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -847,18 +863,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Learning To Fly",
-        "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
+        "name": "Breathe In, Breathe Out",
+        "url": "https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 176941,
-      "name": "Learning To Fly",
-      "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
+      "duration_ms": 144915,
+      "name": "Breathe In, Breathe Out",
+      "url": "https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -875,22 +891,6 @@
       "duration_ms": 184687,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/2TWTMmb5uHVuXEpXniIIhB"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
-        "name": "Breathe In, Breathe Out",
-        "url": "https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 144915,
-      "name": "Breathe In, Breathe Out",
-      "url": "https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "overthinking about you",
-        "url": "https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 196296,
-      "name": "overthinking about you",
-      "url": "https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "A Wonderful Life",
         "url": "https://open.spotify.com/album/5sjDYH0h22YYNEWiRw9IH5"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+        "name": "overthinking about you",
+        "url": "https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
         }
       ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+      "duration_ms": 196296,
+      "name": "overthinking about you",
+      "url": "https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -1003,6 +987,22 @@
       "duration_ms": 237906,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "While I Got Time",
-        "url": "https://open.spotify.com/album/2IYWJYYuElnW35H7JJJQCs"
+        "name": "Power In Us",
+        "url": "https://open.spotify.com/album/1SlXfaCDOmYwsbIFr3dlP2"
       },
       "artists": [
         {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+          "name": "Anderson Rocio",
+          "url": "https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P"
         }
       ],
-      "duration_ms": 225408,
-      "name": "While I Got Time",
-      "url": "https://open.spotify.com/track/1rCCa9y1CHjPvphMTBtRbC"
+      "duration_ms": 201719,
+      "name": "Power In Us",
+      "url": "https://open.spotify.com/track/5AMjoL36HPzwx9E0JUg05J"
     }
   ],
   "unique_name": "Peaceful Pop",

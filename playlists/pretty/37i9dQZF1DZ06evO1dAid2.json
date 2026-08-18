@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 134090,
+  "num_followers": 134097,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAYY53Ql796iLxWh7ZUGYi4",
+  "snapshot_id": "aoD9gAAAAABB6THGlO9mlt6TrxVgGTjp",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 142586,
-      "name": "Thirty Days",
-      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck",
         "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 185845,
       "name": "Big Boys",
       "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "Thirty Days",
+      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "My Ding-A-Ling",
+      "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From St. Louie To Frisco",
         "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 107026,
       "name": "Come On - Stereo Version",
       "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
-        "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "My Ding-A-Ling",
-      "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
     },
     {
       "added_at": null,

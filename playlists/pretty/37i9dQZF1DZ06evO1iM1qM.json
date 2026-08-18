@@ -1,13 +1,41 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 223465,
+  "num_followers": 223480,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADRJnwlEg5+Dqso/Of1pWU9",
+  "snapshot_id": "aoD9gAAAAACC9esGvYMWHmhOtxIFh0Ki",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Music of Cannonball Adderley, Lambert, Horace Silver, Stan Getz, Nat King Cole and Other Hits, Vol. 6 (150 Songs)",
+        "url": "https://open.spotify.com/album/1X1mDB6bs2vE9e2YItECKC"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 576783,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/4OMxTfe96Bjy6EL8hNycBF"
+    },
     {
       "added_at": null,
       "album": {
@@ -263,34 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kind Of Blue",
-        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
           "name": "John Coltrane",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
         }
       ],
-      "duration_ms": 588410,
-      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
-      "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
+      "duration_ms": 479023,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
     },
     {
       "added_at": null,
@@ -311,22 +323,6 @@
       "duration_ms": 332120,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 479023,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
     },
     {
       "added_at": null,
@@ -463,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coltrane's Sound",
-        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Central Park West",
-      "url": "https://open.spotify.com/track/0Ve1sQdEcXQe0ZpS8AWDPC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -507,6 +487,22 @@
       "duration_ms": 420693,
       "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coltrane's Sound",
+        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Central Park West",
+      "url": "https://open.spotify.com/track/0Ve1sQdEcXQe0ZpS8AWDPC"
     },
     {
       "added_at": null,
@@ -663,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Old Stockholm",
-        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Dear Lord",
-      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -711,6 +691,22 @@
       "duration_ms": 542400,
       "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear Old Stockholm",
+        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
     },
     {
       "added_at": null,
@@ -815,18 +811,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Settin' The Pace [RVG Edition]",
-        "url": "https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ"
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
       "artists": [
         {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
           "name": "John Coltrane",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 596706,
-      "name": "I See Your Face Before Me - RVG Remaster",
-      "url": "https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa"
+      "duration_ms": 589200,
+      "name": "On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/0tUq1zaYNoV6ZiYRU2bjqf"
     },
     {
       "added_at": null,
@@ -847,6 +855,22 @@
       "duration_ms": 282600,
       "name": "Take The Coltrane",
       "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Settin' The Pace [RVG Edition]",
+        "url": "https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 596706,
+      "name": "I See Your Face Before Me - RVG Remaster",
+      "url": "https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa"
     },
     {
       "added_at": null,
@@ -891,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 733066,
-      "name": "Tenor Madness - Rudy Van Gelder Remastered 2006 / Shared ISRC",
-      "url": "https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -927,6 +931,26 @@
       "duration_ms": 267133,
       "name": "Big Nick",
       "url": "https://open.spotify.com/track/5PGnB8aUHVm6tvYRHy4i30"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 733066,
+      "name": "Tenor Madness - Rudy Van Gelder Remastered 2006 / Shared ISRC",
+      "url": "https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO"
     },
     {
       "added_at": null,
@@ -1027,22 +1051,6 @@
       "duration_ms": 337560,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/26bnmztmGcY03sO1uWmoTd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 437840,
-      "name": "A Love Supreme, Pt. II - Resolution",
-      "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
     }
   ],
   "unique_name": "This Is John Coltrane",

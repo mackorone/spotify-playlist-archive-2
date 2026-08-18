@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,534 songs - 3 day 16 hr 48 min
+1,535 songs - 3 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,7 +975,7 @@
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2021-11-13 |
 | [P Ramlee Saloma](https://open.spotify.com/track/197svyKIkkTUxmDxdcYezk) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/5U907S591kqQQLROl2VTbH) | 3:18 | 2026-05-12 | 2026-06-17 |
 | [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 | 2025-08-30 | 2026-05-13 |
-| [P Ramlee Saloma](https://open.spotify.com/track/7totacaqk0aGyO8evCjzOh) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 3:18 | 2026-06-16 |  |
+| [P Ramlee Saloma](https://open.spotify.com/track/7totacaqk0aGyO8evCjzOh) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 3:18 | 2026-06-16 | 2026-08-18 |
 | [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 | 2024-01-11 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-29 | 2023-09-24 |
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2022-11-07 | 2023-03-26 |
@@ -1179,7 +1179,7 @@
 | [Si Fueras Mía](https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2021-07-28 | 2021-07-30 |
 | [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 | 2023-09-30 | 2024-08-02 |
 | [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 | 2023-02-02 | 2023-10-01 |
-| [Siapa Di Hatimu](https://open.spotify.com/track/1nPkL63Uxaw84801K23KNr) | [Rahmat](https://open.spotify.com/artist/1yhQJRu5vlBqwwTrvYSg1L) | [The Collection: Rahmat](https://open.spotify.com/album/4L56poXFZEaF8yKscs4ZYD) | 5:42 | 2026-08-02 |  |
+| [Siapa Di Hatimu](https://open.spotify.com/track/1nPkL63Uxaw84801K23KNr) | [Rahmat](https://open.spotify.com/artist/1yhQJRu5vlBqwwTrvYSg1L) | [The Collection: Rahmat](https://open.spotify.com/album/4L56poXFZEaF8yKscs4ZYD) | 5:42 | 2026-08-02 | 2026-08-18 |
 | [Siapa Di Hatimu](https://open.spotify.com/track/7qYyRmqHPwfsNsCyW2WBdY) | [Rahmat](https://open.spotify.com/artist/1yhQJRu5vlBqwwTrvYSg1L) | [Lagu Hit Sepanjang Zaman](https://open.spotify.com/album/5SRWRnhyJcuIyBSRdT9nxv) | 5:42 | 2026-05-03 | 2026-08-12 |
 | [Siapa Di Hatimu](https://open.spotify.com/track/2NOWGQefu42AyhxIavqCZJ) | [Rahmat](https://open.spotify.com/artist/1yhQJRu5vlBqwwTrvYSg1L) | [Siapa Di Hatimu](https://open.spotify.com/album/2YNADCFkDanlGBi1EkulMB) | 5:44 | 2026-04-07 | 2026-06-30 |
 | [Sinar Pelangi](https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sinar Pelangi](https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb) | 3:51 | 2023-12-23 | 2024-10-01 |
@@ -1294,6 +1294,7 @@
 | [TABOLA BALE](https://open.spotify.com/track/6KfugJFINWqA42k59hmjFr) | [Silet Open Up](https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36), [Jacson Seran](https://open.spotify.com/artist/7sGSFhUe26nmXPxw3KuXrj), [Juan Reza](https://open.spotify.com/artist/0eYCIajsbVsMjVUIkcomIY), [Diva Aurel](https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u) | [TABOLA BALE](https://open.spotify.com/album/56paKQ8XwNS0fSkWaMiJMm) | 4:34 | 2025-07-29 | 2026-02-04 |
 | [TABOLA BALE](https://open.spotify.com/track/7mqG8I1JG0iQAejC53qpbU) | [Silet Open Up](https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36), [Jacson Seran](https://open.spotify.com/artist/7sGSFhUe26nmXPxw3KuXrj), [Juan Reza](https://open.spotify.com/artist/0eYCIajsbVsMjVUIkcomIY), [Diva Aurel](https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u) | [TABOLA BALE](https://open.spotify.com/album/6HD7xXFvzvF5XIPFCoi3x0) | 4:34 | 2026-02-03 | 2026-04-15 |
 | [Tabola Bale MIX MF](https://open.spotify.com/track/1iIrirbRYhepwjOWWDUDz9) | [Silet Open Up](https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36) | [Tabola Bale MIX MF](https://open.spotify.com/album/3eiOz981dWidTvBzr326uj) | 3:13 | 2025-09-02 | 2025-10-02 |
+| [Tak Adil](https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Tak Adil](https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K) | 3:08 | 2026-08-17 |  |
 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 | 2024-02-23 | 2024-04-21 |
 | [Tak Ingin Usai](https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 4:38 | 2023-05-20 | 2023-07-22 |
 | [Tak Ingin Usai](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tak Ingin Usai](https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY) | 4:38 | 2022-06-01 | 2023-05-21 |
@@ -1311,7 +1312,7 @@
 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\)](https://open.spotify.com/track/19GxfaRs5KdurzPKLVX3Cq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR DELUXE](https://open.spotify.com/album/2KL4QCX5syZYi6Xh7gP5kE) | 3:00 | 2025-07-16 | 2025-09-04 |
 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\)](https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:01 | 2025-06-26 | 2025-07-16 |
 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\) \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR \(DELUXE\)](https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U) | 3:00 | 2025-07-15 | 2025-09-03 |
-| [Takkan Pergi](https://open.spotify.com/track/4RpBCmAFDHmUGGrYKMySQI) | [Hyper Act](https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb) | [Takkan Pergi](https://open.spotify.com/album/0SUk5kktV4VzRMYPm4uvrv) | 3:38 | 2025-10-13 | 2026-08-15 |
+| [Takkan Pergi](https://open.spotify.com/track/4RpBCmAFDHmUGGrYKMySQI) | [Hyper Act](https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb) | [Takkan Pergi](https://open.spotify.com/album/0SUk5kktV4VzRMYPm4uvrv) | 3:38 | 2025-10-13 |  |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-27 | 2022-08-29 |
 | [Talk that Talk](https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:57 | 2022-08-28 | 2022-10-07 |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-04-04 | 2026-05-24 |

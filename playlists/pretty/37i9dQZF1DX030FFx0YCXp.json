@@ -1,6 +1,6 @@
 {
   "description": "Crowd-pleasing favorites for an easy, carefree day. ",
-  "num_followers": 471062,
+  "num_followers": 471068,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/2MTEiVNgRgIvVIrJAqHNBu"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
-      },
-      "artists": [
-        {
-          "name": "Looking Glass",
-          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
-        }
-      ],
-      "duration_ms": 189044,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 324422,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
+      },
+      "artists": [
+        {
+          "name": "Looking Glass",
+          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
+        }
+      ],
+      "duration_ms": 189044,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 166458,
-      "name": "Something Serious",
-      "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -675,6 +659,22 @@
       "duration_ms": 210320,
       "name": "Live For You",
       "url": "https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 166458,
+      "name": "Something Serious",
+      "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Rock'n Me",
-      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Rock'n Me",
+      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+        "name": "Let's Go Back",
+        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
       },
       "artists": [
         {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+      "duration_ms": 169651,
+      "name": "Let's Go Back",
+      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Let's Go Back",
-        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 169651,
-      "name": "Let's Go Back",
-      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "No One Else Like Me",
+      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
         "name": "The Roaring Silence",
         "url": "https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 161786,
       "name": "Don't Do Me Like That",
       "url": "https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
-        "name": "Made by These Moments",
-        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 257372,
-      "name": "No One Else Like Me",
-      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "All Night Long - Single Version",
+      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 250840,
       "name": "Feelin' Alright",
       "url": "https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "All Night Long - Single Version",
-      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Cyan",
-        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Shambala - Single Version",
-      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Countdown To Ecstasy",
         "url": "https://open.spotify.com/album/1oOpgDzHt6wl7kHbFFPzEc"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 339281,
       "name": "My Old School",
       "url": "https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Shambala - Single Version",
+      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Nicolette",
-        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
-      },
-      "artists": [
-        {
-          "name": "Nicolette Larson",
-          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
-        }
-      ],
-      "duration_ms": 191773,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "A Nod Is as Good as a Wink... to a Blind Horse",
-        "url": "https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK"
+        "name": "Nicolette",
+        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
       },
       "artists": [
         {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
         }
       ],
-      "duration_ms": 279413,
-      "name": "Stay with Me",
-      "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"
+      "duration_ms": 191773,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1531,6 +1515,22 @@
       "duration_ms": 230249,
       "name": "Highroad",
       "url": "https://open.spotify.com/track/6q8nlNnBLSAn5tU6tH9Zlz"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "A Nod Is as Good as a Wink... to a Blind Horse",
+        "url": "https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 279413,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Whatcha See Is Whatcha Get",
-      "url": "https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "The Best Of Kansas",
         "url": "https://open.spotify.com/album/3eLtE3HWyUWQbO2CYFKkwO"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 205600,
       "name": "Dust in the Wind",
       "url": "https://open.spotify.com/track/4E0lSJ6c5unoku9UIZoJSl"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Whatcha See Is Whatcha Get",
+      "url": "https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6"
     },
     {
       "added_at": "2026-06-30 13:32:35",

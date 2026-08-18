@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,167 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,223 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 7 | [location](https://open.spotify.com/track/0PDTp5dVHePKWrJ4b532tg) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [location](https://open.spotify.com/album/0Kq1CqgBfILlRlxT3Xq8k6) | 2:39 |
 | 8 | [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 |
 | 9 | [Bobo](https://open.spotify.com/track/6yLd1r4dwmoTZV8hgm4Gbn) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Bobo](https://open.spotify.com/album/6qrU2hCfC6rguDad15MZz4) | 2:07 |
-| 10 | [Private Chef \(feat\. MC Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
+| 10 | [Private Chef \(feat\. Mc Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
 | 11 | [Tu danses pas tu bois pas](https://open.spotify.com/track/20TUbbBCFlJr7oar6IiNdB) | [La Traine](https://open.spotify.com/artist/5tk0jsqb4leLOR0BFzg2ZR), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Tu danses pas tu bois pas](https://open.spotify.com/album/4yZu1QWbLL4XoeL2Lemtz0) | 2:36 |
 | 12 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
 | 13 | [Mampuya](https://open.spotify.com/track/1FOToNii0EQQxspkSnwd8v) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Mampuya](https://open.spotify.com/album/4JJ9FxvYWQ7SNwAjw15W5H) | 1:54 |

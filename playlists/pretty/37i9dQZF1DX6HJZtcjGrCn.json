@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: PZ, Os Azeitonas",
-  "num_followers": 40263,
+  "num_followers": 40274,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -291,18 +291,18 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "Who's the Clown?",
-        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
       "artists": [
         {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 170320,
-      "name": "Sue me",
-      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -323,22 +323,18 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "Floette ft. John Glacier",
-        "url": "https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ"
+        "name": "Celestial Bodies",
+        "url": "https://open.spotify.com/album/0jvsyrItr5n4mJXVrEulJt"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 192212,
-      "name": "Floette ft. John Glacier",
-      "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
+      "duration_ms": 227397,
+      "name": "Celestial Bodies",
+      "url": "https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -359,8 +355,24 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
+    },
+    {
+      "added_at": "2026-08-13 23:00:10",
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },
       "artists": [
         {
@@ -368,9 +380,9 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -439,22 +451,6 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
-    },
-    {
-      "added_at": "2026-08-13 23:00:10",
-      "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
@@ -483,6 +479,22 @@
       "duration_ms": 244866,
       "name": "Daughter from Hell",
       "url": "https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG"
+    },
+    {
+      "added_at": "2026-08-13 23:00:10",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -523,22 +535,6 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 298783,
-      "name": "My Old Ways",
-      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
-    },
-    {
-      "added_at": "2026-08-13 23:00:10",
-      "album": {
         "name": "The Wave",
         "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
       },
@@ -555,22 +551,6 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "Music, Fashion, Film",
-        "url": "https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 150622,
-      "name": "Magic Metal Montana",
-      "url": "https://open.spotify.com/track/7p2raGiQopzdSeYnWLwehY"
-    },
-    {
-      "added_at": "2026-08-13 23:00:10",
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -583,6 +563,22 @@
       "duration_ms": 232375,
       "name": "i wish i knew how to quit you",
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
+    },
+    {
+      "added_at": "2026-08-13 23:00:10",
+      "album": {
+        "name": "Music, Fashion, Film",
+        "url": "https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 150622,
+      "name": "Magic Metal Montana",
+      "url": "https://open.spotify.com/track/7p2raGiQopzdSeYnWLwehY"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -667,22 +663,6 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "Switchblade",
-        "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 181926,
-      "name": "Switchblade",
-      "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
-    },
-    {
-      "added_at": "2026-08-13 23:00:10",
-      "album": {
         "name": "d\u00a3aler",
         "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
@@ -695,6 +675,22 @@
       "duration_ms": 160666,
       "name": "d\u00a3aler",
       "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
+    },
+    {
+      "added_at": "2026-08-13 23:00:10",
+      "album": {
+        "name": "Switchblade",
+        "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 181926,
+      "name": "Switchblade",
+      "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -911,26 +907,6 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "Reputation (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 235705,
-      "name": "Reputation (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
-    },
-    {
-      "added_at": "2026-08-13 23:00:10",
-      "album": {
         "name": "From The Pyre",
         "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
       },
@@ -959,6 +935,42 @@
       "duration_ms": 222106,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
+    {
+      "added_at": "2026-08-13 23:00:10",
+      "album": {
+        "name": "Reputation (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
+    },
+    {
+      "added_at": "2026-08-13 23:00:10",
+      "album": {
+        "name": "Romance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 236245,
+      "name": "Before You I Just Forget",
+      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -1015,22 +1027,6 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "Romance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 236245,
-      "name": "Before You I Just Forget",
-      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
-    },
-    {
-      "added_at": "2026-08-13 23:00:10",
-      "album": {
         "name": "Miyazaki",
         "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
       },
@@ -1043,38 +1039,6 @@
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
-    },
-    {
-      "added_at": "2026-08-13 23:00:10",
-      "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 215196,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
-    },
-    {
-      "added_at": "2026-08-13 23:00:10",
-      "album": {
-        "name": "EP #2",
-        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "To Space",
-      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -1099,6 +1063,58 @@
       "duration_ms": 201284,
       "name": "The Little Mess You Made",
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
+    },
+    {
+      "added_at": "2026-08-13 23:00:10",
+      "album": {
+        "name": "EP #2",
+        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "To Space",
+      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
+    },
+    {
+      "added_at": "2026-08-13 23:00:10",
+      "album": {
+        "name": "Floette ft. John Glacier",
+        "url": "https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 192212,
+      "name": "Floette ft. John Glacier",
+      "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
+    },
+    {
+      "added_at": "2026-08-13 23:00:10",
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 215196,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -1131,22 +1147,6 @@
       "duration_ms": 311083,
       "name": "Mr. Mountebank",
       "url": "https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k"
-    },
-    {
-      "added_at": "2026-08-13 23:00:10",
-      "album": {
-        "name": "Celestial Bodies",
-        "url": "https://open.spotify.com/album/0jvsyrItr5n4mJXVrEulJt"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 227397,
-      "name": "Celestial Bodies",
-      "url": "https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM"
     },
     {
       "added_at": "2026-08-13 23:00:10",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-08-13 23:00:10",
       "album": {
-        "name": "The Clearing (B Sides)",
-        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Gospel Oak",
-      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
-    },
-    {
-      "added_at": "2026-08-13 23:00:10",
-      "album": {
         "name": "People of the Moon",
         "url": "https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 190258,
       "name": "People of the Moon",
       "url": "https://open.spotify.com/track/0hnet7s0hzoSWozISu4TQ8"
+    },
+    {
+      "added_at": "2026-08-13 23:00:10",
+      "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Gospel Oak",
+      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
     },
     {
       "added_at": "2026-08-13 23:00:10",

@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 991186,
+  "num_followers": 991246,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAAAqCDxDR/TxdVVdbPxE8GGV",
+  "snapshot_id": "aoD9gAAAAACXHGfEXUbcxjonJuhm9Q9C",
   "tracks": [
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 206835,
-      "name": "For The Moment",
-      "url": "https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 186826,
       "name": "Gimme That",
       "url": "https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 206835,
+      "name": "For The Moment",
+      "url": "https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV"
     },
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Wet The Bed (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BROWN",
         "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 223186,
       "name": "Wall To Wall",
       "url": "https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Wet The Bed (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 286 songs - 16 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 697 likes - 286 songs - 16 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 114 | [Love Me Badder](https://open.spotify.com/track/3RtuzesB8hFETgOwj8ojzP) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:54 |
 | 115 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
 | 116 | [Oh Africa](https://open.spotify.com/track/6Kz15VD322cOE7kE1vxO9M) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Oh Africa \(Pepsi Version\)](https://open.spotify.com/album/3H1Lef1jjve7DIPBPTS7mP) | 3:21 |
-| 117 | [My Life Your Entertainment](https://open.spotify.com/track/1uOLXjOFHCkkTZKlPFClsz) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:56 |
-| 118 | [Love of My Life](https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
+| 117 | [Love of My Life](https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
+| 118 | [My Life Your Entertainment](https://open.spotify.com/track/1uOLXjOFHCkkTZKlPFClsz) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:56 |
 | 119 | [Priceless](https://open.spotify.com/track/4Zw1r9tBYeD961hTGANm7v) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Tremaine the Album](https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C) | 3:52 |
 | 120 | [Crazy](https://open.spotify.com/track/1nmypDEMIhxlgvZViMUmoZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Crazy](https://open.spotify.com/album/6fyg81ZmARpHaxNte8X5NE) | 3:05 |
 | 121 | [The Rain](https://open.spotify.com/track/0rTjlOdVXvcyV1NCZY4TGu) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:27 |
@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 178 | [Flames](https://open.spotify.com/track/0N0iDPsKl9tTCwdnJtAq78) | [11:11](https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3) | [Flames](https://open.spotify.com/album/0iCVejOEA2wLsHiSD5ie5q) | 3:58 |
 | 179 | [Everybody \(feat\. Azealia Banks\)](https://open.spotify.com/track/3W4pDpDgsKda2znHK8qDA4) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 4:06 |
 | 180 | [The Only One](https://open.spotify.com/track/1mvoPw4rrpTsVKPizoXwrV) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Sex Playlist](https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D) | 3:21 |
-| 181 | [Set](https://open.spotify.com/track/0RdtNKSNJ3mkg7W988BjGN) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 2:56 |
-| 182 | [On The Side](https://open.spotify.com/track/0vlKJXqCvW05Hb2efMix80) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:03 |
+| 181 | [On The Side](https://open.spotify.com/track/0vlKJXqCvW05Hb2efMix80) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:03 |
+| 182 | [Set](https://open.spotify.com/track/0RdtNKSNJ3mkg7W988BjGN) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 2:56 |
 | 183 | [Juice](https://open.spotify.com/track/0oj4EkvnuEj8xclOAeANeI) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Campaign](https://open.spotify.com/album/7bSsdgWDh5VRI3ZVOXQEj4) | 3:35 |
 | 184 | [Wicked](https://open.spotify.com/track/5myV3Ddm7CXKrP4QOOguQl) | [Veronica Vega](https://open.spotify.com/artist/5zB4FgmxvPsn1G4TeKO62C), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Wicked \(feat\. Pitbull\) \- Single](https://open.spotify.com/album/2IsKRE4RIZLmegkUz9iUQH) | 4:08 |
 | 185 | [Kiss & Tell](https://open.spotify.com/track/1sNovU2kt1WBrLhuAFhReK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:43 |
@@ -258,8 +258,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 248 | [My Bih](https://open.spotify.com/track/0qGMWc9QuQ3KTfzqtbvvfW) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Back Flossin](https://open.spotify.com/album/3vmo3yZ1f2Rj6lK6lHTECy) | 3:11 |
 | 249 | [Love Shop](https://open.spotify.com/track/4LVtZf0n6YPL62AbeBFvaH) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [No Gravity](https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc) | 3:22 |
 | 250 | [Sexy!](https://open.spotify.com/track/0wp7AroqGCIs8Nb0bw52Jg) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Album I: Being Human](https://open.spotify.com/album/62zlCb4XOCVGwfRssn3TZB) | 3:05 |
-| 251 | [Fling It Back \- Edited Version](https://open.spotify.com/track/063o5W4Y3ytyVvlKKpBaOt) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol\. 9](https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih) | 3:07 |
-| 252 | [Goodmorning!](https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:18 |
+| 251 | [Goodmorning!](https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:18 |
+| 252 | [Fling It Back \- Edited Version](https://open.spotify.com/track/063o5W4Y3ytyVvlKKpBaOt) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol\. 9](https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih) | 3:07 |
 | 253 | [Made It](https://open.spotify.com/track/0hzgKoHi8HxmCRhXjBTZPO) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:42 |
 | 254 | [Der Schlumpfenbeat](https://open.spotify.com/track/21l8z5LyBjT0nfynKJfvtX) | [Die Schlümpfe](https://open.spotify.com/artist/0ONNMDruuhqjpTB9uRhbYs) | [Die Hits der Schlümpfe](https://open.spotify.com/album/5GDFUh4vZFYXzUtoOb93VS) | 3:13 |
 | 255 | [I Look Like](https://open.spotify.com/track/59tJKl874T0lrWnV5wpSYf) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [I Look Like](https://open.spotify.com/album/6ERHiXy2VELXPIbk4ZWL2X) | 3:26 |
@@ -295,4 +295,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 285 | [Trick or Treat](https://open.spotify.com/track/1OeEONCaGm6b2ZtdgQOopI) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:52 |
 | 286 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
 
-Snapshot ID: `AcZwmgAAAAD0N8a+vKJrINwW3yR5NYY/`
+Snapshot ID: `AcZ2bAAAAADzK6tApWFlQiJKTE67B6J2`

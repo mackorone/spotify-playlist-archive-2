@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 10378,
+  "num_followers": 10380,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Advantage",
-        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
-      },
-      "artists": [
-        {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Advantage",
-      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "My Future",
         "url": "https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 155468,
       "name": "My Future",
       "url": "https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Wana",
         "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 219428,
       "name": "Wana",
       "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Raining Tomorrow",
-        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 228484,
-      "name": "Raining Tomorrow",
-      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Best Case Girl",
         "url": "https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu"
       },
@@ -863,6 +847,38 @@
       "duration_ms": 171500,
       "name": "Best Case Girl",
       "url": "https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
+      },
+      "artists": [
+        {
+          "name": "FiFi Zhang",
+          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
+        }
+      ],
+      "duration_ms": 182828,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Raining Tomorrow",
+        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 228484,
+      "name": "Raining Tomorrow",
+      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -899,18 +915,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
+        "name": "little miss misogyny",
+        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
       },
       "artists": [
         {
-          "name": "FiFi Zhang",
-          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
         }
       ],
-      "duration_ms": 182828,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
+      "duration_ms": 147205,
+      "name": "little miss misogyny",
+      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -943,22 +959,6 @@
       "duration_ms": 172198,
       "name": "911",
       "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "little miss misogyny",
-        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
-      },
-      "artists": [
-        {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
-        }
-      ],
-      "duration_ms": 147205,
-      "name": "little miss misogyny",
-      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "I Keep My Feet on the Fragile Plane",
-        "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
-      },
-      "artists": [
-        {
-          "name": "Allegra Krieger",
-          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
-        }
-      ],
-      "duration_ms": 125199,
-      "name": "Making Sense Of",
-      "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "She's Got Wings",
         "url": "https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 206732,
       "name": "She's Got Wings",
       "url": "https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "I Keep My Feet on the Fragile Plane",
+        "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "duration_ms": 125199,
+      "name": "Making Sense Of",
+      "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1227,22 +1227,6 @@
       "duration_ms": 139354,
       "name": "let me go*",
       "url": "https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "When i'm blue",
-        "url": "https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC"
-      },
-      "artists": [
-        {
-          "name": "Noah Pope",
-          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "When i'm blue",
-      "url": "https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "When i'm blue",
+        "url": "https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "When i'm blue",
+      "url": "https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Funny Black Lines",
         "url": "https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N"
       },
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "Once Upon The End",
+        "url": "https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ"
+      },
+      "artists": [
+        {
+          "name": "mindfreakk!",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "Once Upon The End",
+      "url": "https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "blue dream",
         "url": "https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 188963,
       "name": "blue dream",
       "url": "https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "Once Upon The End",
-        "url": "https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ"
-      },
-      "artists": [
-        {
-          "name": "mindfreakk!",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "Once Upon The End",
-      "url": "https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w"
-      },
-      "artists": [
-        {
-          "name": "Leah Mason",
-          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
-        }
-      ],
-      "duration_ms": 210315,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Criteria",
         "url": "https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 142500,
       "name": "More In Love (with Grady)",
       "url": "https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w"
+      },
+      "artists": [
+        {
+          "name": "Leah Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "duration_ms": 210315,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
     },
     {
       "added_at": "2024-01-10 16:06:35",

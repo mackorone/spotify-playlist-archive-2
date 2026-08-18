@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 
 > This is Elmiene\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,828 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,843 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 16 | [I Want In](https://open.spotify.com/track/58OYkYalN6lTulISeBYz64) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:06 |
 | 17 | [Light By The Window](https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:54 |
 | 18 | [Different Too](https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:45 |
-| 19 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 |
-| 20 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |
+| 19 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |
+| 20 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 |
 | 21 | [Special](https://open.spotify.com/track/0WAFfVSUu7ynXpg8zM5aUw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 2:49 |
 | 22 | [Dull Jewellery](https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:24 |
-| 23 | [Avalon](https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 2:47 |
-| 24 | [Pool \(feat\. Elmiene\)](https://open.spotify.com/track/0csHRGsK3gKsERufowurNK) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 4:34 |
+| 23 | [Pool \(feat\. Elmiene\)](https://open.spotify.com/track/0csHRGsK3gKsERufowurNK) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 4:34 |
+| 24 | [Avalon](https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 2:47 |
 | 25 | [Time Doesn’t Heal](https://open.spotify.com/track/0QSXeOV9rQEU00Itu2RI0F) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 2:45 |
 | 26 | [Give Me A Smile](https://open.spotify.com/track/1r9wRselEkfiKoN8tpzOGl) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:57 |
 | 27 | [TLC](https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 49 | [Remember](https://open.spotify.com/track/4L2xiqRQ5IKQoIwn3XaVkr) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time \(Again\)](https://open.spotify.com/album/4iJJ7qtR7T8v0CarMWIM04) | 3:55 |
 | 50 | [Insecure \- Live From Brussels](https://open.spotify.com/track/5Xh9Nc74EfH17kcbgAW4hS) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Live From Brussels](https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU) | 1:04 |
 
-Snapshot ID: `an+sAAAAAAChOyaED25/y1DHzK4izwZU`
+Snapshot ID: `aoD9gAAAAABquMFNDAOrTXTWgwng9PRA`

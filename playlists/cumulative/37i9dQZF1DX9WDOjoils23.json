@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-18",
       "duration_ms": 225454,
       "name": "Kaaga",
       "url": "https://open.spotify.com/track/3ugd8mBNtw0naDSaLrBRMA"
@@ -1530,6 +1530,28 @@
       "duration_ms": 197506,
       "name": "Neendar Nain Aawndi",
       "url": "https://open.spotify.com/track/2rlxA33dXhCL6XGBYMz0Ce"
+    },
+    {
+      "album": {
+        "name": "Ni Mein Kamli Aa",
+        "url": "https://open.spotify.com/album/7B5kb2fzlv7yt75I0x0NEv"
+      },
+      "artists": [
+        {
+          "name": "Monika Athwal",
+          "url": "https://open.spotify.com/artist/1JaJczN5yy3Bv1Hjct1iyZ"
+        },
+        {
+          "name": "MR Music",
+          "url": "https://open.spotify.com/artist/3HitoCKdWKqWjvZeiH2a6D"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342047,
+      "name": "Ni Mein Kamli Aa",
+      "url": "https://open.spotify.com/track/0Iwrvl0JoQj2JbAgdwwHjc"
     },
     {
       "album": {

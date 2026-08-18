@@ -4,7 +4,7 @@
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Saske
 
-608 songs - 1 day 5 hr 57 min
+609 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [BLAH BLAH](https://open.spotify.com/track/1p9wQ8QRSnY4i6jfSBapr9) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [skinny](https://open.spotify.com/artist/0GjmHecf3cA6aWnPalC7RK) | [BLAH BLAH](https://open.spotify.com/album/1KbcwiM66id7Kj3e6IzKkA) | 2:06 | 2025-03-03 | 2025-04-15 |
 | [BLICK](https://open.spotify.com/track/4JYT4c4OfnTHo3M1DiTtxV) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [BLICK](https://open.spotify.com/album/7nHSZtgR01S2lAbMbhxJKQ) | 1:34 | 2024-12-09 | 2025-01-08 |
 | [BLOUZAKI](https://open.spotify.com/track/7eVEcqGwyn59jK1hBaFhgP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:36 | 2025-05-05 | 2025-06-24 |
+| [BLUE CURACAO](https://open.spotify.com/track/5tLBF4O1yatzdf8lQeQibM) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [BLUE CURACAO](https://open.spotify.com/album/4jntlpAqQrzRmhjfUMK4zr) | 2:32 | 2026-08-17 |  |
 | [Bobby Shmurda](https://open.spotify.com/track/4FFAXCGTM7rzFrmFqsOh0d) | [Merko](https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [Bobby Shmurda](https://open.spotify.com/album/11JZbK67w7sT7Zph8C0yGh) | 2:17 | 2026-05-25 | 2026-06-16 |
 | [Bonnie](https://open.spotify.com/track/4Mt52gHMDFcLKplLU4NKaW) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [TOPBOY 2](https://open.spotify.com/album/1vAde1dIOlmEuT2UqK2EyK) | 2:38 | 2024-07-01 | 2024-11-26 |
 | [Book of ra](https://open.spotify.com/track/5PuO3krQlVdYAblwsbbq4m) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [Book of ra](https://open.spotify.com/album/71jzzXA6TSrL5b1WTJS7JT) | 1:52 | 2024-10-07 | 2025-02-18 |

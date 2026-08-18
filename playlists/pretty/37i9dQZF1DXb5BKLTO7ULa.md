@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Phoebe Bridgers, Ronnie Flex & Lil Kleine, Ayra Starr, jet van der steen, Mart Hoogkamer en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,598 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,581 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Nooit Meer Naar Huis](https://open.spotify.com/track/5p90MVgmvNxdBO8ee6go0C) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Nooit Meer Naar Huis](https://open.spotify.com/album/2z017nOurvFcRYA3mAfRDI) | 2:28 |
 | 100 | [Clock That](https://open.spotify.com/track/3Ddo6adYSW9uPTW56whicS) | [Goldy](https://open.spotify.com/artist/7v822kZ5QbethHUnJAFkSA) | [Clock That](https://open.spotify.com/album/2gzyNSmcJSTDTOytnj8bns) | 2:15 |
 
-Snapshot ID: `AAAAAHzgI1uNc9P+1Cl4vu+zvVVEw2fa`
+Snapshot ID: `AAAAAI8ypKw4Q16xACiDFodgYpmBBd8Z`

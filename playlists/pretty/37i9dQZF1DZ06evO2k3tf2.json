@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1448341,
+  "num_followers": 1448440,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAABF2BKKY3estuAwBWXFH2+O",
+  "snapshot_id": "aoD9gAAAAAAPX+uDs67qjAA6FhfYJfXb",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 216758,
-      "name": "The Outside",
-      "url": "https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 163880,
       "name": "House of Gold",
       "url": "https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 216758,
+      "name": "The Outside",
+      "url": "https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140763,
+  "num_followers": 140754,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,18 @@
     {
       "added_at": "2026-08-16 20:03:54",
       "album": {
-        "name": "Brain Drain",
-        "url": "https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 209106,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei"
+      "duration_ms": 189213,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0ThaVtdQ5zuAYLjvoT342v"
     },
     {
       "added_at": "2026-08-16 20:03:54",
@@ -251,18 +251,18 @@
     {
       "added_at": "2026-08-16 20:03:54",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "Brain Drain",
+        "url": "https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 189213,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0ThaVtdQ5zuAYLjvoT342v"
+      "duration_ms": 209106,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei"
     },
     {
       "added_at": "2026-08-16 20:03:54",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-08-16 20:03:54",
       "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 215320,
-      "name": "Burn The Witch",
-      "url": "https://open.spotify.com/track/1i7DbKzPcWERPNFa48NwwB"
-    },
-    {
-      "added_at": "2026-08-16 20:03:54",
-      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 228893,
       "name": "The Chills",
       "url": "https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP"
+    },
+    {
+      "added_at": "2026-08-16 20:03:54",
+      "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 215320,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/1i7DbKzPcWERPNFa48NwwB"
     },
     {
       "added_at": "2026-08-16 20:03:54",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-08-16 20:03:54",
       "album": {
-        "name": "Friendly Fires",
-        "url": "https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Skeleton Boy",
-      "url": "https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa"
-    },
-    {
-      "added_at": "2026-08-16 20:03:54",
-      "album": {
         "name": "Noise Floor (Rarities: 1998-2005)",
         "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 183240,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
+    },
+    {
+      "added_at": "2026-08-16 20:03:54",
+      "album": {
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Skeleton Boy",
+      "url": "https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa"
     },
     {
       "added_at": "2026-08-16 20:03:54",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-08-16 20:03:54",
       "album": {
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+    },
+    {
+      "added_at": "2026-08-16 20:03:54",
+      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 192780,
       "name": "head, shoulders, knees and ankles",
       "url": "https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg"
-    },
-    {
-      "added_at": "2026-08-16 20:03:54",
-      "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2026-08-16 20:03:54",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-08-16 20:03:54",
       "album": {
-        "name": "Vampyr",
-        "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 246292,
-      "name": "Vampyr",
-      "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
-    },
-    {
-      "added_at": "2026-08-16 20:03:54",
-      "album": {
         "name": "Skeleton Song",
         "url": "https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 162127,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB"
+    },
+    {
+      "added_at": "2026-08-16 20:03:54",
+      "album": {
+        "name": "Vampyr",
+        "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 246292,
+      "name": "Vampyr",
+      "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
     },
     {
       "added_at": "2026-08-16 20:03:54",

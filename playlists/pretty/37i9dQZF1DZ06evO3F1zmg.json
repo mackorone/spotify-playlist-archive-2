@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAACOzGRkwsf77ksbcfkdw3gS",
+  "snapshot_id": "aoD9gAAAAACscwwaY7DpnzP1DAOvr4P3",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+        "name": "You Come First (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 152241,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+      "duration_ms": 191254,
+      "name": "You Come First (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Come First (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
       "artists": [
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 191254,
-      "name": "You Come First (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
+      "duration_ms": 152241,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
     },
     {
       "added_at": null,

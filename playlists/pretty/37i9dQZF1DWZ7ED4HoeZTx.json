@@ -1,6 +1,6 @@
 {
   "description": "Your chill anime soundtrack. Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 173768,
+  "num_followers": 173800,
   "original_name": "After School Vibes",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-07-28 15:00:55",
       "album": {
-        "name": "1991",
-        "url": "https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 227391,
-      "name": "1991",
-      "url": "https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw"
-    },
-    {
-      "added_at": "2026-07-28 15:00:55",
-      "album": {
         "name": "Debussy: Clair De Lune and Other Piano Favourites",
         "url": "https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 268000,
       "name": "Clair de Lune, L. 32",
       "url": "https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL"
+    },
+    {
+      "added_at": "2026-07-28 15:00:55",
+      "album": {
+        "name": "1991",
+        "url": "https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 227391,
+      "name": "1991",
+      "url": "https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw"
     },
     {
       "added_at": "2026-07-28 15:00:55",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-07-28 15:00:55",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
-    },
-    {
-      "added_at": "2026-07-28 15:00:55",
-      "album": {
         "name": "\u8679",
         "url": "https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 258733,
       "name": "\u8679",
       "url": "https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS"
+    },
+    {
+      "added_at": "2026-07-28 15:00:55",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2026-07-28 15:00:55",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-07-28 15:00:55",
       "album": {
-        "name": "Pre: Prema",
-        "url": "https://open.spotify.com/album/1aslkAwn7kQ4HC9EkHTfaH"
+        "name": "\u604b\u604b\u98a8\u6b4c",
+        "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Tsuji Ayano",
+          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
         }
       ],
-      "duration_ms": 202052,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT"
+      "duration_ms": 276600,
+      "name": "\u98a8\u306b\u306a\u308b",
+      "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
     }
   ],
   "unique_name": "After School Vibes",

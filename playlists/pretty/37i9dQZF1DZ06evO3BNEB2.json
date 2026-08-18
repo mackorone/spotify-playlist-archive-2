@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40877,
+  "num_followers": 40886,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "an+sAAAAAADf1cGNRwNiIqPEQmCd2koG",
+  "snapshot_id": "aoD9gAAAAACP8hHq2vADiRKQlZK9TZgQ",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambition",
-        "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
       "artists": [
         {
@@ -332,17 +332,13 @@
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 302546,
-      "name": "Ambition (feat. Meek Mill & Rick Ross)",
-      "url": "https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB"
+      "duration_ms": 395950,
+      "name": "The Matrimony (feat. Usher)",
+      "url": "https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k"
     },
     {
       "added_at": null,
@@ -363,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+        "name": "Ambition",
+        "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
       },
       "artists": [
         {
@@ -372,13 +368,17 @@
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 395950,
-      "name": "The Matrimony (feat. Usher)",
-      "url": "https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k"
+      "duration_ms": 302546,
+      "name": "Ambition (feat. Meek Mill & Rick Ross)",
+      "url": "https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB"
     },
     {
       "added_at": null,

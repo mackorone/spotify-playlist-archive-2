@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,483 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,487 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 13 | [Hay Que Prender](https://open.spotify.com/track/5XFx9B2jKBSIg3GlBRaOim) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Hay Que Prender](https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH) | 3:40 |
 | 14 | [y no te miento](https://open.spotify.com/track/3mer2l825Fv6IezdNOjopX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [y no te miento](https://open.spotify.com/album/5rHOyE890GcyjHvICeSvyu) | 3:03 |
 | 15 | [ME PORTO BONITO](https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [ME PORTO BONITO](https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN) | 3:02 |
-| 16 | [A La Orden](https://open.spotify.com/track/2eLAc8i3esZ0DKdYQskdoh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [A La Orden](https://open.spotify.com/album/2v0QOuJ6j0TdN5bxLBlxkN) | 2:19 |
-| 17 | [M3](https://open.spotify.com/track/4kRIAI3nKxGmbMycNohxPN) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [M3](https://open.spotify.com/album/1pODbLM3fXZejCgJfwLZ6T) | 2:14 |
+| 16 | [M3](https://open.spotify.com/track/4kRIAI3nKxGmbMycNohxPN) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [M3](https://open.spotify.com/album/1pODbLM3fXZejCgJfwLZ6T) | 2:14 |
+| 17 | [A La Orden](https://open.spotify.com/track/2eLAc8i3esZ0DKdYQskdoh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [A La Orden](https://open.spotify.com/album/2v0QOuJ6j0TdN5bxLBlxkN) | 2:19 |
 | 18 | [Black Jack](https://open.spotify.com/track/2hkAZ2LM0zqrnWRvb1YP8S) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:05 |
 | 19 | [El Cuadrito](https://open.spotify.com/track/75kjqC5yfd9ugvL93TF6vY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Cuadrito](https://open.spotify.com/album/19X5PMlS8A7H1cGQUQ1XJ5) | 2:46 |
 | 20 | [Pase De Pescado \(En Vivo\)](https://open.spotify.com/track/6clvlKxsgxbMsDcBK3lvQv) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [CORRIDOS CHAKALOSOS II \(En Vivo\)](https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH) | 3:20 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 34 | [Bloody Steps](https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bloody Steps](https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY) | 3:15 |
 | 35 | [Ahora Piden Paros](https://open.spotify.com/track/5QfjZFXqcHkIFPPh1gevNI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/5rKEVR1pa9iVTLIGQaTosD) | 2:19 |
 | 36 | [130](https://open.spotify.com/track/4xcXkTpCv3rcD3LVPnPdX4) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [130](https://open.spotify.com/album/5DDZQEz6e4efFscgAiocQe) | 3:03 |
-| 37 | [Todo Gracias Al Señor](https://open.spotify.com/track/5uVPqmFDUeveJ1bQFtWTyY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Todo Gracias Al Señor](https://open.spotify.com/album/7AJ5n8CY216ToSbc9MhICq) | 2:34 |
-| 38 | [Padre Nuestro](https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Padre Nuestro](https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9) | 3:28 |
+| 37 | [Padre Nuestro](https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Padre Nuestro](https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9) | 3:28 |
+| 38 | [Todo Gracias Al Señor](https://open.spotify.com/track/5uVPqmFDUeveJ1bQFtWTyY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Todo Gracias Al Señor](https://open.spotify.com/album/7AJ5n8CY216ToSbc9MhICq) | 2:34 |
 | 39 | [POR TU CULPA](https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 2:49 |
 | 40 | [Amor Que Duele](https://open.spotify.com/track/72YHWAFpp6PTXlHsJ5wocb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bendecido](https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21) | 3:10 |
 | 41 | [Rose Coke](https://open.spotify.com/track/7MXVUKspl6iGnEgwaY0FyP) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Rose Coke](https://open.spotify.com/album/1fgEgY5hJmMt6wxrSqjTII) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 49 | [Son 4 Rifando](https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Son 4 Rifando](https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh) | 2:19 |
 | 50 | [Muchos Se Burlaron](https://open.spotify.com/track/0pV7q3SQa4c8C7etLHntxF) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bendecido](https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21) | 2:59 |
 
-Snapshot ID: `an+sAAAAAADSFQMD/FPgMgs5PZdyTrE/`
+Snapshot ID: `aoD9gAAAAADzlSNgAly5cG03+oJ+Y4u/`

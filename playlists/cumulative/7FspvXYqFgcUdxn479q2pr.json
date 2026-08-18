@@ -14969,6 +14969,24 @@
     },
     {
       "album": {
+        "name": "Melissa I'm Outside",
+        "url": "https://open.spotify.com/album/0bsP0GO3yUob8RNpfOeTXr"
+      },
+      "artists": [
+        {
+          "name": "Jay Baptiste",
+          "url": "https://open.spotify.com/artist/71RgT2mhLUY2lxk8GF9YnU"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137166,
+      "name": "Melissa I'm Outside",
+      "url": "https://open.spotify.com/track/4IZm4diq6J9CN1Gk5wtROB"
+    },
+    {
+      "album": {
         "name": "MF Mosh Pit",
         "url": "https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk"
       },

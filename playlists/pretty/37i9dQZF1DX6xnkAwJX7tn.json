@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1980s.",
-  "num_followers": 1459531,
+  "num_followers": 1459786,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 363400,
-      "name": "Wanna Be Startin' Somethin'",
-      "url": "https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 243773,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 363400,
+      "name": "Wanna Be Startin' Somethin'",
+      "url": "https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 257766,
-      "name": "Smooth Criminal - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 257766,
+      "name": "Smooth Criminal - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 252853,
       "name": "Super Trouper",
       "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "I Don't Speak The Language",
-        "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
-      },
-      "artists": [
-        {
-          "name": "Matthew Wilder",
-          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "Break My Stride",
-      "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 236920,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "I Don't Speak The Language",
+        "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
+      },
+      "artists": [
+        {
+          "name": "Matthew Wilder",
+          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "Break My Stride",
+      "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230269,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 205466,
       "name": "Super Freak",
       "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230269,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Bananarama (Collector's Edition)",
-        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 215326,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Gipsy Kings",
         "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 203333,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Bananarama (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 215326,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Heart Of Stone",
-        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239826,
-      "name": "If I Could Turn Back Time",
-      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 258317,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Heart Of Stone",
+        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "If I Could Turn Back Time",
+      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 215040,
       "name": "Pump Up The Jam - Edit",
       "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Body Wishes",
+        "url": "https://open.spotify.com/album/065Q5LxNZPSjmqcZmGeRGc"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Baby Jane - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 244720,
       "name": "Blue Monday '88",
       "url": "https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Body Wishes",
-        "url": "https://open.spotify.com/album/065Q5LxNZPSjmqcZmGeRGc"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Baby Jane - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1447,22 +1447,6 @@
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Dirty Cash (Money Talks)",
         "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
       },
@@ -1603,22 +1603,6 @@
       "duration_ms": 243133,
       "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
       "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Around the World in a Day",
-        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Raspberry Beret",
-      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1639,6 +1623,22 @@
       "duration_ms": 363640,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Running In The Family",
-        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
-      },
-      "artists": [
-        {
-          "name": "Level 42",
-          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "Lessons In Love",
-      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Running In The Family",
+        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "Lessons In Love",
+      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
@@ -1723,22 +1723,6 @@
       "duration_ms": 272147,
       "name": "Ride on Time",
       "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "A View to a Kill",
-      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1775,6 +1759,54 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Ladies' Night",
+        "url": "https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 385506,
+      "name": "Ladies Night",
+      "url": "https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 355066,
+      "name": "True Faith",
+      "url": "https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Rhythm Of The Night",
         "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
       },
@@ -1807,34 +1839,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+        "name": "So (Remastered)",
+        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
       },
       "artists": [
         {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 355066,
-      "name": "True Faith",
-      "url": "https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Ladies' Night",
-        "url": "https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 385506,
-      "name": "Ladies Night",
-      "url": "https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa"
+      "duration_ms": 313533,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1851,22 +1867,6 @@
       "duration_ms": 291586,
       "name": "Something Happened on the Way to Heaven - 2016 Remaster",
       "url": "https://open.spotify.com/track/4ziqqoW1o3P5EhNqK6CPb1"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "So (Remastered)",
-        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 313533,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1923,38 +1923,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Hot, Cool & Vicious",
         "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
       },
@@ -1971,50 +1939,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "How Could It Be",
-        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
       "artists": [
         {
-          "name": "Eddie Murphy",
-          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Party All the Time",
-      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
-      },
-      "artists": [
-        {
-          "name": "Ottawan",
-          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Hands Up - Single Version",
-      "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
+      "duration_ms": 204386,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2035,34 +1971,66 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Word Up",
-        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
       },
       "artists": [
         {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Word Up",
-      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Mike Oldfield Collection",
-        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
+        "name": "How Could It Be",
+        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
       },
       "artists": [
         {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+          "name": "Eddie Murphy",
+          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
         }
       ],
-      "duration_ms": 218186,
-      "name": "Moonlight Shadow",
-      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
+      "duration_ms": 253293,
+      "name": "Party All the Time",
+      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
+      },
+      "artists": [
+        {
+          "name": "Ottawan",
+          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Hands Up - Single Version",
+      "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2083,18 +2051,34 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+      "duration_ms": 218186,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+      },
+      "artists": [
+        {
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2163,34 +2147,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 244773,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "The Lexicon Of Love",
-        "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
-      },
-      "artists": [
-        {
-          "name": "ABC",
-          "url": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "The Look Of Love, Pt.1",
-      "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2211,6 +2179,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "The Lexicon Of Love",
+        "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
+      },
+      "artists": [
+        {
+          "name": "ABC",
+          "url": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "The Look Of Love, Pt.1",
+      "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "She Works Hard For The Money",
         "url": "https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 320840,
       "name": "She Works Hard For The Money",
       "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Very Best of Billy Ocean",
-        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Get Outta My Dreams, Get Into My Car",
-      "url": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 370426,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "The Very Best of Billy Ocean",
+        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Get Outta My Dreams, Get Into My Car",
+      "url": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2323,6 +2323,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Girl You Know It's True - The Best Of Milli Vanilli",
+        "url": "https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Girl You Know It's True",
+      "url": "https://open.spotify.com/track/0C7dYeCLF6ukChtW64UNge"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Paradise Theatre",
         "url": "https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF"
       },
@@ -2339,18 +2355,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Girl You Know It's True - The Best Of Milli Vanilli",
-        "url": "https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL"
+        "name": "Conscience",
+        "url": "https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W"
       },
       "artists": [
         {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+          "name": "Womack & Womack",
+          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
         }
       ],
-      "duration_ms": 198573,
-      "name": "Girl You Know It's True",
-      "url": "https://open.spotify.com/track/0C7dYeCLF6ukChtW64UNge"
+      "duration_ms": 303666,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2419,34 +2435,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Conscience",
-        "url": "https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W"
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
       },
       "artists": [
         {
-          "name": "Womack & Womack",
-          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 303666,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Triumph",
-        "url": "https://open.spotify.com/album/5YhOA7OGN6xFPwQznkfe69"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 359909,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/0RAiBUgOC5pgFUHsldtix3"
+      "duration_ms": 379266,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
     }
   ],
   "unique_name": "80s Party",

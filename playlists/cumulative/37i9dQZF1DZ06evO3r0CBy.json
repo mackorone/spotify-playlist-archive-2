@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Nova Era Best of 100 M\u00fasicas",
+        "url": "https://open.spotify.com/album/7L2PwjozCp34dOj5xQJiWx"
+      },
+      "artists": [
+        {
+          "name": "Magan",
+          "url": "https://open.spotify.com/artist/0l3zBG99MlGD6ZAdKAwF6x"
+        },
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Bora Bora",
+      "url": "https://open.spotify.com/track/3GNo7A9Voonfk9AgVFYPsK"
+    },
+    {
+      "album": {
         "name": "Searching For Sugar Man (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1"
       },

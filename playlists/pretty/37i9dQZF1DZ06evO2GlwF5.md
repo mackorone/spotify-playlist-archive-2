@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,880 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,881 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 | 23 | [逆光\-unplugged session\-](https://open.spotify.com/track/6YIHCnUw8Uds0cWqhqMnnU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [『Fate/Grand Order』主題歌ベストアルバム　余韻](https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs) | 5:41 |
 | 24 | [風待ちジェット](https://open.spotify.com/track/6elfYXeja90gz3lK3uvz4p) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [風待ちジェット　／　スピカ](https://open.spotify.com/album/3utevH6XoZFSjyurc7lPFT) | 3:51 |
 | 25 | [あなたを保つもの](https://open.spotify.com/track/4lG7PjB4Hpkil5G1xmO1yZ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 3:58 |
-| 26 | [tune the rainbow](https://open.spotify.com/track/2vBTbVowqNQEUApLooNtFz) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 5:31 |
+| 26 | [Buddy](https://open.spotify.com/track/63yhabD7LEXoY6gLoI14Z2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 4:00 |
 | 27 | [色彩\-unplugged session\-](https://open.spotify.com/track/3MenANgzUEcGIp7EXwxVZm) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [『Fate/Grand Order』主題歌ベストアルバム　余韻](https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs) | 5:40 |
-| 28 | [Buddy](https://open.spotify.com/track/63yhabD7LEXoY6gLoI14Z2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 4:00 |
+| 28 | [tune the rainbow](https://open.spotify.com/track/2vBTbVowqNQEUApLooNtFz) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 5:31 |
 | 29 | [Be mine!](https://open.spotify.com/track/7h89okKQovZ0Dw2SXGnaDW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 4:02 |
 | 30 | [指輪 \(Single Ver.\)](https://open.spotify.com/track/4LC4d4EHBSbWrFjdAQLG08) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「劇場用アニメーション　エスカフローネ」主題歌　指輪](https://open.spotify.com/album/5WCmfHEXY07CkH1QORjNX7) | 3:43 |
 | 31 | [Tell me what the rain knows](https://open.spotify.com/track/19WWtnNcvDhVrNrLH5je1Z) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 1:42 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 | 37 | [マメシバ](https://open.spotify.com/track/6k4dbuGMvdA6OqS4ndLXII) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 6:07 |
 | 38 | [Sumire](https://open.spotify.com/track/4ilIh5yaPnwgXHlq3RJ2c8) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Sumire / Kotoba ni Dekinai](https://open.spotify.com/album/4mvCZ2dM4YhKLIvoXneU21) | 3:57 |
 | 39 | [宇宙の記憶](https://open.spotify.com/track/3uaZprGpodif2hd4GPEZGA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [宇宙の記憶](https://open.spotify.com/album/4dqKz3OlI0w5ug6Gd9wI7p) | 3:15 |
-| 40 | [プラリネ](https://open.spotify.com/track/4GTw5QJiho59YpZbOWq0u2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 5:09 |
-| 41 | [カザミドリ](https://open.spotify.com/track/6LRfquScao1r6XCLyuwWVi) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:50 |
-| 42 | [CLEAR ～TVサイズ～](https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「カードキャプターさくら クリアカード編」オリジナルサウンドトラック](https://open.spotify.com/album/6U04R6FklDZ45KsVchJWMM) | 1:32 |
+| 40 | [CLEAR ～TVサイズ～](https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「カードキャプターさくら クリアカード編」オリジナルサウンドトラック](https://open.spotify.com/album/6U04R6FklDZ45KsVchJWMM) | 1:32 |
+| 41 | [プラリネ](https://open.spotify.com/track/4GTw5QJiho59YpZbOWq0u2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 5:09 |
+| 42 | [カザミドリ](https://open.spotify.com/track/6LRfquScao1r6XCLyuwWVi) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:50 |
 | 43 | [光あれ](https://open.spotify.com/track/29hVgemZ4kcZ9Mx5Iua6Ut) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 4:25 |
-| 44 | [おかえりなさい](https://open.spotify.com/track/273HQr5Q57N7aBrzVvChGi) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 5:05 |
-| 45 | [nina](https://open.spotify.com/track/6Eg8Oyxo1VWL1MW3JS8Yic) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [nina](https://open.spotify.com/album/1PopiddsH4mNWSqGql076Z) | 4:33 |
-| 46 | [DOWN TOWN](https://open.spotify.com/track/3ji08HySZKJUAPYTOeeBpC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [You can't catch me](https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr) | 3:55 |
-| 47 | [blind summer fish](https://open.spotify.com/track/5RCbiXSR2r2cw3KcPk8wQZ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 3:54 |
-| 48 | [Gift](https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション　プラス　「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:48 |
+| 44 | [DOWN TOWN](https://open.spotify.com/track/3ji08HySZKJUAPYTOeeBpC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [You can't catch me](https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr) | 3:55 |
+| 45 | [おかえりなさい](https://open.spotify.com/track/273HQr5Q57N7aBrzVvChGi) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 5:05 |
+| 46 | [nina](https://open.spotify.com/track/6Eg8Oyxo1VWL1MW3JS8Yic) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [nina](https://open.spotify.com/album/1PopiddsH4mNWSqGql076Z) | 4:33 |
+| 47 | [Gift](https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション　プラス　「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:48 |
+| 48 | [blind summer fish](https://open.spotify.com/track/5RCbiXSR2r2cw3KcPk8wQZ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 3:54 |
 | 49 | [モアザンワーズ](https://open.spotify.com/track/3cozilW7AMWosrQItKbitH) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [モアザンワーズ](https://open.spotify.com/album/1d3mhEK370MhSf8QwMjUB8) | 5:04 |
 | 50 | [Rule～色褪せない日々](https://open.spotify.com/track/5ZUn959T7v9HOXZqvUm9J7) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 5:29 |
 
-Snapshot ID: `an+sAAAAAACPEdnkvw9sn13K2ARTvYBg`
+Snapshot ID: `aoD9gAAAAAAtXgQ33hNbrc3A187G8o9O`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Cherry Chola en portada.",
-  "num_followers": 39254,
+  "num_followers": 39253,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,18 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Euforia",
-        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
       },
       "artists": [
         {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 256911,
-      "name": "Incondicional",
-      "url": "https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA"
+      "duration_ms": 180000,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -99,18 +95,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
+      "duration_ms": 256911,
+      "name": "Incondicional",
+      "url": "https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "Plan A",
+        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178202,
+      "name": "Plan A",
+      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -167,38 +183,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "T\u00fa y Yo y T\u00fa",
-        "url": "https://open.spotify.com/album/481MCPmKn2LqqRmElx0p2o"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 246073,
-      "name": "T\u00fa y Yo y T\u00fa",
-      "url": "https://open.spotify.com/track/2x8hADKmsUOZNSJPEKGFED"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Plan A",
-        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178202,
-      "name": "Plan A",
-      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Me has invitado a bailar",
         "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "T\u00fa y Yo y T\u00fa",
+        "url": "https://open.spotify.com/album/481MCPmKn2LqqRmElx0p2o"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 246073,
+      "name": "T\u00fa y Yo y T\u00fa",
+      "url": "https://open.spotify.com/track/2x8hADKmsUOZNSJPEKGFED"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Esc\u00e1pate Conmigo",
-        "url": "https://open.spotify.com/album/6xUYY9VhicvxFXES4q1MJ4"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 252079,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/5dDXf3Ev3Cj10GHJJPhrgb"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "p0rn0graf\u00eda",
         "url": "https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 218781,
       "name": "Cuarenta Mil",
       "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Esc\u00e1pate Conmigo",
+        "url": "https://open.spotify.com/album/6xUYY9VhicvxFXES4q1MJ4"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 252079,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/5dDXf3Ev3Cj10GHJJPhrgb"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -327,26 +327,6 @@
       "duration_ms": 217120,
       "name": "Veneno y Arena",
       "url": "https://open.spotify.com/track/4xRc4vzso6gm1waaBUFIoM"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 243234,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -391,6 +371,26 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 243234,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "Por Si No Te Vuelvo A Ver",
         "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
       },
@@ -419,26 +419,6 @@
       "duration_ms": 189429,
       "name": "Los Paraca\u00eddas",
       "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Nada por Hecho (feat. Leiva)",
-        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 208802,
-      "name": "Nada por Hecho (feat. Leiva)",
-      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -479,18 +459,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Llamada Perdida",
-        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
+        "name": "Nada por Hecho (feat. Leiva)",
+        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 166333,
-      "name": "Llamada Perdida",
-      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+      "duration_ms": 208802,
+      "name": "Nada por Hecho (feat. Leiva)",
+      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -511,18 +495,18 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Miel de Azar",
-        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+        "name": "Llamada Perdida",
+        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 192197,
-      "name": "Como Queremos",
-      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+      "duration_ms": 166333,
+      "name": "Llamada Perdida",
+      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -543,6 +527,38 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "CUERPOS, Vol. 1",
+        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 226181,
+      "name": "TIEMPO OFF",
+      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "Dolor y Gloria",
         "url": "https://open.spotify.com/album/4mHCYZvt90FvYNIAA1bUcL"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 192649,
       "name": "Dolor y Gloria",
       "url": "https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "CUERPOS, Vol. 1",
-        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 226181,
-      "name": "TIEMPO OFF",
-      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Pel\u00edculas De Acci\u00f3n",
-        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Pel\u00edculas De Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
         "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 226626,
       "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
       "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Pel\u00edculas De Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Pel\u00edculas De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -863,18 +863,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "MAPAS II",
-        "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
+        "name": "Perfecto Final",
+        "url": "https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx"
       },
       "artists": [
         {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 223125,
-      "name": "Sombra",
-      "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
+      "duration_ms": 206633,
+      "name": "Perfecto Final",
+      "url": "https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -915,38 +919,18 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Perfecto Final",
-        "url": "https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx"
+        "name": "MAPAS II",
+        "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
         }
       ],
-      "duration_ms": 206633,
-      "name": "Perfecto Final",
-      "url": "https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Mentiras Arriesgadas",
-        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Mentiras Arriesgadas",
-      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
+      "duration_ms": 223125,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -971,18 +955,50 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "La vida de Nadie",
-        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
+        "name": "Mentiras Arriesgadas",
+        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
       },
       "artists": [
         {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
         }
       ],
-      "duration_ms": 167943,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
+      "duration_ms": 212960,
+      "name": "Mentiras Arriesgadas",
+      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Narvarte",
+        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Prometimos",
+      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -1007,38 +1023,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Narvarte",
-        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "Prometimos",
-      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Todo est\u00e1 pasando ahora",
-        "url": "https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 228911,
-      "name": "Todo est\u00e1 pasando ahora",
-      "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -1059,18 +1043,50 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+        "name": "Todo est\u00e1 pasando ahora",
+        "url": "https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+      "duration_ms": 228911,
+      "name": "Todo est\u00e1 pasando ahora",
+      "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "La vida de Nadie",
+        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
+      },
+      "artists": [
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 167943,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -1095,46 +1111,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
-        "url": "https://open.spotify.com/album/1IlYdxr6kQ1SuzAN1xQWRf"
-      },
-      "artists": [
-        {
-          "name": "Melon Diesel",
-          "url": "https://open.spotify.com/artist/7vL2cUa3hRkdJzxxDsKHyF"
-        },
-        {
-          "name": "Gabriel De La Rosa",
-          "url": "https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX"
-        },
-        {
-          "name": "Shinova",
-          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
-        }
-      ],
-      "duration_ms": 262465,
-      "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
-      "url": "https://open.spotify.com/track/4apjmILh9SIf1jtbI36xDC"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
       },
@@ -1155,6 +1131,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 159227,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "ESO Que Nos Trajo a Abbey Road",
         "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
       },
@@ -1167,22 +1159,6 @@
       "duration_ms": 198051,
       "name": "Memoria Muscular - Desde Abbey Road",
       "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "EN LO TOTAL",
-        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        }
-      ],
-      "duration_ms": 235141,
-      "name": "EN LO TOTAL",
-      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -1207,18 +1183,42 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
+        "name": "EN LO TOTAL",
+        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
       },
       "artists": [
         {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
         }
       ],
-      "duration_ms": 159227,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
+      "duration_ms": 235141,
+      "name": "EN LO TOTAL",
+      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
+        "url": "https://open.spotify.com/album/1IlYdxr6kQ1SuzAN1xQWRf"
+      },
+      "artists": [
+        {
+          "name": "Melon Diesel",
+          "url": "https://open.spotify.com/artist/7vL2cUa3hRkdJzxxDsKHyF"
+        },
+        {
+          "name": "Gabriel De La Rosa",
+          "url": "https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX"
+        },
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+        }
+      ],
+      "duration_ms": 262465,
+      "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
+      "url": "https://open.spotify.com/track/4apjmILh9SIf1jtbI36xDC"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+        "name": "Lo Que No Quieres Saber",
+        "url": "https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
         }
       ],
-      "duration_ms": 202913,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
+      "duration_ms": 153109,
+      "name": "Lo Que No Quieres Saber",
+      "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
     }
   ],
   "unique_name": "Pop Rock Latino",

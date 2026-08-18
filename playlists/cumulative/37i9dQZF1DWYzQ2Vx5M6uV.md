@@ -4,7 +4,7 @@
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Ysa C
 
-350 songs - 17 hr 34 min
+351 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Mí](https://open.spotify.com/track/6kbzFdX9KkJpAADAqArxgW) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/4aoH9dI1blcm4xsi4KTUF5) | 3:29 | 2025-06-06 | 2026-03-07 |
 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2022-03-31 | 2023-05-26 |
 | [A POCA LUZ](https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [A POCA LUZ](https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1) | 3:14 | 2024-09-27 |  |
-| [a ti te matan las ganas](https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [a ti te matan las ganas](https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq) | 2:29 | 2025-09-05 |  |
+| [a ti te matan las ganas](https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [a ti te matan las ganas](https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq) | 2:29 | 2025-09-05 | 2026-08-18 |
 | [A Veces A Besos \- Remix](https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [A Veces A Besos \(Remix\)](https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf) | 3:36 | 2024-11-01 |  |
 | [Achachairú](https://open.spotify.com/track/7j6oBmJVXbdyUHAxXxkMLk) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Achachairú](https://open.spotify.com/album/0X81AVaN0AdhMwCZ9nryhk) | 2:20 | 2024-10-11 | 2025-06-07 |
 | [Afrobocelli](https://open.spotify.com/track/1lruhU0oqnaMeCVCoUVf06) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt) | [Afrobocelli](https://open.spotify.com/album/3fjmMdP6qPPjjckM4ykjcz) | 3:38 | 2024-03-15 | 2024-09-21 |
@@ -191,6 +191,7 @@
 | [Mimosas](https://open.spotify.com/track/0Z4mRtb8Uc8xASEhGUlUyI) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/1O9JEFTFeguhO0YBbwHsMr) | 3:05 | 2022-02-16 | 2022-07-29 |
 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 | 2022-05-12 | 2024-04-19 |
 | [Mimosas \- Remix](https://open.spotify.com/track/07grlLnIM285o7Y69mge5L) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Mimosas \(Remix\)](https://open.spotify.com/album/1xsyvauPdMlbEoqnJAAsZ9) | 4:33 | 2022-02-16 | 2024-05-07 |
+| [Miss World Body](https://open.spotify.com/track/14OBjyi6JPfSQ04q2aPOs1) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Antaeus](https://open.spotify.com/artist/12Y5bYSO6NGz0KRKsKZG3t) | [Miss World Body](https://open.spotify.com/album/2hIquStMDqTNLIA37pXVbn) | 2:59 | 2026-08-17 |  |
 | [Modelo](https://open.spotify.com/track/7Ldt4IYQBAiw8QzjYP34V6) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Modelo](https://open.spotify.com/album/1CgiQYftLXs3clJtrNrlmc) | 2:33 | 2024-12-06 | 2025-05-24 |
 | [Momento Zero](https://open.spotify.com/track/1PzmZIxr5XIvfgRA1uYBqe) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm), [Mpax](https://open.spotify.com/artist/7cjS7KNLvZGL1f39wICavK) | [Momento Zero](https://open.spotify.com/album/2cwbnZ6i3Zrjt5guhxHw6d) | 2:37 | 2025-06-06 |  |
 | [morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 | 2024-09-20 | 2025-06-07 |
